@@ -1,15 +1,57 @@
 {
- "generated_at": "2026-10-19T10:12:26Z",
+ "generated_at": "2026-10-19T12:19:20Z",
  "count": 60,
  "subreddits_ok": [
+  "LocalLLaMA",
   "MachineLearning",
-  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "MiniMax M3.1 Flash released, Model weights Oct 23",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9uzv9/minimax_m31_flash_released_model_weights_oct_23/",
+   "ts": 1792411304,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "DeepSeek V4.1 Flash at 2.61 bpw + Engram: 26 t/s on dual RTX 3090s with dsx",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9umtv/deepseek_v41_flash_at_261_bpw_engram_26_ts_on/",
+   "ts": 1792410222,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Selfhosted Databasement",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1x9uel8/selfhosted_databasement/",
+   "ts": 1792409532,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Warpgate Bastion 0.30 released with Vault/OpenBao and SSH certificate auth support",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1x9tv30/warpgate_bastion_030_released_with_vaultopenbao/",
+   "ts": 1792407805,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "llama server's default port changed from 8080 to 9931",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9tbg2/llama_servers_default_port_changed_from_8080_to/",
+   "ts": 1792405927,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "MiniMax-M3.1-Flash is coming",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9suvs/minimaxm31flash_is_coming/",
+   "ts": 1792404308,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "What if structured data didn't repeat its schema for every record?",
@@ -18,10 +60,24 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "AI labs report benchmark scores 6.4% higher than independent testers, on average",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9skrx/ai_labs_report_benchmark_scores_64_higher_than/",
+   "ts": 1792403275,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "programming",
    "title": "Postgres DELETE Can Actualy Scale",
    "url": "https://www.reddit.com/r/programming/comments/1x9se3z/postgres_delete_can_actualy_scale/",
    "ts": 1792402568,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "incoai/Qwen3.8-Flash-Next-DFlash2",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9rq3r/incoaiqwen38flashnextdflash2/",
+   "ts": 1792400102,
    "source": "Reddit"
   },
   {
@@ -68,13 +124,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "LTX 2.5 running locally on a 48GB M5 Pro MacBook Pro in TensorSharp’s Video Studio",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9p6cp/ltx_25_running_locally_on_a_48gb_m5_pro_macbook/",
-   "ts": 1792390346,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "DeepSeek-V4.1-Flash-1017 on AA & Vals index",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9owju/deepseekv41flash1017_on_aa_vals_index/",
    "ts": 1792389378,
@@ -106,13 +155,6 @@
    "title": "Arrow detection with ConvNext pretrained on DINOv3 [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9nw6a/arrow_detection_with_convnext_pretrained_on/",
    "ts": 1792385833,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9n3qv/tempopfn_synthetic_pretraining_of_linear_rnns_for/",
-   "ts": 1792383139,
    "source": "Reddit"
   },
   {
@@ -159,13 +201,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Steam Headless docker and split gpus, would love to discuss successes and failures..",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1x9ifid/steam_headless_docker_and_split_gpus_would_love/",
-   "ts": 1792368575,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "How to keep security cameras recording during a power outage?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1x9i34h/how_to_keep_security_cameras_recording_during_a/",
    "ts": 1792367638,
@@ -187,13 +222,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "Little Sweet Room Challenge | Strata Fork | Qwen 3.8 FN NVFP4 | DeepSeek Harness",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9hpb3/little_sweet_room_challenge_strata_fork_qwen_38/",
-   "ts": 1792366493,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "Google Open Sources Harness2 for Self Improving AI Agents",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9gfnb/google_open_sources_harness2_for_self_improving/",
    "ts": 1792362831,
@@ -211,13 +239,6 @@
    "title": "Conference papers are cooked! [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9fyhd/conference_papers_are_cooked_d/",
    "ts": 1792361535,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Hybrid Reasoning Agents",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9fc1x/hybrid_reasoning_agents/",
-   "ts": 1792359931,
    "source": "Reddit"
   },
   {
@@ -270,13 +291,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Embedding model can be used to search text inside image",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9acj4/embedding_model_can_be_used_to_search_text_inside/",
-   "ts": 1792347763,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Doska: open source self-hosted kanban with Markdown cards (Trello alternative with an Obsidian concept)",
    "url": "https://www.reddit.com/r/selfhosted/comments/1x99we1/doska_open_source_selfhosted_kanban_with_markdown/",
@@ -288,13 +302,6 @@
    "title": "Lidarr and slskd work great, but I am missing to discover new things. What do you use?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1x98wve/lidarr_and_slskd_work_great_but_i_am_missing_to/",
    "ts": 1792344386,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "PSA: Power limit your 5090s!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x98bby/psa_power_limit_your_5090s/",
-   "ts": 1792342953,
    "source": "Reddit"
   },
   {
@@ -323,13 +330,6 @@
    "title": "How Containers Work: Building a Docker-like Container From Scratch",
    "url": "https://www.reddit.com/r/programming/comments/1x97kbr/how_containers_work_building_a_dockerlike/",
    "ts": 1792341107,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Proof Before Reuse: showing agents only what later sessions reproduced keeps a poisoned skill out of procedural memory [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1x975ea/proof_before_reuse_showing_agents_only_what_later/",
-   "ts": 1792340099,
    "source": "Reddit"
   },
   {
@@ -375,10 +375,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Good Bye SaaS - Hello Home Lab",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1x90ktl/good_bye_saas_hello_home_lab/",
-   "ts": 1792321731,
+   "subreddit": "MachineLearning",
+   "title": "[P] asmsense: 228k stripped x86-64 functions with source-aware labels, and a map of the data we still lack. [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1x91a47/p_asmsense_228k_stripped_x8664_functions_with/",
+   "ts": 1792324161,
    "source": "Reddit"
   },
   {
