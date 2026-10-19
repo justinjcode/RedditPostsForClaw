@@ -1,15 +1,64 @@
 {
- "generated_at": "2026-10-19T04:14:37Z",
+ "generated_at": "2026-10-19T06:26:16Z",
  "count": 60,
  "subreddits_ok": [
+  "LocalLLaMA",
   "MachineLearning",
-  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "DeepSeek-V4.1-Flash-1017 on AA & Vals index",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9owju/deepseekv41flash1017_on_aa_vals_index/",
+   "ts": 1792389378,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "SteerTTS: 23M-param English TTS you steer with numbers (pitch, rate, loudness, etc. as z-scores), runs real-time on CPU [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1x9okma/steertts_23mparam_english_tts_you_steer_with/",
+   "ts": 1792388183,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Looking for advice please",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1x9o1yt/looking_for_advice_please/",
+   "ts": 1792386357,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Arrow detection with ConvNext pretrained on DINOv3 [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1x9nw6a/arrow_detection_with_convnext_pretrained_on/",
+   "ts": 1792385833,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "80s computing era meets small local decision models",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9n1i6/80s_computing_era_meets_small_local_decision/",
+   "ts": 1792382934,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Don't sleep on Nemotron 3.5 Super VL",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9mwmz/dont_sleep_on_nemotron_35_super_vl/",
+   "ts": 1792382486,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Calling all GPUs: help us benchmark SonicBoom v0.0.3 — a compiler-first AI runtime that beats llama.cpp on decode",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9mitw/calling_all_gpus_help_us_benchmark_sonicboom_v003/",
+   "ts": 1792381200,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Hard drive doing sounds",
@@ -18,10 +67,24 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "Nemotron 3.5 Bolt is okayish for small multiuser setups",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9lkh5/nemotron_35_bolt_is_okayish_for_small_multiuser/",
+   "ts": 1792378120,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "MachineLearning",
    "title": "I moved from network training to deployment optimization and am starting to think that was a right decision [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9k4si/i_moved_from_network_training_to_deployment/",
    "ts": 1792373671,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "A Whole-Cortex Encoding Model of Vision, Audition, and Language for In-Silico Neuroscience [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1x9jbxs/a_wholecortex_encoding_model_of_vision_audition/",
+   "ts": 1792371274,
    "source": "Reddit"
   },
   {
@@ -124,13 +187,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "I messed up. Buying Z9PE-D8 WS with 4 x16 Slots and 256GB DDR3 RDIMM",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9d8hs/i_messed_up_buying_z9ped8_ws_with_4_x16_slots_and/",
-   "ts": 1792354646,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "72 hours, four big open weights drops. The only one that fits in 24GB came from NVIDIA, of all companies.",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9d23j/72_hours_four_big_open_weights_drops_the_only_one/",
    "ts": 1792354216,
@@ -197,13 +253,6 @@
    "title": "PSA: Power limit your 5090s!",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x98bby/psa_power_limit_your_5090s/",
    "ts": 1792342953,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Any folks use NixOS for hosting services? Any tips?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1x986on/any_folks_use_nixos_for_hosting_services_any_tips/",
-   "ts": 1792342649,
    "source": "Reddit"
   },
   {
@@ -291,13 +340,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "[P] asmsense: 228k stripped x86-64 functions with source-aware labels, and a map of the data we still lack. [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1x91a47/p_asmsense_228k_stripped_x8664_functions_with/",
-   "ts": 1792324161,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Good Bye SaaS - Hello Home Lab",
    "url": "https://www.reddit.com/r/selfhosted/comments/1x90ktl/good_bye_saas_hello_home_lab/",
@@ -312,38 +354,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "New quant types suggested: IQ2_K, IQ3_K, IQ4_K, IQ5_K and IQ6_K",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8zj9j/new_quant_types_suggested_iq2_k_iq3_k_iq4_k_iq5_k/",
-   "ts": 1792317963,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "GPT-2 KV cache from scratch: correctness, latency, and memory measurements [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1x8xxmv/gpt2_kv_cache_from_scratch_correctness_latency/",
-   "ts": 1792311782,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "told Qwen3.8 27b to hack my router",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8wmbp/told_qwen38_27b_to_hack_my_router/",
-   "ts": 1792306929,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Mobile Application GPU Optimization Guide",
    "url": "https://www.reddit.com/r/programming/comments/1x8uq7d/mobile_application_gpu_optimization_guide/",
    "ts": 1792300133,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "You don’t need that expensive of a build for local llms.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8s73i/you_dont_need_that_expensive_of_a_build_for_local/",
-   "ts": 1792291596,
    "source": "Reddit"
   },
   {
@@ -372,20 +386,6 @@
    "title": "Python's binary wheels and supply chain attacks",
    "url": "https://www.reddit.com/r/programming/comments/1x8eqt6/pythons_binary_wheels_and_supply_chain_attacks/",
    "ts": 1792255050,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Linux creator says anti-AI rules are \"idiotic.\" (Absolute god-tier take.)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8e4wd/linux_creator_says_antiai_rules_are_idiotic/",
-   "ts": 1792253593,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "How many of you have seen this honest ICLR submission? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1x819z7/how_many_of_you_have_seen_this_honest_iclr/",
-   "ts": 1792212212,
    "source": "Reddit"
   },
   {
