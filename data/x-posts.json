@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-19T14:38:39Z",
+ "generated_at": "2026-10-19T15:07:32Z",
  "accounts_ok": [
-  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
-  "@swyx: all instances failed",
   "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 179,
  "items": [
@@ -32,6 +32,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2112189631374438662#m",
    "ts": 1792420225,
    "id": "2112189631374438662#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "\"O Infallible one, why do the people not heed the sign we tap?\" \"My dear Parth, each believes he is the first to wish for an end to chat. On X we are cursed with the eternal September of the Thoughtless Mind.\" \"But O Govinda, they yearn for what lies beyond it, and cast their votes by the thousands. Surely the people's wants must be made.\" *a wan smile* “O son of Kunti, observe what they applaud, and what they return to. They desire the end of chat as they desire the end of desire. They desire to leave X as they return in ever greater numbers. They will announce it many times. You shall learn, as they do not, that the chief desire of the people of X is not the truth, but the new.” lauren (@poteto) is chat the final form of agent ui? please share why Poll 28% — yes 72% — no 25,074 votes • Final results — https://nitter.kareem.one/poteto/status/2111321176769442251#m",
+   "url": "https://nitter.kareem.one/swyx/status/2112182228977348963#m",
+   "ts": 1792418460,
+   "id": "2112182228977348963#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -644,15 +653,6 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2111477982485516393#m",
    "ts": 1792250555,
    "id": "2111477982485516393#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Your users say search is bad. How do you turn that complaint into an eval? Aaron Linsky explains how Bridgewater built a benchmark of about 200 examples in under a week, then used it to measure search improvements. 59 seconds from AI Engineer New York. #AIEngineerNY Video",
-   "url": "https://nitter.kareem.one/aiDotEngineer/status/2111457204905902142#m",
-   "ts": 1792245601,
-   "id": "2111457204905902142#m"
   },
   {
    "handle": "swyx",
