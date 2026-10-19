@@ -1,19 +1,38 @@
 {
- "generated_at": "2026-10-19T16:06:00Z",
+ "generated_at": "2026-10-19T16:40:03Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "TheRundownAI",
-  "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok @Bot might turn out to be your favorite employee Brian Roemmele (@BrianRoemmele) Once You Really Grok Bot, You Never Go Back To Non-Grok Bot Once you use Grok Bot enough, it is very difficult to go back to an old chat window with an AI that can’t get things done. It is a brain with no virtual hands. The symbiosis you develop with Bot is quite profound as it remembers long term goals in a much more complex way to actually not only get answers but to actually get the work done you needed the answer for. In almost all cases Bot understands what you are doing and doesn’t just tell you how to do it. Bot offers to do all the steps to get the work done. But that isn’t the entire magic, understanding your goals enough Bot will expand what you are doing to levels you have not thought of and possess the abilities to get it all done. We thought the computer era started with the mainframe computer at one time. But it really started when anyone had that super computer in their pocket. Grok Bot is that same step change, you get Super Intelligence in your pocket so useful, the very device, OS and apps you once used matters no more… It’s just you Grok Bot and the work you toiled over getting done by one of the best employees you will ever hire. It’s that simple. — https://nitter.kareem.one/BrianRoemmele/status/2112105956603769033#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2112219181500281276#m",
+   "ts": 1792427270,
+   "id": "2112219181500281276#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Talarico hates Texas KanekoaTheGreat (@KanekoaTheGreat) Early voting starts today in Texas. James Talarico, in his own words: On police: “It's always rich to me that defund the police is considered off limits...” On guns: Assault weapons ban? “Absolutely.” On ICE: “Tear down this secret police force.” On prison: “Prison is violence.” “People don't belong in cages.” Send this to a Texas voter. Video — https://nitter.kareem.one/KanekoaTheGreat/status/2112197183986663711#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2112217914673959115#m",
+   "ts": 1792426968,
+   "id": "2112217914673959115#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -535,24 +554,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2111566005684289735#m",
    "ts": 1792271541,
    "id": "2111566005684289735#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon says connecting Grok Bot to your X DMs is the best way to use it and it shipped in the same update that made it 3x FASTER the part crypto people should care about: > Robinhood, Coinbase and eToro connectors just went live > it reads your X Chat, so deal DMs and collab offers get sorted for you > tag @bot under any post to dig into a project before you ape > email aliases: one routine per inbox, launches in one, invoices in another My read: speed gets the headline, but the connectors are why I'm keeping it on all day Video ＺＥＦＩ (@zefirium) 🚨 Grok Bot just got 3x faster, and that's the least useful part of the update what actually changed: > computer tasks finish 3x sooner on average, other replies in less than half the time > tag @bot under any post on X and it gets to work > it reads your X Chat now, connect X and let it work your DMs > email plus aliases, so a routine can fire only on mail sent to one address > new connectors: Robinhood, Coinbase, Trello, PostHog, beehiiv, eToro > voice calls remember past conversations better > notifications only go to the device you're using try these first: > give newsletters their own plus alias and one routine that reads only that > connect X and ask it to sort your DM requests > drop it under a long thread and ask for the 3 points that matter Video — https://nitter.kareem.one/zefirium/status/2111526815218974803#m",
-   "url": "https://nitter.kareem.one/0x_kaize/status/2111528527078326732#m",
-   "ts": 1792262605,
-   "id": "2111528527078326732#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "They took out the iconic Hermès Store in Marseilles 😳",
-   "url": "https://nitter.kareem.one/liz_churchill10/status/2111525848310521868#m",
-   "ts": 1792261967,
-   "id": "2111525848310521868#m"
   },
   {
    "handle": "realDonaldTrump",
