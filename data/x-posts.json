@@ -1,9 +1,7 @@
 {
- "generated_at": "2026-10-19T07:11:59Z",
+ "generated_at": "2026-10-19T07:22:24Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +9,30 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Important America (@america) Early Voting Starts in Texas tomorrow Make your plan to Vote in the midterms: -Get voter registration information. -Find where you can vote. -Get election reminders. votesafe.org/ Link VOTE SAFE | Home We provide you with the information you need to vote with confidence. Sign up for election reminders and get help with voter registration and voting by mail. votesafe.org — https://nitter.kareem.one/america/status/2112010856816894116#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2112080134778069414#m",
+   "ts": 1792394119,
+   "id": "2112080134778069414#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Mace Windu fell out of a window by Lil Vader 😂 (AI Ruins Everything) Video",
+   "url": "https://nitter.kareem.one/elonmusk/status/2112080069732479400#m",
+   "ts": 1792394103,
+   "id": "2112080069732479400#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -222,6 +241,15 @@
    "id": "2111952970565013743#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": ". @TheEconomist looked terrible when this interview was released. They look even worse now as France burns. Video",
+   "url": "https://nitter.kareem.one/RitaPanahi/status/2111952776410370071#m",
+   "ts": 1792363754,
+   "id": "2111952776410370071#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -330,24 +358,6 @@
    "id": "2111867437238853726#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "True, even SpaceX’s competitor’s FUTURE plans are behind Starship 🤣🤣 James Cat (@TSLAFanMtl) Ok so yeah... $SPCX has no competition. None. And that's today, before Starship becomes their mainstream rocket. Starship widens the moat *considerably* more. The competition is so far behind, they may as well be on another planet. Even the competitor's future plans are behind! — https://nitter.kareem.one/TSLAFanMtl/status/2111673766774259719#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2111865541472190881#m",
-   "ts": 1792342956,
-   "id": "2111865541472190881#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Talarico hates Texas KanekoaTheGreat (@KanekoaTheGreat) James Talarico, in his own words: \"God is non-binary.\" \"In fact, there are six\" biological sexes. What he calls women: \"neighbors with a uterus.\" Parents who deny a child's gender identity: \"abusive for sure.\" Early voting starts tomorrow, Texas. Video — https://nitter.kareem.one/KanekoaTheGreat/status/2111856505977016757#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2111864930815402428#m",
-   "ts": 1792342810,
-   "id": "2111864930815402428#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -355,15 +365,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2111849858374177222#m",
    "ts": 1792339217,
    "id": "2111849858374177222#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I have my banking connected to @bot . It was a seamless process to connect and it now audits my credit card, tracks refunds and returns, and alerts me when the bill is due. My favorite is when bot tells me a trial period moves into a full price subscription. The future is now. Melvin Vivas (@melvindvivas) We’ll probably be able to add credit cards to Grok Bot in the future Will you add one? — https://nitter.kareem.one/melvindvivas/status/2111784263591084433#m",
-   "url": "https://nitter.kareem.one/KatieMiller/status/2111844205714673717#m",
-   "ts": 1792337869,
-   "id": "2111844205714673717#m"
   },
   {
    "handle": "elonmusk",
