@@ -1,15 +1,36 @@
 {
- "generated_at": "2026-10-19T08:21:10Z",
+ "generated_at": "2026-10-19T10:12:26Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
+  "MachineLearning",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "What if structured data didn't repeat its schema for every record?",
+   "url": "https://www.reddit.com/r/programming/comments/1x9srdm/what_if_structured_data_didnt_repeat_its_schema/",
+   "ts": 1792403976,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Postgres DELETE Can Actualy Scale",
+   "url": "https://www.reddit.com/r/programming/comments/1x9se3z/postgres_delete_can_actualy_scale/",
+   "ts": 1792402568,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Pcodec is awesome! 15% smaller and 2x faster than ClickHouse's DoubleDelta",
+   "url": "https://www.reddit.com/r/programming/comments/1x9rgpj/pcodec_is_awesome_15_smaller_and_2x_faster_than/",
+   "ts": 1792399082,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "My €1,000 used-hardware rack runs my home services, production apps and local inference",
@@ -249,13 +270,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Durable workflows without replay: freezing the VM instead of re-running the code",
-   "url": "https://www.reddit.com/r/programming/comments/1x9akv3/durable_workflows_without_replay_freezing_the_vm/",
-   "ts": 1792348323,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Embedding model can be used to search text inside image",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9acj4/embedding_model_can_be_used_to_search_text_inside/",
@@ -386,20 +400,6 @@
    "title": "What is wrong with AI writing - ICLR edition [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1x8oksb/what_is_wrong_with_ai_writing_iclr_edition_d/",
    "ts": 1792280403,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "I Traced a Postgres INSERT to Raw Bytes on Disk",
-   "url": "https://www.reddit.com/r/programming/comments/1x8gk1v/i_traced_a_postgres_insert_to_raw_bytes_on_disk/",
-   "ts": 1792259478,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Python's binary wheels and supply chain attacks",
-   "url": "https://www.reddit.com/r/programming/comments/1x8eqt6/pythons_binary_wheels_and_supply_chain_attacks/",
-   "ts": 1792255050,
    "source": "Reddit"
   },
   {
