@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-10-19T12:49:23Z",
+ "generated_at": "2026-10-19T13:08:13Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed",
   "@TheRundownAI: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "Can confirm, and it’s less about actual AI capabilities. Awkward mistakes happen but organisers decide to ignore them and prioritise cost saving & looking AI-savvy.",
+   "url": "https://nitter.kareem.one/CaiYineng/status/2112142064570003586#m",
+   "ts": 1792408884,
+   "id": "2112142064570003586#m"
+  },
   {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
@@ -1085,15 +1094,6 @@
    "url": "https://nitter.kareem.one/AbdulElSayed/status/2110391962121720101#m",
    "ts": 1791991627,
    "id": "2110391962121720101#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Iowa, Across the Pacific | \"To me, they are America\" Gary Dvorchak's childhood bedroom looked much like any other teenager's room in #Iowa , with Star Wars & Star Trek posters on the walls and model spacecraft on display. In 1985, it became the room where a young Chinese county official named #XiJinping stayed during his first visit to the #UnitedStates . In this short #documentary , I sit down with Gary to revisit the Dvorchaks' lasting bond with #China 's first family, and explore what their story reveals about the power of people-to-people ties between the world’s two largest economies. A Miao Xiaojuan Studio Film A Xinhua News Agency Production Video",
-   "url": "https://nitter.kareem.one/MiaoXiaojuan/status/2110390234311729545#m",
-   "ts": 1791991215,
-   "id": "2110390234311729545#m"
   },
   {
    "handle": "Lingling_Wei",
