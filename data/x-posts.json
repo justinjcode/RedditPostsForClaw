@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-10-19T19:34:39Z",
+ "generated_at": "2026-10-19T20:05:29Z",
  "accounts_ok": [
-  "TheRundownAI",
-  "bcherny",
   "elonmusk",
-  "realDonaldTrump"
+  "realDonaldTrump",
+  "simonw",
+  "swyx",
+  "thsottiaux"
  ],
  "errors": [
-  "@thsottiaux: all instances failed",
-  "@simonw: all instances failed",
-  "@swyx: all instances failed",
+  "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Day 15/ We're cooked OpenAI Developers (@OpenAIDevs) Here’s what we’re cooking with Codex: nitterk.kareem.one/i/broadcasts/1RKZzBELB… Link OpenAI Developers COOKED: Ep. 1 🧑‍🍳 https://nitter.kareem.one/i/broadcasts/1RKZzBELBbXKB — https://nitter.kareem.one/OpenAIDevs/status/2112242739198959913#m",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2112268918681485431#m",
+   "ts": 1792439128,
+   "id": "2112268918681485431#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -950,15 +959,6 @@
    "url": "https://nitter.kareem.one/wangzaimedia/status/2110751737258897509#m",
    "ts": 1792077404,
    "id": "2110751737258897509#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Day 11/ We've landed a series of changes and more compute to very significantly decrease the occurrence of the disruptive \"Selected model is at capacity. Please try a different model\". When it does happen, it should also eventually just continue by itself and not just block on it. Let us know if you still see it out there in the wild and we'll take a look.",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2110750421367287996#m",
-   "ts": 1792077090,
-   "id": "2110750421367287996#m"
   },
   {
    "handle": "TheRundownAI",
