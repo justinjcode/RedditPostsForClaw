@@ -29,6 +29,7 @@ jobs:
 
           SUBS = ["programming", "MachineLearning", "LocalLLaMA", "selfhosted"]
           LIMIT = 15
+          # 顺序在读取旧数据后自适应：上一轮失败的子版排最前
           UA = "newscast/1.0 (reddit digest; +https://github.com/justinjcode/RedditPostsForClaw)"
           DATA = "data/reddit.json"
 
@@ -64,30 +65,48 @@ jobs:
                               "ts": ts, "source": "Reddit"})
               return out
 
+          def parse_json(raw, sub):
+              data = json.loads(raw)
+              out = []
+              for c in data.get("data", {}).get("children", []):
+                  d = c.get("data") or {}
+                  title = " ".join((d.get("title") or "").split())
+                  permalink = d.get("permalink") or ""
+                  if not (title and permalink):
+                      continue
+                  out.append({"subreddit": sub, "title": title,
+                              "url": "https://www.reddit.com" + permalink,
+                              "ts": int(d.get("created_utc") or 0), "source": "Reddit"})
+              return out
+
           def fetch_sub(sub):
-              """www -> old -> rsshub，遇到 429 退避重试一次。"""
-              urls = [
-                  f"https://www.reddit.com/r/{sub}/.rss?limit={LIMIT}",
-                  f"https://old.reddit.com/r/{sub}/.rss?limit={LIMIT}",
-                  f"https://rsshub.app/reddit/r/{sub}",
+              """RSS 三入口 + JSON 两入口，429 退避后重试一次。"""
+              targets = [
+                  ("rss", f"https://www.reddit.com/r/{sub}/.rss?limit={LIMIT}"),
+                  ("rss", f"https://old.reddit.com/r/{sub}/.rss?limit={LIMIT}"),
+                  ("rss", f"https://rsshub.app/reddit/r/{sub}"),
+                  ("json", f"https://www.reddit.com/r/{sub}/hot.json?limit={LIMIT}&raw_json=1"),
+                  ("json", f"https://api.reddit.com/r/{sub}/hot?limit={LIMIT}&raw_json=1"),
               ]
-              for url in urls:
+              for kind, url in targets:
                   for attempt in (1, 2):
+                      host = url.split("/")[2]
                       try:
-                          items = parse(fetch(url), sub)
+                          raw = fetch(url)
+                          items = parse(raw, sub) if kind == "rss" else parse_json(raw, sub)
                           if items:
-                              print(f"OK   r/{sub} <- {url.split('/')[2]} ({len(items)} items)")
+                              print(f"OK   r/{sub} <- {host} [{kind}] ({len(items)} items)")
                               return items
-                          print(f"WARN r/{sub} <- {url.split('/')[2]}: empty")
+                          print(f"WARN r/{sub} <- {host} [{kind}]: empty")
                           break
                       except urllib.error.HTTPError as ex:
-                          print(f"HTTP {ex.code} r/{sub} <- {url.split('/')[2]} (try {attempt})")
+                          print(f"HTTP {ex.code} r/{sub} <- {host} [{kind}] (try {attempt})")
                           if ex.code == 429:
-                              time.sleep(25)
+                              time.sleep(30)
                               continue
                           break
                       except Exception as ex:
-                          print(f"FAIL r/{sub} <- {url.split('/')[2]}: {type(ex).__name__}")
+                          print(f"FAIL r/{sub} <- {host} [{kind}]: {type(ex).__name__}")
                           break
               return []
 
@@ -99,10 +118,22 @@ jobs:
           except Exception:
               pass
 
+          # 上一轮失败的子版优先抓（自愈），没有失败则按固定顺序
+          prev_errors = ""
+          try:
+              with open(DATA, encoding="utf-8") as f:
+                  prev_payload = json.load(f)
+              prev_errors = " ".join(prev_payload.get("errors") or [])
+          except Exception:
+              prev_payload = {}
+          failed_subs = [s for s in SUBS if f"r/{s}" in prev_errors]
+          order = failed_subs + [s for s in SUBS if s not in failed_subs]
+          print("Order this run:", order, "| prev failed:", failed_subs)
+
           new_items, ok_subs, errors = [], set(), []
-          for idx, sub in enumerate(SUBS):
+          for idx, sub in enumerate(order):
               if idx:
-                  time.sleep(8)          # 关键：子版之间拉开间隔，规避 429
+                  time.sleep(12)         # 关键：子版之间拉开间隔，规避 429
               items = fetch_sub(sub)
               if items:
                   new_items.extend(items)
