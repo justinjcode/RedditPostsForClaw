@@ -1,24 +1,42 @@
 {
- "generated_at": "2026-10-19T21:35:26Z",
+ "generated_at": "2026-10-19T22:05:19Z",
  "accounts_ok": [
-  "TheRundownAI",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "thsottiaux"
  ],
  "errors": [
+  "@simonw: all instances failed",
   "@swyx: all instances failed",
   "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
- "count": 179,
+ "count": 178,
  "items": [
   {
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
    "author": "@realDonaldTrump",
+   "text": "🚨 NEVADA! Early Voting, in-person, opened in the Great State of Nevada this past weekend. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT! Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Nevada, you can cast your early Vote, in-person, all the way through October 30th. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP Find your Voting Location here: swampthevoteusa.com/nevada/ Link NEVADA: MAKE A PLAN TO VOTE! Election Day in Nevada is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2112294730247627212#m",
+   "ts": 1792445282,
+   "id": "2112294730247627212#m"
+  },
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "🚨 TEXAS! Early Voting, in-person, opened in the Great State of Texas TODAY, October 19th. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT! Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Texas, you can cast your early Vote, in-person, all the way through October 30th. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP Find your Voting Location here: swampthevoteusa.com/texas/ Link TEXAS: MAKE A PLAN TO VOTE! Election Day in Texas is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2112294609980198977#m",
+   "ts": 1792445254,
+   "id": "2112294609980198977#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "A BIG THANK YOU to our legendary friend, @ElonMusk , for his incredible generosity in giving SpaceX Stock to millions of American children through TRUMP ACCOUNTS! This is exactly what was envisioned when we created TRUMP ACCOUNTS — Bringing together the GREAT PRIVATE SECTOR, Elon and so many more, to invest in our children, by far our greatest and most important asset, and give every American Child a piece of the American Dream. Thank you Elon! President DONALD J. TRUMP",
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2112293785472225568#m",
    "ts": 1792445057,
@@ -473,15 +491,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2111918768733753664#m",
    "ts": 1792355646,
    "id": "2111918768733753664#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I’m hearing from a lot of Republicans in Texas that they are voting early in person tomorrow.",
-   "url": "https://nitter.kareem.one/ScottPresler/status/2111916646566920591#m",
-   "ts": 1792355140,
-   "id": "2111916646566920591#m"
   },
   {
    "handle": "swyx",
@@ -1283,24 +1292,6 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2110235432206086360#m",
    "ts": 1791954307,
    "id": "2110235432206086360#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "Video",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2110235345174311182#m",
-   "ts": 1791954287,
-   "id": "2110235345174311182#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "Video",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2110235323439460726#m",
-   "ts": 1791954282,
-   "id": "2110235323439460726#m"
   },
   {
    "handle": "Lingling_Wei",
