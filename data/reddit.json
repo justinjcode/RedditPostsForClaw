@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-19T02:46:31Z",
- "count": 45,
+ "generated_at": "2026-10-19T02:53:12Z",
+ "count": 60,
  "subreddits_ok": [
+  "LocalLLaMA",
   "MachineLearning",
-  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
   {
@@ -22,6 +22,13 @@
    "title": "Looking to collaborate [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9j7qp/looking_to_collaborate_r/",
    "ts": 1792370919,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Qwen 3.8 Flash Next optimized for two CMP 170hx GPUs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9iufz/qwen_38_flash_next_optimized_for_two_cmp_170hx/",
+   "ts": 1792369792,
    "source": "Reddit"
   },
   {
@@ -53,6 +60,20 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "Little Sweet Room Challenge | Strata Fork | Qwen 3.8 FN NVFP4 | DeepSeek Harness",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9hpb3/little_sweet_room_challenge_strata_fork_qwen_38/",
+   "ts": 1792366493,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Google Open Sources Harness2 for Self Improving AI Agents",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9gfnb/google_open_sources_harness2_for_self_improving/",
+   "ts": 1792362831,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
    "title": "Jellyfin \"Plugin\" - KefinTweaks v0.5 [Major Release]",
    "url": "https://www.reddit.com/r/selfhosted/comments/1x9g1bb/jellyfin_plugin_kefintweaks_v05_major_release/",
@@ -64,6 +85,13 @@
    "title": "Conference papers are cooked! [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9fyhd/conference_papers_are_cooked_d/",
    "ts": 1792361535,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Hybrid Reasoning Agents",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9fc1x/hybrid_reasoning_agents/",
+   "ts": 1792359931,
    "source": "Reddit"
   },
   {
@@ -85,6 +113,20 @@
    "title": "How to deploy a SSL certificate (wildcard) across multiple hosts?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1x9dzwl/how_to_deploy_a_ssl_certificate_wildcard_across/",
    "ts": 1792356544,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "I messed up. Buying Z9PE-D8 WS with 4 x16 Slots and 256GB DDR3 RDIMM",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9d8hs/i_messed_up_buying_z9ped8_ws_with_4_x16_slots_and/",
+   "ts": 1792354646,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "72 hours, four big open weights drops. The only one that fits in 24GB came from NVIDIA, of all companies.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9d23j/72_hours_four_big_open_weights_drops_the_only_one/",
+   "ts": 1792354216,
    "source": "Reddit"
   },
   {
@@ -130,6 +172,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "Embedding model can be used to search text inside image",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9acj4/embedding_model_can_be_used_to_search_text_inside/",
+   "ts": 1792347763,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
    "title": "Doska: open source self-hosted kanban with Markdown cards (Trello alternative with an Obsidian concept)",
    "url": "https://www.reddit.com/r/selfhosted/comments/1x99we1/doska_open_source_selfhosted_kanban_with_markdown/",
@@ -144,10 +193,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Any folks use NixOS for hosting services? Any tips?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1x986on/any_folks_use_nixos_for_hosting_services_any_tips/",
-   "ts": 1792342649,
+   "subreddit": "LocalLLaMA",
+   "title": "PSA: Power limit your 5090s!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x98bby/psa_power_limit_your_5090s/",
+   "ts": 1792342953,
    "source": "Reddit"
   },
   {
@@ -193,6 +242,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "unsloth/DeepSeek-V4.1-Flash-1017-GGUF · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x95491/unslothdeepseekv41flash1017gguf_hugging_face/",
+   "ts": 1792335118,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "MachineLearning",
    "title": "ICLR 2027: Reciprocal reviewer with 0 paper assignments—should I be concerned? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1x94heh/iclr_2027_reciprocal_reviewer_with_0_paper/",
@@ -207,10 +263,31 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "selfhosted",
+   "title": "tinyfeed 1.5.1: the stability release!",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1x93b1w/tinyfeed_151_the_stability_release/",
+   "ts": 1792330285,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "programming",
    "title": "A New Way to Think About Borrow Checking (In Reverse)",
    "url": "https://www.reddit.com/r/programming/comments/1x92rhh/a_new_way_to_think_about_borrow_checking_in/",
    "ts": 1792328740,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "AuroraASR-1M Releases!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x92ejs/auroraasr1m_releases/",
+   "ts": 1792327713,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Two pallets of ZOTAC RTX 5090 graphics cards worth $470,000 disappear at Brazilian airport",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x91svd/two_pallets_of_zotac_rtx_5090_graphics_cards/",
+   "ts": 1792325819,
    "source": "Reddit"
   },
   {
@@ -235,6 +312,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "New quant types suggested: IQ2_K, IQ3_K, IQ4_K, IQ5_K and IQ6_K",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8zj9j/new_quant_types_suggested_iq2_k_iq3_k_iq4_k_iq5_k/",
+   "ts": 1792317963,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "MachineLearning",
    "title": "GPT-2 KV cache from scratch: correctness, latency, and memory measurements [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1x8xxmv/gpt2_kv_cache_from_scratch_correctness_latency/",
@@ -242,10 +326,24 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "told Qwen3.8 27b to hack my router",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8wmbp/told_qwen38_27b_to_hack_my_router/",
+   "ts": 1792306929,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "programming",
    "title": "Mobile Application GPU Optimization Guide",
    "url": "https://www.reddit.com/r/programming/comments/1x8uq7d/mobile_application_gpu_optimization_guide/",
    "ts": 1792300133,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "You don’t need that expensive of a build for local llms.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8s73i/you_dont_need_that_expensive_of_a_build_for_local/",
+   "ts": 1792291596,
    "source": "Reddit"
   },
   {
@@ -274,6 +372,13 @@
    "title": "Python's binary wheels and supply chain attacks",
    "url": "https://www.reddit.com/r/programming/comments/1x8eqt6/pythons_binary_wheels_and_supply_chain_attacks/",
    "ts": 1792255050,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Linux creator says anti-AI rules are \"idiotic.\" (Absolute god-tier take.)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8e4wd/linux_creator_says_antiai_rules_are_idiotic/",
+   "ts": 1792253593,
    "source": "Reddit"
   },
   {
