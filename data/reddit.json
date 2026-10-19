@@ -1,15 +1,106 @@
 {
- "generated_at": "2026-10-19T14:13:41Z",
+ "generated_at": "2026-10-19T16:14:24Z",
  "count": 60,
  "subreddits_ok": [
+  "LocalLLaMA",
   "MachineLearning",
-  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "MachineLearning",
+   "title": "ICLR Desk Rejected with no apparent reason [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xa0ris/iclr_desk_rejected_with_no_apparent_reason_d/",
+   "ts": 1792425544,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "llama.cpp support for Cohere models",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa0cyz/llamacpp_support_for_cohere_models/",
+   "ts": 1792424609,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "I riced my nextcloud xd",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xa0acd/i_riced_my_nextcloud_xd/",
+   "ts": 1792424445,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Where do you host your personal apps if you're not self-hosting yet but would like to?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1x9zx6s/where_do_you_host_your_personal_apps_if_youre_not/",
+   "ts": 1792423619,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Sovereign Apps",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1x9zw8a/sovereign_apps/",
+   "ts": 1792423557,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Self hosting docs and spread sheet sharing that have decent mobile apps. Alternatives to Nextcloud?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1x9zq2t/self_hosting_docs_and_spread_sheet_sharing_that/",
+   "ts": 1792423183,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Webserver benchmarks on arm64 / Raspberry Pi",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1x9z5gl/webserver_benchmarks_on_arm64_raspberry_pi/",
+   "ts": 1792421897,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF updated",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yvgw/istadaslabqwen38flashnextgsqrcocodergguf_updated/",
+   "ts": 1792421234,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "inclusionAI releases Ming-3.0-audio-flash: 126B MoE / 6.5B active, audio understanding + speech output, MIT",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yrfi/inclusionai_releases_ming30audioflash_126b_moe/",
+   "ts": 1792420969,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "[Bi-Weekly Megathread] Project Showcase",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yg86/biweekly_megathread_project_showcase/",
+   "ts": 1792420251,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "inclusionAI/Ming-3.0-audio-tiny · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yf3m/inclusionaiming30audiotiny_hugging_face/",
+   "ts": 1792420176,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "inclusionAI/Ming-3.0-audio-flash · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yd01/inclusionaiming30audioflash_hugging_face/",
+   "ts": 1792420036,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Minimax M3.1 Flash is 428B 23a",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9xc0c/minimax_m31_flash_is_428b_23a/",
+   "ts": 1792417595,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "In Context - Rich Hickey (Clojure/Conj 2026)",
@@ -36,20 +127,6 @@
    "title": "MiniMax M3.1 Flash released, Model weights Oct 23",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9uzv9/minimax_m31_flash_released_model_weights_oct_23/",
    "ts": 1792411304,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "DeepSeek V4.1 Flash at 2.61 bpw + Engram: 26 t/s on dual RTX 3090s with dsx",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9umtv/deepseek_v41_flash_at_261_bpw_engram_26_ts_on/",
-   "ts": 1792410222,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Selfhosted Databasement",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1x9uel8/selfhosted_databasement/",
-   "ts": 1792409532,
    "source": "Reddit"
   },
   {
@@ -102,6 +179,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "MachineLearning",
+   "title": "What are the challenges encountered when using coding agents for ML tasks? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1x9r361/what_are_the_challenges_encountered_when_using/",
+   "ts": 1792397656,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
    "title": "My €1,000 used-hardware rack runs my home services, production apps and local inference",
    "url": "https://www.reddit.com/r/selfhosted/comments/1x9r11n/my_1000_usedhardware_rack_runs_my_home_services/",
@@ -116,31 +200,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "arrstack help",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1x9qbz8/arrstack_help/",
-   "ts": 1792394743,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Kapitsa: open-source Apple Silicon optimized Metal engine built for Qwen and Nemotron. See benchmarks of Qwen 27B, Nemotron + 8 other models on an M1 Pro (16GB), M4 Pro (48GB) and M5 Max (128GB)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9pzt0/kapitsa_opensource_apple_silicon_optimized_metal/",
-   "ts": 1792393485,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "A Vim User's Answer to Tab Management Nightmare",
    "url": "https://www.reddit.com/r/programming/comments/1x9pg9x/a_vim_users_answer_to_tab_management_nightmare/",
    "ts": 1792391415,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "DeepSeek-V4.1-Flash-1017 on AA & Vals index",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9owju/deepseekv41flash1017_on_aa_vals_index/",
-   "ts": 1792389378,
    "source": "Reddit"
   },
   {
@@ -158,13 +221,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Looking for advice please",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1x9o1yt/looking_for_advice_please/",
-   "ts": 1792386357,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Arrow detection with ConvNext pretrained on DINOv3 [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9nw6a/arrow_detection_with_convnext_pretrained_on/",
@@ -179,20 +235,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Calling all GPUs: help us benchmark SonicBoom v0.0.3 — a compiler-first AI runtime that beats llama.cpp on decode",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9mitw/calling_all_gpus_help_us_benchmark_sonicboom_v003/",
-   "ts": 1792381200,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Nemotron 3.5 Bolt is okayish for small multiuser setups",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9lkh5/nemotron_35_bolt_is_okayish_for_small_multiuser/",
-   "ts": 1792378120,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "I moved from network training to deployment optimization and am starting to think that was a right decision [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9k4si/i_moved_from_network_training_to_deployment/",
@@ -204,13 +246,6 @@
    "title": "A Whole-Cortex Encoding Model of Vision, Audition, and Language for In-Silico Neuroscience [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9jbxs/a_wholecortex_encoding_model_of_vision_audition/",
    "ts": 1792371274,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Looking to collaborate [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1x9j7qp/looking_to_collaborate_r/",
-   "ts": 1792370919,
    "source": "Reddit"
   },
   {
@@ -263,13 +298,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "How to deploy a SSL certificate (wildcard) across multiple hosts?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1x9dzwl/how_to_deploy_a_ssl_certificate_wildcard_across/",
-   "ts": 1792356544,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "72 hours, four big open weights drops. The only one that fits in 24GB came from NVIDIA, of all companies.",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9d23j/72_hours_four_big_open_weights_drops_the_only_one/",
@@ -302,13 +330,6 @@
    "title": "Doska: open source self-hosted kanban with Markdown cards (Trello alternative with an Obsidian concept)",
    "url": "https://www.reddit.com/r/selfhosted/comments/1x99we1/doska_open_source_selfhosted_kanban_with_markdown/",
    "ts": 1792346703,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Lidarr and slskd work great, but I am missing to discover new things. What do you use?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1x98wve/lidarr_and_slskd_work_great_but_i_am_missing_to/",
-   "ts": 1792344386,
    "source": "Reddit"
   },
   {
@@ -347,13 +368,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "unsloth/DeepSeek-V4.1-Flash-1017-GGUF · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x95491/unslothdeepseekv41flash1017gguf_hugging_face/",
-   "ts": 1792335118,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "ICLR 2027: Reciprocal reviewer with 0 paper assignments—should I be concerned? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1x94heh/iclr_2027_reciprocal_reviewer_with_0_paper/",
@@ -365,20 +379,6 @@
    "title": "A New Way to Think About Borrow Checking (In Reverse)",
    "url": "https://www.reddit.com/r/programming/comments/1x92rhh/a_new_way_to_think_about_borrow_checking_in/",
    "ts": 1792328740,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Two pallets of ZOTAC RTX 5090 graphics cards worth $470,000 disappear at Brazilian airport",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x91svd/two_pallets_of_zotac_rtx_5090_graphics_cards/",
-   "ts": 1792325819,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "[P] asmsense: 228k stripped x86-64 functions with source-aware labels, and a map of the data we still lack. [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1x91a47/p_asmsense_228k_stripped_x8664_functions_with/",
-   "ts": 1792324161,
    "source": "Reddit"
   },
   {
