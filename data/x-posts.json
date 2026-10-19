@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-19T18:43:21Z",
+ "generated_at": "2026-10-19T19:04:22Z",
  "accounts_ok": [
   "elonmusk",
-  "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
+  "@realDonaldTrump: all instances failed",
   "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed",
@@ -41,6 +41,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2112217914673959115#m",
    "ts": 1792426968,
    "id": "2112217914673959115#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Quick lookback on technical AI themes of 2026: (dataset: daily latent.space ainews title stories) Jan: - Ralph Loops - RLMs - Filesystems are all you need - X LLM recsys open sourced - X Grok Imagine #1 Video model - Anthropic blocked OpenCode / OpenClaw - MCP Apps - Moltbook - Apple picks Gemini for new Siri - Notable models: Kimi K2.5 - Fast inference: OAI x Cerebras partnership - Big raises: xAI @ $230B + SpaceX, OpenEvidence @ $12B Feb: - Codex App launch - Claude Code 1 year anniversary - Context Graphs - Fast Inference: Taalas 17k tok/s/user Llama 3 8B - Anthropic vs Deepseek/Moonshot/Minimax distillation accusation - Notable models: Opus/Sonnet 4.6, 5.3 Codex and Codex Spark, Qwen-Image 2.0, Seedance 2.0, GLM-5, Gemini 3.1 Pro and Deep Think, Nano Banana 2 - Big raises: OpenAI @ $840B, Anthropic @ $380B, ElevenLabs @ $11B, Cerebras @ $23B Mar: - T3 Code - Autoresearch - Claude Code source leak - Claude Cowork Dispatch - OpenAI buys Astral - Cloudflare-Next.js \"Slop Fork\" - Meta buys Dreamer - NVIDIA GTC: OpenClaw, Vera CPU, 1T sales backlog, \"The Inference Inflection\" - ARC-AGI 3 introduced, SOTA models are 1% - Notable models: GPT 5.4 unifies chat and codex, Gemini 3.1 Flash-Lite/Live, Nemotron 3 Super, Composer 2, MiniMax 2.7, Arcee’s Trinity-Large-Thinking - Big Raises: Yann LeCun AMI Labs $1B seed Apr: - Claude Design - OpenAI Symphony & Harness Engineering discourse - @LilianWeng writeup later - OpenAI and Microsoft break up - Tokenmaxxing fears - Codex Superapp -",
+   "url": "https://nitter.kareem.one/latentspacepod/status/2112197832342122712#m",
+   "ts": 1792422180,
+   "id": "2112197832342122712#m"
   },
   {
    "handle": "elonmusk",
@@ -644,15 +653,6 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2111477982485516393#m",
    "ts": 1792250555,
    "id": "2111477982485516393#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "\"Reading\" is one of the core staples of \"self-improvement\" slopfluencers, but it's truly incredible how few books are actually worth your time.",
-   "url": "https://nitter.kareem.one/hallerite/status/2111453856647250041#m",
-   "ts": 1792244802,
-   "id": "2111453856647250041#m"
   },
   {
    "handle": "ZichenWanghere",
