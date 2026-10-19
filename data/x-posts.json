@@ -1,20 +1,38 @@
 {
- "generated_at": "2026-10-19T14:05:51Z",
+ "generated_at": "2026-10-19T14:38:39Z",
  "accounts_ok": [
+  "TheRundownAI",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
-  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed",
+  "@simonw: all instances failed",
+  "@swyx: all instances failed",
   "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: robotnews.therundown.ai/p/so… Link SoftBank’s $18B bet on robot guards PLUS: Teleport to grandma's with this robot robotnews.therundown.ai",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2112189637145792730#m",
+   "ts": 1792420226,
+   "id": "2112189637145792730#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in robotics today: - SoftBank weighs $18B robot guard grab - Your family’s next visit could be through a robot - Delivery robots hit with biometric lawsuits - Tiny robot takes on a giant sewage problem",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2112189631374438662#m",
+   "ts": 1792420225,
+   "id": "2112189631374438662#m"
+  },
   {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
@@ -1330,15 +1348,6 @@
    "id": "2110047081414987957#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "In 2024, Character AI said it was answering 20,000 messages a second, around a fifth of what Google Search handled. In September 2025, Disney’s lawyers ordered it to pull every Disney character off the app. Last month, ex-CEO Karandeep Anand left to become Disney’s CTO, and some of his staff went with him. On Monday, Character AI filed for bankruptcy. Now, Disney is bidding $20M to license parts of Character AI’s tech, and those ex-employees will help keep the app running during the sale. Other buyers can still outbid Disney before the auction wraps. If nobody steps in, the company says it will shut down.",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2110028176365625531#m",
-   "ts": 1791904894,
-   "id": "2110028176365625531#m"
-  },
-  {
    "handle": "bcherny",
    "name": "Boris Cherny",
    "author": "@bcherny",
@@ -1346,15 +1355,6 @@
    "url": "https://nitter.kareem.one/felixrieseberg/status/2110023283169247623#m",
    "ts": 1791903727,
    "id": "2110023283169247623#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: tech.therundown.ai/p/apple-g… Link Apple goes all-in on the home PLUS: French grocers hit with massive cyberattack tech.therundown.ai",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2110015494883275164#m",
-   "ts": 1791901870,
-   "id": "2110015494883275164#m"
   },
   {
    "handle": "Lingling_Wei",
