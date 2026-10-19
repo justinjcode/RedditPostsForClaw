@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-19T22:35:13Z",
+ "generated_at": "2026-10-19T23:05:07Z",
  "accounts_ok": [
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
+  "@simonw: all instances failed",
   "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed",
@@ -158,6 +158,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2112182228977348963#m",
    "ts": 1792418460,
    "id": "2112182228977348963#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "We started @HackerRank a decade ago with the belief that skills matter more than pedigree. That’s still our core ethos, but the skills required to do the job have changed. So, we're tearing down our past and reinventing the company from scratch. Meet Chakra - the future of hiring. Video",
+   "url": "https://nitter.kareem.one/rvivek/status/2112178010824884528#m",
+   "ts": 1792417454,
+   "id": "2112178010824884528#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -590,15 +599,6 @@
    "url": "https://nitter.kareem.one/climatepaige/status/2111681592330797383#m",
    "ts": 1792299099,
    "id": "2111681592330797383#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Love this format; @swyx cooked, once again inv.kareem.one/watch?v=ZOH8Q401… Link High Taste Testers: OpenAI Shipped Everything. What Actually Works? Six AI power users compare what actually works—and what falls apart... youtube.com",
-   "url": "https://nitter.kareem.one/ricklamers/status/2111660901313175834#m",
-   "ts": 1792294166,
-   "id": "2111660901313175834#m"
   },
   {
    "handle": "thsottiaux",
