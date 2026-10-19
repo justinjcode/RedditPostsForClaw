@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-10-19T17:36:23Z",
+ "generated_at": "2026-10-19T18:06:27Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
   "@simonw: all instances failed",
-  "@swyx: all instances failed",
   "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed",
   "@TheRundownAI: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Literally have no idea how incredible Grok Bot really is Basically any task you can think of that you want to do on a laptop it does it... I didn't see it do anything wrong tbh, such as with the tasks that required payment and with things like buying stuff online and booking flights booking hotels It absolutely does it better... I was kind of shocked and impressed with all the things it does, and I'm still exploring how many things I can do with Grok Bot... and I just keep adding things",
+   "url": "https://nitter.kareem.one/XFreeze/status/2112219607528251899#m",
+   "ts": 1792427372,
+   "id": "2112219607528251899#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -401,15 +410,6 @@
    "url": "https://nitter.kareem.one/cb_doge/status/2111933674031902933#m",
    "ts": 1792359200,
    "id": "2111933674031902933#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "What it’s like trying to rent AI/SI compute Video",
-   "url": "https://nitter.kareem.one/elonmusk/status/2111930742615802163#m",
-   "ts": 1792358501,
-   "id": "2111930742615802163#m"
   },
   {
    "handle": "thsottiaux",
