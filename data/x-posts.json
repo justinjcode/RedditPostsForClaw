@@ -1,20 +1,47 @@
 {
- "generated_at": "2026-10-19T19:04:22Z",
+ "generated_at": "2026-10-19T19:34:39Z",
  "accounts_ok": [
+  "TheRundownAI",
+  "bcherny",
   "elonmusk",
-  "simonw",
-  "swyx",
-  "thsottiaux"
+  "realDonaldTrump"
  ],
  "errors": [
-  "@realDonaldTrump: all instances failed",
-  "@bcherny: all instances failed",
+  "@thsottiaux: all instances failed",
+  "@simonw: all instances failed",
+  "@swyx: all instances failed",
   "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Inception just launched Mercury 3, which it calls the strongest diffusion language model yet. It’s 40x bigger than Mercury 1 but still puts out 1,000+ tokens a second. The comparison is to the fast, cheap tier, with Inception saying it matches or beats OpenAI’s GPT-6 Luna and Anthropic’s Claude Haiku 5.5. Where ChatGPT and Claude write one word at a time, diffusion models draft many words at once and refine them, making them a strong fit for use cases like voice agents, live tutoring, and customer support, where any lag shows. Inception (@_inception_ai) Mercury 3 is live: the most capable diffusion LLM released to date. It outperforms GPT-6 Luna and Claude Haiku 5.5 across a range of benchmarks while running at over 1,000 tokens per second. More than 40x the size of Mercury 1, 3x more intelligent across standard benchmarks, and just as fast, with a 1M-token context window. Available today on the Inception API, @baseten , and @OpenRouter . — https://nitter.kareem.one/_inception_ai/status/2112236719068369299#m",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2112256049311072339#m",
+   "ts": 1792436060,
+   "id": "2112256049311072339#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "what did you get done with grok @bot last week?",
+   "url": "https://nitter.kareem.one/poteto/status/2112246281016119780#m",
+   "ts": 1792433731,
+   "id": "2112246281016119780#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Anthropic co-founder Jack Clark went on record at the IMF about putting a ceiling on AI intelligence. Moderator Raghuram Rajan, the IMF’s former chief economist, asked at what point humans hand AI the reins. Clark: \"Our CEO Dario Amodei said in a public post that we may want to introduce limits on the ceiling of intelligence that you allow for these systems.\" He called it a conversation \"that is maybe a little at the edge of the Overton window.\" \"We're in control of this technology now, and we're watching it get much more capable, much more quickly than all of our intuitions.\" “The window for us to act is a small number of years.” Video",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2112238340787282162#m",
+   "ts": 1792431838,
+   "id": "2112238340787282162#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -410,15 +437,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2111938337607172591#m",
    "ts": 1792360312,
    "id": "2111938337607172591#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "When @Starlink helped rescue four sailors and three dogs. ♥️ Four people and three dogs were stranded after a storm badly damaged their boat in the South Pacific. They were more than 300 km from New Caledonia. They had no radio contact. They sent their location through Starlink. A cruise ship changed course and travelled five hours to reach them. All four people and all three dogs were rescued. This is why Starlink matters. When people need help, a working connection can save lives. This life-saving technology should be available in every part of the world. Video",
-   "url": "https://nitter.kareem.one/cb_doge/status/2111933674031902933#m",
-   "ts": 1792359200,
-   "id": "2111933674031902933#m"
   },
   {
    "handle": "thsottiaux",
@@ -1319,24 +1337,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2110151384289223103#m",
    "ts": 1791934269,
    "id": "2110151384289223103#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Baroness Campbell, who has a muscle disease that affects her speech, addressed the UK House of Lords today in an AI rebuild of her original voice. ElevenLabs, which made the voice, says it's the first time AI has been used this way in the UK Parliament. Video",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2110080214411911331#m",
-   "ts": 1791917301,
-   "id": "2110080214411911331#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Google's recently introduced Gemini 4 Argon is generally available today! Video",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2110051611288694948#m",
-   "ts": 1791910481,
-   "id": "2110051611288694948#m"
   },
   {
    "handle": "bcherny",
