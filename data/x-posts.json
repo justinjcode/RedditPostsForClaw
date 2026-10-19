@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-10-19T21:05:13Z",
+ "generated_at": "2026-10-19T21:35:26Z",
  "accounts_ok": [
+  "TheRundownAI",
   "elonmusk",
   "realDonaldTrump",
-  "swyx",
+  "simonw",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
+  "@swyx: all instances failed",
   "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "A BIG THANK YOU to our legendary friend, @ElonMusk , for his incredible generosity in giving SpaceX Stock to millions of American children through TRUMP ACCOUNTS! This is exactly what was envisioned when we created TRUMP ACCOUNTS — Bringing together the GREAT PRIVATE SECTOR, Elon and so many more, to invest in our children, by far our greatest and most important asset, and give every American Child a piece of the American Dream. Thank you Elon! President DONALD J. TRUMP",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2112293785472225568#m",
+   "ts": 1792445057,
+   "id": "2112293785472225568#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -1292,15 +1301,6 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2110235323439460726#m",
    "ts": 1791954282,
    "id": "2110235323439460726#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "Video",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2110235296746836029#m",
-   "ts": 1791954275,
-   "id": "2110235296746836029#m"
   },
   {
    "handle": "Lingling_Wei",
