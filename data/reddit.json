@@ -1,15 +1,64 @@
 {
- "generated_at": "2026-10-19T20:13:32Z",
+ "generated_at": "2026-10-19T22:12:34Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "How to Gaslight JavaScript Programmers",
+   "url": "https://www.reddit.com/r/programming/comments/1xaaife/how_to_gaslight_javascript_programmers/",
+   "ts": 1792447308,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "The reverts will continue until morale improves [PostgreSQL 19]",
+   "url": "https://www.reddit.com/r/programming/comments/1xa9h5w/the_reverts_will_continue_until_morale_improves/",
+   "ts": 1792444823,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Jev Based Adaptive Thinking for LLMs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa9ffa/jev_based_adaptive_thinking_for_llms/",
+   "ts": 1792444708,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "OpenMW-Web 1.6.2: self-hosted Morrowind in the browser, with an admin dashboard and multiplayer in alpha",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xa8452/openmwweb_162_selfhosted_morrowind_in_the_browser/",
+   "ts": 1792441739,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Any homepages that have sports scores and game times?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xa82vf/any_homepages_that_have_sports_scores_and_game/",
+   "ts": 1792441656,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Cal.com vs Cal.id",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xa7ru9/calcom_vs_calid/",
+   "ts": 1792440963,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Let's delve into the tapestry of AI slop on r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa7hi8/lets_delve_into_the_tapestry_of_ai_slop_on/",
+   "ts": 1792440312,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Best practices and practical solutions for backups?",
@@ -18,17 +67,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "The old software under everything new",
-   "url": "https://www.reddit.com/r/programming/comments/1xa68q1/the_old_software_under_everything_new/",
-   "ts": 1792437569,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "I built Flui: an open-source cloud platform from a provider API key or your own server",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xa5vyr/i_built_flui_an_opensource_cloud_platform_from_a/",
-   "ts": 1792436789,
+   "subreddit": "LocalLLaMA",
+   "title": "Has anyone else here found a place for DiffusionGemma in their local work?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa6ykz/has_anyone_else_here_found_a_place_for/",
+   "ts": 1792439184,
    "source": "Reddit"
   },
   {
@@ -151,6 +193,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "6M param character renderer: one reference image in, a minute of video out, tested against Blender truth",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9zwts/6m_param_character_renderer_one_reference_image/",
+   "ts": 1792423595,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
    "title": "Webserver benchmarks on arm64 / Raspberry Pi",
    "url": "https://www.reddit.com/r/selfhosted/comments/1x9z5gl/webserver_benchmarks_on_arm64_raspberry_pi/",
@@ -180,23 +229,9 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "inclusionAI/Ming-3.0-audio-tiny · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yf3m/inclusionaiming30audiotiny_hugging_face/",
-   "ts": 1792420176,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "inclusionAI/Ming-3.0-audio-flash · Hugging Face",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yd01/inclusionaiming30audioflash_hugging_face/",
    "ts": 1792420036,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Minimax M3.1 Flash is 428B 23a",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9xc0c/minimax_m31_flash_is_428b_23a/",
-   "ts": 1792417595,
    "source": "Reddit"
   },
   {
@@ -214,24 +249,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Borrow Checking Zero-Cost Cyclic Mutability",
-   "url": "https://www.reddit.com/r/programming/comments/1x9vy00/borrow_checking_zerocost_cyclic_mutability/",
-   "ts": 1792413977,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "MiniMax M3.1 Flash released, Model weights Oct 23",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9uzv9/minimax_m31_flash_released_model_weights_oct_23/",
    "ts": 1792411304,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Warpgate Bastion 0.30 released with Vault/OpenBao and SSH certificate auth support",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1x9tv30/warpgate_bastion_030_released_with_vaultopenbao/",
-   "ts": 1792407805,
    "source": "Reddit"
   },
   {
@@ -305,13 +326,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Don't sleep on Nemotron 3.5 Super VL",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9mwmz/dont_sleep_on_nemotron_35_super_vl/",
-   "ts": 1792382486,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "I moved from network training to deployment optimization and am starting to think that was a right decision [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9k4si/i_moved_from_network_training_to_deployment/",
@@ -354,24 +368,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "72 hours, four big open weights drops. The only one that fits in 24GB came from NVIDIA, of all companies.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9d23j/72_hours_four_big_open_weights_drops_the_only_one/",
-   "ts": 1792354216,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Beating Warcraft III’s insane AI with self-play reinforcement learning on one desktop [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9c5ty/beating_warcraft_iiis_insane_ai_with_selfplay/",
    "ts": 1792352076,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "What do you use to get notified about outdated Docker containers (Docker Compose setup)?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1x9br0p/what_do_you_use_to_get_notified_about_outdated/",
-   "ts": 1792351106,
    "source": "Reddit"
   },
   {
