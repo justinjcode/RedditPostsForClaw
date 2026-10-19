@@ -1,20 +1,69 @@
 {
- "generated_at": "2026-10-19T06:26:16Z",
+ "generated_at": "2026-10-19T08:21:10Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "My €1,000 used-hardware rack runs my home services, production apps and local inference",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1x9r11n/my_1000_usedhardware_rack_runs_my_home_services/",
+   "ts": 1792397431,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "The Developer Communication Handbook",
+   "url": "https://www.reddit.com/r/programming/comments/1x9qswh/the_developer_communication_handbook/",
+   "ts": 1792396592,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "arrstack help",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1x9qbz8/arrstack_help/",
+   "ts": 1792394743,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Kapitsa: open-source Apple Silicon optimized Metal engine built for Qwen and Nemotron. See benchmarks of Qwen 27B, Nemotron + 8 other models on an M1 Pro (16GB), M4 Pro (48GB) and M5 Max (128GB)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9pzt0/kapitsa_opensource_apple_silicon_optimized_metal/",
+   "ts": 1792393485,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "A Vim User's Answer to Tab Management Nightmare",
+   "url": "https://www.reddit.com/r/programming/comments/1x9pg9x/a_vim_users_answer_to_tab_management_nightmare/",
+   "ts": 1792391415,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "LTX 2.5 running locally on a 48GB M5 Pro MacBook Pro in TensorSharp’s Video Studio",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9p6cp/ltx_25_running_locally_on_a_48gb_m5_pro_macbook/",
+   "ts": 1792390346,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "DeepSeek-V4.1-Flash-1017 on AA & Vals index",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9owju/deepseekv41flash1017_on_aa_vals_index/",
    "ts": 1792389378,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "This Website Is Now Made in Swift",
+   "url": "https://www.reddit.com/r/programming/comments/1x9oosc/this_website_is_now_made_in_swift/",
+   "ts": 1792388595,
    "source": "Reddit"
   },
   {
@@ -40,9 +89,9 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "80s computing era meets small local decision models",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9n1i6/80s_computing_era_meets_small_local_decision/",
-   "ts": 1792382934,
+   "title": "TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9n3qv/tempopfn_synthetic_pretraining_of_linear_rnns_for/",
+   "ts": 1792383139,
    "source": "Reddit"
   },
   {
@@ -57,13 +106,6 @@
    "title": "Calling all GPUs: help us benchmark SonicBoom v0.0.3 — a compiler-first AI runtime that beats llama.cpp on decode",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9mitw/calling_all_gpus_help_us_benchmark_sonicboom_v003/",
    "ts": 1792381200,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Hard drive doing sounds",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1x9lyt6/hard_drive_doing_sounds/",
-   "ts": 1792379354,
    "source": "Reddit"
   },
   {
@@ -92,13 +134,6 @@
    "title": "Looking to collaborate [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9j7qp/looking_to_collaborate_r/",
    "ts": 1792370919,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Qwen 3.8 Flash Next optimized for two CMP 170hx GPUs",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9iufz/qwen_38_flash_next_optimized_for_two_cmp_170hx/",
-   "ts": 1792369792,
    "source": "Reddit"
   },
   {
@@ -221,13 +256,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Looking for self-hosted MDM for Android",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1x9ah68/looking_for_selfhosted_mdm_for_android/",
-   "ts": 1792348077,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Embedding model can be used to search text inside image",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9acj4/embedding_model_can_be_used_to_search_text_inside/",
@@ -327,13 +355,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "AuroraASR-1M Releases!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x92ejs/auroraasr1m_releases/",
-   "ts": 1792327713,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "Two pallets of ZOTAC RTX 5090 graphics cards worth $470,000 disappear at Brazilian airport",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x91svd/two_pallets_of_zotac_rtx_5090_graphics_cards/",
    "ts": 1792325819,
@@ -376,30 +397,9 @@
   },
   {
    "subreddit": "programming",
-   "title": "Much Ado About Seven Bytes",
-   "url": "https://www.reddit.com/r/programming/comments/1x8fvz1/much_ado_about_seven_bytes/",
-   "ts": 1792257800,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
    "title": "Python's binary wheels and supply chain attacks",
    "url": "https://www.reddit.com/r/programming/comments/1x8eqt6/pythons_binary_wheels_and_supply_chain_attacks/",
    "ts": 1792255050,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Improving heuristics for A* search",
-   "url": "https://www.reddit.com/r/programming/comments/1x80isg/improving_heuristics_for_a_search/",
-   "ts": 1792209654,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Compression is prediction",
-   "url": "https://www.reddit.com/r/programming/comments/1x7x6dq/compression_is_prediction/",
-   "ts": 1792198859,
    "source": "Reddit"
   },
   {
