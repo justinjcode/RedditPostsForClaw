@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-10-19T07:54:02Z",
+ "generated_at": "2026-10-19T08:11:15Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +9,21 @@
   "thsottiaux"
  ],
  "errors": [
+  "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed",
   "@TheRundownAI: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Next year, I will give one of my SpaceX shares to every kid in America. This will be the first of many.",
+   "url": "https://nitter.kareem.one/elonmusk/status/2112089556615123114#m",
+   "ts": 1792396365,
+   "id": "2112089556615123114#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -358,6 +367,15 @@
    "id": "2111877649513529345#m"
   },
   {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "This essay on RSI by @ramez was like a breath of fresh air in a smoke filled bar. noahpinion.blog/p/wheres-the… I started reading assuming I was going to skim it and instead I read the entire thing twices taking notes along the way. Link Where’s the “intelligence explosion”? Ramez Naam gives a skeptic’s take on Recursive Self-Improvement. noahpinion.blog",
+   "url": "https://nitter.kareem.one/chrisalbon/status/2111858774004891697#m",
+   "ts": 1792341342,
+   "id": "2111858774004891697#m"
+  },
+  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -401,15 +419,6 @@
    "url": "https://nitter.kareem.one/climatepaige/status/2111681592330797383#m",
    "ts": 1792299099,
    "id": "2111681592330797383#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "China is building around 69 power semiconductor fabs (under construction, planned, or ramping) across 58 suppliers 15 are planned, 29 are under construction, and 25 are ramping up production Jukan (@jukan05) This is a really interesting chart. I attended the TrendForce San Francisco roadshow yesterday, and this chart got me thinking about a lot of things. China is now expected to localize more than half, or close to half, of most equipment categories, excluding lithography and track. What does this mean? It means China can now expand mature node capacity far more easily than before, using equipment made domestically within China. Mature node foundries are booming right now, right? That's thanks to the AI supercycle driving demand for PMICs, power semiconductors, and so on. Samsung and TSMC shutting down their mature node capacity has also helped a lot. But here's what I imagine... that China could oversupply mature foundry capacity. Think about it. If China can be self sufficient in equipment, there's no limit to how far it can expand capacity. Then are companies like TI, with large revenue exposure to China, really safe? I think it's time to take another look at Western mature foundry companies with a high share of China revenue. Of course, I'm not saying sell TI right now. I'm just saying we should think about whether it makes sense to hold them for 10 years or more, like Coca Cola. If you have a different view, please feel free to share it. I’d love to learn. — https://nit",
-   "url": "https://nitter.kareem.one/zephyr_z9/status/2111675690051588271#m",
-   "ts": 1792297692,
-   "id": "2111675690051588271#m"
   },
   {
    "handle": "swyx",
@@ -581,15 +590,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2111351354409300230#m",
    "ts": 1792220364,
    "id": "2111351354409300230#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "we serve >1m unique viewers a month pretty much nonstop since May (after AIE EU) but even now 58% of viewers a month are new to us. 68% of viewers not subscribed lol. most viewers 7am-11am PT daily. nobody watches after 5pm.",
-   "url": "https://nitter.kareem.one/swyx/status/2111350966419411070#m",
-   "ts": 1792220272,
-   "id": "2111350966419411070#m"
   },
   {
    "handle": "ZichenWanghere",
