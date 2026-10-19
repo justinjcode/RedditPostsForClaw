@@ -1,15 +1,169 @@
 {
- "generated_at": "2026-10-19T02:37:06Z",
- "count": 25,
+ "generated_at": "2026-10-19T02:46:31Z",
+ "count": 45,
+ "subreddits_ok": [
+  "MachineLearning",
+  "programming",
+  "selfhosted"
+ ],
  "errors": [
-  "r/MachineLearning @ https://www.reddit.com: HTTPError: HTTP Error 429: Too Many Requests",
-  "r/MachineLearning @ https://old.reddit.com: HTTPError: HTTP Error 404: Not Found",
-  "r/LocalLLaMA @ https://www.reddit.com: HTTPError: HTTP Error 429: Too Many Requests",
-  "r/LocalLLaMA @ https://old.reddit.com: HTTPError: HTTP Error 404: Not Found",
-  "r/selfhosted @ https://www.reddit.com: HTTPError: HTTP Error 429: Too Many Requests",
-  "r/selfhosted @ https://old.reddit.com: HTTPError: HTTP Error 404: Not Found"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "MachineLearning",
+   "title": "I moved from network training to deployment optimization and am starting to think that was a right decision [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1x9k4si/i_moved_from_network_training_to_deployment/",
+   "ts": 1792373671,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Looking to collaborate [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1x9j7qp/looking_to_collaborate_r/",
+   "ts": 1792370919,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Steam Headless docker and split gpus, would love to discuss successes and failures..",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1x9ifid/steam_headless_docker_and_split_gpus_would_love/",
+   "ts": 1792368575,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "How to keep security cameras recording during a power outage?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1x9i34h/how_to_keep_security_cameras_recording_during_a/",
+   "ts": 1792367638,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Do ICLR guidelines allow to upload papers under review to LLM chats? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1x9i1pg/do_iclr_guidelines_allow_to_upload_papers_under/",
+   "ts": 1792367521,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "What is the best book or resource for system design?",
+   "url": "https://www.reddit.com/r/programming/comments/1x9hvrt/what_is_the_best_book_or_resource_for_system/",
+   "ts": 1792367025,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Jellyfin \"Plugin\" - KefinTweaks v0.5 [Major Release]",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1x9g1bb/jellyfin_plugin_kefintweaks_v05_major_release/",
+   "ts": 1792361751,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Conference papers are cooked! [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1x9fyhd/conference_papers_are_cooked_d/",
+   "ts": 1792361535,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "How tough can emoji be?",
+   "url": "https://www.reddit.com/r/programming/comments/1x9ecjd/how_tough_can_emoji_be/",
+   "ts": 1792357403,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Anyone else get brain lag from overly-condensed AI-speak? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1x9e2fw/anyone_else_get_brain_lag_from_overlycondensed/",
+   "ts": 1792356722,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "How to deploy a SSL certificate (wildcard) across multiple hosts?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1x9dzwl/how_to_deploy_a_ssl_certificate_wildcard_across/",
+   "ts": 1792356544,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Beating Warcraft III’s insane AI with self-play reinforcement learning on one desktop [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1x9c5ty/beating_warcraft_iiis_insane_ai_with_selfplay/",
+   "ts": 1792352076,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "What do you use to get notified about outdated Docker containers (Docker Compose setup)?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1x9br0p/what_do_you_use_to_get_notified_about_outdated/",
+   "ts": 1792351106,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "ANN: Free Pascal Compiler Now Has Dynamic Package Support",
+   "url": "https://www.reddit.com/r/programming/comments/1x9av5j/ann_free_pascal_compiler_now_has_dynamic_package/",
+   "ts": 1792349018,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Durable workflows without replay: freezing the VM instead of re-running the code",
+   "url": "https://www.reddit.com/r/programming/comments/1x9akv3/durable_workflows_without_replay_freezing_the_vm/",
+   "ts": 1792348323,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "you tube 24/7",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1x9ahb7/you_tube_247/",
+   "ts": 1792348087,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Looking for self-hosted MDM for Android",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1x9ah68/looking_for_selfhosted_mdm_for_android/",
+   "ts": 1792348077,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Doska: open source self-hosted kanban with Markdown cards (Trello alternative with an Obsidian concept)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1x99we1/doska_open_source_selfhosted_kanban_with_markdown/",
+   "ts": 1792346703,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Lidarr and slskd work great, but I am missing to discover new things. What do you use?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1x98wve/lidarr_and_slskd_work_great_but_i_am_missing_to/",
+   "ts": 1792344386,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Any folks use NixOS for hosting services? Any tips?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1x986on/any_folks_use_nixos_for_hosting_services_any_tips/",
+   "ts": 1792342649,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Trials and Tribulation of Native Lua Compilation",
+   "url": "https://www.reddit.com/r/programming/comments/1x97ww8/trials_and_tribulation_of_native_lua_compilation/",
+   "ts": 1792341968,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1x97v19/tempopfn_synthetic_pretraining_of_linear_rnns_for/",
+   "ts": 1792341838,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "It's still OK to enjoy programming",
@@ -25,31 +179,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "ANN: Free Pascal Compiler Now Has Dynamic Package Support",
-   "url": "https://www.reddit.com/r/programming/comments/1x9av5j/ann_free_pascal_compiler_now_has_dynamic_package/",
-   "ts": 1792349018,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "A New Way to Think About Borrow Checking (In Reverse)",
-   "url": "https://www.reddit.com/r/programming/comments/1x92rhh/a_new_way_to_think_about_borrow_checking_in/",
-   "ts": 1792328740,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "How tough can emoji be?",
-   "url": "https://www.reddit.com/r/programming/comments/1x9ecjd/how_tough_can_emoji_be/",
-   "ts": 1792357403,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "What is the best book or resource for system design?",
-   "url": "https://www.reddit.com/r/programming/comments/1x9hvrt/what_is_the_best_book_or_resource_for_system/",
-   "ts": 1792367025,
+   "subreddit": "MachineLearning",
+   "title": "Proof Before Reuse: showing agents only what later sessions reproduced keeps a poisoned skill out of procedural memory [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1x975ea/proof_before_reuse_showing_agents_only_what_later/",
+   "ts": 1792340099,
    "source": "Reddit"
   },
   {
@@ -60,6 +193,55 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "MachineLearning",
+   "title": "ICLR 2027: Reciprocal reviewer with 0 paper assignments—should I be concerned? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1x94heh/iclr_2027_reciprocal_reviewer_with_0_paper/",
+   "ts": 1792333456,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Setting up my own family cloud drive for the first time - Nextcloud or Opencloud?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1x948yr/setting_up_my_own_family_cloud_drive_for_the/",
+   "ts": 1792332828,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "A New Way to Think About Borrow Checking (In Reverse)",
+   "url": "https://www.reddit.com/r/programming/comments/1x92rhh/a_new_way_to_think_about_borrow_checking_in/",
+   "ts": 1792328740,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "[P] asmsense: 228k stripped x86-64 functions with source-aware labels, and a map of the data we still lack. [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1x91a47/p_asmsense_228k_stripped_x8664_functions_with/",
+   "ts": 1792324161,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Good Bye SaaS - Hello Home Lab",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1x90ktl/good_bye_saas_hello_home_lab/",
+   "ts": 1792321731,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Exactly one year ago, I shared AltSendme here. Your encouragement helped me take it from 50 to almost 10,000 GitHub stars. Here's what's new.",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1x906fd/exactly_one_year_ago_i_shared_altsendme_here_your/",
+   "ts": 1792320347,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "GPT-2 KV cache from scratch: correctness, latency, and memory measurements [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1x8xxmv/gpt2_kv_cache_from_scratch_correctness_latency/",
+   "ts": 1792311782,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "programming",
    "title": "Mobile Application GPU Optimization Guide",
    "url": "https://www.reddit.com/r/programming/comments/1x8uq7d/mobile_application_gpu_optimization_guide/",
@@ -67,17 +249,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Trials and Tribulation of Native Lua Compilation",
-   "url": "https://www.reddit.com/r/programming/comments/1x97ww8/trials_and_tribulation_of_native_lua_compilation/",
-   "ts": 1792341968,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Python's binary wheels and supply chain attacks",
-   "url": "https://www.reddit.com/r/programming/comments/1x8eqt6/pythons_binary_wheels_and_supply_chain_attacks/",
-   "ts": 1792255050,
+   "subreddit": "MachineLearning",
+   "title": "What is wrong with AI writing - ICLR edition [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1x8oksb/what_is_wrong_with_ai_writing_iclr_edition_d/",
+   "ts": 1792280403,
    "source": "Reddit"
   },
   {
@@ -89,13 +264,6 @@
   },
   {
    "subreddit": "programming",
-   "title": "Durable workflows without replay: freezing the VM instead of re-running the code",
-   "url": "https://www.reddit.com/r/programming/comments/1x9akv3/durable_workflows_without_replay_freezing_the_vm/",
-   "ts": 1792348323,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
    "title": "Much Ado About Seven Bytes",
    "url": "https://www.reddit.com/r/programming/comments/1x8fvz1/much_ado_about_seven_bytes/",
    "ts": 1792257800,
@@ -103,9 +271,16 @@
   },
   {
    "subreddit": "programming",
-   "title": "Compression is prediction",
-   "url": "https://www.reddit.com/r/programming/comments/1x7x6dq/compression_is_prediction/",
-   "ts": 1792198859,
+   "title": "Python's binary wheels and supply chain attacks",
+   "url": "https://www.reddit.com/r/programming/comments/1x8eqt6/pythons_binary_wheels_and_supply_chain_attacks/",
+   "ts": 1792255050,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "How many of you have seen this honest ICLR submission? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1x819z7/how_many_of_you_have_seen_this_honest_iclr/",
+   "ts": 1792212212,
    "source": "Reddit"
   },
   {
@@ -117,72 +292,37 @@
   },
   {
    "subreddit": "programming",
-   "title": "Modern software doesn't need to use servers for everything. How to create offline-first apps to earn trust in SaaS era",
-   "url": "https://www.reddit.com/r/programming/comments/1x90utt/modern_software_doesnt_need_to_use_servers_for/",
-   "ts": 1792322718,
+   "title": "Compression is prediction",
+   "url": "https://www.reddit.com/r/programming/comments/1x7x6dq/compression_is_prediction/",
+   "ts": 1792198859,
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "A Subtle Github Bug: Where Did My Merged Code Went Missing?",
-   "url": "https://www.reddit.com/r/programming/comments/1x9095f/a_subtle_github_bug_where_did_my_merged_code_went/",
-   "ts": 1792320619,
+   "subreddit": "selfhosted",
+   "title": "New Project Megathread - Week of 15 Oct 2026",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1x6ywou/new_project_megathread_week_of_15_oct_2026/",
+   "ts": 1792101662,
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Domain-Driven Design (DDD) — The Complete Guide | Visually Explained",
-   "url": "https://www.reddit.com/r/programming/comments/1x7o6km/domaindriven_design_ddd_the_complete_guide/",
-   "ts": 1792175685,
+   "subreddit": "MachineLearning",
+   "title": "[D] Self-Promotion Thread",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1wvi1j8/d_selfpromotion_thread/",
+   "ts": 1790907305,
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "How Not to Build a Five-in-a-Row Game Engine",
-   "url": "https://www.reddit.com/r/programming/comments/1x88p5f/how_not_to_build_a_fiveinarow_game_engine/",
-   "ts": 1792239066,
+   "subreddit": "MachineLearning",
+   "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1wunvg4/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+   "ts": 1790821809,
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Learning Postgres extensions using Zig",
-   "url": "https://www.reddit.com/r/programming/comments/1x7mmu6/learning_postgres_extensions_using_zig/",
-   "ts": 1792172174,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Learned Index Lab: Replacing B-Trees with streaming linear models in pure Rust (-99% RAM, 3x faster)",
-   "url": "https://www.reddit.com/r/programming/comments/1x71ti7/learned_index_lab_replacing_btrees_with_streaming/",
-   "ts": 1792109524,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "BIPM announces the end of leap seconds",
-   "url": "https://www.reddit.com/r/programming/comments/1x6uhya/bipm_announces_the_end_of_leap_seconds/",
-   "ts": 1792091101,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Principles of Debugging",
-   "url": "https://www.reddit.com/r/programming/comments/1x7dlgl/principles_of_debugging/",
-   "ts": 1792149774,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Freedoom on AWS Lambda Web Functions",
-   "url": "https://www.reddit.com/r/programming/comments/1x7hz86/freedoom_on_aws_lambda_web_functions/",
-   "ts": 1792161525,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "How Stripe uses graph search and state machines to auto-remediate a global database fleet",
-   "url": "https://www.reddit.com/r/programming/comments/1x6fqck/how_stripe_uses_graph_search_and_state_machines/",
-   "ts": 1792051243,
+   "subreddit": "selfhosted",
+   "title": "Quarter 2 Update - Revisiting Rules. Again.",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1sey9ch/quarter_2_update_revisiting_rules_again/",
+   "ts": 1775573579,
    "source": "Reddit"
   }
  ]
