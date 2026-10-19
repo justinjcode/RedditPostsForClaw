@@ -32,6 +32,12 @@ jobs:
               {"handle": "elonmusk", "name": "Elon Musk"},
               {"handle": "realDonaldTrump", "name": "Donald Trump"},
               {"handle": "thsottiaux", "name": "Tibo Sottiaux"},
+              {"handle": "simonw", "name": "Simon Willison"},
+              {"handle": "swyx", "name": "swyx"},
+              {"handle": "bcherny", "name": "Boris Cherny"},
+              {"handle": "Lingling_Wei", "name": "Lingling Wei"},
+              {"handle": "ZichenWanghere", "name": "Zichen Wang"},
+              {"handle": "TheRundownAI", "name": "The Rundown AI"},
           ]
           INSTANCES = ["nitter.kareem.one", "nitter.poast.org", "nitter.catsarch.com",
                        "nitter.tiekoetter.com", "nuku.trabun.org"]
