@@ -1,15 +1,29 @@
 {
- "generated_at": "2026-10-19T16:14:24Z",
+ "generated_at": "2026-10-19T18:16:24Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
-  "MachineLearning",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/programming: all endpoints failed",
+  "r/MachineLearning: all endpoints failed",
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "to github, or not to github?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xa1j0y/to_github_or_not_to_github/",
+   "ts": 1792427244,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Glosano: a self-hosted, MIT-licensed app for learning languages from texts and YouTube videos",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xa15a7/glosano_a_selfhosted_mitlicensed_app_for_learning/",
+   "ts": 1792426367,
+   "source": "Reddit"
+  },
   {
    "subreddit": "MachineLearning",
    "title": "ICLR Desk Rejected with no apparent reason [D]",
@@ -43,13 +57,6 @@
    "title": "Sovereign Apps",
    "url": "https://www.reddit.com/r/selfhosted/comments/1x9zw8a/sovereign_apps/",
    "ts": 1792423557,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Self hosting docs and spread sheet sharing that have decent mobile apps. Alternatives to Nextcloud?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1x9zq2t/self_hosting_docs_and_spread_sheet_sharing_that/",
-   "ts": 1792423183,
    "source": "Reddit"
   },
   {
@@ -379,13 +386,6 @@
    "title": "A New Way to Think About Borrow Checking (In Reverse)",
    "url": "https://www.reddit.com/r/programming/comments/1x92rhh/a_new_way_to_think_about_borrow_checking_in/",
    "ts": 1792328740,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Exactly one year ago, I shared AltSendme here. Your encouragement helped me take it from 50 to almost 10,000 GitHub stars. Here's what's new.",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1x906fd/exactly_one_year_ago_i_shared_altsendme_here_your/",
-   "ts": 1792320347,
    "source": "Reddit"
   },
   {
