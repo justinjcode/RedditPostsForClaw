@@ -1,15 +1,99 @@
 {
- "generated_at": "2026-10-19T18:16:24Z",
+ "generated_at": "2026-10-19T20:13:32Z",
  "count": 60,
  "subreddits_ok": [
+  "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed",
-  "r/MachineLearning: all endpoints failed",
   "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Best practices and practical solutions for backups?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xa7fl7/best_practices_and_practical_solutions_for_backups/",
+   "ts": 1792440201,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "The old software under everything new",
+   "url": "https://www.reddit.com/r/programming/comments/1xa68q1/the_old_software_under_everything_new/",
+   "ts": 1792437569,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "I built Flui: an open-source cloud platform from a provider API key or your own server",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xa5vyr/i_built_flui_an_opensource_cloud_platform_from_a/",
+   "ts": 1792436789,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Super Productivity v19.2: self-hosted task management, live Markdown notes, and bulk actions",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xa51sm/super_productivity_v192_selfhosted_task/",
+   "ts": 1792434974,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "ML on a shoestring? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xa4ony/ml_on_a_shoestring_d/",
+   "ts": 1792434187,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Open GPU kernel engineering series: naive GEMM to FlashAttention, H100 and Blackwell (44 sessions, code public) [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xa4h2g/open_gpu_kernel_engineering_series_naive_gemm_to/",
+   "ts": 1792433718,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Making software is an artistic activity",
+   "url": "https://www.reddit.com/r/programming/comments/1xa4bck/making_software_is_an_artistic_activity/",
+   "ts": 1792433378,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Genera for the Initiated: Inside Symbolics Lisp Machines",
+   "url": "https://www.reddit.com/r/programming/comments/1xa42v1/genera_for_the_initiated_inside_symbolics_lisp/",
+   "ts": 1792432855,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "AI generates research ideas faster than I can test them. Anyone else? [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xa3svs/ai_generates_research_ideas_faster_than_i_can/",
+   "ts": 1792432249,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Campfire port in Java is faster than Rust. Some thoughts about JEP 544 (AOT Code Compilation)",
+   "url": "https://www.reddit.com/r/programming/comments/1xa3cyt/campfire_port_in_java_is_faster_than_rust_some/",
+   "ts": 1792431280,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Maxwell: a new model that speeds up AI models like Whisper and LTX-2 by rewriting their binaries [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xa2rrh/maxwell_a_new_model_that_speeds_up_ai_models_like/",
+   "ts": 1792430015,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Maths, Metal, and Mandelbrot",
+   "url": "https://www.reddit.com/r/programming/comments/1xa2mgy/maths_metal_and_mandelbrot/",
+   "ts": 1792429690,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "to github, or not to github?",
@@ -18,10 +102,17 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Glosano: a self-hosted, MIT-licensed app for learning languages from texts and YouTube videos",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xa15a7/glosano_a_selfhosted_mitlicensed_app_for_learning/",
-   "ts": 1792426367,
+   "subreddit": "programming",
+   "title": "The Labor Market for Recent College Graduates",
+   "url": "https://www.reddit.com/r/programming/comments/1xa16ri/the_labor_market_for_recent_college_graduates/",
+   "ts": 1792426460,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "GitHub Actions is down once again",
+   "url": "https://www.reddit.com/r/programming/comments/1xa0z6c/github_actions_is_down_once_again/",
+   "ts": 1792425991,
    "source": "Reddit"
   },
   {
@@ -29,6 +120,13 @@
    "title": "ICLR Desk Rejected with no apparent reason [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xa0ris/iclr_desk_rejected_with_no_apparent_reason_d/",
    "ts": 1792425544,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Parser Combinators",
+   "url": "https://www.reddit.com/r/programming/comments/1xa0ej4/parser_combinators/",
+   "ts": 1792424708,
    "source": "Reddit"
   },
   {
@@ -50,13 +148,6 @@
    "title": "Where do you host your personal apps if you're not self-hosting yet but would like to?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1x9zx6s/where_do_you_host_your_personal_apps_if_youre_not/",
    "ts": 1792423619,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Sovereign Apps",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1x9zw8a/sovereign_apps/",
-   "ts": 1792423557,
    "source": "Reddit"
   },
   {
@@ -144,6 +235,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "selfhosted",
+   "title": "Plex being actively exploited (Plex2Shell) on 32400",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1x9trfc/plex_being_actively_exploited_plex2shell_on_32400/",
+   "ts": 1792407494,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "LocalLLaMA",
    "title": "llama server's default port changed from 8080 to 9931",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9tbg2/llama_servers_default_port_changed_from_8080_to/",
@@ -165,13 +263,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Postgres DELETE Can Actualy Scale",
-   "url": "https://www.reddit.com/r/programming/comments/1x9se3z/postgres_delete_can_actualy_scale/",
-   "ts": 1792402568,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "incoai/Qwen3.8-Flash-Next-DFlash2",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9rq3r/incoaiqwen38flashnextdflash2/",
@@ -186,31 +277,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "What are the challenges encountered when using coding agents for ML tasks? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1x9r361/what_are_the_challenges_encountered_when_using/",
-   "ts": 1792397656,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "My €1,000 used-hardware rack runs my home services, production apps and local inference",
    "url": "https://www.reddit.com/r/selfhosted/comments/1x9r11n/my_1000_usedhardware_rack_runs_my_home_services/",
    "ts": 1792397431,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "The Developer Communication Handbook",
-   "url": "https://www.reddit.com/r/programming/comments/1x9qswh/the_developer_communication_handbook/",
-   "ts": 1792396592,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "A Vim User's Answer to Tab Management Nightmare",
-   "url": "https://www.reddit.com/r/programming/comments/1x9pg9x/a_vim_users_answer_to_tab_management_nightmare/",
-   "ts": 1792391415,
    "source": "Reddit"
   },
   {
@@ -250,20 +320,6 @@
   },
   {
    "subreddit": "MachineLearning",
-   "title": "A Whole-Cortex Encoding Model of Vision, Audition, and Language for In-Silico Neuroscience [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1x9jbxs/a_wholecortex_encoding_model_of_vision_audition/",
-   "ts": 1792371274,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "How to keep security cameras recording during a power outage?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1x9i34h/how_to_keep_security_cameras_recording_during_a/",
-   "ts": 1792367638,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
    "title": "Do ICLR guidelines allow to upload papers under review to LLM chats? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9i1pg/do_iclr_guidelines_allow_to_upload_papers_under/",
    "ts": 1792367521,
@@ -274,13 +330,6 @@
    "title": "Google Open Sources Harness2 for Self Improving AI Agents",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9gfnb/google_open_sources_harness2_for_self_improving/",
    "ts": 1792362831,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Jellyfin \"Plugin\" - KefinTweaks v0.5 [Major Release]",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1x9g1bb/jellyfin_plugin_kefintweaks_v05_major_release/",
-   "ts": 1792361751,
    "source": "Reddit"
   },
   {
@@ -326,24 +375,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "ANN: Free Pascal Compiler Now Has Dynamic Package Support",
-   "url": "https://www.reddit.com/r/programming/comments/1x9av5j/ann_free_pascal_compiler_now_has_dynamic_package/",
-   "ts": 1792349018,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Doska: open source self-hosted kanban with Markdown cards (Trello alternative with an Obsidian concept)",
    "url": "https://www.reddit.com/r/selfhosted/comments/1x99we1/doska_open_source_selfhosted_kanban_with_markdown/",
    "ts": 1792346703,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Trials and Tribulation of Native Lua Compilation",
-   "url": "https://www.reddit.com/r/programming/comments/1x97ww8/trials_and_tribulation_of_native_lua_compilation/",
-   "ts": 1792341968,
    "source": "Reddit"
   },
   {
@@ -365,41 +400,6 @@
    "title": "How Containers Work: Building a Docker-like Container From Scratch",
    "url": "https://www.reddit.com/r/programming/comments/1x97kbr/how_containers_work_building_a_dockerlike/",
    "ts": 1792341107,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Automated Accessibility Testing at Slack",
-   "url": "https://www.reddit.com/r/programming/comments/1x966u5/automated_accessibility_testing_at_slack/",
-   "ts": 1792337790,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "ICLR 2027: Reciprocal reviewer with 0 paper assignments—should I be concerned? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1x94heh/iclr_2027_reciprocal_reviewer_with_0_paper/",
-   "ts": 1792333456,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "A New Way to Think About Borrow Checking (In Reverse)",
-   "url": "https://www.reddit.com/r/programming/comments/1x92rhh/a_new_way_to_think_about_borrow_checking_in/",
-   "ts": 1792328740,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Mobile Application GPU Optimization Guide",
-   "url": "https://www.reddit.com/r/programming/comments/1x8uq7d/mobile_application_gpu_optimization_guide/",
-   "ts": 1792300133,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "What is wrong with AI writing - ICLR edition [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1x8oksb/what_is_wrong_with_ai_writing_iclr_edition_d/",
-   "ts": 1792280403,
    "source": "Reddit"
   },
   {
