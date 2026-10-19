@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-19T07:22:24Z",
+ "generated_at": "2026-10-19T07:54:02Z",
  "accounts_ok": [
-  "TheRundownAI",
+  "Lingling_Wei",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +10,20 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Hire Grok @Bot today. You won’t regret it. Teslaconomics (@Teslaconomics) I’m like 99.99999% convinced Grok Bot is the greatest thing that’s ever happened to AI — https://nitter.kareem.one/Teslaconomics/status/2112077722285650201#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2112083685872644421#m",
+   "ts": 1792394965,
+   "id": "2112083685872644421#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -347,15 +356,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2111877649513529345#m",
    "ts": 1792345843,
    "id": "2111877649513529345#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok @Bot can call restaurants by phone and book you a table Brian Roemmele (@BrianRoemmele) “HUNNY MY GROK BOT CALLED OUR FAVORITE ITALIAN RESTAURANT AND MADE US RESERVATIONS” I built a Grok Bot whose only job is to pick up the phone and book you a table at restaurant. Literally make the call in a beautiful Grok voice. It is absolutely amazing! And it’s free. Try it: x.ai/bot/TIMrxLJHbEEpdr25yYg… Yesterday I told it \"book Gourmet Italia in Temecula, 4 people, tonight, around 7.\" It found the restaurant's number on its own, asked how flexible we were on time, what name to book under, and what callback number to give. Then it read everything back and waited for my OK before it dialed. One call covers every time that works for us, so there's no back and forth. When the call ends, it tells me what happened in plain English, quotes what the restaurant actually said, and offers to put the reservation on my calendar. If I don't have a calendar connected, it hands me a file that opens right in Apple Calendar. A Proposal: Grok Phone Grok Bot needs its own phone number to make and receive calls. I connected a calling service called ClawCall, and the free tier gave me 30 calls or 30 minutes to start. I have no connection to that company. It's just what I used. Once Grok Bot has a number, it stops being something you type to and becomes something that can actually get things done in the real world. @Grok you need an old tyme phone service, buddy. I built some guardrails. It never hands ",
-   "url": "https://nitter.kareem.one/elonmusk/status/2111867437238853726#m",
-   "ts": 1792343408,
-   "id": "2111867437238853726#m"
   },
   {
    "handle": "thsottiaux",
