@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-19T20:38:19Z",
+ "generated_at": "2026-10-19T21:05:13Z",
  "accounts_ok": [
   "elonmusk",
   "realDonaldTrump",
-  "simonw"
+  "swyx",
+  "thsottiaux"
  ],
  "errors": [
-  "@thsottiaux: all instances failed",
-  "@swyx: all instances failed",
+  "@simonw: all instances failed",
   "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed",
@@ -15,6 +15,15 @@
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "First AIE Code Summit speakers: @poteto , Principal Engineer @ SpaceX @steve_yegge , Engineer, Writer, Advisor @zachbruggeman , Principal Software Engineer @ Ramp Nov 10-12, SF. Come hang out with us. Apply at ai.engineer/code",
+   "url": "https://nitter.kareem.one/aiDotEngineer/status/2112276851355693315#m",
+   "ts": 1792441020,
+   "id": "2112276851355693315#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -851,15 +860,6 @@
    "url": "https://nitter.kareem.one/SpaceX/status/2111072697690317011#m",
    "ts": 1792153927,
    "id": "2111072697690317011#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "The most life-changing books, statistically",
-   "url": "https://nitter.kareem.one/milan_milanovic/status/2111045854593200447#m",
-   "ts": 1792147527,
-   "id": "2111045854593200447#m"
   },
   {
    "handle": "TheRundownAI",
