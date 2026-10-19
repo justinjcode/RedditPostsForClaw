@@ -31,6 +31,7 @@ jobs:
           ACCOUNTS = [
               {"handle": "elonmusk", "name": "Elon Musk"},
               {"handle": "realDonaldTrump", "name": "Donald Trump"},
+              {"handle": "thsottiaux", "name": "Tibo Sottiaux"},
           ]
           INSTANCES = ["nitter.kareem.one", "nitter.poast.org", "nitter.catsarch.com",
                        "nitter.tiekoetter.com", "nuku.trabun.org"]
