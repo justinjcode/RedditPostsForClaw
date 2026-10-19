@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-19T11:37:37Z",
+ "generated_at": "2026-10-19T12:08:02Z",
  "accounts_ok": [
   "TheRundownAI",
-  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
-  "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed"
+  "@realDonaldTrump: all instances failed",
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 179,
  "items": [
@@ -433,6 +433,15 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
+   "text": "YOU CAN SEE EVERYTHING, PRIMETIME, and DIGGER make 2026 the best year for film since 2015 (SICARIO, EX MACHINA, and MAD MAX: FURY ROAD). At long last, movies are back.",
+   "url": "https://nitter.kareem.one/pmarca/status/2111684043926622639#m",
+   "ts": 1792299683,
+   "id": "2111684043926622639#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
    "text": "Just found out about recency bias. Maybe the most important bias ever",
    "url": "https://nitter.kareem.one/endliste/status/2111683506346901833#m",
    "ts": 1792299555,
@@ -599,15 +608,6 @@
    "url": "https://nitter.kareem.one/hallerite/status/2111453856647250041#m",
    "ts": 1792244802,
    "id": "2111453856647250041#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "kinda like this chart to tell the story. basically no love for 2 years and then slowly we get recommended via browsing. our CTR sucks.",
-   "url": "https://nitter.kareem.one/swyx/status/2111353401363902573#m",
-   "ts": 1792220852,
-   "id": "2111353401363902573#m"
   },
   {
    "handle": "ZichenWanghere",
