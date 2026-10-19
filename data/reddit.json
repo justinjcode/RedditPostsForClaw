@@ -1,15 +1,22 @@
 {
- "generated_at": "2026-10-19T02:53:12Z",
+ "generated_at": "2026-10-19T04:14:37Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Hard drive doing sounds",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1x9lyt6/hard_drive_doing_sounds/",
+   "ts": 1792379354,
+   "source": "Reddit"
+  },
   {
    "subreddit": "MachineLearning",
    "title": "I moved from network training to deployment optimization and am starting to think that was a right decision [D]",
@@ -159,13 +166,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "you tube 24/7",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1x9ahb7/you_tube_247/",
-   "ts": 1792348087,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "Looking for self-hosted MDM for Android",
    "url": "https://www.reddit.com/r/selfhosted/comments/1x9ah68/looking_for_selfhosted_mdm_for_android/",
    "ts": 1792348077,
@@ -197,6 +197,13 @@
    "title": "PSA: Power limit your 5090s!",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x98bby/psa_power_limit_your_5090s/",
    "ts": 1792342953,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Any folks use NixOS for hosting services? Any tips?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1x986on/any_folks_use_nixos_for_hosting_services_any_tips/",
+   "ts": 1792342649,
    "source": "Reddit"
   },
   {
@@ -260,13 +267,6 @@
    "title": "Setting up my own family cloud drive for the first time - Nextcloud or Opencloud?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1x948yr/setting_up_my_own_family_cloud_drive_for_the/",
    "ts": 1792332828,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "tinyfeed 1.5.1: the stability release!",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1x93b1w/tinyfeed_151_the_stability_release/",
-   "ts": 1792330285,
    "source": "Reddit"
   },
   {
