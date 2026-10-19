@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-10-19T10:05:16Z",
+ "generated_at": "2026-10-19T10:38:36Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "bcherny",
+  "TheRundownAI",
+  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -10,11 +11,37 @@
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@bcherny: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: therundownai.beehiiv.com/p/a… Link Anthropic designs a pay package for the public Anthropic unveils a public benefit fund that shares AI profits as its value grows, turning frontier labs' promises about sharing AI wealth into real action. therundownai.beehiiv.com",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2112129335490429142#m",
+   "ts": 1792405849,
+   "id": "2112129335490429142#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in AI today: - Anthropic designs a pay package for the public - The Rundown Roundtable: Our AI use cases - Turn a content spreadsheet into a working app - Anthropic data shows junior employees losing ground",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2112129330578919472#m",
+   "ts": 1792405848,
+   "id": "2112129330578919472#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Here is an early look at the front page of today's Wall Street Journal on.wsj.com/4zzheZc",
+   "url": "https://nitter.kareem.one/WSJ/status/2112114101686047190#m",
+   "ts": 1792402217,
+   "id": "2112114101686047190#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1303,15 +1330,6 @@
    "id": "2110015494883275164#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in tech today: - Apple unveils a new wave of smart-home gear - Hackers hit hundreds of French supermarkets - Google unveils Fitbit Edge with a replaceable battery - Bumble eyes a $1B reset as daters burn out",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2110015490110206392#m",
-   "ts": 1791901869,
-   "id": "2110015490110206392#m"
-  },
-  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -1348,15 +1366,6 @@
    "id": "2109994996728246545#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: therundownai.beehiiv.com/p/m… Link Meta's Watermelon ripens into a frontier model Meta's new Muse Spark family (codename Watermelon) lands near the AI frontier, trailing only Claude Opus 5.5 in overall rankings. Here's what it means. therundownai.beehiiv.com",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2109954955960291359#m",
-   "ts": 1791887437,
-   "id": "2109954955960291359#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -1364,15 +1373,6 @@
    "url": "https://nitter.kareem.one/KoruturkBey/status/2109849106910978504#m",
    "ts": 1791862200,
    "id": "2109849106910978504#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "This is a meaningful shift in the term’s definition CHINA POLICY (@policycn) New quality productive forces (NQPF) has been Beijing’s shorthand for growth beyond property since 2023. The new document defines the term, making total factor productivity the core benchmark. Traditional industry counts. Duplicate local investment does not. Blind investment gets accountability. source: buff.ly/u0U9ILO — https://nitter.kareem.one/policycn/status/2109588952353001982#m",
-   "url": "https://nitter.kareem.one/Scholars_Stage/status/2109728110505803914#m",
-   "ts": 1791833353,
-   "id": "2109728110505803914#m"
   },
   {
    "handle": "simonw",
