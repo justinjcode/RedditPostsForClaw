@@ -1,15 +1,36 @@
 {
- "generated_at": "2026-10-19T12:19:20Z",
+ "generated_at": "2026-10-19T14:13:41Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "In Context - Rich Hickey (Clojure/Conj 2026)",
+   "url": "https://www.reddit.com/r/programming/comments/1x9x7ar/in_context_rich_hickey_clojureconj_2026/",
+   "ts": 1792417280,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Tv stream box",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1x9wzbf/tv_stream_box/",
+   "ts": 1792416709,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Borrow Checking Zero-Cost Cyclic Mutability",
+   "url": "https://www.reddit.com/r/programming/comments/1x9vy00/borrow_checking_zerocost_cyclic_mutability/",
+   "ts": 1792413977,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "MiniMax M3.1 Flash released, Model weights Oct 23",
@@ -50,13 +71,6 @@
    "title": "MiniMax-M3.1-Flash is coming",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9suvs/minimaxm31flash_is_coming/",
    "ts": 1792404308,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "What if structured data didn't repeat its schema for every record?",
-   "url": "https://www.reddit.com/r/programming/comments/1x9srdm/what_if_structured_data_didnt_repeat_its_schema/",
-   "ts": 1792403976,
    "source": "Reddit"
   },
   {
@@ -214,13 +228,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "What is the best book or resource for system design?",
-   "url": "https://www.reddit.com/r/programming/comments/1x9hvrt/what_is_the_best_book_or_resource_for_system/",
-   "ts": 1792367025,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Google Open Sources Harness2 for Self Improving AI Agents",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9gfnb/google_open_sources_harness2_for_self_improving/",
@@ -351,13 +358,6 @@
    "title": "ICLR 2027: Reciprocal reviewer with 0 paper assignments—should I be concerned? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1x94heh/iclr_2027_reciprocal_reviewer_with_0_paper/",
    "ts": 1792333456,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Setting up my own family cloud drive for the first time - Nextcloud or Opencloud?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1x948yr/setting_up_my_own_family_cloud_drive_for_the/",
-   "ts": 1792332828,
    "source": "Reddit"
   },
   {
