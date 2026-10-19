@@ -1,0 +1,20 @@
+name: probe-nitter
+
+on:
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 8
+    steps:
+      - name: Probe nitter instances
+        run: |
+          for host in xcancel.com nitter.poast.org nitter.privacyredirect.com nitter.tiekoetter.com nuku.trabun.org nitter.catsarch.com nitter.kareem.one twiiit.com; do
+            out=$(curl -sS --max-time 20 -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0 Safari/537.36" \
+              -o /tmp/r.xml -w "%{http_code} %{size_download}" \
+              "https://$host/elonmusk/rss" 2>/dev/null)
+            items=$(grep -c "<item>" /tmp/r.xml 2>/dev/null || echo 0)
+            title=$(grep -o "<title>[^<]*</title>" /tmp/r.xml 2>/dev/null | head -1 | cut -c1-60)
+            echo "$host => http/size=$out items=$items $title"
+          done
