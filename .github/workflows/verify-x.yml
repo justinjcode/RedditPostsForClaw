@@ -15,12 +15,9 @@ jobs:
           import xml.etree.ElementTree as ET
 
           CANDIDATES = [
-              "simonw", "swyx", "bcherny", "trq212", "jxnlco", "steipete",
-              "karpathy", "emollick", "OfficialLoganK", "ammaar",
-              "niubi", "jordanschnyc", "pstAsiatech", "michaelxpettis",
-              "Lingling_Wei", "ZichenWanghere",
-              "deepseek_ai", "Alibaba_Qwen", "Kimi_Moonshot", "_akhaliq",
-              "TheRundownAI", "GergelyOrosz",
+              "jxnlco", "deepseek_ai", "niubi", "jordanschnyc", "pstAsiatech",
+              "michaelxpettis", "GergelyOrosz", "steipete", "ammaar",
+              "ZichenWanghere", "Kimi_Moonshot", "AndrewYNg", "sama", "gdb",
           ]
           HOST = "nitter.kareem.one"
           UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -53,5 +50,5 @@ jobs:
                       status = type(e).__name__
                       break
               print(f"@{h:18s} status={status:12s} items={items:3d} latest={last}")
-              time.sleep(3)
+              time.sleep(8)
           PY
