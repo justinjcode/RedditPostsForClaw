@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-10-19T17:04:20Z",
+ "generated_at": "2026-10-19T17:36:23Z",
  "accounts_ok": [
-  "bcherny",
+  "Lingling_Wei",
+  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
-  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
+  "@simonw: all instances failed",
+  "@swyx: all instances failed",
+  "@bcherny: all instances failed",
   "@TheRundownAI: all instances failed"
  ],
  "count": 179,
@@ -32,6 +32,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2112217914673959115#m",
    "ts": 1792426968,
    "id": "2112217914673959115#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Tesla shareholders: Our Annual Meeting is coming up on Dec 3rd This year, we’re asking you to vote “FOR” all three proposals on the ballot, including the re-election of Elon Musk, Robyn Denholm and JB Straubel to Tesla’s Board. Last year, we laid out our vision for building a world of amazing abundance – this year, it’s been coming to life. And we’re only getting started… Your vote is critical to helping us maintain that momentum. Voting instructions & control numbers to follow soon. More info: VoteTesla.com",
+   "url": "https://nitter.kareem.one/Tesla/status/2112190017267532210#m",
+   "ts": 1792420317,
+   "id": "2112190017267532210#m"
   },
   {
    "handle": "TheRundownAI",
@@ -439,15 +448,6 @@
    "id": "2111914776217747673#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok @Bot is like hiring an incredibly competent employee Rothmus 🏴 (@Rothmus) Use Grok @Bot This is a public service announcement. — https://nitter.kareem.one/Rothmus/status/2111888458314879221#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2111914748648296655#m",
-   "ts": 1792354688,
-   "id": "2111914748648296655#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -464,15 +464,6 @@
    "url": "https://nitter.kareem.one/melvindvivas/status/2111892400302108925#m",
    "ts": 1792349359,
    "id": "2111892400302108925#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Try Grok @Bot Teslaconomics (@Teslaconomics) Bro… it actually worked. I sent one text to my Grok @bot asking it to order the Ollyball Keepy Uppy, the indoor ball from Shark Tank. And now it’s sitting on my doorstep. I didn’t open a single website. I just told it what I wanted, and it literally took care of the rest. Watching that go from a text on my phone to an actual package at my door is pretty wild if you ask me. Good luck getting me to shop the old way again… I don’t think I’m ever going back to the traditional way of shopping ever again with Grok Bot at my fingertips. — https://nitter.kareem.one/Teslaconomics/status/2111863184139358640#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2111877649513529345#m",
-   "ts": 1792345843,
-   "id": "2111877649513529345#m"
   },
   {
    "handle": "swyx",
@@ -824,6 +815,15 @@
    "url": "https://nitter.kareem.one/NickTimiraos/status/2111095043771822252#m",
    "ts": 1792159255,
    "id": "2111095043771822252#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "We will post our Q3 2026 financial and operational results on October 20, 2026. We will host a live audio-only webcast at 3:30 p.m. CT the same day → ir.spacex.com/updates/releas…",
+   "url": "https://nitter.kareem.one/SpaceX/status/2111072697690317011#m",
+   "ts": 1792153927,
+   "id": "2111072697690317011#m"
   },
   {
    "handle": "swyx",
