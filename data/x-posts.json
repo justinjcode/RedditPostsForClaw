@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-10-19T09:45:26Z",
+ "generated_at": "2026-10-19T10:05:16Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
-  "@swyx: all instances failed",
-  "@bcherny: all instances failed",
   "@ZichenWanghere: all instances failed",
   "@TheRundownAI: all instances failed"
  ],
@@ -583,15 +583,6 @@
    "id": "2111353401363902573#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "channel affinity my goal is basically to collab with every single one of these folks. you guys already love them. pls @Jeffdelaney23 @ThePrimeagen",
-   "url": "https://nitter.kareem.one/swyx/status/2111351354409300230#m",
-   "ts": 1792220364,
-   "id": "2111351354409300230#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -986,6 +977,15 @@
    "url": "https://nitter.kareem.one/jukan05/status/2110554391652540429#m",
    "ts": 1792030353,
    "id": "2110554391652540429#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "What's better than visiting Taiwan with Jensen? Joining @HackerHouseTW in Taipei in December! RSVP now 👉 hackerhousetaiwan.fyi/2026 Lex Fridman (@lexfridman) I've been traveling the world a bit. One of the most incredible experiences was getting to visit Taiwan w/ @JensenHuang . It was wild 🤯.. huge crowds of engineers, insanely good street food at night markets, and of course a lot of good conversations across many days. I caught some of it on video, see below. Alright, that's it from me, love you all ❤️ Timestamps: 0:00 - Highlights 0:46 - Intro 3:25 - Computex: crowds, engineers, tech, future of AI 9:12 - Chat with Jensen: keynote prep & nerves 13:03 - Chat with Jensen: Taiwan's tech history 19:47 - Raohe night market 29:37 - Chat with Jensen: memories from childhood 33:44 - NVIDIA party 40:29 - Lunch: braised pig's feet 43:09 - Chat with Jensen: GPUs, AI, and competition 55:07 - Ningxia night market 1:10:14 - Taiwanese breakfast 1:29:54 - Outro Video — https://nitter.kareem.one/lexfridman/status/2110121495896695028#m",
+   "url": "https://nitter.kareem.one/thorwebdev/status/2110548974469828756#m",
+   "ts": 1792029062,
+   "id": "2110548974469828756#m"
   },
   {
    "handle": "ZichenWanghere",
