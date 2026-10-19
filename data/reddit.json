@@ -1,0 +1,189 @@
+{
+ "generated_at": "2026-10-19T02:37:06Z",
+ "count": 25,
+ "errors": [
+  "r/MachineLearning @ https://www.reddit.com: HTTPError: HTTP Error 429: Too Many Requests",
+  "r/MachineLearning @ https://old.reddit.com: HTTPError: HTTP Error 404: Not Found",
+  "r/LocalLLaMA @ https://www.reddit.com: HTTPError: HTTP Error 429: Too Many Requests",
+  "r/LocalLLaMA @ https://old.reddit.com: HTTPError: HTTP Error 404: Not Found",
+  "r/selfhosted @ https://www.reddit.com: HTTPError: HTTP Error 429: Too Many Requests",
+  "r/selfhosted @ https://old.reddit.com: HTTPError: HTTP Error 404: Not Found"
+ ],
+ "items": [
+  {
+   "subreddit": "programming",
+   "title": "It's still OK to enjoy programming",
+   "url": "https://www.reddit.com/r/programming/comments/1x97lsb/its_still_ok_to_enjoy_programming/",
+   "ts": 1792341208,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "How Containers Work: Building a Docker-like Container From Scratch",
+   "url": "https://www.reddit.com/r/programming/comments/1x97kbr/how_containers_work_building_a_dockerlike/",
+   "ts": 1792341107,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "ANN: Free Pascal Compiler Now Has Dynamic Package Support",
+   "url": "https://www.reddit.com/r/programming/comments/1x9av5j/ann_free_pascal_compiler_now_has_dynamic_package/",
+   "ts": 1792349018,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "A New Way to Think About Borrow Checking (In Reverse)",
+   "url": "https://www.reddit.com/r/programming/comments/1x92rhh/a_new_way_to_think_about_borrow_checking_in/",
+   "ts": 1792328740,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "How tough can emoji be?",
+   "url": "https://www.reddit.com/r/programming/comments/1x9ecjd/how_tough_can_emoji_be/",
+   "ts": 1792357403,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "What is the best book or resource for system design?",
+   "url": "https://www.reddit.com/r/programming/comments/1x9hvrt/what_is_the_best_book_or_resource_for_system/",
+   "ts": 1792367025,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Automated Accessibility Testing at Slack",
+   "url": "https://www.reddit.com/r/programming/comments/1x966u5/automated_accessibility_testing_at_slack/",
+   "ts": 1792337790,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Mobile Application GPU Optimization Guide",
+   "url": "https://www.reddit.com/r/programming/comments/1x8uq7d/mobile_application_gpu_optimization_guide/",
+   "ts": 1792300133,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Trials and Tribulation of Native Lua Compilation",
+   "url": "https://www.reddit.com/r/programming/comments/1x97ww8/trials_and_tribulation_of_native_lua_compilation/",
+   "ts": 1792341968,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Python's binary wheels and supply chain attacks",
+   "url": "https://www.reddit.com/r/programming/comments/1x8eqt6/pythons_binary_wheels_and_supply_chain_attacks/",
+   "ts": 1792255050,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "I Traced a Postgres INSERT to Raw Bytes on Disk",
+   "url": "https://www.reddit.com/r/programming/comments/1x8gk1v/i_traced_a_postgres_insert_to_raw_bytes_on_disk/",
+   "ts": 1792259478,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Durable workflows without replay: freezing the VM instead of re-running the code",
+   "url": "https://www.reddit.com/r/programming/comments/1x9akv3/durable_workflows_without_replay_freezing_the_vm/",
+   "ts": 1792348323,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Much Ado About Seven Bytes",
+   "url": "https://www.reddit.com/r/programming/comments/1x8fvz1/much_ado_about_seven_bytes/",
+   "ts": 1792257800,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Compression is prediction",
+   "url": "https://www.reddit.com/r/programming/comments/1x7x6dq/compression_is_prediction/",
+   "ts": 1792198859,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Improving heuristics for A* search",
+   "url": "https://www.reddit.com/r/programming/comments/1x80isg/improving_heuristics_for_a_search/",
+   "ts": 1792209654,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Modern software doesn't need to use servers for everything. How to create offline-first apps to earn trust in SaaS era",
+   "url": "https://www.reddit.com/r/programming/comments/1x90utt/modern_software_doesnt_need_to_use_servers_for/",
+   "ts": 1792322718,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "A Subtle Github Bug: Where Did My Merged Code Went Missing?",
+   "url": "https://www.reddit.com/r/programming/comments/1x9095f/a_subtle_github_bug_where_did_my_merged_code_went/",
+   "ts": 1792320619,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Domain-Driven Design (DDD) — The Complete Guide | Visually Explained",
+   "url": "https://www.reddit.com/r/programming/comments/1x7o6km/domaindriven_design_ddd_the_complete_guide/",
+   "ts": 1792175685,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "How Not to Build a Five-in-a-Row Game Engine",
+   "url": "https://www.reddit.com/r/programming/comments/1x88p5f/how_not_to_build_a_fiveinarow_game_engine/",
+   "ts": 1792239066,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Learning Postgres extensions using Zig",
+   "url": "https://www.reddit.com/r/programming/comments/1x7mmu6/learning_postgres_extensions_using_zig/",
+   "ts": 1792172174,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Learned Index Lab: Replacing B-Trees with streaming linear models in pure Rust (-99% RAM, 3x faster)",
+   "url": "https://www.reddit.com/r/programming/comments/1x71ti7/learned_index_lab_replacing_btrees_with_streaming/",
+   "ts": 1792109524,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "BIPM announces the end of leap seconds",
+   "url": "https://www.reddit.com/r/programming/comments/1x6uhya/bipm_announces_the_end_of_leap_seconds/",
+   "ts": 1792091101,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Principles of Debugging",
+   "url": "https://www.reddit.com/r/programming/comments/1x7dlgl/principles_of_debugging/",
+   "ts": 1792149774,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Freedoom on AWS Lambda Web Functions",
+   "url": "https://www.reddit.com/r/programming/comments/1x7hz86/freedoom_on_aws_lambda_web_functions/",
+   "ts": 1792161525,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "How Stripe uses graph search and state machines to auto-remediate a global database fleet",
+   "url": "https://www.reddit.com/r/programming/comments/1x6fqck/how_stripe_uses_graph_search_and_state_machines/",
+   "ts": 1792051243,
+   "source": "Reddit"
+  }
+ ]
+}
