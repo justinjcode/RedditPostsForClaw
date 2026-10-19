@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-10-19T08:11:15Z",
+ "generated_at": "2026-10-19T08:49:18Z",
  "accounts_ok": [
-  "bcherny",
+  "Lingling_Wei",
+  "TheRundownAI",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -9,9 +10,8 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@bcherny: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 179,
  "items": [
@@ -163,7 +163,7 @@
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
-   "text": "THREE'S COMPANY: Putin wants a summit with Trump and Xi to decide Ukraine's fate. Scoop by @Lingling_Wei @learyreports @tggrove @jdawsey1 wsj.com/world/russia/putin-f… Link Exclusive | Putin Floats a Summit With Trump and Xi to Decide Ukraine’s Fate The Russian leader is trying to capitalize on warming ties with the president to unlock a favorable resolution to the war with Kyiv. wsj.com",
+   "text": "THREE'S COMPANY: Putin wants a summit with Trump and Xi to decide Ukraine's fate. Scoop by @Lingling_Wei @learyreports @tggrove @jdawsey1 wsj.com/world/russia/putin-f… Link Exclusive | Putin Floats a Summit With Trump and Xi to Discuss Ukraine Deal Ukraine’s Zelensky would not be included in the proposed talks, as Russia’s leader seeks to negotiate an end to the conflict that favors Moscow. wsj.com",
    "url": "https://nitter.kareem.one/michaelkamon/status/2111991521213923497#m",
    "ts": 1792372992,
    "id": "2111991521213923497#m"
