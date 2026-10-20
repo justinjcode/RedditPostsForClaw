@@ -1,20 +1,37 @@
 {
- "generated_at": "2026-10-20T19:08:17Z",
+ "generated_at": "2026-10-20T19:22:09Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@simonw: all instances failed",
-  "@swyx: all instances failed",
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Full article via Variety: variety.com/2026/tv/global/a… Link AI Could ‘Absolutely’ Replace Human Actors, CEO of Generative AI Startup Runway Says at Italy’s... AI could replace actors, Runway CEO Cristóbal Valenzuela says at a View Conference fireside chat. variety.com",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2112623737082446013#m",
+   "ts": 1792523724,
+   "id": "2112623737082446013#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Runway CEO Cristóbal Valenzuela was asked on stage if AI could replace human actors. “Yeah, absolutely. I think it’s already happening in a way.” Valenzuela spoke at Turin's VIEW Conference last week, in a session titled \"Every Pixel Will Be Generated.\" Nvidia’s Richard Kerris argued Marlon Brando improvising with a cat in 'The Godfather' could never be prompted. Valenzuela: “Not now, but I think models are going to get probably to a point where you can probably direct them in a very similar way.\"",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2112622164830769201#m",
+   "ts": 1792523349,
+   "id": "2112622164830769201#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1114,15 +1131,6 @@
    "id": "2110777479115788587#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "LAUNCHED: Krea has released Krea 3, an image editing model that finishes an edit in under 8 seconds for $0.06 per image. Krea’s comparison chart puts Google’s Nano Banana Pro at 29 seconds and $0.135, and OpenAI’s GPT Image 2 at 118 seconds and $0.22. Video",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2110766091446124970#m",
-   "ts": 1792080826,
-   "id": "2110766091446124970#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -1130,15 +1138,6 @@
    "url": "https://nitter.kareem.one/wangzaimedia/status/2110751737258897509#m",
    "ts": 1792077404,
    "id": "2110751737258897509#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: robotnews.therundown.ai/p/in… Link Inside Amazon’s million-robot experiment PLUS: Microbots deliver drugs directly to the heart robotnews.therundown.ai",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2110740184979390673#m",
-   "ts": 1792074650,
-   "id": "2110740184979390673#m"
   },
   {
    "handle": "simonw",
