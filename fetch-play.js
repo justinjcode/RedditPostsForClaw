@@ -1,4 +1,5 @@
-const gplay = require('google-play-scraper');
+const mod = require('google-play-scraper');
+const gplay = mod.default || mod;
 const fs = require('fs');
 
 (async () => {
@@ -6,8 +7,8 @@ const fs = require('fs');
   for (const cc of ['us', 'cn']) {
     try {
       const apps = await gplay.list({
-        collection: gplay.collection.TOP_FREE,
-        category: gplay.category.APPLICATION,
+        collection: 'TOP_FREE',
+        category: 'APPLICATION',
         country: cc,
         num: 60,
       });
