@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-20T15:50:05Z",
+ "generated_at": "2026-10-20T15:58:24Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "bcherny",
+  "TheRundownAI",
+  "ZichenWanghere",
   "elonmusk",
+  "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@realDonaldTrump: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@bcherny: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -104,6 +104,15 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2112512637825421611#m",
    "ts": 1792497236,
    "id": "2112512637825421611#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "SECRETARY RUBIO: People need to grow up when it comes to foreign policy a little bit. I don't think it's unusual for the three most powerful, nuclear-armed nations on Earth to have their leaders communicate with each other. Video",
+   "url": "https://nitter.kareem.one/StateDept/status/2112510803912138835#m",
+   "ts": 1792496798,
+   "id": "2112510803912138835#m"
   },
   {
    "handle": "elonmusk",
@@ -1184,15 +1193,6 @@
    "url": "https://nitter.kareem.one/theserenadong/status/2110560409031991688#m",
    "ts": 1792031788,
    "id": "2110560409031991688#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "This is interesting. Apparently, SK hynix is in talks with the U.S. government about building a NAND fab in the U.S. in exchange for permission to bring U.S.-made equipment into its second fab in Dalian.",
-   "url": "https://nitter.kareem.one/jukan05/status/2110554391652540429#m",
-   "ts": 1792030353,
-   "id": "2110554391652540429#m"
   },
   {
    "handle": "swyx",
