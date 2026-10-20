@@ -1,15 +1,71 @@
 {
- "generated_at": "2026-10-20T10:11:29Z",
+ "generated_at": "2026-10-20T12:18:23Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
-  "selfhosted"
+  "MachineLearning",
+  "programming"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "Old Books and Verified Text",
+   "url": "https://www.reddit.com/r/programming/comments/1xaqfla/old_books_and_verified_text/",
+   "ts": 1792498198,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "chinese hardware",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xapon0/chinese_hardware/",
+   "ts": 1792495940,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Fresher Lemonade: CLI tips and tricks",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xapj0y/fresher_lemonade_cli_tips_and_tricks/",
+   "ts": 1792495431,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Qwen 3.8 Flash Next: drastically faster and much more precise in reaching the result.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xapakf/qwen_38_flash_next_drastically_faster_and_much/",
+   "ts": 1792494672,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Vals AI found DeepSeek V4.1 Flash 1017 beats GPT 6 Sol on their multi-step offensive cybersecurity task. Sol was tested via the Daybreak trusted access program.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xap2aq/vals_ai_found_deepseek_v41_flash_1017_beats_gpt_6/",
+   "ts": 1792493956,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Qwen3.8-FlashNext vs Qwen3.8-27B tool calling issues",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaos52/qwen38flashnext_vs_qwen3827b_tool_calling_issues/",
+   "ts": 1792492988,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Improve Qwen3.8-27b low quants by using a prefiller model that streams from SSD",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xao7kx/improve_qwen3827b_low_quants_by_using_a_prefiller/",
+   "ts": 1792490987,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Best way to accurately annotate 500 images for fine-tuning Meta DETR?[P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xao1wy/best_way_to_accurately_annotate_500_images_for/",
+   "ts": 1792490443,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Deepseek released DeepInfer - Open Source high-performance, large-scale inference framework for DeepSeek models!",
@@ -54,13 +110,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "Terminal Bench v4 vs Frontier Code v1.1?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xahu9x/terminal_bench_v4_vs_frontier_code_v11/",
-   "ts": 1792467884,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "24GB is plenty if your engines take turns",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xahi82/24gb_is_plenty_if_your_engines_take_turns/",
    "ts": 1792466825,
@@ -71,13 +120,6 @@
    "title": "Solving Strange Website Behavior Found in the Wild",
    "url": "https://www.reddit.com/r/programming/comments/1xah04z/solving_strange_website_behavior_found_in_the_wild/",
    "ts": 1792465281,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Budget upgrade for a 31B model? Dual GPUs over PCIe x1 or another approach?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xagsfh/budget_upgrade_for_a_31b_model_dual_gpus_over/",
-   "ts": 1792464639,
    "source": "Reddit"
   },
   {
@@ -193,13 +235,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Genera for the Initiated: Inside Symbolics Lisp Machines",
-   "url": "https://www.reddit.com/r/programming/comments/1xa42v1/genera_for_the_initiated_inside_symbolics_lisp/",
-   "ts": 1792432855,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "AI generates research ideas faster than I can test them. Anyone else? [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xa3svs/ai_generates_research_ideas_faster_than_i_can/",
@@ -257,20 +292,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "llama.cpp support for Cohere models",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa0cyz/llamacpp_support_for_cohere_models/",
-   "ts": 1792424609,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF updated",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yvgw/istadaslabqwen38flashnextgsqrcocodergguf_updated/",
-   "ts": 1792421234,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "[Bi-Weekly Megathread] Project Showcase",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yg86/biweekly_megathread_project_showcase/",
    "ts": 1792420251,
@@ -295,20 +316,6 @@
    "title": "Plex being actively exploited (Plex2Shell) on 32400",
    "url": "https://www.reddit.com/r/selfhosted/comments/1x9trfc/plex_being_actively_exploited_plex2shell_on_32400/",
    "ts": 1792407494,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "MiniMax-M3.1-Flash is coming",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9suvs/minimaxm31flash_is_coming/",
-   "ts": 1792404308,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "AI labs report benchmark scores 6.4% higher than independent testers, on average",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9skrx/ai_labs_report_benchmark_scores_64_higher_than/",
-   "ts": 1792403275,
    "source": "Reddit"
   },
   {
@@ -351,13 +358,6 @@
    "title": "I moved from network training to deployment optimization and am starting to think that was a right decision [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9k4si/i_moved_from_network_training_to_deployment/",
    "ts": 1792373671,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "A Whole-Cortex Encoding Model of Vision, Audition, and Language for In-Silico Neuroscience [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1x9jbxs/a_wholecortex_encoding_model_of_vision_audition/",
-   "ts": 1792371274,
    "source": "Reddit"
   },
   {
