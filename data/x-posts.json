@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-20T13:23:04Z",
+ "generated_at": "2026-10-20T13:39:53Z",
  "accounts_ok": [
   "TheRundownAI",
-  "bcherny",
+  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -10,11 +10,20 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "Absolutely losing it at La Guardia's Temu version of the Changi airport waterfall",
+   "url": "https://nitter.kareem.one/Birdyword/status/2112525677693981162#m",
+   "ts": 1792500345,
+   "id": "2112525677693981162#m"
+  },
   {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
@@ -1202,15 +1211,6 @@
    "url": "https://nitter.kareem.one/POLITICOEurope/status/2110312063897923693#m",
    "ts": 1791972578,
    "id": "2110312063897923693#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "At the @WarsawForum , I asked Democratic Congressman Jim Himes what would change and what would remain the same in US-Europe relations with a new Democratic Administration? ​Himes provided a pretty clear and realistic overview. #WSF2026 Video",
-   "url": "https://nitter.kareem.one/Linnainmaki/status/2110267261462130760#m",
-   "ts": 1791961896,
-   "id": "2110267261462130760#m"
   },
   {
    "handle": "realDonaldTrump",
