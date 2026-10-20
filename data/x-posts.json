@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-10-20T16:22:46Z",
+ "generated_at": "2026-10-20T16:39:20Z",
  "accounts_ok": [
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Video call SpaceX (@SpaceX) Watch live as SpaceX discusses our Q3 2026 earnings at 3:30pm CT today → nitterk.kareem.one/i/broadcasts/1PKqrNbLZ… Link SpaceX Q3 2026 Financial and Operational Results https://nitter.kareem.one/i/broadcasts/1PKqrNbLZbPGb — https://nitter.kareem.one/SpaceX/status/2112559638579499258#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2112583304738210216#m",
+   "ts": 1792514084,
+   "id": "2112583304738210216#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -1013,15 +1022,6 @@
    "url": "https://nitter.kareem.one/NickTimiraos/status/2111095043771822252#m",
    "ts": 1792159255,
    "id": "2111095043771822252#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "We will post our Q3 2026 financial and operational results on October 20, 2026. We will host a live audio-only webcast at 3:30 p.m. CT the same day → ir.spacex.com/updates/releas…",
-   "url": "https://nitter.kareem.one/SpaceX/status/2111072697690317011#m",
-   "ts": 1792153927,
-   "id": "2111072697690317011#m"
   },
   {
    "handle": "TheRundownAI",
