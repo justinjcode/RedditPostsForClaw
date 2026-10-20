@@ -1,34 +1,76 @@
 {
- "generated_at": "2026-10-20T14:13:26Z",
+ "generated_at": "2026-10-20T16:15:14Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
-  "selfhosted"
+  "MachineLearning",
+  "programming"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Phonon is now open-source, 31M and 40M TTS models designed to run on the edge",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaw2vt/phonon_is_now_opensource_31m_and_40m_tts_models/",
+   "ts": 1792512109,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Under the Hood of Redis: How It Delivers Sub-Millisecond Latency?",
+   "url": "https://www.reddit.com/r/programming/comments/1xavhns/under_the_hood_of_redis_how_it_delivers/",
+   "ts": 1792510809,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Why memory-hard proof-of-work hashes are not a popular choice for CAPTCHA",
+   "url": "https://www.reddit.com/r/programming/comments/1xauiqk/why_memoryhard_proofofwork_hashes_are_not_a/",
+   "ts": 1792508610,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Pocket TTS which supports voice cloning is now just 1.9 million parameters",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xauekr/pocket_tts_which_supports_voice_cloning_is_now/",
+   "ts": 1792508355,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Qwen3.8-Flash-Next vs Opus 5.5: Six-way benchmark on a real Rust feature with Claude Code and Pi",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xatxqk/qwen38flashnext_vs_opus_55_sixway_benchmark_on_a/",
+   "ts": 1792507252,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Unsloth just released Ornith-1.5-122B GGUFs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xatwvb/unsloth_just_released_ornith15122b_ggufs/",
+   "ts": 1792507192,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "ornith-ai/Ornith-1.5-122B (Qwen finetune)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xatebw/ornithaiornith15122b_qwen_finetune/",
+   "ts": 1792505947,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "[Paper] The COUNT: Counting N-grams Unlocks Scaling on Host Memory and Training-Free Adaptation",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xat6o7/paper_the_count_counting_ngrams_unlocks_scaling/",
+   "ts": 1792505433,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "[Paper] REMORY: Learning Residual Memory for Context Compaction",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xasp90/paper_remory_learning_residual_memory_for_context/",
    "ts": 1792504257,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "[Paper] DLite: History-free Speculative Decoding for Agentic AI",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xasomp/paper_dlite_historyfree_speculative_decoding_for/",
-   "ts": 1792504216,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Geezuz kernel: Qwen3.8-27B at 190 tok/s (620~ tok/s at 8 requests) on two 3090s",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaslfk/geezuz_kernel_qwen3827b_at_190_toks_620_toks_at_8/",
-   "ts": 1792503989,
    "source": "Reddit"
   },
   {
@@ -57,6 +99,13 @@
    "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
    "url": "https://www.reddit.com/r/programming/comments/1xarfxg/go_issues_emergency_update_blocking_eight_ca_keys/",
    "ts": 1792501080,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Regarding CVPR 2027 Submission [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xar9ha/regarding_cvpr_2027_submission_d/",
+   "ts": 1792500579,
    "source": "Reddit"
   },
   {
@@ -92,13 +141,6 @@
    "title": "Selfhosting + Beers NL",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xaouai/selfhosting_beers_nl/",
    "ts": 1792493197,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "\"How Gufo caches a hybrid model\", first blog post for Gufo, The Open Source Strix Halo AI engine",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaojci/how_gufo_caches_a_hybrid_model_first_blog_post/",
-   "ts": 1792492139,
    "source": "Reddit"
   },
   {
@@ -159,13 +201,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "HermesConsole: A demo showing off VoiceManager, my low latency streaming STT / TTS server. MIT, client docs, and python client.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xag5bj/hermesconsole_a_demo_showing_off_voicemanager_my/",
-   "ts": 1792462727,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "Do not upgrade Strata! Tons of breaking changes!",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaflhy/do_not_upgrade_strata_tons_of_breaking_changes/",
    "ts": 1792461125,
@@ -204,13 +239,6 @@
    "title": "Any homepages that have sports scores and game times?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xa82vf/any_homepages_that_have_sports_scores_and_game/",
    "ts": 1792441656,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Let's delve into the tapestry of AI slop on r/LocalLLaMA",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa7hi8/lets_delve_into_the_tapestry_of_ai_slop_on/",
-   "ts": 1792440312,
    "source": "Reddit"
   },
   {
@@ -298,24 +326,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Parser Combinators",
-   "url": "https://www.reddit.com/r/programming/comments/1xa0ej4/parser_combinators/",
-   "ts": 1792424708,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "[Bi-Weekly Megathread] Project Showcase",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yg86/biweekly_megathread_project_showcase/",
    "ts": 1792420251,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "MiniMax M3.1 Flash released, Model weights Oct 23",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9uzv9/minimax_m31_flash_released_model_weights_oct_23/",
-   "ts": 1792411304,
    "source": "Reddit"
   },
   {
@@ -362,13 +376,6 @@
   },
   {
    "subreddit": "MachineLearning",
-   "title": "Do ICLR guidelines allow to upload papers under review to LLM chats? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1x9i1pg/do_iclr_guidelines_allow_to_upload_papers_under/",
-   "ts": 1792367521,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
    "title": "Conference papers are cooked! [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9fyhd/conference_papers_are_cooked_d/",
    "ts": 1792361535,
@@ -393,13 +400,6 @@
    "title": "TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1x97v19/tempopfn_synthetic_pretraining_of_linear_rnns_for/",
    "ts": 1792341838,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "It's still OK to enjoy programming",
-   "url": "https://www.reddit.com/r/programming/comments/1x97lsb/its_still_ok_to_enjoy_programming/",
-   "ts": 1792341208,
    "source": "Reddit"
   },
   {
