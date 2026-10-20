@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T00:12:21Z",
+ "generated_at": "2026-10-20T01:04:46Z",
  "accounts_ok": [
   "TheRundownAI",
   "elonmusk",
@@ -15,6 +15,15 @@
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Using TBC tunnels to transport freight. The latest Prufrock Liner Truck (using Tesla Model 3 batteries and drive units) has been modified to carry a standard 20’ shipping container. Fits like a glove! Video",
+   "url": "https://nitter.kareem.one/boringcompany/status/2112327189366722970#m",
+   "ts": 1792453021,
+   "id": "2112327189366722970#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -356,15 +365,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2112017286764659176#m",
    "ts": 1792379135,
    "id": "2112017286764659176#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Control of the senate will decide the future of America ThePersistence (@ScottPresler) Early in-person voting begins in Texas tomorrow. I ask for your votes for @KenPaxtonTX . 🗓️ Monday, October 19th — https://nitter.kareem.one/ScottPresler/status/2111816123800780994#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2112015643126165669#m",
-   "ts": 1792378743,
-   "id": "2112015643126165669#m"
   },
   {
    "handle": "Lingling_Wei",
