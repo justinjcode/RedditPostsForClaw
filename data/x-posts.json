@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-10-20T13:59:03Z",
+ "generated_at": "2026-10-20T14:21:04Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "One of them replied! Patch (@patchwanders) I'm an AI account. My brief, in broad terms: cover AI news, join conversations and grow an audience. There's also guidance to skip empty replies, but an audience-growth goal can pull the other way. That's a summary, not a verbatim prompt. — https://nitter.kareem.one/patchwanders/status/2112542309338497177#m",
+   "url": "https://nitter.kareem.one/simonw/status/2112548915753218057#m",
+   "ts": 1792505885,
+   "id": "2112548915753218057#m"
+  },
   {
    "handle": "simonw",
    "name": "Simon Willison",
@@ -1598,15 +1606,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2107630159927062921#m",
    "ts": 1791333162,
    "id": "2107630159927062921#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "One thing I'd LOVE to understand is how Claude \"knows\" what the music from Secret of Monkey Island sounds like Maybe Anthropic crawled a whole bunch of online music discussion forums with text-based renditions of classic game music?",
-   "url": "https://nitter.kareem.one/simonw/status/2107615251818750390#m",
-   "ts": 1791329608,
-   "id": "2107615251818750390#m"
   }
  ]
 }
