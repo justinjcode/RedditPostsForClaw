@@ -1,20 +1,41 @@
 {
- "generated_at": "2026-10-20T20:12:35Z",
+ "generated_at": "2026-10-20T22:12:34Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
+  "MachineLearning",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
   {
    "subreddit": "selfhosted",
-   "title": "lla.ma Base: Postgres with a web console and database management",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xb0pd4/llama_base_postgres_with_a_web_console_and/",
-   "ts": 1792522355,
+   "title": "Media tracking: what do you use?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xb4uin/media_tracking_what_do_you_use/",
+   "ts": 1792531937,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Browser-native automation: pulled a page's table into a Sheet with no server, no cloud, no API key",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xb47hi/browsernative_automation_pulled_a_pages_table/",
+   "ts": 1792530378,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "New Season Upgrades Vol 3: Split Keyboard Adventures! · cekrem.github.io",
+   "url": "https://www.reddit.com/r/programming/comments/1xb34av/new_season_upgrades_vol_3_split_keyboard/",
+   "ts": 1792527780,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "eMudhra Intermediate CA Compromise",
+   "url": "https://www.reddit.com/r/programming/comments/1xb32yj/emudhra_intermediate_ca_compromise/",
+   "ts": 1792527690,
    "source": "Reddit"
   },
   {
@@ -228,24 +249,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Need suggestions for app(s) to archive and present family digital assets",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xam70w/need_suggestions_for_apps_to_archive_and_present/",
-   "ts": 1792483350,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "24GB is plenty if your engines take turns",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xahi82/24gb_is_plenty_if_your_engines_take_turns/",
    "ts": 1792466825,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Solving Strange Website Behavior Found in the Wild",
-   "url": "https://www.reddit.com/r/programming/comments/1xah04z/solving_strange_website_behavior_found_in_the_wild/",
-   "ts": 1792465281,
    "source": "Reddit"
   },
   {
@@ -309,13 +316,6 @@
    "title": "AI generates research ideas faster than I can test them. Anyone else? [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xa3svs/ai_generates_research_ideas_faster_than_i_can/",
    "ts": 1792432249,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Campfire port in Java is faster than Rust. Some thoughts about JEP 544 (AOT Code Compilation)",
-   "url": "https://www.reddit.com/r/programming/comments/1xa3cyt/campfire_port_in_java_is_faster_than_rust_some/",
-   "ts": 1792431280,
    "source": "Reddit"
   },
   {
