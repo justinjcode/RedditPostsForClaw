@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-20T17:20:49Z",
+ "generated_at": "2026-10-20T17:32:46Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@simonw: all instances failed",
+  "@bcherny: all instances failed"
  ],
  "count": 179,
  "items": [
@@ -185,6 +185,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2112552201579049274#m",
    "ts": 1792506668,
    "id": "2112552201579049274#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Elon Musk in new interview with Walter Isaacson on the wealth he's created: \"A fundamental misunderstanding of economics arises because of conflating resource allocation and consumption; I've created. My so-called wealth is simply a percentage ownership in SpaceX and Tesla. And this is going to be taxed quite heavily, and there's not some magical way to avoid taxes. If there were I would know about it. At the end of the day, this will get whittled down, and a few generations from now, if money still matters, which I don't think it will, my descendants would have a tiny fraction of what I have.\" Video",
+   "url": "https://nitter.kareem.one/SawyerMerritt/status/2112551927649018058#m",
+   "ts": 1792506603,
+   "id": "2112551927649018058#m"
   },
   {
    "handle": "simonw",
@@ -446,15 +455,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2112238340787282162#m",
    "ts": 1792431838,
    "id": "2112238340787282162#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "SF voters on robotaxis: Sept 2023: 44% support, 51% oppose July 2025: 67% support, 29% oppose What changed? People rode them. Robotaxi opposition peaks before anyone has ridden. D.C., New York and Massachusetts are deciding at peak fear and minimum experience.",
-   "url": "https://nitter.kareem.one/ProgressChamber/status/2112236358140117034#m",
-   "ts": 1792431365,
-   "id": "2112236358140117034#m"
   },
   {
    "handle": "swyx",
