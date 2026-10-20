@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-20T02:42:31Z",
+ "generated_at": "2026-10-20T03:05:53Z",
  "accounts_ok": [
   "elonmusk",
   "realDonaldTrump",
-  "swyx",
+  "simonw",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
+  "@swyx: all instances failed",
   "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed",
@@ -15,6 +15,15 @@
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Two important changes to timeline recommendations: - New AI/SI ranking model that predicts probable time spent much better - Retrieval model trained to surface posts people read all the way through User active seconds is growing exponentially and hitting all-time highs almost every day:",
+   "url": "https://nitter.kareem.one/elonmusk/status/2112373713937084809#m",
+   "ts": 1792464114,
+   "id": "2112373713937084809#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -545,15 +554,6 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2111895728352284857#m",
    "ts": 1792350153,
    "id": "2111895728352284857#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok Bot has its own computer So you can close your laptops and just use the app in your phone Unless, you need some file accessed from your laptop, just let it use its computer",
-   "url": "https://nitter.kareem.one/melvindvivas/status/2111892400302108925#m",
-   "ts": 1792349359,
-   "id": "2111892400302108925#m"
   },
   {
    "handle": "swyx",
