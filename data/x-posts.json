@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-20T14:51:13Z",
+ "generated_at": "2026-10-20T15:08:53Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -10,11 +10,20 @@
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "underrated podcast. i dont understand the twitter algorithm, u guys are sleeping on some real bangers Mario Gabriele (@mariogabriele) Before investing in Anthropic, Jaan Tallinn asked Dario to line up alternative proposals from VCs. The reason: he wanted confidence that he was displacing VC money, not bringing Anthropic into existence. Tallinn, an AI safety advocate whose fund led Anthropic's first round, says the assumption that the company wouldn't exist without his investment is not true. Video — https://nitter.kareem.one/mariogabriele/status/2112299748325761171#m",
+   "url": "https://nitter.kareem.one/swyx/status/2112560809809498187#m",
+   "ts": 1792508721,
+   "id": "2112560809809498187#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -86,6 +95,15 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2112512637825421611#m",
    "ts": 1792497236,
    "id": "2112512637825421611#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Falcon 9’s first stage has landed on the A Shortfall of Gravitas droneship Video",
+   "url": "https://nitter.kareem.one/SpaceX/status/2112502543947325773#m",
+   "ts": 1792494829,
+   "id": "2112502543947325773#m"
   },
   {
    "handle": "TheRundownAI",
@@ -365,15 +383,6 @@
    "url": "https://nitter.kareem.one/latentspacepod/status/2112197832342122712#m",
    "ts": 1792422180,
    "id": "2112197832342122712#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Tesla shareholders: Our Annual Meeting is coming up on Dec 3rd This year, we’re asking you to vote “FOR” all three proposals on the ballot, including the re-election of Elon Musk, Robyn Denholm and JB Straubel to Tesla’s Board. Last year, we laid out our vision for building a world of amazing abundance – this year, it’s been coming to life. And we’re only getting started… Your vote is critical to helping us maintain that momentum. Voting instructions & control numbers to follow soon. More info: VoteTesla.com",
-   "url": "https://nitter.kareem.one/Tesla/status/2112190017267532210#m",
-   "ts": 1792420317,
-   "id": "2112190017267532210#m"
   },
   {
    "handle": "TheRundownAI",
@@ -905,15 +914,6 @@
    "url": "https://nitter.kareem.one/ClaudeDevs/status/2111209208012210409#m",
    "ts": 1792186474,
    "id": "2111209208012210409#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Hello Software Engineers, I lead TypeSafe AI Model Capabilities team. We are hiring. Here are a few qualities we are looking for: • strong plus for people who resonate with the title \"Experience Engineers\": mobile engineers, full stack engineers, or even (virtual) reality engineers. • strong coder (you need to be able to manually write code) • product oriented thinker I promise are fun! I trust that you will figure out how to apply. TypeSafe AI (@typesafeai) we're hiring Data Demons no we will not be explaining what that means watch the video, apply if you're built for it 😈 Video — https://nitter.kareem.one/typesafeai/status/2104949571126272472#m",
-   "url": "https://nitter.kareem.one/hackgoofer/status/2111187045632880970#m",
-   "ts": 1792181190,
-   "id": "2111187045632880970#m"
   },
   {
    "handle": "bcherny",
