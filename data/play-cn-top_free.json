@@ -1,0 +1,427 @@
+{
+ "updated_at": "2026-10-20T06:52:15.780Z",
+ "collection": "TOP_FREE",
+ "country": "cn",
+ "apps": [
+  {
+   "rank": 1,
+   "appId": "com.twitter.android",
+   "title": "X",
+   "developer": "X Corp.",
+   "score": 4.7135015
+  },
+  {
+   "rank": 2,
+   "appId": "com.google.android.youtube",
+   "title": "YouTube",
+   "developer": "Google LLC",
+   "score": 4.11725
+  },
+  {
+   "rank": 3,
+   "appId": "org.telegram.messenger",
+   "title": "Telegram",
+   "developer": "Telegram FZ-LLC",
+   "score": 3.989705
+  },
+  {
+   "rank": 4,
+   "appId": "com.android.chrome",
+   "title": "Google Chrome",
+   "developer": "Google LLC",
+   "score": 4.335366
+  },
+  {
+   "rank": 5,
+   "appId": "com.instagram.android",
+   "title": "Instagram",
+   "developer": "Instagram",
+   "score": 4.3489017
+  },
+  {
+   "rank": 6,
+   "appId": "open.chat.gpt.aichat.bot.free.app",
+   "title": "Open Chat - AI bot app",
+   "developer": "AceTools Team",
+   "score": 4.544903
+  },
+  {
+   "rank": 7,
+   "appId": "com.google.android.gm",
+   "title": "Gmail",
+   "developer": "Google LLC",
+   "score": 4.3792996
+  },
+  {
+   "rank": 8,
+   "appId": "appjp.ucvpn.com",
+   "title": "UCVPN",
+   "developer": "UC NET TECHNOLOGY CO., LTD.",
+   "score": 4.736842
+  },
+  {
+   "rank": 9,
+   "appId": "com.google.android.googlequicksearchbox",
+   "title": "Google",
+   "developer": "Google LLC",
+   "score": 4.383053
+  },
+  {
+   "rank": 10,
+   "appId": "com.wrongchao.v2vpn",
+   "title": "V2VPN - A Fast VPN Proxy",
+   "developer": "V2VPN",
+   "score": 4.8207293
+  },
+  {
+   "rank": 11,
+   "appId": "com.whatsapp",
+   "title": "WhatsApp Messenger",
+   "developer": "WhatsApp LLC",
+   "score": 4.5180306
+  },
+  {
+   "rank": 12,
+   "appId": "com.valvesoftware.android.steam.community",
+   "title": "Steam",
+   "developer": "Valve Corporation",
+   "score": 3.208294
+  },
+  {
+   "rank": 13,
+   "appId": "com.github.android",
+   "title": "GitHub",
+   "developer": "GitHub",
+   "score": 4.7439175
+  },
+  {
+   "rank": 14,
+   "appId": "com.google.android.apps.maps",
+   "title": "Google Maps",
+   "developer": "Google LLC",
+   "score": 4.265897
+  },
+  {
+   "rank": 15,
+   "appId": "com.instagram.barcelona",
+   "title": "Threads",
+   "developer": "Instagram",
+   "score": 4.2203054
+  },
+  {
+   "rank": 16,
+   "appId": "ch.protonvpn.android",
+   "title": "Proton VPN: Secure & Fast VPN",
+   "developer": "Proton AG",
+   "score": 4.6223774
+  },
+  {
+   "rank": 17,
+   "appId": "com.v2cross.proxy",
+   "title": "Shadowrocket - VPN Proxy Nodes",
+   "developer": "Cross Ltd.",
+   "score": 4.5270834
+  },
+  {
+   "rank": 18,
+   "appId": "com.discord",
+   "title": "Discord - Talk, Play, Hang Out",
+   "developer": "Discord Inc.",
+   "score": 4.412577
+  },
+  {
+   "rank": 19,
+   "appId": "com.google.android.apps.authenticator2",
+   "title": "Google Authenticator",
+   "developer": "Google LLC",
+   "score": 4.390775
+  },
+  {
+   "rank": 20,
+   "appId": "org.thunderdog.challegram",
+   "title": "Telegram X",
+   "developer": "Telegram FZ-LLC",
+   "score": 4.017533
+  },
+  {
+   "rank": 21,
+   "appId": "com.pikcloud.pikpak",
+   "title": "PikPak-Safe Cloud, Video Saver",
+   "developer": "PikCloud Pte. Ltd.",
+   "score": 4.7967386
+  },
+  {
+   "rank": 22,
+   "appId": "com.live.earthmap.streetview.livecam",
+   "title": "Live Earth Map - World Map 3D",
+   "developer": "TarrySoft",
+   "score": 4.5261946
+  },
+  {
+   "rank": 23,
+   "appId": "com.google.android.apps.agentspace",
+   "title": "Google Gemini Enterprise",
+   "developer": "Google LLC",
+   "score": 4.0469484
+  },
+  {
+   "rank": 24,
+   "appId": "com.yandex.browser",
+   "title": "Yandex Browser with Alice AI",
+   "developer": "Direct Cursus Computer Systems Trading LLC",
+   "score": 4.6425376
+  },
+  {
+   "rank": 25,
+   "appId": "com.duolingo",
+   "title": "Duolingo: Learn Languages",
+   "developer": "Duolingo",
+   "score": 4.7335467
+  },
+  {
+   "rank": 26,
+   "appId": "tv.twitch.android.app",
+   "title": "Twitch: Live Streaming",
+   "developer": "Twitch Interactive, Inc.",
+   "score": 4.1104608
+  },
+  {
+   "rank": 27,
+   "appId": "com.reddit.frontpage",
+   "title": "Reddit",
+   "developer": "reddit Inc.",
+   "score": 4.5589347
+  },
+  {
+   "rank": 28,
+   "appId": "com.google.android.apps.translate",
+   "title": "Google Translate",
+   "developer": "Google LLC",
+   "score": 4.389172
+  },
+  {
+   "rank": 29,
+   "appId": "ru.yandex.searchplugin",
+   "title": "Yandex Start",
+   "developer": "ABS_LLC_KZ",
+   "score": 4.6430907
+  },
+  {
+   "rank": 30,
+   "appId": "com.one.vpnapp",
+   "title": "1VPN - Simple & Secure VPN",
+   "developer": "1VPN",
+   "score": 4.3157897
+  },
+  {
+   "rank": 31,
+   "appId": "com.binance.dev",
+   "title": "Binance: Buy Bitcoin & Crypto",
+   "developer": "Binance Inc.",
+   "score": 4.6972523
+  },
+  {
+   "rank": 32,
+   "appId": "com.tinder",
+   "title": "Tinder Dating App: Chat & Date",
+   "developer": "Tinder LLC",
+   "score": 4.4798646
+  },
+  {
+   "rank": 33,
+   "appId": "com.deepseek.chat",
+   "title": "DeepSeek - AI Assistant",
+   "developer": "DeepSeek",
+   "score": 3.266607
+  },
+  {
+   "rank": 34,
+   "appId": "com.journey.vpn",
+   "title": "JourneyVPN - Private & Secure",
+   "developer": "Journey VPN",
+   "score": 4.185449
+  },
+  {
+   "rank": 35,
+   "appId": "com.snapchat.android",
+   "title": "Snapchat",
+   "developer": "Snap Inc",
+   "score": 4.2402067
+  },
+  {
+   "rank": 36,
+   "appId": "com.linkedin.android",
+   "title": "LinkedIn: Community & Network",
+   "developer": "LinkedIn",
+   "score": 4.172628
+  },
+  {
+   "rank": 37,
+   "appId": "org.mozilla.firefox",
+   "title": "Firefox Fast & Private Browser",
+   "developer": "Mozilla",
+   "score": 4.625147
+  },
+  {
+   "rank": 38,
+   "appId": "com.whatsapp.w4b",
+   "title": "WhatsApp Business",
+   "developer": "WhatsApp LLC",
+   "score": 4.516882
+  },
+  {
+   "rank": 39,
+   "appId": "com.microsoft.emmx",
+   "title": "Microsoft Edge",
+   "developer": "Microsoft Corporation",
+   "score": 4.6574965
+  },
+  {
+   "rank": 40,
+   "appId": "hub.browser.video.downloader.saver",
+   "title": "Hub Video Downloader",
+   "developer": "DOSA Apps",
+   "score": 4.5241203
+  },
+  {
+   "rank": 41,
+   "appId": "ai.app.ai",
+   "title": "Chatbot App - AI Assistant",
+   "developer": "TapSuite",
+   "score": 4.334339
+  },
+  {
+   "rank": 42,
+   "appId": "com.skyvora.vpn",
+   "title": "Skyvora VPN – Fast & Secure",
+   "developer": "Averon Soft",
+   "score": 4.6539326
+  },
+  {
+   "rank": 43,
+   "appId": "moe.shizuku.privileged.api",
+   "title": "Shizuku",
+   "developer": "Xingchen & Rikka",
+   "score": 4.3576593
+  },
+  {
+   "rank": 44,
+   "appId": "com.pinterest",
+   "title": "Pinterest",
+   "developer": "Pinterest",
+   "score": 4.449674
+  },
+  {
+   "rank": 45,
+   "appId": "com.google.android.inputmethod.latin",
+   "title": "Gboard - the Google Keyboard",
+   "developer": "Google LLC",
+   "score": 4.4979067
+  },
+  {
+   "rank": 46,
+   "appId": "com.hellotalk",
+   "title": "HelloTalk - Learn Languages",
+   "developer": "HelloTalk Learn Languages App",
+   "score": 3.8433971
+  },
+  {
+   "rank": 47,
+   "appId": "com.free.vpn.super.hotspot.open",
+   "title": "VPN - Super Unlimited Proxy",
+   "developer": "VPN Super Inc",
+   "score": 4.603019
+  },
+  {
+   "rank": 48,
+   "appId": "com.ambrose.overwall",
+   "title": "GoFly VPN,V2ray,Trojan,sock5",
+   "developer": "TracySteven",
+   "score": 4.0262713
+  },
+  {
+   "rank": 49,
+   "appId": "com.okinc.okex.gp",
+   "title": "OKX: Buy Bitcoin BTC & Crypto",
+   "developer": "OKX INC.",
+   "score": 4.3752975
+  },
+  {
+   "rank": 50,
+   "appId": "com.moonshot.kimichat",
+   "title": "Kimi",
+   "developer": "Moonshot AI",
+   "score": 4.2653317
+  },
+  {
+   "rank": 51,
+   "appId": "ai.photo.generator.editor.fotos.ai.image.app.free",
+   "title": "AI Photo Generator: Muselab AI",
+   "developer": "Shotcut Video Workshop",
+   "score": 4.7009487
+  },
+  {
+   "rank": 52,
+   "appId": "hk.alipay.wallet",
+   "title": "AlipayHK",
+   "developer": "Alipay Payment Services (HK) Limited",
+   "score": 3.7170837
+  },
+  {
+   "rank": 53,
+   "appId": "com.smallkite.android",
+   "title": "Smallkite - Fast & Safety VPN",
+   "developer": "HK INNOVATECH LIMITED",
+   "score": 4.786408
+  },
+  {
+   "rank": 54,
+   "appId": "com.nordvpn.android",
+   "title": "NordVPN – fast VPN for privacy",
+   "developer": "Nord Security",
+   "score": 4.523684
+  },
+  {
+   "rank": 55,
+   "appId": "co.benx.weverse",
+   "title": "Weverse: Connect with Artists",
+   "developer": "WEVERSE COMPANY Inc.",
+   "score": 4.6336794
+  },
+  {
+   "rank": 56,
+   "appId": "com.codeway.chatapp",
+   "title": "Chat AI: Ask Agent Anything",
+   "developer": "Deep Flow Apps",
+   "score": 4.5795236
+  },
+  {
+   "rank": 57,
+   "appId": "com.patreon.android",
+   "title": "Patreon",
+   "developer": "Patreon",
+   "score": 4.7433763
+  },
+  {
+   "rank": 58,
+   "appId": "com.google.android.play.games",
+   "title": "Google Play Games",
+   "developer": "Google LLC",
+   "score": 4.1678205
+  },
+  {
+   "rank": 59,
+   "appId": "world.letsgo.booster.android.pro",
+   "title": "LetsVPN",
+   "developer": "LetsGo Network",
+   "score": 3.8808715
+  },
+  {
+   "rank": 60,
+   "appId": "com.microsoft.office.outlook",
+   "title": "Microsoft Outlook",
+   "developer": "Microsoft Corporation",
+   "score": 4.5717645
+  }
+ ]
+}
