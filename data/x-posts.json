@@ -1,9 +1,7 @@
 {
- "generated_at": "2026-10-20T18:11:01Z",
+ "generated_at": "2026-10-20T18:37:08Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +9,10 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 179,
  "items": [
   {
@@ -31,6 +32,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2112600761762717997#m",
    "ts": 1792518246,
    "id": "2112600761762717997#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Cancer patients with the same diagnosis often have very different tumor biology. Molecular testing can reveal underlying differences, but that's slow and expensive. Introducing Holon-S1, our platform to predict genes and biomarkers from routine pathology slides. • beats two other models at predicting spatial gene activity in a controlled comparison • has identified potentially novel biomarkers in breast cancer and colon cancer • evaluated across 16 organ types and more than 15 scanners, using slides from both formalin-fixed, paraffin-embedded and fresh-frozen tissue. We believe Holon-S1 has the potential to help researchers find new biomarkers in slides they already have, discover treatment targets, and bring more personalized cancer care within reach! Video",
+   "url": "https://nitter.kareem.one/iScienceLuvr/status/2112597012088844407#m",
+   "ts": 1792517352,
+   "id": "2112597012088844407#m"
   },
   {
    "handle": "elonmusk",
@@ -778,15 +788,6 @@
    "url": "https://nitter.kareem.one/pmarca/status/2111684043926622639#m",
    "ts": 1792299683,
    "id": "2111684043926622639#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Just found out about recency bias. Maybe the most important bias ever",
-   "url": "https://nitter.kareem.one/endliste/status/2111683506346901833#m",
-   "ts": 1792299555,
-   "id": "2111683506346901833#m"
   },
   {
    "handle": "thsottiaux",
