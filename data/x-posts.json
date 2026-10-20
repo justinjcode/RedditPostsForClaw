@@ -1,20 +1,38 @@
 {
- "generated_at": "2026-10-20T19:37:53Z",
+ "generated_at": "2026-10-20T19:46:54Z",
  "accounts_ok": [
   "TheRundownAI",
   "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
   "@swyx: all instances failed",
   "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "In addition to human-vs-in-game-AI and human-vs-human it supports two LLMs playing against each other! That works by pausing the game every 5s for them to think about the game state and queue up commands Here's a replay link for Haiku 5.5 vs GPT-6 Luna: simonw.github.io/battledrone…",
+   "url": "https://nitter.kareem.one/simonw/status/2112631208580645130#m",
+   "ts": 1792525505,
+   "id": "2112631208580645130#m"
+  },
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "I built a Command & Conquer style RTS called Battle Drones, mainly using Claude Opus 5.5, which runs in the browser and includes device-to-device multiplayer over an audio link simonwillison.net/2026/Oct/2…",
+   "url": "https://nitter.kareem.one/simonw/status/2112630778068881543#m",
+   "ts": 1792525402,
+   "id": "2112630778068881543#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -1600,15 +1618,6 @@
    "id": "2107939154122404015#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "Pelicans and a bunch of notes on the pricing of the new Claude Haiku 5.5 simonwillison.net/2026/Oct/7… Link Claude Haiku 5.5 As previously promised, here’s Anthropic’s new fast, low cost model: Introducing Claude Haiku 5.5. The previous Haiku, 4.5, was very much showing its age. It came out almost a year … simonwillison.net",
-   "url": "https://nitter.kareem.one/simonw/status/2107938675405586713#m",
-   "ts": 1791406718,
-   "id": "2107938675405586713#m"
-  },
-  {
    "handle": "bcherny",
    "name": "Boris Cherny",
    "author": "@bcherny",
@@ -1616,15 +1625,6 @@
    "url": "https://nitter.kareem.one/lydiahallie/status/2107898889508700209#m",
    "ts": 1791397232,
    "id": "2107898889508700209#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "I released an LLM plugin for sending prompts to OpenAI's new Jev-clone decision model that's based on GPT-6 Luna simonwillison.net/2026/Oct/6… Link Release: llm-openai-decisions 0.1a0 LLM plugin for the OpenAI Decisions API simonwillison.net",
-   "url": "https://nitter.kareem.one/simonw/status/2107630159927062921#m",
-   "ts": 1791333162,
-   "id": "2107630159927062921#m"
   }
  ]
 }
