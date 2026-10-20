@@ -1,20 +1,69 @@
 {
- "generated_at": "2026-10-20T12:18:23Z",
+ "generated_at": "2026-10-20T14:13:26Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
-  "programming"
+  "programming",
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
   {
+   "subreddit": "LocalLLaMA",
+   "title": "[Paper] REMORY: Learning Residual Memory for Context Compaction",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xasp90/paper_remory_learning_residual_memory_for_context/",
+   "ts": 1792504257,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "[Paper] DLite: History-free Speculative Decoding for Agentic AI",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xasomp/paper_dlite_historyfree_speculative_decoding_for/",
+   "ts": 1792504216,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Geezuz kernel: Qwen3.8-27B at 190 tok/s (620~ tok/s at 8 requests) on two 3090s",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaslfk/geezuz_kernel_qwen3827b_at_190_toks_620_toks_at_8/",
+   "ts": 1792503989,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Issues When Using Crowdsec",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xas7ze/issues_when_using_crowdsec/",
+   "ts": 1792503043,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "programming",
-   "title": "Old Books and Verified Text",
-   "url": "https://www.reddit.com/r/programming/comments/1xaqfla/old_books_and_verified_text/",
-   "ts": 1792498198,
+   "title": "Google Threat Intelligence Group: Investigating Ephemeral Supply Chain Tampering",
+   "url": "https://www.reddit.com/r/programming/comments/1xarzjw/google_threat_intelligence_group_investigating/",
+   "ts": 1792502465,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "I built a self-hosted app manager for side projects called L8Bin, with scale-to-zero",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xarr33/i_built_a_selfhosted_app_manager_for_side/",
+   "ts": 1792501847,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
+   "url": "https://www.reddit.com/r/programming/comments/1xarfxg/go_issues_emergency_update_blocking_eight_ca_keys/",
+   "ts": 1792501080,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "SSH keys on macOS with Touch ID",
+   "url": "https://www.reddit.com/r/programming/comments/1xaqyzu/ssh_keys_on_macos_with_touch_id/",
+   "ts": 1792499752,
    "source": "Reddit"
   },
   {
@@ -22,13 +71,6 @@
    "title": "chinese hardware",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xapon0/chinese_hardware/",
    "ts": 1792495940,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Fresher Lemonade: CLI tips and tricks",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xapj0y/fresher_lemonade_cli_tips_and_tricks/",
-   "ts": 1792495431,
    "source": "Reddit"
   },
   {
@@ -46,10 +88,17 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "selfhosted",
+   "title": "Selfhosting + Beers NL",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xaouai/selfhosting_beers_nl/",
+   "ts": 1792493197,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "LocalLLaMA",
-   "title": "Qwen3.8-FlashNext vs Qwen3.8-27B tool calling issues",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaos52/qwen38flashnext_vs_qwen3827b_tool_calling_issues/",
-   "ts": 1792492988,
+   "title": "\"How Gufo caches a hybrid model\", first blog post for Gufo, The Open Source Strix Halo AI engine",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaojci/how_gufo_caches_a_hybrid_model_first_blog_post/",
+   "ts": 1792492139,
    "source": "Reddit"
   },
   {
@@ -95,20 +144,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "ByteChef: open-source workflow automation platform (1k+ GitHub stars, 150+ forks)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xalgp5/bytechef_opensource_workflow_automation_platform/",
-   "ts": 1792480455,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "How do you explain it?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xaju00/how_do_you_explain_it/",
-   "ts": 1792474539,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "24GB is plenty if your engines take turns",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xahi82/24gb_is_plenty_if_your_engines_take_turns/",
@@ -137,24 +172,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Handheld Hub – A zero-build, edge-first gaming catalog syncing 15,000+ games across 5 devices (Cloudflare Workers + D1 + R2)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xae97q/handheld_hub_a_zerobuild_edgefirst_gaming_catalog/",
-   "ts": 1792457329,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Rendering untrusted HTML email, safely",
    "url": "https://www.reddit.com/r/programming/comments/1xadl8d/rendering_untrusted_html_email_safely/",
    "ts": 1792455423,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "migtissera/Tess-4.5-27B (Qwen finetune)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xadfm7/migtisseratess4527b_qwen_finetune/",
-   "ts": 1792454990,
    "source": "Reddit"
   },
   {
@@ -169,13 +190,6 @@
    "title": "The reverts will continue until morale improves [PostgreSQL 19]",
    "url": "https://www.reddit.com/r/programming/comments/1xa9h5w/the_reverts_will_continue_until_morale_improves/",
    "ts": 1792444823,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Jev Based Adaptive Thinking for LLMs",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa9ffa/jev_based_adaptive_thinking_for_llms/",
-   "ts": 1792444708,
    "source": "Reddit"
   },
   {
@@ -298,13 +312,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "In Context - Rich Hickey (Clojure/Conj 2026)",
-   "url": "https://www.reddit.com/r/programming/comments/1x9x7ar/in_context_rich_hickey_clojureconj_2026/",
-   "ts": 1792417280,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "MiniMax M3.1 Flash released, Model weights Oct 23",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9uzv9/minimax_m31_flash_released_model_weights_oct_23/",
@@ -316,13 +323,6 @@
    "title": "Plex being actively exploited (Plex2Shell) on 32400",
    "url": "https://www.reddit.com/r/selfhosted/comments/1x9trfc/plex_being_actively_exploited_plex2shell_on_32400/",
    "ts": 1792407494,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Pcodec is awesome! 15% smaller and 2x faster than ClickHouse's DoubleDelta",
-   "url": "https://www.reddit.com/r/programming/comments/1x9rgpj/pcodec_is_awesome_15_smaller_and_2x_faster_than/",
-   "ts": 1792399082,
    "source": "Reddit"
   },
   {
