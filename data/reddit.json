@@ -1,27 +1,55 @@
 {
- "generated_at": "2026-10-20T08:16:31Z",
+ "generated_at": "2026-10-20T10:11:29Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Deepseek released DeepInfer - Open Source high-performance, large-scale inference framework for DeepSeek models!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xanm55/deepseek_released_deepinfer_open_source/",
+   "ts": 1792488807,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Using Music assisstant instead of spotify",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xan786/using_music_assisstant_instead_of_spotify/",
+   "ts": 1792487266,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "PSA: Immich v3.3.3 + Paperless-ngx v 3.3.3 = today is a good day",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xamwuj/psa_immich_v333_paperlessngx_v_333_today_is_a/",
+   "ts": 1792486181,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Need suggestions for app(s) to archive and present family digital assets",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xam70w/need_suggestions_for_apps_to_archive_and_present/",
+   "ts": 1792483350,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "ByteChef: open-source workflow automation platform (1k+ GitHub stars, 150+ forks)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xalgp5/bytechef_opensource_workflow_automation_platform/",
+   "ts": 1792480455,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "How do you explain it?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xaju00/how_do_you_explain_it/",
    "ts": 1792474539,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "I made a self-hosted Discord music bot for my friends' server. Looking for feedback before I take it further",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xajlcw/i_made_a_selfhosted_discord_music_bot_for_my/",
-   "ts": 1792473671,
    "source": "Reddit"
   },
   {
@@ -43,6 +71,13 @@
    "title": "Solving Strange Website Behavior Found in the Wild",
    "url": "https://www.reddit.com/r/programming/comments/1xah04z/solving_strange_website_behavior_found_in_the_wild/",
    "ts": 1792465281,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Budget upgrade for a 31B model? Dual GPUs over PCIe x1 or another approach?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xagsfh/budget_upgrade_for_a_31b_model_dual_gpus_over/",
+   "ts": 1792464639,
    "source": "Reddit"
   },
   {
@@ -228,20 +263,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "I riced my nextcloud xd",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xa0acd/i_riced_my_nextcloud_xd/",
-   "ts": 1792424445,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Where do you host your personal apps if you're not self-hosting yet but would like to?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1x9zx6s/where_do_you_host_your_personal_apps_if_youre_not/",
-   "ts": 1792423619,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF updated",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yvgw/istadaslabqwen38flashnextgsqrcocodergguf_updated/",
@@ -256,24 +277,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "inclusionAI/Ming-3.0-audio-flash · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yd01/inclusionaiming30audioflash_hugging_face/",
-   "ts": 1792420036,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "In Context - Rich Hickey (Clojure/Conj 2026)",
    "url": "https://www.reddit.com/r/programming/comments/1x9x7ar/in_context_rich_hickey_clojureconj_2026/",
    "ts": 1792417280,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Tv stream box",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1x9wzbf/tv_stream_box/",
-   "ts": 1792416709,
    "source": "Reddit"
   },
   {
@@ -358,13 +365,6 @@
    "title": "Do ICLR guidelines allow to upload papers under review to LLM chats? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9i1pg/do_iclr_guidelines_allow_to_upload_papers_under/",
    "ts": 1792367521,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Google Open Sources Harness2 for Self Improving AI Agents",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9gfnb/google_open_sources_harness2_for_self_improving/",
-   "ts": 1792362831,
    "source": "Reddit"
   },
   {
