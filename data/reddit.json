@@ -1,15 +1,22 @@
 {
- "generated_at": "2026-10-20T02:15:31Z",
+ "generated_at": "2026-10-20T04:13:26Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
+  "MachineLearning",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "Solving Strange Website Behavior Found in the Wild",
+   "url": "https://www.reddit.com/r/programming/comments/1xah04z/solving_strange_website_behavior_found_in_the_wild/",
+   "ts": 1792465281,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Do not upgrade Strata! Tons of breaking changes!",
@@ -78,13 +85,6 @@
    "title": "Let's delve into the tapestry of AI slop on r/LocalLLaMA",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa7hi8/lets_delve_into_the_tapestry_of_ai_slop_on/",
    "ts": 1792440312,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Taco: cross-platform LLM compression that doesn't break when you change your GPU or CPU. [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xa7hg6/taco_crossplatform_llm_compression_that_doesnt/",
-   "ts": 1792440309,
    "source": "Reddit"
   },
   {
@@ -348,6 +348,13 @@
   },
   {
    "subreddit": "MachineLearning",
+   "title": "A Whole-Cortex Encoding Model of Vision, Audition, and Language for In-Silico Neuroscience [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1x9jbxs/a_wholecortex_encoding_model_of_vision_audition/",
+   "ts": 1792371274,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
    "title": "Do ICLR guidelines allow to upload papers under review to LLM chats? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9i1pg/do_iclr_guidelines_allow_to_upload_papers_under/",
    "ts": 1792367521,
@@ -393,13 +400,6 @@
    "title": "It's still OK to enjoy programming",
    "url": "https://www.reddit.com/r/programming/comments/1x97lsb/its_still_ok_to_enjoy_programming/",
    "ts": 1792341208,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "How Containers Work: Building a Docker-like Container From Scratch",
-   "url": "https://www.reddit.com/r/programming/comments/1x97kbr/how_containers_work_building_a_dockerlike/",
-   "ts": 1792341107,
    "source": "Reddit"
   },
   {
