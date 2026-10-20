@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-10-20T07:10:09Z",
+ "generated_at": "2026-10-20T07:41:44Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "bcherny",
+  "TheRundownAI",
+  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx"
+  "thsottiaux"
  ],
  "errors": [
-  "@thsottiaux: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@swyx: all instances failed",
+  "@bcherny: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy. Tibo (@thsottiaux) Day 15/ We're cooked — https://nitter.kareem.one/thsottiaux/status/2112268918681485431#m",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2112432076767289678#m",
+   "ts": 1792478028,
+   "id": "2112432076767289678#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -950,15 +959,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2110864861119045840#m",
    "ts": 1792104375,
    "id": "2110864861119045840#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Bonjour OpenAI (@OpenAI) New voices. Better accents. And less \"checking...\" GPT-Live-1.1 brings these updates to Voice in ChatGPT, Codex, and dots, with new voices in French, German, Hindi, Mexican Spanish, Korean, and Japanese. Rolling out today to all users. Coming soon to the API. Video — https://nitter.kareem.one/OpenAI/status/2110797830361436604#m",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2110864606088593672#m",
-   "ts": 1792104314,
-   "id": "2110864606088593672#m"
   },
   {
    "handle": "bcherny",
