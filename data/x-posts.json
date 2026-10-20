@@ -1,20 +1,38 @@
 {
- "generated_at": "2026-10-20T21:18:49Z",
+ "generated_at": "2026-10-20T21:31:39Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed",
   "@TheRundownAI: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "Warning if you're going to try this: the audio multiplayer plays a high pitched noise throughout the game - annoying at best, and at worst might give you an actual headache (Natalie: \"why do my teeth hurt?\")",
+   "url": "https://nitter.kareem.one/simonw/status/2112657717227843942#m",
+   "ts": 1792531825,
+   "id": "2112657717227843942#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Thanks for Lingling’s insightful report and her quote of my two cents🙏 Lingling Wei 魏玲灵 (@Lingling_Wei) Xi’s widening purge is targeting officials with ties to rival political networks as China prepares for its 2027 leadership reshuffle. An interview with @guoguang_wu Read more in this edition of the WSJ China newsletter. wsj.com/world/china/chinas-u… via @WSJ Link China’s Ultimate Political Survivor Just Fell. What That Says About Xi’s Rule. Plus, export-driven growth rebounds, masking deepening economic problems that are creating a lost generation. wsj.com — https://nitter.kareem.one/Lingling_Wei/status/2112512637825421611#m",
+   "url": "https://nitter.kareem.one/guoguang_wu/status/2112646849010241679#m",
+   "ts": 1792529234,
+   "id": "2112646849010241679#m"
+  },
   {
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
@@ -50,6 +68,15 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2112645157799776667#m",
    "ts": 1792528831,
    "id": "2112645157799776667#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Incredible scoop by my @WSJ colleagues: Elon Musk ordered the slowdown of a military-grade version of Starlink relied on by Ukraine, a decision that sparked panic in Kyiv and confusion inside the Trump administration. wsj.com/world/ukraine-starli… Link Exclusive | Musk Ordered Starlink Slowdown That Blindsided Ukraine The SpaceX founder authorized the move and has been discussing Ukraine with Trump, but the president has denied ordering the restrictions. wsj.com",
+   "url": "https://nitter.kareem.one/laraseligman/status/2112642629317861626#m",
+   "ts": 1792528228,
+   "id": "2112642629317861626#m"
   },
   {
    "handle": "simonw",
@@ -1213,15 +1240,6 @@
    "id": "2110721515130089787#m"
   },
   {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "Trump's $5,000 checks is just the latest effort by politicians to win elections by showering cash on voters. Yet time and again it fails. The checks, like GOP tax cuts and Biden stimulus, are deeply unpopular. My take in today's newsletter wsj.com/economy/central-bank…",
-   "url": "https://nitter.kareem.one/greg_ip/status/2110706842703925271#m",
-   "ts": 1792066700,
-   "id": "2110706842703925271#m"
-  },
-  {
    "handle": "bcherny",
    "name": "Boris Cherny",
    "author": "@bcherny",
@@ -1393,15 +1411,6 @@
    "id": "2110241754318602716#m"
   },
   {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "American drone-tech startups are swarming into Taiwan and finding partners who can help them turn blueprints into reality –– to build a \"non-red\" supply chain that can serve both Taipei and the Pentagon. Full story: wsj.com/tech/u-s-defense-sta… Link U.S. Defense Startups Flock to Taiwan to Build China-Free Drones The emerging industry has the potential to serve the U.S. military while providing Taiwan with an arsenal that it sees as essential to its survival. wsj.com",
-   "url": "https://nitter.kareem.one/joyuwang/status/2110201170476380659#m",
-   "ts": 1791946139,
-   "id": "2110201170476380659#m"
-  },
-  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -1571,15 +1580,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2108218301654749218#m",
    "ts": 1791473386,
    "id": "2108218301654749218#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "New open source cross-platform (Windows, macOS, Linux) sandboxing library from Microsoft - looks very promising, uses processcontainer/bubblewrap/seatbelt under the hood github.com/microsoft/mxc Link GitHub - microsoft/mxc: Policy-driven, layered isolation and containment Policy-driven, layered isolation and containment . Contribute to microsoft/mxc development by creating an account on GitHub. github.com Kyle Daigle (@kdaigle) If you’ve been struggling with a multitude of sandboxes for agents, MxC is a sandbox solution that works across Windows, Linux, and macOS. A real platform opportunity for developers across the ecosystem. Process, session, micro VM, and deep integration into agent ID on Windows. — https://nitter.kareem.one/kdaigle/status/2107882300210074108#m",
-   "url": "https://nitter.kareem.one/simonw/status/2108216753604248000#m",
-   "ts": 1791473017,
-   "id": "2108216753604248000#m"
   },
   {
    "handle": "bcherny",
