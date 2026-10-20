@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-10-20T15:25:01Z",
+ "generated_at": "2026-10-20T15:39:39Z",
  "accounts_ok": [
+  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
+  "@simonw: all instances failed",
   "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "RAISED: Bob McGrew, OpenAI’s former research chief, just introduced Arda, an AI manufacturing startup now valued at $1.5B after a $230M round. McGrew says it does for factory engineers \"what Claude or Cursor does for programmers.\" Via @CNBC : Video",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2112565899945562596#m",
+   "ts": 1792509934,
+   "id": "2112565899945562596#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -1103,15 +1112,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2110740184979390673#m",
    "ts": 1792074650,
    "id": "2110740184979390673#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in robotics today: - Amazon’s next robot upgrade comes with a catch - Johns Hopkins builds heart-docking micro-bots - Ukraine drops robots behind Russian lines - This 13 ft. humanoid makes a hydraulic comeback",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2110740176724975677#m",
-   "ts": 1792074648,
-   "id": "2110740176724975677#m"
   },
   {
    "handle": "simonw",
