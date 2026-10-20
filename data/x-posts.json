@@ -1,20 +1,38 @@
 {
- "generated_at": "2026-10-20T04:05:46Z",
+ "generated_at": "2026-10-20T04:40:04Z",
  "accounts_ok": [
   "elonmusk",
-  "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
+  "@realDonaldTrump: all instances failed",
   "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed",
   "@TheRundownAI: all instances failed"
  ],
- "count": 178,
+ "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "They really don’t The Rabbit Hole (@TheRabbitHole) They don’t understand how things work. — https://nitter.kareem.one/TheRabbitHole/status/2112319596418285851#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2112397041355866607#m",
+   "ts": 1792469675,
+   "id": "2112397041355866607#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Rewriting the 𝕏 Android app was also a big deal. It was really bad for such a long time.",
+   "url": "https://nitter.kareem.one/elonmusk/status/2112396145137946819#m",
+   "ts": 1792469462,
+   "id": "2112396145137946819#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -367,15 +385,6 @@
    "id": "2112073533794971941#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "So many people are going to get one-shotted by super persuasive super intelligences and I might be one of them",
-   "url": "https://nitter.kareem.one/elonmusk/status/2112070071401238607#m",
-   "ts": 1792391720,
-   "id": "2112070071401238607#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -410,15 +419,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2112034063934742720#m",
    "ts": 1792383135,
    "id": "2112034063934742720#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Starlink slowed down for a couple days in Ukraine so a bunch of Europeans and a bunch of Democrats have declared that Elon Musk is the most evil person to ever live. \"Elon is the worst human being ever.\" \"As soon as our technology catches up to Elon's, we will boycott his products!\" \"SpaceX and Starlink are dead!\" Look at you fools go. All because Elon allegedly didn't do everything in his power to help Ukraine. Wait until you dumb f*cks hear about your hero, Barack Obama. After Putin annexed Crimea and moved 30,000 troops to the Ukrainian border, Obama refused to give Ukraine weapons to defend itself. And he refused for years. Surely you Ukraine fans remember that right? Surely you remember the President of Ukraine standing before Congress, begging for weapons to defend Ukraine. You must because you all love Ukraine. Surely you remember Obama's speech in 2014 at the NATO summit. If you don't, you should watch Fox News because they are currently playing my video of his speech. During his speech Obama said that Russia was a regional power that posed no threat to America, even after Putin invaded part of Ukraine. How could that be? We are told now that if Putin takes Ukraine, he could take the entire world. Was Obama lying back then? Impossible, Obama is incapable of that. During that same speech Obama also said that Ukraine should work out its own future and that many Ukrainians in fact had allegiance to Russia. Obama said that countries regularly break international law and t",
-   "url": "https://nitter.kareem.one/mazemoore/status/2112033500563976623#m",
-   "ts": 1792383000,
-   "id": "2112033500563976623#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -599,15 +599,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2111849858374177222#m",
    "ts": 1792339217,
    "id": "2111849858374177222#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "HOW ELON MUSK AND HIS BROTHER'S FIRST VACATION ALMOST TURNED INTO A TRAGEDY... AND HOW IS IT CONNECTED TO THE SUCCESS OF SPACEX? december 2000. Elon has just been pushed out as CEO of PayPal. he's 29, rich on paper, and for once he takes a break he flies to South Africa with his brother Kimbal. the bush, a safari, the place they grew up running around in Kimbal laughs about it now: \"we'd go to the bush all the time. i don't think we ever took malaria tablets\" this time they did. it didn't matter january 2001. Elon is back in California and something is badly wrong. doctors check for malaria. negative Kimbal: \"i couldn't figure out what was wrong with him\" then their uncle, a doctor in South Africa, says it straight: \"he has malaria. check again\" he was right. malaria hides in the body. and this was the deadly kind Elon: \"i had a severe case of malaria. almost died\" \"i lost like 50 pounds\" \"took me over six months to get back to normal\" and his lesson from all of it: \"no more vacations\" now the part that matters six months of recovery. no company to run. a guy who almost died at 29 starts asking one question: what do i do next? he checks NASA's website to see when humans are going to Mars. there's no plan. nothing so he flies to Moscow. to buy ICBMs. \"literally\" \"i can afford to pay under nine million dollars for an ICBM. but not 20\" the Russians keep raising the price. he walks out and instead of looking for a cheaper seller, he asks a different question: why are rockets so e",
-   "url": "https://nitter.kareem.one/tickmind/status/2111782850861088937#m",
-   "ts": 1792323241,
-   "id": "2111782850861088937#m"
   },
   {
    "handle": "swyx",
