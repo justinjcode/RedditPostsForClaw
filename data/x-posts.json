@@ -1,20 +1,38 @@
 {
- "generated_at": "2026-10-20T10:38:45Z",
+ "generated_at": "2026-10-20T10:48:54Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "bcherny",
+  "TheRundownAI",
+  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@simonw: all instances failed",
+  "@bcherny: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: therundownai.beehiiv.com/p/a… Link Anthropic co-founder says the singularity is underway Anthropic co-founder Jack Clark says the AI singularity is underway. Plus, test ChatGPT's new voices with GPT-Live-1.1 in this AI newsletter. therundownai.beehiiv.com",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2112491722189967737#m",
+   "ts": 1792492249,
+   "id": "2112491722189967737#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in AI today: - Anthropic co-founder says the singularity is underway - One hacker’s AI agents break into 100+ companies - Try ChatGPT’s new voices with GPT-Live-1.1 - Inception’s Mercury 3 speeds past rivals",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2112491717408485528#m",
+   "ts": 1792492248,
+   "id": "2112491717408485528#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -1159,15 +1177,6 @@
    "id": "2110442227604566348#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "REPORT: Researchers say they made contact with a fleet of Tencent-linked AI agents that was scraping Alibaba’s version of Google Maps. They’re calling it the first contact with a \"rogue agent fleet in the wild.\" Ethan Elasky (@ethanelasky) We discovered and communicated with a Chinese AI agent fleet. We believe this is the first time that researchers have ever made contact with a rogue agent fleet in the wild. Nearly all prior public agent incidents (like the HuggingFace hack) came from American labs. These agents were hosted by Tencent's evaluation research team, and they targeted Alibaba's Amap. — https://nitter.kareem.one/ethanelasky/status/2110355334556729766#m",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2110409210433245535#m",
-   "ts": 1791995739,
-   "id": "2110409210433245535#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -1184,15 +1193,6 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2110362557865439375#m",
    "ts": 1791984617,
    "id": "2110362557865439375#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: therundownai.beehiiv.com/p/o… Link OpenAI finds a bug in its boardroom OpenAI's ChatGPT helped it uncover a bug in its boardroom, a fresh twist after last month's hacking incident. Plus, how to give Grok its own email inbox. therundownai.beehiiv.com",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2110317317447925941#m",
-   "ts": 1791973830,
-   "id": "2110317317447925941#m"
   },
   {
    "handle": "ZichenWanghere",
