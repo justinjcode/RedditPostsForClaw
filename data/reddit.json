@@ -1,15 +1,29 @@
 {
- "generated_at": "2026-10-20T16:15:14Z",
+ "generated_at": "2026-10-20T18:16:25Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
-  "programming"
+  "programming",
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "Announcing TypeScript 7.1 Beta",
+   "url": "https://www.reddit.com/r/programming/comments/1xaz5ur/announcing_typescript_71_beta/",
+   "ts": 1792518937,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Go: Self hosted URL redirector for making go/shortlink -> https://longer-url on your internal network",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xayxe4/go_self_hosted_url_redirector_for_making/",
+   "ts": 1792518412,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Phonon is now open-source, 31M and 40M TTS models designed to run on the edge",
@@ -22,6 +36,20 @@
    "title": "Under the Hood of Redis: How It Delivers Sub-Millisecond Latency?",
    "url": "https://www.reddit.com/r/programming/comments/1xavhns/under_the_hood_of_redis_how_it_delivers/",
    "ts": 1792510809,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Making A Mutex from Scratch in Rust to Understand Thread Safety",
+   "url": "https://www.reddit.com/r/programming/comments/1xav3jo/making_a_mutex_from_scratch_in_rust_to_understand/",
+   "ts": 1792509932,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Omnivore - A fully self-hosted and Open Source Read-it-Later App",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xaujlk/omnivore_a_fully_selfhosted_and_open_source/",
+   "ts": 1792508667,
    "source": "Reddit"
   },
   {
@@ -75,6 +103,13 @@
   },
   {
    "subreddit": "selfhosted",
+   "title": "Selfhosted map / exploration progress tracking",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xaskuh/selfhosted_map_exploration_progress_tracking/",
+   "ts": 1792503948,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
    "title": "Issues When Using Crowdsec",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xas7ze/issues_when_using_crowdsec/",
    "ts": 1792503043,
@@ -85,13 +120,6 @@
    "title": "Google Threat Intelligence Group: Investigating Ephemeral Supply Chain Tampering",
    "url": "https://www.reddit.com/r/programming/comments/1xarzjw/google_threat_intelligence_group_investigating/",
    "ts": 1792502465,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "I built a self-hosted app manager for side projects called L8Bin, with scale-to-zero",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xarr33/i_built_a_selfhosted_app_manager_for_side/",
-   "ts": 1792501847,
    "source": "Reddit"
   },
   {
@@ -236,20 +264,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Any homepages that have sports scores and game times?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xa82vf/any_homepages_that_have_sports_scores_and_game/",
-   "ts": 1792441656,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Best practices and practical solutions for backups?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xa7fl7/best_practices_and_practical_solutions_for_backups/",
-   "ts": 1792440201,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "Super Productivity v19.2: self-hosted task management, live Markdown notes, and bulk actions",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xa51sm/super_productivity_v192_selfhosted_task/",
    "ts": 1792434974,
@@ -298,13 +312,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Maths, Metal, and Mandelbrot",
-   "url": "https://www.reddit.com/r/programming/comments/1xa2mgy/maths_metal_and_mandelbrot/",
-   "ts": 1792429690,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "to github, or not to github?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xa1j0y/to_github_or_not_to_github/",
@@ -344,13 +351,6 @@
    "title": "My €1,000 used-hardware rack runs my home services, production apps and local inference",
    "url": "https://www.reddit.com/r/selfhosted/comments/1x9r11n/my_1000_usedhardware_rack_runs_my_home_services/",
    "ts": 1792397431,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "This Website Is Now Made in Swift",
-   "url": "https://www.reddit.com/r/programming/comments/1x9oosc/this_website_is_now_made_in_swift/",
-   "ts": 1792388595,
    "source": "Reddit"
   },
   {
