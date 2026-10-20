@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-10-20T23:43:29Z",
+ "generated_at": "2026-10-20T23:53:58Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
   "@bcherny: all instances failed",
+  "@ZichenWanghere: all instances failed",
   "@TheRundownAI: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "OK, that headache bug was really bad! It inspired me to add proper online multiplayer to Battle Drones (via a tiny @flydotio hosted WebSockets relay server) - now you can start an online game and send a link to a friend so they can join you simonwillison.net/2026/Oct/2…",
+   "url": "https://nitter.kareem.one/simonw/status/2112689291570938255#m",
+   "ts": 1792539353,
+   "id": "2112689291570938255#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1571,15 +1580,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2108225028299034638#m",
    "ts": 1791474990,
    "id": "2108225028299034638#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "Related new project from Microsoft is Quicksand, a Python library that bundles QEMU and uses it to run eg an Alpine Linux container - this one is really neat, I've tried it on macOS and Windows and Linux: github.com/microsoft/quicksa… Link GitHub - microsoft/quicksand: Quickly sandbox your AI agent. Quickly sandbox your AI agent. Contribute to microsoft/quicksand development by creating an account on GitHub. github.com",
-   "url": "https://nitter.kareem.one/simonw/status/2108218301654749218#m",
-   "ts": 1791473386,
-   "id": "2108218301654749218#m"
   },
   {
    "handle": "bcherny",
