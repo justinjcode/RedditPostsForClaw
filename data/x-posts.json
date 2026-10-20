@@ -1,19 +1,29 @@
 {
- "generated_at": "2026-10-20T22:08:29Z",
+ "generated_at": "2026-10-20T22:23:42Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "TheRundownAI",
-  "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "As crazy as this sounds, $1T in SpaceX revenue in 2028 is no longer impossible",
+   "url": "https://nitter.kareem.one/elonmusk/status/2112666467712073815#m",
+   "ts": 1792533912,
+   "id": "2112666467712073815#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -319,15 +329,6 @@
    "url": "https://nitter.kareem.one/GadSaad/status/2112584138075279552#m",
    "ts": 1792514283,
    "id": "2112584138075279552#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Video call SpaceX (@SpaceX) Watch live as SpaceX discusses our Q3 2026 earnings at 3:30pm CT today → nitterk.kareem.one/i/broadcasts/1PKqrNbLZ… Link SpaceX Q3 2026 Financial and Operational Results https://nitter.kareem.one/i/broadcasts/1PKqrNbLZbPGb — https://nitter.kareem.one/SpaceX/status/2112559638579499258#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2112583304738210216#m",
-   "ts": 1792514084,
-   "id": "2112583304738210216#m"
   },
   {
    "handle": "TheRundownAI",
