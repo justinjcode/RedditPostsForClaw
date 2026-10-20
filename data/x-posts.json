@@ -1,6 +1,8 @@
 {
- "generated_at": "2026-10-20T17:46:52Z",
+ "generated_at": "2026-10-20T17:54:42Z",
  "accounts_ok": [
+  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -9,12 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Johann Sebastian Bach is the Shakespeare of music. Best there ever was.",
+   "url": "https://nitter.kareem.one/elonmusk/status/2112600761762717997#m",
+   "ts": 1792518246,
+   "id": "2112600761762717997#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -419,15 +428,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2112268918681485431#m",
    "ts": 1792439128,
    "id": "2112268918681485431#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Early in-person voting begins in NYC October 24. We may not bring ID. Elon Musk (@elonmusk) Control of the senate will decide the future of America — https://nitter.kareem.one/elonmusk/status/2112015643126165669#m",
-   "url": "https://nitter.kareem.one/mayemusk/status/2112266513336201457#m",
-   "ts": 1792438555,
-   "id": "2112266513336201457#m"
   },
   {
    "handle": "Lingling_Wei",
