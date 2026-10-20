@@ -1,20 +1,20 @@
 {
- "generated_at": "2026-10-20T06:19:29Z",
+ "generated_at": "2026-10-20T08:16:31Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
+  "MachineLearning",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
   {
    "subreddit": "selfhosted",
-   "title": "An open source Overleaf fork with All Pro features, now Open Source",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xajocy/an_open_source_overleaf_fork_with_all_pro/",
-   "ts": 1792473964,
+   "title": "How do you explain it?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xaju00/how_do_you_explain_it/",
+   "ts": 1792474539,
    "source": "Reddit"
   },
   {
@@ -229,16 +229,16 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Where do you host your personal apps if you're not self-hosting yet but would like to?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1x9zx6s/where_do_you_host_your_personal_apps_if_youre_not/",
-   "ts": 1792423619,
+   "title": "I riced my nextcloud xd",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xa0acd/i_riced_my_nextcloud_xd/",
+   "ts": 1792424445,
    "source": "Reddit"
   },
   {
    "subreddit": "selfhosted",
-   "title": "Webserver benchmarks on arm64 / Raspberry Pi",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1x9z5gl/webserver_benchmarks_on_arm64_raspberry_pi/",
-   "ts": 1792421897,
+   "title": "Where do you host your personal apps if you're not self-hosting yet but would like to?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1x9zx6s/where_do_you_host_your_personal_apps_if_youre_not/",
+   "ts": 1792423619,
    "source": "Reddit"
   },
   {
