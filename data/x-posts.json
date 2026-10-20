@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-10-19T23:35:38Z",
+ "generated_at": "2026-10-20T00:12:21Z",
  "accounts_ok": [
+  "TheRundownAI",
+  "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@elonmusk: all instances failed",
-  "@simonw: all instances failed",
   "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Can you make medicine for a virus no one’s seen yet? Red Queen Bio is using AI to develop antibody drugs that could help stop future pandemics, including threats that AI itself might help create: Video",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2112306475523522933#m",
+   "ts": 1792448083,
+   "id": "2112306475523522933#m"
+  },
   {
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
@@ -1166,15 +1175,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2110317317447925941#m",
    "ts": 1791973830,
    "id": "2110317317447925941#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in AI today: - OpenAI engineer bugged exec meeting room - AI’s taste skills move up self-improvement timeline - Give Grok Bot its own email inbox - Character AI declares bankruptcy, Disney bids $20M",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2110317312662233187#m",
-   "ts": 1791973829,
-   "id": "2110317312662233187#m"
   },
   {
    "handle": "ZichenWanghere",
