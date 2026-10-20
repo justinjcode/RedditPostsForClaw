@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-10-20T17:54:42Z",
+ "generated_at": "2026-10-20T18:11:01Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "“Lack of electricity” is an oversimplification. Everything is hard about bringing massive compute online at extremely high speed. If there was twice as much time, this would be relatively easy, but there is not. Rihard Jarc (@RihardJarc) Former $GOOGL employee on why data center capacity and electricity are the real bottlenecks, not GPU production itself, and how unreliable some of the neoclouds are ( $AMZN , $GOOGL , $MSFT , $NVDA ): 1. According to the expert, open-source models are closing the gap with frontier models faster than expected, with customers increasingly replacing Anthropic and OpenAI models in multi-agent architectures with open-source alternatives starting from Q2 of this year. The shift started with simple tasks like tool calling and MCP, but has moved up the stack to low-level orchestration. 2. The expert identifies capacity as the biggest constraint at the moment, with certain companies' traffic growing 5x while GPU availability, particularly in the U.S. where latency requirements are tightest, simply cannot keep up. Sourcing capacity overseas in Asia or Australia is technically possible but adds latency that most customers will not accept. 3. Hyperscalers offer reliability but are expensive, require multi-year commitments of three or more years, and have limited availability of the latest hardware, with customers already chasing B300s. AI-native companies tend to gravitate toward neoclouds due to hyperscaler pricing and contract rigidity, but neoclouds c",
+   "url": "https://nitter.kareem.one/elonmusk/status/2112603906723487744#m",
+   "ts": 1792518996,
+   "id": "2112603906723487744#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -241,6 +249,15 @@
    "id": "2112541511032426857#m"
   },
   {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "it seems like every week the AI wave exposes a new set of technical terms that we should know about. so we phoned a friend ( @meganreyno ), and this Thursday we’re launching Technically Speaking - bringing in technical founders & leaders to break down the technical problem they’ve spent years obsessing over. the Season 1 lineup is downright effervescent: - Michael Grinich (WorkOS) on Auth - Jonathan Frankle (Databricks) on AI research - Julien Launay and Sesh Nalla (Datadog) on RL - Jake Cooper (Railway) on Cloud - and five (5!) more special guests to be announced new episodes posting every Thursday until the holidays. who should we have on next? Video",
+   "url": "https://nitter.kareem.one/readtechnically/status/2112539138570260675#m",
+   "ts": 1792503554,
+   "id": "2112539138570260675#m"
+  },
+  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -329,15 +346,6 @@
    "url": "https://nitter.kareem.one/xenocosmography/status/2112394417948819714#m",
    "ts": 1792469050,
    "id": "2112394417948819714#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "James Talarico wants to: -Dismantle Capitalism -Raise Taxes -Defund the police -Abolish prisons -Get rid of oil and gas jobs And he’s trying to convince Texas he’s a moderate? Vote for Ken Paxton. Video",
-   "url": "https://nitter.kareem.one/america/status/2112335573725917396#m",
-   "ts": 1792455020,
-   "id": "2112335573725917396#m"
   },
   {
    "handle": "TheRundownAI",
@@ -725,15 +733,6 @@
    "url": "https://nitter.kareem.one/hackgoofer/status/2111952970565013743#m",
    "ts": 1792363801,
    "id": "2111952970565013743#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "also @ritakozlov i am slowly converting our broadway group to be #nothingbutNET fans (people! sign up for my next show partiful.com/e/e0ePVVLYt7Rn8… -> preview here nitterk.kareem.one/swyx/status/2043217991… ) this one is EVEN MORE HIGH PRODUCTION VALUE WTF swyx (@swyx) late night low TAM tweet: did a Broadway solo song for the first time in ~18 years! only fumbled lyrics once! Video — https://nitter.kareem.one/swyx/status/2043217991589102027#m",
-   "url": "https://nitter.kareem.one/swyx/status/2111938337607172591#m",
-   "ts": 1792360312,
-   "id": "2111938337607172591#m"
   },
   {
    "handle": "thsottiaux",
