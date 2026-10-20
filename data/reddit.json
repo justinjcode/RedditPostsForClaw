@@ -1,15 +1,43 @@
 {
- "generated_at": "2026-10-20T18:16:25Z",
+ "generated_at": "2026-10-20T20:12:35Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "lla.ma Base: Postgres with a web console and database management",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xb0pd4/llama_base_postgres_with_a_web_console_and/",
+   "ts": 1792522355,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "XHToken/Spark-X2.6-4B · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xb0nr9/xhtokensparkx264b_hugging_face/",
+   "ts": 1792522253,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Query: Trying to host a site for free on custom subdomain but facing issue",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xb0aps/query_trying_to_host_a_site_for_free_on_custom/",
+   "ts": 1792521425,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "qev-0.8b · New SOTA tiny local decision model",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xazrvd/qev08b_new_sota_tiny_local_decision_model/",
+   "ts": 1792520250,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "Announcing TypeScript 7.1 Beta",
@@ -18,10 +46,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Go: Self hosted URL redirector for making go/shortlink -> https://longer-url on your internal network",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xayxe4/go_self_hosted_url_redirector_for_making/",
-   "ts": 1792518412,
+   "subreddit": "LocalLLaMA",
+   "title": "MiMo 2.6 is reasoning is like the crash test dummies",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xawa17/mimo_26_is_reasoning_is_like_the_crash_test/",
+   "ts": 1792512529,
    "source": "Reddit"
   },
   {
@@ -29,6 +57,13 @@
    "title": "Phonon is now open-source, 31M and 40M TTS models designed to run on the edge",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaw2vt/phonon_is_now_opensource_31m_and_40m_tts_models/",
    "ts": 1792512109,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Hardly any benchmarks for Intel B65, so I got 4x and tested them. Long Context Sweeps for Flash-Next and other models",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xavy8t/hardly_any_benchmarks_for_intel_b65_so_i_got_4x/",
+   "ts": 1792511847,
    "source": "Reddit"
   },
   {
@@ -67,17 +102,17 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Qwen3.8-Flash-Next vs Opus 5.5: Six-way benchmark on a real Rust feature with Claude Code and Pi",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xatxqk/qwen38flashnext_vs_opus_55_sixway_benchmark_on_a/",
-   "ts": 1792507252,
+   "subreddit": "selfhosted",
+   "title": "Leaked SSL Certificates: no https connection can be trusted",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xaubjf/leaked_ssl_certificates_no_https_connection_can/",
+   "ts": 1792508155,
    "source": "Reddit"
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "Unsloth just released Ornith-1.5-122B GGUFs",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xatwvb/unsloth_just_released_ornith15122b_ggufs/",
-   "ts": 1792507192,
+   "title": "Qwen3.8-Flash-Next vs Opus 5.5: Six-way benchmark on a real Rust feature with Claude Code and Pi",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xatxqk/qwen38flashnext_vs_opus_55_sixway_benchmark_on_a/",
+   "ts": 1792507252,
    "source": "Reddit"
   },
   {
@@ -92,13 +127,6 @@
    "title": "[Paper] The COUNT: Counting N-grams Unlocks Scaling on Host Memory and Training-Free Adaptation",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xat6o7/paper_the_count_counting_ngrams_unlocks_scaling/",
    "ts": 1792505433,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "[Paper] REMORY: Learning Residual Memory for Context Compaction",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xasp90/paper_remory_learning_residual_memory_for_context/",
-   "ts": 1792504257,
    "source": "Reddit"
   },
   {
@@ -141,13 +169,6 @@
    "title": "SSH keys on macOS with Touch ID",
    "url": "https://www.reddit.com/r/programming/comments/1xaqyzu/ssh_keys_on_macos_with_touch_id/",
    "ts": 1792499752,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "chinese hardware",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xapon0/chinese_hardware/",
-   "ts": 1792495940,
    "source": "Reddit"
   },
   {
@@ -228,13 +249,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Do not upgrade Strata! Tons of breaking changes!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaflhy/do_not_upgrade_strata_tons_of_breaking_changes/",
-   "ts": 1792461125,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Rendering untrusted HTML email, safely",
    "url": "https://www.reddit.com/r/programming/comments/1xadl8d/rendering_untrusted_html_email_safely/",
@@ -312,13 +326,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "to github, or not to github?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xa1j0y/to_github_or_not_to_github/",
-   "ts": 1792427244,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "The Labor Market for Recent College Graduates",
    "url": "https://www.reddit.com/r/programming/comments/1xa16ri/the_labor_market_for_recent_college_graduates/",
@@ -344,13 +351,6 @@
    "title": "Plex being actively exploited (Plex2Shell) on 32400",
    "url": "https://www.reddit.com/r/selfhosted/comments/1x9trfc/plex_being_actively_exploited_plex2shell_on_32400/",
    "ts": 1792407494,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "My €1,000 used-hardware rack runs my home services, production apps and local inference",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1x9r11n/my_1000_usedhardware_rack_runs_my_home_services/",
-   "ts": 1792397431,
    "source": "Reddit"
   },
   {
