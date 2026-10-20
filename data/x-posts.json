@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-10-20T12:12:56Z",
+ "generated_at": "2026-10-20T12:42:59Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
-  "bcherny",
+  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -10,11 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@bcherny: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Xi’s widening purge is targeting officials with ties to rival political networks as China prepares for its 2027 leadership reshuffle. An interview with @guoguang_wu Read more in this edition of the WSJ China newsletter. wsj.com/world/china/chinas-u… via @WSJ Link China’s Ultimate Political Survivor Just Fell. What That Says About Xi’s Rule. Plus, export-driven growth rebounds, masking deepening economic problems that are creating a lost generation. wsj.com",
+   "url": "https://nitter.kareem.one/Lingling_Wei/status/2112512637825421611#m",
+   "ts": 1792497236,
+   "id": "2112512637825421611#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -1184,15 +1193,6 @@
    "url": "https://nitter.kareem.one/AbdulElSayed/status/2110391962121720101#m",
    "ts": 1791991627,
    "id": "2110391962121720101#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "Impact journalism 👇 Rebecca Ballhaus (@rebeccaballhaus) The White House called on Kimberly Guilfoyle to step down as U.S. ambassador to Greece, after The Wall Street Journal reported that she had solicited $100,000 from a Trump donor in the runup to her confirmation hearing last year. wsj.com/politics/policy/whit… Link White House Calls on Guilfoyle to Resign The White House called on Kimberly Guilfoyle to step down as U.S. ambassador to Greece, after The Wall Street Journal reported that she had solicited $100,000 from a Trump donor in the runup to her... wsj.com — https://nitter.kareem.one/rebeccaballhaus/status/2110007959443079192#m",
-   "url": "https://nitter.kareem.one/Lingling_Wei/status/2110362557865439375#m",
-   "ts": 1791984617,
-   "id": "2110362557865439375#m"
   },
   {
    "handle": "ZichenWanghere",
