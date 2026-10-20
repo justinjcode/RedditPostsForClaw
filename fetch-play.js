@@ -4,7 +4,7 @@ const fs = require('fs');
 
 (async () => {
   fs.mkdirSync('data', { recursive: true });
-  for (const cc of ['us', 'cn']) {
+  for (const cc of ['us', 'jp', 'kr']) {
     try {
       const apps = await gplay.list({
         collection: 'TOP_FREE',
