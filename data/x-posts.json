@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-10-20T01:04:46Z",
+ "generated_at": "2026-10-20T01:43:44Z",
  "accounts_ok": [
   "TheRundownAI",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
-  "swyx",
-  "thsottiaux"
+  "swyx"
  ],
  "errors": [
+  "@thsottiaux: all instances failed",
+  "@simonw: all instances failed",
   "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Have to give the EU regulators credit where it’s due for making all Apple products use USB-C",
+   "url": "https://nitter.kareem.one/elonmusk/status/2112348601255125059#m",
+   "ts": 1792458126,
+   "id": "2112348601255125059#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -32,6 +41,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2112306475523522933#m",
    "ts": 1792448083,
    "id": "2112306475523522933#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starstruck",
+   "url": "https://nitter.kareem.one/Tesla/status/2112295035568091273#m",
+   "ts": 1792445355,
+   "id": "2112295035568091273#m"
   },
   {
    "handle": "realDonaldTrump",
@@ -358,15 +376,6 @@
    "id": "2112033500563976623#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "This describes the conversation SpaceX has had when we have tried to rent inference compute from AWS, GCP or anyone at, so that we can shift load off our training clusters!!",
-   "url": "https://nitter.kareem.one/elonmusk/status/2112017286764659176#m",
-   "ts": 1792379135,
-   "id": "2112017286764659176#m"
-  },
-  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -428,15 +437,6 @@
    "url": "https://nitter.kareem.one/affaan/status/2111968969976619126#m",
    "ts": 1792367615,
    "id": "2111968969976619126#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Here are the key features of Grok Bot! This is what makes Grok Bot different. - Grok Bot's dedicated email - Voice: talk by voice, even in the car - Its own computer: opens websites and fills out forms, 24/7 on - Connectors: Gmail, Calendar, Notion, Drive, X and more - Routines: works on a schedule while you sleep - A team of bots: one for email, one for shopping, one for trips - Proactive: It tells me first.",
-   "url": "https://nitter.kareem.one/Texas_Twins_Dad/status/2111968185566077191#m",
-   "ts": 1792367428,
-   "id": "2111968185566077191#m"
   },
   {
    "handle": "Lingling_Wei",
