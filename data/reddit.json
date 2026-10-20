@@ -1,20 +1,55 @@
 {
- "generated_at": "2026-10-20T04:13:26Z",
+ "generated_at": "2026-10-20T06:19:29Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "An open source Overleaf fork with All Pro features, now Open Source",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xajocy/an_open_source_overleaf_fork_with_all_pro/",
+   "ts": 1792473964,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "I made a self-hosted Discord music bot for my friends' server. Looking for feedback before I take it further",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xajlcw/i_made_a_selfhosted_discord_music_bot_for_my/",
+   "ts": 1792473671,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Terminal Bench v4 vs Frontier Code v1.1?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xahu9x/terminal_bench_v4_vs_frontier_code_v11/",
+   "ts": 1792467884,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "24GB is plenty if your engines take turns",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xahi82/24gb_is_plenty_if_your_engines_take_turns/",
+   "ts": 1792466825,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "Solving Strange Website Behavior Found in the Wild",
    "url": "https://www.reddit.com/r/programming/comments/1xah04z/solving_strange_website_behavior_found_in_the_wild/",
    "ts": 1792465281,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "HermesConsole: A demo showing off VoiceManager, my low latency streaming STT / TTS server. MIT, client docs, and python client.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xag5bj/hermesconsole_a_demo_showing_off_voicemanager_my/",
+   "ts": 1792462727,
    "source": "Reddit"
   },
   {
@@ -36,6 +71,13 @@
    "title": "Rendering untrusted HTML email, safely",
    "url": "https://www.reddit.com/r/programming/comments/1xadl8d/rendering_untrusted_html_email_safely/",
    "ts": 1792455423,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "migtissera/Tess-4.5-27B (Qwen finetune)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xadfm7/migtisseratess4527b_qwen_finetune/",
+   "ts": 1792454990,
    "source": "Reddit"
   },
   {
@@ -74,13 +116,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Cal.com vs Cal.id",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xa7ru9/calcom_vs_calid/",
-   "ts": 1792440963,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Let's delve into the tapestry of AI slop on r/LocalLLaMA",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa7hi8/lets_delve_into_the_tapestry_of_ai_slop_on/",
@@ -92,13 +127,6 @@
    "title": "Best practices and practical solutions for backups?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xa7fl7/best_practices_and_practical_solutions_for_backups/",
    "ts": 1792440201,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Has anyone else here found a place for DiffusionGemma in their local work?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa6ykz/has_anyone_else_here_found_a_place_for/",
-   "ts": 1792439184,
    "source": "Reddit"
   },
   {
@@ -201,23 +229,9 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "I riced my nextcloud xd",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xa0acd/i_riced_my_nextcloud_xd/",
-   "ts": 1792424445,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "Where do you host your personal apps if you're not self-hosting yet but would like to?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1x9zx6s/where_do_you_host_your_personal_apps_if_youre_not/",
    "ts": 1792423619,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "6M param character renderer: one reference image in, a minute of video out, tested against Blender truth",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9zwts/6m_param_character_renderer_one_reference_image/",
-   "ts": 1792423595,
    "source": "Reddit"
   },
   {
@@ -232,13 +246,6 @@
    "title": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF updated",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yvgw/istadaslabqwen38flashnextgsqrcocodergguf_updated/",
    "ts": 1792421234,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "inclusionAI releases Ming-3.0-audio-flash: 126B MoE / 6.5B active, audio understanding + speech output, MIT",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yrfi/inclusionai_releases_ming30audioflash_126b_moe/",
-   "ts": 1792420969,
    "source": "Reddit"
   },
   {
@@ -295,13 +302,6 @@
    "title": "AI labs report benchmark scores 6.4% higher than independent testers, on average",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9skrx/ai_labs_report_benchmark_scores_64_higher_than/",
    "ts": 1792403275,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "incoai/Qwen3.8-Flash-Next-DFlash2",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9rq3r/incoaiqwen38flashnextdflash2/",
-   "ts": 1792400102,
    "source": "Reddit"
   },
   {
