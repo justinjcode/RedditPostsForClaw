@@ -1,15 +1,22 @@
 {
- "generated_at": "2026-10-19T22:12:34Z",
+ "generated_at": "2026-10-20T00:30:17Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
-  "selfhosted"
+  "MachineLearning",
+  "programming"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "Rendering untrusted HTML email, safely",
+   "url": "https://www.reddit.com/r/programming/comments/1xadl8d/rendering_untrusted_html_email_safely/",
+   "ts": 1792455423,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "How to Gaslight JavaScript Programmers",
@@ -57,6 +64,13 @@
    "title": "Let's delve into the tapestry of AI slop on r/LocalLLaMA",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa7hi8/lets_delve_into_the_tapestry_of_ai_slop_on/",
    "ts": 1792440312,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Taco: cross-platform LLM compression that doesn't break when you change your GPU or CPU. [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xa7hg6/taco_crossplatform_llm_compression_that_doesnt/",
+   "ts": 1792440309,
    "source": "Reddit"
   },
   {
@@ -155,13 +169,6 @@
    "title": "GitHub Actions is down once again",
    "url": "https://www.reddit.com/r/programming/comments/1xa0z6c/github_actions_is_down_once_again/",
    "ts": 1792425991,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "ICLR Desk Rejected with no apparent reason [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xa0ris/iclr_desk_rejected_with_no_apparent_reason_d/",
-   "ts": 1792425544,
    "source": "Reddit"
   },
   {
@@ -351,13 +358,6 @@
    "title": "Conference papers are cooked! [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9fyhd/conference_papers_are_cooked_d/",
    "ts": 1792361535,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "How tough can emoji be?",
-   "url": "https://www.reddit.com/r/programming/comments/1x9ecjd/how_tough_can_emoji_be/",
-   "ts": 1792357403,
    "source": "Reddit"
   },
   {
