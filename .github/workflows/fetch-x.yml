@@ -2,7 +2,7 @@ name: Fetch X posts
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/10 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -90,14 +90,17 @@ jobs:
               out.sort(key=lambda x: x.get("ts", 0), reverse=True)
               return out[:PER_ACCOUNT]
 
-          def fetch_account(acc):
-              for host in INSTANCES:
+          def fetch_account(acc, offset=0):
+              # 每个账号从不同实例开始，避免固定顺序把同一批账号卡在同一个慢实例上
+              order = INSTANCES[offset % len(INSTANCES):] + INSTANCES[:offset % len(INSTANCES)]
+              for host in order:
                   url = f"https://{host}/{acc['handle']}/rss"
                   for attempt in (1, 2):
                       try:
                           items = parse(get(url), acc["handle"], acc["name"])
                           if items:
-                              print(f"OK   @{acc['handle']} <- {host} ({len(items)} items)")
+                              newest = datetime.fromtimestamp(items[0]["ts"], timezone.utc).strftime("%H:%M:%SZ")
+                              print(f"OK   @{acc['handle']} <- {host} ({len(items)} items, newest {newest})")
                               return items
                           print(f"WARN @{acc['handle']} <- {host}: 0 items")
                           break
@@ -123,13 +126,28 @@ jobs:
           fresh, ok_handles, errors = [], set(), []
           for i, acc in enumerate(ACCOUNTS):
               if i:
-                  time.sleep(5)
-              items = fetch_account(acc)
+                  time.sleep(3)
+              items = fetch_account(acc, offset=i)
               if items:
                   fresh.extend(items)
                   ok_handles.add(acc["handle"])
               else:
                   errors.append(f"@{acc['handle']}: all instances failed")
+
+          # 第二轮：抓失败的账号再试一次（换起始实例），明显降低"正好这轮没抓到"的概率
+          failed = [a for a in ACCOUNTS if a["handle"] not in ok_handles]
+          if failed:
+              print(f"retry pass for {[a['handle'] for a in failed]}")
+              time.sleep(5)
+              for j, acc in enumerate(failed):
+                  if j:
+                      time.sleep(3)
+                  items = fetch_account(acc, offset=j + 2)
+                  if items:
+                      fresh.extend(items)
+                      ok_handles.add(acc["handle"])
+                      errors = [e for e in errors if not e.startswith("@" + acc["handle"] + ":")]
+                      print(f"RECOVERED @{acc['handle']}")
 
           merged = [x for x in old if x.get("handle") not in ok_handles] + fresh
           seen, final = set(), []
@@ -142,6 +160,11 @@ jobs:
           if not final:
               print("no data, leaving file untouched")
               raise SystemExit(0)
+
+          newest = max(x.get("ts", 0) for x in final)
+          lag_min = int((datetime.now(timezone.utc).timestamp() - newest) / 60)
+          print(f"newest item: {datetime.fromtimestamp(newest, timezone.utc):%H:%M:%SZ} "
+                f"(run lag {lag_min}min, accounts_ok={len(ok_handles)}/{len(ACCOUNTS)})")
 
           os.makedirs("data", exist_ok=True)
           payload = {
