@@ -1,15 +1,29 @@
 {
- "generated_at": "2026-10-20T00:30:17Z",
+ "generated_at": "2026-10-20T02:15:31Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
-  "programming"
+  "programming",
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Do not upgrade Strata! Tons of breaking changes!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaflhy/do_not_upgrade_strata_tons_of_breaking_changes/",
+   "ts": 1792461125,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Handheld Hub – A zero-build, edge-first gaming catalog syncing 15,000+ games across 5 devices (Cloudflare Workers + D1 + R2)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xae97q/handheld_hub_a_zerobuild_edgefirst_gaming_catalog/",
+   "ts": 1792457329,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "Rendering untrusted HTML email, safely",
@@ -271,13 +285,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "llama server's default port changed from 8080 to 9931",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9tbg2/llama_servers_default_port_changed_from_8080_to/",
-   "ts": 1792405927,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "MiniMax-M3.1-Flash is coming",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9suvs/minimaxm31flash_is_coming/",
    "ts": 1792404308,
@@ -372,13 +379,6 @@
    "title": "Beating Warcraft III’s insane AI with self-play reinforcement learning on one desktop [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9c5ty/beating_warcraft_iiis_insane_ai_with_selfplay/",
    "ts": 1792352076,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Doska: open source self-hosted kanban with Markdown cards (Trello alternative with an Obsidian concept)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1x99we1/doska_open_source_selfhosted_kanban_with_markdown/",
-   "ts": 1792346703,
    "source": "Reddit"
   },
   {
