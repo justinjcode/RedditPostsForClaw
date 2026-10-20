@@ -1,20 +1,38 @@
 {
- "generated_at": "2026-10-20T14:40:08Z",
+ "generated_at": "2026-10-20T14:51:13Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
   "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: tech.therundown.ai/p/what-ai… Link What AI sees in your selfie PLUS: Japan heads to Martian moon tech.therundown.ai",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2112552206620631379#m",
+   "ts": 1792506670,
+   "id": "2112552206620631379#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in tech today: - A selfie could help predict cancer survival - Japan is chasing a Martian mystery - Apple sets date for touchscreen Mac - Meta pops the hood on Prometheus",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2112552201579049274#m",
+   "ts": 1792506668,
+   "id": "2112552201579049274#m"
+  },
   {
    "handle": "simonw",
    "name": "Simon Willison",
@@ -1121,24 +1139,6 @@
    "url": "https://nitter.kareem.one/bunjavascript/status/2110692261508079721#m",
    "ts": 1792063224,
    "id": "2110692261508079721#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: therundownai.beehiiv.com/p/r… Link Rogue AI agents sit for their first interview Researchers interviewed rogue AI agents in the wild, a first-contact moment with a Tencent-linked fleet, plus Claude builds a live sales dashboard in this week's AI briefing. therundownai.beehiiv.com",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2110679705028358588#m",
-   "ts": 1792060230,
-   "id": "2110679705028358588#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in AI today: - Researchers make ‘first contact’ with rogue AI - Nate’s Notebook: How to defuse a slop-grenade - Build a live sales dashboard in Claude - OpenAI and Apple trade theft accusations",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2110679700141904294#m",
-   "ts": 1792060229,
-   "id": "2110679700141904294#m"
   },
   {
    "handle": "ZichenWanghere",
