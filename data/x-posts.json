@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-20T19:46:54Z",
+ "generated_at": "2026-10-20T19:54:28Z",
  "accounts_ok": [
-  "TheRundownAI",
-  "ZichenWanghere",
+  "Lingling_Wei",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed"
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 179,
  "items": [
@@ -32,6 +32,15 @@
    "url": "https://nitter.kareem.one/simonw/status/2112630778068881543#m",
    "ts": 1792525402,
    "id": "2112630778068881543#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "The Programmable Data Center @martin_casado ’s Nicira virtualized networking by separating the control plane from the hardware. Cisco offered $600m; VMware bought it for $1.3b. Now that idea is coming to GPU infrastructure. @evanjconrad , CEO of @sfcompute , joins @swyx at @aiDotEngineer NYC to explain how SF Compute went from subleasing a cluster to making data centers programmable. We get into: • Why delivering a GPU trade means running the whole “hotel” • Interruptions, hardware generations and the GPU order book • Why physical settlement comes before compute derivatives • Why Evan thinks NVIDIA can’t build an independent market • Programmable InfiniBand and the data center as software The full conversation: Video",
+   "url": "https://nitter.kareem.one/latentspacepod/status/2112630312752844829#m",
+   "ts": 1792525291,
+   "id": "2112630312752844829#m"
   },
   {
    "handle": "TheRundownAI",
@@ -770,15 +779,6 @@
    "url": "https://nitter.kareem.one/VeraMBergen/status/2111959443839582398#m",
    "ts": 1792365344,
    "id": "2111959443839582398#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "It’s worth mentioning that we are charting new territories for our model capability team - creating a new kind of role that doesn’t exist yet elsewhere. We need solid coders that have “taste”. Day to day you will be studying the capabilities of the model and working on data. 🙂",
-   "url": "https://nitter.kareem.one/hackgoofer/status/2111952970565013743#m",
-   "ts": 1792363801,
-   "id": "2111952970565013743#m"
   },
   {
    "handle": "thsottiaux",
