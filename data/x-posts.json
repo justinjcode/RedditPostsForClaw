@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-10-20T19:54:28Z",
+ "generated_at": "2026-10-20T20:09:06Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "bcherny",
+  "TheRundownAI",
+  "ZichenWanghere",
   "elonmusk",
-  "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@realDonaldTrump: all instances failed",
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "Claude generated all of the 3D models (in Three.js) - here's a model explorer that lists them all plus their animation states. My favorite is the giant \"Goliath\" stomping mech simonw.github.io/battledrone… Video",
+   "url": "https://nitter.kareem.one/simonw/status/2112632287250743641#m",
+   "ts": 1792525762,
+   "id": "2112632287250743641#m"
+  },
   {
    "handle": "simonw",
    "name": "Simon Willison",
@@ -1607,15 +1616,6 @@
    "url": "https://nitter.kareem.one/bcherny/status/2108004023249088528#m",
    "ts": 1791422298,
    "id": "2108004023249088528#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "Haiku 5.5 is SO MUCH better at drawing pelicans riding bicycles than Claude Haiku 4.5, released almost a year ago and costing 10x more. Here's Haiku 4.5's attempt:",
-   "url": "https://nitter.kareem.one/simonw/status/2107939154122404015#m",
-   "ts": 1791406832,
-   "id": "2107939154122404015#m"
   },
   {
    "handle": "bcherny",
