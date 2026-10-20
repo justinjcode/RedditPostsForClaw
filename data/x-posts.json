@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-10-20T23:22:37Z",
+ "generated_at": "2026-10-20T23:34:53Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
   "@TheRundownAI: all instances failed"
  ],
  "count": 179,
@@ -311,6 +311,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2112588793010421837#m",
    "ts": 1792515392,
    "id": "2112588793010421837#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Article DeepSeek V4.1 Flash Large-Scale Inference Deployment Practice this is a translation of https://zhuanlan.zhihu.com/p/2095560295930508953 for our own use/ twitter audiences to read The capability boundaries of a large model are defined by the model itself, and the core problem that",
+   "url": "https://nitter.kareem.one/latentspacepod/status/2112588380416647205#m",
+   "ts": 1792515294,
+   "id": "2112588380416647205#m"
   },
   {
    "handle": "swyx",
@@ -851,15 +860,6 @@
    "url": "https://nitter.kareem.one/dave_brown24/status/2111964632222990555#m",
    "ts": 1792366581,
    "id": "2111964632222990555#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "are we so different, you and i Odyssey (@odysseyml) We placed the fruit fly brain inside Odyssey-3, a frontier world model. The lil’ guy is now flying around totally imagined, simulated worlds all by itself 🫶 Video — https://nitter.kareem.one/odysseyml/status/2111589148146749616#m",
-   "url": "https://nitter.kareem.one/swyx/status/2111962930644402504#m",
-   "ts": 1792366175,
-   "id": "2111962930644402504#m"
   },
   {
    "handle": "Lingling_Wei",
