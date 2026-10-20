@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-10-20T03:05:53Z",
+ "generated_at": "2026-10-20T03:40:36Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed",
   "@TheRundownAI: all instances failed"
  ],
@@ -52,6 +52,15 @@
    "id": "2112306475523522933#m"
   },
   {
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
+   "text": "We launched OSS Scanner, which gives critical open source projects free, periodic vulnerability scans from our strongest models. Each finding includes a proof-of-concept, and a patch where possible. red.anthropic.com/oss-scanne… Link OSS Scanner OSS Scanner is a free, opt-in service by Anthropic that runs periodic security scans of open-source repositories with our strongest models. red.anthropic.com",
+   "url": "https://nitter.kareem.one/ClaudeDevs/status/2112299602510749992#m",
+   "ts": 1792446444,
+   "id": "2112299602510749992#m"
+  },
+  {
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
@@ -88,6 +97,15 @@
    "id": "2112293785472225568#m"
   },
   {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Trump Says He Would Be Open to Meeting With Putin and Xi wsj.com/world/trump-putin-xi… via @WSJ Link Trump Says He Would Be Open to Meeting With Putin and Xi The president said he would be willing to discuss denuclearization with the leaders of Russia and China. wsj.com",
+   "url": "https://nitter.kareem.one/Lingling_Wei/status/2112277579088777689#m",
+   "ts": 1792441193,
+   "id": "2112277579088777689#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -104,6 +122,15 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2112268918681485431#m",
    "ts": 1792439128,
    "id": "2112268918681485431#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "\"Have you agreed to a trilateral meeting with Presidents Putin and Xi?\" @POTUS : \"No, but I would do it... We would have it to talk about nuclear weapons and denuclearization.\" Video",
+   "url": "https://nitter.kareem.one/RapidResponse47/status/2112266052247962008#m",
+   "ts": 1792438445,
+   "id": "2112266052247962008#m"
   },
   {
    "handle": "TheRundownAI",
@@ -1348,15 +1375,6 @@
    "id": "2110023283169247623#m"
   },
   {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "Analysts have long suspected China overstates econ data. But maybe population data too. Indeed China’s population may be 130 million smaller than claimed. Local officials have incentives to fudge the numbers. @Lingling_Wei wsj.com/world/china/a-demogr… via @WSJ Link A Demographic Mirage May Be Distorting China’s Economic Ambitions Plus, Beijing’s tepid recovery efforts, falling government bond yields and why China resists joining the developed world wsj.com",
-   "url": "https://nitter.kareem.one/bobdavis187/status/2110011932665110551#m",
-   "ts": 1791901021,
-   "id": "2110011932665110551#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -1373,15 +1391,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2109711203077619768#m",
    "ts": 1791829322,
    "id": "2109711203077619768#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "Kimberly Guilfoyle was being blocked from a January dinner featuring Eric Trump, and she wanted to enlist an American businessman on the guest list to help get her in the door: “You know, I can deliver the world to you.... I’m going to make you a lot of f—ing money.” She was at Davos–freshly minted as America's ambassador to Greece–boasting about her close ties to two Greek tycoons wh she said were bankrolling her high-rolling trips around the world, according to people who heard the conversation and an audio recording reviewed by The Wall Street Journal. w/ @rebeccaballhaus @DanaMattioli & @JoeWSJ wsj.com/politics/policy/at-d… Link Exclusive | At Davos, Kimberly Guilfoyle Boasted of Private Jet Trips, Luxury Stays A recording captured the U.S. ambassador saying that Greek businessmen were paying for her travels and pleading for an invitation to an event with Eric Trump. wsj.com",
-   "url": "https://nitter.kareem.one/drewhinshaw/status/2109022311169040595#m",
-   "ts": 1791665077,
-   "id": "2109022311169040595#m"
   },
   {
    "handle": "bcherny",
@@ -1553,15 +1562,6 @@
    "url": "https://nitter.kareem.one/bcherny/status/2108004023249088528#m",
    "ts": 1791422298,
    "id": "2108004023249088528#m"
-  },
-  {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
-   "text": "One of my favorite PM use cases for Claude is asking \"who used <feature> the most last week? make me a artifact of the top 10 by usage, then reach out and schedule 15 min to chat.\" It's the fastest way to get user feedback!",
-   "url": "https://nitter.kareem.one/_catwu/status/2107967210467803152#m",
-   "ts": 1791413521,
-   "id": "2107967210467803152#m"
   },
   {
    "handle": "simonw",
