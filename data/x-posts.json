@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-10-20T21:45:24Z",
+ "generated_at": "2026-10-20T21:53:19Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,28 @@
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Full post: Justin Mast (@justinmast) 1/ Today we’re unveiling Bombadil, @electricplantco 's foundation model that reads the electrical signals of living plants and turns them into a continuous view of their physiology. Trained on 7M+ hours of plant electrical signal across 125+ species. That makes Bombadil the most species-diverse model of directly recorded electrical biosignals in existence. The animal equivalent would be one model that reads the brainwaves of blue whales, horseshoe crabs and fruit flies. — https://nitter.kareem.one/justinmast/status/2112583500008403437#m",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2112660394837737863#m",
+   "ts": 1792532464,
+   "id": "2112660394837737863#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "The Electric Plant Co. built an AI that reads a plant’s electrical signals to tell how it’s doing, minute by minute. Its Bombadil model was trained on over 7M hours of data from 125+ species, and can spot plant stress days before it actually shows in the leaves. Co-founder @justinmast says farming and forestry are \"the largest use of fresh water on Earth,\" yet nearly all of it is \"managed from the outside in.\" \"We need planetary gardeners.\"",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2112659234282471487#m",
+   "ts": 1792532187,
+   "id": "2112659234282471487#m"
+  },
   {
    "handle": "simonw",
    "name": "Simon Willison",
@@ -1202,24 +1220,6 @@
    "url": "https://nitter.kareem.one/bcherny/status/2110791698611855624#m",
    "ts": 1792086932,
    "id": "2110791698611855624#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Meta just released Muse Spark Open, calling it \"the most capable US open-weight model to date.\" Meta puts it at 39 on Artificial Analysis’ Intelligence Index, leading U.S. rivals but still behind China’s GLM 5.3 (45) and Kimi K3 (44). Nvidia also shipped its own open model hours earlier, Nemotron 3.5 Super VL. 7x smaller and 5x faster than rivals its size. Big day for open releases!",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2110789794905174243#m",
-   "ts": 1792086478,
-   "id": "2110789794905174243#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Ex-OpenAI researcher Nick Cammarata says the biggest AI models aren’t the black boxes the field once feared. His 2023 OAI project could explain about 1.7% of a model’s neurons. Now at AI research startup Goodfire, he says most are understandable in models up to trillions of parameters. “I now think ambitious interpretability will be solved by the time we need it most, and possibly quite soon.” Nick (@nickcammarata) interpretability might be the most important scientific problem in the world right now, as I don't think we can solve alignment if we don't know what we're building. I think I have good news about it. I co-authored early work in mechanistic interpretability at OpenAI and came away pessimistic, because neural networks appeared to fold into arbitrary tangled knots. years later, I started openai's first large-scale automated interpretability project, finding about 2% of neurons legible with the primitive tools we had with modern agentic tools and a much closer look, the picture looks totally different. the vast majority in models up to trillions of parameters are legible, and their circuits beautiful. many famous examples of tangled neurons turned out to be misunderstood. The roadblocks I expected mostly aren't there. I now think ambitious interpretability will be solved by the time we need it most, and possibly quite soon, as automated scientists keep improving. it may be a bitter lesson for interpretability: the simple thing, at absurd scale, works already-clean.goo",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2110777479115788587#m",
-   "ts": 1792083542,
-   "id": "2110777479115788587#m"
   },
   {
    "handle": "ZichenWanghere",
