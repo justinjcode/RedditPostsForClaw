@@ -1,15 +1,71 @@
 {
- "generated_at": "2026-10-21T14:14:26Z",
+ "generated_at": "2026-10-21T16:13:23Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "OK, fine, Qwen 3.8 Flash Next is nice",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbqxh5/ok_fine_qwen_38_flash_next_is_nice/",
+   "ts": 1792598021,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "RecursiveSI/flint (40B A2.5B) · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbqik0/recursivesiflint_40b_a25b_hugging_face/",
+   "ts": 1792597080,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "inclusionAI/Ming-3.0-TTS-0.5B",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbq7ze/inclusionaiming30tts05b/",
+   "ts": 1792596428,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Did linuxserver.io get hacked? Normal homepage isn't showing up.",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xbpkz1/did_linuxserverio_get_hacked_normal_homepage_isnt/",
+   "ts": 1792594971,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Portabase (OSS backup/restore platform) now supports file and directory backups",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xbp8ua/portabase_oss_backuprestore_platform_now_supports/",
+   "ts": 1792594211,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Unintended Computations @ hack.lu",
+   "url": "https://www.reddit.com/r/programming/comments/1xbp8ti/unintended_computations_hacklu/",
+   "ts": 1792594209,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "PHP2Shell: Critical vulnerabilities in the backbone of the web",
+   "url": "https://www.reddit.com/r/programming/comments/1xbo19y/php2shell_critical_vulnerabilities_in_the/",
+   "ts": 1792591402,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "What is the best WordPress hosting?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xbnrjb/what_is_the_best_wordpress_hosting/",
+   "ts": 1792590748,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "MyBibliotheca 3.0.0",
@@ -29,6 +85,13 @@
    "title": "I built a small on-device voice front-end for local assistants: type any wake word, keep only your voice before STT (5 models, 7.5 MB, Apache-2.0, early preview)",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbmhct/i_built_a_small_ondevice_voice_frontend_for_local/",
    "ts": 1792587581,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Summary of Major Changes Between Python Versions (2026 Update)",
+   "url": "https://www.reddit.com/r/programming/comments/1xbm5hd/summary_of_major_changes_between_python_versions/",
+   "ts": 1792586665,
    "source": "Reddit"
   },
   {
@@ -53,13 +116,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Wasp web framework v1.0 is coming: the roadmap and what changes",
-   "url": "https://www.reddit.com/r/programming/comments/1xbkzrb/wasp_web_framework_v10_is_coming_the_roadmap_and/",
-   "ts": 1792583373,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "[Paper] TokenGate: Adapting LLMs for Fast and Memory-Efficient Prefill with Learned Token Pruning",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbkzll/paper_tokengate_adapting_llms_for_fast_and/",
@@ -78,13 +134,6 @@
    "title": "PHP2Shell in self-hosted apps?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xbjwmd/php2shell_in_selfhosted_apps/",
    "ts": 1792579877,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Seerr - Oidc support or alternative service",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xbjsn1/seerr_oidc_support_or_alternative_service/",
-   "ts": 1792579496,
    "source": "Reddit"
   },
   {
@@ -145,13 +194,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "Qwen3.8-Flash-Next @ 1.66bpw-exl3 STABLE under 36gb",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbgi6i/qwen38flashnext_166bpwexl3_stable_under_36gb/",
-   "ts": 1792567295,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "Be prepared, GPU price increase incoming --> Samsung sells out 100% of all 2027 HBM capacity - HBM prices expected to jump 200% next year, DRAM prices expected to see a double-digit price increase",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbfhxp/be_prepared_gpu_price_increase_incoming_samsung/",
    "ts": 1792563552,
@@ -162,20 +204,6 @@
    "title": "Is Dynu Down",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xbf8ho/is_dynu_down/",
    "ts": 1792562607,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "KFlash: Benchmarks of newly released versions of Apple Silicon optimized engines: 1.4.0 Splash (DFlash2 ~ 50 tok/s) vs 0.2 Kapitsa (KFlash ~65 tok/s), MLX(MTP) & more on Qwen 3.8 27b/4b/35b 4Q on Macbook Pro M4 Pro 48 GB 2024, 48GB & Macbook Pro M1 Pro 16GB 2021",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbdxg3/kflash_benchmarks_of_newly_released_versions_of/",
-   "ts": 1792558032,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "I use local AI to generate personal value on my massive NAS-based archive / library",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbd1hp/i_use_local_ai_to_generate_personal_value_on_my/",
-   "ts": 1792555099,
    "source": "Reddit"
   },
   {
@@ -243,13 +271,6 @@
   },
   {
    "subreddit": "programming",
-   "title": "New Season Upgrades Vol 3: Split Keyboard Adventures! · cekrem.github.io",
-   "url": "https://www.reddit.com/r/programming/comments/1xb34av/new_season_upgrades_vol_3_split_keyboard/",
-   "ts": 1792527780,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
    "title": "eMudhra Intermediate CA Compromise",
    "url": "https://www.reddit.com/r/programming/comments/1xb32yj/emudhra_intermediate_ca_compromise/",
    "ts": 1792527690,
@@ -281,13 +302,6 @@
    "title": "Making A Mutex from Scratch in Rust to Understand Thread Safety",
    "url": "https://www.reddit.com/r/programming/comments/1xav3jo/making_a_mutex_from_scratch_in_rust_to_understand/",
    "ts": 1792509932,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Omnivore - A fully self-hosted and Open Source Read-it-Later App",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xaujlk/omnivore_a_fully_selfhosted_and_open_source/",
-   "ts": 1792508667,
    "source": "Reddit"
   },
   {
@@ -333,13 +347,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "PSA: Immich v3.3.3 + Paperless-ngx v 3.3.3 = today is a good day",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xamwuj/psa_immich_v333_paperlessngx_v_333_today_is_a/",
-   "ts": 1792486181,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "The reverts will continue until morale improves [PostgreSQL 19]",
    "url": "https://www.reddit.com/r/programming/comments/1xa9h5w/the_reverts_will_continue_until_morale_improves/",
@@ -365,13 +372,6 @@
    "title": "Maxwell: a new model that speeds up AI models like Whisper and LTX-2 by rewriting their binaries [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xa2rrh/maxwell_a_new_model_that_speeds_up_ai_models_like/",
    "ts": 1792430015,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "GitHub Actions is down once again",
-   "url": "https://www.reddit.com/r/programming/comments/1xa0z6c/github_actions_is_down_once_again/",
-   "ts": 1792425991,
    "source": "Reddit"
   },
   {
