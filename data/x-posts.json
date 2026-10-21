@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-10-21T17:30:42Z",
+ "generated_at": "2026-10-21T17:43:19Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -9,12 +11,36 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "this one also blowing up, one talk two W’s Turing Post (Ksenia Se) (@TheTuringPost) love this talk, as you know it inspired me to record inv.kareem.one/watch?v=pEHfZUra… Link AI Models Are Eating Their Harnesses. Now What? AI harness engineering is everywhere right now. But as AI models be... youtube.com — https://nitter.kareem.one/TheTuringPost/status/2112939226765439398#m",
+   "url": "https://nitter.kareem.one/swyx/status/2112961323550335062#m",
+   "ts": 1792604211,
+   "id": "2112961323550335062#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Forward this to your friends in Texas",
+   "url": "https://nitter.kareem.one/elonmusk/status/2112958619448639525#m",
+   "ts": 1792603566,
+   "id": "2112958619448639525#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Talarico, the creep, in his OWN words KanekoaTheGreat (@KanekoaTheGreat) Every word is James Talarico’s. 27 clips. 4 minutes. 2019–2026. “God is non-binary.” “…many more than two biological sexes. In fact, there are six.” “If you deny your child’s gender identity… it’s abusive for sure.” “There’s only one person who can determine a child’s gender identity, and that’s the child.” “I want to acknowledge that our trans community needs abortion care too.” “…the bill that would have denied gender-affirming health care to trans children… All these ideologies stem from this Christofascism movement.” “The way I fought for trans kids in the legislature is how I will fight for the U.S. Senate, and my position hasn’t changed.” “Prophetic voices like Jesus have helped me reckon with my own whiteness.” “It’s always rich to me that defund the police is considered off limits…” “Prison is violence.” “Tear down this secret police force.” Assault weapons ban? “Absolutely.” Send this to 10 Texas voters and tell them to vote today. Video — https://nitter.kareem.one/KanekoaTheGreat/status/2112954705634902429#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2112958301344264310#m",
+   "ts": 1792603490,
+   "id": "2112958301344264310#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -289,15 +315,6 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "opus is great for writing... when you dont happen to have any random no-no words in your prompt. jfc, @CompleteSkeptic is right, give me prod, not god. i cant build an ai media org with this in the critical path. swyx (@swyx) can confirm. ran @latentspacepod AINews side by side with 6 Sol and the difference was night and day: latent.space/p/ainews-claude… 5.5 Opus is the new default model for AINews going forward. so much more concise and tasteful reporting, with much less slopese than even 5 Opus. — https://nitter.kareem.one/swyx/status/2102650014552182920#m",
-   "url": "https://nitter.kareem.one/swyx/status/2112772374823407870#m",
-   "ts": 1792559162,
-   "id": "2112772374823407870#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
    "text": "i tried to make codex make animated explainer videos but ngmi inf.latent.space/blender/sto…",
    "url": "https://nitter.kareem.one/swyx/status/2112764130197451209#m",
    "ts": 1792557196,
@@ -329,15 +346,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2112689291570938255#m",
    "ts": 1792539353,
    "id": "2112689291570938255#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "exciting news! we heard you, and launched @X spaces & lists in @bot ! want to find a space to listen on? ask @bot ! want to manage your lists? ask @bot ! this was super exciting to get added, and excited to see what you all do with it 😃 Video",
-   "url": "https://nitter.kareem.one/pjvann/status/2112686973005476048#m",
-   "ts": 1792538800,
-   "id": "2112686973005476048#m"
   },
   {
    "handle": "elonmusk",
@@ -482,15 +490,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2112623737082446013#m",
    "ts": 1792523724,
    "id": "2112623737082446013#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Sadly, you need to avoid the beautiful library in downtown Austin. In fact, many libraries in the city are this way, with unhinged people browsing porn on the computers in front of children. Austin Justice (@AustinJustice) UPDATE: Alonzo Mabry is dead. In March, the 62-year-old was using a computer at Austin's Central Library when the man next to him, Daniel Vasquez, stood up, hit him in the head, and stomped on his skull while he lay unconscious. Then Vasquez went back to his computer. Mabry died in hospice and Vasquez was charged with murder last week. Before the library, Vasquez had punched a CapMetro bus driver in the mouth. That was dismissed by prosecutors. He also punched a mother in the face in front of her 11-year-old son, then punched the woman who tried to stop him. Those were also dismissed. DA Jose Garza's office sent him to a six-month rehab program instead. He finished in June 2025 and every charge was wiped and he went back to the street. — https://nitter.kareem.one/AustinJustice/status/2112604520857375167#m",
-   "url": "https://nitter.kareem.one/bandholz/status/2112622317268554192#m",
-   "ts": 1792523385,
-   "id": "2112622317268554192#m"
   },
   {
    "handle": "TheRundownAI",
