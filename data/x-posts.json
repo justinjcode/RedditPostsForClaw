@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-10-21T22:47:37Z",
+ "generated_at": "2026-10-21T22:55:00Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "TheRundownAI",
-  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
-  "@swyx: all instances failed",
-  "@bcherny: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
- "count": 178,
+ "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Counting bumblebees one-by-one 😂 Christopher Rufo (@christopherrufo) California hasn't built its bullet train because the state has required 130,000 pages of environmental reports, making absurd demands like: • counting bumblebees one by one • rebuilding woodrat stick huts • hiring specialized dogs to sniff lizard scat — https://nitter.kareem.one/christopherrufo/status/2112982970869170553#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2113040898644967726#m",
+   "ts": 1792623183,
+   "id": "2113040898644967726#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -295,9 +304,9 @@
    "id": "2112939429622849572#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
    "text": "🚨 VIRGINIA! Early Voting, in-person, is UNDERWAY NOW in the Great Commonwealth of Virginia. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT! Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Virginia, you can cast your early Vote, in-person, all the way through October 31st. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP Find your Voting Location here: swampthevoteusa.com/virginia… Link VIRGINIA: MAKE A PLAN TO VOTE! Election Day in Virginia is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2112939021861073051#m",
    "ts": 1792598893,
