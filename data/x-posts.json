@@ -1,20 +1,73 @@
 {
- "generated_at": "2026-10-21T15:48:39Z",
+ "generated_at": "2026-10-21T15:58:12Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@simonw: all instances failed",
-  "@swyx: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "As Thatcher said, the problem with socialism is that eventually they run out of other people’s money to take and they come for you tobi lutke (@tobi) Of course it’s net negative — https://nitter.kareem.one/tobi/status/2112869220094501273#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2112933813647258079#m",
+   "ts": 1792597652,
+   "id": "2112933813647258079#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Try Grok @Bot Arthur MacWaters (@ArthurMacwaters) grok bot is by far my most used personal assistant. Apple level product design and seamlessness — https://nitter.kareem.one/ArthurMacwaters/status/2112922355509174748#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2112932127901987225#m",
+   "ts": 1792597250,
+   "id": "2112932127901987225#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Some fools still think the legacy news is real. Amazing.",
+   "url": "https://nitter.kareem.one/elonmusk/status/2112931457786081428#m",
+   "ts": 1792597090,
+   "id": "2112931457786081428#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Article SpaceX Earnings: Heading Towards the First $100 Trillion Company TLDR: A year ago SpaceX lost $1.1 billion in a quarter. This quarter it made $4.4 billion, and its largest business is no longer rockets. It’s AI. I believe SpaceX is assembling something no company",
+   "url": "https://nitter.kareem.one/PeterDiamandis/status/2112931331722055779#m",
+   "ts": 1792597060,
+   "id": "2112931331722055779#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "For sure @bot and it’s not even close",
+   "url": "https://nitter.kareem.one/RampCapitalLLC/status/2112926807074705746#m",
+   "ts": 1792595981,
+   "id": "2112926807074705746#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "We need to increase what people can afford, help them participate in the wealth being created, and preserve their confidence during this global technological transition.",
+   "url": "https://nitter.kareem.one/PeterDiamandis/status/2112919318123987135#m",
+   "ts": 1792594196,
+   "id": "2112919318123987135#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -169,15 +222,6 @@
    "id": "2112712984644784534#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "🚀 WOW! SpaceX just LAUNCHED another Falcon 9 into the stars 🚀 Elon Musk’s Starfall—a 4,000-pound, HOCKEY-PUCK-SHAPED LAB—is HEADED to SPACE! Elon’s giving back, promising SpaceX STOCK to every American KID! 🔥 Video",
-   "url": "https://nitter.kareem.one/JesseBWatters/status/2112710372280914137#m",
-   "ts": 1792544379,
-   "id": "2112710372280914137#m"
-  },
-  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -194,33 +238,6 @@
    "url": "https://nitter.kareem.one/pjvann/status/2112686973005476048#m",
    "ts": 1792538800,
    "id": "2112686973005476048#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "SpaceX’s full Q3 2026 earnings Q&A: Elon Musk, Gwynne Shotwell and Bret Johnsen take on Wall Street’s biggest questions 0:00 Has SpaceX placed orders for EUV machines, and where can it improve on today's chipmaking? 3:08 How are you getting past power and cooling limits to reach 13 GW by the end of 2027? 8:24 How will SpaceX fund all of that compute? 10:02 What are the pros, cons and roadblocks of a possible merger with Tesla? 13:14 Can Starlink Mobile's satellite and ground network really compete with U.S. carriers? 16:41 How do you split compute between your own AI and cloud customers? 21:35 When will V3 satellites make Starlink noticeably faster, and how many are needed? 22:22 When will the first Starship launch from Louisiana happen? Video",
-   "url": "https://nitter.kareem.one/XFreeze/status/2112681624303223019#m",
-   "ts": 1792537525,
-   "id": "2112681624303223019#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "What’s crazy to me is that $SPCX will LIKELY achieve $500B - $1 trillion in ARR by EOY 2027. The infrastructure availability is the limiting factor when it comes to increasing the compute capabilities but SpaceX expects to achieve at least 13 GWhs of compute using majority $NVDA Vera Rubin’s by EOY 2027. Grok bot will be used by businesses starting in a few weeks. Video",
-   "url": "https://nitter.kareem.one/GrindeOptions/status/2112669958044053723#m",
-   "ts": 1792534744,
-   "id": "2112669958044053723#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "$SPCX JUST REPORTED $14.6 BILLION IN REVENUE. 🚀 Revenue surged 161% year over year. Net income hit $4.4B. And AI now makes up 52% of revenue. But the biggest question isn't whether SpaceX crushed earnings. It's what happens next. With $TSLA reporting tomorrow and a massive share unlock Thursday, this could be one of the most important weeks for both stocks. Video",
-   "url": "https://nitter.kareem.one/RealMicahLamar/status/2112666737237770746#m",
-   "ts": 1792533976,
-   "id": "2112666737237770746#m"
   },
   {
    "handle": "elonmusk",
@@ -374,15 +391,6 @@
    "url": "https://nitter.kareem.one/latentspacepod/status/2112630312752844829#m",
    "ts": 1792525291,
    "id": "2112630312752844829#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "WATCH: President Trump’s full comments to CBS’s Nikole Killion about the war between Russia and Ukraine, arguing the land Russia has taken from Ukraine has gotten “bigger and bigger all the time, week by week,” and they have an “unlimited supply of people” to keep going, but not Ukraine.... “Russia would like to get it done. I think that — and you know, Russia is a big machine. They just keep grinding forward, and that’s what they’ve done. They’ve taken a very large piece of land, and, you know, you can say that Ukraine is doing well or poorly, but the land gets bigger and bigger all the time, week by week. It — just —they march forward. They just keep marching forward. They have an unlimited supply of people, whereas Ukraine, as you know, is — there’s a woman who’s, I guess, not exactly a very beautiful woman, nice woman, and she is on television recently talking about the fact that our men are gone. She’s a Ukrainian woman. Our men are gone. They’re lost. They’re dead. They’re in mental institutions. They’re walking around. They have no arms. They have no legs. In many cases, they’ve been hurt so badly; they’ve been just decimated, and it was very poignant. When I heard this, I said, boy, that’s some statement. And she said, Russia is a very big country. They can lose a lot of people in a war, and they have lost a lot of people. They lost 50 million people in the Second World War. They lose a lot of people, but they’re very big, and she said they have to settle this war. Lo",
-   "url": "https://nitter.kareem.one/CurtisHouck/status/2112626265614119314#m",
-   "ts": 1792524327,
-   "id": "2112626265614119314#m"
   },
   {
    "handle": "TheRundownAI",
@@ -1220,15 +1228,6 @@
    "url": "https://nitter.kareem.one/Biantaiboooo/status/2110904185629909130#m",
    "ts": 1792113751,
    "id": "2110904185629909130#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "🛰️ @elonmusk wants 10 gigawatts of compute by the end of 2027. @JensenHuang says Nvidia now counts @SpaceX alongside its cloud provider customers, and the two companies' engineers are designing a server for space: \"In the two parts of our chart, Elon used to be under enterprise. That's the way we reported the numbers. Now he's part of our CSPs... They're massive. He's using our technology for his own AI in training models and such, deploying models, of course... And the demand for GrokBot, the consumption for GrokBot is really skyrocketing. And then, of course, he rents it. And so the combination of these three things, he's fairly unique in doing that... He loves the intersection between computing and the physical build-outs... And nobody knows more about energy than he does. And one particular new market that we're going to go explore together is putting data centers out in space. So our two engineering teams are working super closely together to create a new type of server, a new type of architecture that might be super good... in space and on Earth.\" — @JensenHuang , CEO of @nvidia on @BG2Pod with @altcap Video",
-   "url": "https://nitter.kareem.one/bg2clips/status/2110841224986812828#m",
-   "ts": 1792098740,
-   "id": "2110841224986812828#m"
   },
   {
    "handle": "bcherny",
