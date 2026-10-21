@@ -1,19 +1,29 @@
 {
- "generated_at": "2026-10-21T14:48:46Z",
- "accounts_ok": [],
+ "generated_at": "2026-10-21T14:58:24Z",
+ "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
+  "bcherny",
+  "realDonaldTrump",
+  "swyx"
+ ],
  "errors": [
   "@elonmusk: all instances failed",
-  "@realDonaldTrump: all instances failed",
   "@thsottiaux: all instances failed",
-  "@simonw: all instances failed",
-  "@swyx: all instances failed",
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@simonw: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "An OpenAI model just helped find what the company calls \"one of the most impactful security issues in recent memory.\" The target was PHP, the language behind WordPress and nearly 70% of websites. Security firm Calif pointed GPT-5.6 Sol at PHP’s code, and it found a critical flaw that could let attackers take over a server without logging in. Wiz found the same bugs independently. OpenAI then spent two months coordinating the response with PHP’s maintainers, Wiz and Cloudflare. Patches dropped this morning after details leaked early, but any server that hasn’t updated is still exposed. The National Security Agency told organizations that can’t update yet to take their systems offline. OpenAI (@OpenAI) OpenAI models helped researchers—operating as part of our Patch the Planet initiative—discover critical security flaws in PHP, an open-source programming language used to run an estimated 70% of websites. Over the past two months, we led a coalition of maintainers, researchers, and security providers to prepare fixes and protections ahead of disclosure. This duration was necessary because the fix was quite intricate and required a major change to the PHP engine. Every site using PHP can now safely upgrade their version to stay secure, in addition to applying mitigations from various security vendors. Due to the severity of these flaws and PHP’s widespread use, we consider this bug to be one of the most impactful vulnerabilities in recent memory. It also marks a new phase, where A",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2112918214246044031#m",
+   "ts": 1792593933,
+   "id": "2112918214246044031#m"
+  },
   {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
@@ -1201,15 +1211,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2111102646899654715#m",
    "ts": 1792161068,
    "id": "2111102646899654715#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in tech today: - Tesla’s Roadster goes fully airborne - Google turns Gemini into a checkout lane - Colossal’s dodo revivals get AI assist - Amazon debuts $75 wearable, $100 phone clip",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2111102641795199480#m",
-   "ts": 1792161066,
-   "id": "2111102641795199480#m"
   },
   {
    "handle": "ZichenWanghere",
