@@ -1,6 +1,9 @@
 {
- "generated_at": "2026-10-21T22:08:37Z",
+ "generated_at": "2026-10-21T22:23:27Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -8,13 +11,27 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2113029854417600834#m",
+   "ts": 1792620550,
+   "id": "2113029854417600834#m"
+  },
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Dot, Dotter, Dottest",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2113029655095836957#m",
+   "ts": 1792620502,
+   "id": "2113029655095836957#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1193,24 +1210,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2111245052513259606#m",
    "ts": 1792195020,
    "id": "2111245052513259606#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "We also significantly improved GPT-6 Pro for all pro users OpenAI (@OpenAI) GPT-6 Astra Pro in ChatGPT got an upgrade with faster responses and improved use of plugins and tools. And now, multiple agents can tackle different parts of a task in parallel. You can follow each agent’s progress and open completed tasks to review their work. Now available to Pro users in the Chat tab. — https://nitter.kareem.one/OpenAI/status/2111192259073094035#m",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2111244957851984181#m",
-   "ts": 1792194997,
-   "id": "2111244957851984181#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Day 12/ We’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subagents, keeping context cached longer, and improved request routing that allows us to increase cache hits.",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2111244596131111253#m",
-   "ts": 1792194911,
-   "id": "2111244596131111253#m"
   },
   {
    "handle": "bcherny",
