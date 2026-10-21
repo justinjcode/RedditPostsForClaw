@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T20:24:47Z",
+ "generated_at": "2026-10-21T20:40:14Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "When we framed @trq212 's pod about Claude Code's Next Era, we meant it. we took some directive from @_catwu and did a proper deep dive on the new Claude Mods and highilghted our faves and what you should try now. in the same way that LLMs had that evolution from specific -> foundation -> specific, CC is much more of a malleable, general purpose hardened harness that has \"pretrained\" on quadrillions of tokens of learning that you can now repurpose for any domain specific harness! thanks to @ricmac and @daniel_mac8 for working on our latest product dive. if you have stuff you'd like us to test and write up, we're open to chat at business@latent.space Dan McAteer (@daniel_mac8) There's not enough buzz around Claude Mods. Read this Claude Mods article if you want to: - Understand Claude Mods basics - Install and use the most useful mods today - Ponder where the agent-human interface will go For @latentspacepod . — https://nitter.kareem.one/daniel_mac8/status/2112896961548259434#m",
+   "url": "https://nitter.kareem.one/swyx/status/2113003628835553559#m",
+   "ts": 1792614297,
+   "id": "2113003628835553559#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -213,9 +222,9 @@
    "id": "2112939429622849572#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
    "text": "🚨 VIRGINIA! Early Voting, in-person, is UNDERWAY NOW in the Great Commonwealth of Virginia. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT! Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Virginia, you can cast your early Vote, in-person, all the way through October 31st. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP Find your Voting Location here: swampthevoteusa.com/virginia… Link VIRGINIA: MAKE A PLAN TO VOTE! Election Day in Virginia is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2112939021861073051#m",
    "ts": 1792598893,
@@ -814,15 +823,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2112238340787282162#m",
    "ts": 1792431838,
    "id": "2112238340787282162#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Quick lookback on technical AI themes of 2026: (dataset: daily latent.space ainews title stories) Jan: - Ralph Loops - RLMs - Filesystems are all you need - X LLM recsys open sourced - X Grok Imagine #1 Video model - Anthropic blocked OpenCode / OpenClaw - MCP Apps - Moltbook - Apple picks Gemini for new Siri - Notable models: Kimi K2.5 - Fast inference: OAI x Cerebras partnership - Big raises: xAI @ $230B + SpaceX, OpenEvidence @ $12B Feb: - Codex App launch - Claude Code 1 year anniversary - Context Graphs - Fast Inference: Taalas 17k tok/s/user Llama 3 8B - Anthropic vs Deepseek/Moonshot/Minimax distillation accusation - Notable models: Opus/Sonnet 4.6, 5.3 Codex and Codex Spark, Qwen-Image 2.0, Seedance 2.0, GLM-5, Gemini 3.1 Pro and Deep Think, Nano Banana 2 - Big raises: OpenAI @ $840B, Anthropic @ $380B, ElevenLabs @ $11B, Cerebras @ $23B Mar: - T3 Code - Autoresearch - Claude Code source leak - Claude Cowork Dispatch - OpenAI buys Astral - Cloudflare-Next.js \"Slop Fork\" - Meta buys Dreamer - NVIDIA GTC: OpenClaw, Vera CPU, 1T sales backlog, \"The Inference Inflection\" - ARC-AGI 3 introduced, SOTA models are 1% - Notable models: GPT 5.4 unifies chat and codex, Gemini 3.1 Flash-Lite/Live, Nemotron 3 Super, Composer 2, MiniMax 2.7, Arcee’s Trinity-Large-Thinking - Big Raises: Yann LeCun AMI Labs $1B seed Apr: - Claude Design - OpenAI Symphony & Harness Engineering discourse - @LilianWeng writeup later - OpenAI and Microsoft break up - Tokenmaxxing fears - Codex Superapp -",
-   "url": "https://nitter.kareem.one/latentspacepod/status/2112197832342122712#m",
-   "ts": 1792422180,
-   "id": "2112197832342122712#m"
   },
   {
    "handle": "TheRundownAI",
