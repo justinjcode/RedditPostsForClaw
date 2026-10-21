@@ -1,20 +1,69 @@
 {
- "generated_at": "2026-10-21T16:13:23Z",
+ "generated_at": "2026-10-21T18:16:25Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
-  "selfhosted"
+  "MachineLearning",
+  "programming"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "MachineLearning",
+   "title": "Noun-verb-conjunction triads [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xbtzv9/nounverbconjunction_triads_d/",
+   "ts": 1792604648,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "The compiler was supposed to end programming too",
+   "url": "https://www.reddit.com/r/programming/comments/1xbt2sr/the_compiler_was_supposed_to_end_programming_too/",
+   "ts": 1792602678,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "JPA vs Hibernate vs JDBC: What Each One Actually Does | Visually Explained",
+   "url": "https://www.reddit.com/r/programming/comments/1xbrs3g/jpa_vs_hibernate_vs_jdbc_what_each_one_actually/",
+   "ts": 1792599838,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "When will we see these changes? --> China Is Doubling RAM Production to Keep Everyday Gadget Prices from Skyrocketing",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbrh0s/when_will_we_see_these_changes_china_is_doubling/",
+   "ts": 1792599179,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Now that 3090 frenzy warning post makes sense.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbr3u1/now_that_3090_frenzy_warning_post_makes_sense/",
+   "ts": 1792598407,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "IBM Granite Speech 5.0 2B",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbr2yg/ibm_granite_speech_50_2b/",
+   "ts": 1792598355,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "OK, fine, Qwen 3.8 Flash Next is nice",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbqxh5/ok_fine_qwen_38_flash_next_is_nice/",
    "ts": 1792598021,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Ran DeepSeek V4.1 Flash 1017 on a single RTX 5090",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbqir0/ran_deepseek_v41_flash_1017_on_a_single_rtx_5090/",
+   "ts": 1792597092,
    "source": "Reddit"
   },
   {
@@ -116,13 +165,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "[Paper] TokenGate: Adapting LLMs for Fast and Memory-Efficient Prefill with Learned Token Pruning",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbkzll/paper_tokengate_adapting_llms_for_fast_and/",
-   "ts": 1792583361,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Question about Oracle Minecraft hosting",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xbkx77/question_about_oracle_minecraft_hosting/",
@@ -151,13 +193,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "A 34-point win for my memristor-crossbar repair method came from an unfair baseline; tuned, step-matched baselines removed it [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xbj5i0/a_34point_win_for_my_memristorcrossbar_repair/",
-   "ts": 1792577291,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Qwen3.8-Flash-Next vs Opus 5.5: Six-way benchmark on a real Rust feature with Claude Code and Pi",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbipsl/qwen38flashnext_vs_opus_55_sixway_benchmark_on_a/",
@@ -169,27 +204,6 @@
    "title": "Open Archiver v0.6.1: JMAP ingestion source, wildcard in search, and Tika 4 support",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xbi8on/open_archiver_v061_jmap_ingestion_source_wildcard/",
    "ts": 1792573885,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "InternScience/Sage-A1.5 [Finetune of Qwen 3.6 35b-a3b]",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbi1hj/internsciencesagea15_finetune_of_qwen_36_35ba3b/",
-   "ts": 1792573181,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Need access to TPUs for ML mapping project [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xbhyq1/need_access_to_tpus_for_ml_mapping_project_r/",
-   "ts": 1792572893,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "KRAFTON/Raon-1-mini-preview · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbh0ev/kraftonraon1minipreview_hugging_face/",
-   "ts": 1792569248,
    "source": "Reddit"
   },
   {
@@ -256,13 +270,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Eagle-4 Released: Faster than DFlash2 & DSpark",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xb6zds/eagle4_released_faster_than_dflash2_dspark/",
-   "ts": 1792537448,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Top 10 AI agents for small local LLMs in 2026, tested on Qwen3.5-4B",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xb6hmh/top_10_ai_agents_for_small_local_llms_in_2026/",
@@ -295,13 +302,6 @@
    "title": "Under the Hood of Redis: How It Delivers Sub-Millisecond Latency?",
    "url": "https://www.reddit.com/r/programming/comments/1xavhns/under_the_hood_of_redis_how_it_delivers/",
    "ts": 1792510809,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Making A Mutex from Scratch in Rust to Understand Thread Safety",
-   "url": "https://www.reddit.com/r/programming/comments/1xav3jo/making_a_mutex_from_scratch_in_rust_to_understand/",
-   "ts": 1792509932,
    "source": "Reddit"
   },
   {
@@ -347,13 +347,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "The reverts will continue until morale improves [PostgreSQL 19]",
-   "url": "https://www.reddit.com/r/programming/comments/1xa9h5w/the_reverts_will_continue_until_morale_improves/",
-   "ts": 1792444823,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Open GPU kernel engineering series: naive GEMM to FlashAttention, H100 and Blackwell (44 sessions, code public) [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xa4h2g/open_gpu_kernel_engineering_series_naive_gemm_to/",
@@ -379,6 +372,13 @@
    "title": "[Bi-Weekly Megathread] Project Showcase",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yg86/biweekly_megathread_project_showcase/",
    "ts": 1792420251,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Arrow detection with ConvNext pretrained on DINOv3 [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1x9nw6a/arrow_detection_with_convnext_pretrained_on/",
+   "ts": 1792385833,
    "source": "Reddit"
   },
   {
