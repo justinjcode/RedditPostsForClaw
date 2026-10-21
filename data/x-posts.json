@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-10-21T15:33:22Z",
+ "generated_at": "2026-10-21T15:48:39Z",
  "accounts_ok": [
   "TheRundownAI",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
-  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed",
+  "@simonw: all instances failed",
+  "@swyx: all instances failed",
   "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
@@ -32,6 +32,15 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2112897150309073134#m",
    "ts": 1792588911,
    "id": "2112897150309073134#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Elon Musk was once a moderate Democrat who supported Barack Obama. He even stood in line for six hours just to shake Obama's hand when he was running for president. In 2010, President Obama visited SpaceX at Cape Canaveral, where Elon personally showed him around. But years later, Elon could no longer support the Democrats, because they had become “the party of division and hate.” He eventually shifted his support to the Republicans. Now, House Democrats are preparing to make Elon Musk a major target of congressional investigations if they regain control of the House in the midterms. Also in previous years, Tesla stores, vehicles, and Superchargers were targeted by arson, vandalism, and gunfire. Political disagreements are never an excuse for violence. These are crimes, not legitimate forms of protest. It's remarkable how much the relationship between Elon Musk and the Democratic Party has changed. Video SMX 🇺🇸 (@iam_smx) House Democrats have indicated that Elon Musk would be a top target for congressional investigations and increased oversight if they regain control of the House in the upcoming midterm elections. These people are crazy! — https://nitter.kareem.one/iam_smx/status/2112846890945724778#m",
+   "url": "https://nitter.kareem.one/iam_smx/status/2112874127170183176#m",
+   "ts": 1792583421,
+   "id": "2112874127170183176#m"
   },
   {
    "handle": "TheRundownAI",
@@ -104,24 +113,6 @@
    "url": "https://nitter.kareem.one/sqs/status/2112788777433473480#m",
    "ts": 1792563072,
    "id": "2112788777433473480#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Honest feedback from Grok and Fable Adam Holter (@AdamHoltererer) 4o was truly a special model — https://nitter.kareem.one/AdamHoltererer/status/2112516066563829882#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2112781998624555086#m",
-   "ts": 1792561456,
-   "id": "2112781998624555086#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Congrats SpaceX team! SpaceX (@SpaceX) Q3 2026 highlights: - Delivered revenue of $14.6 billion, up 161% year-over-year - Successfully launched our first revenue-generating Starship mission, delivering 26 Starlink V3 satellites to our broadband constellation, representing approximately 10x the downlink capacity added by a Falcon 9 Starlink launch - Added $6.7 billion of incremental Super Intelligence solutions and infrastructure revenue year-over-year, driven by cloud services agreements, the acquisition of Cursor, and our growing SI models and software applications, including @Grok @Bot - Delivered year-over-year revenue growth of 69% and income from operations growth of 99% for the Connectivity segment, supported by strong momentum in enterprise and government adoption, and continued @Starlink consumer subscriber growth - Continued to scale nameplate compute, reaching 1.7 GW as of September 30, 2026 — https://nitter.kareem.one/SpaceX/status/2112638276389790102#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2112781132387529005#m",
-   "ts": 1792561250,
-   "id": "2112781132387529005#m"
   },
   {
    "handle": "swyx",
@@ -199,6 +190,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "exciting news! we heard you, and launched @X spaces & lists in @bot ! want to find a space to listen on? ask @bot ! want to manage your lists? ask @bot ! this was super exciting to get added, and excited to see what you all do with it 😃 Video",
+   "url": "https://nitter.kareem.one/pjvann/status/2112686973005476048#m",
+   "ts": 1792538800,
+   "id": "2112686973005476048#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "SpaceX’s full Q3 2026 earnings Q&A: Elon Musk, Gwynne Shotwell and Bret Johnsen take on Wall Street’s biggest questions 0:00 Has SpaceX placed orders for EUV machines, and where can it improve on today's chipmaking? 3:08 How are you getting past power and cooling limits to reach 13 GW by the end of 2027? 8:24 How will SpaceX fund all of that compute? 10:02 What are the pros, cons and roadblocks of a possible merger with Tesla? 13:14 Can Starlink Mobile's satellite and ground network really compete with U.S. carriers? 16:41 How do you split compute between your own AI and cloud customers? 21:35 When will V3 satellites make Starlink noticeably faster, and how many are needed? 22:22 When will the first Starship launch from Louisiana happen? Video",
    "url": "https://nitter.kareem.one/XFreeze/status/2112681624303223019#m",
    "ts": 1792537525,
@@ -217,15 +217,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Unsurprising. Up to this point I’ve run my podcast completely solo with Grok Bot and Riverside, and the more I use Grok Bot, the more problems I find it is able to solve. Incredible tech Sawyer Merritt (@SawyerMerritt) Elon Musk on Grok Bot: \"We're seeing the fastest growth of a product that I've ever seen in my life. I've never seen anything growth this fast. The usage of Grok Bot per user actually has been growing over time. They are using it more per week, not less. Enterprise Grok Bot will be in wide deployment in a few weeks. I think Grok Bot will use most of SI compute.\" Video — https://nitter.kareem.one/SawyerMerritt/status/2112648148036317249#m",
-   "url": "https://nitter.kareem.one/willchamberlain/status/2112669158064218114#m",
-   "ts": 1792534553,
-   "id": "2112669158064218114#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "$SPCX JUST REPORTED $14.6 BILLION IN REVENUE. 🚀 Revenue surged 161% year over year. Net income hit $4.4B. And AI now makes up 52% of revenue. But the biggest question isn't whether SpaceX crushed earnings. It's what happens next. With $TSLA reporting tomorrow and a massive share unlock Thursday, this could be one of the most important weeks for both stocks. Video",
    "url": "https://nitter.kareem.one/RealMicahLamar/status/2112666737237770746#m",
    "ts": 1792533976,
@@ -235,10 +226,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "As crazy as this sounds, $1T in SpaceX revenue in 2028 is no longer impossible",
-   "url": "https://nitter.kareem.one/elonmusk/status/2112666467712073815#m",
-   "ts": 1792533912,
-   "id": "2112666467712073815#m"
+   "text": "Nick Shirley: “When I exposed fraud, instead of the mainstream media investigating the fraud, they investigated me.” Video",
+   "url": "https://nitter.kareem.one/america/status/2112662525976486319#m",
+   "ts": 1792532972,
+   "id": "2112662525976486319#m"
   },
   {
    "handle": "swyx",
@@ -295,15 +286,6 @@
    "id": "2112646849010241679#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "We use Grok Bot to spot incidents in our support queue and quickly respond to every associated ticket. In one incident, it cleared 204 tickets in about 10 minutes, with one engineer approving the batch.",
-   "url": "https://nitter.kareem.one/bot/status/2112645531076096330#m",
-   "ts": 1792528920,
-   "id": "2112645531076096330#m"
-  },
-  {
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
    "author": "@realDonaldTrump",
@@ -358,6 +340,15 @@
    "id": "2112632287250743641#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "BREAKING: Trump has revealed his new anti-fraud program set up to reward people who expose fraud with a 1% commission on the money uncovered. \"If you turn somebody in and you, let's say report and you find $1 billion, we are giving a commission to that person of 1%.\"",
+   "url": "https://nitter.kareem.one/unusual_whales/status/2112631437694546207#m",
+   "ts": 1792525560,
+   "id": "2112631437694546207#m"
+  },
+  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -401,6 +392,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2112623737082446013#m",
    "ts": 1792523724,
    "id": "2112623737082446013#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Sadly, you need to avoid the beautiful library in downtown Austin. In fact, many libraries in the city are this way, with unhinged people browsing porn on the computers in front of children. Austin Justice (@AustinJustice) UPDATE: Alonzo Mabry is dead. In March, the 62-year-old was using a computer at Austin's Central Library when the man next to him, Daniel Vasquez, stood up, hit him in the head, and stomped on his skull while he lay unconscious. Then Vasquez went back to his computer. Mabry died in hospice and Vasquez was charged with murder last week. Before the library, Vasquez had punched a CapMetro bus driver in the mouth. That was dismissed by prosecutors. He also punched a mother in the face in front of her 11-year-old son, then punched the woman who tried to stop him. Those were also dismissed. DA Jose Garza's office sent him to a six-month rehab program instead. He finished in June 2025 and every charge was wiped and he went back to the street. — https://nitter.kareem.one/AustinJustice/status/2112604520857375167#m",
+   "url": "https://nitter.kareem.one/bandholz/status/2112622317268554192#m",
+   "ts": 1792523385,
+   "id": "2112622317268554192#m"
   },
   {
    "handle": "TheRundownAI",
