@@ -1,27 +1,62 @@
 {
- "generated_at": "2026-10-21T18:16:25Z",
+ "generated_at": "2026-10-21T20:13:23Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
-  "programming"
+  "programming",
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "go/ links that live in a file in your repo (open source)",
+   "url": "https://www.reddit.com/r/programming/comments/1xbxzz2/go_links_that_live_in_a_file_in_your_repo_open/",
+   "ts": 1792613421,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+   "url": "https://www.reddit.com/r/programming/comments/1xbxrns/todays_php_security_release_and_how_were/",
+   "ts": 1792612906,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Loving Beszel",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xbvojb/loving_beszel/",
+   "ts": 1792608292,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "FamilyWell security update: PHP2Shell",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xbv2t0/familywell_security_update_php2shell/",
+   "ts": 1792606984,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "NGINX Proxy Guard",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xbu3yf/nginx_proxy_guard/",
+   "ts": 1792604889,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Heads up if you self-host LiteLLM: the 1.107.0 Docker image (and the latest/main-latest/main-stable tags) shipped a credential stealer",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xbu3qr/heads_up_if_you_selfhost_litellm_the_11070_docker/",
+   "ts": 1792604878,
+   "source": "Reddit"
+  },
   {
    "subreddit": "MachineLearning",
    "title": "Noun-verb-conjunction triads [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xbtzv9/nounverbconjunction_triads_d/",
    "ts": 1792604648,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "The compiler was supposed to end programming too",
-   "url": "https://www.reddit.com/r/programming/comments/1xbt2sr/the_compiler_was_supposed_to_end_programming_too/",
-   "ts": 1792602678,
    "source": "Reddit"
   },
   {
@@ -109,20 +144,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "What is the best WordPress hosting?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xbnrjb/what_is_the_best_wordpress_hosting/",
-   "ts": 1792590748,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "MyBibliotheca 3.0.0",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xbn916/mybibliotheca_300/",
-   "ts": 1792589488,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "35B MoE running at 20.5 tok/s on an iPhone, without skipping experts",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbmsgf/35b_moe_running_at_205_toks_on_an_iphone_without/",
@@ -197,13 +218,6 @@
    "title": "Qwen3.8-Flash-Next vs Opus 5.5: Six-way benchmark on a real Rust feature with Claude Code and Pi",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbipsl/qwen38flashnext_vs_opus_55_sixway_benchmark_on_a/",
    "ts": 1792575708,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Open Archiver v0.6.1: JMAP ingestion source, wildcard in search, and Tika 4 support",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xbi8on/open_archiver_v061_jmap_ingestion_source_wildcard/",
-   "ts": 1792573885,
    "source": "Reddit"
   },
   {
@@ -299,23 +313,9 @@
   },
   {
    "subreddit": "programming",
-   "title": "Under the Hood of Redis: How It Delivers Sub-Millisecond Latency?",
-   "url": "https://www.reddit.com/r/programming/comments/1xavhns/under_the_hood_of_redis_how_it_delivers/",
-   "ts": 1792510809,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
    "title": "Why memory-hard proof-of-work hashes are not a popular choice for CAPTCHA",
    "url": "https://www.reddit.com/r/programming/comments/1xauiqk/why_memoryhard_proofofwork_hashes_are_not_a/",
    "ts": 1792508610,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Leaked SSL Certificates: no https connection can be trusted",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xaubjf/leaked_ssl_certificates_no_https_connection_can/",
-   "ts": 1792508155,
    "source": "Reddit"
   },
   {
