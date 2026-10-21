@@ -1,19 +1,154 @@
 {
- "generated_at": "2026-10-21T13:48:05Z",
- "accounts_ok": [],
- "errors": [
-  "@elonmusk: all instances failed",
-  "@realDonaldTrump: all instances failed",
-  "@thsottiaux: all instances failed",
-  "@simonw: all instances failed",
-  "@swyx: all instances failed",
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+ "generated_at": "2026-10-21T13:57:02Z",
+ "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
+  "bcherny",
+  "elonmusk",
+  "realDonaldTrump",
+  "simonw",
+  "swyx",
+  "thsottiaux"
  ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "采访吴国光老师 @guoguang_wu 的中文版👇欢迎阅读 华尔街日报中文网 (@ChineseWSJ) 本报首席中国记者魏玲灵在本期中国洞察中写道，黄奇帆素有“不倒翁”之称，他在十多年的派系斗争中屹立不倒，哪怕当年他和倒台的重庆原市委书记薄熙来关系密切。有政治学者认为，黄奇帆的影响力横跨中国几代政治精英，拿下黄奇帆，是为了切断几大关系网的联系。 cn.wsj.com/articles/WP-WSJS-… Link 中国政坛“不倒翁”黄奇帆落马，折射了习近平治下的何种问题？ 有政治学者认为，黄奇帆的影响力横跨中国几代政治精英，拿下黄奇帆，是为了切断几大关系网的联系。 cn.wsj.com — https://nitter.kareem.one/ChineseWSJ/status/2112876796894908428#m",
+   "url": "https://nitter.kareem.one/Lingling_Wei/status/2112897150309073134#m",
+   "ts": 1792588911,
+   "id": "2112897150309073134#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: therundownai.beehiiv.com/p/s… Link Sam Altman’s three endings for the AI safety race Sam Altman reportedly outlined three possible endings to the AI safety race: a global watchdog, a single super-lab merger, or one lab pulling far ahead of rivals. therundownai.beehiiv.com",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2112853985367384366#m",
+   "ts": 1792578619,
+   "id": "2112853985367384366#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in AI today: - Sam Altman details the AI industry’s endgame - Ex-OpenAI research chief’s Arda debuts at $1.5B - Make Claude Code check its work after each edit - Anthropic’s Claude takes on scorpion antivenom",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2112853980246081711#m",
+   "ts": 1792578618,
+   "id": "2112853980246081711#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "btw at 100k views in 24hrs, @jediahkatz 's talk is an early candidate to be THE breakout talk of aie nyc the bar is set very high for @poteto 's keynote at AIE CODE next month hahaha AI Engineer 🔜 CODE Summit🌉 (@aiDotEngineer) Inside Grok Bot: is the agent harness dead? @jediahkatz of @spacexai explains why smarter models let Cursor remove prompts and guardrails, and why Grok Bot is adding them back. Watch his AI Engineer New York talk: inv.kareem.one/watch?v=7Y4sbZgB… — https://nitter.kareem.one/aiDotEngineer/status/2112665680348660147#m",
+   "url": "https://nitter.kareem.one/swyx/status/2112849969640259611#m",
+   "ts": 1792577662,
+   "id": "2112849969640259611#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "How is this acceptable or legal? Retaliation for political speech should be prohibited by law. Kalshi (@Kalshi) JUST IN: House Democrats say Elon Musk is on their \"list of targets\" if they win the midterms — https://nitter.kareem.one/Kalshi/status/2112796022191849582#m",
+   "url": "https://nitter.kareem.one/beffjezos/status/2112830928422842725#m",
+   "ts": 1792573122,
+   "id": "2112830928422842725#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "@willcb i think its about throughput per mw being much better distributed first of all but also jevons. we are clearly living in a supply-constrained world, not demand constrained. more tokens = more revenue, not more tokens = less price = same revenue",
+   "url": "https://nitter.kareem.one/swyx/status/2112809642745380866#m",
+   "ts": 1792568047,
+   "id": "2112809642745380866#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "i retired from the business of making single-stock calls a decade ago but trust me when i say that the stock market still has no idea that what happened every single gpu sold gained ~30% in lifetime value today and the stock should be up by about $600B lol the more you buy, the more you buy Latent.Space (@latentspacepod) deepseek's production numbers are kinda wild: 155T tokens/day from one cluster (96% input cache hits) and $38 revenue/GPU-hour at off-peak prices. at $5–8/GPU-hour, that’s ~80% margin on GPU costs alone. at DeepSeek prices!! we dug into the math, their 72-hour cache, and what actually got open sourced in today's AINews: latent.space/p/ainews-deepse… — https://nitter.kareem.one/latentspacepod/status/2112803554453037151#m",
+   "url": "https://nitter.kareem.one/swyx/status/2112804427962970271#m",
+   "ts": 1792566804,
+   "id": "2112804427962970271#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "New X Money Grok Bot! Few understand how powerful it is to have Grok Bot understand your finances and your financial goals. The X Money MCP connection to Grok Bot is just the beginning of where this will go. The power to see connections you may not see to long horizon goals is just one Grok Bot away. You are living in the future with how powerful this Bot is. Reports like you never seen in any bank statement. Give it a try Brian Roemmele (@BrianRoemmele) ONLY GROK BOT DOES THIS! X MONEY + GROK BOT = WOW! Every Monday morning your Grok Bot reads your X Money account and gives you a deep weekly report 💸 Get in now: x.ai/bot/cMpw0zb2v9RRtQPDfsV… - Balances across every account, with the week's net change - Every transaction sorted into categories automatically - Top spending categories, week-over-week trends, and my biggest charges - Cash-back and interest earned, tracked as they add up - Recurring subscriptions flagged so nothing slips by - Three habit tips drawn from my actual numbers - Progress rings for my savings rate, monthly investing, and spending cap INVEST: Then it asks me about my goals: am I on track, do I want to change a target, and should it set up automatic investing in Coinbase? It prepares the buy, I tap Approve, and only then is the order placed. It all comes as a dark-mode dashboard with charts, plus a PDF. The bot only reads my account by default. No money moves and no trade is placed without my Approve, every time. Try it out, you will never go back to bori",
+   "url": "https://nitter.kareem.one/BrianRoemmele/status/2112801229508383074#m",
+   "ts": 1792566041,
+   "id": "2112801229508383074#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Judge for yourself whether @seejayhess just made \"orbin' out\" happen inv.kareem.one/watch?v=Vki6cklF… Video",
+   "url": "https://nitter.kareem.one/sqs/status/2112788777433473480#m",
+   "ts": 1792563072,
+   "id": "2112788777433473480#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Honest feedback from Grok and Fable Adam Holter (@AdamHoltererer) 4o was truly a special model — https://nitter.kareem.one/AdamHoltererer/status/2112516066563829882#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2112781998624555086#m",
+   "ts": 1792561456,
+   "id": "2112781998624555086#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Congrats SpaceX team! SpaceX (@SpaceX) Q3 2026 highlights: - Delivered revenue of $14.6 billion, up 161% year-over-year - Successfully launched our first revenue-generating Starship mission, delivering 26 Starlink V3 satellites to our broadband constellation, representing approximately 10x the downlink capacity added by a Falcon 9 Starlink launch - Added $6.7 billion of incremental Super Intelligence solutions and infrastructure revenue year-over-year, driven by cloud services agreements, the acquisition of Cursor, and our growing SI models and software applications, including @Grok @Bot - Delivered year-over-year revenue growth of 69% and income from operations growth of 99% for the Connectivity segment, supported by strong momentum in enterprise and government adoption, and continued @Starlink consumer subscriber growth - Continued to scale nameplate compute, reaching 1.7 GW as of September 30, 2026 — https://nitter.kareem.one/SpaceX/status/2112638276389790102#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2112781132387529005#m",
+   "ts": 1792561250,
+   "id": "2112781132387529005#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "opus is great for writing... when you dont happen to have any random no-no words in your prompt. jfc, @CompleteSkeptic is right, give me prod, not god. i cant build an ai media org with this in the critical path. swyx (@swyx) can confirm. ran @latentspacepod AINews side by side with 6 Sol and the difference was night and day: latent.space/p/ainews-claude… 5.5 Opus is the new default model for AINews going forward. so much more concise and tasteful reporting, with much less slopese than even 5 Opus. — https://nitter.kareem.one/swyx/status/2102650014552182920#m",
+   "url": "https://nitter.kareem.one/swyx/status/2112772374823407870#m",
+   "ts": 1792559162,
+   "id": "2112772374823407870#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "i tried to make codex make animated explainer videos but ngmi inf.latent.space/blender/sto…",
+   "url": "https://nitter.kareem.one/swyx/status/2112764130197451209#m",
+   "ts": 1792557196,
+   "id": "2112764130197451209#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Mark my words, SpaceX will become the first $10T company, and the first $100T company. 🚀🚀🚀",
+   "url": "https://nitter.kareem.one/PeterDiamandis/status/2112736030302617699#m",
+   "ts": 1792550497,
+   "id": "2112736030302617699#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "“We're seeing the fastest growth of a product that I've ever seen in my life for Grok Bot\"— @elonmusk I can verify, I have not seen adoption like this across so many companies as fast as @Grok @Bot deployment. One Grok Bot begets two, begets four… Video",
+   "url": "https://nitter.kareem.one/BrianRoemmele/status/2112731196606341314#m",
+   "ts": 1792549344,
+   "id": "2112731196606341314#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -24,6 +159,15 @@
    "id": "2112712984644784534#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "🚀 WOW! SpaceX just LAUNCHED another Falcon 9 into the stars 🚀 Elon Musk’s Starfall—a 4,000-pound, HOCKEY-PUCK-SHAPED LAB—is HEADED to SPACE! Elon’s giving back, promising SpaceX STOCK to every American KID! 🔥 Video",
+   "url": "https://nitter.kareem.one/JesseBWatters/status/2112710372280914137#m",
+   "ts": 1792544379,
+   "id": "2112710372280914137#m"
+  },
+  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -31,6 +175,42 @@
    "url": "https://nitter.kareem.one/simonw/status/2112689291570938255#m",
    "ts": 1792539353,
    "id": "2112689291570938255#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "SpaceX’s full Q3 2026 earnings Q&A: Elon Musk, Gwynne Shotwell and Bret Johnsen take on Wall Street’s biggest questions 0:00 Has SpaceX placed orders for EUV machines, and where can it improve on today's chipmaking? 3:08 How are you getting past power and cooling limits to reach 13 GW by the end of 2027? 8:24 How will SpaceX fund all of that compute? 10:02 What are the pros, cons and roadblocks of a possible merger with Tesla? 13:14 Can Starlink Mobile's satellite and ground network really compete with U.S. carriers? 16:41 How do you split compute between your own AI and cloud customers? 21:35 When will V3 satellites make Starlink noticeably faster, and how many are needed? 22:22 When will the first Starship launch from Louisiana happen? Video",
+   "url": "https://nitter.kareem.one/XFreeze/status/2112681624303223019#m",
+   "ts": 1792537525,
+   "id": "2112681624303223019#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "What’s crazy to me is that $SPCX will LIKELY achieve $500B - $1 trillion in ARR by EOY 2027. The infrastructure availability is the limiting factor when it comes to increasing the compute capabilities but SpaceX expects to achieve at least 13 GWhs of compute using majority $NVDA Vera Rubin’s by EOY 2027. Grok bot will be used by businesses starting in a few weeks. Video",
+   "url": "https://nitter.kareem.one/GrindeOptions/status/2112669958044053723#m",
+   "ts": 1792534744,
+   "id": "2112669958044053723#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Unsurprising. Up to this point I’ve run my podcast completely solo with Grok Bot and Riverside, and the more I use Grok Bot, the more problems I find it is able to solve. Incredible tech Sawyer Merritt (@SawyerMerritt) Elon Musk on Grok Bot: \"We're seeing the fastest growth of a product that I've ever seen in my life. I've never seen anything growth this fast. The usage of Grok Bot per user actually has been growing over time. They are using it more per week, not less. Enterprise Grok Bot will be in wide deployment in a few weeks. I think Grok Bot will use most of SI compute.\" Video — https://nitter.kareem.one/SawyerMerritt/status/2112648148036317249#m",
+   "url": "https://nitter.kareem.one/willchamberlain/status/2112669158064218114#m",
+   "ts": 1792534553,
+   "id": "2112669158064218114#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "$SPCX JUST REPORTED $14.6 BILLION IN REVENUE. 🚀 Revenue surged 161% year over year. Net income hit $4.4B. And AI now makes up 52% of revenue. But the biggest question isn't whether SpaceX crushed earnings. It's what happens next. With $TSLA reporting tomorrow and a massive share unlock Thursday, this could be one of the most important weeks for both stocks. Video",
+   "url": "https://nitter.kareem.one/RealMicahLamar/status/2112666737237770746#m",
+   "ts": 1792533976,
+   "id": "2112666737237770746#m"
   },
   {
    "handle": "elonmusk",
@@ -90,6 +270,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "Elon Musk says SpaceX is using its rocket-engine casting shop to make turbine blades and vanes, the parts that run 12 to 18 months behind the rest of the turbine, so it can bring power online 12 to 18 months faster than anyone else “So we’re casting the blades and vanes for the turbines. So SpaceX already has a very advanced castings capability that was developed for rocket engines.\" \"So we have, I think, actually the most advanced casting capability on Earth, because the demands for castings for rocket engines exceed the demands for anything else you could possibly imagine.\" \"So, taking that incredible team that has, I think, objectively the most advanced casting technology in the world and saying, hey, can you guys also make some blades and vanes for terrestrial turbines is much easier than what they have done in the past.\" \"And when we talk to the turbine suppliers, they tell us that the blades and vanes are 12 to 18 months behind the rest of the turbine. Meaning they can deliver everything except the blades and vanes 12 to 18 months before they can deliver the blades and vanes.\" \"So casting is this really difficult bottleneck. And if anything, it seems to be getting worse.\" \"So that means that we can bring power online 12 to 18 months faster than anyone else.\" \"That’s the kind of advantage that’s difficult to replicate. Unless someone else is building an advanced casting shop, they will be unable to compete with SpaceX in this regard.” Video Fireside Alpha (@firesidealpha",
+   "url": "https://nitter.kareem.one/firesidealpha/status/2112656247589904420#m",
+   "ts": 1792531475,
+   "id": "2112656247589904420#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "Here’s full Elon Musk’s remarks at SpaceX Q3 2026 results: 0:00 - Inflection moment for SpaceX 0:50 - Starship Flight 14 to orbit 1:40 - Flight 15 catch both stages 2:50 - Louisiana spaceport announced 4:00 - Weekly then twice weekly flights 5:20 - Complete reusability like airplane 6:30 - Starlink 26 Tbps = 10 Falcon 9 7:50 - 100x bandwidth, 100k satellites 9:10 - 1000x demand from AI agents 10:20 - SI constraint: power & cooling 11:30 - Memphis 200k GB300s monthly 12:40 - Aiming 20 GW next year 13:20 - 440k Vera Rubin cluster Q2 14:00 - GrokBot fastest growth ever 14:35 - $500 B-$1T ARR by end 2027 Video",
    "url": "https://nitter.kareem.one/cb_doge/status/2112653610953887818#m",
    "ts": 1792530846,
@@ -103,6 +292,15 @@
    "url": "https://nitter.kareem.one/guoguang_wu/status/2112646849010241679#m",
    "ts": 1792529234,
    "id": "2112646849010241679#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "We use Grok Bot to spot incidents in our support queue and quickly respond to every associated ticket. In one incident, it cleared 204 tickets in about 10 minutes, with one engineer approving the batch.",
+   "url": "https://nitter.kareem.one/bot/status/2112645531076096330#m",
+   "ts": 1792528920,
+   "id": "2112645531076096330#m"
   },
   {
    "handle": "realDonaldTrump",
@@ -186,6 +384,15 @@
    "id": "2112630312752844829#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "WATCH: President Trump’s full comments to CBS’s Nikole Killion about the war between Russia and Ukraine, arguing the land Russia has taken from Ukraine has gotten “bigger and bigger all the time, week by week,” and they have an “unlimited supply of people” to keep going, but not Ukraine.... “Russia would like to get it done. I think that — and you know, Russia is a big machine. They just keep grinding forward, and that’s what they’ve done. They’ve taken a very large piece of land, and, you know, you can say that Ukraine is doing well or poorly, but the land gets bigger and bigger all the time, week by week. It — just —they march forward. They just keep marching forward. They have an unlimited supply of people, whereas Ukraine, as you know, is — there’s a woman who’s, I guess, not exactly a very beautiful woman, nice woman, and she is on television recently talking about the fact that our men are gone. She’s a Ukrainian woman. Our men are gone. They’re lost. They’re dead. They’re in mental institutions. They’re walking around. They have no arms. They have no legs. In many cases, they’ve been hurt so badly; they’ve been just decimated, and it was very poignant. When I heard this, I said, boy, that’s some statement. And she said, Russia is a very big country. They can lose a lot of people in a war, and they have lost a lot of people. They lost 50 million people in the Second World War. They lose a lot of people, but they’re very big, and she said they have to settle this war. Lo",
+   "url": "https://nitter.kareem.one/CurtisHouck/status/2112626265614119314#m",
+   "ts": 1792524327,
+   "id": "2112626265614119314#m"
+  },
+  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -204,15 +411,6 @@
    "id": "2112622164830769201#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "“Lack of electricity” is an oversimplification. Everything is hard about bringing massive compute online at extremely high speed. If there was twice as much time, this would be relatively easy, but there is not. Rihard Jarc (@RihardJarc) Former $GOOGL employee on why data center capacity and electricity are the real bottlenecks, not GPU production itself, and how unreliable some of the neoclouds are ( $AMZN , $GOOGL , $MSFT , $NVDA ): 1. According to the expert, open-source models are closing the gap with frontier models faster than expected, with customers increasingly replacing Anthropic and OpenAI models in multi-agent architectures with open-source alternatives starting from Q2 of this year. The shift started with simple tasks like tool calling and MCP, but has moved up the stack to low-level orchestration. 2. The expert identifies capacity as the biggest constraint at the moment, with certain companies' traffic growing 5x while GPU availability, particularly in the U.S. where latency requirements are tightest, simply cannot keep up. Sourcing capacity overseas in Asia or Australia is technically possible but adds latency that most customers will not accept. 3. Hyperscalers offer reliability but are expensive, require multi-year commitments of three or more years, and have limited availability of the latest hardware, with customers already chasing B300s. AI-native companies tend to gravitate toward neoclouds due to hyperscaler pricing and contract rigidity, but neoclouds c",
-   "url": "https://nitter.kareem.one/elonmusk/status/2112603906723487744#m",
-   "ts": 1792518996,
-   "id": "2112603906723487744#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -220,15 +418,6 @@
    "url": "https://nitter.kareem.one/teortaxesTex/status/2112603621917663592#m",
    "ts": 1792518928,
    "id": "2112603621917663592#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Johann Sebastian Bach is the Shakespeare of music. Best there ever was.",
-   "url": "https://nitter.kareem.one/elonmusk/status/2112600761762717997#m",
-   "ts": 1792518246,
-   "id": "2112600761762717997#m"
   },
   {
    "handle": "swyx",
@@ -240,24 +429,6 @@
    "id": "2112597012088844407#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The fate of Texas and America is at stake. Vote for @KenPaxtonTX today. ThePersistence (@ScottPresler) Today is a great day to vote early in person for @KenPaxtonTX in Texas. — https://nitter.kareem.one/ScottPresler/status/2112523919282573650#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2112593866461216942#m",
-   "ts": 1792516602,
-   "id": "2112593866461216942#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Objectively, the “Great Replacement” has already occurred End Wokeness (@EndWokeness) 🇧🇪 Brussels 1955: 95% native Belgian background 2025: 21% native Belgian background 🇬🇧 London 1955: 97% native British background 2025: 36% native British background 🇳🇱 Amsterdam 1955: 98% native Dutch background 2025: 40% native Dutch background 🇩🇪 Berlin 1955: 98% native German background 2025: 57% native German background 🇦🇹 Vienna 1955: 95% native Austrian background 2025: 51% native Austrian background 🇸🇪 Stockholm 1955: 97% native Swedish background 2025: 65% native Swedish background — https://nitter.kareem.one/EndWokeness/status/2112282717845098608#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2112593187139416244#m",
-   "ts": 1792516440,
-   "id": "2112593187139416244#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -265,69 +436,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2112592264686149749#m",
    "ts": 1792516220,
    "id": "2112592264686149749#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "True Brandon Gill (@realBrandonGill) Before you go to vote, remember what is at stake. James Talarico will be a 100% reliable vote for Chuck Schumer. He will re-open our borders, take away your Second Amendment rights, and end Texas' oil industry. He will fight for taxpayer funded abortion through birth and trans surgeries for minors-- and rub your most deeply held Christian beliefs in your face while doing it. We need everyone to get out and vote for @KenPaxtonTX , a leader who will deliver for us in the Senate just as he's done as our Attorney General. — https://nitter.kareem.one/realBrandonGill/status/2112267729449459865#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2112591749562724532#m",
-   "ts": 1792516097,
-   "id": "2112591749562724532#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Invest in things that do things that are measured in wattage and tonnage… DogeDesigner (@cb_doge) BREAKING: Elon Musk says money will become irrelevant and future currency will be measured in power, mass and energy. “I think currency will be measured in fundamental physics metrics like, you know, power, like wattage and tonnage, mass and energy.” Video — https://nitter.kareem.one/cb_doge/status/2112588436846911907#m",
-   "url": "https://nitter.kareem.one/aaronburnett/status/2112590391396737064#m",
-   "ts": 1792515773,
-   "id": "2112590391396737064#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The value of Terafab’s output will place it in the top 20 of country GDP in a single building Melvin (@MelvinInvests) According to Korean media, Elon Musk's Terafab is now talking to almost EVERY Korean chip supplier it can find. Until now, the only known Korean suppliers were HPSP and Hanmi Semiconductor. Now TheElec reports that Tesla and SpaceX are in talks across nearly every category Korean companies can supply, from basic piping parts to process materials to test components. At SEMICON West in San Francisco last week, Terafab staff walked straight to around 10 Korean booths on the morning of day one, including ENF Technology, Dongjin Semichem, Hanmi Semiconductor, Unisem and MiCo. Several companies have already signed NDAs. One got an NDA by email the same evening Terafab visited its booth. Hanmi Semiconductor is discussing TC bonders for Terafab, and HPSP has agreed to supply one high pressure hydrogen annealing tool to the R&D line. MiCo's cleaning unit Komico signed a three way NDA with Tesla and SpaceX about a month ago, and ISC is already swapping samples for rubber test sockets. Tesla and SpaceX do not buy from Chinese suppliers. One Korean supplier put it simply, without China there are only a few options, and Japan is expensive. They also want prices that are CHEAPER than China. $LRCX and $AMAT have reportedly built dedicated Terafab teams, and Fujifilm is meeting Terafab buyers regularly on slurries, photoresist and etchants. The goal is a fab with 1 million wa",
-   "url": "https://nitter.kareem.one/elonmusk/status/2112590295334277253#m",
-   "ts": 1792515751,
-   "id": "2112590295334277253#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "In the age of super intelligence, the current standards of living will look medieval. The problems that society worries about right now will be largely irrelevant. It’ll be the equivalent of current society worrying about the bubonic plague.",
-   "url": "https://nitter.kareem.one/aelluswamy/status/2112590126539030934#m",
-   "ts": 1792515710,
-   "id": "2112590126539030934#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Wow, massive numbers for UK & Spain! World of Statistics (@stats_feed) 🌍 European countries that added the most migrants (2000–2024) 1. 🇬🇧 United Kingdom: +7.1M 2. 🇪🇸 Spain: +6.8M 3. 🇩🇪 Germany: +6.4M 4. 🇹🇷 Türkiye: +5.8M 5. 🇮🇹 Italy: +4.4M 6. 🇫🇷 France: +3.0M 7. 🇦🇹 Austria: +1.4M 8. 🇳🇱 Netherlands: +1.4M 9. 🇨🇭 Switzerland: +1.3M 10. 🇧🇪 Belgium: +1.3M 11. 🇸🇪 Sweden: +1.3M 12. 🇵🇱 Poland: +917K 13. 🇮🇪 Ireland: +840K 14. 🇳🇴 Norway: +720K 15. 🇷🇴 Romania: +521K 16. 🇵🇹 Portugal: +476K 17. 🇩🇰 Denmark: +475K 18. 🇭🇺 Hungary: +393K 19. 🇨🇿 Czechia: +386K 20. 🇫🇮 Finland: +378K Europe's migrant population grew by 40.8 million between 2000 and 2024, up 67%. The UK, Spain and Germany together account for almost half of that increase. Source: UN DESA — https://nitter.kareem.one/stats_feed/status/2112527917804642583#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2112589222855217167#m",
-   "ts": 1792515495,
-   "id": "2112589222855217167#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Big Grok @Bot update matt palmer (@mattyp) What's new in Grok Bot 00:00 New chat cards 00:31 Speed 00:53 Draft edits 01:08 Email aliases 01:33 X DMs 01:55 Tag @bot 02:31 Connectors 02:48 Voice calls 03:27 Notifications 03:56 Invites and Android Assistant 04:19 Access lists, unread, routines, sign-in This team ships! Video — https://nitter.kareem.one/mattyp/status/2112550158885917122#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2112589019380875714#m",
-   "ts": 1792515446,
-   "id": "2112589019380875714#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok @Bot upgrades X Freeze (@XFreeze) Grok Bot 0.71.2 is out, and this is a very huge upgrade You can now send files up to 250 MB, and videos up to 1 GB. Full-length clips, raw footage, long recordings, big reports and heavy PDFs can go straight to Grok Bot without compressing, trimming or splitting anything first You can also send up to 20 files in a single message. Drop an entire batch of photos, screenshots or documents at once and let Grok Bot work through all of them together Notifications are smarter, so you hear about what actually matters, when it matters And forms now arrive pre-filled. Grok Bot fills in what it already knows, so you just check and confirm instead of typing everything again This update is really good — https://nitter.kareem.one/XFreeze/status/2112438677657854187#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2112588854691594371#m",
-   "ts": 1792515407,
-   "id": "2112588854691594371#m"
   },
   {
    "handle": "swyx",
@@ -357,15 +465,6 @@
    "id": "2112587397380943953#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Nice! DogeDesigner (@cb_doge) Elon Musk in his new interview on “suicidal empathy” “I think you don’t want to have misguided empathy. I agree with Gad Saad’s philosophy here. And suicidal empathy is, you know, that’s his term. You ideally want people to be default trusted, not default distrusted. And you want to encourage behavior that is good for society, you know, for people to do good things that are good for their fellow human beings. And ultimately, that actually does end up being good for the individual, provided it is mutual. So if you think everyone is like yourself, then you’re going to have a problem, because this is simply not true. There are peoples and cultures with very different views.” Video — https://nitter.kareem.one/cb_doge/status/2112573201285030230#m",
-   "url": "https://nitter.kareem.one/GadSaad/status/2112584138075279552#m",
-   "ts": 1792514283,
-   "id": "2112584138075279552#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -382,15 +481,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2112560809809498187#m",
    "ts": 1792508721,
    "id": "2112560809809498187#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Watch live as SpaceX discusses our Q3 2026 earnings at 3:30pm CT today → nitterk.kareem.one/i/broadcasts/1PKqrNbLZ… Link SpaceX Q3 2026 Financial and Operational Results https://nitter.kareem.one/i/broadcasts/1PKqrNbLZbPGb",
-   "url": "https://nitter.kareem.one/SpaceX/status/2112559638579499258#m",
-   "ts": 1792508441,
-   "id": "2112559638579499258#m"
   },
   {
    "handle": "TheRundownAI",
@@ -411,15 +501,6 @@
    "id": "2112552201579049274#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon Musk in new interview with Walter Isaacson on the wealth he's created: \"A fundamental misunderstanding of economics arises because of conflating resource allocation and consumption; I've created. My so-called wealth is simply a percentage ownership in SpaceX and Tesla. And this is going to be taxed quite heavily, and there's not some magical way to avoid taxes. If there were I would know about it. At the end of the day, this will get whittled down, and a few generations from now, if money still matters, which I don't think it will, my descendants would have a tiny fraction of what I have.\" Video",
-   "url": "https://nitter.kareem.one/SawyerMerritt/status/2112551927649018058#m",
-   "ts": 1792506603,
-   "id": "2112551927649018058#m"
-  },
-  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -427,24 +508,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2112548915753218057#m",
    "ts": 1792505885,
    "id": "2112548915753218057#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok Bot has dramatically improved my efficiency: 1) books my flights 2) buys movie tickets 3) alerts and reads through key news 4) coordinates play dates with friends 5) does my invoices 6) pays my bills Similarweb (@Similarweb) Grok Bot's daily active users continue to grow, reaching a new peak on October 17. — https://nitter.kareem.one/Similarweb/status/2112462104384921659#m",
-   "url": "https://nitter.kareem.one/KatieMiller/status/2112546590237831459#m",
-   "ts": 1792505330,
-   "id": "2112546590237831459#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The Grok Bot wave. Massive growth in just a few days. Why? It is the easiest most accessible agent platform thus built, and it keeps getting better, I am not guessing, I have been using agent systems before we had LLMs and today I can use any bot, but I find @Grok @Bot to be the best on all my test points. It has not retreated from anything I threw at it. But that’s only half of it. The suggestions are great and unlike any other platform. The chart is a wave and I say catch it…",
-   "url": "https://nitter.kareem.one/BrianRoemmele/status/2112544697139036236#m",
-   "ts": 1792504879,
-   "id": "2112544697139036236#m"
   },
   {
    "handle": "simonw",
@@ -463,6 +526,15 @@
    "url": "https://nitter.kareem.one/readtechnically/status/2112539138570260675#m",
    "ts": 1792503554,
    "id": "2112539138570260675#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "i fucking love grokbot",
+   "url": "https://nitter.kareem.one/peer_rich/status/2112537192132214845#m",
+   "ts": 1792503090,
+   "id": "2112537192132214845#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -540,10 +612,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "If they're replaced by immigrants they go extinct anyway, just in a way that's far uglier. The Spectator (@spectator) 'Because Japan doesn't want immigrants they're going to become extinct.' Author Camilla Cavendish, whose book Generation Maybe examines the reasons birth rates are falling, explains why there is a clock in a university in Japan that is counting down the years until the country runs out of children. Watch in full | inv.kareem.one/_MqvEdSwKPw @CamCavendish Video — https://nitter.kareem.one/spectator/status/2112176976077222336#m",
-   "url": "https://nitter.kareem.one/xenocosmography/status/2112394417948819714#m",
-   "ts": 1792469050,
-   "id": "2112394417948819714#m"
+   "text": "A Europa será destruída por mulheres que projetam naqueles animais a maternidade que cabia aos filhos que elas abortaram.",
+   "url": "https://nitter.kareem.one/NelsonRedPill/status/2112349020454559771#m",
+   "ts": 1792458226,
+   "id": "2112349020454559771#m"
   },
   {
    "handle": "TheRundownAI",
@@ -762,15 +834,6 @@
    "id": "2112114101686047190#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Data engineers > AI engineers there's a big difference between a \"RAG guy\" and a \"Data Intensive Applications\" person like in this screenshot and there's never been a starker difference in demand in my entire career in tech (aka post search engine wars) if your blog / github is full of stuff like this, I have a fantastic mission/job for you (SF preferred, can relocate u, visas ok) (if you can name who's blog this is without even checking, you definitely are in the community. bonus points if you know where he ended up also without looking) jobs@latent.space and the team will reach out if you fit",
-   "url": "https://nitter.kareem.one/swyx/status/2112073533794971941#m",
-   "ts": 1792392545,
-   "id": "2112073533794971941#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -852,24 +915,6 @@
    "id": "2111988409132625956#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "v nice side efvent 0xturbanurban (@0xturbanurban) Yesterday evening I had the pleasure of attending an interesting event hosted by @sfcompute and @jumptrading focused on the compute space. Some brief takeaways: - There's an increasing understanding that greater liquidity in compute markets requires the construction of unifying benchmark indices, so that bespoke/OTC markets can be priced/quoted as a diff to a shared set of benchmarks, similar to what exists in the energy complex already (think crude grades and power). Part of the discussion is whether this will organically emerge if more traditional players (Citadel, Jump, blue-chip banks) expand their OTC offering for bilateral hedges (using their own prices), or require an independent party (S&P, CME, etc.) to validate and give credence for broader adoption. - Massive growth in the compute space is largely underpinned by structured financing trades with hedging mandates (similar to what you see in the oil and gas space). If someone with a sizable balance sheet just lent you a lot of money, who's likely to give you more aggressive pricing than their sales and trading arm? - Funding from life insurers has been a key part of the data center buildout (you could call it duration matching), with an increasing number of insurers considering hedging compute. Some of this exposure sits in mortgage books, while the biggest bucket is via corporate bonds ( $ORCL , $MSFT , $META , and $GOOG comprise nearly 80% of Athene's IG software deb",
-   "url": "https://nitter.kareem.one/swyx/status/2111971887811342582#m",
-   "ts": 1792368311,
-   "id": "2111971887811342582#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "the timing of it all was well engineered happy we could contribute to creating the compute trading track and have it come to life @aiDotEngineer swyx (@swyx) proud to have welcomed @affaan and @absurdistphil to @aidotengineer NYC to launch the new Compute Trading industry and give both engineers and traders the definitive intro to what, why and why now Video — https://nitter.kareem.one/swyx/status/2111227077924127056#m",
-   "url": "https://nitter.kareem.one/affaan/status/2111968969976619126#m",
-   "ts": 1792367615,
-   "id": "2111968969976619126#m"
-  },
-  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -915,15 +960,6 @@
    "id": "2111895728352284857#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "This essay on RSI by @ramez was like a breath of fresh air in a smoke filled bar. noahpinion.blog/p/wheres-the… I started reading assuming I was going to skim it and instead I read the entire thing twices taking notes along the way. Link Where’s the “intelligence explosion”? Ramez Naam gives a skeptic’s take on Recursive Self-Improvement. noahpinion.blog",
-   "url": "https://nitter.kareem.one/chrisalbon/status/2111858774004891697#m",
-   "ts": 1792341342,
-   "id": "2111858774004891697#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -931,15 +967,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2111849858374177222#m",
    "ts": 1792339217,
    "id": "2111849858374177222#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "YOU CAN SEE EVERYTHING, PRIMETIME, and DIGGER make 2026 the best year for film since 2015 (SICARIO, EX MACHINA, and MAD MAX: FURY ROAD). At long last, movies are back.",
-   "url": "https://nitter.kareem.one/pmarca/status/2111684043926622639#m",
-   "ts": 1792299683,
-   "id": "2111684043926622639#m"
   },
   {
    "handle": "thsottiaux",
@@ -1185,33 +1212,6 @@
    "id": "2111102641795199480#m"
   },
   {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "Kevin Warsh's quip definitely got a laugh from the audience in Bangkok. \"Kristalina, you pronounce it A.I. In the U.S. we now pronounce it S.I., just so you know.\"😆 Video Victoria Guida (@vtg2) Fed Chair Kevin Warsh threading the needle by joking(?) that in the US, AI is now called \"SI,\" and then proceeds to refer to it using words like \"this technology\" — https://nitter.kareem.one/vtg2/status/2110940653639098641#m",
-   "url": "https://nitter.kareem.one/NickTimiraos/status/2111095043771822252#m",
-   "ts": 1792159255,
-   "id": "2111095043771822252#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: therundownai.beehiiv.com/p/m… Link Meta turns Mac into an AI supercomputer Meta's Muse Spark open-weight AI model, tuned with Apple, is here. Plus, turn a ChatGPT answer into a usable tool in this week's AI briefing. therundownai.beehiiv.com",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2111042100380721545#m",
-   "ts": 1792146632,
-   "id": "2111042100380721545#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in AI today: - Meta gives the West its best open-weight model - Rowan’s Corner: My AI walks my company’s factory floor - Turn a ChatGPT answer into a tool you can use - Report: Harvard maps AI’s gender divide",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2111042094651314515#m",
-   "ts": 1792146631,
-   "id": "2111042094651314515#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -1219,6 +1219,15 @@
    "url": "https://nitter.kareem.one/Biantaiboooo/status/2110904185629909130#m",
    "ts": 1792113751,
    "id": "2110904185629909130#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "🛰️ @elonmusk wants 10 gigawatts of compute by the end of 2027. @JensenHuang says Nvidia now counts @SpaceX alongside its cloud provider customers, and the two companies' engineers are designing a server for space: \"In the two parts of our chart, Elon used to be under enterprise. That's the way we reported the numbers. Now he's part of our CSPs... They're massive. He's using our technology for his own AI in training models and such, deploying models, of course... And the demand for GrokBot, the consumption for GrokBot is really skyrocketing. And then, of course, he rents it. And so the combination of these three things, he's fairly unique in doing that... He loves the intersection between computing and the physical build-outs... And nobody knows more about energy than he does. And one particular new market that we're going to go explore together is putting data centers out in space. So our two engineering teams are working super closely together to create a new type of server, a new type of architecture that might be super good... in space and on Earth.\" — @JensenHuang , CEO of @nvidia on @BG2Pod with @altcap Video",
+   "url": "https://nitter.kareem.one/bg2clips/status/2110841224986812828#m",
+   "ts": 1792098740,
+   "id": "2110841224986812828#m"
   },
   {
    "handle": "bcherny",
@@ -1300,15 +1309,6 @@
    "url": "https://nitter.kareem.one/theserenadong/status/2110560409031991688#m",
    "ts": 1792031788,
    "id": "2110560409031991688#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "What's better than visiting Taiwan with Jensen? Joining @HackerHouseTW in Taipei in December! RSVP now 👉 hackerhousetaiwan.fyi/2026 Lex Fridman (@lexfridman) I've been traveling the world a bit. One of the most incredible experiences was getting to visit Taiwan w/ @JensenHuang . It was wild 🤯.. huge crowds of engineers, insanely good street food at night markets, and of course a lot of good conversations across many days. I caught some of it on video, see below. Alright, that's it from me, love you all ❤️ Timestamps: 0:00 - Highlights 0:46 - Intro 3:25 - Computex: crowds, engineers, tech, future of AI 9:12 - Chat with Jensen: keynote prep & nerves 13:03 - Chat with Jensen: Taiwan's tech history 19:47 - Raohe night market 29:37 - Chat with Jensen: memories from childhood 33:44 - NVIDIA party 40:29 - Lunch: braised pig's feet 43:09 - Chat with Jensen: GPUs, AI, and competition 55:07 - Ningxia night market 1:10:14 - Taiwanese breakfast 1:29:54 - Outro Video — https://nitter.kareem.one/lexfridman/status/2110121495896695028#m",
-   "url": "https://nitter.kareem.one/thorwebdev/status/2110548974469828756#m",
-   "ts": 1792029062,
-   "id": "2110548974469828756#m"
   },
   {
    "handle": "ZichenWanghere",
