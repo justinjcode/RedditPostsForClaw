@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-21T20:13:23Z",
+ "generated_at": "2026-10-21T22:12:22Z",
  "count": 60,
  "subreddits_ok": [
+  "LocalLLaMA",
   "MachineLearning",
-  "programming",
-  "selfhosted"
+  "programming"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
   {
@@ -25,6 +25,20 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "If the bubble bursts we keep local AI forever",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbxmoo/if_the_bubble_bursts_we_keep_local_ai_forever/",
+   "ts": 1792612623,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "llama: create new fused op for QSA mask by am17an · Pull Request #30640 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbx12a/llama_create_new_fused_op_for_qsa_mask_by_am17an/",
+   "ts": 1792611244,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
    "title": "Loving Beszel",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xbvojb/loving_beszel/",
@@ -36,6 +50,20 @@
    "title": "FamilyWell security update: PHP2Shell",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xbv2t0/familywell_security_update_php2shell/",
    "ts": 1792606984,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Amazing free 3090 speedup hack, verified works 15% PP, 5% TG for free",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbuzj5/amazing_free_3090_speedup_hack_verified_works_15/",
+   "ts": 1792606782,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Tried running 748B DeepSeek-V4.1-Flash on a €2k PC",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xburkx/tried_running_748b_deepseekv41flash_on_a_2k_pc/",
+   "ts": 1792606288,
    "source": "Reddit"
   },
   {
@@ -92,13 +120,6 @@
    "title": "OK, fine, Qwen 3.8 Flash Next is nice",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbqxh5/ok_fine_qwen_38_flash_next_is_nice/",
    "ts": 1792598021,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Ran DeepSeek V4.1 Flash 1017 on a single RTX 5090",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbqir0/ran_deepseek_v41_flash_1017_on_a_single_rtx_5090/",
-   "ts": 1792597092,
    "source": "Reddit"
   },
   {
@@ -179,13 +200,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "[Paper] MemT-1.0: Towards Memory-Native Evolution",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbl751/paper_memt10_towards_memorynative_evolution/",
-   "ts": 1792584006,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Question about Oracle Minecraft hosting",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xbkx77/question_about_oracle_minecraft_hosting/",
@@ -204,20 +218,6 @@
    "title": "Few-read fault localization in simulated analog crossbars: a sparse-recovery decoder vs reading every cell (with the claims that failed) [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xbj6nj/fewread_fault_localization_in_simulated_analog/",
    "ts": 1792577395,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "[Paper] Specter: Fast MoE Inference via Quantization-Enabled Multi-Step Speculative Offloading",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbj6an/paper_specter_fast_moe_inference_via/",
-   "ts": 1792577364,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Qwen3.8-Flash-Next vs Opus 5.5: Six-way benchmark on a real Rust feature with Claude Code and Pi",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbipsl/qwen38flashnext_vs_opus_55_sixway_benchmark_on_a/",
-   "ts": 1792575708,
    "source": "Reddit"
   },
   {
