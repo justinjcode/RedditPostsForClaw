@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T16:58:46Z",
+ "generated_at": "2026-10-21T17:17:13Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -7,14 +7,23 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
  "errors": [
+  "@swyx: all instances failed",
   "@bcherny: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starlink moves the needle DogeDesigner (@cb_doge) BREAKING: United CEO says customers are switching from other airlines because of @Starlink “We already see customers moving from other airlines today” United will cross 50% of flights with Starlink this week and expects to finish its full fleet rollout by the end of next year. Video — https://nitter.kareem.one/cb_doge/status/2112944486804545672#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2112950704327520260#m",
+   "ts": 1792601679,
+   "id": "2112950704327520260#m"
+  },
   {
    "handle": "simonw",
    "name": "Simon Willison",
@@ -203,6 +212,15 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2112897150309073134#m",
    "ts": 1792588911,
    "id": "2112897150309073134#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Today is a great day to vote early in person in Texas for @KenPaxtonTX . I’m hearing we are seeing near-presidential-level turnout in some counties.",
+   "url": "https://nitter.kareem.one/ScottPresler/status/2112894933367459987#m",
+   "ts": 1792588382,
+   "id": "2112894933367459987#m"
   },
   {
    "handle": "elonmusk",
@@ -430,15 +448,6 @@
    "id": "2112632287250743641#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "BREAKING: Trump has revealed his new anti-fraud program set up to reward people who expose fraud with a 1% commission on the money uncovered. \"If you turn somebody in and you, let's say report and you find $1 billion, we are giving a commission to that person of 1%.\"",
-   "url": "https://nitter.kareem.one/unusual_whales/status/2112631437694546207#m",
-   "ts": 1792525560,
-   "id": "2112631437694546207#m"
-  },
-  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -491,15 +500,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2112622164830769201#m",
    "ts": 1792523349,
    "id": "2112622164830769201#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I’ve been using Grok Bot to prototype physical product ideas faster. I give it sketches and 3D models, and it helps me create technical diagrams, prepare RFQs, and communicate with manufacturers to bring them to life. Here’s one of the pieces I worked on: Hyperbole",
-   "url": "https://nitter.kareem.one/benjitaylor/status/2112607770986029172#m",
-   "ts": 1792519917,
-   "id": "2112607770986029172#m"
   },
   {
    "handle": "swyx",
