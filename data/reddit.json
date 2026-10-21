@@ -1,15 +1,36 @@
 {
- "generated_at": "2026-10-21T08:16:24Z",
+ "generated_at": "2026-10-21T10:13:13Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
-  "selfhosted"
+  "MachineLearning",
+  "programming"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Qwen3.8-Flash-Next vs Opus 5.5: Six-way benchmark on a real Rust feature with Claude Code and Pi",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbipsl/qwen38flashnext_vs_opus_55_sixway_benchmark_on_a/",
+   "ts": 1792575708,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "OvisOCR3: a 0.8B OCR model with structured output and cross-page table reconstruction",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbi9h4/ovisocr3_a_08b_ocr_model_with_structured_output/",
+   "ts": 1792573969,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "InternScience/Sage-A1.5 [Finetune of Qwen 3.6 35b-a3b]",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbi1hj/internsciencesagea15_finetune_of_qwen_36_35ba3b/",
+   "ts": 1792573181,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Ka-Ching! v3.4 – self-hosted tracker for what your collecting costs (comics, cards, figures, vinyl…)",
@@ -33,16 +54,16 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "Be prepared, GPU price increase incoming --> Samsung sells out 100% of all 2027 HBM capacity - HBM prices expected to jump 200% next year, DRAM prices expected to see a double-digit price increase",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbfhxp/be_prepared_gpu_price_increase_incoming_samsung/",
-   "ts": 1792563552,
+   "title": "Qwen3.8-Flash-Next @ 1.66bpw-exl3 STABLE under 36gb",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbgi6i/qwen38flashnext_166bpwexl3_stable_under_36gb/",
+   "ts": 1792567295,
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "I built a containerized Multi-Agent Research Pipeline using LangGraph, Celery, and MCP [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xbfe7h/i_built_a_containerized_multiagent_research/",
-   "ts": 1792563183,
+   "subreddit": "LocalLLaMA",
+   "title": "Be prepared, GPU price increase incoming --> Samsung sells out 100% of all 2027 HBM capacity - HBM prices expected to jump 200% next year, DRAM prices expected to see a double-digit price increase",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbfhxp/be_prepared_gpu_price_increase_incoming_samsung/",
+   "ts": 1792563552,
    "source": "Reddit"
   },
   {
@@ -179,24 +200,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "qev-0.8b · New SOTA tiny local decision model",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xazrvd/qev08b_new_sota_tiny_local_decision_model/",
-   "ts": 1792520250,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Announcing TypeScript 7.1 Beta",
    "url": "https://www.reddit.com/r/programming/comments/1xaz5ur/announcing_typescript_71_beta/",
    "ts": 1792518937,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Phonon is now open-source, 31M and 40M TTS models designed to run on the edge",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaw2vt/phonon_is_now_opensource_31m_and_40m_tts_models/",
-   "ts": 1792512109,
    "source": "Reddit"
   },
   {
@@ -239,20 +246,6 @@
    "title": "Leaked SSL Certificates: no https connection can be trusted",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xaubjf/leaked_ssl_certificates_no_https_connection_can/",
    "ts": 1792508155,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Qwen3.8-Flash-Next vs Opus 5.5: Six-way benchmark on a real Rust feature with Claude Code and Pi",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xatxqk/qwen38flashnext_vs_opus_55_sixway_benchmark_on_a/",
-   "ts": 1792507252,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "ornith-ai/Ornith-1.5-122B (Qwen finetune)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xatebw/ornithaiornith15122b_qwen_finetune/",
-   "ts": 1792505947,
    "source": "Reddit"
   },
   {
@@ -365,6 +358,13 @@
    "title": "[Bi-Weekly Megathread] Project Showcase",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yg86/biweekly_megathread_project_showcase/",
    "ts": 1792420251,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "SteerTTS: 23M-param English TTS you steer with numbers (pitch, rate, loudness, etc. as z-scores), runs real-time on CPU [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1x9okma/steertts_23mparam_english_tts_you_steer_with/",
+   "ts": 1792388183,
    "source": "Reddit"
   },
   {
