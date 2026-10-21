@@ -1,15 +1,50 @@
 {
- "generated_at": "2026-10-20T22:12:34Z",
+ "generated_at": "2026-10-21T00:28:21Z",
  "count": 60,
  "subreddits_ok": [
+  "LocalLLaMA",
   "MachineLearning",
-  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "I built eze, a self-hosted take on Shopify's Quick: drop a folder of HTML, get a private site only your coworkers can open",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xb8jfi/i_built_eze_a_selfhosted_take_on_shopifys_quick/",
+   "ts": 1792541726,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Eagle-4 Released: Faster than DFlash2 & DSpark",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xb6zds/eagle4_released_faster_than_dflash2_dspark/",
+   "ts": 1792537448,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Top 10 AI agents for small local LLMs in 2026, tested on Qwen3.5-4B",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xb6hmh/top_10_ai_agents_for_small_local_llms_in_2026/",
+   "ts": 1792536122,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "What is the best possible captcha at preventing bots?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xb6be8/what_is_the_best_possible_captcha_at_preventing/",
+   "ts": 1792535657,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Self hosted manga library setup, multiple chapter management",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xb6bcx/self_hosted_manga_library_setup_multiple_chapter/",
+   "ts": 1792535654,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Media tracking: what do you use?",
@@ -18,10 +53,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Browser-native automation: pulled a page's table into a Sheet with no server, no cloud, no API key",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xb47hi/browsernative_automation_pulled_a_pages_table/",
-   "ts": 1792530378,
+   "subreddit": "LocalLLaMA",
+   "title": "I built an RK3588 NPU runtime without any proprietary inference libraries: Qwen3.5-4B at ~10 tok/s, ~2x faster than vendor SDK.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xb45bq/i_built_an_rk3588_npu_runtime_without_any/",
+   "ts": 1792530238,
    "source": "Reddit"
   },
   {
@@ -46,13 +81,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Query: Trying to host a site for free on custom subdomain but facing issue",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xb0aps/query_trying_to_host_a_site_for_free_on_custom/",
-   "ts": 1792521425,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "qev-0.8b · New SOTA tiny local decision model",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xazrvd/qev08b_new_sota_tiny_local_decision_model/",
@@ -64,13 +92,6 @@
    "title": "Announcing TypeScript 7.1 Beta",
    "url": "https://www.reddit.com/r/programming/comments/1xaz5ur/announcing_typescript_71_beta/",
    "ts": 1792518937,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "MiMo 2.6 is reasoning is like the crash test dummies",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xawa17/mimo_26_is_reasoning_is_like_the_crash_test/",
-   "ts": 1792512529,
    "source": "Reddit"
   },
   {
@@ -158,13 +179,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Issues When Using Crowdsec",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xas7ze/issues_when_using_crowdsec/",
-   "ts": 1792503043,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Google Threat Intelligence Group: Investigating Ephemeral Supply Chain Tampering",
    "url": "https://www.reddit.com/r/programming/comments/1xarzjw/google_threat_intelligence_group_investigating/",
@@ -190,13 +204,6 @@
    "title": "SSH keys on macOS with Touch ID",
    "url": "https://www.reddit.com/r/programming/comments/1xaqyzu/ssh_keys_on_macos_with_touch_id/",
    "ts": 1792499752,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Qwen 3.8 Flash Next: drastically faster and much more precise in reaching the result.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xapakf/qwen_38_flash_next_drastically_faster_and_much/",
-   "ts": 1792494672,
    "source": "Reddit"
   },
   {
@@ -344,13 +351,6 @@
    "title": "[Bi-Weekly Megathread] Project Showcase",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yg86/biweekly_megathread_project_showcase/",
    "ts": 1792420251,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Plex being actively exploited (Plex2Shell) on 32400",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1x9trfc/plex_being_actively_exploited_plex2shell_on_32400/",
-   "ts": 1792407494,
    "source": "Reddit"
   },
   {
