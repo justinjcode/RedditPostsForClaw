@@ -1,9 +1,6 @@
 {
- "generated_at": "2026-10-21T23:45:13Z",
+ "generated_at": "2026-10-21T23:53:11Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +8,11 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 179,
  "items": [
   {
@@ -148,6 +149,15 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2112968586079744448#m",
    "ts": 1792605942,
    "id": "2112968586079744448#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Your agent's compute needs change mid-run. @akshat_b of @modal walks through CPU and memory demand in Ramp's sandboxes. Provisioning every sandbox for a brief peak can leave capacity reserved when it isn't needed. #AIEngineerNY Video",
+   "url": "https://nitter.kareem.one/aiDotEngineer/status/2112967157487206794#m",
+   "ts": 1792605602,
+   "id": "2112967157487206794#m"
   },
   {
    "handle": "elonmusk",
@@ -877,15 +887,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2112189631374438662#m",
    "ts": 1792420225,
    "id": "2112189631374438662#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Should every agent wait in the same approval queue? @jxxf contrasts a ticket summarizer with an agent that can deploy to production. One review process can delay small experiments and divide reviewers' attention. 77 seconds from AI Engineer New York. #AIEngineerNY Video",
-   "url": "https://nitter.kareem.one/aiDotEngineer/status/2112181981530476646#m",
-   "ts": 1792418401,
-   "id": "2112181981530476646#m"
   },
   {
    "handle": "ZichenWanghere",
