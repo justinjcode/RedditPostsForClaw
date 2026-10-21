@@ -1,20 +1,55 @@
 {
- "generated_at": "2026-10-21T00:28:21Z",
+ "generated_at": "2026-10-21T04:15:18Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
   "MachineLearning",
-  "selfhosted"
+  "programming"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "Critical Vulnerabilities in PHP",
+   "url": "https://www.reddit.com/r/programming/comments/1xbcv7y/critical_vulnerabilities_in_php/",
+   "ts": 1792554534,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "C vs C#: racing VLC's Gaussian blur",
+   "url": "https://www.reddit.com/r/programming/comments/1xbbkuq/c_vs_c_racing_vlcs_gaussian_blur/",
+   "ts": 1792550582,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xb9z8e/exclusive_bytedance_alibaba_tencent_place_over_35/",
+   "ts": 1792545871,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Will our paper be removed from EMNLP because of no-show? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xb9r6b/will_our_paper_be_removed_from_emnlp_because_of/",
+   "ts": 1792545212,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "I built eze, a self-hosted take on Shopify's Quick: drop a folder of HTML, get a private site only your coworkers can open",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xb8jfi/i_built_eze_a_selfhosted_take_on_shopifys_quick/",
    "ts": 1792541726,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Make yourself replaceable",
+   "url": "https://www.reddit.com/r/programming/comments/1xb7t0x/make_yourself_replaceable/",
+   "ts": 1792539736,
    "source": "Reddit"
   },
   {
@@ -165,13 +200,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "[Paper] The COUNT: Counting N-grams Unlocks Scaling on Host Memory and Training-Free Adaptation",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xat6o7/paper_the_count_counting_ngrams_unlocks_scaling/",
-   "ts": 1792505433,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Selfhosted map / exploration progress tracking",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xaskuh/selfhosted_map_exploration_progress_tracking/",
@@ -264,20 +292,6 @@
   },
   {
    "subreddit": "programming",
-   "title": "Rendering untrusted HTML email, safely",
-   "url": "https://www.reddit.com/r/programming/comments/1xadl8d/rendering_untrusted_html_email_safely/",
-   "ts": 1792455423,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "How to Gaslight JavaScript Programmers",
-   "url": "https://www.reddit.com/r/programming/comments/1xaaife/how_to_gaslight_javascript_programmers/",
-   "ts": 1792447308,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
    "title": "The reverts will continue until morale improves [PostgreSQL 19]",
    "url": "https://www.reddit.com/r/programming/comments/1xa9h5w/the_reverts_will_continue_until_morale_improves/",
    "ts": 1792444823,
@@ -334,13 +348,6 @@
   },
   {
    "subreddit": "programming",
-   "title": "The Labor Market for Recent College Graduates",
-   "url": "https://www.reddit.com/r/programming/comments/1xa16ri/the_labor_market_for_recent_college_graduates/",
-   "ts": 1792426460,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
    "title": "GitHub Actions is down once again",
    "url": "https://www.reddit.com/r/programming/comments/1xa0z6c/github_actions_is_down_once_again/",
    "ts": 1792425991,
@@ -393,13 +400,6 @@
    "title": "Beating Warcraft III’s insane AI with self-play reinforcement learning on one desktop [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9c5ty/beating_warcraft_iiis_insane_ai_with_selfplay/",
    "ts": 1792352076,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1x97v19/tempopfn_synthetic_pretraining_of_linear_rnns_for/",
-   "ts": 1792341838,
    "source": "Reddit"
   },
   {
