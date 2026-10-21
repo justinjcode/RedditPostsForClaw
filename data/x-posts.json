@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T21:47:09Z",
+ "generated_at": "2026-10-21T21:55:19Z",
  "accounts_ok": [
   "TheRundownAI",
   "elonmusk",
@@ -15,6 +15,15 @@
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Elon Musk on Optimus: \"We've started early production. The growth of Optimus is an S curve, but the initial curve is a shallow slope. We have the vast majority of the 1 million unit/year line installed at Fremont. There's still some things we need to tweak about the design. There's still quite a lot of work to do with the AI in the robot. I would expect that the AI, the electromechanical design, reliability, usage life, expect these issues to be solved by the end of next year. I remain convinced Optimus will be the biggest product on Earth. I do want to temper expectations that we still have a lot to get through, it will take about a year to get through that.\"",
+   "url": "https://nitter.kareem.one/SawyerMerritt/status/2113022539140087843#m",
+   "ts": 1792618806,
+   "id": "2113022539140087843#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -230,15 +239,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2112942522486202504#m",
    "ts": 1792599728,
    "id": "2112942522486202504#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Send 𝕏 links to your friends so that they know what’s really going on DogeDesigner (@cb_doge) \"If you talk to somebody who gets all their information from legacy media, they are living in a different world than if they are listening to your podcast or getting news from 𝕏. They are living in an alternate reality.\" — Elon Musk Video — https://nitter.kareem.one/cb_doge/status/2112939813225849085#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2112941801510178862#m",
-   "ts": 1792599556,
-   "id": "2112941801510178862#m"
   },
   {
    "handle": "TheRundownAI",
