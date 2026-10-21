@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T16:35:45Z",
+ "generated_at": "2026-10-21T16:49:13Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,24 @@
  "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "When I slapped an Apache 2.0 License on the code yesterday I did not expect anything this neat to come out of it, and certainly not so fast simonwillison.net/2026/Oct/2… Link Battle Drones—a vibe coded RTS with audio-based multiplayer My latest vibe coded game experiment is a Command & Conquer style RTS (Real Time Strategy) game called Battle Drones (play it here). Unlike my previous experiments, this one is … simonwillison.net",
+   "url": "https://nitter.kareem.one/simonw/status/2112944299906347425#m",
+   "ts": 1792600152,
+   "id": "2112944299906347425#m"
+  },
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "There's a French fork of Battle Drones with new models and music (and a cinematic intro video) and it is SO cool! menufactory43.github.io/pana… Here's the old v.s. new Goliath model meff (@Meffysto69) Merci @simonw ! 🎩 I forked Battle Drones into Panache: a French Belle Époque RTS, with dirigibles, steam tractors, clockwork soldiers in képis and Gargantua, a walking steam fortress. Fully in French, built with Claude Code. github.com/menufactory43/pan… Link GitHub - menufactory43/panache: Panache — RTS Belle Époque pour mobile (adaptation française de... Panache — RTS Belle Époque pour mobile (adaptation française de Battle Drones) - menufactory43/panache github.com — https://nitter.kareem.one/Meffysto69/status/2112908755654365220#m",
+   "url": "https://nitter.kareem.one/simonw/status/2112944161670488423#m",
+   "ts": 1792600119,
+   "id": "2112944161670488423#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1536,15 +1554,6 @@
    "id": "2108346075874734127#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "🤣 I couldn't help myself. \"Generate an SVG of a walrus playing the bagpipes\"",
-   "url": "https://nitter.kareem.one/funcOfJoe/status/2108305684567830568#m",
-   "ts": 1791494220,
-   "id": "2108305684567830568#m"
-  },
-  {
    "handle": "bcherny",
    "name": "Boris Cherny",
    "author": "@bcherny",
@@ -1561,15 +1570,6 @@
    "url": "https://nitter.kareem.one/claudeai/status/2108271552991252810#m",
    "ts": 1791486082,
    "id": "2108271552991252810#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "AWS have a new open source sandbox too, must be something in the air Marc Brooker (@MarcJBrooker) Today we're announcing Strands Box, our open source sandbox for developers building AI agents. New blog post from me, on the Strands blog: strandsagents.com/blog/stran… Link Strands Box: The Big Picture Strands Box, now in developer preview, is an open source local sandbox for AI agents that pairs operating-system isolation with Dogwood semantic policy. Here's why semantic policy matters, and how... strandsagents.com — https://nitter.kareem.one/MarcJBrooker/status/2107934012765536577#m",
-   "url": "https://nitter.kareem.one/simonw/status/2108225028299034638#m",
-   "ts": 1791474990,
-   "id": "2108225028299034638#m"
   },
   {
    "handle": "bcherny",
