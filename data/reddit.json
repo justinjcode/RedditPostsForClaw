@@ -1,15 +1,57 @@
 {
- "generated_at": "2026-10-21T04:15:18Z",
+ "generated_at": "2026-10-21T06:20:21Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
   "MachineLearning",
-  "programming"
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "MachineLearning",
+   "title": "I built a containerized Multi-Agent Research Pipeline using LangGraph, Celery, and MCP [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xbfe7h/i_built_a_containerized_multiagent_research/",
+   "ts": 1792563183,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Is Dynu Down",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xbf8ho/is_dynu_down/",
+   "ts": 1792562607,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "New Sota 27B local Decision model: Drex Max 2.0",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbexic/new_sota_27b_local_decision_model_drex_max_20/",
+   "ts": 1792561506,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Fast LoRA in llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbekzx/fast_lora_in_llamacpp/",
+   "ts": 1792560270,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "KFlash: Benchmarks of newly released versions of Apple Silicon optimized engines: 1.4.0 Splash (DFlash2 ~ 50 tok/s) vs 0.2 Kapitsa (KFlash ~65 tok/s), MLX(MTP) & more on Qwen 3.8 27b/4b/35b 4Q on Macbook Pro M4 Pro 48 GB 2024, 48GB & Macbook Pro M1 Pro 16GB 2021",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbdxg3/kflash_benchmarks_of_newly_released_versions_of/",
+   "ts": 1792558032,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "I use local AI to generate personal value on my massive NAS-based archive / library",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbd1hp/i_use_local_ai_to_generate_personal_value_on_my/",
+   "ts": 1792555099,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "Critical Vulnerabilities in PHP",
@@ -18,10 +60,38 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "selfhosted",
+   "title": "PHP warns it plans to release 2 emergency patches imminently. Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xbcbty/php_warns_it_plans_to_release_2_emergency_patches/",
+   "ts": 1792552836,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Really hoping to avoid this right now",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xbbsqp/really_hoping_to_avoid_this_right_now/",
+   "ts": 1792551225,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "programming",
    "title": "C vs C#: racing VLC's Gaussian blur",
    "url": "https://www.reddit.com/r/programming/comments/1xbbkuq/c_vs_c_racing_vlcs_gaussian_blur/",
    "ts": 1792550582,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "How do you handle webhooks when you want more control over the execution layer?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xbasi4/how_do_you_handle_webhooks_when_you_want_more/",
+   "ts": 1792548239,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Pangolin + Nginx Not Working",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xbanj1/pangolin_nginx_not_working/",
+   "ts": 1792547851,
    "source": "Reddit"
   },
   {
@@ -40,9 +110,9 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "I built eze, a self-hosted take on Shopify's Quick: drop a folder of HTML, get a private site only your coworkers can open",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xb8jfi/i_built_eze_a_selfhosted_take_on_shopifys_quick/",
-   "ts": 1792541726,
+   "title": "MuckScraper 1.0: self-hosted news aggregator that groups coverage into stories, shows bias balance, and summarizes locally with Ollama",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xb8nb5/muckscraper_10_selfhosted_news_aggregator_that/",
+   "ts": 1792542039,
    "source": "Reddit"
   },
   {
@@ -64,13 +134,6 @@
    "title": "Top 10 AI agents for small local LLMs in 2026, tested on Qwen3.5-4B",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xb6hmh/top_10_ai_agents_for_small_local_llms_in_2026/",
    "ts": 1792536122,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "What is the best possible captcha at preventing bots?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xb6be8/what_is_the_best_possible_captcha_at_preventing/",
-   "ts": 1792535657,
    "source": "Reddit"
   },
   {
@@ -137,13 +200,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Hardly any benchmarks for Intel B65, so I got 4x and tested them. Long Context Sweeps for Flash-Next and other models",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xavy8t/hardly_any_benchmarks_for_intel_b65_so_i_got_4x/",
-   "ts": 1792511847,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Under the Hood of Redis: How It Delivers Sub-Millisecond Latency?",
    "url": "https://www.reddit.com/r/programming/comments/1xavhns/under_the_hood_of_redis_how_it_delivers/",
@@ -200,13 +256,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Selfhosted map / exploration progress tracking",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xaskuh/selfhosted_map_exploration_progress_tracking/",
-   "ts": 1792503948,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Google Threat Intelligence Group: Investigating Ephemeral Supply Chain Tampering",
    "url": "https://www.reddit.com/r/programming/comments/1xarzjw/google_threat_intelligence_group_investigating/",
@@ -235,24 +284,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Vals AI found DeepSeek V4.1 Flash 1017 beats GPT 6 Sol on their multi-step offensive cybersecurity task. Sol was tested via the Daybreak trusted access program.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xap2aq/vals_ai_found_deepseek_v41_flash_1017_beats_gpt_6/",
-   "ts": 1792493956,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Selfhosting + Beers NL",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xaouai/selfhosting_beers_nl/",
    "ts": 1792493197,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Improve Qwen3.8-27b low quants by using a prefiller model that streams from SSD",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xao7kx/improve_qwen3827b_low_quants_by_using_a_prefiller/",
-   "ts": 1792490987,
    "source": "Reddit"
   },
   {
@@ -271,23 +306,9 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Using Music assisstant instead of spotify",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xan786/using_music_assisstant_instead_of_spotify/",
-   "ts": 1792487266,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "PSA: Immich v3.3.3 + Paperless-ngx v 3.3.3 = today is a good day",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xamwuj/psa_immich_v333_paperlessngx_v_333_today_is_a/",
    "ts": 1792486181,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "24GB is plenty if your engines take turns",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xahi82/24gb_is_plenty_if_your_engines_take_turns/",
-   "ts": 1792466825,
    "source": "Reddit"
   },
   {
@@ -295,20 +316,6 @@
    "title": "The reverts will continue until morale improves [PostgreSQL 19]",
    "url": "https://www.reddit.com/r/programming/comments/1xa9h5w/the_reverts_will_continue_until_morale_improves/",
    "ts": 1792444823,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "OpenMW-Web 1.6.2: self-hosted Morrowind in the browser, with an admin dashboard and multiplayer in alpha",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xa8452/openmwweb_162_selfhosted_morrowind_in_the_browser/",
-   "ts": 1792441739,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Super Productivity v19.2: self-hosted task management, live Markdown notes, and bulk actions",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xa51sm/super_productivity_v192_selfhosted_task/",
-   "ts": 1792434974,
    "source": "Reddit"
   },
   {
@@ -358,13 +365,6 @@
    "title": "[Bi-Weekly Megathread] Project Showcase",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yg86/biweekly_megathread_project_showcase/",
    "ts": 1792420251,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "SteerTTS: 23M-param English TTS you steer with numbers (pitch, rate, loudness, etc. as z-scores), runs real-time on CPU [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1x9okma/steertts_23mparam_english_tts_you_steer_with/",
-   "ts": 1792388183,
    "source": "Reddit"
   },
   {
