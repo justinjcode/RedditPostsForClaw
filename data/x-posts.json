@@ -1,20 +1,65 @@
 {
- "generated_at": "2026-10-21T20:58:03Z",
+ "generated_at": "2026-10-21T21:16:22Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
-  "thsottiaux"
+  "swyx"
  ],
  "errors": [
+  "@thsottiaux: all instances failed",
   "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Travis Fischer (@transitive_bs) the link: latent.space/p/claude-mods Link Claude Mods: Flipping the Harness Inside Out Claude Mods is an early form of the Attention Interface. It flips the agent harness paradigm from the harness facing the machine, to the harness facing the human. latent.space — https://nitter.kareem.one/transitive_bs/status/2113007529508970780#m",
+   "url": "https://nitter.kareem.one/swyx/status/2113012423892611493#m",
+   "ts": 1792616394,
+   "id": "2113012423892611493#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok @Bot is like hiring a super smart and fun employee! Grok Bot (@bot) Grok Bot can now build reports, memos, and dashboards. Ask Bot for a page, then edit it together or have Bot keep it up to date. Video — https://nitter.kareem.one/bot/status/2112992872857252082#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2113011511429902609#m",
+   "ts": 1792616176,
+   "id": "2113011511429902609#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "People are buying FSD with a car attached, not the other way around Sawyer Merritt (@SawyerMerritt) Tesla has just released its Q3 earnings results. Highlights: • EPS (non-GAAP): $0.48 (vs. $0.45 est) • Revenue: $28.05B (vs. $28.3B est) • Adjusted EBITDA: $3.90B • Active FSD Subscriptions: 1.74M, up 67% YoY from 1.04M • Net income (GAAP): $787M • Free cash flow: $1.53B • Capex: $4.73B • Cash & marketable securities: $45.45B, up 9% YoY — https://nitter.kareem.one/SawyerMerritt/status/2112998543065600047#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2113011056847278486#m",
+   "ts": 1792616068,
+   "id": "2113011056847278486#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Try Grok @Bot , you will love it! Robert Scoble (@Scobleizer) I've been GrokBot pilled. First of all, Grok knows me better than other bots, like Meta Muse, thanks to the 300,000 posts I've done here for 20 years. But now that GrokBot @bot can read lists, it opens up powerful new personalized news capabilities. I've done this for about a year over on alignednews.com -- but last month my X API bill alone was $6,000. For a couple of hundred a month you can do the same with lists, either you create, or ones other people have created. Last night I stuck in my \"best in AI\" list and had it write me this news page: docs.google.com/document/d/1… Every hour my bot reads that list and builds me a new news page. Now I've only put about 10 minutes of effort into this so far. So it's not the prettiest thing you ever have seen, but my bots are working on other ways to present them to me. And you can do the same for any topic you care about. You just need to build a list, or find one that's already built and there are millions of lists here on X on literally any topic. Put your favorite football team onto a list, along with all your favorite journalists or other fans. Then have Grok bot read them for you. And that's just the start. You can have it write you a script based on the news, then copy that into, say, @Gemini_Notebook and then you get a podcast, or a video. Based on what people are saying on your topic here on X. Thank you so much X for making lists far more powerful than they ever ",
+   "url": "https://nitter.kareem.one/elonmusk/status/2113010364178964616#m",
+   "ts": 1792615903,
+   "id": "2113010364178964616#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Great progress by the Tesla team! Tesla (@Tesla) Q3 Shareholder Update → ir.tesla.com Highlights – FSD Supervised attach rate grew to over 75% of new vehicle deliveries in NA – Unveiled the next-gen Roadster – Record deliveries in Canada, Australia, Japan & Taiwan – Tesla Semi now in volume production. Top variant can go up to 500 miles at a full 82,000 lbs while achieving efficiency of 1.7 kWh/mile – about a third of the energy a comparable diesel truck burns for the same load – Ended the quarter with the largest backlog for our passenger vehicles in 4 years! FSD Supervised – 4 new approvals since Q2 (Croatia, Slovenia, Czech Republic, Slovakia) – FSD is now live in nine EU countries & used by over 100,000 customers logging more than 160 million kilometers since initial approval Robotaxi – Deployed Cybercab into our Austin fleet – Hit nearly 2 million cumulative unsupervised miles, 8x growth in the quarter – Austin service now runs 6 am to midnight, with wait times continuing to come down as we add cars & improve the orchestration algorithms – Added Grok to Cybercab with Grok Bot & Connectors, letting you interface with your inbox, calendar, files, chats and tasks, all by voice. Transport, office & living room in one Robotics – Started production of @Tesla_Optimus on our high-volume lines in Fremont. These are the first production-quality bots we've built, proving that the current manufacturing process for Optimus is suitable for a commercial product SI Compute – On track fo",
+   "url": "https://nitter.kareem.one/elonmusk/status/2113009907012382829#m",
+   "ts": 1792615794,
+   "id": "2113009907012382829#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -230,42 +275,6 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2112939021861073051#m",
    "ts": 1792598893,
    "id": "2112939021861073051#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "with Grok Bot the future of computing is headless I never wake up thinking \"this will be a great day to open up the amazon app and have to click a bunch of buttons to find my order and fill out forms to return it\" (this is de-humanizing) instead I just tell Grok to do it!",
-   "url": "https://nitter.kareem.one/KettlebellDan/status/2112937029436907551#m",
-   "ts": 1792598418,
-   "id": "2112937029436907551#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "There is something deeply wrong with Talarico",
-   "url": "https://nitter.kareem.one/elonmusk/status/2112934688557818190#m",
-   "ts": 1792597860,
-   "id": "2112934688557818190#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Try this Elon Musk (@elonmusk) Do it both conventionally and with Grok @Bot , then compare. Actually, it’s worth showing Grok last year’s tax returns and see if it finds opportunities for improvement. There may be refunds you’re owed. — https://nitter.kareem.one/elonmusk/status/2112934412967117297#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2112934500170600679#m",
-   "ts": 1792597815,
-   "id": "2112934500170600679#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "For sure @bot and it’s not even close",
-   "url": "https://nitter.kareem.one/RampCapitalLLC/status/2112926807074705746#m",
-   "ts": 1792595981,
-   "id": "2112926807074705746#m"
   },
   {
    "handle": "TheRundownAI",
@@ -779,15 +788,6 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2112277579088777689#m",
    "ts": 1792441193,
    "id": "2112277579088777689#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "First AIE Code Summit speakers: @poteto , Principal Engineer @ SpaceX @steve_yegge , Engineer, Writer, Advisor @zachbruggeman , Principal Software Engineer @ Ramp Nov 10-12, SF. Come hang out with us. Apply at ai.engineer/code",
-   "url": "https://nitter.kareem.one/aiDotEngineer/status/2112276851355693315#m",
-   "ts": 1792441020,
-   "id": "2112276851355693315#m"
   },
   {
    "handle": "thsottiaux",
