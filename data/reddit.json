@@ -1,15 +1,43 @@
 {
- "generated_at": "2026-10-21T12:17:33Z",
+ "generated_at": "2026-10-21T14:14:26Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
+  "MachineLearning",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "MyBibliotheca 3.0.0",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xbn916/mybibliotheca_300/",
+   "ts": 1792589488,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "35B MoE running at 20.5 tok/s on an iPhone, without skipping experts",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbmsgf/35b_moe_running_at_205_toks_on_an_iphone_without/",
+   "ts": 1792588328,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "I built a small on-device voice front-end for local assistants: type any wake word, keep only your voice before STT (5 models, 7.5 MB, Apache-2.0, early preview)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbmhct/i_built_a_small_ondevice_voice_frontend_for_local/",
+   "ts": 1792587581,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Why isn't XMPP more popular than Matrix if it's simpler in architecture?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xbm5ef/why_isnt_xmpp_more_popular_than_matrix_if_its/",
+   "ts": 1792586660,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
@@ -60,10 +88,24 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "MachineLearning",
+   "title": "Few-read fault localization in simulated analog crossbars: a sparse-recovery decoder vs reading every cell (with the claims that failed) [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xbj6nj/fewread_fault_localization_in_simulated_analog/",
+   "ts": 1792577395,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "LocalLLaMA",
    "title": "[Paper] Specter: Fast MoE Inference via Quantization-Enabled Multi-Step Speculative Offloading",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbj6an/paper_specter_fast_moe_inference_via/",
    "ts": 1792577364,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "A 34-point win for my memristor-crossbar repair method came from an unfair baseline; tuned, step-matched baselines removed it [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xbj5i0/a_34point_win_for_my_memristorcrossbar_repair/",
+   "ts": 1792577291,
    "source": "Reddit"
   },
   {
@@ -74,13 +116,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "OvisOCR3: a 0.8B OCR model with structured output and cross-page table reconstruction",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbi9h4/ovisocr3_a_08b_ocr_model_with_structured_output/",
-   "ts": 1792573969,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Open Archiver v0.6.1: JMAP ingestion source, wildcard in search, and Tika 4 support",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xbi8on/open_archiver_v061_jmap_ingestion_source_wildcard/",
@@ -88,17 +123,17 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "How do you handle access to docker socket?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xbi7mb/how_do_you_handle_access_to_docker_socket/",
-   "ts": 1792573785,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "InternScience/Sage-A1.5 [Finetune of Qwen 3.6 35b-a3b]",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbi1hj/internsciencesagea15_finetune_of_qwen_36_35ba3b/",
    "ts": 1792573181,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Need access to TPUs for ML mapping project [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xbhyq1/need_access_to_tpus_for_ml_mapping_project_r/",
+   "ts": 1792572893,
    "source": "Reddit"
   },
   {
@@ -228,6 +263,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "MachineLearning",
+   "title": "When eight systems share a benchmark top score, what should the table show?[D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xayxs1/when_eight_systems_share_a_benchmark_top_score/",
+   "ts": 1792518435,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "programming",
    "title": "Under the Hood of Redis: How It Delivers Sub-Millisecond Latency?",
    "url": "https://www.reddit.com/r/programming/comments/1xavhns/under_the_hood_of_redis_how_it_delivers/",
@@ -253,13 +295,6 @@
    "title": "Why memory-hard proof-of-work hashes are not a popular choice for CAPTCHA",
    "url": "https://www.reddit.com/r/programming/comments/1xauiqk/why_memoryhard_proofofwork_hashes_are_not_a/",
    "ts": 1792508610,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Pocket TTS which supports voice cloning is now just 1.9 million parameters",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xauekr/pocket_tts_which_supports_voice_cloning_is_now/",
-   "ts": 1792508355,
    "source": "Reddit"
   },
   {
@@ -291,13 +326,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Selfhosting + Beers NL",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xaouai/selfhosting_beers_nl/",
-   "ts": 1792493197,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Best way to accurately annotate 500 images for fine-tuning Meta DETR?[P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xao1wy/best_way_to_accurately_annotate_500_images_for/",
@@ -316,13 +344,6 @@
    "title": "The reverts will continue until morale improves [PostgreSQL 19]",
    "url": "https://www.reddit.com/r/programming/comments/1xa9h5w/the_reverts_will_continue_until_morale_improves/",
    "ts": 1792444823,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "ML on a shoestring? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xa4ony/ml_on_a_shoestring_d/",
-   "ts": 1792434187,
    "source": "Reddit"
   },
   {
@@ -362,20 +383,6 @@
   },
   {
    "subreddit": "MachineLearning",
-   "title": "SteerTTS: 23M-param English TTS you steer with numbers (pitch, rate, loudness, etc. as z-scores), runs real-time on CPU [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1x9okma/steertts_23mparam_english_tts_you_steer_with/",
-   "ts": 1792388183,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Arrow detection with ConvNext pretrained on DINOv3 [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1x9nw6a/arrow_detection_with_convnext_pretrained_on/",
-   "ts": 1792385833,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
    "title": "I moved from network training to deployment optimization and am starting to think that was a right decision [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9k4si/i_moved_from_network_training_to_deployment/",
    "ts": 1792373671,
@@ -386,13 +393,6 @@
    "title": "Conference papers are cooked! [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9fyhd/conference_papers_are_cooked_d/",
    "ts": 1792361535,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Anyone else get brain lag from overly-condensed AI-speak? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1x9e2fw/anyone_else_get_brain_lag_from_overlycondensed/",
-   "ts": 1792356722,
    "source": "Reddit"
   },
   {
