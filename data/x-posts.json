@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-10-21T19:36:31Z",
+ "generated_at": "2026-10-21T19:45:37Z",
  "accounts_ok": [
   "Lingling_Wei",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
-  "@swyx: all instances failed",
+  "@bcherny: all instances failed",
   "@TheRundownAI: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "highly recommend everyone to have private alt accounts*. the x web is bad at account switching, but on mobile it is frictionless. its basically the same \"group chat but its ok if you dont read everything\" experience but for your mutuals. tips - assume everything is public, screenshotting is real, dont be stupid. this is not the \"i shit talk people behind their back\", the right attitude is \"this isnt high signal enough for my main account but i'm 1) taking notes for self, 2) have a throwaway thought, 3) i'm happy to chat about it\" - give mutuals critical feedback that they might appreciate. \"praise in public, criticise in private\". because its not public, they know you actually do mean well - link/replyguy your alt for people to discover periodicially in case they dont know you have one * i like it so much that i call this the \"insta/finsta\" pattern - every social network should by default give people a public profile and a private one by default. tbd on the third account, the \"botsta\".",
+   "url": "https://nitter.kareem.one/swyx/status/2112992347890106650#m",
+   "ts": 1792611607,
+   "id": "2112992347890106650#m"
+  },
   {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
@@ -824,15 +833,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2112189631374438662#m",
    "ts": 1792420225,
    "id": "2112189631374438662#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "\"O Infallible one, why do the people not heed the sign we tap?\" \"My dear Parth, each believes he is the first to wish for an end to chat. On X we are cursed with the eternal September of the Thoughtless Mind.\" \"But O Govinda, they yearn for what lies beyond it, and cast their votes by the thousands. Surely the people's wants must be made.\" *a wan smile* “O son of Kunti, observe what they applaud, and what they return to. They desire the end of chat as they desire the end of desire. They desire to leave X as they return in ever greater numbers. They will announce it many times. You shall learn, as they do not, that the chief desire of the people of X is not the truth, but the new.” lauren (@poteto) is chat the final form of agent ui? please share why Poll 28% — yes 72% — no 25,074 votes • Final results — https://nitter.kareem.one/poteto/status/2111321176769442251#m",
-   "url": "https://nitter.kareem.one/swyx/status/2112182228977348963#m",
-   "ts": 1792418460,
-   "id": "2112182228977348963#m"
   },
   {
    "handle": "swyx",
