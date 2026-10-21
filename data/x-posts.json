@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-21T14:58:24Z",
+ "generated_at": "2026-10-21T15:16:27Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
+  "elonmusk",
   "realDonaldTrump",
-  "swyx"
+  "simonw",
+  "swyx",
+  "thsottiaux"
  ],
  "errors": [
-  "@elonmusk: all instances failed",
-  "@thsottiaux: all instances failed",
-  "@simonw: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 179,
  "items": [
@@ -133,6 +133,15 @@
    "id": "2112772374823407870#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "In just the first 72 hours since Gemini 4 Argon launched, we processed ~25 trillion tokens, the demand for intelligence is incredible and still under appreciated!",
+   "url": "https://nitter.kareem.one/OfficialLoganK/status/2112767157746688480#m",
+   "ts": 1792557918,
+   "id": "2112767157746688480#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -241,15 +250,6 @@
    "id": "2112662180105699802#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon Musk on a possible SpaceX–Tesla merger: \"Do I think it would be a good idea? Yes\" Both SpaceX and Tesla have formed special committees of independent directors to discuss the idea, at the request of shareholders Because he's a conflicted party, Elon can't take part in those discussions \"Some people out there assume that a SpaceX and Tesla merger is a certainty, and I think that would be overstating it\" \"The special committees have not reached agreement on the terms of any transaction. And obviously there's no guarantee that they will\" On the Tesla side, it would need a 50% vote of all shares, not just those who vote. That's a high hurdle So why does Elon support it? \"I do think there's a lot of merit to combining the companies as we are pretty much in the super intelligence singularity\" \"There's a lot to be gained from cooperating on developing super intelligence software, chip design, the Terafab, obviously robotics, mass to orbit with the Starmind constellation. Connectivity\" Next, the special committees of both companies have to agree on terms, and then it goes to a shareholder vote Video",
-   "url": "https://nitter.kareem.one/XFreeze/status/2112660528409747769#m",
-   "ts": 1792532495,
-   "id": "2112660528409747769#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -284,15 +284,6 @@
    "url": "https://nitter.kareem.one/firesidealpha/status/2112656247589904420#m",
    "ts": 1792531475,
    "id": "2112656247589904420#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Here’s full Elon Musk’s remarks at SpaceX Q3 2026 results: 0:00 - Inflection moment for SpaceX 0:50 - Starship Flight 14 to orbit 1:40 - Flight 15 catch both stages 2:50 - Louisiana spaceport announced 4:00 - Weekly then twice weekly flights 5:20 - Complete reusability like airplane 6:30 - Starlink 26 Tbps = 10 Falcon 9 7:50 - 100x bandwidth, 100k satellites 9:10 - 1000x demand from AI agents 10:20 - SI constraint: power & cooling 11:30 - Memphis 200k GB300s monthly 12:40 - Aiming 20 GW next year 13:20 - 440k Vera Rubin cluster Q2 14:00 - GrokBot fastest growth ever 14:35 - $500 B-$1T ARR by end 2027 Video",
-   "url": "https://nitter.kareem.one/cb_doge/status/2112653610953887818#m",
-   "ts": 1792530846,
-   "id": "2112653610953887818#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -419,6 +410,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2112622164830769201#m",
    "ts": 1792523349,
    "id": "2112622164830769201#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "I’ve been using Grok Bot to prototype physical product ideas faster. I give it sketches and 3D models, and it helps me create technical diagrams, prepare RFQs, and communicate with manufacturers to bring them to life. Here’s one of the pieces I worked on: Hyperbole",
+   "url": "https://nitter.kareem.one/benjitaylor/status/2112607770986029172#m",
+   "ts": 1792519917,
+   "id": "2112607770986029172#m"
   },
   {
    "handle": "swyx",
