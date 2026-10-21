@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T01:03:28Z",
+ "generated_at": "2026-10-21T01:33:20Z",
  "accounts_ok": [
   "bcherny",
   "elonmusk",
@@ -15,6 +15,15 @@
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Day 16/ You can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversation or resuming after a few hours and are now guaranteed to hit the cache. OpenAI Developers (@OpenAIDevs) You can now choose 12-hour prompt caching in the API. Persistent agents, like dots, reuse context throughout the day. You can keep shared instructions, tools, and context cached longer and pay the lower cached-input rate, even when requests are hours apart. — https://nitter.kareem.one/OpenAIDevs/status/2112603916076781778#m",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2112712984644784534#m",
+   "ts": 1792545002,
+   "id": "2112712984644784534#m"
+  },
   {
    "handle": "simonw",
    "name": "Simon Willison",
@@ -1202,15 +1211,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2111042094651314515#m",
    "ts": 1792146631,
    "id": "2111042094651314515#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Either we are out of ideas or we are cooking. Time will tell",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2110971985417441512#m",
-   "ts": 1792129915,
-   "id": "2110971985417441512#m"
   },
   {
    "handle": "ZichenWanghere",
