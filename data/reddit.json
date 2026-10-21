@@ -1,15 +1,71 @@
 {
- "generated_at": "2026-10-21T10:13:13Z",
+ "generated_at": "2026-10-21T12:17:33Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
-  "programming"
+  "programming",
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+   "url": "https://www.reddit.com/r/programming/comments/1xbl8y1/eight_bits_of_trust_emudhras_ca_keys_cracked_in/",
+   "ts": 1792584114,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "[Paper] MemT-1.0: Towards Memory-Native Evolution",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbl751/paper_memt10_towards_memorynative_evolution/",
+   "ts": 1792584006,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Wasp web framework v1.0 is coming: the roadmap and what changes",
+   "url": "https://www.reddit.com/r/programming/comments/1xbkzrb/wasp_web_framework_v10_is_coming_the_roadmap_and/",
+   "ts": 1792583373,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "[Paper] TokenGate: Adapting LLMs for Fast and Memory-Efficient Prefill with Learned Token Pruning",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbkzll/paper_tokengate_adapting_llms_for_fast_and/",
+   "ts": 1792583361,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Question about Oracle Minecraft hosting",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xbkx77/question_about_oracle_minecraft_hosting/",
+   "ts": 1792583151,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "PHP2Shell in self-hosted apps?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xbjwmd/php2shell_in_selfhosted_apps/",
+   "ts": 1792579877,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Seerr - Oidc support or alternative service",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xbjsn1/seerr_oidc_support_or_alternative_service/",
+   "ts": 1792579496,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "[Paper] Specter: Fast MoE Inference via Quantization-Enabled Multi-Step Speculative Offloading",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbj6an/paper_specter_fast_moe_inference_via/",
+   "ts": 1792577364,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Qwen3.8-Flash-Next vs Opus 5.5: Six-way benchmark on a real Rust feature with Claude Code and Pi",
@@ -25,24 +81,24 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "selfhosted",
+   "title": "Open Archiver v0.6.1: JMAP ingestion source, wildcard in search, and Tika 4 support",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xbi8on/open_archiver_v061_jmap_ingestion_source_wildcard/",
+   "ts": 1792573885,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "How do you handle access to docker socket?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xbi7mb/how_do_you_handle_access_to_docker_socket/",
+   "ts": 1792573785,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "LocalLLaMA",
    "title": "InternScience/Sage-A1.5 [Finetune of Qwen 3.6 35b-a3b]",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbi1hj/internsciencesagea15_finetune_of_qwen_36_35ba3b/",
    "ts": 1792573181,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Ka-Ching! v3.4 – self-hosted tracker for what your collecting costs (comics, cards, figures, vinyl…)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xbhafq/kaching_v34_selfhosted_tracker_for_what_your/",
-   "ts": 1792570277,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Outil d'analyse boursier",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xbh4r3/outil_danalyse_boursier/",
-   "ts": 1792569689,
    "source": "Reddit"
   },
   {
@@ -71,13 +127,6 @@
    "title": "Is Dynu Down",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xbf8ho/is_dynu_down/",
    "ts": 1792562607,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Fast LoRA in llama.cpp",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbekzx/fast_lora_in_llamacpp/",
-   "ts": 1792560270,
    "source": "Reddit"
   },
   {
@@ -123,20 +172,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "How do you handle webhooks when you want more control over the execution layer?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xbasi4/how_do_you_handle_webhooks_when_you_want_more/",
-   "ts": 1792548239,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Pangolin + Nginx Not Working",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xbanj1/pangolin_nginx_not_working/",
-   "ts": 1792547851,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xb9z8e/exclusive_bytedance_alibaba_tencent_place_over_35/",
@@ -148,13 +183,6 @@
    "title": "Will our paper be removed from EMNLP because of no-show? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xb9r6b/will_our_paper_be_removed_from_emnlp_because_of/",
    "ts": 1792545212,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "MuckScraper 1.0: self-hosted news aggregator that groups coverage into stories, shows bias balance, and summarizes locally with Ollama",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xb8nb5/muckscraper_10_selfhosted_news_aggregator_that/",
-   "ts": 1792542039,
    "source": "Reddit"
   },
   {
@@ -190,13 +218,6 @@
    "title": "eMudhra Intermediate CA Compromise",
    "url": "https://www.reddit.com/r/programming/comments/1xb32yj/emudhra_intermediate_ca_compromise/",
    "ts": 1792527690,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "XHToken/Spark-X2.6-4B · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xb0nr9/xhtokensparkx264b_hugging_face/",
-   "ts": 1792522253,
    "source": "Reddit"
   },
   {
@@ -250,13 +271,6 @@
   },
   {
    "subreddit": "programming",
-   "title": "Google Threat Intelligence Group: Investigating Ephemeral Supply Chain Tampering",
-   "url": "https://www.reddit.com/r/programming/comments/1xarzjw/google_threat_intelligence_group_investigating/",
-   "ts": 1792502465,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
    "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
    "url": "https://www.reddit.com/r/programming/comments/1xarfxg/go_issues_emergency_update_blocking_eight_ca_keys/",
    "ts": 1792501080,
@@ -291,13 +305,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Deepseek released DeepInfer - Open Source high-performance, large-scale inference framework for DeepSeek models!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xanm55/deepseek_released_deepinfer_open_source/",
-   "ts": 1792488807,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "PSA: Immich v3.3.3 + Paperless-ngx v 3.3.3 = today is a good day",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xamwuj/psa_immich_v333_paperlessngx_v_333_today_is_a/",
@@ -323,13 +330,6 @@
    "title": "Open GPU kernel engineering series: naive GEMM to FlashAttention, H100 and Blackwell (44 sessions, code public) [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xa4h2g/open_gpu_kernel_engineering_series_naive_gemm_to/",
    "ts": 1792433718,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Making software is an artistic activity",
-   "url": "https://www.reddit.com/r/programming/comments/1xa4bck/making_software_is_an_artistic_activity/",
-   "ts": 1792433378,
    "source": "Reddit"
   },
   {
