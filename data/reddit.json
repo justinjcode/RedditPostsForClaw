@@ -1,15 +1,43 @@
 {
- "generated_at": "2026-10-21T06:20:21Z",
+ "generated_at": "2026-10-21T08:16:24Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Ka-Ching! v3.4 – self-hosted tracker for what your collecting costs (comics, cards, figures, vinyl…)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xbhafq/kaching_v34_selfhosted_tracker_for_what_your/",
+   "ts": 1792570277,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Outil d'analyse boursier",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xbh4r3/outil_danalyse_boursier/",
+   "ts": 1792569689,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "KRAFTON/Raon-1-mini-preview · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbh0ev/kraftonraon1minipreview_hugging_face/",
+   "ts": 1792569248,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Be prepared, GPU price increase incoming --> Samsung sells out 100% of all 2027 HBM capacity - HBM prices expected to jump 200% next year, DRAM prices expected to see a double-digit price increase",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbfhxp/be_prepared_gpu_price_increase_incoming_samsung/",
+   "ts": 1792563552,
+   "source": "Reddit"
+  },
   {
    "subreddit": "MachineLearning",
    "title": "I built a containerized Multi-Agent Research Pipeline using LangGraph, Celery, and MCP [P]",
@@ -22,13 +50,6 @@
    "title": "Is Dynu Down",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xbf8ho/is_dynu_down/",
    "ts": 1792562607,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "New Sota 27B local Decision model: Drex Max 2.0",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbexic/new_sota_27b_local_decision_model_drex_max_20/",
-   "ts": 1792561506,
    "source": "Reddit"
   },
   {
@@ -134,27 +155,6 @@
    "title": "Top 10 AI agents for small local LLMs in 2026, tested on Qwen3.5-4B",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xb6hmh/top_10_ai_agents_for_small_local_llms_in_2026/",
    "ts": 1792536122,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Self hosted manga library setup, multiple chapter management",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xb6bcx/self_hosted_manga_library_setup_multiple_chapter/",
-   "ts": 1792535654,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Media tracking: what do you use?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xb4uin/media_tracking_what_do_you_use/",
-   "ts": 1792531937,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "I built an RK3588 NPU runtime without any proprietary inference libraries: Qwen3.5-4B at ~10 tok/s, ~2x faster than vendor SDK.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xb45bq/i_built_an_rk3588_npu_runtime_without_any/",
-   "ts": 1792530238,
    "source": "Reddit"
   },
   {
