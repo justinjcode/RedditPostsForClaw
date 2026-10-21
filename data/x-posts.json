@@ -1,6 +1,9 @@
 {
- "generated_at": "2026-10-21T01:33:20Z",
+ "generated_at": "2026-10-21T01:56:19Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -8,11 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
   {
@@ -212,6 +211,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2112603906723487744#m",
    "ts": 1792518996,
    "id": "2112603906723487744#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Insane alpha, must read, might well redefine this economy. Everything me, Zephyr etc have been saying about the real profitability of the frontier inference is powerfully vindicated Latent.Space (@latentspacepod) Article DeepSeek V4.1 Flash Large-Scale Inference Deployment Practice this is a translation of https://zhuanlan.zhihu.com/p/2095560295930508953 for our own use/ twitter audiences to read The capability boundaries of a large model are defined by the model itself, and the core problem that — https://nitter.kareem.one/latentspacepod/status/2112588380416647205#m",
+   "url": "https://nitter.kareem.one/teortaxesTex/status/2112603621917663592#m",
+   "ts": 1792518928,
+   "id": "2112603621917663592#m"
   },
   {
    "handle": "elonmusk",
@@ -986,15 +994,6 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2111515483484626980#m",
    "ts": 1792259495,
    "id": "2111515483484626980#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "not to get too sentimental, but i am truly humbled and grateful that so many of you have decided to follow me. i've said it before, i truly owe my professional career and all the opportunities that have come my way by just posting on @X thanks @mvanhorn for the nostalgia trip! Matt Van Horn (@mvanhorn) TL;DR of my new article: who Lauren Tan ( @poteto ) really is, and how the engineer behind Grok Bot went from 31K to 198K followers in ten weeks. She has been at Cursor for less than seven months, not even long enough to hit a typical one-year vesting cliff. In that time @elonmusk has reposted, quoted, or replied to her at least 21 times. 🇸🇬 A teenager in Singapore whose dad gave her Photoshop at 15, then a finance degree where her first program was an Excel macro 🎤 Her tweets got her invited to speak at EmberConf, and her talks got her DockYard, Netflix, and the React team ⚛️ Sole author of the React Compiler Beta post, co-author of React Compiler 1.0 🐶 Binnie, her bug-fixing Slack bot, helped inspire Grok Bot because she is \"a fairly lazy person\" 🏗️ She rebuilt Grok @bot on Dune, her agent-first framework, in more than 600 PRs 🚀 Her 2,500 PRs talk has 3.9M views: \"You can't spawn 100 agents when you don't even trust the output of one agent.\" 🌌 Grok Bot Galaxy, a 72-hour livestream building a company with @grok and @bot , which Elon quoted to 30M views 🥔 pstack, where the P is for potato Caveat: she is the first to say she did not build Grok Bot alone. \"I wouldn't say I built ",
-   "url": "https://nitter.kareem.one/poteto/status/2111507917644222496#m",
-   "ts": 1792257692,
-   "id": "2111507917644222496#m"
   },
   {
    "handle": "thsottiaux",
