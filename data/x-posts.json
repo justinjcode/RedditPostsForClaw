@@ -1,6 +1,9 @@
 {
- "generated_at": "2026-10-21T20:08:55Z",
+ "generated_at": "2026-10-21T20:24:47Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -8,13 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "LAUNCHED: Anthropic is previewing Claude Duet, a new proactive agent app powered by Opus 5.5. Now in a U.S. waitlist preview for Pro and Max users. Video",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2112995463896945079#m",
+   "ts": 1792612350,
+   "id": "2112995463896945079#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -896,15 +904,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2112129335490429142#m",
    "ts": 1792405849,
    "id": "2112129335490429142#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in AI today: - Anthropic designs a pay package for the public - The Rundown Roundtable: Our AI use cases - Turn a content spreadsheet into a working app - Anthropic data shows junior employees losing ground",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2112129330578919472#m",
-   "ts": 1792405848,
-   "id": "2112129330578919472#m"
   },
   {
    "handle": "Lingling_Wei",
