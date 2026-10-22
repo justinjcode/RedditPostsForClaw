@@ -1,18 +1,17 @@
 {
- "generated_at": "2026-10-22T15:41:33Z",
+ "generated_at": "2026-10-22T15:54:48Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed",
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
   {
@@ -527,6 +526,15 @@
    "url": "https://nitter.kareem.one/cwolferesearch/status/2112915508148232571#m",
    "ts": 1792593287,
    "id": "2112915508148232571#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "去年捡到你 也没想到你会长成这样 Video",
+   "url": "https://nitter.kareem.one/mxllkm/status/2112915230691135830#m",
+   "ts": 1792593221,
+   "id": "2112915230691135830#m"
   },
   {
    "handle": "elonmusk",
@@ -1445,15 +1453,6 @@
    "url": "https://nitter.kareem.one/ChadMoran/status/2110442227604566348#m",
    "ts": 1792003611,
    "id": "2110442227604566348#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "My name is not the reason we're paying $5/gallon for gas. My name is not the reason you can't afford your groceries. My name is not the reason you can't afford your mortgage or rent. My name is not the reason you can't see a doctor. Their policies are the reason. Video",
-   "url": "https://nitter.kareem.one/AbdulElSayed/status/2110391962121720101#m",
-   "ts": 1791991627,
-   "id": "2110391962121720101#m"
   },
   {
    "handle": "ZichenWanghere",
