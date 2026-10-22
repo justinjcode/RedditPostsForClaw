@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-10-22T08:55:56Z",
+ "generated_at": "2026-10-22T09:10:44Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "How to share 𝕏.com links with friends and family? → Use the ''Share icon'' located at the bottom right of the post. Unfortunately, many people still believe everything they see on the news. Do your part in spreading the truth — forward 𝕏 posts. Video",
+   "url": "https://nitter.kareem.one/cb_doge/status/2113190860691214348#m",
+   "ts": 1792658937,
+   "id": "2113190860691214348#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -329,15 +338,6 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2112939021861073051#m",
    "ts": 1792598893,
    "id": "2112939021861073051#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I can tell you exactly what will happen if Democrats regain power: They will use your money to fly deported illegal aliens back to America and pay them settlements. They will re-open our borders and ship millions of foreign people to any community they want. And they won't stop until America becomes an unrecognizable country.",
-   "url": "https://nitter.kareem.one/realBrandonGill/status/2112928898254061895#m",
-   "ts": 1792596480,
-   "id": "2112928898254061895#m"
   },
   {
    "handle": "swyx",
