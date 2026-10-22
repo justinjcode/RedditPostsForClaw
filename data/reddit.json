@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-22T02:18:15Z",
+ "generated_at": "2026-10-22T04:13:32Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
-  "programming"
+  "programming",
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
   {
@@ -15,6 +15,13 @@
    "title": "Open source LLM appreciation post",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc5qac/open_source_llm_appreciation_post/",
    "ts": 1792633547,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Pipedash: one dashboard for every CI/CD pipeline",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xc57lm/pipedash_one_dashboard_for_every_cicd_pipeline/",
+   "ts": 1792632045,
    "source": "Reddit"
   },
   {
@@ -281,13 +288,6 @@
    "title": "Make yourself replaceable",
    "url": "https://www.reddit.com/r/programming/comments/1xb7t0x/make_yourself_replaceable/",
    "ts": 1792539736,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Top 10 AI agents for small local LLMs in 2026, tested on Qwen3.5-4B",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xb6hmh/top_10_ai_agents_for_small_local_llms_in_2026/",
-   "ts": 1792536122,
    "source": "Reddit"
   },
   {
