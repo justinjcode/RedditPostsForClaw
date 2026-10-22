@@ -1,15 +1,43 @@
 {
- "generated_at": "2026-10-22T00:29:36Z",
+ "generated_at": "2026-10-22T02:18:15Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
-  "selfhosted"
+  "MachineLearning",
+  "programming"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Open source LLM appreciation post",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc5qac/open_source_llm_appreciation_post/",
+   "ts": 1792633547,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "2-bit copy in VRAM + exact residual in system RAM as the verifier: speculative decoding for models that don't fit your GPU",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc55z3/2bit_copy_in_vram_exact_residual_in_system_ram_as/",
+   "ts": 1792631908,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "After using Flash next",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc4mn5/after_using_flash_next/",
+   "ts": 1792630347,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Kitten-TTS 2: New Open-source SOTA 1.58 bit TTS (CPU-only with voice cloning, multilingual, emotion control)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc48or/kittentts_2_new_opensource_sota_158_bit_tts/",
+   "ts": 1792629191,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Recursive Flint - the \"Qwen3.8 35B\" we've all been waiting for?",
@@ -32,13 +60,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Qwen researching Qwen",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbya5m/qwen_researching_qwen/",
-   "ts": 1792614073,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "go/ links that live in a file in your repo (open source)",
    "url": "https://www.reddit.com/r/programming/comments/1xbxzz2/go_links_that_live_in_a_file_in_your_repo_open/",
@@ -50,13 +71,6 @@
    "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
    "url": "https://www.reddit.com/r/programming/comments/1xbxrns/todays_php_security_release_and_how_were/",
    "ts": 1792612906,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "llama: create new fused op for QSA mask by am17an · Pull Request #30640 · ggml-org/llama.cpp",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbx12a/llama_create_new_fused_op_for_qsa_mask_by_am17an/",
-   "ts": 1792611244,
    "source": "Reddit"
   },
   {
@@ -148,13 +162,6 @@
    "title": "RecursiveSI/flint (40B A2.5B) · Hugging Face",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbqik0/recursivesiflint_40b_a25b_hugging_face/",
    "ts": 1792597080,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "inclusionAI/Ming-3.0-TTS-0.5B",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbq7ze/inclusionaiming30tts05b/",
-   "ts": 1792596428,
    "source": "Reddit"
   },
   {
@@ -260,13 +267,6 @@
    "title": "C vs C#: racing VLC's Gaussian blur",
    "url": "https://www.reddit.com/r/programming/comments/1xbbkuq/c_vs_c_racing_vlcs_gaussian_blur/",
    "ts": 1792550582,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xb9z8e/exclusive_bytedance_alibaba_tencent_place_over_35/",
-   "ts": 1792545871,
    "source": "Reddit"
   },
   {
