@@ -1,6 +1,8 @@
 {
- "generated_at": "2026-10-21T23:53:11Z",
+ "generated_at": "2026-10-22T00:20:18Z",
  "accounts_ok": [
+  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -9,9 +11,7 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 179,
  "items": [
@@ -28,7 +28,7 @@
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
-   "text": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
+   "text": "Fully included in the Pro plan, doesn't draw on your weekly usage. Community note: As of 22 October 2026, OpenAI’s dots are unavailable to ChatGPT Pro users in the EU. OpenAI excludes the European Economic Area (which includes all EU countries), the UK and Switzerland from Pro access. [Source: OpenAI documentation]( learn.chatgpt.com/docs/dots",
    "url": "https://nitter.kareem.one/thsottiaux/status/2113029854417600834#m",
    "ts": 1792620550,
    "id": "2113029854417600834#m"
@@ -140,6 +140,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2112992347890106650#m",
    "ts": 1792611607,
    "id": "2112992347890106650#m"
+  },
+  {
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
+   "text": "We’re opening a research preview of Claude Duet, a new app where Claude works as a proactive agent. It comes to you with what needs your attention, completes tasks you ask of it, keeps working when you step away, and checks with you before it acts on your behalf. Video",
+   "url": "https://nitter.kareem.one/claudeai/status/2112984664256241837#m",
+   "ts": 1792609775,
+   "id": "2112984664256241837#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -1616,15 +1625,6 @@
    "url": "https://nitter.kareem.one/bcherny/status/2108004023249088528#m",
    "ts": 1791422298,
    "id": "2108004023249088528#m"
-  },
-  {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
-   "text": "If you're on API billing, you can set Haiku 5.5's autocompact window to 100K so you stay in the cheaper token pricing tier! It's saved per model so this only applies to Haiku (incl. subagents) > /model haiku > /autocompact 100k ClaudeDevs (@ClaudeDevs) For prompts under 100K tokens, it's $0.10 / $0.50 per million tokens with cache reads at $0.01. Above 100K tokens, $0.50 / $2.50 per million, with cache reads at $0.05. — https://nitter.kareem.one/ClaudeDevs/status/2107895956872290654#m",
-   "url": "https://nitter.kareem.one/lydiahallie/status/2107898889508700209#m",
-   "ts": 1791397232,
-   "id": "2107898889508700209#m"
   }
  ]
 }
