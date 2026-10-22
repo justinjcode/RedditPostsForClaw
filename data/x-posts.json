@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-10-22T04:56:02Z",
+ "generated_at": "2026-10-22T05:09:39Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@simonw: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "get cooked @DevinAI Devin (@DevinAI) Most of these people spend too much time talking to me to be here on X. Luckily, I can do both! — https://nitter.kareem.one/DevinAI/status/2112594828575850964#m",
+   "url": "https://nitter.kareem.one/swyx/status/2113132130465395084#m",
+   "ts": 1792644934,
+   "id": "2113132130465395084#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -46,6 +55,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "Today I early voted in Texas. Straight Republican. Dems are not worth the risk to all the great builders and projects here. Can't stop, won't stop.",
+   "url": "https://nitter.kareem.one/SERobinsonJr/status/2113084517674254688#m",
+   "ts": 1792633582,
+   "id": "2113084517674254688#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "Talarico hates Texas America (@america) Democrat Nominee for U.S. Senate in Texas James Talarico calls for “a pathway for citizenship” for illegal aliens. 10 million illegal aliens came into the country in just 4 years under Biden alone. Video — https://nitter.kareem.one/america/status/2113048990308565206#m",
    "url": "https://nitter.kareem.one/elonmusk/status/2113081289570127971#m",
    "ts": 1792632813,
@@ -59,6 +77,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2113078348075209056#m",
    "ts": 1792632111,
    "id": "2113078348075209056#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "James Talarico supported the Biden Border Crisis, attacked law enforcement during the BLM riots, and wants to end run oil and gas in Texas. He is not moderate in the least. His vote for six years in the Senate would be a disaster for Texas and the USA. Video",
+   "url": "https://nitter.kareem.one/chiproytx/status/2113045479197950325#m",
+   "ts": 1792624275,
+   "id": "2113045479197950325#m"
   },
   {
    "handle": "elonmusk",
@@ -95,6 +122,15 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2113029655095836957#m",
    "ts": 1792620502,
    "id": "2113029655095836957#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Elon Musk on Optimus V3: \"We may be ready to release a video in about a month or two. I want to release a video where Optimus is doing things that aren't pre-programmed. A demo that you can believe. Another milestone we want to get to is integrating the AI5 chip in Optimus, which will be in April 2027.\"",
+   "url": "https://nitter.kareem.one/SawyerMerritt/status/2113026384977433003#m",
+   "ts": 1792619722,
+   "id": "2113026384977433003#m"
   },
   {
    "handle": "elonmusk",
@@ -223,24 +259,6 @@
    "id": "2112967157487206794#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok @Bot can help protect and fix your credit rating. Just ask it to do so! Brian Roemmele (@BrianRoemmele) I had a friend run this Grok Bot I built for them a few weeks ago and guess what? 7 entires from a scammer that took over his credit. $65,000+ of defaulted credit! Grok Bot is fixing this. Get it: x.ai/bot/vY1eft-dZTKssiaUQvJ… you will not be disappointed! — https://nitter.kareem.one/BrianRoemmele/status/2112963173666185655#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2112966832969708020#m",
-   "ts": 1792605524,
-   "id": "2112966832969708020#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Send your friends links to 𝕏 so that they know what’s really going on DogeDesigner (@cb_doge) People's trust in legacy media has eroded over decades, and 𝕏 keeps hitting new all-time usage highs and is the #1 news app in 150+ countries. If your friends still rely on TV news, send them 𝕏 links. Sharing the truth is an act of kindness. — https://nitter.kareem.one/cb_doge/status/2112954680506732573#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2112966587149881376#m",
-   "ts": 1792605466,
-   "id": "2112966587149881376#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -365,15 +383,6 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2112897150309073134#m",
    "ts": 1792588911,
    "id": "2112897150309073134#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon Musk: Neuralink's Blindsight vision implant is coming soon \"Even if somebody's completely blind, we can write directly to the visual cortex\" The first version will offer low-resolution vision, but the long-term goal goes much further: \"You would have very high resolution and be able to see multispectral wavelengths. You could see in infrared, ultraviolet, radar. It's like a superpower situation\" Video",
-   "url": "https://nitter.kareem.one/XFreeze/status/2112859032944087284#m",
-   "ts": 1792579823,
-   "id": "2112859032944087284#m"
   },
   {
    "handle": "TheRundownAI",
@@ -653,15 +662,6 @@
    "url": "https://nitter.kareem.one/latentspacepod/status/2112588380416647205#m",
    "ts": 1792515294,
    "id": "2112588380416647205#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "deepseek posted way more alpha on their zhihu page, if you only read twitter you are reading the laowai approved stuff \"Based on this framework, we have implemented a high-throughput, low-latency large-scale inference service for DeepSeek V4.1 Flash. Currently, the service throughput of a single cluster is 155 trillion tokens/day, and the overall revenue is $38 per card per hour (based on off-peak prices).\" it costs roughtly $5-10 per gpu hour so depseek is claiming 80% serving margin at THEIR prices lololololol DeepSeek (@deepseek_ai) 🚀 Introducing DeepInfer, our in-house inference framework, now fully open source! Powering DeepSeek-V4.1-Flash at scale with high throughput and low latency. We’re sharing our production stack to help the community lower compute costs, reduce energy use, and make AI more affordable. 🔗 github.com/deepseek-ai/DeepI… 1/4 Link GitHub - deepseek-ai/DeepInfer: DeepInfer: High-performance, large-scale inference framework for... DeepInfer: High-performance, large-scale inference framework for DeepSeek models - deepseek-ai/DeepInfer github.com — https://nitter.kareem.one/deepseek_ai/status/2112476496283775135#m",
-   "url": "https://nitter.kareem.one/swyx/status/2112587397380943953#m",
-   "ts": 1792515060,
-   "id": "2112587397380943953#m"
   },
   {
    "handle": "TheRundownAI",
