@@ -1,20 +1,69 @@
 {
- "generated_at": "2026-10-22T16:15:14Z",
+ "generated_at": "2026-10-22T18:14:35Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
-  "programming"
+  "programming",
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
   {
+   "subreddit": "programming",
+   "title": "Coding Magic the Gathering in C# - PART TWO - The Impossible Magic Card",
+   "url": "https://www.reddit.com/r/programming/comments/1xcp40x/coding_magic_the_gathering_in_c_part_two_the/",
+   "ts": 1792690393,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Anyone else moving their services exposed to internet in?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xcol4j/anyone_else_moving_their_services_exposed_to/",
+   "ts": 1792689242,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "LocalLLaMA",
-   "title": "When will we have another breakthrough for faster local dense models?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xclt9s/when_will_we_have_another_breakthrough_for_faster/",
-   "ts": 1792683134,
+   "title": "DeepSeek and MiniMax Clear China’s AI Export Rules for Overseas Open-Source Releases",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcoelw/deepseek_and_minimax_clear_chinas_ai_export_rules/",
+   "ts": 1792688851,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Docker Container php2shell audit script",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xco3g9/docker_container_php2shell_audit_script/",
+   "ts": 1792688177,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Ling-3.0-tiny-UBTree DFlash draft for stock mainline llama.cpp (+8% prose, +61% code speedup)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcnsrj/ling30tinyubtree_dflash_draft_for_stock_mainline/",
+   "ts": 1792687530,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Live Tv cable-like channel surfing",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xcn3oa/live_tv_cablelike_channel_surfing/",
+   "ts": 1792685996,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Is 128GB RAM worth it?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcmkyh/is_128gb_ram_worth_it/",
+   "ts": 1792684855,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Q4 flash next for £300/600 👀 - snapdragon mini PC results update - 315/43 Tok/s A3b, 46/20 Tok/s Flash Next (read/gen) 💥",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcmioz/q4_flash_next_for_300600_snapdragon_mini_pc/",
+   "ts": 1792684728,
    "source": "Reddit"
   },
   {
@@ -32,10 +81,31 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Ran a 0.9B transcribe + diarize model on a 17.5 minute, 4 person AMI meeting on a MacBook: all 4 speakers found, 0.08% speaker confusion, done in 12 minutes",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcl0rt/ran_a_09b_transcribe_diarize_model_on_a_175/",
-   "ts": 1792681389,
+   "subreddit": "selfhosted",
+   "title": "Advice/Troubleshooting Remote Photography Repository",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xckt0h/advicetroubleshooting_remote_photography/",
+   "ts": 1792680913,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Bird-recognizing frame for your homelab (BirdNET-Go + Docker, on e-ink or any screen)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xckrv1/birdrecognizing_frame_for_your_homelab_birdnetgo/",
+   "ts": 1792680837,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "GyroidVault v2.3.0 Released: Self-hosted 3D model manager now has customizable themes, OIDC SSO, NAS drive spin-down support & Creality Print integration",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xcknfs/gyroidvault_v230_released_selfhosted_3d_model/",
+   "ts": 1792680553,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Pangolin 1.25: Redirects, mTLS, and Machine Roles",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xckgit/pangolin_125_redirects_mtls_and_machine_roles/",
+   "ts": 1792680109,
    "source": "Reddit"
   },
   {
@@ -43,6 +113,13 @@
    "title": "Repair shop receives eight GeForce RTX 5090 and RTX 4090 cards with melted 16-pin connectors in two days",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xckdep/repair_shop_receives_eight_geforce_rtx_5090_and/",
    "ts": 1792679911,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Reminder: Speedtest Tracker runs on PHP.",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xck0xb/reminder_speedtest_tracker_runs_on_php/",
+   "ts": 1792679099,
    "source": "Reddit"
   },
   {
@@ -60,31 +137,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Caddyfile help re: reverse proxy simplification",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xciyhc/caddyfile_help_re_reverse_proxy_simplification/",
-   "ts": 1792676605,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "capy-flash v0.7.1: Qwen3.8-Flash-Next (125B MoE) now runs in 64 GB of RAM (234 tok/s on two 16 GB cards), and Qwen3.8-27B 3-bit fits on a single 16 GB card (174 tok/s)",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xciqnj/capyflash_v071_qwen38flashnext_125b_moe_now_runs/",
    "ts": 1792676084,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "How to best store photos for easy review?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xchrk9/how_to_best_store_photos_for_easy_review/",
-   "ts": 1792673654,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Android FreshRSS client with an offline archive and search (fork of ReadYou)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xchgmx/android_freshrss_client_with_an_offline_archive/",
-   "ts": 1792672810,
    "source": "Reddit"
   },
   {
@@ -152,13 +208,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Looking for alternatives to expensive industrial ERP systems (ISO 13485 / 21 CFR Part 11, self-hosted)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xcdwsz/looking_for_alternatives_to_expensive_industrial/",
-   "ts": 1792661407,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "Building a 10GbE budget NAS on top of a $34 EliteDesk G3 I got from ebay",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xcdk5o/building_a_10gbe_budget_nas_on_top_of_a_34/",
    "ts": 1792660099,
@@ -186,10 +235,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Open source LLM appreciation post",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc5qac/open_source_llm_appreciation_post/",
-   "ts": 1792633547,
+   "subreddit": "selfhosted",
+   "title": "You'll Never need a Public Torrent indexer again - Armiger, a Neural Classifier with near perfect category mapping & matching, junk / malware detection, and seed detection.",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xc4ntn/youll_never_need_a_public_torrent_indexer_again/",
+   "ts": 1792630446,
    "source": "Reddit"
   },
   {
@@ -197,20 +246,6 @@
    "title": "Kitten-TTS 2: New Open-source SOTA 1.58 bit TTS (CPU-only with voice cloning, multilingual, emotion control)",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc48or/kittentts_2_new_opensource_sota_158_bit_tts/",
    "ts": 1792629191,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Recursive Flint - the \"Qwen3.8 35B\" we've all been waiting for?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc23iq/recursive_flint_the_qwen38_35b_weve_all_been/",
-   "ts": 1792623343,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "What to do about recent vulnerabilities",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xbztqr/what_to_do_about_recent_vulnerabilities/",
-   "ts": 1792617649,
    "source": "Reddit"
   },
   {
@@ -229,13 +264,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Loving Beszel",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xbvojb/loving_beszel/",
-   "ts": 1792608292,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "Heads up if you self-host LiteLLM: the 1.107.0 Docker image (and the latest/main-latest/main-stable tags) shipped a credential stealer",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xbu3qr/heads_up_if_you_selfhost_litellm_the_11070_docker/",
    "ts": 1792604878,
@@ -246,13 +274,6 @@
    "title": "Noun-verb-conjunction triads [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xbtzv9/nounverbconjunction_triads_d/",
    "ts": 1792604648,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Did linuxserver.io get hacked? Normal homepage isn't showing up.",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xbpkz1/did_linuxserverio_get_hacked_normal_homepage_isnt/",
-   "ts": 1792594971,
    "source": "Reddit"
   },
   {
@@ -270,13 +291,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "PHP2Shell in self-hosted apps?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xbjwmd/php2shell_in_selfhosted_apps/",
-   "ts": 1792579877,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Few-read fault localization in simulated analog crossbars: a sparse-recovery decoder vs reading every cell (with the claims that failed) [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xbj6nj/fewread_fault_localization_in_simulated_analog/",
@@ -288,13 +302,6 @@
    "title": "Critical Vulnerabilities in PHP",
    "url": "https://www.reddit.com/r/programming/comments/1xbcv7y/critical_vulnerabilities_in_php/",
    "ts": 1792554534,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "PHP warns it plans to release 2 emergency patches imminently. Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xbcbty/php_warns_it_plans_to_release_2_emergency_patches/",
-   "ts": 1792552836,
    "source": "Reddit"
   },
   {
@@ -330,13 +337,6 @@
    "title": "When eight systems share a benchmark top score, what should the table show?[D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xayxs1/when_eight_systems_share_a_benchmark_top_score/",
    "ts": 1792518435,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
-   "url": "https://www.reddit.com/r/programming/comments/1xarfxg/go_issues_emergency_update_blocking_eight_ca_keys/",
-   "ts": 1792501080,
    "source": "Reddit"
   },
   {
