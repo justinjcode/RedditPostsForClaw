@@ -1,9 +1,7 @@
 {
- "generated_at": "2026-10-22T08:40:47Z",
+ "generated_at": "2026-10-22T08:55:56Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +9,30 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "True Captain Eli (@TheCaptainEli) In September 2014, Elon stood under a tent on an almost empty beach at the very tip of South Texas, waves crashing just over the dunes, and broke ground on a launch site. In May 2025, he stood in front of a crowd at that same corner of Texas and said it plainly: \"not that long ago, there was basically nothing here.\" Now it's a city. Literally. On May 3, 2025, Starbase voted to incorporate, 212 to 6. In Elon's words, \"the first new city made in America in I think quite a few decades.\" I love the \"I think.\" Even his victory laps come with error bars. What gets me is how it got there. One of the first things to fly was Starhopper, a stubby steel tank on legs that he calls \"the original sort of Mad Max rocket.\" In August 2019 it hopped 150 meters. Then came prototypes that flew, flipped and sometimes exploded in full public view, right next to a public highway. That's his pattern. Pick the thing everyone says is impossible, build it in the open, break it, learn, build the next one, and keep going until the laughing stops. \"In the space of about five or six years... we've built a small city... and a gigantic rocket factory for a gigantic rocket.\" Then in October 2024 the rocket came home and the launch tower caught it. His reaction: \"it's really mind-blowing that the SpaceX team has been able to catch the largest flying object ever made multiple times.\" My favorite detail? You can just go and look. Anyone interested in seeing the largest flying ob",
+   "url": "https://nitter.kareem.one/elonmusk/status/2113188655225618459#m",
+   "ts": 1792658411,
+   "id": "2113188655225618459#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Something deeply wrong with Talarico Lone Star Liberty PAC (@LoneStar_PAC) James talarico headlined a Pride event alongside an 11-year-old child drag queen named \"Kween Kee Kee.\" One attendee posted video of the young boy doing the splits. Another performance was by an adult man who goes by the raunchy name \"Sedonya Face.\" The event touted more than 30 kids in attendance. #TXsen — https://nitter.kareem.one/LoneStar_PAC/status/2113036859328573853#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2113188454788174293#m",
+   "ts": 1792658363,
+   "id": "2113188454788174293#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -108,15 +127,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Counting bumblebees one-by-one 😂 Christopher Rufo (@christopherrufo) California hasn't built its bullet train because the state has required 130,000 pages of environmental reports, making absurd demands like: • counting bumblebees one by one • rebuilding woodrat stick huts • hiring specialized dogs to sniff lizard scat — https://nitter.kareem.one/christopherrufo/status/2112982970869170553#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2113040898644967726#m",
-   "ts": 1792623183,
-   "id": "2113040898644967726#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Elon Musk hilariously explains why Optimus has to learn like a toddler, by playing, making mistakes and getting better over time 😂 “In order for Optimus to get the training data we need, we actually need to make a lot of Optimi. So we need to make, I think, on the order of 10,000 or 20,000 bots and then have them do self-play. We're building up an Optimus academy where Optimus can practice doing a very wide range of tasks And then we can use that data in a flywheel to make it better and better at these various tasks, a big difference with Optimus versus the cars Is we don't have this vast fleet of cars from which we can gather training data. So with Optimus, we have to bootstrap it by making the robots and having them do self-play, which is really how a human learns to navigate the world You can see this when you have a toddler and they grow up and they initially are wobbly and they don't know how to do things, and eventually they, they learn to wipe their own ass, which is a big milestone, because anyone who's had kids knows And then they learn to read and do all sorts of things and be able to do these things. And they learn this by playing And we actually need Optimus to play at scale in order to have it be really good at tasks in the real world” Video",
    "url": "https://nitter.kareem.one/XFreeze/status/2113040815954301204#m",
    "ts": 1792623163,
@@ -168,15 +178,6 @@
    "id": "2113003628835553559#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "If you are an ambitious young person I still believe joining @SpaceX is one of the best career decisions you can make The world is pivoting from bits to atoms and there is no better training ground for atoms than SpaceX It may feel late but it's early Also the mission! 🚀🌕",
-   "url": "https://nitter.kareem.one/shaunmmaguire/status/2112998791125328306#m",
-   "ts": 1792613144,
-   "id": "2112998791125328306#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -202,6 +203,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2112992347890106650#m",
    "ts": 1792611607,
    "id": "2112992347890106650#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Elon Musk just called James Talarico a creep and told Texans to vote Ken Paxton. His words: Talarico would vote to take away your kids and transition them, not just in Texas, but nationwide. Talarico has said God is non binary. Early voting is open RIGHT NOW in Texas. Do not sit this one out. Vote Ken Paxton. Keep Texas red.",
+   "url": "https://nitter.kareem.one/GuntherEagleman/status/2112992315812016436#m",
+   "ts": 1792611600,
+   "id": "2112992315812016436#m"
   },
   {
    "handle": "bcherny",
@@ -247,15 +257,6 @@
    "url": "https://nitter.kareem.one/ApoStructura/status/2112956535412248876#m",
    "ts": 1792603069,
    "id": "2112956535412248876#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Watch this clip carefully. The script is always the same: Elon is \"dumb,\" Elon is \"lucky,\" and Bill Gates is the good billionaire because he gives his money away. Let's talk about that. Bill Gates didn't give his fortune away. He converted it into control. Over $100B spent since 2000, another $200B by 2045. Where does it go? Into Gavi, the Global Fund, the WHO, health ministries, policy shops, media partnerships. Into the state, and into the institutions that orbit the state. Gates found the ultimate hack: you don't need to win elections when you finance the people who write the agenda. One private man at the center of global health policy, accountable to no voter, ever. And what does all that money produce? Maintenance. Gates is a man maintaining a photograph. The world as it is, framed, preserved, retouched a little every year. Some of it saves lives, and that's good. But not one new industry. Not one order-of-magnitude drop in the cost of anything. No growth. The same world, administered more politely. That's what this kind of philanthropy buys: the perfection of goodness, not the reality of goodness. The galas, the annual letters, the glowing coverage, the moral immunity. Goodness as a brand. Now look at the other model. SpaceX cut the cost of reaching orbit by more than 10x. Starlink brought internet to places no government ever bothered to wire, and kept Ukraine online when the war hit. Tesla forced the entire auto industry to go electric when every incumbent said it co",
-   "url": "https://nitter.kareem.one/brivael/status/2112949456316330076#m",
-   "ts": 1792601381,
-   "id": "2112949456316330076#m"
   },
   {
    "handle": "simonw",
