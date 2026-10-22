@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T22:36:14Z",
+ "generated_at": "2026-10-22T22:45:06Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -7,12 +7,11 @@
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@simonw: all instances failed",
-  "@swyx: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
   {
@@ -23,6 +22,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2113392393953104076#m",
    "ts": 1792706986,
    "id": "2113392393953104076#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "GPU contracts tend to come in rectangles: a fixed number of chips for a fixed number of years. AI workloads don’t. They spike, shrink, and grow. @bernhardsson returns to explain how @modal turns those long-term commitments into elastic compute—and the tradeoffs that come with it. Modal’s sandbox product almost got shut down. Erik says it now accounts for roughly a third of revenue. We also get into GPU price risk, model startup time, and why code review is optional at Modal. 0:00 What Modal does 1:25 Spotify to Modal 10:00 Inference and autoscaling 13:21 Where Modal gets GPUs 19:45 What happens if GPU prices fall? 31:55 Functions and sandboxes 41:21 The agent sandbox boom 52:51 Developer experience for agents 57:45 Forward-deployed engineers 1:03:29 Optional code review 1:18:31 Why GPU contracts are rectangles 1:21:20 Inference providers vs. model builders Watch on YouTube: inv.kareem.one/IiZ9yd2Do8I Podcast & show notes: latent.space/p/modal-d Video",
+   "url": "https://nitter.kareem.one/latentspacepod/status/2113390283853594857#m",
+   "ts": 1792706483,
+   "id": "2113390283853594857#m"
   },
   {
    "handle": "swyx",
@@ -941,15 +949,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2112592264686149749#m",
    "ts": 1792516220,
    "id": "2112592264686149749#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Article DeepSeek V4.1 Flash Large-Scale Inference Deployment Practice this is a translation of https://zhuanlan.zhihu.com/p/2095560295930508953 for our own use/ twitter audiences to read The capability boundaries of a large model are defined by the model itself, and the core problem that",
-   "url": "https://nitter.kareem.one/latentspacepod/status/2112588380416647205#m",
-   "ts": 1792515294,
-   "id": "2112588380416647205#m"
   },
   {
    "handle": "TheRundownAI",
