@@ -1,15 +1,64 @@
 {
- "generated_at": "2026-10-22T18:14:35Z",
+ "generated_at": "2026-10-22T22:11:36Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
+  "MachineLearning",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "examining the macOS gcc binary",
+   "url": "https://www.reddit.com/r/programming/comments/1xcwe3o/examining_the_macos_gcc_binary/",
+   "ts": 1792706993,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "New Project Megathread - Week of 22 Oct 2026",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xcw6eb/new_project_megathread_week_of_22_oct_2026/",
+   "ts": 1792706468,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "We shrank our steerable small TTS to 11.84 MB. WER is unchanged, UTMOS drops ~0.1 [p]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xcum4s/we_shrank_our_steerable_small_tts_to_1184_mb_wer/",
+   "ts": 1792702662,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "I built an open-source workspace that puts boards, docs, whiteboards and Gantt plans in one place",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xctpuj/i_built_an_opensource_workspace_that_puts_boards/",
+   "ts": 1792700572,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Ordo — AGPL job scheduler, Docker, no account required",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xcsoqd/ordo_agpl_job_scheduler_docker_no_account_required/",
+   "ts": 1792698298,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Smart Drink Fridge: a self-hosted drink inventory with barcode scanning and Home Assistant shopping lists",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xcr8pw/smart_drink_fridge_a_selfhosted_drink_inventory/",
+   "ts": 1792695077,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "ICLR Text Editor [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xcq2an/iclr_text_editor_d/",
+   "ts": 1792692464,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "Coding Magic the Gathering in C# - PART TWO - The Impossible Magic Card",
@@ -43,13 +92,6 @@
    "title": "Ling-3.0-tiny-UBTree DFlash draft for stock mainline llama.cpp (+8% prose, +61% code speedup)",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcnsrj/ling30tinyubtree_dflash_draft_for_stock_mainline/",
    "ts": 1792687530,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Live Tv cable-like channel surfing",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xcn3oa/live_tv_cablelike_channel_surfing/",
-   "ts": 1792685996,
    "source": "Reddit"
   },
   {
@@ -92,13 +134,6 @@
    "title": "Bird-recognizing frame for your homelab (BirdNET-Go + Docker, on e-ink or any screen)",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xckrv1/birdrecognizing_frame_for_your_homelab_birdnetgo/",
    "ts": 1792680837,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "GyroidVault v2.3.0 Released: Self-hosted 3D model manager now has customizable themes, OIDC SSO, NAS drive spin-down support & Creality Print integration",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xcknfs/gyroidvault_v230_released_selfhosted_3d_model/",
-   "ts": 1792680553,
    "source": "Reddit"
   },
   {
@@ -183,13 +218,6 @@
    "title": "Llama.cpp PR: How to beat strata decode performance with a R9700",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcf8kb/llamacpp_pr_how_to_beat_strata_decode_performance/",
    "ts": 1792666095,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Would you trust an app that only open-sources what runs on your server?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xcewem/would_you_trust_an_app_that_only_opensources_what/",
-   "ts": 1792664954,
    "source": "Reddit"
   },
   {
@@ -347,13 +375,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "SSH keys on macOS with Touch ID",
-   "url": "https://www.reddit.com/r/programming/comments/1xaqyzu/ssh_keys_on_macos_with_touch_id/",
-   "ts": 1792499752,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Best way to accurately annotate 500 images for fine-tuning Meta DETR?[P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xao1wy/best_way_to_accurately_annotate_500_images_for/",
@@ -386,27 +407,6 @@
    "title": "[Bi-Weekly Megathread] Project Showcase",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yg86/biweekly_megathread_project_showcase/",
    "ts": 1792420251,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Conference papers are cooked! [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1x9fyhd/conference_papers_are_cooked_d/",
-   "ts": 1792361535,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Beating Warcraft III’s insane AI with self-play reinforcement learning on one desktop [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1x9c5ty/beating_warcraft_iiis_insane_ai_with_selfplay/",
-   "ts": 1792352076,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "New Project Megathread - Week of 15 Oct 2026",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1x6ywou/new_project_megathread_week_of_15_oct_2026/",
-   "ts": 1792101662,
    "source": "Reddit"
   },
   {
