@@ -1,20 +1,28 @@
 {
- "generated_at": "2026-10-22T18:59:19Z",
+ "generated_at": "2026-10-22T19:16:10Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@simonw: all instances failed",
-  "@swyx: all instances failed",
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "AI was on both sides of this week’s cybersecurity chaos: - OpenAI’s models helped find two bugs in PHP, the code behind much of the web, back in August. They stayed secret until PHP shipped a fix Wednesday - Within 45 minutes of the announcement, Cloudflare counted tens of thousands of break-in attempts. The UK, the Netherlands, Finland and others pulled government sites offline, and the U.S. National Security Agency told anyone who couldn’t patch to do the same - India’s eMudhra, which issues the certificates that vouch websites are real, is quitting that business after its secret keys proved guessable. One was simply the number 4, and a researcher says Claude cracked them with one prompt - A China-aligned group turned ARTEX, a free AI tool built for security testing, on 2,250+ organizations’ Microsoft 365 accounts, according to Microsoft. In a few cases it reached admin access in under 3 hours - Attackers using AI agents spent 48 hours attacking coding startup OpenCode. Its own AI models refused to help fight back, blocked by their safety filters, until it switched to OpenAI’s Daybreak - Developer platform Railway told users to swap their API and cloud keys after a breach it says was part of a campaign aimed at companies that run AI models - Big U.S. banks are finding AI agents they never approved inside customer accounts, per Axios - Security firm Straiker says a Mexico-linked gang pointed Claude and Grok agents at 400+ banks and payment firms across Latin America",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2113344155300553132#m",
+   "ts": 1792695485,
+   "id": "2113344155300553132#m"
+  },
   {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
@@ -41,6 +49,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2113333198134354083#m",
    "ts": 1792692872,
    "id": "2113333198134354083#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "NEW: Trump called Musk and asked him to lift restrictions on a military-grade version of Starlink in Ukraine that the SpaceX chief had throttled, U.S. officials said. The system was working more normally Thursday, shortly after their conversation, per Us and Ukrainian officials",
+   "url": "https://nitter.kareem.one/alexbward/status/2113329634448421148#m",
+   "ts": 1792692023,
+   "id": "2113329634448421148#m"
   },
   {
    "handle": "elonmusk",
@@ -1033,15 +1050,6 @@
    "id": "2112432076767289678#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Can you make medicine for a virus no one’s seen yet? Red Queen Bio is using AI to develop antibody drugs that could help stop future pandemics, including threats that AI itself might help create: Video",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2112306475523522933#m",
-   "ts": 1792448083,
-   "id": "2112306475523522933#m"
-  },
-  {
    "handle": "bcherny",
    "name": "Boris Cherny",
    "author": "@bcherny",
@@ -1202,15 +1210,6 @@
    "url": "https://nitter.kareem.one/FoxNews/status/2111988409132625956#m",
    "ts": 1792372250,
    "id": "2111988409132625956#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "Russian President Vladimir Putin has proposed that he, President Trump and Chinese leader Xi Jinping meet next month to attempt to negotiate an end to the war in Ukraine that would favor Moscow, said people familiar with the discussions. on.wsj.com/4BeZLqz Link Exclusive | Putin Floats a Summit With Trump and Xi to Discuss Ukraine Deal Ukraine’s Zelensky would not be included in the proposed talks, as Russia’s leader seeks to negotiate an end to the conflict that favors Moscow. wsj.com",
-   "url": "https://nitter.kareem.one/WSJ/status/2111967444021469419#m",
-   "ts": 1792367251,
-   "id": "2111967444021469419#m"
   },
   {
    "handle": "thsottiaux",
