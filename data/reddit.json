@@ -1,15 +1,36 @@
 {
- "generated_at": "2026-10-22T06:20:12Z",
+ "generated_at": "2026-10-22T08:16:26Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "TornadoVM 7 Enables GPU-Native Workloads From Java Applications",
+   "url": "https://www.reddit.com/r/programming/comments/1xcc8i8/tornadovm_7_enables_gpunative_workloads_from_java/",
+   "ts": 1792654946,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Debunking \"Faster than Rust\": Malicious Benchmarks in Tov",
+   "url": "https://www.reddit.com/r/programming/comments/1xcaveo/debunking_faster_than_rust_malicious_benchmarks/",
+   "ts": 1792649848,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Cybersecurity agency calls for immediate PHP updates over critical security flaws",
+   "url": "https://www.reddit.com/r/programming/comments/1xcaeod/cybersecurity_agency_calls_for_immediate_php/",
+   "ts": 1792648243,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Huawei Atlas AI Accelerator Latest Comparison Overview",
@@ -144,13 +165,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "JPA vs Hibernate vs JDBC: What Each One Actually Does | Visually Explained",
-   "url": "https://www.reddit.com/r/programming/comments/1xbrs3g/jpa_vs_hibernate_vs_jdbc_what_each_one_actually/",
-   "ts": 1792599838,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "When will we see these changes? --> China Is Doubling RAM Production to Keep Everyday Gadget Prices from Skyrocketing",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbrh0s/when_will_we_see_these_changes_china_is_doubling/",
@@ -204,13 +218,6 @@
    "title": "PHP2Shell: Critical vulnerabilities in the backbone of the web",
    "url": "https://www.reddit.com/r/programming/comments/1xbo19y/php2shell_critical_vulnerabilities_in_the/",
    "ts": 1792591402,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Summary of Major Changes Between Python Versions (2026 Update)",
-   "url": "https://www.reddit.com/r/programming/comments/1xbm5hd/summary_of_major_changes_between_python_versions/",
-   "ts": 1792586665,
    "source": "Reddit"
   },
   {
@@ -309,13 +316,6 @@
    "title": "When eight systems share a benchmark top score, what should the table show?[D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xayxs1/when_eight_systems_share_a_benchmark_top_score/",
    "ts": 1792518435,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Why memory-hard proof-of-work hashes are not a popular choice for CAPTCHA",
-   "url": "https://www.reddit.com/r/programming/comments/1xauiqk/why_memoryhard_proofofwork_hashes_are_not_a/",
-   "ts": 1792508610,
    "source": "Reddit"
   },
   {
