@@ -1,15 +1,43 @@
 {
- "generated_at": "2026-10-21T22:12:22Z",
+ "generated_at": "2026-10-22T00:29:36Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
-  "programming"
+  "programming",
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Recursive Flint - the \"Qwen3.8 35B\" we've all been waiting for?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc23iq/recursive_flint_the_qwen38_35b_weve_all_been/",
+   "ts": 1792623343,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "What to do about recent vulnerabilities",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xbztqr/what_to_do_about_recent_vulnerabilities/",
+   "ts": 1792617649,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Task Link: Nextcloud and CalDAV tasks on your Garmin watch",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xbz692/task_link_nextcloud_and_caldav_tasks_on_your/",
+   "ts": 1792616160,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Qwen researching Qwen",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbya5m/qwen_researching_qwen/",
+   "ts": 1792614073,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "go/ links that live in a file in your repo (open source)",
@@ -22,13 +50,6 @@
    "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
    "url": "https://www.reddit.com/r/programming/comments/1xbxrns/todays_php_security_release_and_how_were/",
    "ts": 1792612906,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "If the bubble bursts we keep local AI forever",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbxmoo/if_the_bubble_bursts_we_keep_local_ai_forever/",
-   "ts": 1792612623,
    "source": "Reddit"
   },
   {
@@ -172,13 +193,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "I built a small on-device voice front-end for local assistants: type any wake word, keep only your voice before STT (5 models, 7.5 MB, Apache-2.0, early preview)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbmhct/i_built_a_small_ondevice_voice_frontend_for_local/",
-   "ts": 1792587581,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Summary of Major Changes Between Python Versions (2026 Update)",
    "url": "https://www.reddit.com/r/programming/comments/1xbm5hd/summary_of_major_changes_between_python_versions/",
@@ -201,13 +215,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Question about Oracle Minecraft hosting",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xbkx77/question_about_oracle_minecraft_hosting/",
-   "ts": 1792583151,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "PHP2Shell in self-hosted apps?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xbjwmd/php2shell_in_selfhosted_apps/",
    "ts": 1792579877,
@@ -225,13 +232,6 @@
    "title": "Be prepared, GPU price increase incoming --> Samsung sells out 100% of all 2027 HBM capacity - HBM prices expected to jump 200% next year, DRAM prices expected to see a double-digit price increase",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbfhxp/be_prepared_gpu_price_increase_incoming_samsung/",
    "ts": 1792563552,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Is Dynu Down",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xbf8ho/is_dynu_down/",
-   "ts": 1792562607,
    "source": "Reddit"
   },
   {
