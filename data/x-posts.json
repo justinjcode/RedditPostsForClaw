@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-10-22T05:51:38Z",
+ "generated_at": "2026-10-22T06:14:15Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,26 +10,19 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 179,
  "items": [
   {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "get cooked @DevinAI Devin (@DevinAI) Most of these people spend too much time talking to me to be here on X. Luckily, I can do both! — https://nitter.kareem.one/DevinAI/status/2112594828575850964#m",
-   "url": "https://nitter.kareem.one/swyx/status/2113132130465395084#m",
-   "ts": 1792644934,
-   "id": "2113132130465395084#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "guys you are making me look bad by @cognition stop RTing this tweet",
-   "url": "https://nitter.kareem.one/swyx/status/2113131062675267841#m",
-   "ts": 1792644680,
-   "id": "2113131062675267841#m"
+   "text": "ratioed @cognition lololololol never change twitter",
+   "url": "https://nitter.kareem.one/swyx/status/2113150715099234673#m",
+   "ts": 1792649365,
+   "id": "2113150715099234673#m"
   },
   {
    "handle": "swyx",
@@ -357,6 +349,15 @@
    "id": "2112928898254061895#m"
   },
   {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Everyone wants an agent that says \"done.\" Nobody wants to find out it wasn't. @zackproser and I did a full workshop at @aiDotEngineer NY on making agents prove it. Recording's up 👇",
+   "url": "https://nitter.kareem.one/nicknisi/status/2112925592974655548#m",
+   "ts": 1792595692,
+   "id": "2112925592974655548#m"
+  },
+  {
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
@@ -373,6 +374,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2112918214246044031#m",
    "ts": 1792593933,
    "id": "2112918214246044031#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "I just published my roadmap for building evals on highly subjective tasks. Here are the key steps involved and practical tricks for reducing noise / increasing confidence… Blog is here: cameronrwolfe.substack.com/p… Why is this difficult? Evaluating agents is already hard due to their broad scope, emphasis on expensive / long-horizon tasks, and non-determinism. Subjective tasks make this even harder because we cannot deterministically verify solutions and must rely on human judgments (or LLM judges). This introduces additional noise into an already difficult evaluation process. Evaluation roadmap. We can build reliable evaluations using a repeatable framework with three components: - Human evaluation: Our North Star for quality. Create quality guidelines that clearly define quality with the help of subject-matter experts, calibrate human evaluators to ensure agreement, and continually monitor evaluation quality. - Offline evaluation: Use calibrated LLM judges or task-specific rubrics as an efficient proxy for human evaluation. This allows us to scale experimentation without relying on expensive human evaluation for every new model. - Production monitoring: Track quality signals from real-world agent usage and use A/B testing to validate improvements before fully deploying a new agent. Multi-stage evaluation. These components form a tiered evaluation process: Offline evaluation → Human evaluation → Production A/B test → Full deployment We can test many ideas automatically, sen",
+   "url": "https://nitter.kareem.one/cwolferesearch/status/2112915508148232571#m",
+   "ts": 1792593287,
+   "id": "2112915508148232571#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -643,15 +653,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2112592264686149749#m",
    "ts": 1792516220,
    "id": "2112592264686149749#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Latent.Space (@latentspacepod) Article DeepSeek V4.1 Flash Large-Scale Inference Deployment Practice this is a translation of https://zhuanlan.zhihu.com/p/2095560295930508953 for our own use/ twitter audiences to read The capability boundaries of a large model are defined by the model itself, and the core problem that — https://nitter.kareem.one/latentspacepod/status/2112588380416647205#m",
-   "url": "https://nitter.kareem.one/swyx/status/2112588793010421837#m",
-   "ts": 1792515392,
-   "id": "2112588793010421837#m"
   },
   {
    "handle": "swyx",
