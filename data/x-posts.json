@@ -1,9 +1,7 @@
 {
- "generated_at": "2026-10-22T06:48:13Z",
+ "generated_at": "2026-10-22T07:07:50Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +9,30 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Lands tomorrow before 10am PST.",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2113162413008884099#m",
+   "ts": 1792652154,
+   "id": "2113162413008884099#m"
+  },
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Day 17/ Bet you thought we forgot, but no, it’s reset day today. Also good time to remind you to get Daybreak Blue access, it only takes 15 mins and you don’t want to have to do it in the middle of an incident.",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2113162277688070445#m",
+   "ts": 1792652122,
+   "id": "2113162277688070445#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -1210,24 +1229,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2111249810502353152#m",
    "ts": 1792196154,
    "id": "2111249810502353152#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "What is ChatGPT Space, that is the question. Endearingly awkward at times because it's the actual team working on it. What would you like to see next? Video",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2111249534072529256#m",
-   "ts": 1792196088,
-   "id": "2111249534072529256#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "And update your app to enjoy this gem Gavin Nelson (@Gavmn) Dots, now on your Home Screen — https://nitter.kareem.one/Gavmn/status/2111136119945396436#m",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2111245052513259606#m",
-   "ts": 1792195020,
-   "id": "2111245052513259606#m"
   },
   {
    "handle": "bcherny",
