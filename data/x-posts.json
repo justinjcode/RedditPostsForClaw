@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-10-22T04:41:31Z",
+ "generated_at": "2026-10-22T04:56:02Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
-  "@swyx: all instances failed",
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed",
   "@TheRundownAI: all instances failed"
  ],
@@ -19,10 +19,28 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
+   "text": "guys you are making me look bad by @cognition stop RTing this tweet",
+   "url": "https://nitter.kareem.one/swyx/status/2113131062675267841#m",
+   "ts": 1792644680,
+   "id": "2113131062675267841#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
    "text": "this is my quant Video Cognition (@cognition) 18 million miles traveled, 400 red hoodies, one 260-digit number, and 130+ former founders. We asked some of the people building Devin to tell us how they got here and what life at Cognition is really like. Here’s what they shared. — https://nitter.kareem.one/cognition/status/2112582786435428477#m",
    "url": "https://nitter.kareem.one/swyx/status/2113098033705664650#m",
    "ts": 1792636805,
    "id": "2113098033705664650#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "James Talarico: The least-Texan man in Texas Video",
+   "url": "https://nitter.kareem.one/BasedMikeLee/status/2113087245544722459#m",
+   "ts": 1792634233,
+   "id": "2113087245544722459#m"
   },
   {
    "handle": "elonmusk",
@@ -235,28 +253,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "“Sydney Sweeney” makes the case for Voter ID. Video Californians for Voter ID, Yes on 39 (@ca4voterid) Prop 39 released a new ad today highlighting what politicians don’t want you to know: California is one of a handful of states that don’t require a photo ID to vote. Prop 39 is a battle of politicians versus people. Politicians want you to vote no. The People are voting yes. This ad is a parody, but the problem is not. The politicians want to protect their power and money. We want to give it back to you. Vote Yes on Prop 39. Donate: efundraisingconnections.com/… Video — https://nitter.kareem.one/ca4voterid/status/2112921851974619629#m",
-   "url": "https://nitter.kareem.one/BasedMikeLee/status/2112958366733733918#m",
-   "ts": 1792603506,
-   "id": "2112958366733733918#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Watch this clip carefully. The script is always the same: Elon is \"dumb,\" Elon is \"lucky,\" and Bill Gates is the good billionaire because he gives his money away. Let's talk about that. Bill Gates didn't give his fortune away. He converted it into control. Over $100B spent since 2000, another $200B by 2045. Where does it go? Into Gavi, the Global Fund, the WHO, health ministries, policy shops, media partnerships. Into the state, and into the institutions that orbit the state. Gates found the ultimate hack: you don't need to win elections when you finance the people who write the agenda. One private man at the center of global health policy, accountable to no voter, ever. And what does all that money produce? Maintenance. Gates is a man maintaining a photograph. The world as it is, framed, preserved, retouched a little every year. Some of it saves lives, and that's good. But not one new industry. Not one order-of-magnitude drop in the cost of anything. No growth. The same world, administered more politely. That's what this kind of philanthropy buys: the perfection of goodness, not the reality of goodness. The galas, the annual letters, the glowing coverage, the moral immunity. Goodness as a brand. Now look at the other model. SpaceX cut the cost of reaching orbit by more than 10x. Starlink brought internet to places no government ever bothered to wire, and kept Ukraine online when the war hit. Tesla forced the entire auto industry to go electric when every incumbent said it co",
    "url": "https://nitter.kareem.one/brivael/status/2112949456316330076#m",
    "ts": 1792601381,
    "id": "2112949456316330076#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "If there's one thing I can tell you about @SpaceX , it's that there's never been a company like this... My thoughts on the earnings call with @SquawkCNBC . Video",
-   "url": "https://nitter.kareem.one/PeterDiamandis/status/2112944642677244160#m",
-   "ts": 1792600234,
-   "id": "2112944642677244160#m"
   },
   {
    "handle": "simonw",
@@ -601,6 +601,15 @@
    "id": "2112622164830769201#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Runway MCP is now in Grok Bot. Bring state-of-the-art generation into your chat and create anything you can imagine, without leaving Grok. Link Runway, now in Grok Bot. runway.com",
+   "url": "https://nitter.kareem.one/runwayml/status/2112619666732659181#m",
+   "ts": 1792522753,
+   "id": "2112619666732659181#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -662,15 +671,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2112565899945562596#m",
    "ts": 1792509934,
    "id": "2112565899945562596#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "underrated podcast. i dont understand the twitter algorithm, u guys are sleeping on some real bangers Mario Gabriele (@mariogabriele) Before investing in Anthropic, Jaan Tallinn asked Dario to line up alternative proposals from VCs. The reason: he wanted confidence that he was displacing VC money, not bringing Anthropic into existence. Tallinn, an AI safety advocate whose fund led Anthropic's first round, says the assumption that the company wouldn't exist without his investment is not true. Video — https://nitter.kareem.one/mariogabriele/status/2112299748325761171#m",
-   "url": "https://nitter.kareem.one/swyx/status/2112560809809498187#m",
-   "ts": 1792508721,
-   "id": "2112560809809498187#m"
   },
   {
    "handle": "TheRundownAI",
