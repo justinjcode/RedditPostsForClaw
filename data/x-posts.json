@@ -1,18 +1,17 @@
 {
- "generated_at": "2026-10-22T07:51:26Z",
+ "generated_at": "2026-10-22T08:12:03Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@simonw: all instances failed",
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
   {
@@ -50,6 +49,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2113098033705664650#m",
    "ts": 1792636805,
    "id": "2113098033705664650#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "“Noncitizens don’t vote,” they said. So how is it that 28% of noncitizens in California have voted? These things can’t both be true. Wall Street Apes (@WallStreetApes) EXTREMELY IMPORTANT 🚨 Federal Lawsuit against California shows that 28.8% of noncitizens in California HAVE A VOTING HISTORY California elections are not legitimate, noncitizens are voting at an extremely large scale - Los Angeles County elections officials took a sample batch of 200 ballots - The 200 ballots were taken from a sample of 20,000 that the Trump Admin says are noncitizens - Of the 200 ballots that were taken, 71.2% of the 200 have no voting history This means 28.8% of the noncitizens ballots DID have a voting history Nearly 30% of noncitizens are voting in California elections based on this sample. I’ll bet it’s much higher — https://nitter.kareem.one/WallStreetApes/status/2113057838927081708#m",
+   "url": "https://nitter.kareem.one/BasedMikeLee/status/2113093322172768706#m",
+   "ts": 1792635682,
+   "id": "2113093322172768706#m"
   },
   {
    "handle": "elonmusk",
@@ -118,7 +126,7 @@
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
-   "text": "Fully included in the Pro plan, doesn't draw on your weekly usage. Community note: As of 22 October 2026, OpenAI’s dots are unavailable to ChatGPT Pro users in the EU. OpenAI excludes the European Economic Area (which includes all EU countries), the UK and Switzerland from Pro access. [Source: OpenAI documentation]( learn.chatgpt.com/docs/dots",
+   "text": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
    "url": "https://nitter.kareem.one/thsottiaux/status/2113029854417600834#m",
    "ts": 1792620550,
    "id": "2113029854417600834#m"
@@ -158,42 +166,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2113012423892611493#m",
    "ts": 1792616394,
    "id": "2113012423892611493#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok @Bot is like hiring a super smart and fun employee! Grok Bot (@bot) Grok Bot can now build reports, memos, and dashboards. Ask Bot for a page, then edit it together or have Bot keep it up to date. Video — https://nitter.kareem.one/bot/status/2112992872857252082#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2113011511429902609#m",
-   "ts": 1792616176,
-   "id": "2113011511429902609#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "People are buying FSD with a car attached, not the other way around Sawyer Merritt (@SawyerMerritt) Tesla has just released its Q3 earnings results. Highlights: • EPS (non-GAAP): $0.48 (vs. $0.45 est) • Revenue: $28.05B (vs. $28.3B est) • Adjusted EBITDA: $3.90B • Active FSD Subscriptions: 1.74M, up 67% YoY from 1.04M • Net income (GAAP): $787M • Free cash flow: $1.53B • Capex: $4.73B • Cash & marketable securities: $45.45B, up 9% YoY — https://nitter.kareem.one/SawyerMerritt/status/2112998543065600047#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2113011056847278486#m",
-   "ts": 1792616068,
-   "id": "2113011056847278486#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Try Grok @Bot , you will love it! Robert Scoble (@Scobleizer) I've been GrokBot pilled. First of all, Grok knows me better than other bots, like Meta Muse, thanks to the 300,000 posts I've done here for 20 years. But now that GrokBot @bot can read lists, it opens up powerful new personalized news capabilities. I've done this for about a year over on alignednews.com -- but last month my X API bill alone was $6,000. For a couple of hundred a month you can do the same with lists, either you create, or ones other people have created. Last night I stuck in my \"best in AI\" list and had it write me this news page: docs.google.com/document/d/1… Every hour my bot reads that list and builds me a new news page. Now I've only put about 10 minutes of effort into this so far. So it's not the prettiest thing you ever have seen, but my bots are working on other ways to present them to me. And you can do the same for any topic you care about. You just need to build a list, or find one that's already built and there are millions of lists here on X on literally any topic. Put your favorite football team onto a list, along with all your favorite journalists or other fans. Then have Grok bot read them for you. And that's just the start. You can have it write you a script based on the news, then copy that into, say, @Gemini_Notebook and then you get a podcast, or a video. Based on what people are saying on your topic here on X. Thank you so much X for making lists far more powerful than they ever ",
-   "url": "https://nitter.kareem.one/elonmusk/status/2113010364178964616#m",
-   "ts": 1792615903,
-   "id": "2113010364178964616#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Great progress by the Tesla team! Tesla (@Tesla) Q3 Shareholder Update → ir.tesla.com Highlights – FSD Supervised attach rate grew to over 75% of new vehicle deliveries in NA – Unveiled the next-gen Roadster – Record deliveries in Canada, Australia, Japan & Taiwan – Tesla Semi now in volume production. Top variant can go up to 500 miles at a full 82,000 lbs while achieving efficiency of 1.7 kWh/mile – about a third of the energy a comparable diesel truck burns for the same load – Ended the quarter with the largest backlog for our passenger vehicles in 4 years! FSD Supervised – 4 new approvals since Q2 (Croatia, Slovenia, Czech Republic, Slovakia) – FSD is now live in nine EU countries & used by over 100,000 customers logging more than 160 million kilometers since initial approval Robotaxi – Deployed Cybercab into our Austin fleet – Hit nearly 2 million cumulative unsupervised miles, 8x growth in the quarter – Austin service now runs 6 am to midnight, with wait times continuing to come down as we add cars & improve the orchestration algorithms – Added Grok to Cybercab with Grok Bot & Connectors, letting you interface with your inbox, calendar, files, chats and tasks, all by voice. Transport, office & living room in one Robotics – Started production of @Tesla_Optimus on our high-volume lines in Fremont. These are the first production-quality bots we've built, proving that the current manufacturing process for Optimus is suitable for a commercial product SI Compute – On track fo",
-   "url": "https://nitter.kareem.one/elonmusk/status/2113009907012382829#m",
-   "ts": 1792615794,
-   "id": "2113009907012382829#m"
   },
   {
    "handle": "swyx",
@@ -275,6 +247,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2112961323550335062#m",
    "ts": 1792604211,
    "id": "2112961323550335062#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Thanks to SpaceX the US has now finally sent more total mass to orbit than Russia.",
+   "url": "https://nitter.kareem.one/ApoStructura/status/2112956535412248876#m",
+   "ts": 1792603069,
+   "id": "2112956535412248876#m"
   },
   {
    "handle": "elonmusk",
@@ -379,6 +360,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "Tesla just took the top two spots in Europe's entire car market September 2026: #1 Tesla Model Y: 40,971 #2 Tesla Model 3: 25,057 #3 Volkswagen Golf: 18,088 The two best-selling cars across every brand and every fuel type were Teslas Tesla recorded 66,035 registrations in total for the month, representing around 98% of the market",
+   "url": "https://nitter.kareem.one/XFreeze/status/2112924647075537340#m",
+   "ts": 1792595466,
+   "id": "2112924647075537340#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "I still can't code, but I accidentally built an AI filmmaking studio while making 3 songs (Unbelievable) 22 days ago posted my first SLOPCORE this is again ANY DAY NOW, but reimagined in 1959. Blues meets Atompunk. ☢️🎸 Every video is a new experiment I like playing with machines so much. Made this song for 💥 #sloptoberfest ( 50k in prizes!!!! ) 3 more songs coming in next days just to increase my chances in the contest and escaping from Berlin winter☀️🌴 My plan? South Africa. Ke Dezemba! Making slopcores in the beach! Let me know if this makes you dance like it did to me the first time I heard it. 😂🕺 I was jumping around my house! still can't believe you guys are watching this. Thank youu! BRB! Video javier fan (@javif4_) I can't code. I just talk to machines. Suno → Midjourney → 116 clips (Kling + Wan) Claude coded every word and graphic on the beat. I don't know what I'm doing, but this is my first song. ANY DAY NOW (The Robots Are Coming) ✈️🤖 Video — https://nitter.kareem.one/javif4_/status/2105040123179979221#m",
    "url": "https://nitter.kareem.one/javif4_/status/2112920767511847319#m",
    "ts": 1792594541,
@@ -410,6 +400,15 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2112897150309073134#m",
    "ts": 1792588911,
    "id": "2112897150309073134#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Tesla Model Y just became the best-selling car in Germany An American EV beat the Volkswagen Golf in its own home market. The Golf has been Germany's best-selling car every year since 1981 September registrations: Tesla Model Y: 8,038 Volkswagen Golf: 6,580 Model Y took #1 across all cars, not just EVs, and Model 3 ranked #6 overall Tesla's German registrations jumped 268.7% year over year to 12,552 Tesla is taking on Germany's biggest automakers on their home turf, and winning",
+   "url": "https://nitter.kareem.one/XFreeze/status/2112863031957033310#m",
+   "ts": 1792580776,
+   "id": "2112863031957033310#m"
   },
   {
    "handle": "TheRundownAI",
