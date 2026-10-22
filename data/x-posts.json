@@ -1,20 +1,164 @@
 {
- "generated_at": "2026-10-22T16:10:09Z",
+ "generated_at": "2026-10-22T16:29:56Z",
  "accounts_ok": [
   "TheRundownAI",
+  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
   "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok @Bot Liam (@liam_fallen) Grok Bot genuinely changed my life. My Bots are now part of pretty much everything I do, both at work and in my personal life. It’s actually crazy how much I rely on them now. — https://nitter.kareem.one/liam_fallen/status/2112950158799393014#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2113304960326652163#m",
+   "ts": 1792686140,
+   "id": "2113304960326652163#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "I’m starting a new early-stage AI fund, doing what I love: partnering with founders from company formation on bold bets, long before consensus. The fund’s LPs will include Sequoia, Jeff Dean, Sachin Katti, Philip Wong (my Stanford professor and Chief Scientist adviser to TSMC), and others whose work has shaped our industry and how I think about AI’s future. I’ll remain a partner at Sequoia and keep serving on my boards on Sequoia’s behalf. Sequoia has been my home for the past 11 years. I joined as the youngest investor the firm had ever hired. I grew up here. Through years of intense debate and shared work, I found lifelong mentors and friends who took me under their wing and taught me this craft. They taught me to aim high and take big swings. I’ll carry that into what I build: outsized ambition, relentless truth-seeking and curiosity, and a refusal to become complacent. Working alongside founders has made me want to build something of my own: a firm shaped from day one around the convictions I’ve developed over the past decade. Life has taught me not to take time for granted. This is how I want to spend mine. Why now We’re seeing a new way of building companies in today’s AI era. Research and products often advance together. A breakthrough can open a market or accelerate a business far faster than expected. Some companies require extraordinary capital and compute early on. Others reach meaningful scale with remarkably small teams. The rules for how big these businesses can",
+   "url": "https://nitter.kareem.one/stephzhan/status/2113303172894867859#m",
+   "ts": 1792685714,
+   "id": "2113303172894867859#m"
+  },
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "TO THE GREAT PEOPLE OF SOUTH CAROLINA, GET OUT AND VOTE FOR: – Darline Graham for U.S. Senate – Alan Wilson for Governor – Cody Simpson for Agriculture Commissioner – Jenny Costa Honeycutt for U.S. Congress (SC-01) – Joe Wilson for U.S. Congress (SC-02) – Sheri Biggs for U.S. Congress (SC-03) – William Timmons for U.S. Congress (SC-04) – Wes Climer for U.S. Congress (SC-05) – Russell Fry for U.S. Congress (SC-07) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP swampthevoteusa.com/south-ca… Link SOUTH CAROLINA: MAKE A PLAN TO VOTE! The Senate runoff in South Carolina is quickly approaching, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113302827682381858#m",
+   "ts": 1792685632,
+   "id": "2113302827682381858#m"
+  },
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "TO THE GREAT PEOPLE OF GEORGIA, GET OUT AND VOTE FOR: – Mike Collins for U.S. Senate – Rick Jackson for Governor – Greg Dolezal for Lieutenant Governor – Brian Strickland for Attorney General – Tim Fleming for Secretary of State – Jim Kingston for U.S. Congress (GA-01) – Brian Jack for U.S. Congress (GA-03) – Rich McCormick for U.S. Congress (GA-07) – Austin Scott for U.S. Congress (GA-08) – Andrew Clyde for U.S. Congress (GA-09) – Houston Gaines for U.S. Congress (GA-10) – John Cowan for U.S. Congress (GA-11) – Rick Allen for U.S. Congress (GA-12) – Clay Fuller for U.S. Congress (GA-14) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP swampthevoteusa.com/georgia/ Link GEORGIA: READY TO VOTE REPUBLICAN? Election Day in Georgia is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113302770296017050#m",
+   "ts": 1792685618,
+   "id": "2113302770296017050#m"
+  },
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "TO THE GREAT PEOPLE OF COLORADO, GET OUT AND VOTE FOR: – Jeff Hurd for U.S. Congress (CO-03) – Lauren Boebert for U.S. Congress (CO-04) – Jeff Crank for U.S. Congress (CO-05) – Gabe Evans for U.S. Congress (CO-08) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP swampthevoteusa.com/colorado… Link COLORADO: MAKE A PLAN TO VOTE! Election Day in Colorado is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113302710518693969#m",
+   "ts": 1792685604,
+   "id": "2113302710518693969#m"
+  },
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "TO THE GREAT PEOPLE OF ARIZONA, GET OUT AND VOTE FOR: – Andy Biggs for Governor – Warren Petersen for Attorney General – Alexander Kolodin for Secretary of State – Jay Feely for U.S. Congress (AZ-01) – Eli Crane for U.S. Congress (AZ-02) – Mark Lamb for U.S. Congress (AZ-05) – Juan Ciscomani for U.S. Congress (AZ-06) – Abraham Hamadeh for U.S. Congress (AZ-08) – Paul Gosar for U.S. Congress (AZ-09) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP swampthevoteusa.com/arizona/ Link ARIZONA: MAKE A PLAN TO VOTE! Election Day in Arizona is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113302689333350402#m",
+   "ts": 1792685599,
+   "id": "2113302689333350402#m"
+  },
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "TO THE GREAT PEOPLE OF TEXAS, GET OUT AND VOTE FOR: – Ken Paxton for U.S. Senate – Greg Abbott for Governor – Dan Patrick for Lieutenant Governor – Mayes Middleton for Attorney General – Don Huffines for Comptroller – Dawn Buckingham for Land Commissioner – Nathaniel Moran for U.S. Congress (TX-01) – Steve Toth for U.S. Congress (TX-02) – Keith Self for U.S. Congress (TX-03) – Pat Fallon for U.S. Congress (TX-04) – Lance Gooden for U.S. Congress (TX-05) – Jake Ellzey for U.S. Congress (TX-06) – Jessica Steinmann for U.S. Congress (TX-08) – Alex Mealer for U.S. Congress (TX-09) – Chris Gober for U.S. Congress (TX-10) – August Pfluger for U.S. Congress (TX-11) – Craig Goldman for U.S. Congress (TX-12) – Ronny Jackson for U.S. Congress (TX-13) – Randy Weber for U.S. Congress (TX-14) – Monica De La Cruz for U.S. Congress (TX-15) – Pete Sessions for U.S. Congress (TX-17) – Tom Sell for U.S. Congress (TX-19) – Mark Teixeira for U.S. Congress (TX-21) – Trever Nehls for U.S. Congress (TX-22) – Brandon Herrera for U.S. Congress (TX-23) – Beth Van Duyne for U.S. Congress (TX-24) – Roger Williams for U.S. Congress (TX-25) – Brandon Gill for U.S. Congress (TX-26) – Michael Cloud for U.S. Congress (TX-27) – Tano Tijerina for U.S. Congress (TX-28) – John Carter for U.S. Congress (TX-31) – Jace Yarbrough for U.S. Congress (TX-32) – Eric Flores for U.S. Congress (TX-34) – Carlos De La Cruz for U.S. Congress (TX-35) – Brian Babin for U.S. Congress (TX-36) – Jon Bonck for U.S. Congress (TX-38)",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113302415730471188#m",
+   "ts": 1792685533,
+   "id": "2113302415730471188#m"
+  },
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "TO THE GREAT PEOPLE OF NEVADA, GET OUT AND VOTE FOR: – Joe Lombardo for Governor – Stavros Anthony for Lieutenant Governor – Jim Marchant for Secretary of State – Adriana Guzmán Fralick for Attorney General – Carrie Buck for U.S. Congress (NV-01) – David Flippo for U.S. Congress (NV-02) – Marty O'Donnell for U.S. Congress (NV-03) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP swampthevoteusa.com/nevada/ Link NEVADA: MAKE A PLAN TO VOTE! Election Day in Nevada is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113302357131829528#m",
+   "ts": 1792685519,
+   "id": "2113302357131829528#m"
+  },
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "TO THE GREAT PEOPLE OF IOWA, GET OUT AND VOTE FOR: – Ashley Hinson for U.S. Senate – Zach Lahn for Governor – Brenna Bird for Attorney General – Mariannette Miller-Meeks for U.S. Congress (IA-01) – Joe Mitchell for U.S. Congress (IA-02) – Zach Nunn for U.S. Congress (IA-03) – Chris McGowan for U.S. Congress (IA-04) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP swampthevoteusa.com/iowa/ Link IOWA - 2026 Election Day in Iowa is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113302333337616848#m",
+   "ts": 1792685514,
+   "id": "2113302333337616848#m"
+  },
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "TO THE GREAT PEOPLE OF NORTH CAROLINA, GET OUT AND VOTE FOR: – Michael Whatley for U.S. Senate – Laurie Buckhout for U.S. Congress (NC-01) – Greg Murphy for U.S. Congress (NC-03) – Virginia Foxx for U.S. Congress (NC-05) – Addison McDowell for U.S. Congress (NC-06) – David Rouzer for U.S. Congress (NC-07) – Mark Harris for U.S. Congress (NC-08) – Richard Hudson for U.S. Congress (NC-09) – Pat Harrigan for U.S. Congress (NC-10) – Jennifer Balkcom for U.S. Congress (NC-11) – Brad Knott for U.S. Congress (NC-13) – Tim Moore for U.S. Congress (NC-14) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP swampthevoteusa.com/north-ca… Link NORTH CAROLINA: MAKE A PLAN TO VOTE! The North Carolina general election is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113302212403232853#m",
+   "ts": 1792685485,
+   "id": "2113302212403232853#m"
+  },
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "TO THE GREAT PEOPLE OF OHIO, GET OUT AND VOTE FOR: – Jon Husted for U.S. Senate – Vivek Ramaswamy for Governor – Keith Faber for Attorney General – Eric Conroy for U.S. Congress (OH-01) – Dave Taylor for U.S. Congress (OH-02) – Jim Jordan for U.S. Congress (OH-04) – Bob Latta for U.S. Congress (OH-05) – Michael Rulli for U.S. Congress (OH-06) – Max Miller for U.S. Congress (OH-07) – Warren Davidson for U.S. Congress (OH-08) – Derek Merrin for U.S. Congress (OH-09) – Michael Turner for U.S. Congress (OH-10) – Troy Balderson for U.S. Congress (OH-12) – David Joyce for U.S. Congress (OH-14) – Mike Carey for U.S. Congress (OH-15) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP swampthevoteusa.com/ohio/ Link OHIO: MAKE A PLAN TO VOTE! Election Day in Ohio is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113302184842461444#m",
+   "ts": 1792685478,
+   "id": "2113302184842461444#m"
+  },
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "TO THE GREAT PEOPLE OF ALASKA, GET OUT AND VOTE FOR: – Dan S. Sullivan for U.S. Senate – Nick Begich for U.S. Congress – Bernadette Wilson for Governor These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP swampthevoteusa.com/alaska/ Link ALASKA: MAKE A PLAN TO VOTE! Election Day in Alaska is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113302059843760587#m",
+   "ts": 1792685448,
+   "id": "2113302059843760587#m"
+  },
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "TO THE GREAT PEOPLE OF NEBRASKA, GET OUT AND VOTE FOR: – Pete Ricketts for U.S. Senate – Jim Pillen for Governor – Mike Hilgers for Attorney General – Mike Flood for U.S. Congress (NE-01) – Brinker Harding for U.S. Congress (NE-02) – Adrian Smith for U.S. Congress (NE-03) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP swampthevoteusa.com/nebraska… Link NEBRASKA: MAKE A PLAN TO VOTE! Election Day in Nebraska is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113302034073968663#m",
+   "ts": 1792685442,
+   "id": "2113302034073968663#m"
+  },
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "TO THE GREAT PEOPLE OF VIRGINIA, GET OUT AND VOTE FOR: – Rob Wittman for U.S. Congress (VA-01) – Jen Kiggans for U.S. Congress (VA-02) – John McGuire for U.S. Congress (VA-05) – Ben Cline for U.S. Congress (VA-06) – Morgan Griffith for U.S. Congress (VA-09) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP swampthevoteusa.com/virginia… Link VIRGINIA: MAKE A PLAN TO VOTE! Election Day in Virginia is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113301875256689028#m",
+   "ts": 1792685404,
+   "id": "2113301875256689028#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "这样一个视频在抖音被点赞2000万次，牛马们被狠狠戳到了。 Video",
+   "url": "https://nitter.kareem.one/xiaojingcanxue/status/2113291512394244572#m",
+   "ts": 1792682934,
+   "id": "2113291512394244572#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok is attracting a higher share of new users than every other major SI website In September 2026 alone, 40.91% of Grok.com traffic came from new users…..the highest share among ChatGPT, Gemini, Claude and DeepSeek Similarweb (@Similarweb) Among the leading Gen AI tools, Grok had the highest percentage of new users visiting its website in September 2026. — https://nitter.kareem.one/Similarweb/status/2113222706153873546#m",
+   "url": "https://nitter.kareem.one/XFreeze/status/2113289921104613728#m",
+   "ts": 1792682554,
+   "id": "2113289921104613728#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -208,28 +352,19 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "Mercedes sold its Tesla stake for $780 million. that same 4 percent is worth about $56 billion today. in the clip below Musk explains how Mercedes ended up there. the US government gave Tesla almost $500 million, and he is asked directly whether that loan saved the company. he says no. what saved it was a $50 million check from Daimler in May 2009. all of Tesla was worth $550 million then. \"they were the only ones. there was no other company, no other entity of any kind from which we could get investments.\" Tesla repaid the government's $500 million with interest and a prepayment penalty, ten years early. he sent a thank you note with it. \"i don't like having a lot of debt. the taxpayers supported Tesla, we ought to repay them as soon as we can.\" Mercedes turned $50 million into $780 million and walked away in 2014. so was that a great investment - or the most expensive mistake in car industry history? Video",
+   "url": "https://nitter.kareem.one/Di_Krass_/status/2113194901341085989#m",
+   "ts": 1792659900,
+   "id": "2113194901341085989#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "How to share 𝕏.com links with friends and family? → Use the ''Share icon'' located at the bottom right of the post. Unfortunately, many people still believe everything they see on the news. Do your part in spreading the truth — forward 𝕏 posts. Video",
    "url": "https://nitter.kareem.one/cb_doge/status/2113190860691214348#m",
    "ts": 1792658937,
    "id": "2113190860691214348#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "True Captain Eli (@TheCaptainEli) In September 2014, Elon stood under a tent on an almost empty beach at the very tip of South Texas, waves crashing just over the dunes, and broke ground on a launch site. In May 2025, he stood in front of a crowd at that same corner of Texas and said it plainly: \"not that long ago, there was basically nothing here.\" Now it's a city. Literally. On May 3, 2025, Starbase voted to incorporate, 212 to 6. In Elon's words, \"the first new city made in America in I think quite a few decades.\" I love the \"I think.\" Even his victory laps come with error bars. What gets me is how it got there. One of the first things to fly was Starhopper, a stubby steel tank on legs that he calls \"the original sort of Mad Max rocket.\" In August 2019 it hopped 150 meters. Then came prototypes that flew, flipped and sometimes exploded in full public view, right next to a public highway. That's his pattern. Pick the thing everyone says is impossible, build it in the open, break it, learn, build the next one, and keep going until the laughing stops. \"In the space of about five or six years... we've built a small city... and a gigantic rocket factory for a gigantic rocket.\" Then in October 2024 the rocket came home and the launch tower caught it. His reaction: \"it's really mind-blowing that the SpaceX team has been able to catch the largest flying object ever made multiple times.\" My favorite detail? You can just go and look. Anyone interested in seeing the largest flying ob",
-   "url": "https://nitter.kareem.one/elonmusk/status/2113188655225618459#m",
-   "ts": 1792658411,
-   "id": "2113188655225618459#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Something deeply wrong with Talarico Lone Star Liberty PAC (@LoneStar_PAC) James talarico headlined a Pride event alongside an 11-year-old child drag queen named \"Kween Kee Kee.\" One attendee posted video of the young boy doing the splits. Another performance was by an adult man who goes by the raunchy name \"Sedonya Face.\" The event touted more than 30 kids in attendance. #TXsen — https://nitter.kareem.one/LoneStar_PAC/status/2113036859328573853#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2113188454788174293#m",
-   "ts": 1792658363,
-   "id": "2113188454788174293#m"
   },
   {
    "handle": "thsottiaux",
@@ -266,15 +401,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2113098033705664650#m",
    "ts": 1792636805,
    "id": "2113098033705664650#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "“Noncitizens don’t vote,” they said. So how is it that 28% of noncitizens in California have voted? These things can’t both be true. Wall Street Apes (@WallStreetApes) EXTREMELY IMPORTANT 🚨 Federal Lawsuit against California shows that 28.8% of noncitizens in California HAVE A VOTING HISTORY California elections are not legitimate, noncitizens are voting at an extremely large scale - Los Angeles County elections officials took a sample batch of 200 ballots - The 200 ballots were taken from a sample of 20,000 that the Trump Admin says are noncitizens - Of the 200 ballots that were taken, 71.2% of the 200 have no voting history This means 28.8% of the noncitizens ballots DID have a voting history Nearly 30% of noncitizens are voting in California elections based on this sample. I’ll bet it’s much higher — https://nitter.kareem.one/WallStreetApes/status/2113057838927081708#m",
-   "url": "https://nitter.kareem.one/BasedMikeLee/status/2113093322172768706#m",
-   "ts": 1792635682,
-   "id": "2113093322172768706#m"
   },
   {
    "handle": "elonmusk",
@@ -329,6 +455,15 @@
    "url": "https://nitter.kareem.one/TeslaRecruiting/status/2113015046372839581#m",
    "ts": 1792617019,
    "id": "2113015046372839581#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "INSANE 🚨 100% of New York adult daycares that were audited WERE FRAUD “We audited 15 of these — There's no record of a single meal, activity, single hour of supervision” ILLEGAL KICKBACKS were also reported with these adult daycares. How the scam works is the daycares will sign people up and offer them $1,000 per month cash The adult daycare can bill about $120 per day to taxpayers. So they make about $3,600 per person and give the person $1,000 of it per month back as a kickback So they pocket $2,600. The person with the Medicaid insurance gets $1,000 Taxpayers are being robbed blind HHS Rapid Response (@HHSResponse) 15 of 15 New York Social Adult Daycares audited yesterday showed no record of a single meal, activity, or hour of supervision — just attendance sheets. These daycares are receiving millions from our Medicaid system and providing NOTHING in return —this is FRAUD! Video — https://nitter.kareem.one/HHSResponse/status/2112970599106744392#m",
+   "url": "https://nitter.kareem.one/WallStreetApes/status/2113014616372764748#m",
+   "ts": 1792616917,
+   "id": "2113014616372764748#m"
   },
   {
    "handle": "swyx",
@@ -538,15 +673,6 @@
    "id": "2112915230691135830#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "After Muslims burned Danish embassies and killed roughly 250 people over cartoons of Muhammad, Western media hid the images while the UN investigated the newspaper instead of the killers. Flemming Rose ordered the drawings in 2005 specifically because Danish publishers had already stopped illustrating the Prophet. Imam Abu Laban then carried the originals plus 3 images he fabricated himself around the Middle East to manufacture larger outrage. Kurt Westergaard spent New Year’s 2010 locked in a panic room with his 5 year old granddaughter while a Somali chopped through the door with an axe. When Charlie Hebdo reprinted the cartoons in 2020, a teacher was beheaded weeks later for showing them in class. 20 years later, most Western newsrooms still refuse to print them. Video",
-   "url": "https://nitter.kareem.one/Rothmus/status/2112903448416948692#m",
-   "ts": 1792590412,
-   "id": "2112903448416948692#m"
-  },
-  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -682,42 +808,6 @@
    "id": "2112646849010241679#m"
   },
   {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "🚨 OHIO! Early Voting, in-person, is UNDERWAY NOW in the Great State of Ohio. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT! Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Ohio, you can cast your early Vote, in-person, all the way through November 1st. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP Find your Voting Location here: swampthevoteusa.com/ohio/ Link OHIO: MAKE A PLAN TO VOTE! Election Day in Ohio is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2112645390369718527#m",
-   "ts": 1792528886,
-   "id": "2112645390369718527#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "🚨 NORTH CAROLINA! Early Voting, in-person, is UNDERWAY NOW in the Great State of North Carolina. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT! Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In North Carolina, you can cast your early Vote, in-person, all the way through October 31st. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP Find your Voting Location here: swampthevoteusa.com/north-ca… Link NORTH CAROLINA: MAKE A PLAN TO VOTE! The North Carolina general election is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2112645301043691816#m",
-   "ts": 1792528865,
-   "id": "2112645301043691816#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "🚨 MAINE! Early Voting, in-person, is UNDERWAY NOW in the Great State of Maine. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT! Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Maine, you can cast your early Vote, in-person, all the way through October 29th. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP Find your Voting Location here: swampthevoteusa.com/maine/ Link MAINE: MAKE A PLAN TO VOTE! Election Day in Maine is here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2112645220861120714#m",
-   "ts": 1792528846,
-   "id": "2112645220861120714#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "🚨 IOWA! Early Voting, in-person, is UNDERWAY NOW in the Great State of Iowa. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT! Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Iowa, you can cast your early Vote, in-person, all the way through November 2nd. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP Find your Voting Location here: swampthevoteusa.com/iowa/ Link IOWA - 2026 Election Day in Iowa is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2112645157799776667#m",
-   "ts": 1792528831,
-   "id": "2112645157799776667#m"
-  },
-  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -752,15 +842,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2112630778068881543#m",
    "ts": 1792525402,
    "id": "2112630778068881543#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "The Programmable Data Center @martin_casado ’s Nicira virtualized networking by separating the control plane from the hardware. Cisco offered $600m; VMware bought it for $1.3b. Now that idea is coming to GPU infrastructure. @evanjconrad , CEO of @sfcompute , joins @swyx at @aiDotEngineer NYC to explain how SF Compute went from subleasing a cluster to making data centers programmable. We get into: • Why delivering a GPU trade means running the whole “hotel” • Interruptions, hardware generations and the GPU order book • Why physical settlement comes before compute derivatives • Why Evan thinks NVIDIA can’t build an independent market • Programmable InfiniBand and the data center as software The full conversation: Video",
-   "url": "https://nitter.kareem.one/latentspacepod/status/2112630312752844829#m",
-   "ts": 1792525291,
-   "id": "2112630312752844829#m"
   },
   {
    "handle": "TheRundownAI",
@@ -941,33 +1022,6 @@
    "url": "https://nitter.kareem.one/ClaudeDevs/status/2112299602510749992#m",
    "ts": 1792446444,
    "id": "2112299602510749992#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "🚨 NEVADA! Early Voting, in-person, opened in the Great State of Nevada this past weekend. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT! Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Nevada, you can cast your early Vote, in-person, all the way through October 30th. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP Find your Voting Location here: swampthevoteusa.com/nevada/ Link NEVADA: MAKE A PLAN TO VOTE! Election Day in Nevada is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2112294730247627212#m",
-   "ts": 1792445282,
-   "id": "2112294730247627212#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "🚨 TEXAS! Early Voting, in-person, opened in the Great State of Texas TODAY, October 19th. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT! Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Texas, you can cast your early Vote, in-person, all the way through October 30th. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP Find your Voting Location here: swampthevoteusa.com/texas/ Link TEXAS: MAKE A PLAN TO VOTE! Election Day in Texas is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2112294609980198977#m",
-   "ts": 1792445254,
-   "id": "2112294609980198977#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "A BIG THANK YOU to our legendary friend, @ElonMusk , for his incredible generosity in giving SpaceX Stock to millions of American children through TRUMP ACCOUNTS! This is exactly what was envisioned when we created TRUMP ACCOUNTS — Bringing together the GREAT PRIVATE SECTOR, Elon and so many more, to invest in our children, by far our greatest and most important asset, and give every American Child a piece of the American Dream. Thank you Elon! President DONALD J. TRUMP",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2112293785472225568#m",
-   "ts": 1792445057,
-   "id": "2112293785472225568#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -1184,51 +1238,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2111566005684289735#m",
    "ts": 1792271541,
    "id": "2111566005684289735#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "James TalaFREAKO is a Radical Left Lunatic and Vegan who is the ANTITHESIS of Texas Values. Ken Paxton is the Greatest Attorney General in the History of Texas, and has my Complete and Total Endorsement to be the next U.S. Senator from Texas — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP Video",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2111516431141540160#m",
-   "ts": 1792259721,
-   "id": "2111516431141540160#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "Zach Nunn has my Complete and Total Endorsement for Re-Election as U.S. Representative from Iowa’s 3rd Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP Video",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2111515915615371421#m",
-   "ts": 1792259599,
-   "id": "2111515915615371421#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "Russell Fry has my Complete and Total Endorsement for Re-Election as U.S. Representative from South Carolina’s 7th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP Video",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2111515697972994334#m",
-   "ts": 1792259547,
-   "id": "2111515697972994334#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "Mohammed El-Sayed is a terrible Candidate for the Dumocrats. Mike Rogers is a Great American Patriot, and has my Complete and Total Endorsement to be the next U.S. Senator from Michigan — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP Video",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2111515535041253789#m",
-   "ts": 1792259508,
-   "id": "2111515535041253789#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "Darline Graham has my Complete and Total Endorsement for Re-Election as U.S. Senator from South Carolina — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP Video",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2111515483484626980#m",
-   "ts": 1792259495,
-   "id": "2111515483484626980#m"
   },
   {
    "handle": "thsottiaux",
@@ -1454,15 +1463,6 @@
    "url": "https://nitter.kareem.one/ChadMoran/status/2110442227604566348#m",
    "ts": 1792003611,
    "id": "2110442227604566348#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "China has “a super appetite to invest in Europe,” @lianglinlin2026 of the China Chamber of Commerce to the EU told us at the #POLITICOEuropeanResilience summit. But Chinese businesses need to assess whether these investments can be profitable, she added. Video",
-   "url": "https://nitter.kareem.one/POLITICOEurope/status/2110312063897923693#m",
-   "ts": 1791972578,
-   "id": "2110312063897923693#m"
   },
   {
    "handle": "simonw",
