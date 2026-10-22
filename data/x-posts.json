@@ -1,19 +1,29 @@
 {
- "generated_at": "2026-10-22T15:26:51Z",
+ "generated_at": "2026-10-22T15:41:33Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@swyx: all instances failed",
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Yup Western Lensman (@WesternLensman) Hillary wants the Supreme Court expanded to 13 Justices -- but not until \"Democrats are in power.\" Because it's all about making the court less partisan and has nothing to do with entrenching Democrat power, of course. Video — https://nitter.kareem.one/WesternLensman/status/2113223237375267146#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2113288958738366650#m",
+   "ts": 1792682325,
+   "id": "2113288958738366650#m"
+  },
   {
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
@@ -60,6 +70,15 @@
    "id": "2113283272130412684#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Estimated metric tons of useful payload delivered to orbit in Year-to-Date 2026 by Rocket Lab, Firefly, Blue Origin, Stoke Space, and Relativity combined... ... versus useful payload SpaceX put in orbit on only September 28, 2026. 👀 Chart courtesy: @Grok $SPCX",
+   "url": "https://nitter.kareem.one/ICannot_Enough/status/2113281788072149401#m",
+   "ts": 1792680615,
+   "id": "2113281788072149401#m"
+  },
+  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -94,6 +113,15 @@
    "url": "https://nitter.kareem.one/cremieuxrecueil/status/2113275220551451037#m",
    "ts": 1792679049,
    "id": "2113275220551451037#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Today is a great day to vote early in person for @KenPaxtonTX . If Texas falls, there is no future for our country.",
+   "url": "https://nitter.kareem.one/ScottPresler/status/2113265992667148580#m",
+   "ts": 1792676849,
+   "id": "2113265992667148580#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -148,6 +176,15 @@
    "url": "https://nitter.kareem.one/GuntherEagleman/status/2113208193631301855#m",
    "ts": 1792663069,
    "id": "2113208193631301855#m"
+  },
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins.",
+   "url": "https://nitter.kareem.one/mitsuhiko/status/2113207589978636646#m",
+   "ts": 1792662925,
+   "id": "2113207589978636646#m"
   },
   {
    "handle": "elonmusk",
@@ -234,28 +271,19 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Today I early voted in Texas. Straight Republican. Dems are not worth the risk to all the great builders and projects here. Can't stop, won't stop.",
-   "url": "https://nitter.kareem.one/SERobinsonJr/status/2113084517674254688#m",
-   "ts": 1792633582,
-   "id": "2113084517674254688#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "FULL CLIP: Asmongold says the number one reason game studios fail is that when activists are involved in development, they don’t care about video games and instead push their ideology after reacting to EA shutting down BioWare 😳👀 “This is the big problem, is that whenever you have activists inside of video games, the big thing that's a problem is that activists don't care about video games fundamentally. It's not like the activist. All they wanna do is, they just wanna make a character g*y. The problem is that whenever you have those people that are involved in development, they have no interest in what the gameplay loop is. They have no interest in how fun it is to play. They have no interest in how interesting this boss fight is. They don't care about the narrative outside of how it dovetails into their ideology” Video",
    "url": "https://nitter.kareem.one/fwprism/status/2113052290475261999#m",
    "ts": 1792625899,
    "id": "2113052290475261999#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "James Talarico supported the Biden Border Crisis, attacked law enforcement during the BLM riots, and wants to end run oil and gas in Texas. He is not moderate in the least. His vote for six years in the Senate would be a disaster for Texas and the USA. Video",
-   "url": "https://nitter.kareem.one/chiproytx/status/2113045479197950325#m",
-   "ts": 1792624275,
-   "id": "2113045479197950325#m"
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "So basically, today PHP got two critical bugs that let anyone run code on your server without even logging in, which is bad, and then the details leaked before the patch was even out, which is worse, and it works on WordPress and MediaWiki and Magento and Joomla and Laravel, and Censys says like 1.5 million servers are running a version with no fix, so the NSA was like \"take your system offline,\" and the FBI was like \"take your system offline,\" and CISA and the UK and CERT-EU were all like \"take your system offline,\" and then the Prime Minister of Japan, the actual Prime Minister, posted at 5:55 in the morning telling 48.8 million people to take their system offline, so everyone took their system offline, like the Dutch cybersecurity agency took its own website offline, and the Dutch parliament went offline, and the Port of Rotterdam went offline, and Finland and France and Denmark started pulling government sites, and Wikipedia went down, and Archive.org went down, and Asana and GOG and Something Awful went down, and the University of Vienna's webmail went down for some reason, and that's just PHP. Because GitLab also dropped a CVSS 10.0, which is the highest score they give out, for a bug that's been there since 2014, so that's every self-hosted GitLab for twelve years, and then LiteLLM 1.107.0 got hijacked and shipped a credential stealer and a remote access trojan in every single wheel and the Docker images, including latest, and you didn't even have to import it, just in",
+   "url": "https://nitter.kareem.one/fiveoutofnine/status/2113045722744717360#m",
+   "ts": 1792624333,
+   "id": "2113045722744717360#m"
   },
   {
    "handle": "thsottiaux",
@@ -279,10 +307,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Elon Musk on Optimus V3: \"We may be ready to release a video in about a month or two. I want to release a video where Optimus is doing things that aren't pre-programmed. A demo that you can believe. Another milestone we want to get to is integrating the AI5 chip in Optimus, which will be in April 2027.\"",
-   "url": "https://nitter.kareem.one/SawyerMerritt/status/2113026384977433003#m",
-   "ts": 1792619722,
-   "id": "2113026384977433003#m"
+   "text": "Bloomberg Drops $80 Million On Democrats' Midterm Push: $24 Million To Everytown, $16 Million To House Majority PAC zerohedge.com/political/bloo… Link Bloomberg Drops $80 Million On Democrats' Midterm Push: $24 Million To Everytown, $16 Million To... Bloomberg is now the largest disclosed donor to both groups... zerohedge.com",
+   "url": "https://nitter.kareem.one/zerohedge/status/2113022541748916413#m",
+   "ts": 1792618806,
+   "id": "2113022541748916413#m"
   },
   {
    "handle": "swyx",
@@ -517,15 +545,6 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2112897150309073134#m",
    "ts": 1792588911,
    "id": "2112897150309073134#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Tesla Model Y just became the best-selling car in Germany An American EV beat the Volkswagen Golf in its own home market. The Golf has been Germany's best-selling car every year since 1981 September registrations: Tesla Model Y: 8,038 Volkswagen Golf: 6,580 Model Y took #1 across all cars, not just EVs, and Model 3 ranked #6 overall Tesla's German registrations jumped 268.7% year over year to 12,552 Tesla is taking on Germany's biggest automakers on their home turf, and winning",
-   "url": "https://nitter.kareem.one/XFreeze/status/2112863031957033310#m",
-   "ts": 1792580776,
-   "id": "2112863031957033310#m"
   },
   {
    "handle": "TheRundownAI",
@@ -1552,24 +1571,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2108346352090636583#m",
    "ts": 1791503916,
    "id": "2108346352090636583#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "This tweet inspired by the justice department headline from October 6th: \"North Carolina Man Sentenced To 18 Months In Prison For Super Intelligence-Assisted Music Streaming Fraud\" justice.gov/usao-sdny/pr/nor… Link North Carolina Man Sentenced To 18 Months In Prison For Super Jamie McDonald, the United States Attorney for the Southern District of New York, announced today that MICHAEL SMITH was sentenced to 18 months in prison for his role in a scheme to defraud music... justice.gov",
-   "url": "https://nitter.kareem.one/simonw/status/2108346237619732553#m",
-   "ts": 1791503888,
-   "id": "2108346237619732553#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "This \"Super Intelligence\" thing is just so, so, so stupid I can't even",
-   "url": "https://nitter.kareem.one/simonw/status/2108346075874734127#m",
-   "ts": 1791503850,
-   "id": "2108346075874734127#m"
   },
   {
    "handle": "bcherny",
