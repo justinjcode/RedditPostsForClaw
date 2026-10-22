@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-10-22T17:54:04Z",
+ "generated_at": "2026-10-22T18:11:02Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed"
+  "@simonw: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Try Grok @Bot Alex Slater (@aslater) Wow Grok Bot is super fucking good and so beautifully designed. 10/10 Product. — https://nitter.kareem.one/aslater/status/2113302771747418201#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2113329537509449744#m",
+   "ts": 1792692000,
+   "id": "2113329537509449744#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -392,15 +401,6 @@
    "url": "https://nitter.kareem.one/mitsuhiko/status/2113207589978636646#m",
    "ts": 1792662925,
    "id": "2113207589978636646#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "From what I can tell from my exposure to it, the Japanese voice on this platform is the most blessed and wholesome signal in world media. 🩷🇯🇵",
-   "url": "https://nitter.kareem.one/xenocosmography/status/2113203265341165866#m",
-   "ts": 1792661894,
-   "id": "2113203265341165866#m"
   },
   {
    "handle": "elonmusk",
