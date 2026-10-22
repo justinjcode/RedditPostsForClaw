@@ -1,18 +1,17 @@
 {
- "generated_at": "2026-10-22T09:29:56Z",
+ "generated_at": "2026-10-22T09:46:50Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
   {
@@ -109,10 +108,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Talarico hates Texas America (@america) Democrat Nominee for U.S. Senate in Texas James Talarico calls for “a pathway for citizenship” for illegal aliens. 10 million illegal aliens came into the country in just 4 years under Biden alone. Video — https://nitter.kareem.one/america/status/2113048990308565206#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2113081289570127971#m",
-   "ts": 1792632813,
-   "id": "2113081289570127971#m"
+   "text": "FULL CLIP: Asmongold says the number one reason game studios fail is that when activists are involved in development, they don’t care about video games and instead push their ideology after reacting to EA shutting down BioWare 😳👀 “This is the big problem, is that whenever you have activists inside of video games, the big thing that's a problem is that activists don't care about video games fundamentally. It's not like the activist. All they wanna do is, they just wanna make a character g*y. The problem is that whenever you have those people that are involved in development, they have no interest in what the gameplay loop is. They have no interest in how fun it is to play. They have no interest in how interesting this boss fight is. They don't care about the narrative outside of how it dovetails into their ideology” Video",
+   "url": "https://nitter.kareem.one/fwprism/status/2113052290475261999#m",
+   "ts": 1792625899,
+   "id": "2113052290475261999#m"
   },
   {
    "handle": "elonmusk",
@@ -122,15 +121,6 @@
    "url": "https://nitter.kareem.one/chiproytx/status/2113045479197950325#m",
    "ts": 1792624275,
    "id": "2113045479197950325#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon Musk hilariously explains why Optimus has to learn like a toddler, by playing, making mistakes and getting better over time 😂 “In order for Optimus to get the training data we need, we actually need to make a lot of Optimi. So we need to make, I think, on the order of 10,000 or 20,000 bots and then have them do self-play. We're building up an Optimus academy where Optimus can practice doing a very wide range of tasks And then we can use that data in a flywheel to make it better and better at these various tasks, a big difference with Optimus versus the cars Is we don't have this vast fleet of cars from which we can gather training data. So with Optimus, we have to bootstrap it by making the robots and having them do self-play, which is really how a human learns to navigate the world You can see this when you have a toddler and they grow up and they initially are wobbly and they don't know how to do things, and eventually they, they learn to wipe their own ass, which is a big milestone, because anyone who's had kids knows And then they learn to read and do all sorts of things and be able to do these things. And they learn this by playing And we actually need Optimus to play at scale in order to have it be really good at tasks in the real world” Video",
-   "url": "https://nitter.kareem.one/XFreeze/status/2113040815954301204#m",
-   "ts": 1792623163,
-   "id": "2113040815954301204#m"
   },
   {
    "handle": "thsottiaux",
@@ -221,6 +211,15 @@
    "url": "https://nitter.kareem.one/claudeai/status/2112984664256241837#m",
    "ts": 1792609775,
    "id": "2112984664256241837#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "I want to expand on this, because for BioWare's original games: I was the target demographic. Baldur's Gate, NWN, KOTOR, ME, DAO were all games that managed to target in my soul what I wanted from a game. And one by one they killed each of them. Not with a bang, but with the steady decay of the core mechanics and plots. Well except for KOTOR. That one they just set on fire on the way out, and left modders to pick up the pieces. Eventually they would release a game, and I'd look at it, think back on what was, and say... \"No. I don't think I will buy that.\" Literally all they had to do is hit the rewind button and say \"You know that thing that made money that gamers wanted? Let's make that!\" They refused. Donald Morgan Jr. (@donaldmorganjr) There was a time I would have mourned the death of BioWare. But the truth is, they died long ago, and the skinsuit has finally been staked out in the sun. — https://nitter.kareem.one/donaldmorganjr/status/2112962712292704289#m",
+   "url": "https://nitter.kareem.one/donaldmorganjr/status/2112968924551872616#m",
+   "ts": 1792606023,
+   "id": "2112968924551872616#m"
   },
   {
    "handle": "Lingling_Wei",
