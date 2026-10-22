@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T18:11:02Z",
+ "generated_at": "2026-10-22T18:30:48Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -7,14 +7,40 @@
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@simonw: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Walked into the office to see this--what an honor. So proud that “The Business of Babies” earned a Gerald Loeb Award honorable mention. I played a small part, but getting to work alongside @ByKLong , @BenFoldy , @DanaMattioli , @EmilyGlazer , @sara_randazzo , @AmyDMarcus @csstewart @johnjcook was the real prize. This team is gold. Congrats to all the @WSJ winners! 🎉",
+   "url": "https://nitter.kareem.one/Lingling_Wei/status/2113337108450406788#m",
+   "ts": 1792693805,
+   "id": "2113337108450406788#m"
+  },
+  {
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
+   "text": "Agent Skills started as an experiment in Claude Code. Many across the industry have come to adopt it, so we at Anthropic found it more fitting to donate it to the @AgenticAIFdn , next to MCP. ClaudeDevs (@ClaudeDevs) We're donating Agent Skills to the Agentic AI Foundation ( @AgenticAIFdn ), the same foundation we donated MCP to. Since December 2025, 70+ agent platforms have integrated the standard, including ChatGPT, Cursor, GitHub Copilot, and VS Code. Here's what that means for you: — https://nitter.kareem.one/ClaudeDevs/status/2113328526413996100#m",
+   "url": "https://nitter.kareem.one/bcherny/status/2113333859907747871#m",
+   "ts": 1792693030,
+   "id": "2113333859907747871#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "True Nima Owji (@nima_owji) Most people use Grok Bot like a chatbot! But it has its own computer and keeps working while you're away! 8 things you can hand off to it today: 1. Tag @bot under any post on X 2. Handle your X DMs 3. Connect Coinbase, Robinhood or eToro 4. Run daily briefings and reminders 5. Compare prices and ask before buying 6. Open GitHub PRs and ship code 7. Prep your meetings from Gmail, Calendar and Slack 8. Sort and clean your inbox And it asks before it sends, posts or buys anything. Which one would you hand off first? — https://nitter.kareem.one/nima_owji/status/2113324631100920279#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2113333198134354083#m",
+   "ts": 1792692872,
+   "id": "2113333198134354083#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -379,15 +405,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "True X Freeze (@XFreeze) Margaret Thatcher explained this perfectly back in 1983 The government doesn't have money of its own. Every time politicians promise to spend more, someone has to pay for it And people somehow still think it's someone else's money “There is no such thing as public money. There is only taxpayers’ money” And sooner or later, that someone else they expect to pay is YOU Video — https://nitter.kareem.one/XFreeze/status/2112942696889508051#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2113210745710162001#m",
-   "ts": 1792663677,
-   "id": "2113210745710162001#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "🚨 TEXAS: President Trump just dropped his FULL endorsement slate, and every one of these Patriots needs your vote. Ken Paxton for U.S. Senate. Greg Abbott for Governor. Dan Patrick for Lieutenant Governor. Mayes Middleton for Attorney General. And 30 America First fighters for Congress, all the way down the ballot. Early voting is open RIGHT NOW and runs through Friday, October 30. Election Day is November 3. The Democrats are pouring money in because they think Texas is up for grabs. Prove them wrong. Vote straight Republican. Keep Texas RED. 🇺🇸",
    "url": "https://nitter.kareem.one/GuntherEagleman/status/2113208193631301855#m",
    "ts": 1792663069,
@@ -460,7 +477,7 @@
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
-   "text": "Fully included in the Pro plan, doesn't draw on your weekly usage. Community note: As of 22 October 2026, OpenAI’s dots are unavailable to ChatGPT Pro users in the EU. OpenAI excludes the European Economic Area (which includes all EU countries), the UK and Switzerland from Pro access. [Source: OpenAI documentation]( learn.chatgpt.com/docs/dots",
+   "text": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
    "url": "https://nitter.kareem.one/thsottiaux/status/2113029854417600834#m",
    "ts": 1792620550,
    "id": "2113029854417600834#m"
@@ -1195,15 +1212,6 @@
    "id": "2111967444021469419#m"
   },
   {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "Putin has proposed that he, Trump and Xi meet next month to talk about Ukraine in an attempt to negotiate an end to the conflict that would favor Moscow, said people familiar with the discussions. wsj.com/world/russia/putin-f… Link Exclusive | Putin Floats a Summit With Trump and Xi to Decide Ukraine’s Fate The Russian leader is trying to capitalize on warming ties with the president to unlock a favorable resolution to the war with Kyiv. wsj.com",
-   "url": "https://nitter.kareem.one/VeraMBergen/status/2111959443839582398#m",
-   "ts": 1792365344,
-   "id": "2111959443839582398#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -1616,15 +1624,6 @@
    "url": "https://nitter.kareem.one/bcherny/status/2108006118966665463#m",
    "ts": 1791422798,
    "id": "2108006118966665463#m"
-  },
-  {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
-   "text": "Sometimes I read on flights, and sometimes… Video",
-   "url": "https://nitter.kareem.one/bcherny/status/2108004023249088528#m",
-   "ts": 1791422298,
-   "id": "2108004023249088528#m"
   }
  ]
 }
