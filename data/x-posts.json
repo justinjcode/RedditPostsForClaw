@@ -1,20 +1,28 @@
 {
- "generated_at": "2026-10-22T14:55:32Z",
+ "generated_at": "2026-10-22T15:09:21Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Opus 5.5 is the best work estimator model i've ever used. This is calibration that is increasingly important as we delegate more and more work — don't tell me that it's going to take 2-3 working days (what a human would do) when for you, an enthusiastic, indefatigable, and embarrasingly parallelizable AGI, can get it done in 2-3 hours.",
+   "url": "https://nitter.kareem.one/swyx/status/2113283272130412684#m",
+   "ts": 1792680969,
+   "id": "2113283272130412684#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -41,15 +49,6 @@
    "url": "https://nitter.kareem.one/Whats_AI/status/2113275444900360264#m",
    "ts": 1792679103,
    "id": "2113275444900360264#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "THIS THING CAN LIFT A CAR?? Unitree (@UnitreeRobotics) Unitree Introducing: H2-X Kung Fu Legend Guardian🤖 Powerful performance to serve and guard you, with a maximum endurance of approximately 8 hours. Please use the robot safely and in a friendly manner. Video — https://nitter.kareem.one/UnitreeRobotics/status/2112819774573179175#m",
-   "url": "https://nitter.kareem.one/swyx/status/2113266623260004422#m",
-   "ts": 1792677000,
-   "id": "2113266623260004422#m"
   },
   {
    "handle": "Lingling_Wei",
