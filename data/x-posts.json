@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-22T02:13:47Z",
+ "generated_at": "2026-10-22T02:40:38Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
-  "@swyx: all instances failed",
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@bcherny: all instances failed"
  ],
  "count": 179,
  "items": [
@@ -77,15 +77,6 @@
    "url": "https://nitter.kareem.one/SawyerMerritt/status/2113022539140087843#m",
    "ts": 1792618806,
    "id": "2113022539140087843#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "ok we are doing another high taste testers on the elizabeth holmes documentary: YOU CAN SEE EVERYTHING this Saturday in SF - who is in and has Hot Takes about the best movie of the year? Latent.Space (@latentspacepod) 🆕 show: HIGH TASTE TESTERS We convene top Al power users to compare what actually works-and what falls apart once you start using it. @davis7 , @benhylak , @dexhorthy , @allisonology , @altryne and @swyx give you unfiltered takes on @OpenAl DevDay, Dots vs Muse vs GrokBot vs Instinct, who's winning coding, personal assistants, and the gap between impressive Al capabilities and useful products. From Pi-powered personal agents and decision models to subagents, context management, prompt injection, and assistants that can spend money: what should you actually use? CHAPTERS 00:00 Introducing High Taste Testers 01:26 OpenAl DevDay: Dots, Spaces, and product execution 10:28 Great models versus great products 14:39 Agents versus assistants 18:08 Building a personal assistant with Pi 21:07 Decision models, Jev, and predictive interfaces 32:46 Model speed, writing quality, and subagents 37:29 Agent loops, forks, and context management 43:19 Haiku, Muse Spark, and Grok 50:00 Local models and coding benchmarks 54:09 Prompt injection and assistants taking action 57:50 Tools, payments, and assistant overload 1:02:16 Delegation, computer use, and everyday workflows 1:10:48 Al hardware and closing thoughts THANKS TO THE TESTERS Ben Davis - @davis7 Ben Hylak - @benhylak Dex Hor",
-   "url": "https://nitter.kareem.one/swyx/status/2113015355878850909#m",
-   "ts": 1792617093,
-   "id": "2113015355878850909#m"
   },
   {
    "handle": "swyx",
@@ -896,6 +887,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2112189631374438662#m",
    "ts": 1792420225,
    "id": "2112189631374438662#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Should every agent wait in the same approval queue? @jxxf contrasts a ticket summarizer with an agent that can deploy to production. One review process can delay small experiments and divide reviewers' attention. 77 seconds from AI Engineer New York. #AIEngineerNY Video",
+   "url": "https://nitter.kareem.one/aiDotEngineer/status/2112181981530476646#m",
+   "ts": 1792418401,
+   "id": "2112181981530476646#m"
   },
   {
    "handle": "ZichenWanghere",
