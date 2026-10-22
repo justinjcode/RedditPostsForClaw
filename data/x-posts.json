@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T09:46:50Z",
+ "generated_at": "2026-10-22T09:56:59Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "From what I can tell from my exposure to it, the Japanese voice on this platform is the most blessed and wholesome signal in world media. 🩷🇯🇵",
+   "url": "https://nitter.kareem.one/xenocosmography/status/2113203265341165866#m",
+   "ts": 1792661894,
+   "id": "2113203265341165866#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -175,15 +184,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2112995463896945079#m",
    "ts": 1792612350,
    "id": "2112995463896945079#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Robotaxi makes the roads safer for everyone Video",
-   "url": "https://nitter.kareem.one/robotaxi/status/2112993544243937383#m",
-   "ts": 1792611893,
-   "id": "2112993544243937383#m"
   },
   {
    "handle": "swyx",
