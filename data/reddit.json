@@ -1,15 +1,36 @@
 {
- "generated_at": "2026-10-22T04:13:32Z",
+ "generated_at": "2026-10-22T06:20:12Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
+  "MachineLearning",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Huawei Atlas AI Accelerator Latest Comparison Overview",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc9oje/huawei_atlas_ai_accelerator_latest_comparison/",
+   "ts": 1792645729,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "What's your favorite medium to large (~50-150b params) MOE model? Aside from Qwen flash next.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc84ht/whats_your_favorite_medium_to_large_50150b_params/",
+   "ts": 1792640671,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "I have an answer! Qwen Flash Next IQ2 IS better than Q8 of 27B (for me).",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc7n0n/i_have_an_answer_qwen_flash_next_iq2_is_better/",
+   "ts": 1792639114,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Open source LLM appreciation post",
@@ -29,13 +50,6 @@
    "title": "2-bit copy in VRAM + exact residual in system RAM as the verifier: speculative decoding for models that don't fit your GPU",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc55z3/2bit_copy_in_vram_exact_residual_in_system_ram_as/",
    "ts": 1792631908,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "After using Flash next",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc4mn5/after_using_flash_next/",
-   "ts": 1792630347,
    "source": "Reddit"
   },
   {
@@ -152,13 +166,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "IBM Granite Speech 5.0 2B",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbr2yg/ibm_granite_speech_50_2b/",
-   "ts": 1792598355,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "OK, fine, Qwen 3.8 Flash Next is nice",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbqxh5/ok_fine_qwen_38_flash_next_is_nice/",
    "ts": 1792598021,
@@ -197,13 +204,6 @@
    "title": "PHP2Shell: Critical vulnerabilities in the backbone of the web",
    "url": "https://www.reddit.com/r/programming/comments/1xbo19y/php2shell_critical_vulnerabilities_in_the/",
    "ts": 1792591402,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "35B MoE running at 20.5 tok/s on an iPhone, without skipping experts",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbmsgf/35b_moe_running_at_205_toks_on_an_iphone_without/",
-   "ts": 1792588328,
    "source": "Reddit"
   },
   {
