@@ -1,17 +1,18 @@
 {
- "generated_at": "2026-10-22T15:54:48Z",
+ "generated_at": "2026-10-22T16:10:09Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@swyx: all instances failed",
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 179,
  "items": [
   {
@@ -130,6 +131,15 @@
    "url": "https://nitter.kareem.one/biannagolodryga/status/2113254988621218057#m",
    "ts": 1792674226,
    "id": "2113254988621218057#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok Bot is now on X Chat",
+   "url": "https://nitter.kareem.one/techdevnotes/status/2113218324809269398#m",
+   "ts": 1792665484,
+   "id": "2113218324809269398#m"
   },
   {
    "handle": "TheRundownAI",
@@ -312,6 +322,15 @@
    "id": "2113022541748916413#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Terafab will be the most epic chip-building exercise ever, producing one terawatt of SI compute annually Join us tesla.com/careers/search/?si… Video",
+   "url": "https://nitter.kareem.one/TeslaRecruiting/status/2113015046372839581#m",
+   "ts": 1792617019,
+   "id": "2113015046372839581#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -411,15 +430,6 @@
    "id": "2112961323550335062#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Thanks to SpaceX the US has now finally sent more total mass to orbit than Russia.",
-   "url": "https://nitter.kareem.one/ApoStructura/status/2112956535412248876#m",
-   "ts": 1792603069,
-   "id": "2112956535412248876#m"
-  },
-  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -499,15 +509,6 @@
    "url": "https://nitter.kareem.one/nicknisi/status/2112925592974655548#m",
    "ts": 1792595692,
    "id": "2112925592974655548#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Tesla just took the top two spots in Europe's entire car market September 2026: #1 Tesla Model Y: 40,971 #2 Tesla Model 3: 25,057 #3 Volkswagen Golf: 18,088 The two best-selling cars across every brand and every fuel type were Teslas Tesla recorded 66,035 registrations in total for the month, representing around 98% of the market",
-   "url": "https://nitter.kareem.one/XFreeze/status/2112924647075537340#m",
-   "ts": 1792595466,
-   "id": "2112924647075537340#m"
   },
   {
    "handle": "TheRundownAI",
