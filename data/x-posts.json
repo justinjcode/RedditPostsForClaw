@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-22T22:08:27Z",
+ "generated_at": "2026-10-22T22:22:38Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -10,11 +10,20 @@
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Craft, Canva’s first in-house image model, just debuted at No. 4 on Design Arena’s rankings (behind only OpenAI’s three models). It was trained on millions of Canva templates, and Canva says the model plans each layout before drawing it, so images convert easily into editable designs via its Magic Layers feature. An impressive first release for Canva Research, the company’s newly unveiled 160+ person in-house AI lab. Video",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2113392393953104076#m",
+   "ts": 1792706986,
+   "id": "2113392393953104076#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -1040,15 +1049,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2112491722189967737#m",
    "ts": 1792492249,
    "id": "2112491722189967737#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in AI today: - Anthropic co-founder says the singularity is underway - One hacker’s AI agents break into 100+ companies - Try ChatGPT’s new voices with GPT-Live-1.1 - Inception’s Mercury 3 speeds past rivals",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2112491717408485528#m",
-   "ts": 1792492248,
-   "id": "2112491717408485528#m"
   },
   {
    "handle": "thsottiaux",
