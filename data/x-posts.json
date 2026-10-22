@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-10-22T19:48:28Z",
+ "generated_at": "2026-10-22T19:56:26Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
-  "@bcherny: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "Spotted a familiar creature at 00:45s in this new music video for FREEDOM by De Staad inv.kareem.one/watch?v=hKO4pQtI… Video",
+   "url": "https://nitter.kareem.one/simonw/status/2113356466770121166#m",
+   "ts": 1792698420,
+   "id": "2113356466770121166#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -1571,15 +1580,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2108347087985480107#m",
    "ts": 1791504091,
    "id": "2108347087985480107#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "Note that their press release from when he pleaded guilty back on March 19th used \"North Carolina Man Pleads Guilty To Music Streaming Fraud Aided By Artificial Intelligence\" because of course it did justice.gov/usao-sdny/pr/nor… Link North Carolina Man Pleads Guilty To Music Streaming Fraud Aided By United States Attorney for the Southern District of New York, Jay Clayton, announced the guilty plea today of MICHAEL SMITH for his role in a scheme to defraud music streaming platforms and musicians... justice.gov",
-   "url": "https://nitter.kareem.one/simonw/status/2108346352090636583#m",
-   "ts": 1791503916,
-   "id": "2108346352090636583#m"
   },
   {
    "handle": "bcherny",
