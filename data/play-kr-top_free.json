@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T22:39:42.199Z",
+ "updated_at": "2026-10-22T22:38:04.874Z",
  "collection": "TOP_FREE",
  "country": "kr",
  "apps": [
@@ -8,420 +8,420 @@
    "appId": "com.openai.chatgpt",
    "title": "ChatGPT",
    "developer": "OpenAI",
-   "score": 4.806039
+   "score": 4.8065147
   },
   {
    "rank": 2,
    "appId": "com.aap048.pdf.reader.pdfviewer.pdfeditor",
    "title": "PDF Reader & All Docs Viewer",
    "developer": "CRJ SOFTWARE TECHNOLOGIES PRIVATE LIMITED",
-   "score": 4.43038
+   "score": 4.4356437
   },
   {
    "rank": 3,
-   "appId": "com.navercorp.navershopping",
-   "title": "네이버플러스 스토어",
-   "developer": "NAVER Corp.",
-   "score": 4.874958
-  },
-  {
-   "rank": 4,
    "appId": "com.trusted.pdfeditor.pdfreader",
    "title": "PDF ProX: PDF Reader & Editor",
    "developer": "Office Suite Pro",
-   "score": 3.6260164
+   "score": 3.606383
+  },
+  {
+   "rank": 4,
+   "appId": "com.navercorp.navershopping",
+   "title": "네이버플러스 스토어",
+   "developer": "NAVER Corp.",
+   "score": 4.874134
   },
   {
    "rank": 5,
-   "appId": "com.hanabank.oqf",
-   "title": "하나은행, 새로워진 하나원큐를 경험해보세요",
-   "developer": "Hanabank",
-   "score": 4.240088
-  },
-  {
-   "rank": 6,
    "appId": "com.freereels.app",
    "title": "FreeReels - Dramas & Reels",
    "developer": "SKYWORK AI PTE.LTD.",
-   "score": 4.799479
+   "score": 4.76943
+  },
+  {
+   "rank": 6,
+   "appId": "com.hanabank.oqf",
+   "title": "하나은행, 새로워진 하나원큐를 경험해보세요",
+   "developer": "Hanabank",
+   "score": 4.243421
   },
   {
    "rank": 7,
-   "appId": "com.netshort.abroad",
-   "title": "NetShort - Popular Dramas & TV",
-   "developer": "NETSTORY PTE. LTD.",
-   "score": 4.6954975
-  },
-  {
-   "rank": 8,
    "appId": "com.anthropic.claude",
    "title": "Claude by Anthropic",
    "developer": "Anthropic PBC",
-   "score": 4.788889
+   "score": 4.792012
   },
   {
-   "rank": 9,
+   "rank": 8,
    "appId": "com.scannerreader.qrcode.creatorfree",
    "title": "QR Scanner",
    "developer": "P & L Studio",
-   "score": 3.599278
+   "score": 3.6021504
   },
   {
-   "rank": 10,
-   "appId": "com.getsticker.wasticker.wastickerapp.stickerpack.detectivedog",
-   "title": "Animal Art - Sticker & Pack",
-   "developer": "Neku Avatar Studio",
-   "score": 4.6049385
-  },
-  {
-   "rank": 11,
-   "appId": "com.newleaf.app.android.victor",
-   "title": "ReelShort - Stream Drama & TV",
-   "developer": "NewLeaf Publishing",
-   "score": 4.295143
-  },
-  {
-   "rank": 12,
-   "appId": "com.ss.android.ugc.tiktok.lite",
-   "title": "TikTok Lite",
-   "developer": "TikTok Pte. Ltd.",
-   "score": 4.6623526
-  },
-  {
-   "rank": 13,
-   "appId": "com.nhn.android.webtoon",
-   "title": "네이버 웹툰 - Naver Webtoon",
-   "developer": "NAVER WEBTOON",
-   "score": 4.541401
-  },
-  {
-   "rank": 14,
-   "appId": "com.storymatrix.drama",
-   "title": "DramaBox - Stream Drama Shorts",
-   "developer": "STORYMATRIX",
-   "score": 4.599621
-  },
-  {
-   "rank": 15,
-   "appId": "com.ss.android.ugc.trill",
-   "title": "TikTok",
-   "developer": "TikTok Pte. Ltd.",
-   "score": 3.896132
-  },
-  {
-   "rank": 16,
-   "appId": "com.einnovation.temu",
-   "title": "Temu: Shop Like a Billionaire",
-   "developer": "Temu",
-   "score": 4.47325
-  },
-  {
-   "rank": 17,
-   "appId": "com.nonghyup.nhallonebank",
-   "title": "NH올원뱅크(농협은행 대표 플랫폼)",
-   "developer": "NH농협은행",
-   "score": 3.9594438
-  },
-  {
-   "rank": 18,
-   "appId": "com.shinhan.sbanking",
-   "title": "신한 슈퍼SOL - 신한 유니버셜 금융 앱",
-   "developer": "Shinhan Bank",
-   "score": 4.7117963
-  },
-  {
-   "rank": 19,
-   "appId": "com.meritz.hawaii",
-   "title": "MOUM (모음)",
-   "developer": "메리츠증권",
-   "score": 4.2608695
-  },
-  {
-   "rank": 20,
-   "appId": "com.duolingo",
-   "title": "Duolingo: Learn Languages",
-   "developer": "Duolingo",
-   "score": 4.8328943
-  },
-  {
-   "rank": 21,
-   "appId": "today.chips",
-   "title": "칩스 - 최저가 알림 · 경유 쇼핑으로 추가 적립",
-   "developer": "NBT Inc.",
-   "score": 4.7709174
-  },
-  {
-   "rank": 22,
-   "appId": "all.documentreader.filereader.office.viewer",
-   "title": "Document Reader & PDF Editor",
-   "developer": "QR Code Scanner.",
-   "score": 3.9166667
-  },
-  {
-   "rank": 23,
-   "appId": "io.ironpig.lovemoment",
-   "title": "내가 당신을 사랑할 때 보이는 순간들: 빈티지 카메라앱",
-   "developer": "ironpig Inc.",
-   "score": 4.9210525
-  },
-  {
-   "rank": 24,
-   "appId": "com.instagram.android",
-   "title": "Instagram",
-   "developer": "Instagram",
-   "score": 4.0108776
-  },
-  {
-   "rank": 25,
-   "appId": "ctrip.english",
-   "title": "Trip.com: Book Flights, Hotels",
-   "developer": "Trip.com",
-   "score": 4.737872
-  },
-  {
-   "rank": 26,
-   "appId": "net.ib.android.smcard",
-   "title": "모니모(삼성금융통합앱) 생명 화재 카드 증권",
-   "developer": "Samsung Card",
-   "score": 4.5930557
-  },
-  {
-   "rank": 27,
+   "rank": 9,
    "appId": "com.espublishing.pdfreader.viewer.pdfeditor",
    "title": "PDF Reader - Edit All PDFs",
    "developer": "Start Up",
-   "score": 3.447619
+   "score": 3.4059405
   },
   {
-   "rank": 28,
-   "appId": "com.towneers.www",
-   "title": "당근 - 당신 근처의 지역 생활 커뮤니티",
-   "developer": "Danggeun Market Inc.",
-   "score": 3.1649773
+   "rank": 10,
+   "appId": "com.newleaf.app.android.victor",
+   "title": "ReelShort - Stream Drama & TV",
+   "developer": "NewLeaf Publishing",
+   "score": 4.274436
   },
   {
-   "rank": 29,
-   "appId": "com.samsung.android.goodlock",
-   "title": "Good Lock",
-   "developer": "Samsung Electronics Co.,  Ltd.",
-   "score": 4.24
+   "rank": 11,
+   "appId": "com.getsticker.wasticker.wastickerapp.stickerpack.detectivedog",
+   "title": "Animal Art - Sticker & Pack",
+   "developer": "Neku Avatar Studio",
+   "score": 4.5935483
   },
   {
-   "rank": 30,
-   "appId": "com.komsco.kpay",
-   "title": "디지털온누리",
-   "developer": "KOMSCO",
-   "score": 3.6513379
-  },
-  {
-   "rank": 31,
+   "rank": 12,
    "appId": "pdf.pdfreader.viewer.editor.free",
    "title": "PDF Reader - PDF Editor",
    "developer": "QR Code Scanner.",
-   "score": 3.9873645
+   "score": 3.9891891
+  },
+  {
+   "rank": 13,
+   "appId": "com.ss.android.ugc.tiktok.lite",
+   "title": "TikTok Lite",
+   "developer": "TikTok Pte. Ltd.",
+   "score": 4.6618915
+  },
+  {
+   "rank": 14,
+   "appId": "com.shinhan.sbanking",
+   "title": "신한 슈퍼SOL - 신한 유니버셜 금융 앱",
+   "developer": "Shinhan Bank",
+   "score": 4.7132077
+  },
+  {
+   "rank": 15,
+   "appId": "pdfreader.proeditor.freepdfviewer",
+   "title": "PDF Reader, All PDF Editor",
+   "developer": "Techverse LTD",
+   "score": 3.8
+  },
+  {
+   "rank": 16,
+   "appId": "all.documentreader.filereader.office.viewer",
+   "title": "Document Reader & PDF Editor",
+   "developer": "QR Code Scanner.",
+   "score": 3.898148
+  },
+  {
+   "rank": 17,
+   "appId": "com.netshort.abroad",
+   "title": "NetShort - Popular Dramas & TV",
+   "developer": "NETSTORY PTE. LTD.",
+   "score": 4.6962667
+  },
+  {
+   "rank": 18,
+   "appId": "com.nonghyup.nhallonebank",
+   "title": "NH올원뱅크(농협은행 대표 플랫폼)",
+   "developer": "NH농협은행",
+   "score": 3.9571264
+  },
+  {
+   "rank": 19,
+   "appId": "com.ss.android.ugc.trill",
+   "title": "TikTok",
+   "developer": "TikTok Pte. Ltd.",
+   "score": 3.8960578
+  },
+  {
+   "rank": 20,
+   "appId": "com.cultsotry.yanolja.nativeapp",
+   "title": "NOL : 야놀자와 인터파크의 새로운 이름",
+   "developer": "(주)놀유니버스",
+   "score": 4.6711226
+  },
+  {
+   "rank": 21,
+   "appId": "com.duolingo",
+   "title": "Duolingo: Learn Languages",
+   "developer": "Duolingo",
+   "score": 4.8324723
+  },
+  {
+   "rank": 22,
+   "appId": "com.einnovation.temu",
+   "title": "Temu: Shop Like a Billionaire",
+   "developer": "Temu",
+   "score": 4.474103
+  },
+  {
+   "rank": 23,
+   "appId": "kr.go.mobileid",
+   "title": "Mobile IDentification App",
+   "developer": "행정안전부",
+   "score": 3.6892858
+  },
+  {
+   "rank": 24,
+   "appId": "kr.or.nhic",
+   "title": "건강보험25시",
+   "developer": "국민건강보험공단",
+   "score": 3.6167088
+  },
+  {
+   "rank": 25,
+   "appId": "ai.hailuo.video",
+   "title": "Hailuo AI: Image&Video Maker",
+   "developer": "MiniMax AI",
+   "score": 3.6754386
+  },
+  {
+   "rank": 26,
+   "appId": "com.instagram.android",
+   "title": "Instagram",
+   "developer": "Instagram",
+   "score": 4.011062
+  },
+  {
+   "rank": 27,
+   "appId": "net.ib.android.smcard",
+   "title": "모니모(삼성금융통합앱) 생명 화재 카드 증권",
+   "developer": "Samsung Card",
+   "score": 4.5923553
+  },
+  {
+   "rank": 28,
+   "appId": "io.ironpig.lovemoment",
+   "title": "내가 당신을 사랑할 때 보이는 순간들: 빈티지 카메라앱",
+   "developer": "ironpig Inc.",
+   "score": 4.832
+  },
+  {
+   "rank": 29,
+   "appId": "kr.or.nhiq",
+   "title": "모바일 건강보험증",
+   "developer": "국민건강보험공단",
+   "score": 3.7122092
+  },
+  {
+   "rank": 30,
+   "appId": "ctrip.english",
+   "title": "Trip.com: Book Flights, Hotels",
+   "developer": "Trip.com",
+   "score": 4.7390556
+  },
+  {
+   "rank": 31,
+   "appId": "com.nhn.android.webtoon",
+   "title": "네이버 웹툰 - Naver Webtoon",
+   "developer": "NAVER WEBTOON",
+   "score": 4.5399804
   },
   {
    "rank": 32,
    "appId": "com.hwpviewer.hwp",
    "title": "한글 뷰어 편집기 - 무료·광고 없고 HWP PDF저장",
    "developer": "Security DNS Zone",
-   "score": 4.7134023
+   "score": 4.686354
   },
   {
    "rank": 33,
-   "appId": "com.nhn.android.nmap",
-   "title": "NAVER Maps, Navigation",
-   "developer": "NAVER Corp.",
-   "score": 4.7790437
+   "appId": "today.chips",
+   "title": "칩스 - 최저가 알림 · 경유 쇼핑으로 추가 적립",
+   "developer": "NBT Inc.",
+   "score": 4.7713246
   },
   {
    "rank": 34,
-   "appId": "kr.or.nhiq",
-   "title": "모바일 건강보험증",
-   "developer": "국민건강보험공단",
-   "score": 3.7080925
+   "appId": "com.storymatrix.drama",
+   "title": "DramaBox - Stream Drama Shorts",
+   "developer": "STORYMATRIX",
+   "score": 4.5991282
   },
   {
    "rank": 35,
-   "appId": "com.nhn.android.nbooks",
-   "title": "SERIES",
-   "developer": "NAVER WEBTOON",
-   "score": 4.349095
+   "appId": "kr.or.nps.smart",
+   "title": "내 곁에 국민연금",
+   "developer": "National Pension Service",
+   "score": 3.735294
   },
   {
    "rank": 36,
    "appId": "com.kakao.talk",
    "title": "KakaoTalk : Messenger",
    "developer": "Kakao Corp.",
-   "score": 4.510386
+   "score": 4.5094905
   },
   {
    "rank": 37,
-   "appId": "com.coupang.mobile.eats",
-   "title": "Coupang Eats - Food Delivery",
-   "developer": "Coupang Corp.",
-   "score": 4.7919817
-  },
-  {
-   "rank": 38,
-   "appId": "com.kakao.taxi",
-   "title": "Kakao T - Taxi, Driver, Bike",
-   "developer": "Kakao Mobility Corp.",
-   "score": 3.287998
-  },
-  {
-   "rank": 39,
-   "appId": "com.dramawave.app",
-   "title": "DramaWave - Dramas & Reels",
-   "developer": "SKYWORK AI PTE.LTD.",
-   "score": 3.9356222
-  },
-  {
-   "rank": 40,
    "appId": "com.kakaopay.app",
    "title": "카카오페이",
    "developer": "kakaopay corp.",
-   "score": 3.4733238
+   "score": 3.4734378
+  },
+  {
+   "rank": 38,
+   "appId": "com.nhn.android.nmap",
+   "title": "NAVER Maps, Navigation",
+   "developer": "NAVER Corp.",
+   "score": 4.777913
+  },
+  {
+   "rank": 39,
+   "appId": "com.meritz.hawaii",
+   "title": "MOUM (모음)",
+   "developer": "메리츠증권",
+   "score": 4.2580647
+  },
+  {
+   "rank": 40,
+   "appId": "com.komsco.kpay",
+   "title": "디지털온누리",
+   "developer": "KOMSCO",
+   "score": 3.6465232
   },
   {
    "rank": 41,
-   "appId": "com.nhn.android.search",
-   "title": "네이버 - NAVER",
-   "developer": "NAVER Corp.",
-   "score": 3.5844007
+   "appId": "com.towneers.www",
+   "title": "당근 - 당신 근처의 지역 생활 커뮤니티",
+   "developer": "Danggeun Market Inc.",
+   "score": 3.1638765
   },
   {
    "rank": 42,
-   "appId": "com.coupang.mobile",
-   "title": "Coupang - Mobile Shopping",
-   "developer": "Coupang Corp.",
-   "score": 3.6034365
+   "appId": "com.nhn.android.search",
+   "title": "네이버 - NAVER",
+   "developer": "NAVER Corp.",
+   "score": 3.5853581
   },
   {
    "rank": 43,
-   "appId": "com.protechtools.cleaner.storage.ai",
-   "title": "AI Cleaner: Cleanup Storage",
-   "developer": "ProTech Tools",
-   "score": 4.233333
+   "appId": "com.coupang.mobile",
+   "title": "Coupang - Mobile Shopping",
+   "developer": "Coupang Corp.",
+   "score": 3.6037145
   },
   {
    "rank": 44,
-   "appId": "com.croquis.zigzag",
-   "title": "Zigzag: +7000 shops in one app",
-   "developer": "Kakao Style Corp.",
-   "score": 4.2570148
+   "appId": "com.kakao.taxi",
+   "title": "Kakao T - Taxi, Driver, Bike",
+   "developer": "Kakao Mobility Corp.",
+   "score": 3.2868257
   },
   {
    "rank": 45,
-   "appId": "ai.hailuo.video",
-   "title": "Hailuo AI: Image&Video Maker",
-   "developer": "MiniMax AI",
-   "score": 3.745614
-  },
-  {
-   "rank": 46,
-   "appId": "com.wmpoplus.hoocham",
-   "title": "후라이드참잘하는집",
-   "developer": "WMPO Inc.",
-   "score": 4.7616277
-  },
-  {
-   "rank": 47,
-   "appId": "com.spotify.music",
-   "title": "Spotify: Music and Podcasts",
-   "developer": "Spotify AB",
-   "score": 4.5889897
-  },
-  {
-   "rank": 48,
-   "appId": "kr.or.nhic",
-   "title": "건강보험25시",
-   "developer": "국민건강보험공단",
-   "score": 3.6169028
-  },
-  {
-   "rank": 49,
-   "appId": "com.cultsotry.yanolja.nativeapp",
-   "title": "NOL : 야놀자와 인터파크의 새로운 이름",
-   "developer": "(주)놀유니버스",
-   "score": 4.6719
-  },
-  {
-   "rank": 50,
    "appId": "com.instagram.barcelona",
    "title": "Threads",
    "developer": "Instagram",
-   "score": 4.292868
+   "score": 4.2947593
+  },
+  {
+   "rank": 46,
+   "appId": "com.spotify.music",
+   "title": "Spotify: Music and Podcasts",
+   "developer": "Spotify AB",
+   "score": 4.58715
+  },
+  {
+   "rank": 47,
+   "appId": "com.croquis.zigzag",
+   "title": "Zigzag: +7000 shops in one app",
+   "developer": "Kakao Style Corp.",
+   "score": 4.2574906
+  },
+  {
+   "rank": 48,
+   "appId": "com.wmpoplus.hoocham",
+   "title": "후라이드참잘하는집",
+   "developer": "WMPO Inc.",
+   "score": 4.889423
+  },
+  {
+   "rank": 49,
+   "appId": "com.suno.android",
+   "title": "Suno - AI Music & Songs Maker",
+   "developer": "Suno, Inc",
+   "score": 4.873557
+  },
+  {
+   "rank": 50,
+   "appId": "kr.go.minwon.m",
+   "title": "정부24(구 민원24)",
+   "developer": "행정안전부",
+   "score": 4.501658
   },
   {
    "rank": 51,
-   "appId": "com.banix.drawsound.drawmusic",
-   "title": "Draw Music: Sketch to Sound",
-   "developer": "Banix Studio",
-   "score": 4.5037594
+   "appId": "com.coupang.mobile.eats",
+   "title": "Coupang Eats - Food Delivery",
+   "developer": "Coupang Corp.",
+   "score": 4.7958813
   },
   {
    "rank": 52,
-   "appId": "com.brighteasestudio.pdfreader.pdfeditor",
-   "title": "All PDF Reader & PDF Editor",
-   "developer": "BrightEase Studio",
-   "score": 3.26
+   "appId": "aptip.app",
+   "title": "아파트아이 - 아파트 생활 필수 앱",
+   "developer": "(주)아파트아이",
+   "score": 3.5167394
   },
   {
    "rank": 53,
-   "appId": "com.netflix.mediaclient",
-   "title": "Netflix",
-   "developer": "Netflix, Inc.",
-   "score": 4.830796
+   "appId": "net.daum.android.map",
+   "title": "KakaoMap - Map / Navigation",
+   "developer": "Kakao Corp.",
+   "score": 3.6971154
   },
   {
    "rank": 54,
-   "appId": "com.pdfconverter.pdf.editor",
-   "title": "All PDF Converter: PDF Reader",
-   "developer": "Theme Inc",
-   "score": 3.6296296
+   "appId": "com.korail.talk",
+   "title": "Korail+",
+   "developer": "한국철도공사",
+   "score": 3.3607664
   },
   {
    "rank": 55,
-   "appId": "com.binance.dev",
-   "title": "Binance: Buy Bitcoin & Crypto",
-   "developer": "Binance Inc.",
-   "score": 4.7424626
+   "appId": "com.shinhan.o2o",
+   "title": "땡겨요",
+   "developer": "Shinhan Bank",
+   "score": 4.823046
   },
   {
    "rank": 56,
    "appId": "com.uxlayer.wipoint",
    "title": "다이소몰 – 온라인 국민가게",
    "developer": "Asung Daiso",
-   "score": 4.8080664
+   "score": 4.8083315
   },
   {
    "rank": 57,
-   "appId": "kr.or.nps.smart",
-   "title": "내 곁에 국민연금",
-   "developer": "National Pension Service",
-   "score": 3.73211
-  },
-  {
-   "rank": 58,
-   "appId": "com.suno.android",
-   "title": "Suno - AI Music & Songs Maker",
-   "developer": "Suno, Inc",
-   "score": 4.872934
-  },
-  {
-   "rank": 59,
-   "appId": "kr.go.mobileid",
-   "title": "Mobile IDentification App",
-   "developer": "행정안전부",
-   "score": 3.6935341
-  },
-  {
-   "rank": 60,
    "appId": "com.hanasec.pro",
    "title": "하나증권V-대표MTS(NEW)",
    "developer": "Hana Securities Co., Ltd.",
-   "score": 4.1485147
+   "score": 4.3689322
+  },
+  {
+   "rank": 58,
+   "appId": "com.kakaobank.channel",
+   "title": "카카오뱅크",
+   "developer": "KakaoBank Corp.",
+   "score": 3.5943966
+  },
+  {
+   "rank": 59,
+   "appId": "com.samsung.android.goodlock",
+   "title": "Good Lock",
+   "developer": "Samsung Electronics Co.,  Ltd.",
+   "score": 4.2178216
+  },
+  {
+   "rank": 60,
+   "appId": "com.pdfconverter.pdf.editor",
+   "title": "All PDF Converter: PDF Reader",
+   "developer": "Theme Inc",
+   "score": 3.607143
   }
  ]
 }
