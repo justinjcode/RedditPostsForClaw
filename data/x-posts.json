@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T14:26:58Z",
+ "generated_at": "2026-10-22T14:42:17Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,33 @@
  "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: robotnews.therundown.ai/p/a-… Link A robot butler with Pixar ambitions Uni robotnews.therundown.ai",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2113276745558180321#m",
+   "ts": 1792679413,
+   "id": "2113276745558180321#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in robotics today: - This $20K robot butler is up for reservations - Unitree H2-X plays action hero - Tesla fires up Optimus production - Waymo wants 20K robotaxis by 2027",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2113276740483113213#m",
+   "ts": 1792679412,
+   "id": "2113276740483113213#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "My AIE talk is live! I talk about the benchmark I've been building for 5 months now and released it publicly for the first time there :) Louis-François Bouchard of Towards AI breaks down what makes AI writing feel like slop: overused words, vague generalities, saying nothing, repetition, hallucination and a voice that sounds like everyone at once. He then shows how his team built a benchmark to measure whether a model can write a video script in his own voice: 10 scripts, 5 drafts per model, 4 LLM judges, nine scoring metrics and 1,000 human A/B checks. He shares what it cost, why judges favor their own model family, and practical tips for writing with AI: very long prompts full of examples, one review pass from a strong model, many cheap drafts merged together, and always a human edit. Thanks again @aiDotEngineer , @swyx for inviting me and hosting yet another amazing event. Watch it here: inv.kareem.one/_dTF3NpPzGo Link Why AI Writing Still Reads Like Slop — Louis-François Bouchard,... Louis-François Bouchard of Towards AI breaks down what makes AI wri... youtube.com",
+   "url": "https://nitter.kareem.one/Whats_AI/status/2113275444900360264#m",
+   "ts": 1792679103,
+   "id": "2113275444900360264#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -198,7 +225,7 @@
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
-   "text": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
+   "text": "Fully included in the Pro plan, doesn't draw on your weekly usage. Community note: As of 22 October 2026, OpenAI’s dots are unavailable to ChatGPT Pro users in the EU. OpenAI excludes the European Economic Area (which includes all EU countries), the UK and Switzerland from Pro access. [Source: OpenAI documentation]( learn.chatgpt.com/docs/dots",
    "url": "https://nitter.kareem.one/thsottiaux/status/2113029854417600834#m",
    "ts": 1792620550,
    "id": "2113029854417600834#m"
@@ -699,15 +726,6 @@
    "id": "2112603621917663592#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Cancer patients with the same diagnosis often have very different tumor biology. Molecular testing can reveal underlying differences, but that's slow and expensive. Introducing Holon-S1, our platform to predict genes and biomarkers from routine pathology slides. • beats two other models at predicting spatial gene activity in a controlled comparison • has identified potentially novel biomarkers in breast cancer and colon cancer • evaluated across 16 organ types and more than 15 scanners, using slides from both formalin-fixed, paraffin-embedded and fresh-frozen tissue. We believe Holon-S1 has the potential to help researchers find new biomarkers in slides they already have, discover treatment targets, and bring more personalized cancer care within reach! Video",
-   "url": "https://nitter.kareem.one/iScienceLuvr/status/2112597012088844407#m",
-   "ts": 1792517352,
-   "id": "2112597012088844407#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -922,24 +940,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2112256049311072339#m",
    "ts": 1792436060,
    "id": "2112256049311072339#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Anthropic co-founder Jack Clark went on record at the IMF about putting a ceiling on AI intelligence. Moderator Raghuram Rajan, the IMF’s former chief economist, asked at what point humans hand AI the reins. Clark: \"Our CEO Dario Amodei said in a public post that we may want to introduce limits on the ceiling of intelligence that you allow for these systems.\" He called it a conversation \"that is maybe a little at the edge of the Overton window.\" \"We're in control of this technology now, and we're watching it get much more capable, much more quickly than all of our intuitions.\" “The window for us to act is a small number of years.” Video",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2112238340787282162#m",
-   "ts": 1792431838,
-   "id": "2112238340787282162#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: robotnews.therundown.ai/p/so… Link SoftBank’s $18B bet on robot guards PLUS: Teleport to grandma's with this robot robotnews.therundown.ai",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2112189637145792730#m",
-   "ts": 1792420226,
-   "id": "2112189637145792730#m"
   },
   {
    "handle": "ZichenWanghere",
