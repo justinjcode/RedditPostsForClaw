@@ -1,20 +1,90 @@
 {
- "generated_at": "2026-10-22T10:12:20Z",
+ "generated_at": "2026-10-22T14:12:34Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Caddyfile help re: reverse proxy simplification",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xciyhc/caddyfile_help_re_reverse_proxy_simplification/",
+   "ts": 1792676605,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "How to best store photos for easy review?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xchrk9/how_to_best_store_photos_for_easy_review/",
+   "ts": 1792673654,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Android FreshRSS client with an offline archive and search (fork of ReadYou)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xchgmx/android_freshrss_client_with_an_offline_archive/",
+   "ts": 1792672810,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Carbon-X is an open 14.8B model trained jointly on DNA and text [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xchayq/carbonx_is_an_open_148b_model_trained_jointly_on/",
+   "ts": 1792672376,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "I Tried to Find Out How ClickHouse Keeper Takes Non-Blocking Snapshots",
+   "url": "https://www.reddit.com/r/programming/comments/1xchal4/i_tried_to_find_out_how_clickhouse_keeper_takes/",
+   "ts": 1792672346,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Noob needing advice - internet",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xcgosi/noob_needing_advice_internet/",
+   "ts": 1792670612,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Arcana: One Pure-Java Library for (Almost) Every Archive Format",
+   "url": "https://www.reddit.com/r/programming/comments/1xcgl1u/arcana_one_purejava_library_for_almost_every/",
+   "ts": 1792670357,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Would you trust an app that only open-sources what runs on your server?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xcewem/would_you_trust_an_app_that_only_opensources_what/",
+   "ts": 1792664954,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Parallel execution as part of a language's basic execution model",
+   "url": "https://www.reddit.com/r/programming/comments/1xce6ip/parallel_execution_as_part_of_a_languages_basic/",
+   "ts": 1792662442,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Tried LFM2.5-24-A2B. It's crap. Yes. I double confirm it. I wouldn't trust it peeling a peanut correctly",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xce5dd/tried_lfm2524a2b_its_crap_yes_i_double_confirm_it/",
    "ts": 1792662324,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Looking for alternatives to expensive industrial ERP systems (ISO 13485 / 21 CFR Part 11, self-hosted)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xcdwsz/looking_for_alternatives_to_expensive_industrial/",
+   "ts": 1792661407,
    "source": "Reddit"
   },
   {
@@ -29,6 +99,13 @@
    "title": "TornadoVM 7 Enables GPU-Native Workloads From Java Applications",
    "url": "https://www.reddit.com/r/programming/comments/1xcc8i8/tornadovm_7_enables_gpunative_workloads_from_java/",
    "ts": 1792654946,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Frontier models are bad at hearing ASMR: 8 judges vs human labels on 480 clips [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xcbqdm/frontier_models_are_bad_at_hearing_asmr_8_judges/",
+   "ts": 1792653018,
    "source": "Reddit"
   },
   {
@@ -88,13 +165,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Arcane: Why so many images?!?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xc45n8/arcane_why_so_many_images/",
-   "ts": 1792628946,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Recursive Flint - the \"Qwen3.8 35B\" we've all been waiting for?",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc23iq/recursive_flint_the_qwen38_35b_weve_all_been/",
@@ -106,13 +176,6 @@
    "title": "What to do about recent vulnerabilities",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xbztqr/what_to_do_about_recent_vulnerabilities/",
    "ts": 1792617649,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Task Link: Nextcloud and CalDAV tasks on your Garmin watch",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xbz692/task_link_nextcloud_and_caldav_tasks_on_your/",
-   "ts": 1792616160,
    "source": "Reddit"
   },
   {
@@ -148,13 +211,6 @@
    "title": "Tried running 748B DeepSeek-V4.1-Flash on a €2k PC",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xburkx/tried_running_748b_deepseekv41flash_on_a_2k_pc/",
    "ts": 1792606288,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "NGINX Proxy Guard",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xbu3yf/nginx_proxy_guard/",
-   "ts": 1792604889,
    "source": "Reddit"
   },
   {
@@ -207,31 +263,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Portabase (OSS backup/restore platform) now supports file and directory backups",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xbp8ua/portabase_oss_backuprestore_platform_now_supports/",
-   "ts": 1792594211,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Unintended Computations @ hack.lu",
-   "url": "https://www.reddit.com/r/programming/comments/1xbp8ti/unintended_computations_hacklu/",
-   "ts": 1792594209,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "PHP2Shell: Critical vulnerabilities in the backbone of the web",
    "url": "https://www.reddit.com/r/programming/comments/1xbo19y/php2shell_critical_vulnerabilities_in_the/",
    "ts": 1792591402,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Why isn't XMPP more popular than Matrix if it's simpler in architecture?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xbm5ef/why_isnt_xmpp_more_popular_than_matrix_if_its/",
-   "ts": 1792586660,
    "source": "Reddit"
   },
   {
@@ -270,13 +305,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Really hoping to avoid this right now",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xbbsqp/really_hoping_to_avoid_this_right_now/",
-   "ts": 1792551225,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "C vs C#: racing VLC's Gaussian blur",
    "url": "https://www.reddit.com/r/programming/comments/1xbbkuq/c_vs_c_racing_vlcs_gaussian_blur/",
@@ -305,24 +333,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Announcing TypeScript 7.1 Beta",
-   "url": "https://www.reddit.com/r/programming/comments/1xaz5ur/announcing_typescript_71_beta/",
-   "ts": 1792518937,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "When eight systems share a benchmark top score, what should the table show?[D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xayxs1/when_eight_systems_share_a_benchmark_top_score/",
    "ts": 1792518435,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
-   "url": "https://www.reddit.com/r/programming/comments/1xarfxg/go_issues_emergency_update_blocking_eight_ca_keys/",
-   "ts": 1792501080,
    "source": "Reddit"
   },
   {
@@ -372,20 +386,6 @@
    "title": "[Bi-Weekly Megathread] Project Showcase",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yg86/biweekly_megathread_project_showcase/",
    "ts": 1792420251,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Arrow detection with ConvNext pretrained on DINOv3 [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1x9nw6a/arrow_detection_with_convnext_pretrained_on/",
-   "ts": 1792385833,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "I moved from network training to deployment optimization and am starting to think that was a right decision [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1x9k4si/i_moved_from_network_training_to_deployment/",
-   "ts": 1792373671,
    "source": "Reddit"
   },
   {
