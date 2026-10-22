@@ -1,20 +1,76 @@
 {
- "generated_at": "2026-10-22T14:12:34Z",
+ "generated_at": "2026-10-22T16:15:14Z",
  "count": 60,
  "subreddits_ok": [
+  "LocalLLaMA",
   "MachineLearning",
-  "programming",
-  "selfhosted"
+  "programming"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "When will we have another breakthrough for faster local dense models?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xclt9s/when_will_we_have_another_breakthrough_for_faster/",
+   "ts": 1792683134,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Ant Ling just announced a second model today: Ling-3.0-flash-Sante (124B, 5.1B active)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcljvi/ant_ling_just_announced_a_second_model_today/",
+   "ts": 1792682561,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "inclusionAI/Ling-3.0-flash-Sante · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xclfkp/inclusionailing30flashsante_hugging_face/",
+   "ts": 1792682315,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Ran a 0.9B transcribe + diarize model on a 17.5 minute, 4 person AMI meeting on a MacBook: all 4 speakers found, 0.08% speaker confusion, done in 12 minutes",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcl0rt/ran_a_09b_transcribe_diarize_model_on_a_175/",
+   "ts": 1792681389,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Repair shop receives eight GeForce RTX 5090 and RTX 4090 cards with melted 16-pin connectors in two days",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xckdep/repair_shop_receives_eight_geforce_rtx_5090_and/",
+   "ts": 1792679911,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Who is Issac Newton or Davinci of programming/CS?",
+   "url": "https://www.reddit.com/r/programming/comments/1xcjx7l/who_is_issac_newton_or_davinci_of_programmingcs/",
+   "ts": 1792678856,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Qwen4 and Kimi3.1 on Arena apperantly",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcj1wm/qwen4_and_kimi31_on_arena_apperantly/",
+   "ts": 1792676834,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Caddyfile help re: reverse proxy simplification",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xciyhc/caddyfile_help_re_reverse_proxy_simplification/",
    "ts": 1792676605,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "capy-flash v0.7.1: Qwen3.8-Flash-Next (125B MoE) now runs in 64 GB of RAM (234 tok/s on two 16 GB cards), and Qwen3.8-27B 3-bit fits on a single 16 GB card (174 tok/s)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xciqnj/capyflash_v071_qwen38flashnext_125b_moe_now_runs/",
+   "ts": 1792676084,
    "source": "Reddit"
   },
   {
@@ -60,6 +116,20 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "Ling-3.1-flash is getting a 1019 update, with open weights to follow",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcftoo/ling31flash_is_getting_a_1019_update_with_open/",
+   "ts": 1792667997,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Llama.cpp PR: How to beat strata decode performance with a R9700",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcf8kb/llamacpp_pr_how_to_beat_strata_decode_performance/",
+   "ts": 1792666095,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
    "title": "Would you trust an app that only open-sources what runs on your server?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xcewem/would_you_trust_an_app_that_only_opensources_what/",
@@ -67,10 +137,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Parallel execution as part of a language's basic execution model",
-   "url": "https://www.reddit.com/r/programming/comments/1xce6ip/parallel_execution_as_part_of_a_languages_basic/",
-   "ts": 1792662442,
+   "subreddit": "LocalLLaMA",
+   "title": "Carbon-X: the best open DNA language model runs locally with llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcew36/carbonx_the_best_open_dna_language_model_runs/",
+   "ts": 1792664920,
    "source": "Reddit"
   },
   {
@@ -116,45 +186,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Cybersecurity agency calls for immediate PHP updates over critical security flaws",
-   "url": "https://www.reddit.com/r/programming/comments/1xcaeod/cybersecurity_agency_calls_for_immediate_php/",
-   "ts": 1792648243,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Huawei Atlas AI Accelerator Latest Comparison Overview",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc9oje/huawei_atlas_ai_accelerator_latest_comparison/",
-   "ts": 1792645729,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "What's your favorite medium to large (~50-150b params) MOE model? Aside from Qwen flash next.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc84ht/whats_your_favorite_medium_to_large_50150b_params/",
-   "ts": 1792640671,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "I have an answer! Qwen Flash Next IQ2 IS better than Q8 of 27B (for me).",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc7n0n/i_have_an_answer_qwen_flash_next_iq2_is_better/",
-   "ts": 1792639114,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Open source LLM appreciation post",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc5qac/open_source_llm_appreciation_post/",
    "ts": 1792633547,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "2-bit copy in VRAM + exact residual in system RAM as the verifier: speculative decoding for models that don't fit your GPU",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc55z3/2bit_copy_in_vram_exact_residual_in_system_ram_as/",
-   "ts": 1792631908,
    "source": "Reddit"
   },
   {
@@ -200,20 +235,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Amazing free 3090 speedup hack, verified works 15% PP, 5% TG for free",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbuzj5/amazing_free_3090_speedup_hack_verified_works_15/",
-   "ts": 1792606782,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Tried running 748B DeepSeek-V4.1-Flash on a €2k PC",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xburkx/tried_running_748b_deepseekv41flash_on_a_2k_pc/",
-   "ts": 1792606288,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Heads up if you self-host LiteLLM: the 1.107.0 Docker image (and the latest/main-latest/main-stable tags) shipped a credential stealer",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xbu3qr/heads_up_if_you_selfhost_litellm_the_11070_docker/",
@@ -225,34 +246,6 @@
    "title": "Noun-verb-conjunction triads [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xbtzv9/nounverbconjunction_triads_d/",
    "ts": 1792604648,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "When will we see these changes? --> China Is Doubling RAM Production to Keep Everyday Gadget Prices from Skyrocketing",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbrh0s/when_will_we_see_these_changes_china_is_doubling/",
-   "ts": 1792599179,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Now that 3090 frenzy warning post makes sense.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbr3u1/now_that_3090_frenzy_warning_post_makes_sense/",
-   "ts": 1792598407,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "OK, fine, Qwen 3.8 Flash Next is nice",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbqxh5/ok_fine_qwen_38_flash_next_is_nice/",
-   "ts": 1792598021,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "RecursiveSI/flint (40B A2.5B) · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbqik0/recursivesiflint_40b_a25b_hugging_face/",
-   "ts": 1792597080,
    "source": "Reddit"
   },
   {
@@ -337,6 +330,13 @@
    "title": "When eight systems share a benchmark top score, what should the table show?[D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xayxs1/when_eight_systems_share_a_benchmark_top_score/",
    "ts": 1792518435,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
+   "url": "https://www.reddit.com/r/programming/comments/1xarfxg/go_issues_emergency_update_blocking_eight_ca_keys/",
+   "ts": 1792501080,
    "source": "Reddit"
   },
   {
