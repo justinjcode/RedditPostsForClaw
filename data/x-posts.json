@@ -1,17 +1,18 @@
 {
- "generated_at": "2026-10-22T04:22:37Z",
+ "generated_at": "2026-10-22T04:41:31Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "TheRundownAI",
-  "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
-  "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@simonw: all instances failed",
+  "@swyx: all instances failed",
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 179,
  "items": [
   {
@@ -222,24 +223,6 @@
    "id": "2112966587149881376#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Cool Katie Miller (@KatieMiller) “Well, to be honest, Elon Musk is paying the most money in the country right now with this SpaceX little job that they got down there in Southaven, you know what I’m saying. It’s a killing,” said Ray Massey, who also traveled from Gulfport, Mississippi, in hopes of data center work.” One electrician had a message for Elon Musk about the work. “Tell Elon Musk to stay, we love this money you’re giving us man,” the electrician said. Video — https://nitter.kareem.one/KatieMiller/status/2112952632281075976#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2112964643593269747#m",
-   "ts": 1792605002,
-   "id": "2112964643593269747#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Talarico would vote to take away your kids and transition them, not just in Texas, but nationwide. Pure evil. KanekoaTheGreat (@KanekoaTheGreat) Every word is James Talarico’s. 27 clips. 4 minutes. 2019–2026. “God is non-binary.” “…many more than two biological sexes. In fact, there are six.” “If you deny your child’s gender identity… it’s abusive for sure.” “There’s only one person who can determine a child’s gender identity, and that’s the child.” “I want to acknowledge that our trans community needs abortion care too.” “…the bill that would have denied gender-affirming health care to trans children… All these ideologies stem from this Christofascism movement.” “The way I fought for trans kids in the legislature is how I will fight for the U.S. Senate, and my position hasn’t changed.” “Prophetic voices like Jesus have helped me reckon with my own whiteness.” “It’s always rich to me that defund the police is considered off limits…” “Prison is violence.” “Tear down this secret police force.” Assault weapons ban? “Absolutely.” Send this to 10 Texas voters and tell them to vote today. Video — https://nitter.kareem.one/KanekoaTheGreat/status/2112954705634902429#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2112964322192408813#m",
-   "ts": 1792604926,
-   "id": "2112964322192408813#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -303,6 +286,15 @@
    "id": "2112940948435149088#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "I asked Claude how 10 Billion Humanoid Robots Could Change the World. Video",
+   "url": "https://nitter.kareem.one/Dr_Singularity/status/2112940938381463560#m",
+   "ts": 1792599350,
+   "id": "2112940938381463560#m"
+  },
+  {
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
    "author": "@realDonaldTrump",
@@ -346,6 +338,15 @@
    "url": "https://nitter.kareem.one/realBrandonGill/status/2112928898254061895#m",
    "ts": 1792596480,
    "id": "2112928898254061895#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "I still can't code, but I accidentally built an AI filmmaking studio while making 3 songs (Unbelievable) 22 days ago posted my first SLOPCORE this is again ANY DAY NOW, but reimagined in 1959. Blues meets Atompunk. ☢️🎸 Every video is a new experiment I like playing with machines so much. Made this song for 💥 #sloptoberfest ( 50k in prizes!!!! ) 3 more songs coming in next days just to increase my chances in the contest and escaping from Berlin winter☀️🌴 My plan? South Africa. Ke Dezemba! Making slopcores in the beach! Let me know if this makes you dance like it did to me the first time I heard it. 😂🕺 I was jumping around my house! still can't believe you guys are watching this. Thank youu! BRB! Video javier fan (@javif4_) I can't code. I just talk to machines. Suno → Midjourney → 116 clips (Kling + Wan) Claude coded every word and graphic on the beat. I don't know what I'm doing, but this is my first song. ANY DAY NOW (The Robots Are Coming) ✈️🤖 Video — https://nitter.kareem.one/javif4_/status/2105040123179979221#m",
+   "url": "https://nitter.kareem.one/javif4_/status/2112920767511847319#m",
+   "ts": 1792594541,
+   "id": "2112920767511847319#m"
   },
   {
    "handle": "TheRundownAI",
