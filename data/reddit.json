@@ -1,15 +1,29 @@
 {
- "generated_at": "2026-10-22T08:16:26Z",
+ "generated_at": "2026-10-22T10:12:20Z",
  "count": 60,
  "subreddits_ok": [
+  "LocalLLaMA",
   "MachineLearning",
-  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Tried LFM2.5-24-A2B. It's crap. Yes. I double confirm it. I wouldn't trust it peeling a peanut correctly",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xce5dd/tried_lfm2524a2b_its_crap_yes_i_double_confirm_it/",
+   "ts": 1792662324,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Building a 10GbE budget NAS on top of a $34 EliteDesk G3 I got from ebay",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xcdk5o/building_a_10gbe_budget_nas_on_top_of_a_34/",
+   "ts": 1792660099,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "TornadoVM 7 Enables GPU-Native Workloads From Java Applications",
@@ -60,13 +74,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Pipedash: one dashboard for every CI/CD pipeline",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xc57lm/pipedash_one_dashboard_for_every_cicd_pipeline/",
-   "ts": 1792632045,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "2-bit copy in VRAM + exact residual in system RAM as the verifier: speculative decoding for models that don't fit your GPU",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc55z3/2bit_copy_in_vram_exact_residual_in_system_ram_as/",
@@ -78,6 +85,13 @@
    "title": "Kitten-TTS 2: New Open-source SOTA 1.58 bit TTS (CPU-only with voice cloning, multilingual, emotion control)",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc48or/kittentts_2_new_opensource_sota_158_bit_tts/",
    "ts": 1792629191,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Arcane: Why so many images?!?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xc45n8/arcane_why_so_many_images/",
+   "ts": 1792628946,
    "source": "Reddit"
   },
   {
@@ -120,13 +134,6 @@
    "title": "Loving Beszel",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xbvojb/loving_beszel/",
    "ts": 1792608292,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "FamilyWell security update: PHP2Shell",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xbv2t0/familywell_security_update_php2shell/",
-   "ts": 1792606984,
    "source": "Reddit"
   },
   {
@@ -246,13 +253,6 @@
    "title": "Few-read fault localization in simulated analog crossbars: a sparse-recovery decoder vs reading every cell (with the claims that failed) [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xbj6nj/fewread_fault_localization_in_simulated_analog/",
    "ts": 1792577395,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Be prepared, GPU price increase incoming --> Samsung sells out 100% of all 2027 HBM capacity - HBM prices expected to jump 200% next year, DRAM prices expected to see a double-digit price increase",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbfhxp/be_prepared_gpu_price_increase_incoming_samsung/",
-   "ts": 1792563552,
    "source": "Reddit"
   },
   {
