@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T09:56:59Z",
+ "generated_at": "2026-10-22T10:13:48Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "True X Freeze (@XFreeze) Margaret Thatcher explained this perfectly back in 1983 The government doesn't have money of its own. Every time politicians promise to spend more, someone has to pay for it And people somehow still think it's someone else's money “There is no such thing as public money. There is only taxpayers’ money” And sooner or later, that someone else they expect to pay is YOU Video — https://nitter.kareem.one/XFreeze/status/2112942696889508051#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2113210745710162001#m",
+   "ts": 1792663677,
+   "id": "2113210745710162001#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -283,15 +292,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2112940948435149088#m",
    "ts": 1792599353,
    "id": "2112940948435149088#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I asked Claude how 10 Billion Humanoid Robots Could Change the World. Video",
-   "url": "https://nitter.kareem.one/Dr_Singularity/status/2112940938381463560#m",
-   "ts": 1792599350,
-   "id": "2112940938381463560#m"
   },
   {
    "handle": "realDonaldTrump",
