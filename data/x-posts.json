@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-10-22T13:44:05Z",
+ "generated_at": "2026-10-22T13:55:05Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "THIS THING CAN LIFT A CAR?? Unitree (@UnitreeRobotics) Unitree Introducing: H2-X Kung Fu Legend Guardian🤖 Powerful performance to serve and guard you, with a maximum endurance of approximately 8 hours. Please use the robot safely and in a friendly manner. Video — https://nitter.kareem.one/UnitreeRobotics/status/2112819774573179175#m",
+   "url": "https://nitter.kareem.one/swyx/status/2113266623260004422#m",
+   "ts": 1792677000,
+   "id": "2113266623260004422#m"
+  },
   {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
@@ -760,15 +770,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2112541511032426857#m",
    "ts": 1792504120,
    "id": "2112541511032426857#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "it seems like every week the AI wave exposes a new set of technical terms that we should know about. so we phoned a friend ( @meganreyno ), and this Thursday we’re launching Technically Speaking - bringing in technical founders & leaders to break down the technical problem they’ve spent years obsessing over. the Season 1 lineup is downright effervescent: - Michael Grinich (WorkOS) on Auth - Jonathan Frankle (Databricks) on AI research - Julien Launay and Sesh Nalla (Datadog) on RL - Jake Cooper (Railway) on Cloud - and five (5!) more special guests to be announced new episodes posting every Thursday until the holidays. who should we have on next? Video",
-   "url": "https://nitter.kareem.one/readtechnically/status/2112539138570260675#m",
-   "ts": 1792503554,
-   "id": "2112539138570260675#m"
   },
   {
    "handle": "Lingling_Wei",
