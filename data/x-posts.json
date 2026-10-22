@@ -1,18 +1,17 @@
 {
- "generated_at": "2026-10-22T11:47:34Z",
+ "generated_at": "2026-10-22T11:56:09Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed",
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
   {
@@ -221,6 +220,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2113003628835553559#m",
    "ts": 1792614297,
    "id": "2113003628835553559#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "Last month, we demonstrated high-rate alchemy: turning mercury into real, stable gold, beating CERN’s record by a factor of 10. Last week, we enriched isotopes in the world’s most powerful plasma centrifuge, beating the Soviet record that stood for 40 years. Now, we’re building a fusion reactor in San Francisco to achieve record power density. Video",
+   "url": "https://nitter.kareem.one/MarathonFusion/status/2113001073019662481#m",
+   "ts": 1792613688,
+   "id": "2113001073019662481#m"
   },
   {
    "handle": "TheRundownAI",
@@ -1373,15 +1381,6 @@
    "url": "https://nitter.kareem.one/theserenadong/status/2110560409031991688#m",
    "ts": 1792031788,
    "id": "2110560409031991688#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "James Talarico on abortion: \"Some of my spiritual heroes, like Pope Francis and Pope Leo, are pro-life. I can respect anyone who is pro-life. We treat this debate as a philosophical debate or a theological debate when it's actually a public policy problem. We can join together to make sure we have scientifically valid sex education, that folks who need contraception can get it, that everyone has health care—something the Catholic Church has led on.\" Video",
-   "url": "https://nitter.kareem.one/factpostnews/status/2110536665118744861#m",
-   "ts": 1792026127,
-   "id": "2110536665118744861#m"
   },
   {
    "handle": "bcherny",
