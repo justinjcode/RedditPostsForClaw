@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T19:56:26Z",
+ "generated_at": "2026-10-22T20:11:34Z",
  "accounts_ok": [
   "TheRundownAI",
   "bcherny",
@@ -15,6 +15,15 @@
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "imo this is the right attitude - dont blame AI for finding the bugs, just fucking lock in on clearing all the bugs asap latent.space/p/ainews-openai… Link [AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities... The Big Hardening begins latent.space Julian Pani (@JulianPani) The folks at @latentspacepod with the perfect take, as usual: — https://nitter.kareem.one/JulianPani/status/2113330387136995497#m",
+   "url": "https://nitter.kareem.one/swyx/status/2113359027682050352#m",
+   "ts": 1792699031,
+   "id": "2113359027682050352#m"
+  },
   {
    "handle": "simonw",
    "name": "Simon Willison",
@@ -815,15 +824,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2112689291570938255#m",
    "ts": 1792539353,
    "id": "2112689291570938255#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Latent.Space (@latentspacepod) Article DeepSeek V4.1 Flash Large-Scale Inference Deployment Practice this is a translation of https://zhuanlan.zhihu.com/p/2095560295930508953 for our own use/ twitter audiences to read The capability boundaries of a large model are defined by the model itself, and the core problem that — https://nitter.kareem.one/latentspacepod/status/2112588380416647205#m",
-   "url": "https://nitter.kareem.one/swyx/status/2112662180105699802#m",
-   "ts": 1792532889,
-   "id": "2112662180105699802#m"
   },
   {
    "handle": "TheRundownAI",
