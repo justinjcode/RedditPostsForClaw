@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-10-23T00:22:05Z",
+ "generated_at": "2026-10-23T01:08:13Z",
  "accounts_ok": [
-  "ZichenWanghere",
+  "Lingling_Wei",
+  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,8 +11,7 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 179,
  "items": [
@@ -203,15 +203,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2113392393953104076#m",
    "ts": 1792706986,
    "id": "2113392393953104076#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Deep stuff on @latentspacepod about GPU markets, why sandboxes are having a moment, and what's next for Modal. Thanks for having me!! Basil Chatha (@realbasilchatha) Last week, @bernhardsson (Founder & CEO, @modal ) announced a $750M Series D. I sat down with him the prior week to discuss a ton of stuff about the business. We got into: -why 2027 might finally be the year of non-Nvidia chips -why open-source models made fine-tuning a lot less necessary -how Modal's team grew 4x in a year and could hit ~700 people next year -why the frontier labs have the same business model as music artists and much, much, more… Enjoy! Timestamps: 0:00 What @modal does 1:25 From Spotify to building Modal 4:19 Founding before the generative AI boom 7:43 First customers and fundraising 10:00 Building for inference and autoscaling 13:21 Where Modal gets GPU capacity 15:39 Renting vs. owning infrastructure 19:45 The risk of GPU prices falling 24:18 Is AI demand infinite? 26:12 Alternatives to @nvidia 28:25 What Modal can learn from neoclouds 30:26 GPUs as an asset class 31:55 Modal’s products: functions and sandboxes 36:03 The case for smaller training workloads 41:21 How agent sandboxes are changing 46:48 @AnthropicAI and sandbox security 49:29 Using agents to test security 52:51 Developer experience in the age of agents 57:45 What Modal’s forward-deployed engineers do 59:55 Modal’s approach to product management 1:03:29 Optional code reviews and engineering culture 1:05:56 Cloud, on-prem and bri",
-   "url": "https://nitter.kareem.one/bernhardsson/status/2113386790023291203#m",
-   "ts": 1792705650,
-   "id": "2113386790023291203#m"
   },
   {
    "handle": "swyx",
@@ -941,6 +932,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2112622164830769201#m",
    "ts": 1792523349,
    "id": "2112622164830769201#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Insane alpha, must read, might well redefine this economy. Everything me, Zephyr etc have been saying about the real profitability of the frontier inference is powerfully vindicated Latent.Space (@latentspacepod) Article DeepSeek V4.1 Flash Large-Scale Inference Deployment Practice this is a translation of https://zhuanlan.zhihu.com/p/2095560295930508953 for our own use/ twitter audiences to read The capability boundaries of a large model are defined by the model itself, and the core problem that — https://nitter.kareem.one/latentspacepod/status/2112588380416647205#m",
+   "url": "https://nitter.kareem.one/teortaxesTex/status/2112603621917663592#m",
+   "ts": 1792518928,
+   "id": "2112603621917663592#m"
   },
   {
    "handle": "thsottiaux",
