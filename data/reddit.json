@@ -1,20 +1,48 @@
 {
- "generated_at": "2026-10-23T06:20:29Z",
+ "generated_at": "2026-10-23T08:15:37Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
   {
+   "subreddit": "LocalLLaMA",
+   "title": "Models disappearing from Huggingface",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd7ptj/models_disappearing_from_huggingface/",
+   "ts": 1792741663,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
-   "title": "Best Cloud Hosting Solution for Multiple Dockerized AI/ML Applications",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xd55ym/best_cloud_hosting_solution_for_multiple/",
-   "ts": 1792732578,
+   "title": "I got tired of status pages needing Postgres, Redis and a Node runtime, so I built one that's a single Go binary",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xd7g3n/i_got_tired_of_status_pages_needing_postgres/",
+   "ts": 1792740683,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Ornith 1.5 35B A3B is way better than Flint",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd7ewr/ornith_15_35b_a3b_is_way_better_than_flint/",
+   "ts": 1792740564,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "[Paper] LatentLoop: Scaling Looped MoE Models with Asymmetric Compute Allocation",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd6r9h/paper_latentloop_scaling_looped_moe_models_with/",
+   "ts": 1792738213,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Nemotron-3.5-Embed, Parse, and Rerank",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd4mlk/nemotron35embed_parse_and_rerank/",
+   "ts": 1792730783,
    "source": "Reddit"
   },
   {
@@ -25,10 +53,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "October: Bad Software Month",
-   "url": "https://www.reddit.com/r/programming/comments/1xczzoc/october_bad_software_month/",
-   "ts": 1792716721,
+   "subreddit": "LocalLLaMA",
+   "title": "MiniMax-M3.1-Flash",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd0fgs/minimaxm31flash/",
+   "ts": 1792717969,
    "source": "Reddit"
   },
   {
@@ -36,6 +64,13 @@
    "title": "What should I add to my Wiki?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xcymuu/what_should_i_add_to_my_wiki/",
    "ts": 1792712958,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Qwen 3.8 Flash Next (129 GB) is better than 2.6 bpw DeepSeek V4.1 Flash 1017 (187 GB + 203 GB Engram)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcylhj/qwen_38_flash_next_129_gb_is_better_than_26_bpw/",
+   "ts": 1792712846,
    "source": "Reddit"
   },
   {
@@ -96,23 +131,9 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "Is anyone else concerned about the security of the implementation engines?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcu4or/is_anyone_else_concerned_about_the_security_of/",
-   "ts": 1792701517,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "Meta's 816B Muse Spark Open scores 39 on Artificial Analysis, the 180B Qwen3.8-Flash-Next scores 40. Score vs size for 11 open-weight models",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcthj8/metas_816b_muse_spark_open_scores_39_on/",
    "ts": 1792700046,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "AuroraTTS-100K Releases!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xctcoe/auroratts100k_releases/",
-   "ts": 1792699734,
    "source": "Reddit"
   },
   {
@@ -127,13 +148,6 @@
    "title": "Whatever happened to TurboQuant?",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcqm0z/whatever_happened_to_turboquant/",
    "ts": 1792693685,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Massive B70 spec-decoding improvement - Intel XMX matrix engines refactored by budiony · Pull Request #29864 · ggml-org/llama.cpp",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcqb3p/massive_b70_specdecoding_improvement_intel_xmx/",
-   "ts": 1792693009,
    "source": "Reddit"
   },
   {
@@ -173,23 +187,9 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "Q4 flash next for £300/600 👀 - snapdragon mini PC results update - 315/43 Tok/s A3b, 46/20 Tok/s Flash Next (read/gen) 💥",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcmioz/q4_flash_next_for_300600_snapdragon_mini_pc/",
-   "ts": 1792684728,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "Ant Ling just announced a second model today: Ling-3.0-flash-Sante (124B, 5.1B active)",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcljvi/ant_ling_just_announced_a_second_model_today/",
    "ts": 1792682561,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "inclusionAI/Ling-3.0-flash-Sante · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xclfkp/inclusionailing30flashsante_hugging_face/",
-   "ts": 1792682315,
    "source": "Reddit"
   },
   {
@@ -298,13 +298,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Kitten-TTS 2: New Open-source SOTA 1.58 bit TTS (CPU-only with voice cloning, multilingual, emotion control)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc48or/kittentts_2_new_opensource_sota_158_bit_tts/",
-   "ts": 1792629191,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "go/ links that live in a file in your repo (open source)",
    "url": "https://www.reddit.com/r/programming/comments/1xbxzz2/go_links_that_live_in_a_file_in_your_repo_open/",
@@ -372,6 +365,13 @@
    "title": "Make yourself replaceable",
    "url": "https://www.reddit.com/r/programming/comments/1xb7t0x/make_yourself_replaceable/",
    "ts": 1792539736,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "eMudhra Intermediate CA Compromise",
+   "url": "https://www.reddit.com/r/programming/comments/1xb32yj/emudhra_intermediate_ca_compromise/",
+   "ts": 1792527690,
    "source": "Reddit"
   },
   {
