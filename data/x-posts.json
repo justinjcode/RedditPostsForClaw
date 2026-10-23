@@ -1,20 +1,38 @@
 {
- "generated_at": "2026-10-23T17:54:52Z",
+ "generated_at": "2026-10-23T18:10:47Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "ZichenWanghere",
-  "bcherny",
+  "TheRundownAI",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@TheRundownAI: all instances failed"
+  "@swyx: all instances failed",
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The Economist has been anti-human for the past few decades. It is no longer worthy of respect. FischerKing (@FischerKing64) In its 1998 Christmas Special Edition, the Economist ran an article about the \"Voluntary Human Extinction Movement.\" Festive. The article itself treated the movement with irony, but it's a real thing that some people want to stop reproducing and die for the \"good of the earth.\" — https://nitter.kareem.one/FischerKing64/status/2113688372212580862#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2113692448300097708#m",
+   "ts": 1792778524,
+   "id": "2113692448300097708#m"
+  },
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "Pretty solid pelican tools.simonwillison.net/mark… Kimi.ai (@Kimi_Moonshot) Introducing Kimi K3.1 Pro: our most capable 3T-class open-weight model. 🔹 1M-token context, 2.8T total / 104B active params (MoE), Multimodal. 🔹 Full-project coding: games in Unreal, Unity & Godot. 🔹 Excels at parametric 3D modeling in Blender & CAD. 🔹 More reliable at finance work: Accurate modeling with hallucination down by 65%. 🔹 Matching the strongest proprietary models across coding, agentic and knowledge benchmarks. Kimi K3.1 Pro and K3.1 Pro Highspeed (2–3× faster) are now live on Kimi.ai , Kimi Work, Kimi Code, and the Kimi API. Open weights by Nov 4, 2026. 🔗 API: platform.kimi.ai 🔗 Tech blog: kimi.ai/blog/kimi-k3-1-pro — https://nitter.kareem.one/Kimi_Moonshot/status/2113680701770068067#m",
+   "url": "https://nitter.kareem.one/simonw/status/2113691493823369246#m",
+   "ts": 1792778297,
+   "id": "2113691493823369246#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -154,19 +172,19 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Now the company is fixing the problem. Thank you, Grok Bot! I had a problem with a company doing some building work for me. They made a mistake and wouldn’t own up to it. I sent Grok Bot the issue and supporting pictures. In a couple minutes, it prepared a full case with emails of where to send it with just needing my yes. It’s insane how Grok Bot can help with everyday problems!",
-   "url": "https://nitter.kareem.one/DogecoinNorway/status/2113664149871808973#m",
-   "ts": 1792771777,
-   "id": "2113664149871808973#m"
+   "text": "There are children starving and Bernie Sanders is giving $1 million to some Muslim in Michigan? Does Bernie hate starving children? Does he hate poor people and homeless people? Think of what that money could have done! Polymarket (@Polymarket) JUST IN: Bernie Sanders personally contributes $1 million to Abdul El-Sayed's Michigan Senate campaign. — https://nitter.kareem.one/Polymarket/status/2113454237774659767#m",
+   "url": "https://nitter.kareem.one/alx/status/2113667593173147777#m",
+   "ts": 1792772598,
+   "id": "2113667593173147777#m"
   },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "🔥 LMAO! James Talarico just got called out TO HIS FACE for whining about Elon Musk donating to Ken Paxton, while HE'S being bankrolled by Epstein-linked billionaire Reid Hoffman And of course Talafreako is EVADING 🤣 This dude is a total fraud. Video",
-   "url": "https://nitter.kareem.one/nicksortor/status/2113659255823749264#m",
-   "ts": 1792770611,
-   "id": "2113659255823749264#m"
+   "text": "Now the company is fixing the problem. Thank you, Grok Bot! I had a problem with a company doing some building work for me. They made a mistake and wouldn’t own up to it. I sent Grok Bot the issue and supporting pictures. In a couple minutes, it prepared a full case with emails of where to send it with just needing my yes. It’s insane how Grok Bot can help with everyday problems!",
+   "url": "https://nitter.kareem.one/DogecoinNorway/status/2113664149871808973#m",
+   "ts": 1792771777,
+   "id": "2113664149871808973#m"
   },
   {
    "handle": "elonmusk",
@@ -590,15 +608,6 @@
    "url": "https://nitter.kareem.one/bcherny/status/2113333859907747871#m",
    "ts": 1792693030,
    "id": "2113333859907747871#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The stakes have never been higher. I’m fighting for Texas every single day, and now I need you in the fight. Early voting is open. VOTE TODAY! 🇺🇸",
-   "url": "https://nitter.kareem.one/KenPaxtonTX/status/2113331921354682385#m",
-   "ts": 1792692568,
-   "id": "2113331921354682385#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -1571,15 +1580,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2108547654083039700#m",
    "ts": 1791551910,
    "id": "2108547654083039700#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "I built a new feature for my blog entirely by voice with Codex Desktop, while I was cooking dinner simonwillison.net/2026/Oct/9… Link A new feature for my blog, built using my voice I shipped a new feature for my blog today: the Newsletters page, which offers an index of all of the newsletters I’ve sent out, both my free weekly Substack and … simonwillison.net",
-   "url": "https://nitter.kareem.one/simonw/status/2108547065634844839#m",
-   "ts": 1791551770,
-   "id": "2108547065634844839#m"
   },
   {
    "handle": "bcherny",
