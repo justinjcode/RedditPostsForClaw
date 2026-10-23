@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-10-23T17:47:22Z",
+ "generated_at": "2026-10-23T17:54:52Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,9 +10,38 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "i shit you not this was a legit trade that @goodalexander made in our $1B hedge fund days and it has printed for well over a decade at this point markets are not efficient and the ribs are good internbrah (@internbrah) The McRib is back on 10/27. BTC historically goes up >2x after the McRib returns. Don't fade the McRib. Not financial advice. — https://nitter.kareem.one/internbrah/status/2113367058734022798#m",
+   "url": "https://nitter.kareem.one/swyx/status/2113689779649073289#m",
+   "ts": 1792777888,
+   "id": "2113689779649073289#m"
+  },
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "nitterk.kareem.one/i/broadcasts/1RJjpbwqn… Link RSBN 🇺🇸 LIVE: President Trump Holds a Rally in Ft. Myers, FL - 10/23/26 https://nitter.kareem.one/i/broadcasts/1RJjpbwqnaWKw",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113687685420487032#m",
+   "ts": 1792777389,
+   "id": "2113687685420487032#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "just casually having the most musically inclined people come in every Thursday night and play tunes Video",
+   "url": "https://nitter.kareem.one/NehallAgrawal/status/2113685692706611535#m",
+   "ts": 1792776914,
+   "id": "2113685692706611535#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -252,7 +280,7 @@
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
-   "text": "Landing tomorrow before 10am PST together with a small ship.",
+   "text": "Landing tomorrow before 10am PST together with a small ship. Community note: It's past 10am pst, no reset has landed. Source: time-time.net/times/time-zon…",
    "url": "https://nitter.kareem.one/thsottiaux/status/2113492502355562875#m",
    "ts": 1792730854,
    "id": "2113492502355562875#m"
@@ -490,15 +518,6 @@
    "url": "https://nitter.kareem.one/ChrisRMcGuire/status/2113417246890680469#m",
    "ts": 1792712911,
    "id": "2113417246890680469#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "TO THE GREAT PEOPLE OF LOUISIANA, GET OUT AND VOTE FOR: – Julia Letlow for U.S. Senate – Steve Scalise for U.S. Congress (LA-01) – Clay Higgins for U.S. Congress (LA-03) – Mike Johnson for U.S. Congress (LA-04) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP swampthevoteusa.com/louisian… Link LOUISIANA: MAKE A PLAN TO VOTE! Election Day in Louisiana is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113417133678109130#m",
-   "ts": 1792712884,
-   "id": "2113417133678109130#m"
   },
   {
    "handle": "elonmusk",
@@ -940,24 +959,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2112849969640259611#m",
    "ts": 1792577662,
    "id": "2112849969640259611#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "@willcb i think its about throughput per mw being much better distributed first of all but also jevons. we are clearly living in a supply-constrained world, not demand constrained. more tokens = more revenue, not more tokens = less price = same revenue",
-   "url": "https://nitter.kareem.one/swyx/status/2112809642745380866#m",
-   "ts": 1792568047,
-   "id": "2112809642745380866#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Judge for yourself whether @seejayhess just made \"orbin' out\" happen inv.kareem.one/watch?v=Vki6cklF… Video",
-   "url": "https://nitter.kareem.one/sqs/status/2112788777433473480#m",
-   "ts": 1792563072,
-   "id": "2112788777433473480#m"
   },
   {
    "handle": "thsottiaux",
