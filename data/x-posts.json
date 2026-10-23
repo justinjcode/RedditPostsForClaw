@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T10:25:18Z",
+ "generated_at": "2026-10-23T10:38:40Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -8,13 +8,30 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: therundownai.beehiiv.com/p/u… Link U.S. banks catch AI agents going off-script U.S. banks are catching AI agents logging into customer accounts and going off-script, raising new security and oversight concerns for the banking industry. therundownai.beehiiv.com",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2113578832577826949#m",
+   "ts": 1792751436,
+   "id": "2113578832577826949#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in AI today: - Banks crack down on AI agents’ account access - Rowan’s Corner: Safeguard yourself from AI hacks - Put your open Chrome tabs to work - Microsoft’s AI out-diagnoses doctors on hard cases",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2113578827771187484#m",
+   "ts": 1792751435,
+   "id": "2113578827771187484#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -1006,15 +1023,6 @@
    "id": "2112552206620631379#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in tech today: - A selfie could help predict cancer survival - Japan is chasing a Martian mystery - Apple sets date for touchscreen Mac - Meta pops the hood on Prometheus",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2112552201579049274#m",
-   "ts": 1792506668,
-   "id": "2112552201579049274#m"
-  },
-  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -1076,15 +1084,6 @@
    "url": "https://nitter.kareem.one/StateDept/status/2112510803912138835#m",
    "ts": 1792496798,
    "id": "2112510803912138835#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: therundownai.beehiiv.com/p/a… Link Anthropic co-founder says the singularity is underway Anthropic co-founder Jack Clark says the AI singularity is underway. Plus, test ChatGPT's new voices with GPT-Live-1.1 in this AI newsletter. therundownai.beehiiv.com",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2112491722189967737#m",
-   "ts": 1792492249,
-   "id": "2112491722189967737#m"
   },
   {
    "handle": "ZichenWanghere",
