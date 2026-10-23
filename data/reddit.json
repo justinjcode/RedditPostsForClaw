@@ -1,15 +1,71 @@
 {
- "generated_at": "2026-10-23T14:14:19Z",
+ "generated_at": "2026-10-23T16:14:26Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
-  "programming"
+  "programming",
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Qwen 3.8 Flash Next Gyro Coder is out!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdhj4z/qwen_38_flash_next_gyro_coder_is_out/",
+   "ts": 1792770097,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Vibecoding your own inference engine is easy they said",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdh57e/vibecoding_your_own_inference_engine_is_easy_they/",
+   "ts": 1792769207,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "How to Make Things, and Why - Stuart Halloway (Clojure/Conj 2026)",
+   "url": "https://www.reddit.com/r/programming/comments/1xdh3hh/how_to_make_things_and_why_stuart_halloway/",
+   "ts": 1792769101,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Gmail offline backup (one time backup)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xdgn4t/gmail_offline_backup_one_time_backup/",
+   "ts": 1792768068,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Small post about what are the unlocks for RTX consumer GPUs, which ones are affected, in which tasks and which ones are feasible to do an unlock.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdg0v0/small_post_about_what_are_the_unlocks_for_rtx/",
+   "ts": 1792766671,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Komga or Kavita?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xdg0it/komga_or_kavita/",
+   "ts": 1792766648,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Does the “gpu unlock speedup” trick only work for 3090, or other 30x0 cards too? What about 40x0, 50x0?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdexhw/does_the_gpu_unlock_speedup_trick_only_work_for/",
+   "ts": 1792764166,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Locking down family-facing self-hosted services, how are you handling the current exploit pace?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xder5x/locking_down_familyfacing_selfhosted_services_how/",
+   "ts": 1792763784,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "The future of Programming",
@@ -39,6 +95,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "selfhosted",
+   "title": "Novice linux user, first selfhost on linux and ran into tailscale config issues",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xdeaow/novice_linux_user_first_selfhost_on_linux_and_ran/",
+   "ts": 1792762704,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "MachineLearning",
    "title": "AAAI 2027 phase 2 reviews discussion [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xddbgv/aaai_2027_phase_2_reviews_discussion_d/",
@@ -57,6 +120,13 @@
    "title": "everything will be local eventually",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdcpxb/everything_will_be_local_eventually/",
    "ts": 1792758681,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "🚨 Linux Infrastructure & SecOps Alert:",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xdcn9c/linux_infrastructure_secops_alert/",
+   "ts": 1792758473,
    "source": "Reddit"
   },
   {
@@ -158,20 +228,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "[Paper] LatentLoop: Scaling Looped MoE Models with Asymmetric Compute Allocation",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd6r9h/paper_latentloop_scaling_looped_moe_models_with/",
-   "ts": 1792738213,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Nemotron-3.5-Embed, Parse, and Rerank",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd4mlk/nemotron35embed_parse_and_rerank/",
-   "ts": 1792730783,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Would You Be Interested in an Open-Source Native Android Client for Firefly III?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xd3any/would_you_be_interested_in_an_opensource_native/",
@@ -214,13 +270,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Help: Radarr, jellyfin, Plex in NAS",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xcuv81/help_radarr_jellyfin_plex_in_nas/",
-   "ts": 1792703262,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "I built Open-XTTS-Trainer: Now you can add new language scripts and train all 3 XTTS v2 components in 1 click [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xcurgj/i_built_openxttstrainer_now_you_can_add_new/",
@@ -232,13 +281,6 @@
    "title": "We shrank our steerable small TTS to 11.84 MB. WER is unchanged, UTMOS drops ~0.1 [p]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xcum4s/we_shrank_our_steerable_small_tts_to_1184_mb_wer/",
    "ts": 1792702662,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Meta's 816B Muse Spark Open scores 39 on Artificial Analysis, the 180B Qwen3.8-Flash-Next scores 40. Score vs size for 11 open-weight models",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcthj8/metas_816b_muse_spark_open_scores_39_on/",
-   "ts": 1792700046,
    "source": "Reddit"
   },
   {
@@ -284,20 +326,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Reminder: Speedtest Tracker runs on PHP.",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xck0xb/reminder_speedtest_tracker_runs_on_php/",
-   "ts": 1792679099,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Qwen4 and Kimi3.1 on Arena apperantly",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcj1wm/qwen4_and_kimi31_on_arena_apperantly/",
-   "ts": 1792676834,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Carbon-X is an open 14.8B model trained jointly on DNA and text [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xchayq/carbonx_is_an_open_148b_model_trained_jointly_on/",
@@ -312,27 +340,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Noob needing advice - internet",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xcgosi/noob_needing_advice_internet/",
-   "ts": 1792670612,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Building a 10GbE budget NAS on top of a $34 EliteDesk G3 I got from ebay",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xcdk5o/building_a_10gbe_budget_nas_on_top_of_a_34/",
-   "ts": 1792660099,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "TornadoVM 7 Enables GPU-Native Workloads From Java Applications",
-   "url": "https://www.reddit.com/r/programming/comments/1xcc8i8/tornadovm_7_enables_gpunative_workloads_from_java/",
-   "ts": 1792654946,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Frontier models are bad at hearing ASMR: 8 judges vs human labels on 480 clips [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xcbqdm/frontier_models_are_bad_at_hearing_asmr_8_judges/",
@@ -344,13 +351,6 @@
    "title": "Debunking \"Faster than Rust\": Malicious Benchmarks in Tov",
    "url": "https://www.reddit.com/r/programming/comments/1xcaveo/debunking_faster_than_rust_malicious_benchmarks/",
    "ts": 1792649848,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "You'll Never need a Public Torrent indexer again - Armiger, a Neural Classifier with near perfect category mapping & matching, junk / malware detection, and seed detection.",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xc4ntn/youll_never_need_a_public_torrent_indexer_again/",
-   "ts": 1792630446,
    "source": "Reddit"
   },
   {
