@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T23:07:52Z",
+ "generated_at": "2026-10-23T23:21:56Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,24 @@
  "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "On codex cli updates. We've added reusable prompt presets, inline model and permission settings, and enterprise MCP sign-in. We've also fixed failures when resuming long sessions and added Windows corporate-proxy authentication. Surprisingly the CLI has grown 2X in usage since devday.",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2113770862860222611#m",
+   "ts": 1792797220,
+   "id": "2113770862860222611#m"
+  },
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex cli.",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2113770573994299544#m",
+   "ts": 1792797151,
+   "id": "2113770573994299544#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -1345,24 +1363,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2111495392559067199#m",
    "ts": 1792254705,
    "id": "2111495392559067199#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Landing sometime today by EOD PST",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2111492738025959922#m",
-   "ts": 1792254073,
-   "id": "2111492738025959922#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Day 13/ Le limit reset",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2111492673890824348#m",
-   "ts": 1792254057,
-   "id": "2111492673890824348#m"
   },
   {
    "handle": "ZichenWanghere",
