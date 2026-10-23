@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T05:47:50Z",
+ "generated_at": "2026-10-23T05:56:53Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -8,12 +8,31 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@swyx: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Talarico supports voting fraud Western Lensman (@WesternLensman) Talarico, 2021: “I oppose voter ID.\" He’s been very clear on this. Vote accordingly, Texas. Video — https://nitter.kareem.one/WesternLensman/status/2113427318723195095#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2113508214243573866#m",
+   "ts": 1792734600,
+   "id": "2113508214243573866#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok @Bot is an incredible life & business manager. Can help you with almost anything! Like having a genius employee. Teslaconomics (@Teslaconomics) Years from now, people will look back and say Grok Bot was the moment AI actually became useful for normal people. This week, I just texted it and: 1/ My kids woke up to new math and reading worksheets already printed 2/ It planned and booked trips for my family 3/ It ordered stuff for me from one text 4/ It printed my return label for a shoe I own and set a reminder so I don't miss the deadline 5/ It built a page that breaks down my net worth And look at what other people are getting it to do too: 6/ Book a flight from start to finish 7/ Build a website or an Etsy store 8/ Reconcile crypto taxes that would cost hundreds 9/ Book a Tesla tire rotation during school drop-off 10/ Order itself a 3D-printed body and mail the parts home You just text it like a person. I've been early on Tesla. I've been early on SpaceX. I'm telling you, I'm early on this too. This is the greatest thing that has happened to AI. — https://nitter.kareem.one/Teslaconomics/status/2113502808507040081#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2113506269260595431#m",
+   "ts": 1792734136,
+   "id": "2113506269260595431#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -31,6 +50,15 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2113492187770175603#m",
    "ts": 1792730779,
    "id": "2113492187770175603#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok Bot 0.75.2 is awesome. SpaceXSI is moving fast with new features daily. eric zakariasson (@ericzakariasson) grok @bot 0.75.2 is out! - pages: reports, memos and dashboards your bot builds and keeps up to date - new cards in every desktop chat - bots can make videos from a description or an image and a lot more! read everything in the changelog: x.ai/changelog/bot — https://nitter.kareem.one/ericzakariasson/status/2113423577408278903#m",
+   "url": "https://nitter.kareem.one/BrianRoemmele/status/2113453425400898020#m",
+   "ts": 1792721537,
+   "id": "2113453425400898020#m"
   },
   {
    "handle": "elonmusk",
@@ -67,6 +95,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2113441855266554263#m",
    "ts": 1792718778,
    "id": "2113441855266554263#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "I asked Grok Bot to make a video about itself. It did everything - set the storyline, found clips, cut and stitched them, and added the titles and music. I was particularly delighted by how it chose to end the video - @bot has a sense of humor 😂 Video",
+   "url": "https://nitter.kareem.one/venturetwins/status/2113427192382373931#m",
+   "ts": 1792715282,
+   "id": "2113427192382373931#m"
   },
   {
    "handle": "realDonaldTrump",
@@ -258,6 +295,15 @@
    "id": "2113396485417267401#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok Bot can now use Calendar, Reminders, Contacts, and more apps on your phone. Rolling out now on iOS and Android.",
+   "url": "https://nitter.kareem.one/bot/status/2113393684209176718#m",
+   "ts": 1792707293,
+   "id": "2113393684209176718#m"
+  },
+  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -321,6 +367,15 @@
    "id": "2113337108450406788#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "You can tell a lot about James Talarico by who he compares to al Qaeda and the Taliban—roughly half of American voters Texas, please don’t send Mr. Talarico to the U.S. Senate America (@america) Democrat Nominee for U.S. Senate in Texas James Talarico compares Republicans to Taliban and al-Qaeda Video — https://nitter.kareem.one/america/status/2113299342186426434#m",
+   "url": "https://nitter.kareem.one/BasedMikeLee/status/2113336007949238579#m",
+   "ts": 1792693542,
+   "id": "2113336007949238579#m"
+  },
+  {
    "handle": "bcherny",
    "name": "Boris Cherny",
    "author": "@bcherny",
@@ -378,37 +433,19 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Talarico hates Texas and America America (@america) Democrat Nominee for U.S. Senate in Texas James Talarico says he hates Voter ID with every fiber of his being and calls it Anti-American. 84% of Americans support Voter ID… Video — https://nitter.kareem.one/america/status/2113317694367748316#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2113319277092642942#m",
-   "ts": 1792689553,
-   "id": "2113319277092642942#m"
+   "text": "Intel CTO explains why Intel is helping Elon Musk build Terafab, and what a new fab needs besides tools DWARKESH: “I think it’ll be interesting to discuss the partnership you guys have with Elon on Terafab. What’s going on there?” PUSHKAR RANADE (CTO): “Well, I think Elon’s publicly talked about his desire to build a fab.” [Musk clip spliced in]: “We either build the Terafab or we don’t have the chips. And we need the chips, so we’re going to build the Terafab.” RANADE: “Sort of the same thinking. I think he’s seeing just an enormous increase in demand for silicon, for compute and for memory. And I think he came to the conclusion that his own businesses are going to require a lot of silicon. And so he thought maybe he should just do it all on his own. Unlike building a car, for example, this is such an intricate and complicated process. We thought we could work together to help accelerate his bringing up his fab.” DWARKESH: “But because of the bottleneck at the tool level, it seems like the net amount of silicon in the world won’t increase. It’s just that maybe if somebody were to start a new fab, they would get access to guaranteed supply in a way that they wouldn’t have if they’re working with another person’s foundry.” RANADE: “It’s actually not just tools. I mean, a fab does require a lot of power, a lot of water, a lot of consumables. There’s many other input variables as well.” DWARKESH: “But those can be scaled in the way that tools cannot.” RANADE: “Yea. Some more tha",
+   "url": "https://nitter.kareem.one/firesidealpha/status/2113323085252415883#m",
+   "ts": 1792690461,
+   "id": "2113323085252415883#m"
   },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Important to vote Donald J. Trump (@realDonaldTrump) TO THE GREAT PEOPLE OF TEXAS, GET OUT AND VOTE FOR: – Ken Paxton for U.S. Senate – Greg Abbott for Governor – Dan Patrick for Lieutenant Governor – Mayes Middleton for Attorney General – Don Huffines for Comptroller – Dawn Buckingham for Land Commissioner – Nathaniel Moran for U.S. Congress (TX-01) – Steve Toth for U.S. Congress (TX-02) – Keith Self for U.S. Congress (TX-03) – Pat Fallon for U.S. Congress (TX-04) – Lance Gooden for U.S. Congress (TX-05) – Jake Ellzey for U.S. Congress (TX-06) – Jessica Steinmann for U.S. Congress (TX-08) – Alex Mealer for U.S. Congress (TX-09) – Chris Gober for U.S. Congress (TX-10) – August Pfluger for U.S. Congress (TX-11) – Craig Goldman for U.S. Congress (TX-12) – Ronny Jackson for U.S. Congress (TX-13) – Randy Weber for U.S. Congress (TX-14) – Monica De La Cruz for U.S. Congress (TX-15) – Pete Sessions for U.S. Congress (TX-17) – Tom Sell for U.S. Congress (TX-19) – Mark Teixeira for U.S. Congress (TX-21) – Trever Nehls for U.S. Congress (TX-22) – Brandon Herrera for U.S. Congress (TX-23) – Beth Van Duyne for U.S. Congress (TX-24) – Roger Williams for U.S. Congress (TX-25) – Brandon Gill for U.S. Congress (TX-26) – Michael Cloud for U.S. Congress (TX-27) – Tano Tijerina for U.S. Congress (TX-28) – John Carter for U.S. Congress (TX-31) – Jace Yarbrough for U.S. Congress (TX-32) – Eric Flores for U.S. Congress (TX-34) – Carlos De La Cruz for U.S. Congress (TX-35) – Brian Babin for U.S. C",
-   "url": "https://nitter.kareem.one/elonmusk/status/2113316775291142572#m",
-   "ts": 1792688957,
-   "id": "2113316775291142572#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Go vote! Donald J. Trump (@realDonaldTrump) TO THE GREAT PEOPLE OF TEXAS, GET OUT AND VOTE FOR: – Ken Paxton for U.S. Senate – Greg Abbott for Governor – Dan Patrick for Lieutenant Governor – Mayes Middleton for Attorney General – Don Huffines for Comptroller – Dawn Buckingham for Land Commissioner – Nathaniel Moran for U.S. Congress (TX-01) – Steve Toth for U.S. Congress (TX-02) – Keith Self for U.S. Congress (TX-03) – Pat Fallon for U.S. Congress (TX-04) – Lance Gooden for U.S. Congress (TX-05) – Jake Ellzey for U.S. Congress (TX-06) – Jessica Steinmann for U.S. Congress (TX-08) – Alex Mealer for U.S. Congress (TX-09) – Chris Gober for U.S. Congress (TX-10) – August Pfluger for U.S. Congress (TX-11) – Craig Goldman for U.S. Congress (TX-12) – Ronny Jackson for U.S. Congress (TX-13) – Randy Weber for U.S. Congress (TX-14) – Monica De La Cruz for U.S. Congress (TX-15) – Pete Sessions for U.S. Congress (TX-17) – Tom Sell for U.S. Congress (TX-19) – Mark Teixeira for U.S. Congress (TX-21) – Trever Nehls for U.S. Congress (TX-22) – Brandon Herrera for U.S. Congress (TX-23) – Beth Van Duyne for U.S. Congress (TX-24) – Roger Williams for U.S. Congress (TX-25) – Brandon Gill for U.S. Congress (TX-26) – Michael Cloud for U.S. Congress (TX-27) – Tano Tijerina for U.S. Congress (TX-28) – John Carter for U.S. Congress (TX-31) – Jace Yarbrough for U.S. Congress (TX-32) – Eric Flores for U.S. Congress (TX-34) – Carlos De La Cruz for U.S. Congress (TX-35) – Brian Babin for U.S. Congress (",
-   "url": "https://nitter.kareem.one/KenPaxtonTX/status/2113315072563163174#m",
-   "ts": 1792688551,
-   "id": "2113315072563163174#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok @Bot Liam (@liam_fallen) Grok Bot genuinely changed my life. My Bots are now part of pretty much everything I do, both at work and in my personal life. It’s actually crazy how much I rely on them now. — https://nitter.kareem.one/liam_fallen/status/2112950158799393014#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2113304960326652163#m",
-   "ts": 1792686140,
-   "id": "2113304960326652163#m"
+   "text": "BREAKING: American Airlines CEO Robert Isom says @Starlink is the best product in the marketplace. “Our customers, they want connectivity, they demand it. We are going to make sure that our customers have the best product in the marketplace, Starlink.” Video",
+   "url": "https://nitter.kareem.one/cb_doge/status/2113318444934562215#m",
+   "ts": 1792689355,
+   "id": "2113318444934562215#m"
   },
   {
    "handle": "swyx",
@@ -427,15 +464,6 @@
    "url": "https://nitter.kareem.one/xiaojingcanxue/status/2113291512394244572#m",
    "ts": 1792682934,
    "id": "2113291512394244572#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok is attracting a higher share of new users than every other major SI website In September 2026 alone, 40.91% of Grok.com traffic came from new users…..the highest share among ChatGPT, Gemini, Claude and DeepSeek Similarweb (@Similarweb) Among the leading Gen AI tools, Grok had the highest percentage of new users visiting its website in September 2026. — https://nitter.kareem.one/Similarweb/status/2113222706153873546#m",
-   "url": "https://nitter.kareem.one/XFreeze/status/2113289921104613728#m",
-   "ts": 1792682554,
-   "id": "2113289921104613728#m"
   },
   {
    "handle": "swyx",
@@ -481,24 +509,6 @@
    "url": "https://nitter.kareem.one/Whats_AI/status/2113275444900360264#m",
    "ts": 1792679103,
    "id": "2113275444900360264#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "BREAKING: US Ambassador to South Africa Leo Bozell slams the government for blocking Starlink’s offer of free internet for 5,000 schools. “Everyone would agree that Starlink is a great idea for South Africa. Starlink is a great idea in every single nation on earth because of what it’s been able to do. … The government said, we want 30% of that company here, which of course is preposterous. And Elon Musk is never going to do that. … They said, no, we want 30% of your company. So he said, go pound sand. I’ll go in every other country on planet earth.” Video",
-   "url": "https://nitter.kareem.one/cb_doge/status/2113274564990111747#m",
-   "ts": 1792678893,
-   "id": "2113274564990111747#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "🚨 JUST IN: VP JD Vance MIC DROPS European bureaucrats and fake news attacking Elon Musk, then BEGGING for him to unleash Starlink for Ukraine \"I do find it a little IRONIC that the European countries who have NOTHING like the technology that Elon has developed in Starlink...these countries have almost universally decided to wage regulatory and licensing WAR against SpaceX. And now they're all running to SpaceX saying, 'please do what we need you to do?!'\" 🔥🔥🔥 \"European countries depend on American technology, American businesses, and the American military, while at the same time European political leaders love to bash the United States allies that they depend upon so much!\" \"Elon Musk runs a private corporation. And I think it's completely understandable that he doesn't want to get in the middle of what is a war between two state actors without the United States government effectively directing him on what to do.\" @ElonMusk is their favorite guy to bash...then they turn around and act entitled to his technology. Same countries that want to fine and regulate him into oblivion! This comes right after WSJ claimed that Musk ordered a Starlink slowdown that caught Ukraine off guard. Because of course they'd claim that! The EU fined X under its Digital Services Act and has spent years going after Elon. Now Europe needs his satellites 🤡 They can't have it both ways. Vance nailed it. Video",
-   "url": "https://nitter.kareem.one/EricLDaugh/status/2113270640362815825#m",
-   "ts": 1792677957,
-   "id": "2113270640362815825#m"
   },
   {
    "handle": "elonmusk",
@@ -625,15 +635,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2113029655095836957#m",
    "ts": 1792620502,
    "id": "2113029655095836957#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "INSANE 🚨 100% of New York adult daycares that were audited WERE FRAUD “We audited 15 of these — There's no record of a single meal, activity, single hour of supervision” ILLEGAL KICKBACKS were also reported with these adult daycares. How the scam works is the daycares will sign people up and offer them $1,000 per month cash The adult daycare can bill about $120 per day to taxpayers. So they make about $3,600 per person and give the person $1,000 of it per month back as a kickback So they pocket $2,600. The person with the Medicaid insurance gets $1,000 Taxpayers are being robbed blind HHS Rapid Response (@HHSResponse) 15 of 15 New York Social Adult Daycares audited yesterday showed no record of a single meal, activity, or hour of supervision — just attendance sheets. These daycares are receiving millions from our Medicaid system and providing NOTHING in return —this is FRAUD! Video — https://nitter.kareem.one/HHSResponse/status/2112970599106744392#m",
-   "url": "https://nitter.kareem.one/WallStreetApes/status/2113014616372764748#m",
-   "ts": 1792616917,
-   "id": "2113014616372764748#m"
   },
   {
    "handle": "swyx",
