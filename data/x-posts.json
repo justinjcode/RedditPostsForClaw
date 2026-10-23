@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-10-23T01:35:16Z",
+ "generated_at": "2026-10-23T01:56:29Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,45 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "It’s that easy Teslaconomics (@Teslaconomics) I just bought my kids 2 Garmin watches with one text. \"Grok Bot, order me two vivosmart 5s for my two kids shipped to my home\" It already knows my address and my card. It found the right size and color, did the checkout and placed the order. Just a minute later, I had the confirmation... I never opened a website. This is the new way to shop. — https://nitter.kareem.one/Teslaconomics/status/2113414527106843129#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2113444197978255814#m",
+   "ts": 1792719337,
+   "id": "2113444197978255814#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok Bot now integrates with your phone apps Grok Bot (@bot) Grok Bot can now use Calendar, Reminders, Contacts, and more apps on your phone. Rolling out now on iOS and Android. — https://nitter.kareem.one/bot/status/2113393684209176718#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2113444022408937913#m",
+   "ts": 1792719295,
+   "id": "2113444022408937913#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "[Newsletter Update] Pan Gongsheng, governor of #China 's central bank, in his latest speech rejects claims that Beijing relies on a weak renminbi and details plans to open financial markets and expand the currency's international use open.substack.com/pub/yuzheh… Link China's central bank chief says export strength is not about a cheap currency Pan Gongsheng in his latest speech rejects claims that Beijing relies on a weak renminbi and details plans to open financial markets and expand the currency's international use yuzhehe.com",
+   "url": "https://nitter.kareem.one/Yuzhehere/status/2113442222737916204#m",
+   "ts": 1792718866,
+   "id": "2113442222737916204#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "This is literally their plan to end democracy in America FischerKing (@FischerKing64) The playbook will go something like this: 1) win back the House and Senate, and hopefully the Presidency in 2028; (2) admit DC and Puerto Rico as states, which doesn’t need a constitutional amendment, to gain 4 new Senate seats and cement control; (3) pack the Court, which only requires a change to the Judiciary Act of 1869, not a constitutional amendment; (4) eliminate the electoral college, which is unconstitutional, but not when you have a rigged court that finds the ‘loophole’; (5) flood the country with pliant migrants, swamp the natives, and hold power indefinitely. — https://nitter.kareem.one/FischerKing64/status/2113308312053895510#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2113441855266554263#m",
+   "ts": 1792718778,
+   "id": "2113441855266554263#m"
+  },
   {
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
@@ -196,6 +231,15 @@
    "id": "2113417133678109130#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok Bot just got a very big upgrade on iOS and Android Grok Bot can now directly interact with apps on your phone and handle everyday tasks for you New capabilities include: • Messages: Read and send messages • Calendar: Check schedules and create events • Reminders: Set and manage reminders • Contacts: Find and add contacts • Location: Find nearby places • Home: Control lights, locks, and other smart home devices Instead of you constantly switching between apps, you can simply ask Grok Bot to get things done for you This is a huge step toward having a personal SI agent that can actually interact with your phone and make everyday life easier Rolling out now on iOS and Android. Update Grok Bot to try it",
+   "url": "https://nitter.kareem.one/XFreeze/status/2113396485417267401#m",
+   "ts": 1792707961,
+   "id": "2113396485417267401#m"
+  },
+  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -367,15 +411,6 @@
    "id": "2113289921104613728#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Yup Western Lensman (@WesternLensman) Hillary wants the Supreme Court expanded to 13 Justices -- but not until \"Democrats are in power.\" Because it's all about making the court less partisan and has nothing to do with entrenching Democrat power, of course. Video — https://nitter.kareem.one/WesternLensman/status/2113223237375267146#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2113288958738366650#m",
-   "ts": 1792682325,
-   "id": "2113288958738366650#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -383,15 +418,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2113283272130412684#m",
    "ts": 1792680969,
    "id": "2113283272130412684#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Estimated metric tons of useful payload delivered to orbit in Year-to-Date 2026 by Rocket Lab, Firefly, Blue Origin, Stoke Space, and Relativity combined... ... versus useful payload SpaceX put in orbit on only September 28, 2026. 👀 Chart courtesy: @Grok $SPCX",
-   "url": "https://nitter.kareem.one/ICannot_Enough/status/2113281788072149401#m",
-   "ts": 1792680615,
-   "id": "2113281788072149401#m"
   },
   {
    "handle": "elonmusk",
@@ -433,15 +459,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "How many Americans actually just straight-up starve to death? In the latest data, from 2024, there were 22 cases. And not even one of them was about poverty making it unaffordable to obtain food. Crémieux (@cremieuxrecueil) How many Americans live paycheck-to-paycheck? How many are starving? The answer to both questions is--despite what you might have heard from the news media--not many. Link: cremieux.xyz/p/how-many-amer… — https://nitter.kareem.one/cremieuxrecueil/status/2113256344354746663#m",
-   "url": "https://nitter.kareem.one/cremieuxrecueil/status/2113275220551451037#m",
-   "ts": 1792679049,
-   "id": "2113275220551451037#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "BREAKING: US Ambassador to South Africa Leo Bozell slams the government for blocking Starlink’s offer of free internet for 5,000 schools. “Everyone would agree that Starlink is a great idea for South Africa. Starlink is a great idea in every single nation on earth because of what it’s been able to do. … The government said, we want 30% of that company here, which of course is preposterous. And Elon Musk is never going to do that. … They said, no, we want 30% of your company. So he said, go pound sand. I’ll go in every other country on planet earth.” Video",
    "url": "https://nitter.kareem.one/cb_doge/status/2113274564990111747#m",
    "ts": 1792678893,
@@ -455,15 +472,6 @@
    "url": "https://nitter.kareem.one/EricLDaugh/status/2113270640362815825#m",
    "ts": 1792677957,
    "id": "2113270640362815825#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Today is a great day to vote early in person for @KenPaxtonTX . If Texas falls, there is no future for our country.",
-   "url": "https://nitter.kareem.one/ScottPresler/status/2113265992667148580#m",
-   "ts": 1792676849,
-   "id": "2113265992667148580#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -1436,15 +1444,6 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2110630613707636871#m",
    "ts": 1792048526,
    "id": "2110630613707636871#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "took a flu shot (113 yuan, or $18) just now. had to make a reservation before taking it. several brands available including several Chinese brand 科兴 Sinovac, which made its name during COVID. I randomly got a 赛诺菲 Sanofi. arrived at the local community health center, and",
-   "url": "https://nitter.kareem.one/ZichenWanghere/status/2110630604345885155#m",
-   "ts": 1792048524,
-   "id": "2110630604345885155#m"
   },
   {
    "handle": "ZichenWanghere",
