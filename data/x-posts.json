@@ -1,18 +1,17 @@
 {
- "generated_at": "2026-10-23T03:56:39Z",
+ "generated_at": "2026-10-23T04:13:59Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@simonw: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
   {
@@ -475,6 +474,15 @@
    "id": "2113270640362815825#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok Bot team shipped in the last few days: • Reports, memos, dashboards in the chat • iPhone action button to talk to Bot • 3x faster computer tasks • Aliases for your Bot email • Connectors for Robinhood, Coinbase, Runway • Notifications only on the device you're using",
+   "url": "https://nitter.kareem.one/benln/status/2113258261977928050#m",
+   "ts": 1792675006,
+   "id": "2113258261977928050#m"
+  },
+  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -590,15 +598,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2113029655095836957#m",
    "ts": 1792620502,
    "id": "2113029655095836957#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Bloomberg Drops $80 Million On Democrats' Midterm Push: $24 Million To Everytown, $16 Million To House Majority PAC zerohedge.com/political/bloo… Link Bloomberg Drops $80 Million On Democrats' Midterm Push: $24 Million To Everytown, $16 Million To... Bloomberg is now the largest disclosed donor to both groups... zerohedge.com",
-   "url": "https://nitter.kareem.one/zerohedge/status/2113022541748916413#m",
-   "ts": 1792618806,
-   "id": "2113022541748916413#m"
   },
   {
    "handle": "elonmusk",
