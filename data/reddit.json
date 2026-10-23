@@ -1,15 +1,50 @@
 {
- "generated_at": "2026-10-23T18:15:21Z",
+ "generated_at": "2026-10-23T20:13:18Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
-  "programming"
+  "programming",
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Noodle Gallery vs. Immich",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xdo6eo/noodle_gallery_vs_immich/",
+   "ts": 1792785064,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Building an isolated download and software testing VM with Proxmox and TrueNAS. Looking for feedback.",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xdnjtk/building_an_isolated_download_and_software/",
+   "ts": 1792783608,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Immich for the family?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xdmmhn/immich_for_the_family/",
+   "ts": 1792781522,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "OmniTools v0.7.0 — 25 new tools for your self-hosted toolbox",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xdmg4o/omnitools_v070_25_new_tools_for_your_selfhosted/",
+   "ts": 1792781117,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "03 control flow",
+   "url": "https://www.reddit.com/r/programming/comments/1xdlzxr/03_control_flow/",
+   "ts": 1792780111,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Holy Shit Open Weight Models Have Officially Caught Up To The Frontier",
@@ -53,10 +88,24 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "selfhosted",
+   "title": "Should I have a bunch of docker containers and a docker manager or a bunch of LXCs with their own docker containers?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xdijie/should_i_have_a_bunch_of_docker_containers_and_a/",
+   "ts": 1792772303,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "programming",
    "title": "THE ATTACK !! PHP2Shell explained visually, from the first bug to the shutdowns",
    "url": "https://www.reddit.com/r/programming/comments/1xdihhk/the_attack_php2shell_explained_visually_from_the/",
    "ts": 1792772183,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Adding Bitmagnet as Indexer to Prowlarr",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xdig9i/adding_bitmagnet_as_indexer_to_prowlarr/",
+   "ts": 1792772105,
    "source": "Reddit"
   },
   {
@@ -116,13 +165,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Komga or Kavita?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xdg0it/komga_or_kavita/",
-   "ts": 1792766648,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Study Notes on Transformers and Hamiltonian Monte Carlo [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdfeki/study_notes_on_transformers_and_hamiltonian_monte/",
@@ -162,13 +204,6 @@
    "title": "Code and Cake - Docker is weird",
    "url": "https://www.reddit.com/r/programming/comments/1xdef0p/code_and_cake_docker_is_weird/",
    "ts": 1792762993,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Novice linux user, first selfhost on linux and ran into tailscale config issues",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xdeaow/novice_linux_user_first_selfhost_on_linux_and_ran/",
-   "ts": 1792762704,
    "source": "Reddit"
   },
   {
@@ -242,13 +277,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Open-source DDoS detection and mitigation for Linux, with Prometheus metrics and Discord alerts",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xd934v/opensource_ddos_detection_and_mitigation_for/",
-   "ts": 1792746806,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Qwen3-0.6B model converted into MoE",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd87wu/qwen306b_model_converted_into_moe/",
@@ -270,24 +298,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Would You Be Interested in an Open-Source Native Android Client for Firefly III?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xd3any/would_you_be_interested_in_an_opensource_native/",
-   "ts": 1792726514,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "MiniMax-M3.1-Flash",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd0fgs/minimaxm31flash/",
    "ts": 1792717969,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "What should I add to my Wiki?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xcymuu/what_should_i_add_to_my_wiki/",
-   "ts": 1792712958,
    "source": "Reddit"
   },
   {
@@ -348,13 +362,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Docker Container php2shell audit script",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xco3g9/docker_container_php2shell_audit_script/",
-   "ts": 1792688177,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "Bird-recognizing frame for your homelab (BirdNET-Go + Docker, on e-ink or any screen)",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xckrv1/birdrecognizing_frame_for_your_homelab_birdnetgo/",
    "ts": 1792680837,
@@ -386,13 +393,6 @@
    "title": "Debunking \"Faster than Rust\": Malicious Benchmarks in Tov",
    "url": "https://www.reddit.com/r/programming/comments/1xcaveo/debunking_faster_than_rust_malicious_benchmarks/",
    "ts": 1792649848,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "PHP2Shell: Critical vulnerabilities in the backbone of the web",
-   "url": "https://www.reddit.com/r/programming/comments/1xbo19y/php2shell_critical_vulnerabilities_in_the/",
-   "ts": 1792591402,
    "source": "Reddit"
   },
   {
