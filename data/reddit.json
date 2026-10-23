@@ -1,20 +1,90 @@
 {
- "generated_at": "2026-10-23T16:14:26Z",
+ "generated_at": "2026-10-23T18:15:21Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
-  "selfhosted"
+  "MachineLearning",
+  "programming"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Holy Shit Open Weight Models Have Officially Caught Up To The Frontier",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdl1cv/holy_shit_open_weight_models_have_officially/",
+   "ts": 1792777956,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Stenosis detection in coronary angiograms, need recall over precision [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xdkcav/stenosis_detection_in_coronary_angiograms_need/",
+   "ts": 1792776352,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Introducing Kimi K3.1 Pro: Advancing Open Intelligence",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdk6ow/introducing_kimi_k31_pro_advancing_open/",
+   "ts": 1792776005,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "How close can pure FP get to C?",
+   "url": "https://www.reddit.com/r/programming/comments/1xdjru9/how_close_can_pure_fp_get_to_c/",
+   "ts": 1792775076,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Kimi 3.1 and 2.8 preview",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdjr67/kimi_31_and_28_preview/",
+   "ts": 1792775034,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "I Asked Developers to Max Out a $12 Server (again)",
+   "url": "https://www.reddit.com/r/programming/comments/1xdjg1c/i_asked_developers_to_max_out_a_12_server_again/",
+   "ts": 1792774349,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "THE ATTACK !! PHP2Shell explained visually, from the first bug to the shutdowns",
+   "url": "https://www.reddit.com/r/programming/comments/1xdihhk/the_attack_php2shell_explained_visually_from_the/",
+   "ts": 1792772183,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdiecx/nvidianvidianemotron35bolte4b4gb_hugging_face/",
+   "ts": 1792771985,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "[Paper] Virtual Head Attention",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdhzw3/paper_virtual_head_attention/",
+   "ts": 1792771145,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Qwen 3.8 Flash Next Gyro Coder is out!",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdhj4z/qwen_38_flash_next_gyro_coder_is_out/",
    "ts": 1792770097,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "[R] The Hive Mind is a Single Reinforcement Learning Agent: Deriving the Exact Equivalence Between Swarm Dynamics and Multi-Armed Bandits",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xdhf7r/r_the_hive_mind_is_a_single_reinforcement/",
+   "ts": 1792769843,
    "source": "Reddit"
   },
   {
@@ -53,10 +123,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Does the “gpu unlock speedup” trick only work for 3090, or other 30x0 cards too? What about 40x0, 50x0?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdexhw/does_the_gpu_unlock_speedup_trick_only_work_for/",
-   "ts": 1792764166,
+   "subreddit": "MachineLearning",
+   "title": "Study Notes on Transformers and Hamiltonian Monte Carlo [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xdfeki/study_notes_on_transformers_and_hamiltonian_monte/",
+   "ts": 1792765254,
    "source": "Reddit"
   },
   {
@@ -67,10 +137,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "The future of Programming",
-   "url": "https://www.reddit.com/r/programming/comments/1xden1k/the_future_of_programming/",
-   "ts": 1792763506,
+   "subreddit": "MachineLearning",
+   "title": "Is symbolic ai dead? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xdekrf/is_symbolic_ai_dead_d/",
+   "ts": 1792763356,
    "source": "Reddit"
   },
   {
@@ -144,13 +214,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Started to play around a bit with opencode and this happened during thinking",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdc21t/started_to_play_around_a_bit_with_opencode_and/",
-   "ts": 1792756824,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "How does arXiv prepublishing work with ICLR's double-blind review? [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdbvrf/how_does_arxiv_prepublishing_work_with_iclrs/",
@@ -162,13 +225,6 @@
    "title": "TypeScript 7.1 content mappers made type checks 20× faster",
    "url": "https://www.reddit.com/r/programming/comments/1xdbkvy/typescript_71_content_mappers_made_type_checks_20/",
    "ts": 1792755378,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "is it worth to dumpsterdive?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdaf1p/is_it_worth_to_dumpsterdive/",
-   "ts": 1792751608,
    "source": "Reddit"
   },
   {
@@ -194,13 +250,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "Anyone checked gpu unlock for rtx 30-40 cards?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd8al3/anyone_checked_gpu_unlock_for_rtx_3040_cards/",
-   "ts": 1792743803,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "Qwen3-0.6B model converted into MoE",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd87wu/qwen306b_model_converted_into_moe/",
    "ts": 1792743522,
@@ -211,13 +260,6 @@
    "title": "Models disappearing from Huggingface",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd7ptj/models_disappearing_from_huggingface/",
    "ts": 1792741663,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Ornith 1.5 35B A3B is way better than Flint",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd7ewr/ornith_15_35b_a3b_is_way_better_than_flint/",
-   "ts": 1792740564,
    "source": "Reddit"
   },
   {
@@ -333,13 +375,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "I Tried to Find Out How ClickHouse Keeper Takes Non-Blocking Snapshots",
-   "url": "https://www.reddit.com/r/programming/comments/1xchal4/i_tried_to_find_out_how_clickhouse_keeper_takes/",
-   "ts": 1792672346,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Frontier models are bad at hearing ASMR: 8 judges vs human labels on 480 clips [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xcbqdm/frontier_models_are_bad_at_hearing_asmr_8_judges/",
@@ -354,27 +389,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "An interactive map of all 9,110 NeurIPS 2026 papers, and what changed since 2025 [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xbz5kf/an_interactive_map_of_all_9110_neurips_2026/",
-   "ts": 1792616115,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
-   "url": "https://www.reddit.com/r/programming/comments/1xbxrns/todays_php_security_release_and_how_were/",
-   "ts": 1792612906,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Noun-verb-conjunction triads [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xbtzv9/nounverbconjunction_triads_d/",
-   "ts": 1792604648,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "PHP2Shell: Critical vulnerabilities in the backbone of the web",
    "url": "https://www.reddit.com/r/programming/comments/1xbo19y/php2shell_critical_vulnerabilities_in_the/",
@@ -386,20 +400,6 @@
    "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
    "url": "https://www.reddit.com/r/programming/comments/1xbl8y1/eight_bits_of_trust_emudhras_ca_keys_cracked_in/",
    "ts": 1792584114,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Few-read fault localization in simulated analog crossbars: a sparse-recovery decoder vs reading every cell (with the claims that failed) [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xbj6nj/fewread_fault_localization_in_simulated_analog/",
-   "ts": 1792577395,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Will our paper be removed from EMNLP because of no-show? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xb9r6b/will_our_paper_be_removed_from_emnlp_because_of/",
-   "ts": 1792545212,
    "source": "Reddit"
   },
   {
