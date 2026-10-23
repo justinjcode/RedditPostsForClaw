@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T15:08:23Z",
+ "generated_at": "2026-10-23T15:26:05Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "art. kori rogers (@korigero) Scott Wu vs. the models Video — https://nitter.kareem.one/korigero/status/2113337096345981124#m",
+   "url": "https://nitter.kareem.one/swyx/status/2113652235611820164#m",
+   "ts": 1792768937,
+   "id": "2113652235611820164#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -913,15 +922,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2112809642745380866#m",
    "ts": 1792568047,
    "id": "2112809642745380866#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "i retired from the business of making single-stock calls a decade ago but trust me when i say that the stock market still has no idea that what happened every single gpu sold gained ~30% in lifetime value today and the stock should be up by about $600B lol the more you buy, the more you buy Latent.Space (@latentspacepod) deepseek's production numbers are kinda wild: 155T tokens/day from one cluster (96% input cache hits) and $38 revenue/GPU-hour at off-peak prices. at $5–8/GPU-hour, that’s ~80% margin on GPU costs alone. at DeepSeek prices!! we dug into the math, their 72-hour cache, and what actually got open sourced in today's AINews: latent.space/p/ainews-deepse… — https://nitter.kareem.one/latentspacepod/status/2112803554453037151#m",
-   "url": "https://nitter.kareem.one/swyx/status/2112804427962970271#m",
-   "ts": 1792566804,
-   "id": "2112804427962970271#m"
   },
   {
    "handle": "swyx",
