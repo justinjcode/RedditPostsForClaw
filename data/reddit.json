@@ -1,15 +1,78 @@
 {
- "generated_at": "2026-10-23T12:17:22Z",
+ "generated_at": "2026-10-23T14:14:19Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
   "MachineLearning",
-  "selfhosted"
+  "programming"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "The future of Programming",
+   "url": "https://www.reddit.com/r/programming/comments/1xden1k/the_future_of_programming/",
+   "ts": 1792763506,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Probability of backdoors in popular harnesses and LLM inference engines",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdeg0n/probability_of_backdoors_in_popular_harnesses_and/",
+   "ts": 1792763057,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Windows DEMO Audio Engine for mixing & mastering",
+   "url": "https://www.reddit.com/r/programming/comments/1xdefpv/windows_demo_audio_engine_for_mixing_mastering/",
+   "ts": 1792763039,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Code and Cake - Docker is weird",
+   "url": "https://www.reddit.com/r/programming/comments/1xdef0p/code_and_cake_docker_is_weird/",
+   "ts": 1792762993,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "AAAI 2027 phase 2 reviews discussion [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xddbgv/aaai_2027_phase_2_reviews_discussion_d/",
+   "ts": 1792760298,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "I made Transformer Architecture from scratch [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xdctou/i_made_transformer_architecture_from_scratch_p/",
+   "ts": 1792758972,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "everything will be local eventually",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdcpxb/everything_will_be_local_eventually/",
+   "ts": 1792758681,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Unicorn Benefits of Rust/Go Tooling in PHP",
+   "url": "https://www.reddit.com/r/programming/comments/1xdccln/unicorn_benefits_of_rustgo_tooling_in_php/",
+   "ts": 1792757645,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "NanoStories Releases!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdc991/nanostories_releases/",
+   "ts": 1792757374,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Started to play around a bit with opencode and this happened during thinking",
@@ -22,6 +85,13 @@
    "title": "How does arXiv prepublishing work with ICLR's double-blind review? [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdbvrf/how_does_arxiv_prepublishing_work_with_iclrs/",
    "ts": 1792756307,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "TypeScript 7.1 content mappers made type checks 20× faster",
+   "url": "https://www.reddit.com/r/programming/comments/1xdbkvy/typescript_71_content_mappers_made_type_checks_20/",
+   "ts": 1792755378,
    "source": "Reddit"
   },
   {
@@ -172,20 +242,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "NVIDIA/OpenShell: safe, private runtime for autonomous AI agents",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcs9e2/nvidiaopenshell_safe_private_runtime_for/",
-   "ts": 1792697341,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Whatever happened to TurboQuant?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcqm0z/whatever_happened_to_turboquant/",
-   "ts": 1792693685,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "ICLR Text Editor [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xcq2an/iclr_text_editor_d/",
@@ -204,13 +260,6 @@
    "title": "Anyone else moving their services exposed to internet in?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xcol4j/anyone_else_moving_their_services_exposed_to/",
    "ts": 1792689242,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "DeepSeek and MiniMax Clear China’s AI Export Rules for Overseas Open-Source Releases",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcoelw/deepseek_and_minimax_clear_chinas_ai_export_rules/",
-   "ts": 1792688851,
    "source": "Reddit"
   },
   {
@@ -270,13 +319,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Arcana: One Pure-Java Library for (Almost) Every Archive Format",
-   "url": "https://www.reddit.com/r/programming/comments/1xcgl1u/arcana_one_purejava_library_for_almost_every/",
-   "ts": 1792670357,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Building a 10GbE budget NAS on top of a $34 EliteDesk G3 I got from ebay",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xcdk5o/building_a_10gbe_budget_nas_on_top_of_a_34/",
@@ -320,13 +362,6 @@
   },
   {
    "subreddit": "programming",
-   "title": "go/ links that live in a file in your repo (open source)",
-   "url": "https://www.reddit.com/r/programming/comments/1xbxzz2/go_links_that_live_in_a_file_in_your_repo_open/",
-   "ts": 1792613421,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
    "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
    "url": "https://www.reddit.com/r/programming/comments/1xbxrns/todays_php_security_release_and_how_were/",
    "ts": 1792612906,
@@ -361,45 +396,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Critical Vulnerabilities in PHP",
-   "url": "https://www.reddit.com/r/programming/comments/1xbcv7y/critical_vulnerabilities_in_php/",
-   "ts": 1792554534,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "C vs C#: racing VLC's Gaussian blur",
-   "url": "https://www.reddit.com/r/programming/comments/1xbbkuq/c_vs_c_racing_vlcs_gaussian_blur/",
-   "ts": 1792550582,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Will our paper be removed from EMNLP because of no-show? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xb9r6b/will_our_paper_be_removed_from_emnlp_because_of/",
    "ts": 1792545212,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Make yourself replaceable",
-   "url": "https://www.reddit.com/r/programming/comments/1xb7t0x/make_yourself_replaceable/",
-   "ts": 1792539736,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Regarding CVPR 2027 Submission [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xar9ha/regarding_cvpr_2027_submission_d/",
-   "ts": 1792500579,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Best way to accurately annotate 500 images for fine-tuning Meta DETR?[P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xao1wy/best_way_to_accurately_annotate_500_images_for/",
-   "ts": 1792490443,
    "source": "Reddit"
   },
   {
