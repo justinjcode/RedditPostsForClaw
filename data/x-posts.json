@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-23T05:20:11Z",
+ "generated_at": "2026-10-23T05:34:22Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -10,7 +10,7 @@
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed",
+  "@ZichenWanghere: all instances failed",
   "@TheRundownAI: all instances failed"
  ],
  "count": 179,
@@ -268,6 +268,15 @@
    "id": "2113392393953104076#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "33 of the 34 deadliest cities in America have Democrat mayors. Dallas is the only one that doesn’t. New Orleans, Baltimore, Memphis, Detroit, DC, all of them. The national average is 6.3. They own the slaughter.",
+   "url": "https://nitter.kareem.one/Rothmus/status/2113388238320861351#m",
+   "ts": 1792705995,
+   "id": "2113388238320861351#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -502,6 +511,15 @@
    "id": "2113258261977928050#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "I don’t think people realize what Elon Musk is actually doing. He’s not playing the game better than everyone else. He’s rewriting the rules of the game. Every billionaire before him was offered the same deal: money for aura, silence for respectability. They all took it. He walked out. I made a 4-minute video on the machine he’s fighting. Watch it before it gets buried. Video",
+   "url": "https://nitter.kareem.one/brivael/status/2113257255902572640#m",
+   "ts": 1792674766,
+   "id": "2113257255902572640#m"
+  },
+  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -509,15 +527,6 @@
    "url": "https://nitter.kareem.one/biannagolodryga/status/2113254988621218057#m",
    "ts": 1792674226,
    "id": "2113254988621218057#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok Bot is now on X Chat",
-   "url": "https://nitter.kareem.one/techdevnotes/status/2113218324809269398#m",
-   "ts": 1792665484,
-   "id": "2113218324809269398#m"
   },
   {
    "handle": "TheRundownAI",
@@ -617,15 +626,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2113029655095836957#m",
    "ts": 1792620502,
    "id": "2113029655095836957#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Terafab will be the most epic chip-building exercise ever, producing one terawatt of SI compute annually Join us tesla.com/careers/search/?si… Video",
-   "url": "https://nitter.kareem.one/TeslaRecruiting/status/2113015046372839581#m",
-   "ts": 1792617019,
-   "id": "2113015046372839581#m"
   },
   {
    "handle": "elonmusk",
