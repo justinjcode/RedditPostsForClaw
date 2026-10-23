@@ -1,20 +1,34 @@
 {
- "generated_at": "2026-10-23T10:12:36Z",
+ "generated_at": "2026-10-23T12:17:22Z",
  "count": 60,
  "subreddits_ok": [
+  "LocalLLaMA",
   "MachineLearning",
-  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
   {
-   "subreddit": "selfhosted",
-   "title": "I switched my mail server plans from Mailcow to Stalwart – an honest comparison (Oct 2026)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xd9ubc/i_switched_my_mail_server_plans_from_mailcow_to/",
-   "ts": 1792749594,
+   "subreddit": "LocalLLaMA",
+   "title": "Started to play around a bit with opencode and this happened during thinking",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdc21t/started_to_play_around_a_bit_with_opencode_and/",
+   "ts": 1792756824,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "How does arXiv prepublishing work with ICLR's double-blind review? [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xdbvrf/how_does_arxiv_prepublishing_work_with_iclrs/",
+   "ts": 1792756307,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "is it worth to dumpsterdive?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdaf1p/is_it_worth_to_dumpsterdive/",
+   "ts": 1792751608,
    "source": "Reddit"
   },
   {
@@ -36,6 +50,20 @@
    "title": "Open-source DDoS detection and mitigation for Linux, with Prometheus metrics and Discord alerts",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xd934v/opensource_ddos_detection_and_mitigation_for/",
    "ts": 1792746806,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Anyone checked gpu unlock for rtx 30-40 cards?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd8al3/anyone_checked_gpu_unlock_for_rtx_3040_cards/",
+   "ts": 1792743803,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Qwen3-0.6B model converted into MoE",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd87wu/qwen306b_model_converted_into_moe/",
+   "ts": 1792743522,
    "source": "Reddit"
   },
   {
@@ -95,13 +123,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Qwen 3.8 Flash Next (129 GB) is better than 2.6 bpw DeepSeek V4.1 Flash 1017 (187 GB + 203 GB Engram)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcylhj/qwen_38_flash_next_129_gb_is_better_than_26_bpw/",
-   "ts": 1792712846,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Where did my freed memory (not) go?",
    "url": "https://www.reddit.com/r/programming/comments/1xcwsc3/where_did_my_freed_memory_not_go/",
@@ -134,13 +155,6 @@
    "title": "I built Open-XTTS-Trainer: Now you can add new language scripts and train all 3 XTTS v2 components in 1 click [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xcurgj/i_built_openxttstrainer_now_you_can_add_new/",
    "ts": 1792703008,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Making Kokoro TTS 50-100x faster without knowing how",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcuqor/making_kokoro_tts_50100x_faster_without_knowing/",
-   "ts": 1792702956,
    "source": "Reddit"
   },
   {
@@ -207,13 +221,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Ant Ling just announced a second model today: Ling-3.0-flash-Sante (124B, 5.1B active)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcljvi/ant_ling_just_announced_a_second_model_today/",
-   "ts": 1792682561,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Bird-recognizing frame for your homelab (BirdNET-Go + Docker, on e-ink or any screen)",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xckrv1/birdrecognizing_frame_for_your_homelab_birdnetgo/",
@@ -228,10 +235,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Repair shop receives eight GeForce RTX 5090 and RTX 4090 cards with melted 16-pin connectors in two days",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xckdep/repair_shop_receives_eight_geforce_rtx_5090_and/",
-   "ts": 1792679911,
+   "subreddit": "selfhosted",
+   "title": "Reminder: Speedtest Tracker runs on PHP.",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xck0xb/reminder_speedtest_tracker_runs_on_php/",
+   "ts": 1792679099,
    "source": "Reddit"
   },
   {
@@ -302,6 +309,13 @@
    "title": "You'll Never need a Public Torrent indexer again - Armiger, a Neural Classifier with near perfect category mapping & matching, junk / malware detection, and seed detection.",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xc4ntn/youll_never_need_a_public_torrent_indexer_again/",
    "ts": 1792630446,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "An interactive map of all 9,110 NeurIPS 2026 papers, and what changed since 2025 [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xbz5kf/an_interactive_map_of_all_9110_neurips_2026/",
+   "ts": 1792616115,
    "source": "Reddit"
   },
   {
@@ -376,13 +390,6 @@
   },
   {
    "subreddit": "MachineLearning",
-   "title": "When eight systems share a benchmark top score, what should the table show?[D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xayxs1/when_eight_systems_share_a_benchmark_top_score/",
-   "ts": 1792518435,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
    "title": "Regarding CVPR 2027 Submission [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xar9ha/regarding_cvpr_2027_submission_d/",
    "ts": 1792500579,
@@ -393,13 +400,6 @@
    "title": "Best way to accurately annotate 500 images for fine-tuning Meta DETR?[P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xao1wy/best_way_to_accurately_annotate_500_images_for/",
    "ts": 1792490443,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "AI generates research ideas faster than I can test them. Anyone else? [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xa3svs/ai_generates_research_ideas_faster_than_i_can/",
-   "ts": 1792432249,
    "source": "Reddit"
   },
   {
