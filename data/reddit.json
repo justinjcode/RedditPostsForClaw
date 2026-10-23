@@ -1,15 +1,36 @@
 {
- "generated_at": "2026-10-23T00:30:31Z",
+ "generated_at": "2026-10-23T06:20:29Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
+  "MachineLearning",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Best Cloud Hosting Solution for Multiple Dockerized AI/ML Applications",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xd55ym/best_cloud_hosting_solution_for_multiple/",
+   "ts": 1792732578,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Would You Be Interested in an Open-Source Native Android Client for Firefly III?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xd3any/would_you_be_interested_in_an_opensource_native/",
+   "ts": 1792726514,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "October: Bad Software Month",
+   "url": "https://www.reddit.com/r/programming/comments/1xczzoc/october_bad_software_month/",
+   "ts": 1792716721,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "What should I add to my Wiki?",
@@ -39,10 +60,24 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "MachineLearning",
+   "title": "Steered QWEN to be more \"evil\" and it started saying the n word, amongst other things [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xcvil5/steered_qwen_to_be_more_evil_and_it_started/",
+   "ts": 1792704836,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
    "title": "Help: Radarr, jellyfin, Plex in NAS",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xcuv81/help_radarr_jellyfin_plex_in_nas/",
    "ts": 1792703262,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "I built Open-XTTS-Trainer: Now you can add new language scripts and train all 3 XTTS v2 components in 1 click [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xcurgj/i_built_openxttstrainer_now_you_can_add_new/",
+   "ts": 1792703008,
    "source": "Reddit"
   },
   {
@@ -85,13 +120,6 @@
    "title": "NVIDIA/OpenShell: safe, private runtime for autonomous AI agents",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcs9e2/nvidiaopenshell_safe_private_runtime_for/",
    "ts": 1792697341,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Smart Drink Fridge: a self-hosted drink inventory with barcode scanning and Home Assistant shopping lists",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xcr8pw/smart_drink_fridge_a_selfhosted_drink_inventory/",
-   "ts": 1792695077,
    "source": "Reddit"
   },
   {
@@ -291,13 +319,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Heads up if you self-host LiteLLM: the 1.107.0 Docker image (and the latest/main-latest/main-stable tags) shipped a credential stealer",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xbu3qr/heads_up_if_you_selfhost_litellm_the_11070_docker/",
-   "ts": 1792604878,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Noun-verb-conjunction triads [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xbtzv9/nounverbconjunction_triads_d/",
@@ -354,13 +375,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "eMudhra Intermediate CA Compromise",
-   "url": "https://www.reddit.com/r/programming/comments/1xb32yj/emudhra_intermediate_ca_compromise/",
-   "ts": 1792527690,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "When eight systems share a benchmark top score, what should the table show?[D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xayxs1/when_eight_systems_share_a_benchmark_top_score/",
@@ -383,23 +397,9 @@
   },
   {
    "subreddit": "MachineLearning",
-   "title": "Open GPU kernel engineering series: naive GEMM to FlashAttention, H100 and Blackwell (44 sessions, code public) [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xa4h2g/open_gpu_kernel_engineering_series_naive_gemm_to/",
-   "ts": 1792433718,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
    "title": "AI generates research ideas faster than I can test them. Anyone else? [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xa3svs/ai_generates_research_ideas_faster_than_i_can/",
    "ts": 1792432249,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Maxwell: a new model that speeds up AI models like Whisper and LTX-2 by rewriting their binaries [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xa2rrh/maxwell_a_new_model_that_speeds_up_ai_models_like/",
-   "ts": 1792430015,
    "source": "Reddit"
   },
   {
