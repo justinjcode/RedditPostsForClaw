@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-23T13:58:13Z",
+ "generated_at": "2026-10-23T14:22:10Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "bcherny",
+  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -11,10 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed"
+  "@bcherny: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "Given the current vulnerability apocalypse, is there anyone left who thinks holding assets in cryptocurrency - where mistaken transactions are irreversible - is still a good idea?",
+   "url": "https://nitter.kareem.one/simonw/status/2113633667583287786#m",
+   "ts": 1792764510,
+   "id": "2113633667583287786#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -32,6 +41,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2113578827771187484#m",
    "ts": 1792751435,
    "id": "2113578827771187484#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "grok bot is now integrated with XChat i can basically do everything directly from X the everything app is coming together nicely",
+   "url": "https://nitter.kareem.one/IterIntellectus/status/2113555273184940278#m",
+   "ts": 1792745819,
+   "id": "2113555273184940278#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -331,6 +349,15 @@
    "id": "2113417272446558717#m"
   },
   {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Treasury just published new proposed Outbound Investment regulations, which would represent a significant expansion of the existing program. This is just a proposed rule, and it deserves a thorough review, but some initial reactions: 1. The rule would prohibit most private investment in any Chinese firm that develops an “SI system,” including any product that operates using an SI system. It defines “SI system” extremely broadly, such that it likely captures the vast majority of Chinese software products. As a result, the proposed rule likely would prohibit most private investment in Chinese software firms, as well as Chinese firms that build products that incorporate AI (i.e., the entire Chinese robotics and drone industry, and undoubtedly many others). 2. The rule adds biotech as a covered sector and would prohibit most private investment in the vast majority of the sector. It would ban private investment in Chinese companies that use biological systems to modify, enhance, produce, or control any pharmaceutical compound, to include both small and large molecules. This likely captures most Chinese firms engaged in biologic drug manufacturing or drug discovery. Biotech and biomanufacturing are areas where U.S. investment has massively fueled China’s capabilities, which are rapidly approaching--and in some cases surpassing--those of the United States. The scope of this rule signals that the administration sees this as a massive national security concern. 3. The rule does not ma",
+   "url": "https://nitter.kareem.one/ChrisRMcGuire/status/2113417246890680469#m",
+   "ts": 1792712911,
+   "id": "2113417246890680469#m"
+  },
+  {
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
    "author": "@realDonaldTrump",
@@ -437,15 +464,6 @@
    "url": "https://nitter.kareem.one/bcherny/status/2113333859907747871#m",
    "ts": 1792693030,
    "id": "2113333859907747871#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "True Nima Owji (@nima_owji) Most people use Grok Bot like a chatbot! But it has its own computer and keeps working while you're away! 8 things you can hand off to it today: 1. Tag @bot under any post on X 2. Handle your X DMs 3. Connect Coinbase, Robinhood or eToro 4. Run daily briefings and reminders 5. Compare prices and ask before buying 6. Open GitHub PRs and ship code 7. Prep your meetings from Gmail, Calendar and Slack 8. Sort and clean your inbox And it asks before it sends, posts or buys anything. Which one would you hand off first? — https://nitter.kareem.one/nima_owji/status/2113324631100920279#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2113333198134354083#m",
-   "ts": 1792692872,
-   "id": "2113333198134354083#m"
   },
   {
    "handle": "elonmusk",
@@ -1240,15 +1258,6 @@
    "id": "2112009671330664663#m"
   },
   {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "Remarkable scoop by @Lingling_Wei @learyreports @tggrove",
-   "url": "https://nitter.kareem.one/bobdavis187/status/2112007239183536164#m",
-   "ts": 1792376739,
-   "id": "2112007239183536164#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -1571,15 +1580,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2108547065634844839#m",
    "ts": 1791551770,
    "id": "2108547065634844839#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "Admittedly I guess this is a pretty incredible troll targeted at people who say \"it shouldn't be called artificial intelligent because it's not actually intelligent\" Do they now feel obliged to defend the old name against the new one?",
-   "url": "https://nitter.kareem.one/simonw/status/2108347087985480107#m",
-   "ts": 1791504091,
-   "id": "2108347087985480107#m"
   },
   {
    "handle": "bcherny",
