@@ -1,27 +1,69 @@
 {
- "generated_at": "2026-10-23T20:13:18Z",
+ "generated_at": "2026-10-23T22:11:27Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
   {
    "subreddit": "selfhosted",
-   "title": "Noodle Gallery vs. Immich",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xdo6eo/noodle_gallery_vs_immich/",
-   "ts": 1792785064,
+   "title": "Cheapest way to get an AI that can access my files, run code and use tools, from my iPhone? (under $20/mo)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xdrg27/cheapest_way_to_get_an_ai_that_can_access_my/",
+   "ts": 1792792936,
    "source": "Reddit"
   },
   {
    "subreddit": "selfhosted",
-   "title": "Building an isolated download and software testing VM with Proxmox and TrueNAS. Looking for feedback.",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xdnjtk/building_an_isolated_download_and_software/",
-   "ts": 1792783608,
+   "title": "🌋 Pushing PCIe x1 to the limit: lvgale concurrently serving 27B, 9B, and 2B LLMs on a hardware abomination 📈",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xdqem6/pushing_pcie_x1_to_the_limit_lvgale_concurrently/",
+   "ts": 1792790363,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Another day another Dynacat release - 3.0.2",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xdptst/another_day_another_dynacat_release_302/",
+   "ts": 1792788961,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Komodo webhooks issue",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xdpn96/komodo_webhooks_issue/",
+   "ts": 1792788515,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Running all my Docker services in one LXC on Proxmox. Thinking of moving to a Talos VM, thoughts?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xdp1c2/running_all_my_docker_services_in_one_lxc_on/",
+   "ts": 1792787053,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Been tracking intel b60 b65 b70 prices, they jumped 30% today.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdoirp/been_tracking_intel_b60_b65_b70_prices_they/",
+   "ts": 1792785854,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "New Nvidia unlock works on Chinese 3080 20GB too",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdn33h/new_nvidia_unlock_works_on_chinese_3080_20gb_too/",
+   "ts": 1792782555,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Mysterious Qwen4 Appearance by New GitHub Accounts",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdmt2o/mysterious_qwen4_appearance_by_new_github_accounts/",
+   "ts": 1792781942,
    "source": "Reddit"
   },
   {
@@ -39,6 +81,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "qwen4exp : build the QSA selection without the kq_mask by sanmai · Pull Request #30965 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdmek0/qwen4exp_build_the_qsa_selection_without_the_kq/",
+   "ts": 1792781026,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "programming",
    "title": "03 control flow",
    "url": "https://www.reddit.com/r/programming/comments/1xdlzxr/03_control_flow/",
@@ -47,9 +96,23 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "Holy Shit Open Weight Models Have Officially Caught Up To The Frontier",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdl1cv/holy_shit_open_weight_models_have_officially/",
-   "ts": 1792777956,
+   "title": "I ran all the popular Qwen 3.8 FN engines on a single 5090 + 128GB of RAM, here are the numbers",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdlunp/i_ran_all_the_popular_qwen_38_fn_engines_on_a/",
+   "ts": 1792779776,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Here's where the last RTX 5090 cards are going: Massive AI conversion factory exposed in China, Founders Edition included",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdlj42/heres_where_the_last_rtx_5090_cards_are_going/",
+   "ts": 1792779051,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Strata now supports Qwen 3.6 35B",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdktmz/strata_now_supports_qwen_36_35b/",
+   "ts": 1792777460,
    "source": "Reddit"
   },
   {
@@ -60,24 +123,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Introducing Kimi K3.1 Pro: Advancing Open Intelligence",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdk6ow/introducing_kimi_k31_pro_advancing_open/",
-   "ts": 1792776005,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "How close can pure FP get to C?",
    "url": "https://www.reddit.com/r/programming/comments/1xdjru9/how_close_can_pure_fp_get_to_c/",
    "ts": 1792775076,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Kimi 3.1 and 2.8 preview",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdjr67/kimi_31_and_28_preview/",
-   "ts": 1792775034,
    "source": "Reddit"
   },
   {
@@ -102,24 +151,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Adding Bitmagnet as Indexer to Prowlarr",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xdig9i/adding_bitmagnet_as_indexer_to_prowlarr/",
-   "ts": 1792772105,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB · Hugging Face",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdiecx/nvidianvidianemotron35bolte4b4gb_hugging_face/",
    "ts": 1792771985,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "[Paper] Virtual Head Attention",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdhzw3/paper_virtual_head_attention/",
-   "ts": 1792771145,
    "source": "Reddit"
   },
   {
@@ -242,13 +277,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "NanoStories Releases!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdc991/nanostories_releases/",
-   "ts": 1792757374,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "How does arXiv prepublishing work with ICLR's double-blind review? [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdbvrf/how_does_arxiv_prepublishing_work_with_iclrs/",
@@ -278,13 +306,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "Qwen3-0.6B model converted into MoE",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd87wu/qwen306b_model_converted_into_moe/",
-   "ts": 1792743522,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "Models disappearing from Huggingface",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd7ptj/models_disappearing_from_huggingface/",
    "ts": 1792741663,
@@ -295,13 +316,6 @@
    "title": "I just came across Next-Concept Modeling and the idea is fascinating[R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xd7bsu/i_just_came_across_nextconcept_modeling_and_the/",
    "ts": 1792740252,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "MiniMax-M3.1-Flash",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd0fgs/minimaxm31flash/",
-   "ts": 1792717969,
    "source": "Reddit"
   },
   {
@@ -355,23 +369,9 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Anyone else moving their services exposed to internet in?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xcol4j/anyone_else_moving_their_services_exposed_to/",
-   "ts": 1792689242,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "Bird-recognizing frame for your homelab (BirdNET-Go + Docker, on e-ink or any screen)",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xckrv1/birdrecognizing_frame_for_your_homelab_birdnetgo/",
    "ts": 1792680837,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Pangolin 1.25: Redirects, mTLS, and Machine Roles",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xckgit/pangolin_125_redirects_mtls_and_machine_roles/",
-   "ts": 1792680109,
    "source": "Reddit"
   },
   {
