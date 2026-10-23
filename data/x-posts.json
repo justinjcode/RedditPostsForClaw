@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-10-23T15:57:51Z",
+ "generated_at": "2026-10-23T16:10:17Z",
  "accounts_ok": [
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
-  "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed"
  ],
  "count": 179,
@@ -158,6 +158,15 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2113492187770175603#m",
    "ts": 1792730779,
    "id": "2113492187770175603#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "打开家里监控本想看看猫在干嘛，结果下一秒屏幕被一颗巨大的毛茸茸大饼脸暴击！🐱 Video",
+   "url": "https://nitter.kareem.one/qinlang642/status/2113486315409047975#m",
+   "ts": 1792729378,
+   "id": "2113486315409047975#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -1454,15 +1463,6 @@
    "url": "https://nitter.kareem.one/bunjavascript/status/2110692261508079721#m",
    "ts": 1792063224,
    "id": "2110692261508079721#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "This comment captures a fundamental flaw in US foreign policy: the assumption that military power can counter economic influence. It cannot. If the U.S. wants to compete with Chinese economic influence, it needs an economic strategy, not more military power.",
-   "url": "https://nitter.kareem.one/jekavanagh/status/2110561844691923378#m",
-   "ts": 1792032130,
-   "id": "2110561844691923378#m"
   },
   {
    "handle": "ZichenWanghere",
