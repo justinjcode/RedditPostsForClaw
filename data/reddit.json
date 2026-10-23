@@ -1,15 +1,29 @@
 {
- "generated_at": "2026-10-22T22:11:36Z",
+ "generated_at": "2026-10-23T00:30:31Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "What should I add to my Wiki?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xcymuu/what_should_i_add_to_my_wiki/",
+   "ts": 1792712958,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Where did my freed memory (not) go?",
+   "url": "https://www.reddit.com/r/programming/comments/1xcwsc3/where_did_my_freed_memory_not_go/",
+   "ts": 1792708028,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "examining the macOS gcc binary",
@@ -25,6 +39,20 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "selfhosted",
+   "title": "Help: Radarr, jellyfin, Plex in NAS",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xcuv81/help_radarr_jellyfin_plex_in_nas/",
+   "ts": 1792703262,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Making Kokoro TTS 50-100x faster without knowing how",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcuqor/making_kokoro_tts_50100x_faster_without_knowing/",
+   "ts": 1792702956,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "MachineLearning",
    "title": "We shrank our steerable small TTS to 11.84 MB. WER is unchanged, UTMOS drops ~0.1 [p]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xcum4s/we_shrank_our_steerable_small_tts_to_1184_mb_wer/",
@@ -32,17 +60,31 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "I built an open-source workspace that puts boards, docs, whiteboards and Gantt plans in one place",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xctpuj/i_built_an_opensource_workspace_that_puts_boards/",
-   "ts": 1792700572,
+   "subreddit": "LocalLLaMA",
+   "title": "Is anyone else concerned about the security of the implementation engines?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcu4or/is_anyone_else_concerned_about_the_security_of/",
+   "ts": 1792701517,
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Ordo — AGPL job scheduler, Docker, no account required",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xcsoqd/ordo_agpl_job_scheduler_docker_no_account_required/",
-   "ts": 1792698298,
+   "subreddit": "LocalLLaMA",
+   "title": "Meta's 816B Muse Spark Open scores 39 on Artificial Analysis, the 180B Qwen3.8-Flash-Next scores 40. Score vs size for 11 open-weight models",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcthj8/metas_816b_muse_spark_open_scores_39_on/",
+   "ts": 1792700046,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "AuroraTTS-100K Releases!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xctcoe/auroratts100k_releases/",
+   "ts": 1792699734,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "NVIDIA/OpenShell: safe, private runtime for autonomous AI agents",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcs9e2/nvidiaopenshell_safe_private_runtime_for/",
+   "ts": 1792697341,
    "source": "Reddit"
   },
   {
@@ -50,6 +92,20 @@
    "title": "Smart Drink Fridge: a self-hosted drink inventory with barcode scanning and Home Assistant shopping lists",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xcr8pw/smart_drink_fridge_a_selfhosted_drink_inventory/",
    "ts": 1792695077,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Whatever happened to TurboQuant?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcqm0z/whatever_happened_to_turboquant/",
+   "ts": 1792693685,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Massive B70 spec-decoding improvement - Intel XMX matrix engines refactored by budiony · Pull Request #29864 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcqb3p/massive_b70_specdecoding_improvement_intel_xmx/",
+   "ts": 1792693009,
    "source": "Reddit"
   },
   {
@@ -89,20 +145,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "Ling-3.0-tiny-UBTree DFlash draft for stock mainline llama.cpp (+8% prose, +61% code speedup)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcnsrj/ling30tinyubtree_dflash_draft_for_stock_mainline/",
-   "ts": 1792687530,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Is 128GB RAM worth it?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcmkyh/is_128gb_ram_worth_it/",
-   "ts": 1792684855,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "Q4 flash next for £300/600 👀 - snapdragon mini PC results update - 315/43 Tok/s A3b, 46/20 Tok/s Flash Next (read/gen) 💥",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcmioz/q4_flash_next_for_300600_snapdragon_mini_pc/",
    "ts": 1792684728,
@@ -124,16 +166,16 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Advice/Troubleshooting Remote Photography Repository",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xckt0h/advicetroubleshooting_remote_photography/",
-   "ts": 1792680913,
+   "title": "Bird-recognizing frame for your homelab (BirdNET-Go + Docker, on e-ink or any screen)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xckrv1/birdrecognizing_frame_for_your_homelab_birdnetgo/",
+   "ts": 1792680837,
    "source": "Reddit"
   },
   {
    "subreddit": "selfhosted",
-   "title": "Bird-recognizing frame for your homelab (BirdNET-Go + Docker, on e-ink or any screen)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xckrv1/birdrecognizing_frame_for_your_homelab_birdnetgo/",
-   "ts": 1792680837,
+   "title": "GyroidVault v2.3.0 Released: Self-hosted 3D model manager now has customizable themes, OIDC SSO, NAS drive spin-down support & Creality Print integration",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xcknfs/gyroidvault_v230_released_selfhosted_3d_model/",
+   "ts": 1792680553,
    "source": "Reddit"
   },
   {
@@ -158,24 +200,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Who is Issac Newton or Davinci of programming/CS?",
-   "url": "https://www.reddit.com/r/programming/comments/1xcjx7l/who_is_issac_newton_or_davinci_of_programmingcs/",
-   "ts": 1792678856,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Qwen4 and Kimi3.1 on Arena apperantly",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcj1wm/qwen4_and_kimi31_on_arena_apperantly/",
    "ts": 1792676834,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "capy-flash v0.7.1: Qwen3.8-Flash-Next (125B MoE) now runs in 64 GB of RAM (234 tok/s on two 16 GB cards), and Qwen3.8-27B 3-bit fits on a single 16 GB card (174 tok/s)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xciqnj/capyflash_v071_qwen38flashnext_125b_moe_now_runs/",
-   "ts": 1792676084,
    "source": "Reddit"
   },
   {
@@ -204,34 +232,6 @@
    "title": "Arcana: One Pure-Java Library for (Almost) Every Archive Format",
    "url": "https://www.reddit.com/r/programming/comments/1xcgl1u/arcana_one_purejava_library_for_almost_every/",
    "ts": 1792670357,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Ling-3.1-flash is getting a 1019 update, with open weights to follow",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcftoo/ling31flash_is_getting_a_1019_update_with_open/",
-   "ts": 1792667997,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Llama.cpp PR: How to beat strata decode performance with a R9700",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcf8kb/llamacpp_pr_how_to_beat_strata_decode_performance/",
-   "ts": 1792666095,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Carbon-X: the best open DNA language model runs locally with llama.cpp",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcew36/carbonx_the_best_open_dna_language_model_runs/",
-   "ts": 1792664920,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Tried LFM2.5-24-A2B. It's crap. Yes. I double confirm it. I wouldn't trust it peeling a peanut correctly",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xce5dd/tried_lfm2524a2b_its_crap_yes_i_double_confirm_it/",
-   "ts": 1792662324,
    "source": "Reddit"
   },
   {
