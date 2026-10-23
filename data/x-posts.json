@@ -1,9 +1,6 @@
 {
- "generated_at": "2026-10-23T17:09:49Z",
+ "generated_at": "2026-10-23T17:23:49Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +8,40 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "By the way, Tesla ramping up Megapack production rapidly to meet increasing demand",
+   "url": "https://nitter.kareem.one/elonmusk/status/2113679241439027551#m",
+   "ts": 1792775376,
+   "id": "2113679241439027551#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Talarico wants to trans your kids and destroy the border KanekoaTheGreat (@KanekoaTheGreat) James Talarico: “With every border wall, with every bathroom bill, we degrade our reputation and we dishonor our legacy.” He voted against border security nine times and against the bathroom bill to keep boys out of girls’ bathrooms. He'll do it again in Washington. Video — https://nitter.kareem.one/KanekoaTheGreat/status/2113667772211421244#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2113678299394142433#m",
+   "ts": 1792775151,
+   "id": "2113678299394142433#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "What’s actually going on in Ukraine is that there is a massive incentive difference between the elites and the people. The former have grown very rich off the hundreds of billions flowing to Ukraine, while the latter’s children are conscripted to die in trenches.",
+   "url": "https://nitter.kareem.one/elonmusk/status/2113677835244044748#m",
+   "ts": 1792775040,
+   "id": "2113677835244044748#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -67,6 +95,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2113668886625235327#m",
    "ts": 1792772907,
    "id": "2113668886625235327#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Now the company is fixing the problem. Thank you, Grok Bot! I had a problem with a company doing some building work for me. They made a mistake and wouldn’t own up to it. I sent Grok Bot the issue and supporting pictures. In a couple minutes, it prepared a full case with emails of where to send it with just needing my yes. It’s insane how Grok Bot can help with everyday problems!",
+   "url": "https://nitter.kareem.one/DogecoinNorway/status/2113664149871808973#m",
+   "ts": 1792771777,
+   "id": "2113664149871808973#m"
   },
   {
    "handle": "elonmusk",
@@ -130,6 +167,15 @@
    "url": "https://nitter.kareem.one/simonw/status/2113633667583287786#m",
    "ts": 1792764510,
    "id": "2113633667583287786#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Tesla Whiners: Earnings call wasn't optimistic The Q3 Call: - Vaibhav: We will take over transportation of any kind on Earth. - Elon: Optimus will be the biggest product on Earth. There will be more humanoid robots on Earth than humans. - Elon: Terafab will be the most valuable building in the world. - Elon: Autonomous miles are scaling so fast it “looks like a rocket going to orbit”; Austin Cybercab fleet grew 10x in ~1 month. - Sold out of Megapacks for all of 2027 amid extreme data-center demand.",
+   "url": "https://nitter.kareem.one/WR4NYGov/status/2113605872635310520#m",
+   "ts": 1792757883,
+   "id": "2113605872635310520#m"
   },
   {
    "handle": "TheRundownAI",
@@ -198,10 +244,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Grok @Bot is an incredible life & business manager. Can help you with almost anything! Like having a genius employee. Teslaconomics (@Teslaconomics) Years from now, people will look back and say Grok Bot was the moment AI actually became useful for normal people. This week, I just texted it and: 1/ My kids woke up to new math and reading worksheets already printed 2/ It planned and booked trips for my family 3/ It ordered stuff for me from one text 4/ It printed my return label for a shoe I own and set a reminder so I don't miss the deadline 5/ It built a page that breaks down my net worth And look at what other people are getting it to do too: 6/ Book a flight from start to finish 7/ Build a website or an Etsy store 8/ Reconcile crypto taxes that would cost hundreds 9/ Book a Tesla tire rotation during school drop-off 10/ Order itself a 3D-printed body and mail the parts home You just text it like a person. I've been early on Tesla. I've been early on SpaceX. I'm telling you, I'm early on this too. This is the greatest thing that has happened to AI. — https://nitter.kareem.one/Teslaconomics/status/2113502808507040081#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2113506269260595431#m",
-   "ts": 1792734136,
-   "id": "2113506269260595431#m"
+   "text": "Elon Musk just shared how Tesla came within hours of dying on Christmas Eve in 2008, and it's incredible to think how much of the future was hanging on those final hours “It's difficult to imagine here in 2026 that Tesla actually, you know, has come close to death multiple times, actually 2008 was the worst, and that's where we closed the financing round at 6 p.m. on Christmas Eve, 2008. It's the last hour of the last day that it was possible We were to bounce payroll a few days after Christmas if the round hadn't closed. So that was pretty stressful” The millions of Tesla vehicles on the road today, the factories around the world, the Supercharger network, the breakthroughs in energy storage, autonomous driving, and now humanoid robotics. None of that existed at the scale we see today Everything Tesla has accomplished, and everything Elon is still building toward, traces back to a company that was just days away from not being able to pay its own employees Video",
+   "url": "https://nitter.kareem.one/XFreeze/status/2113503224472952848#m",
+   "ts": 1792733410,
+   "id": "2113503224472952848#m"
   },
   {
    "handle": "thsottiaux",
@@ -256,15 +302,6 @@
    "url": "https://nitter.kareem.one/Yuzhehere/status/2113442222737916204#m",
    "ts": 1792718866,
    "id": "2113442222737916204#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I asked Grok Bot to make a video about itself. It did everything - set the storyline, found clips, cut and stitched them, and added the titles and music. I was particularly delighted by how it chose to end the video - @bot has a sense of humor 😂 Video",
-   "url": "https://nitter.kareem.one/venturetwins/status/2113427192382373931#m",
-   "ts": 1792715282,
-   "id": "2113427192382373931#m"
   },
   {
    "handle": "realDonaldTrump",
@@ -519,15 +556,6 @@
    "id": "2113337108450406788#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "You can tell a lot about James Talarico by who he compares to al Qaeda and the Taliban—roughly half of American voters Texas, please don’t send Mr. Talarico to the U.S. Senate America (@america) Democrat Nominee for U.S. Senate in Texas James Talarico compares Republicans to Taliban and al-Qaeda Video — https://nitter.kareem.one/america/status/2113299342186426434#m",
-   "url": "https://nitter.kareem.one/BasedMikeLee/status/2113336007949238579#m",
-   "ts": 1792693542,
-   "id": "2113336007949238579#m"
-  },
-  {
    "handle": "bcherny",
    "name": "Boris Cherny",
    "author": "@bcherny",
@@ -562,15 +590,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2113324291307811158#m",
    "ts": 1792690749,
    "id": "2113324291307811158#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Intel CTO explains why Intel is helping Elon Musk build Terafab, and what a new fab needs besides tools DWARKESH: “I think it’ll be interesting to discuss the partnership you guys have with Elon on Terafab. What’s going on there?” PUSHKAR RANADE (CTO): “Well, I think Elon’s publicly talked about his desire to build a fab.” [Musk clip spliced in]: “We either build the Terafab or we don’t have the chips. And we need the chips, so we’re going to build the Terafab.” RANADE: “Sort of the same thinking. I think he’s seeing just an enormous increase in demand for silicon, for compute and for memory. And I think he came to the conclusion that his own businesses are going to require a lot of silicon. And so he thought maybe he should just do it all on his own. Unlike building a car, for example, this is such an intricate and complicated process. We thought we could work together to help accelerate his bringing up his fab.” DWARKESH: “But because of the bottleneck at the tool level, it seems like the net amount of silicon in the world won’t increase. It’s just that maybe if somebody were to start a new fab, they would get access to guaranteed supply in a way that they wouldn’t have if they’re working with another person’s foundry.” RANADE: “It’s actually not just tools. I mean, a fab does require a lot of power, a lot of water, a lot of consumables. There’s many other input variables as well.” DWARKESH: “But those can be scaled in the way that tools cannot.” RANADE: “Yea. Some more tha",
-   "url": "https://nitter.kareem.one/firesidealpha/status/2113323085252415883#m",
-   "ts": 1792690461,
-   "id": "2113323085252415883#m"
   },
   {
    "handle": "elonmusk",
@@ -643,24 +662,6 @@
    "url": "https://nitter.kareem.one/Whats_AI/status/2113275444900360264#m",
    "ts": 1792679103,
    "id": "2113275444900360264#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Capitalism has a win condition. Socialism does not. Here's why, explained so simply a 10-year-old could get it. It starts with a book written in 1944 by an Austrian economist named Friedrich Hayek: The Road to Serfdom. Video Brivael Le Pogam (@brivael) Capitalism has a win condition. Socialism does not. Here's why, explained so simply a 10-year-old could get it. It starts with a book written in 1944 by an Austrian economist named Friedrich Hayek: The Road to Serfdom. Imagine a classroom of 30 kids. One day the teacher says: \"From now on, I decide what everyone eats for lunch, which games you play at recess, and who sits next to whom. It's fairer that way.\" First problem: the teacher doesn't know what you like. You hate carrots. Your friend is allergic to peanuts. Lucas wants to play football, Emma wants to draw. 30 kids, 30 different wishes. Nobody can know all of that, not even the smartest teacher on Earth. Hayek called this the knowledge problem. The information needed to run an economy is scattered across millions of heads, and it can't be gathered in one office. Second problem: the kids start fighting. \"Why does he get the window seat?\" \"Why football again?\" Before, everyone just chose for themselves. Now every choice is a fight, because every choice is made for everyone. Third problem: the class can't agree on a plan, so someone says \"we need one person in charge who just decides.\" This is Hayek's key insight. Planning doesn't fail because planners are evil. A plan need",
-   "url": "https://nitter.kareem.one/brivael/status/2113266253188022682#m",
-   "ts": 1792676912,
-   "id": "2113266253188022682#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I don’t think people realize what Elon Musk is actually doing. He’s not playing the game better than everyone else. He’s rewriting the rules of the game. Every billionaire before him was offered the same deal: money for aura, silence for respectability. They all took it. He walked out. I made a 4-minute video on the machine he’s fighting. Watch it before it gets buried. Video",
-   "url": "https://nitter.kareem.one/brivael/status/2113257255902572640#m",
-   "ts": 1792674766,
-   "id": "2113257255902572640#m"
   },
   {
    "handle": "Lingling_Wei",
