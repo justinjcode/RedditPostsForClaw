@@ -1,20 +1,37 @@
 {
- "generated_at": "2026-10-23T14:22:10Z",
+ "generated_at": "2026-10-23T14:41:18Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: tech.therundown.ai/p/palmer-… Link Palmer Luckey’s gene-edited war dogs PLUS: Meta gets hit with $25B fine tech.therundown.ai",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2113639384033411487#m",
+   "ts": 1792765873,
+   "id": "2113639384033411487#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in tech today: - Palmer Luckey’s $1.2B war dog startup - Meta loses $25B privacy trial - SpaceX goes shopping for 80K cell towers - Airbnb bans the checkout chore list",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2113639378882887916#m",
+   "ts": 1792765872,
+   "id": "2113639378882887916#m"
+  },
   {
    "handle": "simonw",
    "name": "Simon Willison",
@@ -1031,24 +1048,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2112592264686149749#m",
    "ts": 1792516220,
    "id": "2112592264686149749#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "RAISED: Bob McGrew, OpenAI’s former research chief, just introduced Arda, an AI manufacturing startup now valued at $1.5B after a $230M round. McGrew says it does for factory engineers \"what Claude or Cursor does for programmers.\" Via @CNBC : Video",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2112565899945562596#m",
-   "ts": 1792509934,
-   "id": "2112565899945562596#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: tech.therundown.ai/p/what-ai… Link What AI sees in your selfie PLUS: Japan heads to Martian moon tech.therundown.ai",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2112552206620631379#m",
-   "ts": 1792506670,
-   "id": "2112552206620631379#m"
   },
   {
    "handle": "simonw",
