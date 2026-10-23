@@ -1,9 +1,7 @@
 {
- "generated_at": "2026-10-23T22:08:20Z",
+ "generated_at": "2026-10-23T22:22:44Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +9,21 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "reject vc founder grind if u are hot corgi/wasian you should be sliding into dms for post economic bootstrapped ai founders with a bunch of angel exits and even more friends than money and complete control of their destiny litquidity (@litcapital) AI matchmaking is gonna hit SF like a nuclear bomb. Every girl is gonna be looking for a post-Series B AI founder who has sold secondaries and every tech bro is gonna look for a Corgi marketing girl or wasian — https://nitter.kareem.one/litcapital/status/2113701890798260476#m",
+   "url": "https://nitter.kareem.one/swyx/status/2113755882022752556#m",
+   "ts": 1792793648,
+   "id": "2113755882022752556#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -22,6 +32,24 @@
    "url": "https://nitter.kareem.one/swyx/status/2113752893878890637#m",
    "ts": 1792792936,
    "id": "2113752893878890637#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Ramp-up is in full swing at Giga Berlin. This week we hit the next production milestone: 7,000 Model Y built in one week. Congrats to the whole team!",
+   "url": "https://nitter.kareem.one/gigafactories/status/2113745614228099452#m",
+   "ts": 1792791200,
+   "id": "2113745614228099452#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "James Talarico is a 2021 woke remnant who must lose. When he opposed a transgender athletes bill that year he told the Texas House that God is nonbinary and cited Hebrew grammar for “spirit” in Genesis. At the same committee hearing, he claimed modern science recognizes 6 biological sexes before reversing to 2 after Fox pressed him during the campaign. On Rogan in 2025, he argued the Bible supports abortion rights because God asked Mary’s consent before the incarnation. A seminary trained Democrat who spent years pushing those claims has no place winning statewide. Video",
+   "url": "https://nitter.kareem.one/Rothmus/status/2113724913978892430#m",
+   "ts": 1792786265,
+   "id": "2113724913978892430#m"
   },
   {
    "handle": "simonw",
@@ -186,33 +214,6 @@
    "id": "2113674704540270825#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Talarico will vote to take away your kids and transition them America (@america) Democrat Nominee for U.S. Senate in Texas James Talarico: “To the trans kids watching at home, I just want to say, I love you.” Video — https://nitter.kareem.one/america/status/2113646634144010437#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2113674522490777655#m",
-   "ts": 1792774250,
-   "id": "2113674522490777655#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Forward this to your friends",
-   "url": "https://nitter.kareem.one/elonmusk/status/2113674119317254361#m",
-   "ts": 1792774154,
-   "id": "2113674119317254361#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Talarico hates Texas KanekoaTheGreat (@KanekoaTheGreat) James Talarico now calls himself a “border security Democrat.” His Texas House record: ❌ 2021 – HB 9: NO on $1.8 billion for border security ❌ 2023 – HB 7: NO on the border package that created the Texas Border Protection Unit ❌ 2023 – SB 602: NO on giving Border Patrol agents arrest powers under Texas law ❌ 2023 – HB 6: NO on funding border barrier construction ❌ 2023 – SB 4: NO on tougher penalties for human smuggling and stash houses ❌ 2023 – HB 4 and SB 4: NO, twice, on making illegal entry a state crime ❌ 2023 – SB 3: NO on border barrier and border security funding ❌ 2025 – SB 8: NO on requiring sheriffs to work with ICE He’ll vote against border security again in Washington. Early voting is underway in Texas. Send this to 10 Texas voters. Video — https://nitter.kareem.one/KanekoaTheGreat/status/2113673271359201638#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2113673960978288651#m",
-   "ts": 1792774117,
-   "id": "2113673960978288651#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -328,6 +329,15 @@
    "url": "https://nitter.kareem.one/dennisw5/status/2113547660498288930#m",
    "ts": 1792744004,
    "id": "2113547660498288930#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Tesla has just expanded its Robotaxi service area in Austin, Texas. The new service area now includes the area around Austin’s F1 racetrack, where 400,000 people will attend the race festivities this weekend. Tesla's Robotaxi service also now runs until 1 AM (from 12 AM before)",
+   "url": "https://nitter.kareem.one/SawyerMerritt/status/2113510658968875349#m",
+   "ts": 1792735182,
+   "id": "2113510658968875349#m"
   },
   {
    "handle": "swyx",
@@ -832,15 +842,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2113029655095836957#m",
    "ts": 1792620502,
    "id": "2113029655095836957#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Travis Fischer (@transitive_bs) the link: latent.space/p/claude-mods Link Claude Mods: Flipping the Harness Inside Out Claude Mods is an early form of the Attention Interface. It flips the agent harness paradigm from the harness facing the machine, to the harness facing the human. latent.space — https://nitter.kareem.one/transitive_bs/status/2113007529508970780#m",
-   "url": "https://nitter.kareem.one/swyx/status/2113012423892611493#m",
-   "ts": 1792616394,
-   "id": "2113012423892611493#m"
   },
   {
    "handle": "ZichenWanghere",
