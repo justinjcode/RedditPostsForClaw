@@ -1,15 +1,43 @@
 {
- "generated_at": "2026-10-23T08:15:37Z",
+ "generated_at": "2026-10-23T10:12:36Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
+  "MachineLearning",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "I switched my mail server plans from Mailcow to Stalwart – an honest comparison (Oct 2026)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xd9ubc/i_switched_my_mail_server_plans_from_mailcow_to/",
+   "ts": 1792749594,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "eMudhra's Press Release on the CA Compromise",
+   "url": "https://www.reddit.com/r/programming/comments/1xd9rwe/emudhras_press_release_on_the_ca_compromise/",
+   "ts": 1792749346,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Three production architectures for repurposing old Kindles and tablets into local smart home dashboards",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xd9e0h/three_production_architectures_for_repurposing/",
+   "ts": 1792747940,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Open-source DDoS detection and mitigation for Linux, with Prometheus metrics and Discord alerts",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xd934v/opensource_ddos_detection_and_mitigation_for/",
+   "ts": 1792746806,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Models disappearing from Huggingface",
@@ -18,17 +46,17 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "I got tired of status pages needing Postgres, Redis and a Node runtime, so I built one that's a single Go binary",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xd7g3n/i_got_tired_of_status_pages_needing_postgres/",
-   "ts": 1792740683,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Ornith 1.5 35B A3B is way better than Flint",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd7ewr/ornith_15_35b_a3b_is_way_better_than_flint/",
    "ts": 1792740564,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "I just came across Next-Concept Modeling and the idea is fascinating[R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xd7bsu/i_just_came_across_nextconcept_modeling_and_the/",
+   "ts": 1792740252,
    "source": "Reddit"
   },
   {
@@ -92,13 +120,6 @@
    "title": "New Project Megathread - Week of 22 Oct 2026",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xcw6eb/new_project_megathread_week_of_22_oct_2026/",
    "ts": 1792706468,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Steered QWEN to be more \"evil\" and it started saying the n word, amongst other things [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xcvil5/steered_qwen_to_be_more_evil_and_it_started/",
-   "ts": 1792704836,
    "source": "Reddit"
   },
   {
@@ -201,13 +222,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "GyroidVault v2.3.0 Released: Self-hosted 3D model manager now has customizable themes, OIDC SSO, NAS drive spin-down support & Creality Print integration",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xcknfs/gyroidvault_v230_released_selfhosted_3d_model/",
-   "ts": 1792680553,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "Pangolin 1.25: Redirects, mTLS, and Machine Roles",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xckgit/pangolin_125_redirects_mtls_and_machine_roles/",
    "ts": 1792680109,
@@ -218,13 +232,6 @@
    "title": "Repair shop receives eight GeForce RTX 5090 and RTX 4090 cards with melted 16-pin connectors in two days",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xckdep/repair_shop_receives_eight_geforce_rtx_5090_and/",
    "ts": 1792679911,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Reminder: Speedtest Tracker runs on PHP.",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xck0xb/reminder_speedtest_tracker_runs_on_php/",
-   "ts": 1792679099,
    "source": "Reddit"
   },
   {
@@ -365,13 +372,6 @@
    "title": "Make yourself replaceable",
    "url": "https://www.reddit.com/r/programming/comments/1xb7t0x/make_yourself_replaceable/",
    "ts": 1792539736,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "eMudhra Intermediate CA Compromise",
-   "url": "https://www.reddit.com/r/programming/comments/1xb32yj/emudhra_intermediate_ca_compromise/",
-   "ts": 1792527690,
    "source": "Reddit"
   },
   {
