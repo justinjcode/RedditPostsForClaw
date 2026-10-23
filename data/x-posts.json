@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T05:56:53Z",
+ "generated_at": "2026-10-23T06:23:29Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -8,13 +8,30 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "extremely impt for pipelining... estimating ETA for its own pipeline fixes while running the pipeline still",
+   "url": "https://nitter.kareem.one/swyx/status/2113509413537693703#m",
+   "ts": 1792734885,
+   "id": "2113509413537693703#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Try Grok @Bot Min Choi (@minchoi) Grok Bot is becoming the personal AI assistant everyone needs. Getting money back on medical bills. Handling Amazon returns. Booking appointments. Managing family schedules. 10 wild real-world examples. Bookmark this. — https://nitter.kareem.one/minchoi/status/2113473131914445206#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2113508310267674684#m",
+   "ts": 1792734622,
+   "id": "2113508310267674684#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -410,15 +427,6 @@
    "url": "https://nitter.kareem.one/alexbward/status/2113329634448421148#m",
    "ts": 1792692023,
    "id": "2113329634448421148#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Try Grok @Bot Alex Slater (@aslater) Wow Grok Bot is super fucking good and so beautifully designed. 10/10 Product. — https://nitter.kareem.one/aslater/status/2113302771747418201#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2113329537509449744#m",
-   "ts": 1792692000,
-   "id": "2113329537509449744#m"
   },
   {
    "handle": "TheRundownAI",
@@ -959,15 +967,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2112622164830769201#m",
    "ts": 1792523349,
    "id": "2112622164830769201#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Insane alpha, must read, might well redefine this economy. Everything me, Zephyr etc have been saying about the real profitability of the frontier inference is powerfully vindicated Latent.Space (@latentspacepod) Article DeepSeek V4.1 Flash Large-Scale Inference Deployment Practice this is a translation of https://zhuanlan.zhihu.com/p/2095560295930508953 for our own use/ twitter audiences to read The capability boundaries of a large model are defined by the model itself, and the core problem that — https://nitter.kareem.one/latentspacepod/status/2112588380416647205#m",
-   "url": "https://nitter.kareem.one/teortaxesTex/status/2112603621917663592#m",
-   "ts": 1792518928,
-   "id": "2112603621917663592#m"
   },
   {
    "handle": "thsottiaux",
