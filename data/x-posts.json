@@ -1,17 +1,18 @@
 {
- "generated_at": "2026-10-23T21:28:59Z",
+ "generated_at": "2026-10-23T21:40:30Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@simonw: all instances failed",
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 179,
  "items": [
   {
@@ -40,6 +41,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2113717251543367880#m",
    "ts": 1792784438,
    "id": "2113717251543367880#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Deep and fun conversation on @latentspacepod about the cloud market, why sandbox demand is exploding, why code reviews suck, and much more. Thanks for having me on! Basil Chatha (@realbasilchatha) Last week, @bernhardsson (Founder & CEO, @modal ) announced a $750M Series D. I sat down with him the prior week to discuss a ton of stuff about the business. We got into: -why open-source models made fine-tuning a lot less necessary -how Modal's team grew 4x in a year and could hit ~700 people next year -why the frontier labs have the same business model as music artists and much, much, more… Enjoy! Timestamps: 0:00 What Modal does 1:25 From @Spotify to building @modal 4:19 Founding before the generative AI boom 7:43 First customers and fundraising 10:00 Building for inference and autoscaling 13:21 Where Modal gets GPU capacity 15:39 Renting vs. owning infrastructure 19:45 The risk of GPU prices falling 24:18 Is AI demand infinite? 28:25 What Modal can learn from neoclouds 30:26 GPUs as an asset class 31:55 Modal’s products: functions and sandboxes 36:03 The case for smaller training workloads 41:21 How agent sandboxes are changing 46:48 @AnthropicAI and sandbox security 49:29 Using agents to test security 52:51 Developer experience in the age of agents 57:45 What Modal’s forward-deployed engineers do 59:55 Modal’s approach to product management 1:03:29 Optional code reviews and engineering culture 1:05:56 Cloud, on-prem and bring-your-own-cloud 1:09:25 Capacity, fundraising and gr",
+   "url": "https://nitter.kareem.one/bernhardsson/status/2113697516986470580#m",
+   "ts": 1792779733,
+   "id": "2113697516986470580#m"
   },
   {
    "handle": "swyx",
@@ -850,15 +860,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2112995463896945079#m",
    "ts": 1792612350,
    "id": "2112995463896945079#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "highly recommend everyone to have private alt accounts*. the x web is bad at account switching, but on mobile it is frictionless. its basically the same \"group chat but its ok if you dont read everything\" experience but for your mutuals. tips - assume everything is public, screenshotting is real, dont be stupid. this is not the \"i shit talk people behind their back\", the right attitude is \"this isnt high signal enough for my main account but i'm 1) taking notes for self, 2) have a throwaway thought, 3) i'm happy to chat about it\" - give mutuals critical feedback that they might appreciate. \"praise in public, criticise in private\". because its not public, they know you actually do mean well - link/replyguy your alt for people to discover periodicially in case they dont know you have one * i like it so much that i call this the \"insta/finsta\" pattern - every social network should by default give people a public profile and a private one by default. tbd on the third account, the \"botsta\".",
-   "url": "https://nitter.kareem.one/swyx/status/2112992347890106650#m",
-   "ts": 1792611607,
-   "id": "2112992347890106650#m"
   },
   {
    "handle": "bcherny",
