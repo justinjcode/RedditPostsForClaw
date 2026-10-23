@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-10-23T21:54:36Z",
+ "generated_at": "2026-10-23T22:08:20Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "the statistics show, if you have only 1 brain cell and you are perfectly mid, you should subscribe to @latentspacepod Ruben (@rdominguezibar) Every media brand you read, on one chart. Smart vs easy to consume. Paid for vs independent. Who's in the wrong quadrant? — https://nitter.kareem.one/rdominguezibar/status/2113745196173418644#m",
+   "url": "https://nitter.kareem.one/swyx/status/2113752893878890637#m",
+   "ts": 1792792936,
+   "id": "2113752893878890637#m"
+  },
   {
    "handle": "simonw",
    "name": "Simon Willison",
@@ -833,15 +841,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2113012423892611493#m",
    "ts": 1792616394,
    "id": "2113012423892611493#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "When we framed @trq212 's pod about Claude Code's Next Era, we meant it. we took some directive from @_catwu and did a proper deep dive on the new Claude Mods and highilghted our faves and what you should try now. in the same way that LLMs had that evolution from specific -> foundation -> specific, CC is much more of a malleable, general purpose hardened harness that has \"pretrained\" on quadrillions of tokens of learning that you can now repurpose for any domain specific harness! thanks to @ricmac and @daniel_mac8 for working on our latest product dive. if you have stuff you'd like us to test and write up, we're open to chat at business@latent.space Dan McAteer (@daniel_mac8) There's not enough buzz around Claude Mods. Read this Claude Mods article if you want to: - Understand Claude Mods basics - Install and use the most useful mods today - Ponder where the agent-human interface will go For @latentspacepod . — https://nitter.kareem.one/daniel_mac8/status/2112896961548259434#m",
-   "url": "https://nitter.kareem.one/swyx/status/2113003628835553559#m",
-   "ts": 1792614297,
-   "id": "2113003628835553559#m"
   },
   {
    "handle": "ZichenWanghere",
