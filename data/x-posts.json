@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-10-23T04:50:38Z",
+ "generated_at": "2026-10-23T04:58:51Z",
  "accounts_ok": [
   "TheRundownAI",
   "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
   "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Landing tomorrow before 10am PST together with a small ship.",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2113492502355562875#m",
+   "ts": 1792730854,
+   "id": "2113492502355562875#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -1301,15 +1310,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2111492673890824348#m",
    "ts": 1792254057,
    "id": "2111492673890824348#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Is it just me or was @ajambrosino nerfed today",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2111492028177723532#m",
-   "ts": 1792253903,
-   "id": "2111492028177723532#m"
   },
   {
    "handle": "ZichenWanghere",
