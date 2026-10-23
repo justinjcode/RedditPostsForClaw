@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-23T08:11:26Z",
+ "generated_at": "2026-10-23T08:39:12Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@simonw: all instances failed"
  ],
  "count": 179,
  "items": [
@@ -487,6 +487,15 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
+   "text": "Three more AIE Code Summit speakers 👀 @lydiahallie , Member of Technical Staff @ Anthropic Utkarsh Shrivastava, Engineering Leader, Enterprise AI @ Netflix @philipkiely , Author of Inference Engineering @ Baseten Nov 10-12, SF. Apply to join us! ai.engineer/code",
+   "url": "https://nitter.kareem.one/aiDotEngineer/status/2113284239328465316#m",
+   "ts": 1792681200,
+   "id": "2113284239328465316#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
    "text": "Opus 5.5 is the best work estimator model i've ever used. This is calibration that is increasingly important as we delegate more and more work — don't tell me that it's going to take 2-3 working days (what a human would do) when for you, an enthusiastic, indefatigable, and embarrasingly parallelizable AGI, can get it done in 2-3 hours.",
    "url": "https://nitter.kareem.one/swyx/status/2113283272130412684#m",
    "ts": 1792680969,
@@ -860,15 +869,6 @@
    "url": "https://nitter.kareem.one/sqs/status/2112788777433473480#m",
    "ts": 1792563072,
    "id": "2112788777433473480#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "i tried to make codex make animated explainer videos but ngmi inf.latent.space/blender/sto…",
-   "url": "https://nitter.kareem.one/swyx/status/2112764130197451209#m",
-   "ts": 1792557196,
-   "id": "2112764130197451209#m"
   },
   {
    "handle": "thsottiaux",
