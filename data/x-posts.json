@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-23T10:08:52Z",
+ "generated_at": "2026-10-23T10:25:18Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "swyx",
+  "simonw",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@swyx: all instances failed"
  ],
  "count": 179,
  "items": [
@@ -1087,6 +1087,15 @@
    "id": "2112491722189967737#m"
   },
   {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "Registration: CCG-JETRO VIP Luncheon on China–Japan Economic Cooperation in a Changing World October 28, Beijing ccgupdate.org/p/invitation-c… Link Invitation | CCG–JETRO VIP Luncheon on China–Japan Economic Cooperation in a Changing World 28 October 2026, Beijing | Senior officials, business leaders and scholars from China and Japan to discuss bilateral trade, industrial and supply chain cooperation, and people-to-people exchanges. ccgupdate.org",
+   "url": "https://nitter.kareem.one/CCG_org/status/2112441599120867784#m",
+   "ts": 1792480299,
+   "id": "2112441599120867784#m"
+  },
+  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -1436,15 +1445,6 @@
    "url": "https://nitter.kareem.one/bunjavascript/status/2110692261508079721#m",
    "ts": 1792063224,
    "id": "2110692261508079721#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "how could the municipality of Beijing have procured this vaccine?",
-   "url": "https://nitter.kareem.one/ZichenWanghere/status/2110630663602987484#m",
-   "ts": 1792048538,
-   "id": "2110630663602987484#m"
   },
   {
    "handle": "ZichenWanghere",
