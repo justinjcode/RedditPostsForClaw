@@ -1,19 +1,29 @@
 {
- "generated_at": "2026-10-23T04:35:47Z",
+ "generated_at": "2026-10-23T04:50:38Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@swyx: all instances failed",
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex & work. But yes… that’s a reset!",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2113492187770175603#m",
+   "ts": 1792730779,
+   "id": "2113492187770175603#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1327,15 +1337,6 @@
    "url": "https://nitter.kareem.one/Birdyword/status/2111286360485118305#m",
    "ts": 1792204868,
    "id": "2111286360485118305#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Also we just added slides support yesterday, try it out. Currently available in Pro, Business and Enterprise while we learn from your feedback.",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2111249810502353152#m",
-   "ts": 1792196154,
-   "id": "2111249810502353152#m"
   },
   {
    "handle": "bcherny",
