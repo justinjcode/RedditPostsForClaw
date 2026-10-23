@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-10-23T05:34:22Z",
+ "generated_at": "2026-10-23T05:47:50Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -9,10 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
   {
@@ -505,6 +504,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "Capitalism has a win condition. Socialism does not. Here's why, explained so simply a 10-year-old could get it. It starts with a book written in 1944 by an Austrian economist named Friedrich Hayek: The Road to Serfdom. Video Brivael Le Pogam (@brivael) Capitalism has a win condition. Socialism does not. Here's why, explained so simply a 10-year-old could get it. It starts with a book written in 1944 by an Austrian economist named Friedrich Hayek: The Road to Serfdom. Imagine a classroom of 30 kids. One day the teacher says: \"From now on, I decide what everyone eats for lunch, which games you play at recess, and who sits next to whom. It's fairer that way.\" First problem: the teacher doesn't know what you like. You hate carrots. Your friend is allergic to peanuts. Lucas wants to play football, Emma wants to draw. 30 kids, 30 different wishes. Nobody can know all of that, not even the smartest teacher on Earth. Hayek called this the knowledge problem. The information needed to run an economy is scattered across millions of heads, and it can't be gathered in one office. Second problem: the kids start fighting. \"Why does he get the window seat?\" \"Why football again?\" Before, everyone just chose for themselves. Now every choice is a fight, because every choice is made for everyone. Third problem: the class can't agree on a plan, so someone says \"we need one person in charge who just decides.\" This is Hayek's key insight. Planning doesn't fail because planners are evil. A plan need",
+   "url": "https://nitter.kareem.one/brivael/status/2113266253188022682#m",
+   "ts": 1792676912,
+   "id": "2113266253188022682#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "Grok Bot team shipped in the last few days: • Reports, memos, dashboards in the chat • iPhone action button to talk to Bot • 3x faster computer tasks • Aliases for your Bot email • Connectors for Robinhood, Coinbase, Runway • Notifications only on the device you're using",
    "url": "https://nitter.kareem.one/benln/status/2113258261977928050#m",
    "ts": 1792675006,
@@ -554,15 +562,6 @@
    "url": "https://nitter.kareem.one/mitsuhiko/status/2113207589978636646#m",
    "ts": 1792662925,
    "id": "2113207589978636646#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Mercedes sold its Tesla stake for $780 million. that same 4 percent is worth about $56 billion today. in the clip below Musk explains how Mercedes ended up there. the US government gave Tesla almost $500 million, and he is asked directly whether that loan saved the company. he says no. what saved it was a $50 million check from Daimler in May 2009. all of Tesla was worth $550 million then. \"they were the only ones. there was no other company, no other entity of any kind from which we could get investments.\" Tesla repaid the government's $500 million with interest and a prepayment penalty, ten years early. he sent a thank you note with it. \"i don't like having a lot of debt. the taxpayers supported Tesla, we ought to repay them as soon as we can.\" Mercedes turned $50 million into $780 million and walked away in 2014. so was that a great investment - or the most expensive mistake in car industry history? Video",
-   "url": "https://nitter.kareem.one/Di_Krass_/status/2113194901341085989#m",
-   "ts": 1792659900,
-   "id": "2113194901341085989#m"
   },
   {
    "handle": "thsottiaux",
