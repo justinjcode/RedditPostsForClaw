@@ -1,20 +1,47 @@
 {
- "generated_at": "2026-10-23T19:41:14Z",
+ "generated_at": "2026-10-23T19:53:02Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
-  "@swyx: all instances failed",
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@bcherny: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "More notes on Kimi K3.1 - this one is I big deal, first time an open weights (well, soon-to-be open weights) model has competed this credibly with the current frontier simonwillison.net/2026/Oct/2… Link Introducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\". They're also … simonwillison.net",
+   "url": "https://nitter.kareem.one/simonw/status/2113718487529267593#m",
+   "ts": 1792784733,
+   "id": "2113718487529267593#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "average day working with @goodalexander :",
+   "url": "https://nitter.kareem.one/swyx/status/2113718063669592307#m",
+   "ts": 1792784632,
+   "id": "2113718063669592307#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "*taps sign* read your own emails your apps send out. particularly if they are being vibecoded. real humans still care and do read them. JohnPhamous (@JohnPhamous) going viral email before // after — https://nitter.kareem.one/JohnPhamous/status/2113680609642230177#m",
+   "url": "https://nitter.kareem.one/swyx/status/2113717251543367880#m",
+   "ts": 1792784438,
+   "id": "2113717251543367880#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -862,15 +889,6 @@
    "id": "2112967157487206794#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "this one also blowing up, one talk two W’s Turing Post (Ksenia Se) (@TheTuringPost) love this talk, as you know it inspired me to record inv.kareem.one/watch?v=pEHfZUra… Link AI Models Are Eating Their Harnesses. Now What? AI harness engineering is everywhere right now. But as AI models be... youtube.com — https://nitter.kareem.one/TheTuringPost/status/2112939226765439398#m",
-   "url": "https://nitter.kareem.one/swyx/status/2112961323550335062#m",
-   "ts": 1792604211,
-   "id": "2112961323550335062#m"
-  },
-  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -959,15 +977,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2112853980246081711#m",
    "ts": 1792578618,
    "id": "2112853980246081711#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "btw at 100k views in 24hrs, @jediahkatz 's talk is an early candidate to be THE breakout talk of aie nyc the bar is set very high for @poteto 's keynote at AIE CODE next month hahaha AI Engineer 🔜 CODE Summit🌉 (@aiDotEngineer) Inside Grok Bot: is the agent harness dead? @jediahkatz of @spacexai explains why smarter models let Cursor remove prompts and guardrails, and why Grok Bot is adding them back. Watch his AI Engineer New York talk: inv.kareem.one/watch?v=7Y4sbZgB… — https://nitter.kareem.one/aiDotEngineer/status/2112665680348660147#m",
-   "url": "https://nitter.kareem.one/swyx/status/2112849969640259611#m",
-   "ts": 1792577662,
-   "id": "2112849969640259611#m"
   },
   {
    "handle": "thsottiaux",
@@ -1571,15 +1580,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2108608482442449261#m",
    "ts": 1791566412,
    "id": "2108608482442449261#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "Example prompt:",
-   "url": "https://nitter.kareem.one/simonw/status/2108547654083039700#m",
-   "ts": 1791551910,
-   "id": "2108547654083039700#m"
   },
   {
    "handle": "bcherny",
