@@ -1,15 +1,29 @@
 {
- "generated_at": "2026-10-24T00:29:19Z",
+ "generated_at": "2026-10-24T02:16:15Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
-  "programming"
+  "programming",
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "PHP2Shell reminds me of Heartbleed but backwards and an extra step",
+   "url": "https://www.reddit.com/r/programming/comments/1xdv25j/php2shell_reminds_me_of_heartbleed_but_backwards/",
+   "ts": 1792802906,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "One of the Unraid drives is slowly dying, anybody ever mess with amazon replacement?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xdu2mx/one_of_the_unraid_drives_is_slowly_dying_anybody/",
+   "ts": 1792800064,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO",
@@ -26,9 +40,9 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Cheapest way to get an AI that can access my files, run code and use tools, from my iPhone? (under $20/mo)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xdrg27/cheapest_way_to_get_an_ai_that_can_access_my/",
-   "ts": 1792792936,
+   "title": "iPhone backups",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xdruyz/iphone_backups/",
+   "ts": 1792793998,
    "source": "Reddit"
   },
   {
@@ -298,13 +312,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Three production architectures for repurposing old Kindles and tablets into local smart home dashboards",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xd9e0h/three_production_architectures_for_repurposing/",
-   "ts": 1792747940,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Models disappearing from Huggingface",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd7ptj/models_disappearing_from_huggingface/",
@@ -386,13 +393,6 @@
    "title": "Debunking \"Faster than Rust\": Malicious Benchmarks in Tov",
    "url": "https://www.reddit.com/r/programming/comments/1xcaveo/debunking_faster_than_rust_malicious_benchmarks/",
    "ts": 1792649848,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "PHP2Shell: Critical vulnerabilities in the backbone of the web",
-   "url": "https://www.reddit.com/r/programming/comments/1xbo19y/php2shell_critical_vulnerabilities_in_the/",
-   "ts": 1792591402,
    "source": "Reddit"
   },
   {
