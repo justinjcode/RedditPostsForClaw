@@ -1,20 +1,41 @@
 {
- "generated_at": "2026-10-24T12:15:29Z",
+ "generated_at": "2026-10-24T14:11:11Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
+  "MachineLearning",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
   {
+   "subreddit": "LocalLLaMA",
+   "title": "AbliteratedOutTheBox Strata Announcement",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe8x9c/abliteratedoutthebox_strata_announcement/",
+   "ts": 1792849138,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Meta trained small AI models to read raw bytes instead of tokens. They start out worse, but the paper predicts they end up better",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe88ja/meta_trained_small_ai_models_to_read_raw_bytes/",
+   "ts": 1792847329,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
-   "title": "Title: I’m building Eiciel, a Linux incident-response tool — looking for technical feedback",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xe671m/title_im_building_eiciel_a_linux_incidentresponse/",
-   "ts": 1792841166,
+   "title": "I built a personal agent that runs on your own box with UI: voice, memory and Ollama, no Docker, all in your machine",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xe7izh/i_built_a_personal_agent_that_runs_on_your_own/",
+   "ts": 1792845333,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "What tools do you use to keep your containers up to date?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xe73gj/what_tools_do_you_use_to_keep_your_containers_up/",
+   "ts": 1792844028,
    "source": "Reddit"
   },
   {
@@ -25,17 +46,17 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Hardware: what & where to buy",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xe56tp/hardware_what_where_to_buy/",
-   "ts": 1792837653,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "qwen3.8 27B on my 3090 basically tied Opus 5.5 on a Korean RAG benchmark, which I did not expect",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe4v74/qwen38_27b_on_my_3090_basically_tied_opus_55_on_a/",
    "ts": 1792836470,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Got a pretrained music transformer to jam with me live, no fine-tuning, just steering the sampling [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xe4pex/got_a_pretrained_music_transformer_to_jam_with_me/",
+   "ts": 1792835909,
    "source": "Reddit"
   },
   {
@@ -166,13 +187,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "I ran all the popular Qwen 3.8 FN engines on a single 5090 + 128GB of RAM, here are the numbers",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdlunp/i_ran_all_the_popular_qwen_38_fn_engines_on_a/",
-   "ts": 1792779776,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "Here's where the last RTX 5090 cards are going: Massive AI conversion factory exposed in China, Founders Edition included",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdlj42/heres_where_the_last_rtx_5090_cards_are_going/",
    "ts": 1792779051,
@@ -197,13 +211,6 @@
    "title": "THE ATTACK !! PHP2Shell explained visually, from the first bug to the shutdowns",
    "url": "https://www.reddit.com/r/programming/comments/1xdihhk/the_attack_php2shell_explained_visually_from_the/",
    "ts": 1792772183,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdiecx/nvidianvidianemotron35bolte4b4gb_hugging_face/",
-   "ts": 1792771985,
    "source": "Reddit"
   },
   {
@@ -358,13 +365,6 @@
    "title": "We shrank our steerable small TTS to 11.84 MB. WER is unchanged, UTMOS drops ~0.1 [p]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xcum4s/we_shrank_our_steerable_small_tts_to_1184_mb_wer/",
    "ts": 1792702662,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "ICLR Text Editor [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xcq2an/iclr_text_editor_d/",
-   "ts": 1792692464,
    "source": "Reddit"
   },
   {
