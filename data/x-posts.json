@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-10-24T14:54:35Z",
+ "generated_at": "2026-10-24T15:08:56Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -9,10 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
   {
@@ -95,6 +94,15 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2113995379138072781#m",
    "ts": 1792850749,
    "id": "2113995379138072781#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "It’s very important to grasp this. Erik Voorhees (@ErikVoorhees) Fascism is a leftist ideology State control of everything — https://nitter.kareem.one/ErikVoorhees/status/2113861496807817301#m",
+   "url": "https://nitter.kareem.one/TheAliceSmith/status/2113994292964241463#m",
+   "ts": 1792850490,
+   "id": "2113994292964241463#m"
   },
   {
    "handle": "elonmusk",
@@ -185,15 +193,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2113870201053700098#m",
    "ts": 1792820904,
    "id": "2113870201053700098#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "True X Freeze (@XFreeze) Grok Imagine has improved so ridiculously fast that it’s hard to believe how good it has become…it now even generates the best music that you can add to your videos If you haven’t tried it recently, now is the time Video — https://nitter.kareem.one/XFreeze/status/2113633718510494169#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2113870130799362063#m",
-   "ts": 1792820887,
-   "id": "2113870130799362063#m"
   },
   {
    "handle": "thsottiaux",
