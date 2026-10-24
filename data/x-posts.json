@@ -1,9 +1,7 @@
 {
- "generated_at": "2026-10-24T00:20:43Z",
+ "generated_at": "2026-10-24T01:04:03Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +9,30 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Yes DogeDesigner (@cb_doge) ELON MUSK: The best way to counter the legacy media's propaganda is by sending people links to videos and information on the 𝕏 platform. Video — https://nitter.kareem.one/cb_doge/status/2113708516796227917#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2113796285207552407#m",
+   "ts": 1792803281,
+   "id": "2113796285207552407#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok @Bot saves sensitive info in a vault Grok Bot (@bot) Grok Bot can now save your logins, cards, and contact information. Add them once, and Bot securely remembers them for the future. Video — https://nitter.kareem.one/bot/status/2113717946019397910#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2113796183688982771#m",
+   "ts": 1792803257,
+   "id": "2113796183688982771#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -216,28 +235,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "What’s actually going on in Ukraine is that there is a massive incentive difference between the elites and the people. The former have grown very rich off the hundreds of billions flowing to Ukraine, while the latter’s children are conscripted to die in trenches.",
-   "url": "https://nitter.kareem.one/elonmusk/status/2113677835244044748#m",
-   "ts": 1792775040,
-   "id": "2113677835244044748#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "If Talarico and Democrats get back into power, they will restart the border invasion. Our nation deserves a secure border. Vote Republican to make sure Texas remains Texas and America stays America. Video",
    "url": "https://nitter.kareem.one/america/status/2113674749939249545#m",
    "ts": 1792774305,
    "id": "2113674749939249545#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Forward this to your friends",
-   "url": "https://nitter.kareem.one/elonmusk/status/2113674704540270825#m",
-   "ts": 1792774294,
-   "id": "2113674704540270825#m"
   },
   {
    "handle": "TheRundownAI",
