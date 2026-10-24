@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-24T20:26:41Z",
+ "generated_at": "2026-10-24T20:41:21Z",
  "accounts_ok": [
-  "ZichenWanghere",
+  "TheRundownAI",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
-  "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 179,
  "items": [
@@ -88,6 +88,15 @@
    "id": "2114026169813414022#m"
   },
   {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "First time at the Latent Space studio after being three year listener First time interviewing a true inspirer and podcaster that really explains the AI’s complexity in “human” way First time we are going to bring @aiDotEngineer to Shanghai with Mengying and her team Thanks for the conversation @swyx and can’t wait to see what is coming in Shanghai!",
+   "url": "https://nitter.kareem.one/Ninggao88/status/2114025876291788963#m",
+   "ts": 1792858020,
+   "id": "2114025876291788963#m"
+  },
+  {
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
@@ -104,6 +113,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2114003587156086798#m",
    "ts": 1792852706,
    "id": "2114003587156086798#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "fyi I read every single email that comes into our business inbox (yes, dozens a day!) and it is painfully obvious when the email hasn’t been vetted by a human or you haven’t actually done your research on our pod 😔 swyx (@swyx) *taps sign* read your own emails your apps send out. particularly if they are being vibecoded. real humans still care and do read them. — https://nitter.kareem.one/swyx/status/2113717251543367880#m",
+   "url": "https://nitter.kareem.one/adlinzainal/status/2113998354132664477#m",
+   "ts": 1792851458,
+   "id": "2113998354132664477#m"
   },
   {
    "handle": "elonmusk",
@@ -880,15 +898,6 @@
    "id": "2113150715099234673#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "this is my quant Video Cognition (@cognition) 18 million miles traveled, 400 red hoodies, one 260-digit number, and 130+ former founders. We asked some of the people building Devin to tell us how they got here and what life at Cognition is really like. Here’s what they shared. — https://nitter.kareem.one/cognition/status/2112582786435428477#m",
-   "url": "https://nitter.kareem.one/swyx/status/2113098033705664650#m",
-   "ts": 1792636805,
-   "id": "2113098033705664650#m"
-  },
-  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -977,15 +986,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2112940948435149088#m",
    "ts": 1792599353,
    "id": "2112940948435149088#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Everyone wants an agent that says \"done.\" Nobody wants to find out it wasn't. @zackproser and I did a full workshop at @aiDotEngineer NY on making agents prove it. Recording's up 👇",
-   "url": "https://nitter.kareem.one/nicknisi/status/2112925592974655548#m",
-   "ts": 1792595692,
-   "id": "2112925592974655548#m"
   },
   {
    "handle": "TheRundownAI",
