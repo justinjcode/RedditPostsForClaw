@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T22:22:13Z",
+ "generated_at": "2026-10-24T22:36:29Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -7,13 +7,32 @@
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@simonw: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "nitterk.kareem.one/i/broadcasts/1qKVmyjwo… Link RSBN 🇺🇸 LIVE: President Trump Holds a Rally in Macon, GA - 10/24/26 https://nitter.kareem.one/i/broadcasts/1qKVmyjwodwxB",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2114119209546342910#m",
+   "ts": 1792880272,
+   "id": "2114119209546342910#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "He’s wrong for the USA, and especially for Texas. If we get a D POTUS in ‘29, it will fall to the US Senate to block: stacking the court, cheating again on 2030 census, expropriating, and breaking our republic for a generation. Make sure you vote, and tell friends - it matters! KanekoaTheGreat (@KanekoaTheGreat) Every word is James Talarico’s. 27 clips. 4 minutes. 2019–2026. “God is non-binary.” “…many more than two biological sexes. In fact, there are six.” “If you deny your child’s gender identity… it’s abusive for sure.” “There’s only one person who can determine a child’s gender identity, and that’s the child.” “I want to acknowledge that our trans community needs abortion care too.” “…the bill that would have denied gender-affirming health care to trans children… All these ideologies stem from this Christofascism movement.” “The way I fought for trans kids in the legislature is how I will fight for the U.S. Senate, and my position hasn’t changed.” “Prophetic voices like Jesus have helped me reckon with my own whiteness.” “It’s always rich to me that defund the police is considered off limits…” “Prison is violence.” “Tear down this secret police force.” Assault weapons ban? “Absolutely.” Send this to 10 Texas voters and tell them to vote today. Video — https://nitter.kareem.one/KanekoaTheGreat/status/2112954705634902429#m",
+   "url": "https://nitter.kareem.one/JTLonsdale/status/2114094128996696425#m",
+   "ts": 1792874292,
+   "id": "2114094128996696425#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -31,6 +50,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2114074712041197969#m",
    "ts": 1792869663,
    "id": "2114074712041197969#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The best thing I ever did was making an X account when Elon bought the platform tbh",
+   "url": "https://nitter.kareem.one/anabology/status/2114070875213537474#m",
+   "ts": 1792868748,
+   "id": "2114070875213537474#m"
   },
   {
    "handle": "elonmusk",
@@ -216,15 +244,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Roadster at Petersen Tesla North America (@tesla_na) Roadster will be on display at the Petersen Automotive Museum in LA starting tomorrow Oct 24-27, Main Lobby petersen.org/pages/petersen-… — https://nitter.kareem.one/tesla_na/status/2113672809281118429#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2113993051719016814#m",
-   "ts": 1792850194,
-   "id": "2113993051719016814#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "In early 2002, Elon was preparing to launch SpaceX and searching for the people who could help him build a rocket from scratch. One Sunday in January 2002, he walked into a friend's rented warehouse in Huntington Beach and found Tom Mueller holding an 80-pound rocket engine on his shoulder, trying to bolt it to a frame. It was the largest liquid-fuel engine any amateur had ever built, with 13,000 pounds of thrust, made in Tom's spare time. Elon asked the main question “Could you build something bigger?” The next Sunday Elon came to his house. It was Super Bowl Sunday; they watched maybe one play, because they were too busy sketching the first SpaceX rocket. Tom became SpaceX employee #1, and the man who built engines on weekends went on to build Merlin, Kestrel and Draco. Elon saw a person, not a résumé, someone who built rockets with his own hands simply because he loved them.",
    "url": "https://nitter.kareem.one/EvaFox/status/2113990330060059103#m",
    "ts": 1792849545,
@@ -238,15 +257,6 @@
    "url": "https://nitter.kareem.one/DeepLeaksHQ/status/2113979865997418861#m",
    "ts": 1792847050,
    "id": "2113979865997418861#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "BREAKING: Oaxaca’s state government in Mexico has delivered 67 Starlink dishes to expand internet access for students. 🇲🇽 The dishes were handed over in Santiago Matatlán. This will enable every high school campus in the network to have internet access.",
-   "url": "https://nitter.kareem.one/cb_doge/status/2113974148485808323#m",
-   "ts": 1792845687,
-   "id": "2113974148485808323#m"
   },
   {
    "handle": "elonmusk",
@@ -688,15 +698,6 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2113418291024896021#m",
    "ts": 1792713160,
    "id": "2113418291024896021#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "🚨 ILLINOIS! Early Voting, in-person, is UNDERWAY NOW in the Great State of Illinois. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT! Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Illinois, you can cast your early Vote, in-person, all the way through November 2nd. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP Find your Voting Location here: swampthevoteusa.com/illinois… Link ILLINOIS: MAKE A PLAN TO VOTE! Election Day in Illinois is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113418283294785789#m",
-   "ts": 1792713158,
-   "id": "2113418283294785789#m"
   },
   {
    "handle": "Lingling_Wei",
