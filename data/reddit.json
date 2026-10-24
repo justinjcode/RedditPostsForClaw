@@ -1,15 +1,29 @@
 {
- "generated_at": "2026-10-23T22:11:27Z",
+ "generated_at": "2026-10-24T00:29:19Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
-  "selfhosted"
+  "MachineLearning",
+  "programming"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdtk7m/istadaslabdeepseekv41flash1017gsqrco/",
+   "ts": 1792798659,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Some benchmarks on mini-AGI (dynamic continual learning model) after training it completely from scratch for a month on a 8GB VRAM GPU.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xds6ts/some_benchmarks_on_miniagi_dynamic_continual/",
+   "ts": 1792794892,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Cheapest way to get an AI that can access my files, run code and use tools, from my iPhone? (under $20/mo)",
@@ -39,6 +53,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "MachineLearning",
+   "title": "Are we solving LLM memory by remembering more, when the real problem is knowing what to forget?[D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xdpek9/are_we_solving_llm_memory_by_remembering_more/",
+   "ts": 1792787946,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
    "title": "Running all my Docker services in one LXC on Proxmox. Thinking of moving to a Talos VM, thoughts?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xdp1c2/running_all_my_docker_services_in_one_lxc_on/",
@@ -50,13 +71,6 @@
    "title": "Been tracking intel b60 b65 b70 prices, they jumped 30% today.",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdoirp/been_tracking_intel_b60_b65_b70_prices_they/",
    "ts": 1792785854,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "New Nvidia unlock works on Chinese 3080 20GB too",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdn33h/new_nvidia_unlock_works_on_chinese_3080_20gb_too/",
-   "ts": 1792782555,
    "source": "Reddit"
   },
   {
@@ -155,13 +169,6 @@
    "title": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB · Hugging Face",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdiecx/nvidianvidianemotron35bolte4b4gb_hugging_face/",
    "ts": 1792771985,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Qwen 3.8 Flash Next Gyro Coder is out!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdhj4z/qwen_38_flash_next_gyro_coder_is_out/",
-   "ts": 1792770097,
    "source": "Reddit"
   },
   {
@@ -285,13 +292,6 @@
   },
   {
    "subreddit": "programming",
-   "title": "TypeScript 7.1 content mappers made type checks 20× faster",
-   "url": "https://www.reddit.com/r/programming/comments/1xdbkvy/typescript_71_content_mappers_made_type_checks_20/",
-   "ts": 1792755378,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
    "title": "eMudhra's Press Release on the CA Compromise",
    "url": "https://www.reddit.com/r/programming/comments/1xd9rwe/emudhras_press_release_on_the_ca_compromise/",
    "ts": 1792749346,
@@ -382,17 +382,17 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "Frontier models are bad at hearing ASMR: 8 judges vs human labels on 480 clips [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xcbqdm/frontier_models_are_bad_at_hearing_asmr_8_judges/",
-   "ts": 1792653018,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Debunking \"Faster than Rust\": Malicious Benchmarks in Tov",
    "url": "https://www.reddit.com/r/programming/comments/1xcaveo/debunking_faster_than_rust_malicious_benchmarks/",
    "ts": 1792649848,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "PHP2Shell: Critical vulnerabilities in the backbone of the web",
+   "url": "https://www.reddit.com/r/programming/comments/1xbo19y/php2shell_critical_vulnerabilities_in_the/",
+   "ts": 1792591402,
    "source": "Reddit"
   },
   {
