@@ -1,15 +1,36 @@
 {
- "generated_at": "2026-10-24T14:11:11Z",
+ "generated_at": "2026-10-24T16:12:21Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
   "MachineLearning",
-  "selfhosted"
+  "programming"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "big cloud models like opus 5.5 get all the motion graphics praise, but i made this with local qwen3.8 flash next. it's very possible!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xebkti/big_cloud_models_like_opus_55_get_all_the_motion/",
+   "ts": 1792855770,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "8 GB GPU, 262K context 3.5 BPW Qwen-Flash-Next Coder 70 T/s using llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xebdzl/8_gb_gpu_262k_context_35_bpw_qwenflashnext_coder/",
+   "ts": 1792855310,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Increasing number of UG authors in A* conferences with no supervisor [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xe9uoh/increasing_number_of_ug_authors_in_a_conferences/",
+   "ts": 1792851487,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "AbliteratedOutTheBox Strata Announcement",
@@ -25,10 +46,24 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "programming",
+   "title": "Finding Flaws in Technical Documentation",
+   "url": "https://www.reddit.com/r/programming/comments/1xe854b/finding_flaws_in_technical_documentation/",
+   "ts": 1792847072,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
    "title": "I built a personal agent that runs on your own box with UI: voice, memory and Ollama, no Docker, all in your machine",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xe7izh/i_built_a_personal_agent_that_runs_on_your_own/",
    "ts": 1792845333,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Broccoli2Shell: Brotli decoder RCE (CVE-2026-111497) in Node.js, Python and more",
+   "url": "https://www.reddit.com/r/programming/comments/1xe7dp8/broccoli2shell_brotli_decoder_rce_cve2026111497/",
+   "ts": 1792844894,
    "source": "Reddit"
   },
   {
@@ -172,13 +207,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Mysterious Qwen4 Appearance by New GitHub Accounts",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdmt2o/mysterious_qwen4_appearance_by_new_github_accounts/",
-   "ts": 1792781942,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "OmniTools v0.7.0 — 25 new tools for your self-hosted toolbox",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xdmg4o/omnitools_v070_25_new_tools_for_your_selfhosted/",
@@ -249,13 +277,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "The future of Programming",
-   "url": "https://www.reddit.com/r/programming/comments/1xden1k/the_future_of_programming/",
-   "ts": 1792763506,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Is symbolic ai dead? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdekrf/is_symbolic_ai_dead_d/",
@@ -319,13 +340,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Models disappearing from Huggingface",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd7ptj/models_disappearing_from_huggingface/",
-   "ts": 1792741663,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "I just came across Next-Concept Modeling and the idea is fascinating[R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xd7bsu/i_just_came_across_nextconcept_modeling_and_the/",
@@ -361,13 +375,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "We shrank our steerable small TTS to 11.84 MB. WER is unchanged, UTMOS drops ~0.1 [p]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xcum4s/we_shrank_our_steerable_small_tts_to_1184_mb_wer/",
-   "ts": 1792702662,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Coding Magic the Gathering in C# - PART TWO - The Impossible Magic Card",
    "url": "https://www.reddit.com/r/programming/comments/1xcp40x/coding_magic_the_gathering_in_c_part_two_the/",
@@ -386,13 +393,6 @@
    "title": "Debunking \"Faster than Rust\": Malicious Benchmarks in Tov",
    "url": "https://www.reddit.com/r/programming/comments/1xcaveo/debunking_faster_than_rust_malicious_benchmarks/",
    "ts": 1792649848,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "PHP2Shell: Critical vulnerabilities in the backbone of the web",
-   "url": "https://www.reddit.com/r/programming/comments/1xbo19y/php2shell_critical_vulnerabilities_in_the/",
-   "ts": 1792591402,
    "source": "Reddit"
   },
   {
