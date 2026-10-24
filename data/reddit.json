@@ -1,15 +1,36 @@
 {
- "generated_at": "2026-10-24T02:16:15Z",
+ "generated_at": "2026-10-24T04:13:19Z",
  "count": 60,
  "subreddits_ok": [
+  "LocalLLaMA",
   "MachineLearning",
-  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Sonevia – An Audiophile Music Player for iOS",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xdy9fn/sonevia_an_audiophile_music_player_for_ios/",
+   "ts": 1792812979,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Not even 2 years ago.....",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xdxbqa/not_even_2_years_ago/",
+   "ts": 1792809988,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Qwen4-27B PR found",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdwrak/qwen427b_pr_found/",
+   "ts": 1792808162,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "PHP2Shell reminds me of Heartbleed but backwards and an extra step",
@@ -207,13 +228,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Gmail offline backup (one time backup)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xdgn4t/gmail_offline_backup_one_time_backup/",
-   "ts": 1792768068,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Small post about what are the unlocks for RTX consumer GPUs, which ones are affected, in which tasks and which ones are feasible to do an unlock.",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdg0v0/small_post_about_what_are_the_unlocks_for_rtx/",
@@ -239,13 +253,6 @@
    "title": "Is symbolic ai dead? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdekrf/is_symbolic_ai_dead_d/",
    "ts": 1792763356,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Probability of backdoors in popular harnesses and LLM inference engines",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdeg0n/probability_of_backdoors_in_popular_harnesses_and/",
-   "ts": 1792763057,
    "source": "Reddit"
   },
   {
@@ -372,13 +379,6 @@
    "title": "Coding Magic the Gathering in C# - PART TWO - The Impossible Magic Card",
    "url": "https://www.reddit.com/r/programming/comments/1xcp40x/coding_magic_the_gathering_in_c_part_two_the/",
    "ts": 1792690393,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Bird-recognizing frame for your homelab (BirdNET-Go + Docker, on e-ink or any screen)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xckrv1/birdrecognizing_frame_for_your_homelab_birdnetgo/",
-   "ts": 1792680837,
    "source": "Reddit"
   },
   {
