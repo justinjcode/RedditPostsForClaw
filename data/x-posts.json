@@ -1,19 +1,137 @@
 {
- "generated_at": "2026-10-24T14:08:46Z",
- "accounts_ok": [],
+ "generated_at": "2026-10-24T14:26:15Z",
+ "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
+  "elonmusk",
+  "realDonaldTrump",
+  "simonw",
+  "swyx",
+  "thsottiaux"
+ ],
  "errors": [
-  "@elonmusk: all instances failed",
-  "@realDonaldTrump: all instances failed",
-  "@thsottiaux: all instances failed",
-  "@simonw: all instances failed",
-  "@swyx: all instances failed",
   "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Try Grok @Bot Katie Miller (@KatieMiller) Stuart Varney: What is this Grok @Bot ? You use it. Phil Rosen: I am using it. @Varneyco : Who puts it out? What does it do? Rosen: This is @elonmusk ’s frontier lab. I will share personally, I was on Claude for the last year or so, and I would use Claude, ChatGPT, and a little bit of Muse in the last few weeks. Since I started to use Grok Bot this month, I have essentially cut all my other AI tools. Varney: What's so good about it? @philrosenn : It's essentially your own staff of AI agents. You can have a chief of staff agent managing your other AI agents, which, again, I get it, sounds a little ridiculous, and I tell my friends and my parents this and they don't understand, and I have to walk them through it on a Zoom call. I use Grok Bot for a lot of content creation now. I use it for some fact-checking stuff, some editing, research. I use it for helping me with my calendar. Video — https://nitter.kareem.one/KatieMiller/status/2113992593465860319#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2113996858842563006#m",
+   "ts": 1792851101,
+   "id": "2113996858842563006#m"
+  },
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "TO THE GREAT PEOPLE OF NEW JERSEY, GET OUT AND VOTE FOR: – Jeff Van Drew for U.S. Congress (NJ-02) – Chris Smith for U.S. Congress (NJ-04) – Tom Kean for U.S. Congress (NJ-07) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP swampthevoteusa.com/new-jers… Link NEW JERSEY: MAKE A PLAN TO VOTE! Election Day in New Jersey is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113995904898228240#m",
+   "ts": 1792850874,
+   "id": "2113995904898228240#m"
+  },
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "🚨 NEW JERSEY! Early Voting, in-person, is UNDERWAY NOW in the Great State of New Jersey. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT! Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In New Jersey, you can cast your early Vote, in-person, all the way through November 1st. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP Find your Voting Location here: swampthevoteusa.com/new-jers… Link NEW JERSEY: MAKE A PLAN TO VOTE! Election Day in New Jersey is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113995902880780744#m",
+   "ts": 1792850874,
+   "id": "2113995902880780744#m"
+  },
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "TO THE GREAT PEOPLE OF MICHIGAN, GET OUT AND VOTE FOR: – Mike Rogers for U.S. Senate – John James for Governor – Jack Bergman for U.S. Congress (MI-01) – John Moolenaar for U.S. Congress (MI-02) – Bill Huizenga for U.S. Congress (MI-04) – Tim Walberg for U.S. Congress (MI-05) – Tom Barrett for U.S. Congress (MI-07) – Lisa McClain for U.S. Congress (MI-09) – Mike Bouchard for U.S. Congress (MI-10) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP swampthevoteusa.com/michigan… Link MICHIGAN: MAKE A PLAN TO VOTE! Election Day in Michigan is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113995730813657107#m",
+   "ts": 1792850833,
+   "id": "2113995730813657107#m"
+  },
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "🚨 MICHIGAN! Early Voting, in-person, is UNDERWAY NOW in the Great State of Michigan. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT! Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Michigan, you can cast your early Vote, in-person, all the way through November 1st. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP Find your Voting Location here: swampthevoteusa.com/michigan… Link MICHIGAN: MAKE A PLAN TO VOTE! Election Day in Michigan is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113995728611598401#m",
+   "ts": 1792850832,
+   "id": "2113995728611598401#m"
+  },
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "TO THE GREAT PEOPLE OF FLORIDA, GET OUT AND VOTE FOR: – Ashley Moody for U.S. Senate – Byron Donalds for Governor – James Uthmeier for Attorney General – Wilton Simpson for Agriculture Commissioner – Jimmy Patronis for U.S. Congress (FL-01) – Austin Rogers for U.S. Congress (FL-02) – Kat Cammack for U.S. Congress (FL-03) – Aaron Bean for U.S. Congress (FL-04) – John Rutherford for U.S. Congress (FL-05) – Randy Fine for U.S. Congress (FL-06) – Ryan Elijah for U.S. Congress (FL-07) – Mike Haridopolos for U.S. Congress (FL-08) – Dan Green for U.S. Congress (FL-09) – Joe Strada for U.S. Congress (FL-11) – Gus Bilirakis for U.S. Congress (FL-12) – Anna Paulina Luna for U.S. Congress (FL-13) – Mike Beltran for U.S. Congress (FL-14) – Laurel Lee for U.S. Congress (FL-15) – Sydney Gruters for U.S. Congress (FL-16) – Greg Steube for U.S. Congress (FL-17) – Scott Franklin for U.S. Congress (FL-18) – Jim Schwartzel for U.S. Congress (FL-19) – Brian Mast for U.S. Congress (FL-21) – Casey Askar for U.S. Congress (FL-22) – Scott Singer for U.S. Congress (FL-25) – Mario Diaz-Balart for U.S. Congress (FL-26) – Maria Elvira Salazar for U.S. Congress (FL-27) – Carlos Gimenez for U.S. Congress (FL-28) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP swampthevoteusa.com/florida/ Link FLORIDA: READY TO VOTE REPUBLICAN? Primary Election Day in Florida is here, and it’s time to make your voice heard. Find your voting location now ",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113995381348397516#m",
+   "ts": 1792850749,
+   "id": "2113995381348397516#m"
+  },
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "🚨 FLORIDA! Early Voting, in-person, is UNDERWAY NOW in the Great State of Florida. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT! Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP Find your Voting Location here: swampthevoteusa.com/florida/ Link FLORIDA: READY TO VOTE REPUBLICAN? Primary Election Day in Florida is here, and it’s time to make your voice heard. Find your voting location now and get prepared to vote Republican! swampthevoteusa.com",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113995379138072781#m",
+   "ts": 1792850749,
+   "id": "2113995379138072781#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "True Kevin Bass (@kevinnbass) From 1900 to 1910, 76% of immigrants to America remigrated to their home countries. From 1910 to 1920, it was 97%. There was major political conflict over the disruption immigrants caused. But we had no welfare state. Over time, we kept the best who assimilated. Remigration is historically normal. What we are doing today is not normal because of the welfare state. homepages.ucl.ac.uk/~uctpimr… — https://nitter.kareem.one/kevinnbass/status/2113862573493752254#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2113993492418683207#m",
+   "ts": 1792850299,
+   "id": "2113993492418683207#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Roadster at Petersen Tesla North America (@tesla_na) Roadster will be on display at the Petersen Automotive Museum in LA starting tomorrow Oct 24-27, Main Lobby petersen.org/pages/petersen-… — https://nitter.kareem.one/tesla_na/status/2113672809281118429#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2113993051719016814#m",
+   "ts": 1792850194,
+   "id": "2113993051719016814#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "In early 2002, Elon was preparing to launch SpaceX and searching for the people who could help him build a rocket from scratch. One Sunday in January 2002, he walked into a friend's rented warehouse in Huntington Beach and found Tom Mueller holding an 80-pound rocket engine on his shoulder, trying to bolt it to a frame. It was the largest liquid-fuel engine any amateur had ever built, with 13,000 pounds of thrust, made in Tom's spare time. Elon asked the main question “Could you build something bigger?” The next Sunday Elon came to his house. It was Super Bowl Sunday; they watched maybe one play, because they were too busy sketching the first SpaceX rocket. Tom became SpaceX employee #1, and the man who built engines on weekends went on to build Merlin, Kestrel and Draco. Elon saw a person, not a résumé, someone who built rockets with his own hands simply because he loved them.",
+   "url": "https://nitter.kareem.one/EvaFox/status/2113990330060059103#m",
+   "ts": 1792849545,
+   "id": "2113990330060059103#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "BREAKING: Oaxaca’s state government in Mexico has delivered 67 Starlink dishes to expand internet access for students. 🇲🇽 The dishes were handed over in Santiago Matatlán. This will enable every high school campus in the network to have internet access.",
+   "url": "https://nitter.kareem.one/cb_doge/status/2113974148485808323#m",
+   "ts": 1792845687,
+   "id": "2113974148485808323#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Rogers is doubling down on its partnership with Starlink to bring expanded satellite-to-mobile coverage and capabilities across Canada 🇨🇦 During its Q3 2026 earnings call, CEO Tony Staffieri confirmed that Rogers is deepening its collaboration with SpaceX “We’re proactively deepening our collaboration with Starlink on sat-to-mobile connectivity” Rogers intends to lead Canada in satellite-to-mobile connectivity as the partnership expands coverage and capabilities, particularly in remote and underserved areas where traditional cell towers cannot reach",
+   "url": "https://nitter.kareem.one/XFreeze/status/2113948464971444434#m",
+   "ts": 1792839563,
+   "id": "2113948464971444434#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "How was Hitler a leftist? Collectivism. Statism. Command economy. High government debt and spending. High confiscatory taxes on targeted groups. Identity politics. Anti free speech. Pro gun control. “Everything is political” - art, sport, journalism, education. Elon Musk (@elonmusk) Hitler was a far left socialist. Literally in the name of his party! — https://nitter.kareem.one/elonmusk/status/2113672397446381585#m",
+   "url": "https://nitter.kareem.one/TheAliceSmith/status/2113938477071114361#m",
+   "ts": 1792837182,
+   "id": "2113938477071114361#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -81,15 +199,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Those who are opposed to corporations and favor government do not realize that government is simply the largest, most monopolistic corporation of all and it has a monopoly on violence.",
-   "url": "https://nitter.kareem.one/elonmusk/status/2113859987248472215#m",
-   "ts": 1792818469,
-   "id": "2113859987248472215#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "He is starting to believe",
    "url": "https://nitter.kareem.one/kevinnbass/status/2113848359437938888#m",
    "ts": 1792815696,
@@ -117,15 +226,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Talarico is a far left extremist America (@america) Democrat Nominee for U.S. Senate in Texas James Talarico: “Poverty is violence… Pollution is violence. Prison is violence.” “It's hard to imagine a world without prisons. Just because it's hard to imagine doesn't mean you shouldn’t.” Video — https://nitter.kareem.one/america/status/2113801178740044045#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2113820303952650534#m",
-   "ts": 1792809008,
-   "id": "2113820303952650534#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "The legacy media is a pure propaganda machine for the left. They all say the same thing at the same time. 𝕏 is the real voice of the people. Invite your friends to 𝕏 if they’re not here yet. Video",
    "url": "https://nitter.kareem.one/cb_doge/status/2113816054325760028#m",
    "ts": 1792807994,
@@ -139,24 +239,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2113811349281345578#m",
    "ts": 1792806873,
    "id": "2113811349281345578#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Yes DogeDesigner (@cb_doge) ELON MUSK: The best way to counter the legacy media's propaganda is by sending people links to videos and information on the 𝕏 platform. Video — https://nitter.kareem.one/cb_doge/status/2113708516796227917#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2113796285207552407#m",
-   "ts": 1792803281,
-   "id": "2113796285207552407#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok @Bot saves sensitive info in a vault Grok Bot (@bot) Grok Bot can now save your logins, cards, and contact information. Add them once, and Bot securely remembers them for the future. Video — https://nitter.kareem.one/bot/status/2113717946019397910#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2113796183688982771#m",
-   "ts": 1792803257,
-   "id": "2113796183688982771#m"
   },
   {
    "handle": "thsottiaux",
@@ -189,19 +271,10 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "the statistics show, if you have only 1 brain cell and you are perfectly mid, you should subscribe to @latentspacepod Ruben (@rdominguezibar) Every media brand you read, on one chart. Smart vs easy to consume. Paid for vs independent. Who's in the wrong quadrant? — https://nitter.kareem.one/rdominguezibar/status/2113745196173418644#m",
+   "text": "the statistics show, if you have only 1 brain cell and you are perfectly mid, you should subscribe to @latentspacepod",
    "url": "https://nitter.kareem.one/swyx/status/2113752893878890637#m",
    "ts": 1792792936,
    "id": "2113752893878890637#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "People who act like Elon owes Ukraine forget this very important detail: Warren Hultquist (@whultquist) You stfu... — https://nitter.kareem.one/whultquist/status/2113721268902273186#m",
-   "url": "https://nitter.kareem.one/JohnnaCrider1/status/2113739998600282433#m",
-   "ts": 1792789861,
-   "id": "2113739998600282433#m"
   },
   {
    "handle": "elonmusk",
@@ -222,6 +295,15 @@
    "id": "2113738709799665905#m"
   },
   {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Fei-Fei Li ( @DrFeiFei ) reflects on how America gave her the freedom to pursue any opportunity she could work for. Opportunity is not something handed to you, Li argues, but a place that lets you work hard, dream big or small, and seize what you find. The Founding Director of @StanfordHAI and co-founder and CEO of @TheWorldLabs joins Hoover Institution historian Stephen Kotkin on a new episode of Only in America. Watch their full conversation here: plus.hoover.org/plus/researc… Video Hoover Institution (@HooverInst) On a new episode of Only in America, @DrFeiFei Li, the \"Godmother of AI,\" speaks with world-renowned historian and Hoover Senior Fellow Stephen Kotkin about her journey to the frontiers of spatial intelligence. 3:38 - Fei-Fei Li's high school years in New Jersey 6:58 - Li's journey to studying physics at Princeton 11:09 - Li on finding an \"audacious question\" in science 16:19 - Kotkin and Li on curiosity and the immigrant experience 22:01 - Li on the moral responsibilities of scientists 28:12 - Li on co-founding @TheWorldLabs 34:58 - World models as the next frontier of AI 37:08 - Kotkin and Li on civic responsibility and mentorship 42:06 - Fei-Fei Li on America and adapting to the AI revolution Fei-Fei Li, Founding Director of @StanfordHAI , is one of the pioneering researchers in the field of spatial intelligence. A professor of computer science at Stanford University, she invented ImageNet, which is today widely regarded as one of the driving forces behind the",
+   "url": "https://nitter.kareem.one/HooverInst/status/2113738084072488975#m",
+   "ts": 1792789405,
+   "id": "2113738084072488975#m"
+  },
+  {
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
@@ -229,15 +311,6 @@
    "url": "https://nitter.kareem.one/Tesla/status/2113730362232680854#m",
    "ts": 1792787564,
    "id": "2113730362232680854#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "James Talarico is a 2021 woke remnant who must lose. When he opposed a transgender athletes bill that year he told the Texas House that God is nonbinary and cited Hebrew grammar for “spirit” in Genesis. At the same committee hearing, he claimed modern science recognizes 6 biological sexes before reversing to 2 after Fox pressed him during the campaign. On Rogan in 2025, he argued the Bible supports abortion rights because God asked Mary’s consent before the incarnation. A seminary trained Democrat who spent years pushing those claims has no place winning statewide. Video",
-   "url": "https://nitter.kareem.one/Rothmus/status/2113724913978892430#m",
-   "ts": 1792786265,
-   "id": "2113724913978892430#m"
   },
   {
    "handle": "simonw",
@@ -411,15 +484,6 @@
    "id": "2113547660498288930#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Tesla has just expanded its Robotaxi service area in Austin, Texas. The new service area now includes the area around Austin’s F1 racetrack, where 400,000 people will attend the race festivities this weekend. Tesla's Robotaxi service also now runs until 1 AM (from 12 AM before)",
-   "url": "https://nitter.kareem.one/SawyerMerritt/status/2113510658968875349#m",
-   "ts": 1792735182,
-   "id": "2113510658968875349#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -589,60 +653,6 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2113418283294785789#m",
    "ts": 1792713158,
    "id": "2113418283294785789#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "TO THE GREAT PEOPLE OF INDIANA, GET OUT AND VOTE FOR: – Barb Regnitz for U.S. Congress (IN-01) – Rudy Yakum for U.S. Congress (IN-02) – Marlin Stutzman for U.S. Congress (IN-03) – Jim Baird for U.S. Congress (IN-04) – Victoria Spartz for U.S. Congress (IN-05) – Jefferson Shreve for U.S. Congress (IN-06) – Mark Messmer for U.S. Congress (IN-08) – Erin Houchin for U.S. Congress (IN-09) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP swampthevoteusa.com/indiana/ Link INDIANA: MAKE A PLAN TO VOTE! Election Day in Indiana is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113418081183907931#m",
-   "ts": 1792713110,
-   "id": "2113418081183907931#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "🚨 INDIANA! Early Voting, in-person, is UNDERWAY NOW in the Great State of Indiana. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT! Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Indiana, you can cast your early Vote, in-person, all the way through November 2nd. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP Find your Voting Location here: swampthevoteusa.com/indiana/ Link INDIANA: MAKE A PLAN TO VOTE! Election Day in Indiana is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113418071792906455#m",
-   "ts": 1792713108,
-   "id": "2113418071792906455#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "TO THE GREAT PEOPLE OF IOWA, GET OUT AND VOTE FOR: – Ashley Hinson for U.S. Senate – Zach Lahn for Governor – Brenna Bird for Attorney General – Mariannette Miller-Meeks for U.S. Congress (IA-01) – Joe Mitchell for U.S. Congress (IA-02) – Zach Nunn for U.S. Congress (IA-03) – Chris McGowan for U.S. Congress (IA-04) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP swampthevoteusa.com/iowa/ Link IOWA - 2026 Election Day in Iowa is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113417824651919755#m",
-   "ts": 1792713049,
-   "id": "2113417824651919755#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "🚨 IOWA! Early Voting, in-person, is UNDERWAY NOW in the Great State of Iowa. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT! Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Iowa, you can cast your early Vote, in-person, all the way through November 2nd. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP Find your Voting Location here: swampthevoteusa.com/iowa/ Link IOWA - 2026 Election Day in Iowa is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113417815466385440#m",
-   "ts": 1792713047,
-   "id": "2113417815466385440#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "TO THE GREAT PEOPLE OF KANSAS, MAKE A PLAN TO VOTE FOR: – Roger Marshall for U.S. Senate – Ty Masterson for Governor – Tracey Mann for U.S. Congress (KS-01) – Derek Schmidt for U.S. Congress (KS-02) – Ron Estes for U.S. Congress (KS-04) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP swampthevoteusa.com/kansas/ Link KANSAS: MAKE A PLAN TO VOTE! Election Day in Kansas is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113417578131685757#m",
-   "ts": 1792712990,
-   "id": "2113417578131685757#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "TO THE GREAT PEOPLE OF KENTUCKY, MAKE A PLAN TO VOTE FOR: – Andy Barr for U.S. Senate – James Comer for U.S. Congress (KY-01) – Brett Guthrie for U.S. Congress (KY-02) – Ed Gallrein for U.S. Congress (KY-04) – Hal Rogers for U.S. Congress (KY-05) – Ralph Alvarado for U.S. Congress (KY-06) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP swampthevoteusa.com/kentucky… Link KENTUCKY: MAKE A PLAN TO VOTE! The Kentucky general election is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113417272446558717#m",
-   "ts": 1792712917,
-   "id": "2113417272446558717#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -1327,15 +1337,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2111990254408434095#m",
    "ts": 1792372690,
    "id": "2111990254408434095#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "President Trump returns to the White House Sunday evening, stepping off Marine One and waving to reporters as he makes his way toward the building. ⠀ Reporters call out questions about a potential summit with Russian President Vladimir Putin and Chinese President Xi Jinping, with Trump offering only a brief remark that \"it's going very well\" before waving again and heading inside. Video",
-   "url": "https://nitter.kareem.one/FoxNews/status/2111988409132625956#m",
-   "ts": 1792372250,
-   "id": "2111988409132625956#m"
   },
   {
    "handle": "thsottiaux",
