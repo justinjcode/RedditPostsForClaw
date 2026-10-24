@@ -1,15 +1,22 @@
 {
- "generated_at": "2026-10-24T04:13:19Z",
+ "generated_at": "2026-10-24T06:19:15Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
   "MachineLearning",
-  "selfhosted"
+  "programming"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Sam Altman: OpenAI's best model \"can't responsibly be open-sourced\" until the world builds better cyberdefense and bio-security",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe0ioz/sam_altman_openais_best_model_cant_responsibly_be/",
+   "ts": 1792820478,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Sonevia – An Audiophile Music Player for iOS",
@@ -50,13 +57,6 @@
    "title": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdtk7m/istadaslabdeepseekv41flash1017gsqrco/",
    "ts": 1792798659,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Some benchmarks on mini-AGI (dynamic continual learning model) after training it completely from scratch for a month on a 8GB VRAM GPU.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xds6ts/some_benchmarks_on_miniagi_dynamic_continual/",
-   "ts": 1792794892,
    "source": "Reddit"
   },
   {
@@ -176,13 +176,6 @@
    "title": "How close can pure FP get to C?",
    "url": "https://www.reddit.com/r/programming/comments/1xdjru9/how_close_can_pure_fp_get_to_c/",
    "ts": 1792775076,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "I Asked Developers to Max Out a $12 Server (again)",
-   "url": "https://www.reddit.com/r/programming/comments/1xdjg1c/i_asked_developers_to_max_out_a_12_server_again/",
-   "ts": 1792774349,
    "source": "Reddit"
   },
   {
@@ -393,6 +386,13 @@
    "title": "Debunking \"Faster than Rust\": Malicious Benchmarks in Tov",
    "url": "https://www.reddit.com/r/programming/comments/1xcaveo/debunking_faster_than_rust_malicious_benchmarks/",
    "ts": 1792649848,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "PHP2Shell: Critical vulnerabilities in the backbone of the web",
+   "url": "https://www.reddit.com/r/programming/comments/1xbo19y/php2shell_critical_vulnerabilities_in_the/",
+   "ts": 1792591402,
    "source": "Reddit"
   },
   {
