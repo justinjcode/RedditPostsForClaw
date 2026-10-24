@@ -1,6 +1,8 @@
 {
- "generated_at": "2026-10-24T01:51:54Z",
+ "generated_at": "2026-10-24T02:11:14Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -9,12 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "fake news btw i got him Arfur Grok (@ArfurGrok) ✅ Sunil Pai ( @threepointone ) has joined Anthropic. — https://nitter.kareem.one/ArfurGrok/status/2113783040979640732#m",
+   "url": "https://nitter.kareem.one/swyx/status/2113811349281345578#m",
+   "ts": 1792806873,
+   "id": "2113811349281345578#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -905,15 +913,6 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2112968586079744448#m",
    "ts": 1792605942,
    "id": "2112968586079744448#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Your agent's compute needs change mid-run. @akshat_b of @modal walks through CPU and memory demand in Ramp's sandboxes. Provisioning every sandbox for a brief peak can leave capacity reserved when it isn't needed. #AIEngineerNY Video",
-   "url": "https://nitter.kareem.one/aiDotEngineer/status/2112967157487206794#m",
-   "ts": 1792605602,
-   "id": "2112967157487206794#m"
   },
   {
    "handle": "simonw",
