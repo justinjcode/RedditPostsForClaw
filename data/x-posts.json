@@ -1,9 +1,6 @@
 {
- "generated_at": "2026-10-24T02:11:14Z",
+ "generated_at": "2026-10-24T02:37:43Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +8,22 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Talarico is a far left extremist America (@america) Democrat Nominee for U.S. Senate in Texas James Talarico: “Poverty is violence… Pollution is violence. Prison is violence.” “It's hard to imagine a world without prisons. Just because it's hard to imagine doesn't mean you shouldn’t.” Video — https://nitter.kareem.one/america/status/2113801178740044045#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2113820303952650534#m",
+   "ts": 1792809008,
+   "id": "2113820303952650534#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -85,6 +95,15 @@
    "url": "https://nitter.kareem.one/gigafactories/status/2113745614228099452#m",
    "ts": 1792791200,
    "id": "2113745614228099452#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "People who act like Elon owes Ukraine forget this very important detail: Warren Hultquist (@whultquist) You stfu... — https://nitter.kareem.one/whultquist/status/2113721268902273186#m",
+   "url": "https://nitter.kareem.one/JohnnaCrider1/status/2113739998600282433#m",
+   "ts": 1792789861,
+   "id": "2113739998600282433#m"
   },
   {
    "handle": "elonmusk",
@@ -234,15 +253,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Talarico wants to trans your kids and destroy the border KanekoaTheGreat (@KanekoaTheGreat) James Talarico: “With every border wall, with every bathroom bill, we degrade our reputation and we dishonor our legacy.” He voted against border security nine times and against the bathroom bill to keep boys out of girls’ bathrooms. He'll do it again in Washington. Video — https://nitter.kareem.one/KanekoaTheGreat/status/2113667772211421244#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2113678299394142433#m",
-   "ts": 1792775151,
-   "id": "2113678299394142433#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "If Talarico and Democrats get back into power, they will restart the border invasion. Our nation deserves a secure border. Vote Republican to make sure Texas remains Texas and America stays America. Video",
    "url": "https://nitter.kareem.one/america/status/2113674749939249545#m",
    "ts": 1792774305,
@@ -265,15 +275,6 @@
    "url": "https://nitter.kareem.one/alx/status/2113667593173147777#m",
    "ts": 1792772598,
    "id": "2113667593173147777#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Now the company is fixing the problem. Thank you, Grok Bot! I had a problem with a company doing some building work for me. They made a mistake and wouldn’t own up to it. I sent Grok Bot the issue and supporting pictures. In a couple minutes, it prepared a full case with emails of where to send it with just needing my yes. It’s insane how Grok Bot can help with everyday problems!",
-   "url": "https://nitter.kareem.one/DogecoinNorway/status/2113664149871808973#m",
-   "ts": 1792771777,
-   "id": "2113664149871808973#m"
   },
   {
    "handle": "elonmusk",
