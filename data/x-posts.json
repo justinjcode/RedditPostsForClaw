@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-10-24T14:45:54Z",
+ "generated_at": "2026-10-24T14:54:35Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -11,10 +10,20 @@
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Another 27 Starlink satellites SpaceX (@SpaceX) Falcon 9 launches 27 @Starlink satellites from California — https://nitter.kareem.one/SpaceX/status/2113786051009696177#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2114003587156086798#m",
+   "ts": 1792852706,
+   "id": "2114003587156086798#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -187,15 +196,6 @@
    "id": "2113870130799362063#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Odyssey with Grok Imagine Grok Imagine (@imagine) Watch Episode 1 of our Odyssey series made with Grok Imagine. Let us know in the comments if you'd like a full breakdown of how it was done! Creative collaboration with @WonderStudiosX and director Dev Walker @glumlot_ Video — https://nitter.kareem.one/imagine/status/2113712964419063911#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2113869401930039702#m",
-   "ts": 1792820713,
-   "id": "2113869401930039702#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -212,15 +212,6 @@
    "url": "https://nitter.kareem.one/ClownWorld/status/2113833301081571541#m",
    "ts": 1792812106,
    "id": "2113833301081571541#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The legacy media is a pure propaganda machine for the left. They all say the same thing at the same time. 𝕏 is the real voice of the people. Invite your friends to 𝕏 if they’re not here yet. Video",
-   "url": "https://nitter.kareem.one/cb_doge/status/2113816054325760028#m",
-   "ts": 1792807994,
-   "id": "2113816054325760028#m"
   },
   {
    "handle": "swyx",
@@ -401,6 +392,15 @@
    "url": "https://nitter.kareem.one/NehallAgrawal/status/2113685692706611535#m",
    "ts": 1792776914,
    "id": "2113685692706611535#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Just one week of early voting left, Texas! Early voting ends Friday, October 30. The radical Left is counting on Republicans to stay home. Let’s prove them wrong. VOTE EARLY. VOTE TODAY.",
+   "url": "https://nitter.kareem.one/KenPaxtonTX/status/2113684836212777257#m",
+   "ts": 1792776709,
+   "id": "2113684836212777257#m"
   },
   {
    "handle": "TheRundownAI",
