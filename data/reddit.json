@@ -1,15 +1,50 @@
 {
- "generated_at": "2026-10-24T10:11:30Z",
+ "generated_at": "2026-10-24T12:15:29Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Title: I’m building Eiciel, a Linux incident-response tool — looking for technical feedback",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xe671m/title_im_building_eiciel_a_linux_incidentresponse/",
+   "ts": 1792841166,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "retrieving data from restic.",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xe63to/retrieving_data_from_restic/",
+   "ts": 1792840860,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Hardware: what & where to buy",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xe56tp/hardware_what_where_to_buy/",
+   "ts": 1792837653,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "qwen3.8 27B on my 3090 basically tied Opus 5.5 on a Korean RAG benchmark, which I did not expect",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe4v74/qwen38_27b_on_my_3090_basically_tied_opus_55_on_a/",
+   "ts": 1792836470,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Gyro quants looks like EXL3 but kinda closed source. please explain why we need this.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe41qe/gyro_quants_looks_like_exl3_but_kinda_closed/",
+   "ts": 1792833435,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Where to buy nvme vps region singapore, the lowest price but powerfull",
@@ -18,17 +53,17 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Review my Jellyfin + *arr plan",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xe39tb/review_my_jellyfin_arr_plan/",
-   "ts": 1792830498,
+   "subreddit": "LocalLLaMA",
+   "title": "[Release] ISTA GSQ-RCO GGUFs for DeepSeek-V4.1-Flash-1017",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe2wg8/release_ista_gsqrco_ggufs_for_deepseekv41flash1017/",
+   "ts": 1792829117,
    "source": "Reddit"
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "PSA: Streaming n-grams from SSD will cause SSD wear",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe2ypu/psa_streaming_ngrams_from_ssd_will_cause_ssd_wear/",
-   "ts": 1792829355,
+   "title": "The RTX 5090 Isn't Gone, It's In Chinese Labs, Where Technicians Rip Off Its Die And 32GB VRAM For AI Servers",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe1zsr/the_rtx_5090_isnt_gone_its_in_chinese_labs_where/",
+   "ts": 1792825751,
    "source": "Reddit"
   },
   {
@@ -81,24 +116,17 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "PHP2Shell reminds me of Heartbleed but backwards and an extra step",
-   "url": "https://www.reddit.com/r/programming/comments/1xdv25j/php2shell_reminds_me_of_heartbleed_but_backwards/",
-   "ts": 1792802906,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "One of the Unraid drives is slowly dying, anybody ever mess with amazon replacement?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xdu2mx/one_of_the_unraid_drives_is_slowly_dying_anybody/",
-   "ts": 1792800064,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdtk7m/istadaslabdeepseekv41flash1017gsqrco/",
    "ts": 1792798659,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "iPhone backups",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xdruyz/iphone_backups/",
+   "ts": 1792793998,
    "source": "Reddit"
   },
   {
@@ -124,13 +152,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "Been tracking intel b60 b65 b70 prices, they jumped 30% today.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdoirp/been_tracking_intel_b60_b65_b70_prices_they/",
-   "ts": 1792785854,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "Mysterious Qwen4 Appearance by New GitHub Accounts",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdmt2o/mysterious_qwen4_appearance_by_new_github_accounts/",
    "ts": 1792781942,
@@ -138,23 +159,9 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Immich for the family?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xdmmhn/immich_for_the_family/",
-   "ts": 1792781522,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "OmniTools v0.7.0 — 25 new tools for your self-hosted toolbox",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xdmg4o/omnitools_v070_25_new_tools_for_your_selfhosted/",
    "ts": 1792781117,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "qwen4exp : build the QSA selection without the kq_mask by sanmai · Pull Request #30965 · ggml-org/llama.cpp",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdmek0/qwen4exp_build_the_qsa_selection_without_the_kq/",
-   "ts": 1792781026,
    "source": "Reddit"
   },
   {
@@ -183,13 +190,6 @@
    "title": "How close can pure FP get to C?",
    "url": "https://www.reddit.com/r/programming/comments/1xdjru9/how_close_can_pure_fp_get_to_c/",
    "ts": 1792775076,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Should I have a bunch of docker containers and a docker manager or a bunch of LXCs with their own docker containers?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xdijie/should_i_have_a_bunch_of_docker_containers_and_a/",
-   "ts": 1792772303,
    "source": "Reddit"
   },
   {
@@ -242,6 +242,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "programming",
+   "title": "The future of Programming",
+   "url": "https://www.reddit.com/r/programming/comments/1xden1k/the_future_of_programming/",
+   "ts": 1792763506,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "MachineLearning",
    "title": "Is symbolic ai dead? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdekrf/is_symbolic_ai_dead_d/",
@@ -274,13 +281,6 @@
    "title": "I made Transformer Architecture from scratch [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdctou/i_made_transformer_architecture_from_scratch_p/",
    "ts": 1792758972,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "everything will be local eventually",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdcpxb/everything_will_be_local_eventually/",
-   "ts": 1792758681,
    "source": "Reddit"
   },
   {
