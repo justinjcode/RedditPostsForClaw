@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T03:45:03Z",
+ "generated_at": "2026-10-24T03:55:06Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool.",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2113838156193894447#m",
+   "ts": 1792813264,
+   "id": "2113838156193894447#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1363,15 +1372,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2111566005684289735#m",
    "ts": 1792271541,
    "id": "2111566005684289735#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file some tax stuff. Took 20 minutes. We're still so early.",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2111495392559067199#m",
-   "ts": 1792254705,
-   "id": "2111495392559067199#m"
   },
   {
    "handle": "ZichenWanghere",
