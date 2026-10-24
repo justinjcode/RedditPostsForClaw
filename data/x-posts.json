@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T23:53:14Z",
+ "generated_at": "2026-10-24T00:20:43Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -94,6 +94,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2113717251543367880#m",
    "ts": 1792784438,
    "id": "2113717251543367880#m"
+  },
+  {
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
+   "text": "We’re adding support for MCP Tasks and Elicitations in Claude. Tasks let Claude give plugins long-running jobs such as deep research and report back when they’re done. Video",
+   "url": "https://nitter.kareem.one/ClaudeDevs/status/2113698001889927608#m",
+   "ts": 1792779848,
+   "id": "2113698001889927608#m"
   },
   {
    "handle": "swyx",
@@ -1615,15 +1624,6 @@
    "url": "https://nitter.kareem.one/bcherny/status/2108008010253533397#m",
    "ts": 1791423249,
    "id": "2108008010253533397#m"
-  },
-  {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
-   "text": "Try it claude.ai/artifact/MSUpYQnxk… Link Night Vault A heist platformer that keeps turning into new games: world flips, a tilt-puzzle toy, an arcade Side B with a boss fight, and Dream Vaults drawn by Claude. claude.ai",
-   "url": "https://nitter.kareem.one/bcherny/status/2108006118966665463#m",
-   "ts": 1791422798,
-   "id": "2108006118966665463#m"
   }
  ]
 }
