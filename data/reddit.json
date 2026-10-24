@@ -1,15 +1,36 @@
 {
- "generated_at": "2026-10-24T06:19:15Z",
+ "generated_at": "2026-10-24T08:14:33Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
-  "programming"
+  "programming",
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "PSA: Streaming n-grams from SSD will cause SSD wear",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe2ypu/psa_streaming_ngrams_from_ssd_will_cause_ssd_wear/",
+   "ts": 1792829355,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Spark X2.6 4B is the best of it's size",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe1kkh/spark_x26_4b_is_the_best_of_its_size/",
+   "ts": 1792824257,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Why Lean is faster than Rust",
+   "url": "https://www.reddit.com/r/programming/comments/1xe1d60/why_lean_is_faster_than_rust/",
+   "ts": 1792823495,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Sam Altman: OpenAI's best model \"can't responsibly be open-sourced\" until the world builds better cyberdefense and bio-security",
@@ -19,9 +40,9 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Sonevia – An Audiophile Music Player for iOS",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xdy9fn/sonevia_an_audiophile_music_player_for_ios/",
-   "ts": 1792812979,
+   "title": "Kinnect v1.1.0 released",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xdy5kd/kinnect_v110_released/",
+   "ts": 1792812624,
    "source": "Reddit"
   },
   {
@@ -137,13 +158,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "03 control flow",
-   "url": "https://www.reddit.com/r/programming/comments/1xdlzxr/03_control_flow/",
-   "ts": 1792780111,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "I ran all the popular Qwen 3.8 FN engines on a single 5090 + 128GB of RAM, here are the numbers",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdlunp/i_ran_all_the_popular_qwen_38_fn_engines_on_a/",
@@ -155,13 +169,6 @@
    "title": "Here's where the last RTX 5090 cards are going: Massive AI conversion factory exposed in China, Founders Edition included",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdlj42/heres_where_the_last_rtx_5090_cards_are_going/",
    "ts": 1792779051,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Strata now supports Qwen 3.6 35B",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdktmz/strata_now_supports_qwen_36_35b/",
-   "ts": 1792777460,
    "source": "Reddit"
   },
   {
@@ -218,13 +225,6 @@
    "title": "How to Make Things, and Why - Stuart Halloway (Clojure/Conj 2026)",
    "url": "https://www.reddit.com/r/programming/comments/1xdh3hh/how_to_make_things_and_why_stuart_halloway/",
    "ts": 1792769101,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Small post about what are the unlocks for RTX consumer GPUs, which ones are affected, in which tasks and which ones are feasible to do an unlock.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdg0v0/small_post_about_what_are_the_unlocks_for_rtx/",
-   "ts": 1792766671,
    "source": "Reddit"
   },
   {
