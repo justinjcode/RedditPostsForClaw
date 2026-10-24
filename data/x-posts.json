@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T21:56:41Z",
+ "generated_at": "2026-10-24T22:09:48Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -7,11 +7,12 @@
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@simonw: all instances failed"
+ ],
  "count": 179,
  "items": [
   {
@@ -274,6 +275,15 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2113838156193894447#m",
    "ts": 1792813264,
    "id": "2113838156193894447#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Honestly, I was surprised @WSJ wanted to do a profile on me. 😂 I’m not a cool 20-year-old college dropout. I’m a pretty boring 40-year-old trying to put everything I’ve learned throughout my career to work building a new market infrastructure for compute. And if I succeed, the headline won’t be true for very long. Wall Street will have the data, transparency, and tools to understand, price, and manage compute risk better than I ever could. And that would be the real success. The Wall Street Journal (@WSJ) Carmen Li hopes to make AI computing power an asset class like oil or gas that investors can bet on—or against. on.wsj.com/4yEEXGL Link Want to Short the AI Boom? She Wants to Give You a Way to Bet on ‘Compute’ Prices Silicon Data founder Carmen Li is joining with CME Group to launch compute derivatives. wsj.com — https://nitter.kareem.one/WSJ/status/2113050224339964107#m",
+   "url": "https://nitter.kareem.one/carmenli/status/2113823222357463219#m",
+   "ts": 1792809703,
+   "id": "2113823222357463219#m"
   },
   {
    "handle": "swyx",
@@ -994,15 +1004,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2112918214246044031#m",
    "ts": 1792593933,
    "id": "2112918214246044031#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "I just published my roadmap for building evals on highly subjective tasks. Here are the key steps involved and practical tricks for reducing noise / increasing confidence… Blog is here: cameronrwolfe.substack.com/p… Why is this difficult? Evaluating agents is already hard due to their broad scope, emphasis on expensive / long-horizon tasks, and non-determinism. Subjective tasks make this even harder because we cannot deterministically verify solutions and must rely on human judgments (or LLM judges). This introduces additional noise into an already difficult evaluation process. Evaluation roadmap. We can build reliable evaluations using a repeatable framework with three components: - Human evaluation: Our North Star for quality. Create quality guidelines that clearly define quality with the help of subject-matter experts, calibrate human evaluators to ensure agreement, and continually monitor evaluation quality. - Offline evaluation: Use calibrated LLM judges or task-specific rubrics as an efficient proxy for human evaluation. This allows us to scale experimentation without relying on expensive human evaluation for every new model. - Production monitoring: Track quality signals from real-world agent usage and use A/B testing to validate improvements before fully deploying a new agent. Multi-stage evaluation. These components form a tiered evaluation process: Offline evaluation → Human evaluation → Production A/B test → Full deployment We can test many ideas automatically, sen",
-   "url": "https://nitter.kareem.one/cwolferesearch/status/2112915508148232571#m",
-   "ts": 1792593287,
-   "id": "2112915508148232571#m"
   },
   {
    "handle": "ZichenWanghere",
