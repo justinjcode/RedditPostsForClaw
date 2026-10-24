@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-10-24T17:55:54Z",
+ "generated_at": "2026-10-24T18:11:14Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Why Phones Think Starlink Satellites Are Cell Towers Video",
+   "url": "https://nitter.kareem.one/farzyness/status/2114039127943610496#m",
+   "ts": 1792861179,
+   "id": "2114039127943610496#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -211,15 +221,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2113877257613947348#m",
    "ts": 1792822586,
    "id": "2113877257613947348#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The Ultra plan is actually just $200 a month if you purchase it on the web $260 is the cost if you buy it on the App Store or Play Store, where they take 30% as a platform tax Clown World ™ 🤡 (@ClownWorld) $260 a month sounds crazy until you realize how much time and work this thing saves you @bot — https://nitter.kareem.one/ClownWorld/status/2113833301081571541#m",
-   "url": "https://nitter.kareem.one/XFreeze/status/2113873268738494562#m",
-   "ts": 1792821635,
-   "id": "2113873268738494562#m"
   },
   {
    "handle": "thsottiaux",
