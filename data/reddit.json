@@ -1,15 +1,78 @@
 {
- "generated_at": "2026-10-24T16:12:21Z",
+ "generated_at": "2026-10-24T18:13:37Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
-  "programming"
+  "programming",
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "YT-DLP Web Player | Watch all internet videos with no ads, no distractions, no needed adblocks",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xeeasl/ytdlp_web_player_watch_all_internet_videos_with/",
+   "ts": 1792862319,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "A tool for convertion? pdf to this and that, image to this and that, and so on",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xedxkw/a_tool_for_convertion_pdf_to_this_and_that_image/",
+   "ts": 1792861439,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Is exposing services via reverse proxy still secure enough?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xedisk/is_exposing_services_via_reverse_proxy_still/",
+   "ts": 1792860465,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Just update of ik_llama.cpp fork and seek of feedback",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xed7a7/just_update_of_ik_llamacpp_fork_and_seek_of/",
+   "ts": 1792859696,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Low/no code low cost options for desktop/mobile small business app",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xecvzu/lowno_code_low_cost_options_for_desktopmobile/",
+   "ts": 1792858937,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "JLTamp, a self-hosted music server with its own Android/iOS apps, CarPlay/Android Auto and a Subsonic API (MIT, one Docker container)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xeck9x/jltamp_a_selfhosted_music_server_with_its_own/",
+   "ts": 1792858151,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Kimi K3.1 removes cyberattack training data from open weight release",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xecgrf/kimi_k31_removes_cyberattack_training_data_from/",
+   "ts": 1792857918,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "What's a good alternative to FreePBX?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xec5bc/whats_a_good_alternative_to_freepbx/",
+   "ts": 1792857165,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "One year in, still extremely happy with my selfhosting journey",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xec0wd/one_year_in_still_extremely_happy_with_my/",
+   "ts": 1792856861,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "big cloud models like opus 5.5 get all the motion graphics praise, but i made this with local qwen3.8 flash next. it's very possible!",
@@ -53,13 +116,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "I built a personal agent that runs on your own box with UI: voice, memory and Ollama, no Docker, all in your machine",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xe7izh/i_built_a_personal_agent_that_runs_on_your_own/",
-   "ts": 1792845333,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Broccoli2Shell: Brotli decoder RCE (CVE-2026-111497) in Node.js, Python and more",
    "url": "https://www.reddit.com/r/programming/comments/1xe7dp8/broccoli2shell_brotli_decoder_rce_cve2026111497/",
@@ -71,13 +127,6 @@
    "title": "What tools do you use to keep your containers up to date?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xe73gj/what_tools_do_you_use_to_keep_your_containers_up/",
    "ts": 1792844028,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "retrieving data from restic.",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xe63to/retrieving_data_from_restic/",
-   "ts": 1792840860,
    "source": "Reddit"
   },
   {
@@ -99,13 +148,6 @@
    "title": "Gyro quants looks like EXL3 but kinda closed source. please explain why we need this.",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe41qe/gyro_quants_looks_like_exl3_but_kinda_closed/",
    "ts": 1792833435,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Where to buy nvme vps region singapore, the lowest price but powerfull",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xe417a/where_to_buy_nvme_vps_region_singapore_the_lowest/",
-   "ts": 1792833380,
    "source": "Reddit"
   },
   {
@@ -172,20 +214,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdtk7m/istadaslabdeepseekv41flash1017gsqrco/",
-   "ts": 1792798659,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "iPhone backups",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xdruyz/iphone_backups/",
-   "ts": 1792793998,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "🌋 Pushing PCIe x1 to the limit: lvgale concurrently serving 27B, 9B, and 2B LLMs on a hardware abomination 📈",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xdqem6/pushing_pcie_x1_to_the_limit_lvgale_concurrently/",
@@ -204,20 +232,6 @@
    "title": "Are we solving LLM memory by remembering more, when the real problem is knowing what to forget?[D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdpek9/are_we_solving_llm_memory_by_remembering_more/",
    "ts": 1792787946,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "OmniTools v0.7.0 — 25 new tools for your self-hosted toolbox",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xdmg4o/omnitools_v070_25_new_tools_for_your_selfhosted/",
-   "ts": 1792781117,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Here's where the last RTX 5090 cards are going: Massive AI conversion factory exposed in China, Founders Edition included",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdlj42/heres_where_the_last_rtx_5090_cards_are_going/",
-   "ts": 1792779051,
    "source": "Reddit"
   },
   {
@@ -270,13 +284,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Locking down family-facing self-hosted services, how are you handling the current exploit pace?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xder5x/locking_down_familyfacing_selfhosted_services_how/",
-   "ts": 1792763784,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Is symbolic ai dead? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdekrf/is_symbolic_ai_dead_d/",
@@ -309,13 +316,6 @@
    "title": "I made Transformer Architecture from scratch [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdctou/i_made_transformer_architecture_from_scratch_p/",
    "ts": 1792758972,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "🚨 Linux Infrastructure & SecOps Alert:",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xdcn9c/linux_infrastructure_secops_alert/",
-   "ts": 1792758473,
    "source": "Reddit"
   },
   {
