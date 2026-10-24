@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-10-24T16:23:45Z",
+ "generated_at": "2026-10-24T16:39:40Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Saturday is for fixing bugs while sipping coffee. What are some great places to hangout in SF?",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2114030784625647855#m",
+   "ts": 1792859190,
+   "id": "2114030784625647855#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -22,6 +32,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2114026169813414022#m",
    "ts": 1792858090,
    "id": "2114026169813414022#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "James Talarico now wants Texans to believe he supports “a lock on the door.” Talarico's Texas House record: ❌ $1.8 billion for border security (2021) ❌ The Texas Border Protection Unit (2023) ❌ Arrest powers for Border Patrol (2023) ❌ Funding for the border wall, twice (2023) ❌ Tougher human smuggling penalties (2023) ❌ Making illegal entry a state crime, twice (2023) ❌ Requiring sheriffs to work with ICE (2025) Millions crossed the border under Biden. Nine chances to lock the door. Nine NO votes. Don't send Talarico to Washington to open Texas's border. Early voting ends Oct. 30. Election Day is Nov. 3. Video",
+   "url": "https://nitter.kareem.one/KanekoaTheGreat/status/2114022681263956038#m",
+   "ts": 1792857258,
+   "id": "2114022681263956038#m"
   },
   {
    "handle": "elonmusk",
@@ -202,15 +221,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2113838156193894447#m",
    "ts": 1792813264,
    "id": "2113838156193894447#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "$260 a month sounds crazy until you realize how much time and work this thing saves you @bot",
-   "url": "https://nitter.kareem.one/ClownWorld/status/2113833301081571541#m",
-   "ts": 1792812106,
-   "id": "2113833301081571541#m"
   },
   {
    "handle": "swyx",
@@ -1363,15 +1373,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2111849858374177222#m",
    "ts": 1792339217,
    "id": "2111849858374177222#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Done",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2111566005684289735#m",
-   "ts": 1792271541,
-   "id": "2111566005684289735#m"
   },
   {
    "handle": "ZichenWanghere",
