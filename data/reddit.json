@@ -1,15 +1,29 @@
 {
- "generated_at": "2026-10-24T08:14:33Z",
+ "generated_at": "2026-10-24T10:11:30Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
+  "MachineLearning",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Where to buy nvme vps region singapore, the lowest price but powerfull",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xe417a/where_to_buy_nvme_vps_region_singapore_the_lowest/",
+   "ts": 1792833380,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Review my Jellyfin + *arr plan",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xe39tb/review_my_jellyfin_arr_plan/",
+   "ts": 1792830498,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "PSA: Streaming n-grams from SSD will cause SSD wear",
@@ -36,6 +50,13 @@
    "title": "Sam Altman: OpenAI's best model \"can't responsibly be open-sourced\" until the world builds better cyberdefense and bio-security",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe0ioz/sam_altman_openais_best_model_cant_responsibly_be/",
    "ts": 1792820478,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Zen Notes v2.0: Note Versions, Auto Save, Linked Notes, API Tokens",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xe09v6/zen_notes_v20_note_versions_auto_save_linked/",
+   "ts": 1792819622,
    "source": "Reddit"
   },
   {
@@ -82,13 +103,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "iPhone backups",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xdruyz/iphone_backups/",
-   "ts": 1792793998,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "🌋 Pushing PCIe x1 to the limit: lvgale concurrently serving 27B, 9B, and 2B LLMs on a hardware abomination 📈",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xdqem6/pushing_pcie_x1_to_the_limit_lvgale_concurrently/",
    "ts": 1792790363,
@@ -102,24 +116,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Komodo webhooks issue",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xdpn96/komodo_webhooks_issue/",
-   "ts": 1792788515,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Are we solving LLM memory by remembering more, when the real problem is knowing what to forget?[D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdpek9/are_we_solving_llm_memory_by_remembering_more/",
    "ts": 1792787946,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Running all my Docker services in one LXC on Proxmox. Thinking of moving to a Talos VM, thoughts?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xdp1c2/running_all_my_docker_services_in_one_lxc_on/",
-   "ts": 1792787053,
    "source": "Reddit"
   },
   {
