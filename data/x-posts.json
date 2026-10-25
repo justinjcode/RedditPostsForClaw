@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-10-25T14:09:54Z",
+ "generated_at": "2026-10-25T14:23:29Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "For the fools out there, Zelensky himself posted about using Starlink for offensive drone strikes, which has always been against Starlink’s terms of service:",
+   "url": "https://nitter.kareem.one/elonmusk/status/2114356830776476033#m",
+   "ts": 1792936925,
+   "id": "2114356830776476033#m"
+  },
   {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
@@ -23,6 +31,15 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2114315968331886767#m",
    "ts": 1792927183,
    "id": "2114315968331886767#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Les gens m'ont dit que j'avais droit à un droit de réponse dans Le Monde, voire que je devrais porter plainte. J'ai autre chose à faire. Je vais répondre ici. J'ai fait un milliard de vues en sept mois sur ce réseau, et ce texte sera sans doute lu par bien plus de monde que l'article lui-même. Comme dit Elon : you are the media now. Donc voici mon droit de réponse, et l'affaire sera close. L'article est signé Aurélien Defer. Il est aussi passé cette année par le pôle Enquêtes de StreetPress, où il pige encore. StreetPress, pour ceux qui ne connaissent pas, c'est un média qui appelle ses lecteurs à l'aider à « gagner la bataille culturelle contre l'extrême droite ». Ce n'est pas moi qui le dis, c'est écrit sur leur propre page de dons. Plus d'un tiers de son budget vient de subventions publiques et de fondations. Il a touché de l'argent du ministère de la Culture au titre de l'aide au pluralisme, et de l'Open Society de George Soros. Un média militant, financé en partie par vos impôts, dont la mission affichée est de combattre un camp politique. C'est de cette école-là que vient le journaliste qui me colle l'étiquette d'extrême droite. Pour moi, ces médias-là ne sont rien d'autre que des officines d'extrême gauche sous perfusion de subventions, qui mentent au peuple sur à peu près tous les sujets. Avant la publication, j'ai passé vingt minutes au téléphone avec lui. J'ai été cordial, transparent, je n'ai esquivé aucune question. Il m'a demandé : « Êtes-vous libertarien ? » J'a",
+   "url": "https://nitter.kareem.one/brivael/status/2114314545158054331#m",
+   "ts": 1792926844,
+   "id": "2114314545158054331#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -41,6 +58,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2114263159355904426#m",
    "ts": 1792914592,
    "id": "2114263159355904426#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Elon proposed a path to peace in October 2022, and almost everyone attacked him for it He warned that the war meant \"a lot of people dying for basically almost no changes in land.\" Hundreds of thousands of lives later, his plan is still the closest anyone has come to peace. Right now the world has no plan at all, and nobody is even trying And SpaceX has literally done more to defend Ukraine and save the lives of many Ukrainian people than any private company on Earth Just today he said he has \"nothing but UTTER CONTEMPT for the virtue-signaling evil warmongers who push for endless slaughter and offer no realistic solution to the conflict\" He was right then, and he is right now Video",
+   "url": "https://nitter.kareem.one/XFreeze/status/2114243810817359908#m",
+   "ts": 1792909979,
+   "id": "2114243810817359908#m"
   },
   {
    "handle": "elonmusk",
@@ -145,46 +171,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "We’re adding long press on like to send someone $1 via 𝕏 Money",
-   "url": "https://nitter.kareem.one/elonmusk/status/2114184998651822094#m",
-   "ts": 1792895957,
-   "id": "2114184998651822094#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "The more I look at the economics of AI infrastructure, the more bullish I become on SpaceX. David Sacks shared some fascinating numbers on All-In: - SpaceX: ~$50B in monetization per GW, with roughly a 1-year payback. - CoreWeave: ~$20B per GW, with roughly a 2.5-year payback. These are estimates, but the difference is enormous. A big reason is how the two companies structure their contracts. CoreWeave relies heavily on long-term commitments to finance its infrastructure. SpaceX has the balance sheet and access to capital to operate with much shorter contracts, giving it exposure to today’s significantly higher compute pricing. That flexibility is worth a LOT in a supply-constrained market. And consider what happens when you’re recovering your capital in roughly a year. You can reinvest that money into additional compute, bring more capacity online, and potentially accelerate growth without relying as heavily on external financing. Now consider SpaceX is targeting ~13 GW of operational compute capacity by the end of 2027. The economics at scale could be extraordinary if they execute. I’ve been extremely bullish on SpaceX for years, but the AI infrastructure opportunity has become a much bigger part of the investment thesis. Video Elon Musk (@elonmusk) This is a fuller list of the limitations of supercomputer buildout. If anything is missing, however seemingly trivial, the compute doesn’t work. — https://nitter.kareem.one/elonmusk/status/2114167331056140414#m",
    "url": "https://nitter.kareem.one/Timboo/status/2114177757227712690#m",
    "ts": 1792894231,
    "id": "2114177757227712690#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Wild times grok.com/share/bGVnYWN5_caa3… Link Recent Catastrophic Bugs Found by AI | Shared Grok Conversation Tell me about recent catastrophic bugs found by AI grok.com",
-   "url": "https://nitter.kareem.one/elonmusk/status/2114169506784260471#m",
-   "ts": 1792892264,
-   "id": "2114169506784260471#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I think we’re going to see a lot of stranded compute in partially complete data centers",
-   "url": "https://nitter.kareem.one/elonmusk/status/2114168277882581486#m",
-   "ts": 1792891971,
-   "id": "2114168277882581486#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I remember sitting around a campfire shortly after the Ukraine war had just started with some Ukrainian friends. They shared that after they learned that Russian forces were jamming all communications they called Elon begging for Starlink support. Elon and the Starlink team instantly dropped everything they were working on, loaded a private jet with as many Starlink terminals as they could (terminals were in short supply at the time), and started flying the jet eastward while writing code to make terminals work over Ukraine. There was no contract or promise of payment for doing so, and no time to solve for that. My Ukrainian friends believed this saved the nation of Ukraine, and that without this effort Ukraine would have lost the war nearly instantly.",
-   "url": "https://nitter.kareem.one/Austen/status/2114157885110264040#m",
-   "ts": 1792889493,
-   "id": "2114157885110264040#m"
   },
   {
    "handle": "swyx",
@@ -212,15 +202,6 @@
    "url": "https://nitter.kareem.one/stevenmarkryan/status/2114130275043262747#m",
    "ts": 1792882910,
    "id": "2114130275043262747#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Completely acceptable to do a peaceful protest outside the Colosseum, but breaking into/vandalizing the Colosseum (or our Capitol like they did in January 6th) is not unacceptable. Tourism is a critical industry in Paris and Rome, so there is an argument that anyone disrupting it should face some additional penalties — like blocking the Bay Bridge in SF RadioGenoa (@RadioGenoa) Chaos in Rome. Masked rioters storm the Colosseum, forcing the entrance barriers. \"Peaceful protest\" they say. Unbelievable. Video — https://nitter.kareem.one/RadioGenoa/status/2114058406092779788#m",
-   "url": "https://nitter.kareem.one/Jason/status/2114119487754498212#m",
-   "ts": 1792880338,
-   "id": "2114119487754498212#m"
   },
   {
    "handle": "realDonaldTrump",
@@ -268,6 +249,15 @@
    "id": "2114064620411666919#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Elon Musk understands something that the political establishment desperately wants people to forget. Government isn’t some magical institution that protects you from concentrated corporate power. It is concentrated power. And unlike corporations, it has the legal authority to use force against you. Now imagine giving that power to a global government. One political hierarchy. Billions of people. No competing jurisdiction to escape to. No meaningful alternative when the people in charge decide your rights are inconvenient. That’s not progress. That’s the blueprint for the most terrifying monopoly in human history. Look at what’s happening across Europe. More authority concentrated in distant institutions. More regulatory power. More restrictions on speech. More decisions made by people ordinary citizens can barely hold accountable. The answer has always been decentralization, private property, free markets, and the freedom to walk away. Yet the political left keeps demanding more centralization, more bureaucracy, and more authority over ordinary people. And somehow they call that liberation. What a fucking joke. Elon Musk (@elonmusk) Those who are opposed to corporations and favor government do not realize that government is simply the largest, most monopolistic corporation of all and it has a monopoly on violence. — https://nitter.kareem.one/elonmusk/status/2113859987248472215#m",
+   "url": "https://nitter.kareem.one/tslryn/status/2114041410672369910#m",
+   "ts": 1792861723,
+   "id": "2114041410672369910#m"
+  },
+  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -293,6 +283,15 @@
    "url": "https://nitter.kareem.one/Ninggao88/status/2114025876291788963#m",
    "ts": 1792858020,
    "id": "2114025876291788963#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Nvidia CEO Jensen Huang said: \"GrokBot is super cool. The demand for GrokBot, the consumption for GrokBot is really skyrocketing.\" WOLF Terminal (@WOLF_Terminal) 🚨 $NVDA NVIDIA CEO Jensen Huang ON WHAT HE AND @elonmusk ARE BUILDING TOGETHER: \"I love working with Elon. He's using our technology for his own AI, training models and deploying models. GrokBot is super cool. The demand for GrokBot, the consumption for GrokBot is really skyrocketing.\" What makes Elon's position unique: \"He rents it. The combination of training, deploying, and renting is fairly unique. He also has the advantage that he loves the intersection between computing and physical build-outs. Nobody knows more about energy than he does.\" The new market they're exploring together: \"One particular new market we're gonna go explore together is putting data centers out in space. Our 2 engineering teams are working super closely together to create a new type of server, a new type of architecture that might be super good in space and on Earth.\" Video — https://nitter.kareem.one/WOLF_Terminal/status/2114009024836637018#m",
+   "url": "https://nitter.kareem.one/WOLF_Financial/status/2114010563265147148#m",
+   "ts": 1792854369,
+   "id": "2114010563265147148#m"
   },
   {
    "handle": "swyx",
