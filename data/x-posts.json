@@ -1,20 +1,38 @@
 {
- "generated_at": "2026-10-25T02:42:23Z",
+ "generated_at": "2026-10-25T02:56:08Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "bcherny",
+  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@bcherny: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "Video Donald J. Trump (@realDonaldTrump) TO THE GREAT PEOPLE OF GEORGIA, GET OUT AND VOTE FOR: – Mike Collins for U.S. Senate – Rick Jackson for Governor – Greg Dolezal for Lieutenant Governor – Brian Strickland for Attorney General – Tim Fleming for Secretary of State – Jim Kingston for U.S. Congress (GA-01) – Brian Jack for U.S. Congress (GA-03) – Rich McCormick for U.S. Congress (GA-07) – Austin Scott for U.S. Congress (GA-08) – Andrew Clyde for U.S. Congress (GA-09) – Houston Gaines for U.S. Congress (GA-10) – John Cowan for U.S. Congress (GA-11) – Rick Allen for U.S. Congress (GA-12) – Clay Fuller for U.S. Congress (GA-14) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP swampthevoteusa.com/georgia/ Link GEORGIA: READY TO VOTE REPUBLICAN? Election Day in Georgia is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com — https://nitter.kareem.one/realDonaldTrump/status/2113302770296017050#m",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2114185782563082307#m",
+   "ts": 1792896144,
+   "id": "2114185782563082307#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "We’re adding long press on like to send someone $1 via 𝕏 Money",
+   "url": "https://nitter.kareem.one/elonmusk/status/2114184998651822094#m",
+   "ts": 1792895957,
+   "id": "2114184998651822094#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -302,15 +320,6 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2113995379138072781#m",
    "ts": 1792850749,
    "id": "2113995379138072781#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon Musk: You can tell which side is the good side and which side is the bad side by which side wishes to restrict freedom of speech The side that is restricting freedom of speech you know, that would have been the Hitlers, Stalins, and Mussolinis of the world They had very strong censorship, very strong restrictions on speech. That’s one of the signs that they’re the bad guys In fact, a restriction on speech and large government is fundamentally fascist, obviously. So ironically, in pushing for censorship, it makes it very clear that the left is the side that is against freedom Freedom of speech is simply one of many freedoms that we should have as a civil society because ideas should win on the strength of their arguments. They should not win because they are suppressed Video",
-   "url": "https://nitter.kareem.one/DeepLeaksHQ/status/2113979865997418861#m",
-   "ts": 1792847050,
-   "id": "2113979865997418861#m"
   },
   {
    "handle": "thsottiaux",
@@ -709,15 +718,6 @@
    "id": "2113418479651209299#m"
   },
   {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "TO THE GREAT PEOPLE OF ILLINOIS, GET OUT AND VOTE FOR: – Darren Bailey for Governor – Mike Bost for U.S. Congress (IL-12) – Mary Miller for U.S. Congress (IL-15) – Darin LaHood for U.S. Congress (IL-16) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP swampthevoteusa.com/illinois… Link ILLINOIS: MAKE A PLAN TO VOTE! Election Day in Illinois is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113418291024896021#m",
-   "ts": 1792713160,
-   "id": "2113418291024896021#m"
-  },
-  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -851,6 +851,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2113276740483113213#m",
    "ts": 1792679412,
    "id": "2113276740483113213#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "My iPhone Duo video went viral, so I'm giving away 100 iPhones on X 😛 Video",
+   "url": "https://nitter.kareem.one/mediastorm_en/status/2113263456090763450#m",
+   "ts": 1792676245,
+   "id": "2113263456090763450#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -1463,15 +1472,6 @@
    "url": "https://nitter.kareem.one/bcherny/status/2110791698611855624#m",
    "ts": 1792086932,
    "id": "2110791698611855624#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "为了支持我创业，我爷我奶收集的 AI 新闻🥹",
-   "url": "https://nitter.kareem.one/wangzaimedia/status/2110751737258897509#m",
-   "ts": 1792077404,
-   "id": "2110751737258897509#m"
   },
   {
    "handle": "simonw",
