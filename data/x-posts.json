@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-10-24T23:54:19Z",
+ "generated_at": "2026-10-25T00:26:53Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,9 +10,29 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "part time and oneoff guest posts welcome docs.google.com/forms/d/e/1F… Link Guest Post on Latent Space! Latent Space is a podcast and newsletter that covers AI Engineering for a global audience of over 100,000 weekly readers. Guests have ranged from Mark Zuckerberg to Greg Brockman to George Hotz and... docs.google.com",
+   "url": "https://nitter.kareem.one/swyx/status/2114149330135519730#m",
+   "ts": 1792887453,
+   "id": "2114149330135519730#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "we are hiring writers, reviewers and reporters for the new @latentspacepod editorial team (hit up @ricmac and @adlinzainal ) and i’m gonna put a version of this in the welcome package for everyone we hire",
+   "url": "https://nitter.kareem.one/swyx/status/2114145315196711194#m",
+   "ts": 1792886496,
+   "id": "2114145315196711194#m"
+  },
   {
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
@@ -834,15 +853,6 @@
    "id": "2113276740483113213#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "My AIE talk is live! I talk about the benchmark I've been building for 5 months now and released it publicly for the first time there :) Louis-François Bouchard of Towards AI breaks down what makes AI writing feel like slop: overused words, vague generalities, saying nothing, repetition, hallucination and a voice that sounds like everyone at once. He then shows how his team built a benchmark to measure whether a model can write a video script in his own voice: 10 scripts, 5 drafts per model, 4 LLM judges, nine scoring metrics and 1,000 human A/B checks. He shares what it cost, why judges favor their own model family, and practical tips for writing with AI: very long prompts full of examples, one review pass from a strong model, many cheap drafts merged together, and always a human edit. Thanks again @aiDotEngineer , @swyx for inviting me and hosting yet another amazing event. Watch it here: inv.kareem.one/_dTF3NpPzGo Link Why AI Writing Still Reads Like Slop — Louis-François Bouchard,... Louis-François Bouchard of Towards AI breaks down what makes AI wri... youtube.com",
-   "url": "https://nitter.kareem.one/Whats_AI/status/2113275444900360264#m",
-   "ts": 1792679103,
-   "id": "2113275444900360264#m"
-  },
-  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -895,15 +905,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2113162277688070445#m",
    "ts": 1792652122,
    "id": "2113162277688070445#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "ratioed @cognition lololololol never change twitter",
-   "url": "https://nitter.kareem.one/swyx/status/2113150715099234673#m",
-   "ts": 1792649365,
-   "id": "2113150715099234673#m"
   },
   {
    "handle": "simonw",
