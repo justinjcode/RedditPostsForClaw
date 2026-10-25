@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T22:09:41Z",
+ "generated_at": "2026-10-25T22:21:28Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -999,7 +999,7 @@
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
-   "text": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
+   "text": "Fully included in the Pro plan, doesn't draw on your weekly usage. Community note: As of 22 October 2026, OpenAI’s dots are unavailable to ChatGPT Pro users in the EU. OpenAI excludes the European Economic Area (which includes all EU countries), the UK and Switzerland from Pro access. [Source: OpenAI documentation]( learn.chatgpt.com/docs/dots",
    "url": "https://nitter.kareem.one/thsottiaux/status/2113029854417600834#m",
    "ts": 1792620550,
    "id": "2113029854417600834#m"
