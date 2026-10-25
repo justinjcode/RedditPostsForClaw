@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T06:17:14Z",
+ "generated_at": "2026-10-25T06:45:24Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,33 @@
  "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Try @Starlink for awesome Internet everywhere! Philip Powers (@PhilipPowrs) I just set up @Starlink in 15 minutes. Literally laid it in my backyard. Saying goodbye to the scrappy Spectrum service feels so good! — https://nitter.kareem.one/PhilipPowrs/status/2114055584865775967#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2114243303994486876#m",
+   "ts": 1792909859,
+   "id": "2114243303994486876#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Cool Texas Twins Dad (@Texas_Twins_Dad) Everyone said \"Hey Grok\" was impossible on iPhone. Even Grok said Apple keeps wake words for Siri only. So I kept digging, and I found a way. Now I just say \"Hey Grok\" and Grok Bot voice chat opens. No extra apps, no cost, all built into iOS. How to set it up: 1. Make sure your Grok Bot app is up to date 2. Shortcuts app → + → Add Action → search \"Grok Bot\" → pick \"Start Voice Chat with Bot\" 3. Settings → Accessibility → Vocal Shortcuts → Set Up → pick that shortcut → type \"Hey Grok\" and say it 3 times 4. In the shortcut's details, turn on \"Allow Running When Locked\" If your phone is locked, iOS asks for one tap first. If Face ID already unlocked it, it's fully hands-free. Video — https://nitter.kareem.one/Texas_Twins_Dad/status/2114217410823688573#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2114242922006897145#m",
+   "ts": 1792909767,
+   "id": "2114242922006897145#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "This is indeed one of the main reasons that Starlink must remain a civilian operation. It can be used for infrastructure that is military, but it cannot be used for unequivocally offensive strikes that make it fair game to be struck back. An adversary blowing up Starlink satellites would create a domino effect of destruction that would generate a vast field of debris making space unusable.",
+   "url": "https://nitter.kareem.one/elonmusk/status/2114238688284520949#m",
+   "ts": 1792908758,
+   "id": "2114238688284520949#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -99,6 +126,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "The more I look at the economics of AI infrastructure, the more bullish I become on SpaceX. David Sacks shared some fascinating numbers on All-In: - SpaceX: ~$50B in monetization per GW, with roughly a 1-year payback. - CoreWeave: ~$20B per GW, with roughly a 2.5-year payback. These are estimates, but the difference is enormous. A big reason is how the two companies structure their contracts. CoreWeave relies heavily on long-term commitments to finance its infrastructure. SpaceX has the balance sheet and access to capital to operate with much shorter contracts, giving it exposure to today’s significantly higher compute pricing. That flexibility is worth a LOT in a supply-constrained market. And consider what happens when you’re recovering your capital in roughly a year. You can reinvest that money into additional compute, bring more capacity online, and potentially accelerate growth without relying as heavily on external financing. Now consider SpaceX is targeting ~13 GW of operational compute capacity by the end of 2027. The economics at scale could be extraordinary if they execute. I’ve been extremely bullish on SpaceX for years, but the AI infrastructure opportunity has become a much bigger part of the investment thesis. Video Elon Musk (@elonmusk) This is a fuller list of the limitations of supercomputer buildout. If anything is missing, however seemingly trivial, the compute doesn’t work. — https://nitter.kareem.one/elonmusk/status/2114167331056140414#m",
+   "url": "https://nitter.kareem.one/Timboo/status/2114177757227712690#m",
+   "ts": 1792894231,
+   "id": "2114177757227712690#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "Wild times grok.com/share/bGVnYWN5_caa3… Link Recent Catastrophic Bugs Found by AI | Shared Grok Conversation Tell me about recent catastrophic bugs found by AI grok.com",
    "url": "https://nitter.kareem.one/elonmusk/status/2114169506784260471#m",
    "ts": 1792892264,
@@ -117,64 +153,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "They are channeling Beria Kyle Tibbitts (@KyleTibbitts) Lefties: “Elon Musk should be in prison!” Normies: “For what?” Lefties: “We’re not sure but we’ll find something! Vote for us and we’ll show you.” Normies: “You are insane.” Lefties: “Elon is a fascist. We’re anti-fascist. You must also be a fascist.” — https://nitter.kareem.one/KyleTibbitts/status/2114143179742286322#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2114167682283036687#m",
-   "ts": 1792891829,
-   "id": "2114167682283036687#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "This is a fuller list of the limitations of supercomputer buildout. If anything is missing, however seemingly trivial, the compute doesn’t work. Object Zero (@Object_Zero_) And what binds power? • land • permits • grid access • transformers and switchgear • noise • clean air • supply chain • fuel security • casting machines • suitable large lathes for turning shafts • residential priority • community political power All the best sites are now taken, and every year the marginal development site gets worse and worse. — https://nitter.kareem.one/Object_Zero_/status/2114100925077885381#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2114167331056140414#m",
-   "ts": 1792891745,
-   "id": "2114167331056140414#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "True Skscartoon (@skscartoon) Elon Musk was one of the first to give Ukraine meaningful assistance, providing Starlink for civilian use in the early stage of the war. At the same time, most of Europe was still sending billions to Russia for oil and gas, yet these are the same people who lecture him for not wanting to prolong a war that has already killed hundreds of thousands. The audacity! — https://nitter.kareem.one/skscartoon/status/2114136206430892494#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2114164137035219426#m",
-   "ts": 1792890984,
-   "id": "2114164137035219426#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Talarico is a far left extremist Gunther Eagleman™ (@GuntherEagleman) 🚨 BOMBSHELL: James Talarico’s Texas House record just got shredded by the numbers. When Republicans and Democrats split, Talarico sided with Democrats 96.8% of the time. That puts him in the TOP 7% most extreme left wing of the Texas House. In 2021, he voted with Republicans about as often as Jasmine Crockett did. Almost never. This is the same guy who said “God is non-binary” and talked about dismantling capitalism, white supremacy, and climate change as oppressive systems. Now he suddenly plays moderate against Ken Paxton. Texas, he did not change. He just wants your vote. — https://nitter.kareem.one/GuntherEagleman/status/2114134692718891414#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2114162296738263532#m",
-   "ts": 1792890545,
-   "id": "2114162296738263532#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "I remember sitting around a campfire shortly after the Ukraine war had just started with some Ukrainian friends. They shared that after they learned that Russian forces were jamming all communications they called Elon begging for Starlink support. Elon and the Starlink team instantly dropped everything they were working on, loaded a private jet with as many Starlink terminals as they could (terminals were in short supply at the time), and started flying the jet eastward while writing code to make terminals work over Ukraine. There was no contract or promise of payment for doing so, and no time to solve for that. My Ukrainian friends believed this saved the nation of Ukraine, and that without this effort Ukraine would have lost the war nearly instantly.",
    "url": "https://nitter.kareem.one/Austen/status/2114157885110264040#m",
    "ts": 1792889493,
    "id": "2114157885110264040#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "We finally get flying cars, and somehow that's fascist too. Imagine being so poisoned by the internet that you can’t enjoy anything anymore. Video",
-   "url": "https://nitter.kareem.one/PirateWires/status/2114154999253201270#m",
-   "ts": 1792888805,
-   "id": "2114154999253201270#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "“I have nothing but UTTER CONTEMPT for the virtue-signaling evil warmongers who push for endless slaughter and offer no realistic solution to the conflict. May you burn in hell.” 🔥 Elon Musk (@elonmusk) Correct. Using Starlink, a civilian commercial service, for offensive drone strikes to kill people has never been allowed, nor should it be. Starshield, a different system, is controlled by the US government. What they decide to do is up to them. Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed last week. Starlink remains critical to the defense of Ukraine, as it is the only system that cannot be jammed or blown up, at least for now. Were Starlink to be turned off, the Ukrainian front line would collapse immediately. This is NOT a threat, it is simply a statement of fact. Starlink was also crucial to preventing Russia from overrunning Ukraine in the early days of the war, as all other means of communication were destroyed or jammed by Russia. SpaceX has done more to defend Ukraine than any private company on Earth BY FAR. That said, I have nothing but UTTER CONTEMPT for the virtue-signaling evil warmongers who push for endless slaughter and offer no realistic solution to the conflict. May you burn in hell. End of story. — https://nitter.kareem.one/elonmusk/status/2114063986744275011#m",
-   "url": "https://nitter.kareem.one/alx/status/2114151893760901548#m",
-   "ts": 1792888065,
-   "id": "2114151893760901548#m"
   },
   {
    "handle": "swyx",
@@ -198,6 +180,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "Got a few texts & DMs this weekend that went: \"Just downloaded Grok Bot. HOLY SHIT. You were right.\" p.s. I am right. If you are not using Grok Bot you are messing up.",
+   "url": "https://nitter.kareem.one/stevenmarkryan/status/2114130275043262747#m",
+   "ts": 1792882910,
+   "id": "2114130275043262747#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "Completely acceptable to do a peaceful protest outside the Colosseum, but breaking into/vandalizing the Colosseum (or our Capitol like they did in January 6th) is not unacceptable. Tourism is a critical industry in Paris and Rome, so there is an argument that anyone disrupting it should face some additional penalties — like blocking the Bay Bridge in SF RadioGenoa (@RadioGenoa) Chaos in Rome. Masked rioters storm the Colosseum, forcing the entrance barriers. \"Peaceful protest\" they say. Unbelievable. Video — https://nitter.kareem.one/RadioGenoa/status/2114058406092779788#m",
    "url": "https://nitter.kareem.one/Jason/status/2114119487754498212#m",
    "ts": 1792880338,
@@ -216,33 +207,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Tribalism becomes far more dangerous whenever one “tribe” decides that it can’t coexist peacefully with the other. Elon Musk (@elonmusk) Politics is incredibly tribal. Most of those in one tribe can see nothing their tribe does wrong or anything good done by another political tribe. — https://nitter.kareem.one/elonmusk/status/2114064620411666919#m",
-   "url": "https://nitter.kareem.one/BasedMikeLee/status/2114098673336635489#m",
-   "ts": 1792875376,
-   "id": "2114098673336635489#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "James Talarico is a radical extremist. I crunched the numbers on his voting record. I show it. Whenever there was a disagreement between Republicans and Democrats in the Texas House during Talarico's time as a Texas Representative from 2019 to 2025, Talarico sided with Democrats 96.8% of the time. He sided with Republicans less often than 194 of 210 House members. Only 15 of 82 Democrats were more extreme. This puts his voting record in the top 7% most extreme left-wing among Texas House Representatives. In 2026, being an extreme Democrat is really cuckoo. For comparison, in 2021, the unhinged Jasmine Crockett was in the Texas House with Talarico. During that year, Crockett voted with Republicans 2.34% of the time. Talarico voted with them 2.38% of the time. Talarico's numbers were virtually the same as Jasmine Crockett's. Talarico has claimed that \"God is non-binary\" and that his goal is to \"dismantle\" \"capitalism, white supremacy, and climate change\". Now we can say with confidence that his voting record tells the same story as his words did -- until he recently suddenly changed his tune. Talarico's \"views\" started miraculously \"changing\" in the past few months. They became, as he says, \"moderate\", when he started campaigning against Ken Paxton for the U.S. Senate seat. What a coincidence. Talarico is lying. Talarico is a loony hiding his real views. He knows that voters would never elect him if he told them truth. So he doesn't.",
-   "url": "https://nitter.kareem.one/kevinnbass/status/2114092643525558494#m",
-   "ts": 1792873938,
-   "id": "2114092643525558494#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Talarico is damaged goods. Something wrong with him.",
-   "url": "https://nitter.kareem.one/kevinnbass/status/2114079102970016137#m",
-   "ts": 1792870710,
-   "id": "2114079102970016137#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Good data showing that NVIDIA AI infrastructure is a durable, investable asset that retains value. New applications and workloads keep landing on our fungible platform, increasing demand because of its productivity. Chart by @a16z a16z (@a16z) GPUs are aging like fine wine, with rental rates up across the board since January 1st Approximate change YTD: - H200: +160% - B200: +120% - RTX PRO 6000: +65% - H100: +35% Even the 6-year-old A100 rents for more than it did at the start of the year Charts of the Week: a16z.news/p/charts-of-the-we… — https://nitter.kareem.one/a16z/status/2113741008550990191#m",
    "url": "https://nitter.kareem.one/NVIDIAAIInfra/status/2114076938407194786#m",
    "ts": 1792870194,
@@ -256,6 +220,15 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2114074885622501706#m",
    "ts": 1792869705,
    "id": "2114074885622501706#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "If you're wondering why it's so important to Elon that Starlink not be used for military purposes... I suspect it's two fold: 1. Because he's not a fan of killing people. 2. Because it turns Starlink into a legitimate military target. The \"It's a public utility\" argument evaporates once it's being used to target and kill soldiers. Elon Musk does not owe the Ukrainian people millions of dollars worth of satellite that the Russian government will blow out of the sky with complete impunity. Elon Musk (@elonmusk) Correct. Using Starlink, a civilian commercial service, for offensive drone strikes to kill people has never been allowed, nor should it be. Starshield, a different system, is controlled by the US government. What they decide to do is up to them. Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed last week. Starlink remains critical to the defense of Ukraine, as it is the only system that cannot be jammed or blown up, at least for now. Were Starlink to be turned off, the Ukrainian front line would collapse immediately. This is NOT a threat, it is simply a statement of fact. Starlink was also crucial to preventing Russia from overrunning Ukraine in the early days of the war, as all other means of communication were destroyed or jammed by Russia. SpaceX has done more to defend Ukraine than any private company on Earth BY FAR. That said, I have nothing but UTTER CONTEMPT for the virtue-signali",
+   "url": "https://nitter.kareem.one/BlackDumpling/status/2114072402996891687#m",
+   "ts": 1792869113,
+   "id": "2114072402996891687#m"
   },
   {
    "handle": "elonmusk",
@@ -357,6 +330,24 @@
    "id": "2113995379138072781#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "SpaceX’s $SPCX Starlink just surpassed AT&T $T Fiber in subscribers after tripling its customer base in just seven quarters. What’s even more impressive is that Starlink is adding roughly 1.6 million subscribers per quarter versus about 400,000 for AT&T Fiber — showing how much faster satellite networks can scale compared to laying fiber street by street. Starlink’s connectivity CAGR sits at over 90% while AT&T Fiber manages around 17%. In a world racing toward AI / SI and orbital infrastructure, that gap isn’t just a statistic. It’s a structural advantage. Image data courtesy of Fiscal.ai",
+   "url": "https://nitter.kareem.one/SPCX100T/status/2113992881757421933#m",
+   "ts": 1792850153,
+   "id": "2113992881757421933#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Ukraine would have been overrun 10 times over if not for Musk giving them Starlink early on and denying Russia Starlink. The whole idea that he's some kind of monster because he also doesn't want people dying by the tens of thousands for nothing is insanity pushed by bad actors Josh Kraushaar (@JoshKraushaar) all of Musk's money can't change the fundamental reality of American public opinion: — https://nitter.kareem.one/JoshKraushaar/status/2113764742044991519#m",
+   "url": "https://nitter.kareem.one/johnhawkinsrwn/status/2113986365868138587#m",
+   "ts": 1792848600,
+   "id": "2113986365868138587#m"
+  },
+  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -382,6 +373,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2113811349281345578#m",
    "ts": 1792806873,
    "id": "2113811349281345578#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Walter Isaacson: \"[Elon Musk's] first two companies… both make him like 100 million or so.\" \"And instead of buying an island or buying a yacht, he wants to keep putting his chips on the table.\" \"So, he decides he wants to send a rocket to Mars.\" Video",
+   "url": "https://nitter.kareem.one/ResisttheMS/status/2113782270746051014#m",
+   "ts": 1792799940,
+   "id": "2113782270746051014#m"
   },
   {
    "handle": "thsottiaux",
