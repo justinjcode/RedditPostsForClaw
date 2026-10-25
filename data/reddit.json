@@ -1,15 +1,64 @@
 {
- "generated_at": "2026-10-24T18:13:37Z",
+ "generated_at": "2026-10-25T00:32:21Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
-  "selfhosted"
+  "MachineLearning",
+  "programming"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Is it just me or Kimi K3.1 Pro don’t look much better than DeepSeek 4.1 Flash?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xemxoq/is_it_just_me_or_kimi_k31_pro_dont_look_much/",
+   "ts": 1792884299,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Bridging two unmodified game engines at runtime: Minecraft (Java) inside Bannerlord (C#/DX11) over shared memory",
+   "url": "https://www.reddit.com/r/programming/comments/1xemwgr/bridging_two_unmodified_game_engines_at_runtime/",
+   "ts": 1792884204,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "CMP170HX inspiration unlocks 30x/40x also, up to 2X Prefill speedup --> NVIDIA RTX 30 & RTX 40 GPUs Get Impressively Fast In AI LLMs As Compute Doubles With New Unlock Tool But Prices Surge Too",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xelhpj/cmp170hx_inspiration_unlocks_30x40x_also_up_to_2x/",
+   "ts": 1792880215,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "M6 Mac Mini owners (32GB): now you can run Qwen3.8-27B in high quality on the Apple Neural Engine",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xejv61/m6_mac_mini_owners_32gb_now_you_can_run_qwen3827b/",
+   "ts": 1792875921,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Small model good for reverse engineering that can run on a 3090 and 32GB RAM.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeipmm/small_model_good_for_reverse_engineering_that_can/",
+   "ts": 1792872996,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "KLD is misunderstood",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeim3m/kld_is_misunderstood/",
+   "ts": 1792872748,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Made a rhythm game where 4 small neural nets listen to your song right in the browser tab (open source)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeia9o/made_a_rhythm_game_where_4_small_neural_nets/",
+   "ts": 1792871951,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "YT-DLP Web Player | Watch all internet videos with no ads, no distractions, no needed adblocks",
@@ -29,13 +78,6 @@
    "title": "Is exposing services via reverse proxy still secure enough?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xedisk/is_exposing_services_via_reverse_proxy_still/",
    "ts": 1792860465,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Just update of ik_llama.cpp fork and seek of feedback",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xed7a7/just_update_of_ik_llamacpp_fork_and_seek_of/",
-   "ts": 1792859696,
    "source": "Reddit"
   },
   {
@@ -110,13 +152,6 @@
   },
   {
    "subreddit": "programming",
-   "title": "Finding Flaws in Technical Documentation",
-   "url": "https://www.reddit.com/r/programming/comments/1xe854b/finding_flaws_in_technical_documentation/",
-   "ts": 1792847072,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
    "title": "Broccoli2Shell: Brotli decoder RCE (CVE-2026-111497) in Node.js, Python and more",
    "url": "https://www.reddit.com/r/programming/comments/1xe7dp8/broccoli2shell_brotli_decoder_rce_cve2026111497/",
    "ts": 1792844894,
@@ -130,24 +165,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "qwen3.8 27B on my 3090 basically tied Opus 5.5 on a Korean RAG benchmark, which I did not expect",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe4v74/qwen38_27b_on_my_3090_basically_tied_opus_55_on_a/",
-   "ts": 1792836470,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Got a pretrained music transformer to jam with me live, no fine-tuning, just steering the sampling [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xe4pex/got_a_pretrained_music_transformer_to_jam_with_me/",
    "ts": 1792835909,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Gyro quants looks like EXL3 but kinda closed source. please explain why we need this.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe41qe/gyro_quants_looks_like_exl3_but_kinda_closed/",
-   "ts": 1792833435,
    "source": "Reddit"
   },
   {
@@ -165,24 +186,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Spark X2.6 4B is the best of it's size",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe1kkh/spark_x26_4b_is_the_best_of_its_size/",
-   "ts": 1792824257,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Why Lean is faster than Rust",
    "url": "https://www.reddit.com/r/programming/comments/1xe1d60/why_lean_is_faster_than_rust/",
    "ts": 1792823495,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Sam Altman: OpenAI's best model \"can't responsibly be open-sourced\" until the world builds better cyberdefense and bio-security",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe0ioz/sam_altman_openais_best_model_cant_responsibly_be/",
-   "ts": 1792820478,
    "source": "Reddit"
   },
   {
@@ -263,13 +270,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Vibecoding your own inference engine is easy they said",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdh57e/vibecoding_your_own_inference_engine_is_easy_they/",
-   "ts": 1792769207,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "How to Make Things, and Why - Stuart Halloway (Clojure/Conj 2026)",
    "url": "https://www.reddit.com/r/programming/comments/1xdh3hh/how_to_make_things_and_why_stuart_halloway/",
@@ -309,13 +309,6 @@
    "title": "AAAI 2027 phase 2 reviews discussion [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xddbgv/aaai_2027_phase_2_reviews_discussion_d/",
    "ts": 1792760298,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "I made Transformer Architecture from scratch [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xdctou/i_made_transformer_architecture_from_scratch_p/",
-   "ts": 1792758972,
    "source": "Reddit"
   },
   {
@@ -372,6 +365,13 @@
    "title": "I built Open-XTTS-Trainer: Now you can add new language scripts and train all 3 XTTS v2 components in 1 click [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xcurgj/i_built_openxttstrainer_now_you_can_add_new/",
    "ts": 1792703008,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "We shrank our steerable small TTS to 11.84 MB. WER is unchanged, UTMOS drops ~0.1 [p]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xcum4s/we_shrank_our_steerable_small_tts_to_1184_mb_wer/",
+   "ts": 1792702662,
    "source": "Reddit"
   },
   {
