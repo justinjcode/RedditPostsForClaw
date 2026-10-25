@@ -1,20 +1,34 @@
 {
- "generated_at": "2026-10-25T02:17:30Z",
+ "generated_at": "2026-10-25T04:13:32Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
+  "MachineLearning",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
   {
+   "subreddit": "MachineLearning",
+   "title": "ASRN: Linear-memory long-range copying with learned proper-time clock [p]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xer72h/asrn_linearmemory_longrange_copying_with_learned/",
+   "ts": 1792897036,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
-   "title": "I built a WordPress-focused server panel after getting tired of using aaPanel",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xep06n/i_built_a_wordpressfocused_server_panel_after/",
-   "ts": 1792890302,
+   "title": "Is self-signed cert sufficient?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xeqwud/is_selfsigned_cert_sufficient/",
+   "ts": 1792896141,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "There is no ‘now’ in a distributed system",
+   "url": "https://www.reddit.com/r/programming/comments/1xeqtzb/there_is_no_now_in_a_distributed_system/",
+   "ts": 1792895898,
    "source": "Reddit"
   },
   {
@@ -355,13 +369,6 @@
   },
   {
    "subreddit": "MachineLearning",
-   "title": "I built Open-XTTS-Trainer: Now you can add new language scripts and train all 3 XTTS v2 components in 1 click [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xcurgj/i_built_openxttstrainer_now_you_can_add_new/",
-   "ts": 1792703008,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
    "title": "We shrank our steerable small TTS to 11.84 MB. WER is unchanged, UTMOS drops ~0.1 [p]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xcum4s/we_shrank_our_steerable_small_tts_to_1184_mb_wer/",
    "ts": 1792702662,
@@ -386,13 +393,6 @@
    "title": "Debunking \"Faster than Rust\": Malicious Benchmarks in Tov",
    "url": "https://www.reddit.com/r/programming/comments/1xcaveo/debunking_faster_than_rust_malicious_benchmarks/",
    "ts": 1792649848,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "PHP2Shell: Critical vulnerabilities in the backbone of the web",
-   "url": "https://www.reddit.com/r/programming/comments/1xbo19y/php2shell_critical_vulnerabilities_in_the/",
-   "ts": 1792591402,
    "source": "Reddit"
   },
   {
