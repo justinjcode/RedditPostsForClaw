@@ -1,27 +1,34 @@
 {
- "generated_at": "2026-10-25T00:32:21Z",
+ "generated_at": "2026-10-25T02:17:30Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
-  "programming"
+  "programming",
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "I built a WordPress-focused server panel after getting tired of using aaPanel",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xep06n/i_built_a_wordpressfocused_server_panel_after/",
+   "ts": 1792890302,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "How to restore containers, settings, etc.",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xeoonv/how_to_restore_containers_settings_etc/",
+   "ts": 1792889344,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Is it just me or Kimi K3.1 Pro don’t look much better than DeepSeek 4.1 Flash?",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xemxoq/is_it_just_me_or_kimi_k31_pro_dont_look_much/",
    "ts": 1792884299,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Bridging two unmodified game engines at runtime: Minecraft (Java) inside Bannerlord (C#/DX11) over shared memory",
-   "url": "https://www.reddit.com/r/programming/comments/1xemwgr/bridging_two_unmodified_game_engines_at_runtime/",
-   "ts": 1792884204,
    "source": "Reddit"
   },
   {
@@ -36,6 +43,13 @@
    "title": "M6 Mac Mini owners (32GB): now you can run Qwen3.8-27B in high quality on the Apple Neural Engine",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xejv61/m6_mac_mini_owners_32gb_now_you_can_run_qwen3827b/",
    "ts": 1792875921,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Kitchen Board, a self-hosted wall planner for the family kitchen, now at v1.5",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xejb0k/kitchen_board_a_selfhosted_wall_planner_for_the/",
+   "ts": 1792874499,
    "source": "Reddit"
   },
   {
@@ -61,16 +75,16 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "YT-DLP Web Player | Watch all internet videos with no ads, no distractions, no needed adblocks",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xeeasl/ytdlp_web_player_watch_all_internet_videos_with/",
-   "ts": 1792862319,
+   "title": "My new media server dashboard",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xei62u/my_new_media_server_dashboard/",
+   "ts": 1792871660,
    "source": "Reddit"
   },
   {
    "subreddit": "selfhosted",
-   "title": "A tool for convertion? pdf to this and that, image to this and that, and so on",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xedxkw/a_tool_for_convertion_pdf_to_this_and_that_image/",
-   "ts": 1792861439,
+   "title": "Using Authelia with only local domains without SSL certs?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xefntk/using_authelia_with_only_local_domains_without/",
+   "ts": 1792865611,
    "source": "Reddit"
   },
   {
@@ -78,13 +92,6 @@
    "title": "Is exposing services via reverse proxy still secure enough?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xedisk/is_exposing_services_via_reverse_proxy_still/",
    "ts": 1792860465,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Low/no code low cost options for desktop/mobile small business app",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xecvzu/lowno_code_low_cost_options_for_desktopmobile/",
-   "ts": 1792858937,
    "source": "Reddit"
   },
   {
@@ -194,13 +201,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Zen Notes v2.0: Note Versions, Auto Save, Linked Notes, API Tokens",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xe09v6/zen_notes_v20_note_versions_auto_save_linked/",
-   "ts": 1792819622,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "Kinnect v1.1.0 released",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xdy5kd/kinnect_v110_released/",
    "ts": 1792812624,
@@ -225,13 +225,6 @@
    "title": "🌋 Pushing PCIe x1 to the limit: lvgale concurrently serving 27B, 9B, and 2B LLMs on a hardware abomination 📈",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xdqem6/pushing_pcie_x1_to_the_limit_lvgale_concurrently/",
    "ts": 1792790363,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Another day another Dynacat release - 3.0.2",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xdptst/another_day_another_dynacat_release_302/",
-   "ts": 1792788961,
    "source": "Reddit"
   },
   {
@@ -393,6 +386,13 @@
    "title": "Debunking \"Faster than Rust\": Malicious Benchmarks in Tov",
    "url": "https://www.reddit.com/r/programming/comments/1xcaveo/debunking_faster_than_rust_malicious_benchmarks/",
    "ts": 1792649848,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "PHP2Shell: Critical vulnerabilities in the backbone of the web",
+   "url": "https://www.reddit.com/r/programming/comments/1xbo19y/php2shell_critical_vulnerabilities_in_the/",
+   "ts": 1792591402,
    "source": "Reddit"
   },
   {
