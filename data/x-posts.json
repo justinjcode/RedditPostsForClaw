@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-10-25T18:56:35Z",
+ "generated_at": "2026-10-25T19:07:01Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "On hidden camera in September, James Talarico said: \"The way I fought for trans kids in the legislature is how I will fight for them in the U.S. Senate. And my position hasn't changed.\" Here's how he fought. Talarico voted NO on: ❌ Keeping boys out of girls' sports ❌ Banning puberty blockers and hormones for minors ❌ Keeping men out of women's college sports ❌ Banning sexual performances in front of kids ❌ Insurance coverage for detransition care ❌ Defining male and female in state law ❌ Not treating it as abuse when parents don't affirm a child's gender ❌ Recording biological sex in medical records ❌ Banning gender identity lessons in K-12 ❌ Keeping men out of women's restrooms Ten votes. Ten NOs. Early voting ends Oct. 30. Go vote, Texas.",
+   "url": "https://nitter.kareem.one/KanekoaTheGreat/status/2114429762278215689#m",
+   "ts": 1792954314,
+   "id": "2114429762278215689#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -203,15 +211,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2114243303994486876#m",
    "ts": 1792909859,
    "id": "2114243303994486876#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Cool Texas Twins Dad (@Texas_Twins_Dad) Everyone said \"Hey Grok\" was impossible on iPhone. Even Grok said Apple keeps wake words for Siri only. So I kept digging, and I found a way. Now I just say \"Hey Grok\" and Grok Bot voice chat opens. No extra apps, no cost, all built into iOS. How to set it up: 1. Make sure your Grok Bot app is up to date 2. Shortcuts app → + → Add Action → search \"Grok Bot\" → pick \"Start Voice Chat with Bot\" 3. Settings → Accessibility → Vocal Shortcuts → Set Up → pick that shortcut → type \"Hey Grok\" and say it 3 times 4. In the shortcut's details, turn on \"Allow Running When Locked\" If your phone is locked, iOS asks for one tap first. If Face ID already unlocked it, it's fully hands-free. Video — https://nitter.kareem.one/Texas_Twins_Dad/status/2114217410823688573#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2114242922006897145#m",
-   "ts": 1792909767,
-   "id": "2114242922006897145#m"
   },
   {
    "handle": "thsottiaux",
