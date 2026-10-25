@@ -1,20 +1,48 @@
 {
- "generated_at": "2026-10-25T10:11:29Z",
+ "generated_at": "2026-10-25T12:16:09Z",
  "count": 60,
  "subreddits_ok": [
+  "LocalLLaMA",
   "MachineLearning",
-  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
   {
+   "subreddit": "LocalLLaMA",
+   "title": "Nanbeige/Nanbeige4.3-33B · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf0kz4/nanbeigenanbeige4333b_hugging_face/",
+   "ts": 1792929694,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
-   "title": "are SMTP gateways good to fix email server on blacklisted IP problem",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xeyldq/are_smtp_gateways_good_to_fix_email_server_on/",
-   "ts": 1792922982,
+   "title": "TREK 5.0: the only travel app you will ever need to self-host. Plan the trip, route the hike, split the costs, print the photo book, and more",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xf0g6j/trek_50_the_only_travel_app_you_will_ever_need_to/",
+   "ts": 1792929309,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Somnaura: self-hosted Discord bot that loops your own ambient audio files (rain, white noise, sleep sounds)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xezsw3/somnaura_selfhosted_discord_bot_that_loops_your/",
+   "ts": 1792927137,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "iOS app for accessing bookorbit",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xeza6i/ios_app_for_accessing_bookorbit/",
+   "ts": 1792925403,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Would you self-host a \"digital estate\" vacuum to pull your cloud accounts locally?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xez4ro/would_you_selfhost_a_digital_estate_vacuum_to/",
+   "ts": 1792924883,
    "source": "Reddit"
   },
   {
@@ -25,17 +53,17 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "NPM 403's with Filebrowser Quantam; everything else is fine, please help?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xey0vb/npm_403s_with_filebrowser_quantam_everything_else/",
-   "ts": 1792920913,
+   "subreddit": "LocalLLaMA",
+   "title": "CUDA: fuse FFN gate/up matmuls and GLU in MMQ with interleaved gate/up rows by anujj · Pull Request #29948 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xey0uw/cuda_fuse_ffn_gateup_matmuls_and_glu_in_mmq_with/",
+   "ts": 1792920912,
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "I created an open source Workshop Timer that you can make your own",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xexnod/i_created_an_open_source_workshop_timer_that_you/",
-   "ts": 1792919510,
+   "subreddit": "LocalLLaMA",
+   "title": "With the huge price hike on the 32GB VRAM scene, I’m reconsidering my purchase options. Any input or advice?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xexe1m/with_the_huge_price_hike_on_the_32gb_vram_scene/",
+   "ts": 1792918538,
    "source": "Reddit"
   },
   {
@@ -124,13 +152,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "Is it just me or Kimi K3.1 Pro don’t look much better than DeepSeek 4.1 Flash?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xemxoq/is_it_just_me_or_kimi_k31_pro_dont_look_much/",
-   "ts": 1792884299,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "CMP170HX inspiration unlocks 30x/40x also, up to 2X Prefill speedup --> NVIDIA RTX 30 & RTX 40 GPUs Get Impressively Fast In AI LLMs As Compute Doubles With New Unlock Tool But Prices Surge Too",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xelhpj/cmp170hx_inspiration_unlocks_30x40x_also_up_to_2x/",
    "ts": 1792880215,
@@ -151,13 +172,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Made a rhythm game where 4 small neural nets listen to your song right in the browser tab (open source)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeia9o/made_a_rhythm_game_where_4_small_neural_nets/",
-   "ts": 1792871951,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "My new media server dashboard",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xei62u/my_new_media_server_dashboard/",
@@ -172,13 +186,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "JLTamp, a self-hosted music server with its own Android/iOS apps, CarPlay/Android Auto and a Subsonic API (MIT, one Docker container)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xeck9x/jltamp_a_selfhosted_music_server_with_its_own/",
-   "ts": 1792858151,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Kimi K3.1 removes cyberattack training data from open weight release",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xecgrf/kimi_k31_removes_cyberattack_training_data_from/",
@@ -190,13 +197,6 @@
    "title": "One year in, still extremely happy with my selfhosting journey",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xec0wd/one_year_in_still_extremely_happy_with_my/",
    "ts": 1792856861,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "8 GB GPU, 262K context 3.5 BPW Qwen-Flash-Next Coder 70 T/s using llama.cpp",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xebdzl/8_gb_gpu_262k_context_35_bpw_qwenflashnext_coder/",
-   "ts": 1792855310,
    "source": "Reddit"
   },
   {
