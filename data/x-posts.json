@@ -1,6 +1,9 @@
 {
- "generated_at": "2026-10-25T04:09:45Z",
+ "generated_at": "2026-10-25T04:27:39Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -8,13 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Back to the Moon NASA (@NASA) LIVE: @NASAAdmin and agency leaders are sharing the latest updates on next year's Artemis III mission and our plans to return astronauts to the surface of the Moon by 2028. nitterk.kareem.one/i/broadcasts/1RJZzBdZY… Link NASA Artemis Acceleration https://nitter.kareem.one/i/broadcasts/1RJZzBdZYQgJB — https://nitter.kareem.one/NASA/status/2113693409772761305#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2114205997350690837#m",
+   "ts": 1792900964,
+   "id": "2114205997350690837#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -214,6 +222,15 @@
    "id": "2114079102970016137#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Good data showing that NVIDIA AI infrastructure is a durable, investable asset that retains value. New applications and workloads keep landing on our fungible platform, increasing demand because of its productivity. Chart by @a16z a16z (@a16z) GPUs are aging like fine wine, with rental rates up across the board since January 1st Approximate change YTD: - H200: +160% - B200: +120% - RTX PRO 6000: +65% - H100: +35% Even the 6-year-old A100 rents for more than it did at the start of the year Charts of the Week: a16z.news/p/charts-of-the-we… — https://nitter.kareem.one/a16z/status/2113741008550990191#m",
+   "url": "https://nitter.kareem.one/NVIDIAAIInfra/status/2114076938407194786#m",
+   "ts": 1792870194,
+   "id": "2114076938407194786#m"
+  },
+  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -241,24 +258,6 @@
    "id": "2114070875213537474#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Starlink in Bolivia! ❤️🇧🇴 Fireside Alpha (@firesidealpha) Bolivian President says Starlink will make information “open to everyone,” with a connection even “in the deepest ravine,” as 4,700 antennas go to schools nationwide Rodrigo Paz (President): “…it’s the same kind of network we are building through this system of Starlink antennas, to create a network of information and communication and to decentralize the power that some hold when only a few keep the information. Now information will be open to everyone.” “It’s more than 4,000 antennas, 4,700 antennas if I’m not mistaken, nationwide for every department, but especially for rural municipalities, because you don’t only need a road to communicate, you need information to make decisions...” \"...It doesn't matter where in the country you are, in the deepest ravine, you'll have a connection there. It's not one satellite, it's many satellites, thousands of satellites that are going to serve Bolivia.\" Video — https://nitter.kareem.one/firesidealpha/status/2114006956679799232#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2114065201939034225#m",
-   "ts": 1792867396,
-   "id": "2114065201939034225#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Politics is incredibly tribal. Most of those in one tribe can see nothing their tribe does wrong or anything good done by another political tribe. C3 (@C_3C_3) The Dems and Media… 2017: Elon is great 2018: Elon is great 2019: Elon is great 2020: Elon is great 2021: Elon is great 2022: Elon is great 2023: Elon is great Endorses Trump and MAGA 2024: Elon is a RACIST 2025: Elon is a NAZI 2026: Elon is a FASCIST You can’t unsee it… — https://nitter.kareem.one/C_3C_3/status/2114004969435136445#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2114064620411666919#m",
-   "ts": 1792867257,
-   "id": "2114064620411666919#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -266,6 +265,15 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2114030784625647855#m",
    "ts": 1792859190,
    "id": "2114030784625647855#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "But imagine if the US aim was broad-based egalitarian growth rather than geopolitical dominance. We could pursue a whole range of policies to complement Chinese investment and support host countries in pressing it to serve workers and local economies as well as the investors. 3/",
+   "url": "https://nitter.kareem.one/jwdwerner/status/2114028658511732816#m",
+   "ts": 1792858683,
+   "id": "2114028658511732816#m"
   },
   {
    "handle": "swyx",
@@ -1490,15 +1498,6 @@
    "url": "https://nitter.kareem.one/bunjavascript/status/2110692261508079721#m",
    "ts": 1792063224,
    "id": "2110692261508079721#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "China has consistently said it doesn't want a trade war and prefers dialogue and negotiation. But China will defend its legitimate interests. If the EU widens trade-defence measures, China will have to respond... The Newsmakers (@The_Newsmakers) Following the recent EU-China trade talks, Serena Xue Dong from the Center for China and Globalization warns that tit-for-tat trade restrictions could deepen divisions despite ongoing efforts to resolve differences through dialogue. Full episode: inv.kareem.one/watch?v=2IwQoA8b… Video — https://nitter.kareem.one/The_Newsmakers/status/2110373633528828248#m",
-   "url": "https://nitter.kareem.one/theserenadong/status/2110560409031991688#m",
-   "ts": 1792031788,
-   "id": "2110560409031991688#m"
   },
   {
    "handle": "bcherny",
