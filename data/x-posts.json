@@ -1,9 +1,6 @@
 {
- "generated_at": "2026-10-25T03:51:52Z",
+ "generated_at": "2026-10-25T04:09:45Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +8,22 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The way to think about this is: How many super smart and dedicated people do you want to hire? And they keep getting better. a16z (@a16z) Zooming out, GPUs are still renting ahead of a standard 6-year depreciation schedule Rental price vs. schedule: - H200: +143% - B200: +111% - RTX PRO 6000: +73% - H100: +54% - A100: +9% Most of the gap opened up after April, when token demand took off Charts of the Week: a16z.news/p/charts-of-the-we… — https://nitter.kareem.one/a16z/status/2113986385908842870#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2114205004340854795#m",
+   "ts": 1792900727,
+   "id": "2114205004340854795#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -247,15 +257,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2114064620411666919#m",
    "ts": 1792867257,
    "id": "2114064620411666919#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Correct. Using Starlink, a civilian commercial service, for offensive drone strikes to kill people has never been allowed, nor should it be. Starshield, a different system, is controlled by the US government. What they decide to do is up to them. Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed last week. Starlink remains critical to the defense of Ukraine, as it is the only system that cannot be jammed or blown up, at least for now. Were Starlink to be turned off, the Ukrainian front line would collapse immediately. This is NOT a threat, it is simply a statement of fact. Starlink was also crucial to preventing Russia from overrunning Ukraine in the early days of the war, as all other means of communication were destroyed or jammed by Russia. SpaceX has done more to defend Ukraine than any private company on Earth BY FAR. That said, I have nothing but UTTER CONTEMPT for the virtue-signaling evil warmongers who push for endless slaughter and offer no realistic solution to the conflict. May you burn in hell. End of story. varifrank (@varifrank) STARLINK WORKS THE SAME WAY ITS ALWAYS WORKED. ITS NOT A WEAPONS SYSTEM, NO MATTER HOW MUCH UKRAINE WANTS IT TO BE. — https://nitter.kareem.one/varifrank/status/2113997959117561902#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2114063986744275011#m",
-   "ts": 1792867106,
-   "id": "2114063986744275011#m"
   },
   {
    "handle": "thsottiaux",
