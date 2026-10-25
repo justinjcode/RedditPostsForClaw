@@ -1,15 +1,71 @@
 {
- "generated_at": "2026-10-25T12:16:09Z",
+ "generated_at": "2026-10-25T18:13:30Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "ANAS turned my bare Proxmox box into a full-featured NAS",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xf81b6/anas_turned_my_bare_proxmox_box_into_a/",
+   "ts": 1792948572,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "What do you actually use to detect intrusions on your self-hosted servers?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xf6op6/what_do_you_actually_use_to_detect_intrusions_on/",
+   "ts": 1792945412,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Hardening my Server",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xf5g5s/hardening_my_server/",
+   "ts": 1792942521,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Monitoring my FRITZ!Box and home devices: feedback?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xf4vcz/monitoring_my_fritzbox_and_home_devices_feedback/",
+   "ts": 1792941119,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Just finished my multiplayer system in C and turns out we can support 50k players in a single server at 60hz simulation tick",
+   "url": "https://www.reddit.com/r/programming/comments/1xf4c5d/just_finished_my_multiplayer_system_in_c_and/",
+   "ts": 1792939838,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "[Update] 1 month after sharing EdgeEver on r/selfhosted (1.2k → 2.7k ⭐): We shipped notebook-to-website publishing, database tables + public forms, architecture diagrams, ACP local agents & more!",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xf3z26/update_1_month_after_sharing_edgeever_on/",
+   "ts": 1792938938,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Matrix server - which one is it for you?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xf3ubr/matrix_server_which_one_is_it_for_you/",
+   "ts": 1792938610,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "What are your selfhosting gems",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xf2zcl/what_are_your_selfhosting_gems/",
+   "ts": 1792936492,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Nanbeige/Nanbeige4.3-33B · Hugging Face",
@@ -25,17 +81,17 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Somnaura: self-hosted Discord bot that loops your own ambient audio files (rain, white noise, sleep sounds)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xezsw3/somnaura_selfhosted_discord_bot_that_loops_your/",
-   "ts": 1792927137,
+   "subreddit": "programming",
+   "title": "Rewinding the exponential: How we keep hardware usage down",
+   "url": "https://www.reddit.com/r/programming/comments/1xf0aai/rewinding_the_exponential_how_we_keep_hardware/",
+   "ts": 1792928764,
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "iOS app for accessing bookorbit",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xeza6i/ios_app_for_accessing_bookorbit/",
-   "ts": 1792925403,
+   "subreddit": "programming",
+   "title": "HTMX creator on the history of REST and why he thinks we got it wrong",
+   "url": "https://www.reddit.com/r/programming/comments/1xezyoh/htmx_creator_on_the_history_of_rest_and_why_he/",
+   "ts": 1792927691,
    "source": "Reddit"
   },
   {
@@ -43,13 +99,6 @@
    "title": "Would you self-host a \"digital estate\" vacuum to pull your cloud accounts locally?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xez4ro/would_you_selfhost_a_digital_estate_vacuum_to/",
    "ts": 1792924883,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Where to store databases and configs?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xeygfw/where_to_store_databases_and_configs/",
-   "ts": 1792922501,
    "source": "Reddit"
   },
   {
@@ -102,13 +151,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "What else can I do",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xetagq/what_else_can_i_do/",
-   "ts": 1792903781,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "[Benchmark] Strata/Basalt runs Qwen3.8 Flash Next IQ3_S with 16GB VRAM and 55GB RAM with up to 250 tok/s generation and 5,600 tok/s prompt processing (5080, Concurrency 1)",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xesda1/benchmark_stratabasalt_runs_qwen38_flash_next_iq3/",
@@ -134,20 +176,6 @@
    "title": "OpenAI and Anthropic blocked the reverse engineering of smart TVs spying on us",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xer30z/openai_and_anthropic_blocked_the_reverse/",
    "ts": 1792896678,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Is self-signed cert sufficient?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xeqwud/is_selfsigned_cert_sufficient/",
-   "ts": 1792896141,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "There is no ‘now’ in a distributed system",
-   "url": "https://www.reddit.com/r/programming/comments/1xeqtzb/there_is_no_now_in_a_distributed_system/",
-   "ts": 1792895898,
    "source": "Reddit"
   },
   {
@@ -221,24 +249,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "What tools do you use to keep your containers up to date?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xe73gj/what_tools_do_you_use_to_keep_your_containers_up/",
-   "ts": 1792844028,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Got a pretrained music transformer to jam with me live, no fine-tuning, just steering the sampling [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xe4pex/got_a_pretrained_music_transformer_to_jam_with_me/",
    "ts": 1792835909,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Not even 2 years ago.....",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xdxbqa/not_even_2_years_ago/",
-   "ts": 1792809988,
    "source": "Reddit"
   },
   {
@@ -295,13 +309,6 @@
    "title": "Is symbolic ai dead? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdekrf/is_symbolic_ai_dead_d/",
    "ts": 1792763356,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Windows DEMO Audio Engine for mixing & mastering",
-   "url": "https://www.reddit.com/r/programming/comments/1xdefpv/windows_demo_audio_engine_for_mixing_mastering/",
-   "ts": 1792763039,
    "source": "Reddit"
   },
   {
@@ -386,13 +393,6 @@
    "title": "Debunking \"Faster than Rust\": Malicious Benchmarks in Tov",
    "url": "https://www.reddit.com/r/programming/comments/1xcaveo/debunking_faster_than_rust_malicious_benchmarks/",
    "ts": 1792649848,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "PHP2Shell: Critical vulnerabilities in the backbone of the web",
-   "url": "https://www.reddit.com/r/programming/comments/1xbo19y/php2shell_critical_vulnerabilities_in_the/",
-   "ts": 1792591402,
    "source": "Reddit"
   },
   {
