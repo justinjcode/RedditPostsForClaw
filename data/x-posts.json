@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-10-25T18:42:54Z",
+ "generated_at": "2026-10-25T18:56:35Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "with @mattbergland running aie.codes sponsorship the Token Billionaire program has shot up in demand and value... at the same time that my own token application has found PMF (eg for building l.sc ) . we may have to create a new level of token billionaire soon... Era Qian 👩‍🚀🔎 (@eraqian) The new billionaires aren’t measured in dollars, but tokens. NYC tech events are going all out 💅 Day 1 of @aiDotEngineer : Welcome to @Devin ’s Token Billionaire Lounge, AI’s new luxury class. Burn billions of tokens, get haircuts, facials, massages, bespoke tailoring & vinyl sessions. H/T to @mattbergland @swyx & zac! — https://nitter.kareem.one/eraqian/status/2109785394761851326#m",
+   "url": "https://nitter.kareem.one/swyx/status/2114426679674425525#m",
+   "ts": 1792953579,
+   "id": "2114426679674425525#m"
+  },
   {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
@@ -22,6 +32,15 @@
    "url": "https://nitter.kareem.one/Joshua_Eisenman/status/2114395255860838705#m",
    "ts": 1792946087,
    "id": "2114395255860838705#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "James Talarico now wants Texans to believe he's changed his radical views on transgender issues. His Texas House record says otherwise. Talarico voted NO on: ❌ Keeping boys out of girls' sports ❌ Banning puberty blockers and hormones for minors ❌ Keeping men out of women's college sports ❌ Banning sexual performances in front of kids ❌ Insurance coverage for detransition care ❌ Defining male and female in state law ❌ Not treating it as abuse when parents don't affirm a child's gender ❌ Recording biological sex in medical records ❌ Banning gender identity lessons in K-12 ❌ Keeping men out of women's restrooms On hidden camera in September, he said: \"The way I fought for trans kids in the legislature is how I will fight for them in the U.S. Senate. And my position hasn't changed.\" Ten votes. Ten NOs. Early voting ends Oct. 30. Go vote, Texas. Video",
+   "url": "https://nitter.kareem.one/KanekoaTheGreat/status/2114391670502679039#m",
+   "ts": 1792945232,
+   "id": "2114391670502679039#m"
   },
   {
    "handle": "elonmusk",
@@ -391,15 +410,6 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2113995379138072781#m",
    "ts": 1792850749,
    "id": "2113995379138072781#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "SpaceX’s $SPCX Starlink just surpassed AT&T $T Fiber in subscribers after tripling its customer base in just seven quarters. What’s even more impressive is that Starlink is adding roughly 1.6 million subscribers per quarter versus about 400,000 for AT&T Fiber — showing how much faster satellite networks can scale compared to laying fiber street by street. Starlink’s connectivity CAGR sits at over 90% while AT&T Fiber manages around 17%. In a world racing toward AI / SI and orbital infrastructure, that gap isn’t just a statistic. It’s a structural advantage. Image data courtesy of Fiscal.ai",
-   "url": "https://nitter.kareem.one/SPCX100T/status/2113992881757421933#m",
-   "ts": 1792850153,
-   "id": "2113992881757421933#m"
   },
   {
    "handle": "thsottiaux",
@@ -823,15 +833,6 @@
    "url": "https://nitter.kareem.one/eliebakouch/status/2113388284663447937#m",
    "ts": 1792706006,
    "id": "2113388284663447937#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "imo this is the right attitude - dont blame AI for finding the bugs, just fucking lock in on clearing all the bugs asap latent.space/p/ainews-openai… Link [AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities... The Big Hardening begins latent.space Julian Pani (@JulianPani) The folks at @latentspacepod with the perfect take, as usual: — https://nitter.kareem.one/JulianPani/status/2113330387136995497#m",
-   "url": "https://nitter.kareem.one/swyx/status/2113359027682050352#m",
-   "ts": 1792699031,
-   "id": "2113359027682050352#m"
   },
   {
    "handle": "simonw",
