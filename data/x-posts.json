@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T07:26:46Z",
+ "generated_at": "2026-10-25T07:39:39Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -774,6 +774,15 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
+   "text": "glm 5.3 max reasoning effort top 2 on first problem, top 1 on the second ranking: Problem 1 (target 2025) GPT-6 Astra: 8.53s GLM-5.3: 10.87s Scott Wu: ~13.2s Opus 5.5: 13.46s Gemini 4 Argon: 19.87s Muse Wonder: 64.65s Grok 4.7: 94.02s Problem 2 (target 6843) GLM-5.3: 4.50s Opus 5.5: 10.17s Gemini 4 Argon: 13.48s GPT-6 Astra: 19.74s Scott Wu: ~20.8s Grok 4.7: 49.53s Muse Wonder: 50.70s Video kori rogers (@korigero) Scott Wu vs. the models Video — https://nitter.kareem.one/korigero/status/2113337096345981124#m",
+   "url": "https://nitter.kareem.one/eliebakouch/status/2113388284663447937#m",
+   "ts": 1792706006,
+   "id": "2113388284663447937#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
    "text": "imo this is the right attitude - dont blame AI for finding the bugs, just fucking lock in on clearing all the bugs asap latent.space/p/ainews-openai… Link [AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities... The Big Hardening begins latent.space Julian Pani (@JulianPani) The folks at @latentspacepod with the perfect take, as usual: — https://nitter.kareem.one/JulianPani/status/2113330387136995497#m",
    "url": "https://nitter.kareem.one/swyx/status/2113359027682050352#m",
    "ts": 1792699031,
@@ -859,15 +868,6 @@
    "url": "https://nitter.kareem.one/aiDotEngineer/status/2113284239328465316#m",
    "ts": 1792681200,
    "id": "2113284239328465316#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Opus 5.5 is the best work estimator model i've ever used. This is calibration that is increasingly important as we delegate more and more work — don't tell me that it's going to take 2-3 working days (what a human would do) when for you, an enthusiastic, indefatigable, and embarrasingly parallelizable AGI, can get it done in 2-3 hours.",
-   "url": "https://nitter.kareem.one/swyx/status/2113283272130412684#m",
-   "ts": 1792680969,
-   "id": "2113283272130412684#m"
   },
   {
    "handle": "TheRundownAI",
