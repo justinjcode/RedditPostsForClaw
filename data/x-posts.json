@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T14:38:44Z",
+ "generated_at": "2026-10-25T14:45:29Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,33 @@
  "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok @Bot can now call someone or a business for you, make a request on your behalf, take notes on the response and send you a note summarizing the conversation! Alex (@alexmichaelio) Grok Bot 0.77 looks INSANE 🔥 > Calls: your Bot can dial someone, sit on hold, press keys and get transferred while you watch a live transcript > Messages on Mac: a setup screen under Connect Apps, still switched off > Tailscale: Grok Bot can join your private tailnet once an admin approves it > Payments: a screen to connect payment accounts and pick a default, on top of yesterday’s Vault > Sharing: emails when someone shares a Bot with you, and invites need Premium or Ultra — https://nitter.kareem.one/alexmichaelio/status/2114056103373758724#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2114365361068138990#m",
+   "ts": 1792938959,
+   "id": "2114365361068138990#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Try Grok @Bot Brad Gerstner (@altcap) Thanks for the overwhelming response. @bot to the rescue - helping me process all these Sunday morning gifts - from gathering all the QR codes to processing the payments - @bot truly elite! 🤖💰🇺🇸 — https://nitter.kareem.one/altcap/status/2114357249988505790#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2114364277595488330#m",
+   "ts": 1792938701,
+   "id": "2114364277595488330#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Over the past ten years, Tesla has sold over 10 million cars capable of driving from wherever they are to wherever the owner wants to go and parking itself when it gets there. Zero other automakers have sold even one. $TSLA @elonmusk",
+   "url": "https://nitter.kareem.one/ICannot_Enough/status/2114364133495775234#m",
+   "ts": 1792938667,
+   "id": "2114364133495775234#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -114,24 +141,6 @@
    "id": "2114235125496250766#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Back to the Moon NASA (@NASA) LIVE: @NASAAdmin and agency leaders are sharing the latest updates on next year's Artemis III mission and our plans to return astronauts to the surface of the Moon by 2028. nitterk.kareem.one/i/broadcasts/1RJZzBdZY… Link NASA Artemis Acceleration https://nitter.kareem.one/i/broadcasts/1RJZzBdZYQgJB — https://nitter.kareem.one/NASA/status/2113693409772761305#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2114205997350690837#m",
-   "ts": 1792900964,
-   "id": "2114205997350690837#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The way to think about this is: How many super smart and dedicated people do you want to hire? And they keep getting better. a16z (@a16z) Zooming out, GPUs are still renting ahead of a standard 6-year depreciation schedule Rental price vs. schedule: - H200: +143% - B200: +111% - RTX PRO 6000: +73% - H100: +54% - A100: +9% Most of the gap opened up after April, when token demand took off Charts of the Week: a16z.news/p/charts-of-the-we… — https://nitter.kareem.one/a16z/status/2113986385908842870#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2114205004340854795#m",
-   "ts": 1792900727,
-   "id": "2114205004340854795#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -211,15 +220,6 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2114119209546342910#m",
    "ts": 1792880272,
    "id": "2114119209546342910#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Good data showing that NVIDIA AI infrastructure is a durable, investable asset that retains value. New applications and workloads keep landing on our fungible platform, increasing demand because of its productivity. Chart by @a16z a16z (@a16z) GPUs are aging like fine wine, with rental rates up across the board since January 1st Approximate change YTD: - H200: +160% - B200: +120% - RTX PRO 6000: +65% - H100: +35% Even the 6-year-old A100 rents for more than it did at the start of the year Charts of the Week: a16z.news/p/charts-of-the-we… — https://nitter.kareem.one/a16z/status/2113741008550990191#m",
-   "url": "https://nitter.kareem.one/NVIDIAAIInfra/status/2114076938407194786#m",
-   "ts": 1792870194,
-   "id": "2114076938407194786#m"
   },
   {
    "handle": "thsottiaux",
