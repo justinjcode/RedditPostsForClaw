@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-10-25T03:32:31Z",
+ "generated_at": "2026-10-25T03:51:52Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,27 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "By midnight PST",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2114200291319124163#m",
+   "ts": 1792899604,
+   "id": "2114200291319124163#m"
+  },
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Day 20/ Rest and reset",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2114200152701575656#m",
+   "ts": 1792899571,
+   "id": "2114200152701575656#m"
+  },
   {
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
@@ -1355,24 +1372,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2112034063934742720#m",
    "ts": 1792383135,
    "id": "2112034063934742720#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Day 14/ Small quality of life improvement. You can now edit previous messages within a thread in the desktop app. Long time requested, and took way too long to get that one out.",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2111990254408434095#m",
-   "ts": 1792372690,
-   "id": "2111990254408434095#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "People have escaped the TL and are asking me for resets on the street now. I’ll make little cards to hand out",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2111918768733753664#m",
-   "ts": 1792355646,
-   "id": "2111918768733753664#m"
   },
   {
    "handle": "ZichenWanghere",
