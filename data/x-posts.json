@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T21:54:26Z",
+ "generated_at": "2026-10-25T22:09:41Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -40,6 +40,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2114455152136745221#m",
    "ts": 1792960367,
    "id": "2114455152136745221#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Your coding agent's verbosity is a code review problem. Ben Holmes at AIE NY on scoring redundant tests and noisy explanations. Scaling without Slop at AIE CODE. November 10 to 12, San Francisco. Apply to attend: ai.engineer/code Video",
+   "url": "https://nitter.kareem.one/aiDotEngineer/status/2114446906067935425#m",
+   "ts": 1792958401,
+   "id": "2114446906067935425#m"
   },
   {
    "handle": "elonmusk",
@@ -823,15 +832,6 @@
    "url": "https://nitter.kareem.one/eliebakouch/status/2113388284663447937#m",
    "ts": 1792706006,
    "id": "2113388284663447937#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "imo this is the right attitude - dont blame AI for finding the bugs, just fucking lock in on clearing all the bugs asap latent.space/p/ainews-openai… Link [AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities... The Big Hardening begins latent.space Julian Pani (@JulianPani) The folks at @latentspacepod with the perfect take, as usual: — https://nitter.kareem.one/JulianPani/status/2113330387136995497#m",
-   "url": "https://nitter.kareem.one/swyx/status/2113359027682050352#m",
-   "ts": 1792699031,
-   "id": "2113359027682050352#m"
   },
   {
    "handle": "simonw",
