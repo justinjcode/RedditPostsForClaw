@@ -1,18 +1,17 @@
 {
- "generated_at": "2026-10-25T02:56:08Z",
+ "generated_at": "2026-10-25T03:11:12Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
   {
@@ -133,6 +132,15 @@
    "id": "2114145315196711194#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Completely acceptable to do a peaceful protest outside the Colosseum, but breaking into/vandalizing the Colosseum (or our Capitol like they did in January 6th) is not unacceptable. Tourism is a critical industry in Paris and Rome, so there is an argument that anyone disrupting it should face some additional penalties — like blocking the Bay Bridge in SF RadioGenoa (@RadioGenoa) Chaos in Rome. Masked rioters storm the Colosseum, forcing the entrance barriers. \"Peaceful protest\" they say. Unbelievable. Video — https://nitter.kareem.one/RadioGenoa/status/2114058406092779788#m",
+   "url": "https://nitter.kareem.one/Jason/status/2114119487754498212#m",
+   "ts": 1792880338,
+   "id": "2114119487754498212#m"
+  },
+  {
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
    "author": "@realDonaldTrump",
@@ -230,15 +238,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2114063986744275011#m",
    "ts": 1792867106,
    "id": "2114063986744275011#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Why Phones Think Starlink Satellites Are Cell Towers Video",
-   "url": "https://nitter.kareem.one/farzyness/status/2114039127943610496#m",
-   "ts": 1792861179,
-   "id": "2114039127943610496#m"
   },
   {
    "handle": "thsottiaux",
