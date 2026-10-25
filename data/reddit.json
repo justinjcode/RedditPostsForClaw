@@ -1,20 +1,41 @@
 {
- "generated_at": "2026-10-25T08:14:36Z",
+ "generated_at": "2026-10-25T10:11:29Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
+  "MachineLearning",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
   {
-   "subreddit": "programming",
-   "title": "Fabric pipelines fail together after an account or device change",
-   "url": "https://www.reddit.com/r/programming/comments/1xewmlu/fabric_pipelines_fail_together_after_an_account/",
-   "ts": 1792915700,
+   "subreddit": "selfhosted",
+   "title": "are SMTP gateways good to fix email server on blacklisted IP problem",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xeyldq/are_smtp_gateways_good_to_fix_email_server_on/",
+   "ts": 1792922982,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Where to store databases and configs?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xeygfw/where_to_store_databases_and_configs/",
+   "ts": 1792922501,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "NPM 403's with Filebrowser Quantam; everything else is fine, please help?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xey0vb/npm_403s_with_filebrowser_quantam_everything_else/",
+   "ts": 1792920913,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "I created an open source Workshop Timer that you can make your own",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xexnod/i_created_an_open_source_workshop_timer_that_you/",
+   "ts": 1792919510,
    "source": "Reddit"
   },
   {
@@ -36,6 +57,20 @@
    "title": "A 4B coding model that can generate 3D scenes",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeuo7t/a_4b_coding_model_that_can_generate_3d_scenes/",
    "ts": 1792908659,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "ICLR 2027 is still handing out desk rejects [N]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu2z1/iclr_2027_is_still_handing_out_desk_rejects_n/",
+   "ts": 1792906536,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "memt-1.0 architecture breakdown gated deltanet-2, mixture-of-storage, and 66x smaller storage footprint for agent memory [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu0ht/memt10_architecture_breakdown_gated_deltanet2/",
+   "ts": 1792906279,
    "source": "Reddit"
   },
   {
@@ -67,13 +102,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "ASRN: Linear-memory long-range copying with learned proper-time clock [p]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xer72h/asrn_linearmemory_longrange_copying_with_learned/",
-   "ts": 1792897036,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "OpenAI and Anthropic blocked the reverse engineering of smart TVs spying on us",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xer30z/openai_and_anthropic_blocked_the_reverse/",
@@ -92,13 +120,6 @@
    "title": "There is no ‘now’ in a distributed system",
    "url": "https://www.reddit.com/r/programming/comments/1xeqtzb/there_is_no_now_in_a_distributed_system/",
    "ts": 1792895898,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "How to restore containers, settings, etc.",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xeoonv/how_to_restore_containers_settings_etc/",
-   "ts": 1792889344,
    "source": "Reddit"
   },
   {
@@ -145,13 +166,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Using Authelia with only local domains without SSL certs?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xefntk/using_authelia_with_only_local_domains_without/",
-   "ts": 1792865611,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "Is exposing services via reverse proxy still secure enough?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xedisk/is_exposing_services_via_reverse_proxy_still/",
    "ts": 1792860465,
@@ -169,13 +183,6 @@
    "title": "Kimi K3.1 removes cyberattack training data from open weight release",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xecgrf/kimi_k31_removes_cyberattack_training_data_from/",
    "ts": 1792857918,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "What's a good alternative to FreePBX?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xec5bc/whats_a_good_alternative_to_freepbx/",
-   "ts": 1792857165,
    "source": "Reddit"
   },
   {
@@ -232,13 +239,6 @@
    "title": "Not even 2 years ago.....",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xdxbqa/not_even_2_years_ago/",
    "ts": 1792809988,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "🌋 Pushing PCIe x1 to the limit: lvgale concurrently serving 27B, 9B, and 2B LLMs on a hardware abomination 📈",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xdqem6/pushing_pcie_x1_to_the_limit_lvgale_concurrently/",
-   "ts": 1792790363,
    "source": "Reddit"
   },
   {
@@ -368,13 +368,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "We shrank our steerable small TTS to 11.84 MB. WER is unchanged, UTMOS drops ~0.1 [p]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xcum4s/we_shrank_our_steerable_small_tts_to_1184_mb_wer/",
-   "ts": 1792702662,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Coding Magic the Gathering in C# - PART TWO - The Impossible Magic Card",
    "url": "https://www.reddit.com/r/programming/comments/1xcp40x/coding_magic_the_gathering_in_c_part_two_the/",
@@ -393,6 +386,13 @@
    "title": "Debunking \"Faster than Rust\": Malicious Benchmarks in Tov",
    "url": "https://www.reddit.com/r/programming/comments/1xcaveo/debunking_faster_than_rust_malicious_benchmarks/",
    "ts": 1792649848,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "PHP2Shell: Critical vulnerabilities in the backbone of the web",
+   "url": "https://www.reddit.com/r/programming/comments/1xbo19y/php2shell_critical_vulnerabilities_in_the/",
+   "ts": 1792591402,
    "source": "Reddit"
   },
   {
