@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-10-26T11:24:25Z",
+ "generated_at": "2026-10-26T11:45:07Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -9,10 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
   {
@@ -1405,7 +1404,7 @@
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
-   "text": "Rubio, asked about this WSJ report on a trip to Uzbekistan today: “I think there's been talks of a meeting. I don't know everything's been finalized.\" wsj.com/world/russia/putin-f… Link Exclusive | Putin Floats a Summit With Trump and Xi to Discuss Ukraine Deal Ukraine’s Zelensky wouldn’t be included in the proposed talks, as Russia’s leader seeks to negotiate an end to the conflict that favors Moscow. wsj.com",
+   "text": "Rubio, asked about this WSJ report on a trip to Uzbekistan today: “I think there's been talks of a meeting. I don't know everything's been finalized.\" wsj.com/world/russia/putin-f… Link Exclusive | Putin Floats a Summit With Trump and Xi to Discuss Ukraine Deal Ukraine’s Volodymyr Zelensky wouldn’t be included in the proposed talks, as Russia’s leader seeks to negotiate an end to the war that favors Moscow. wsj.com",
    "url": "https://nitter.kareem.one/VeraMBergen/status/2112129936408670468#m",
    "ts": 1792405992,
    "id": "2112129936408670468#m"
