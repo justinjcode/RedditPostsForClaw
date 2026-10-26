@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T22:27:19Z",
+ "generated_at": "2026-10-26T22:40:35Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Everyday is zero-day these days",
+   "url": "https://nitter.kareem.one/elonmusk/status/2114848066767630417#m",
+   "ts": 1793054045,
+   "id": "2114848066767630417#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -184,15 +193,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2114756811689447712#m",
    "ts": 1793032288,
    "id": "2114756811689447712#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "What are most important things to improve about Grok @Bot ? Btw, make sure you’ve tried Bot recently, as over 100 features & fixes are released every week! Nima Owji (@nima_owji) Grok Bot leaves Meta Muse in the dust. It's not even close!! 🚀 Grok Bot features Muse doesn't match: • Tag @bot on X and it handles your X DMs • Connects to your iPhone, Alarms included • Coinbase, Robinhood and eToro built in • Apps for Windows, Linux, Mac, iOS and Android • A crew of bots that work together — https://nitter.kareem.one/nima_owji/status/2113685801963799038#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2114751739026985329#m",
-   "ts": 1793031079,
-   "id": "2114751739026985329#m"
   },
   {
    "handle": "swyx",
@@ -1098,7 +1098,7 @@
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
-   "text": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
+   "text": "Fully included in the Pro plan, doesn't draw on your weekly usage. Community note: As of 22 October 2026, OpenAI’s dots are unavailable to ChatGPT Pro users in the EU. OpenAI excludes the European Economic Area (which includes all EU countries), the UK and Switzerland from Pro access. [Source: OpenAI documentation]( learn.chatgpt.com/docs/dots",
    "url": "https://nitter.kareem.one/thsottiaux/status/2113029854417600834#m",
    "ts": 1792620550,
    "id": "2113029854417600834#m"
