@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-10-26T05:25:32Z",
+ "generated_at": "2026-10-26T05:43:17Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Day 21/ Wonder what happens the remaining seven days. But today is a reset.",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2114588174249071102#m",
+   "ts": 1792992082,
+   "id": "2114588174249071102#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1409,15 +1417,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2112039275344941371#m",
    "ts": 1792384377,
    "id": "2112039275344941371#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "chatgpt.com/cyber",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2112034328549216593#m",
-   "ts": 1792383198,
-   "id": "2112034328549216593#m"
   },
   {
    "handle": "ZichenWanghere",
