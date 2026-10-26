@@ -1,15 +1,36 @@
 {
- "generated_at": "2026-10-26T06:25:25Z",
+ "generated_at": "2026-10-26T08:23:21Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
-  "selfhosted"
+  "MachineLearning",
+  "programming"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "3090 died, looking for replacement card",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfqj4p/3090_died_looking_for_replacement_card/",
+   "ts": 1793001079,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "boro64/Ternary-Nemotron-3.5-Lightning-30B-A3B-GGUF · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfqi2d/boro64ternarynemotron35lightning30ba3bgguf/",
+   "ts": 1793000958,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfovxr/researchers_from_stanford_and_uc_berkeley/",
+   "ts": 1792994761,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "I'm Building My Own Programming Language",
@@ -25,24 +46,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "[P] Stop force-feeding your agent 30,000 tokens of chat history just to wake up. We built DUMEdb (Apache 2.0) — 220-token zero-turn wake using 1959 IBM unit-record principles. [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xflxcj/p_stop_forcefeeding_your_agent_30000_tokens_of/",
-   "ts": 1792984645,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Is the horror story about AI agent mass deleting your entire drive an old story or it still happen nowadays?",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xflw1l/is_the_horror_story_about_ai_agent_mass_deleting/",
    "ts": 1792984533,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Titans learns during inference. What if it learns the wrong thing? [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xfl9qp/titans_learns_during_inference_what_if_it_learns/",
-   "ts": 1792982643,
    "source": "Reddit"
   },
   {
@@ -78,13 +85,6 @@
    "title": "PSA: llama.cpp CVE-2026-116096",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfizft/psa_llamacpp_cve2026116096/",
    "ts": 1792976020,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Gemma 4, creative writing",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfioub/gemma_4_creative_writing/",
-   "ts": 1792975176,
    "source": "Reddit"
   },
   {
@@ -137,13 +137,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Show and tell: PolyStrata on my $20 Xeon server",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfb9oz/show_and_tell_polystrata_on_my_20_xeon_server/",
-   "ts": 1792956255,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "What's the hardest part of creating edge cases for fine-tuning open-weight models? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xfa17z/whats_the_hardest_part_of_creating_edge_cases_for/",
@@ -169,13 +162,6 @@
    "title": "ANAS turned my bare Proxmox box into a full-featured NAS",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xf81b6/anas_turned_my_bare_proxmox_box_into_a/",
    "ts": 1792948572,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "qwen: merge tensors on convert by am17an · Pull Request #31028 · ggml-org/llama.cpp",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf716t/qwen_merge_tensors_on_convert_by_am17an_pull/",
-   "ts": 1792946227,
    "source": "Reddit"
   },
   {
@@ -334,6 +320,13 @@
   },
   {
    "subreddit": "MachineLearning",
+   "title": "Study Notes on Transformers and Hamiltonian Monte Carlo [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xdfeki/study_notes_on_transformers_and_hamiltonian_monte/",
+   "ts": 1792765254,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
    "title": "Is symbolic ai dead? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdekrf/is_symbolic_ai_dead_d/",
    "ts": 1792763356,
@@ -365,6 +358,13 @@
    "title": "eMudhra's Press Release on the CA Compromise",
    "url": "https://www.reddit.com/r/programming/comments/1xd9rwe/emudhras_press_release_on_the_ca_compromise/",
    "ts": 1792749346,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "I just came across Next-Concept Modeling and the idea is fascinating[R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xd7bsu/i_just_came_across_nextconcept_modeling_and_the/",
+   "ts": 1792740252,
    "source": "Reddit"
   },
   {
