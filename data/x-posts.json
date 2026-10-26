@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-10-26T18:18:12Z",
+ "generated_at": "2026-10-26T18:47:28Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "GPT-6.1 Terra is out, with OpenAI saying its new fast model \"means business.\" The headline numbers: - Price: $1 / $5 per million tokens in and out, half of GPT-6.1 Sol - Agents’ Last Exam (real computer work): on par with GPT-6 Astra at 1/10th the price per token - Roughly 9x lower cost per task than Claude Opus 5.5 at max effort - Terminal-Bench 4.0 (coding): 50.3%, vs. 21.5% for GPT-5.6 Terra OpenAI also says Terra \"meets the Critical threshold in cybersecurity,\" shipping with the same safeguards built for GPT-6 Astra. Video",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2114787251066683495#m",
+   "ts": 1793039546,
+   "id": "2114787251066683495#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1148,15 +1156,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2112940948435149088#m",
    "ts": 1792599353,
    "id": "2112940948435149088#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "An OpenAI model just helped find what the company calls \"one of the most impactful security issues in recent memory.\" The target was PHP, the language behind WordPress and nearly 70% of websites. Security firm Calif pointed GPT-5.6 Sol at PHP’s code, and it found a critical flaw that could let attackers take over a server without logging in. Wiz found the same bugs independently. OpenAI then spent two months coordinating the response with PHP’s maintainers, Wiz and Cloudflare. Patches dropped this morning after details leaked early, but any server that hasn’t updated is still exposed. The National Security Agency told organizations that can’t update yet to take their systems offline. OpenAI (@OpenAI) OpenAI models helped researchers—operating as part of our Patch the Planet initiative—discover critical security flaws in PHP, an open-source programming language used to run an estimated 70% of websites. Over the past two months, we led a coalition of maintainers, researchers, and security providers to prepare fixes and protections ahead of disclosure. This duration was necessary because the fix was quite intricate and required a major change to the PHP engine. Every site using PHP can now safely upgrade their version to stay secure, in addition to applying mitigations from various security vendors. Due to the severity of these flaws and PHP’s widespread use, we consider this bug to be one of the most impactful vulnerabilities in recent memory. It also marks a new phase, where A",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2112918214246044031#m",
-   "ts": 1792593933,
-   "id": "2112918214246044031#m"
   },
   {
    "handle": "ZichenWanghere",
