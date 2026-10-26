@@ -1,15 +1,71 @@
 {
- "generated_at": "2026-10-26T15:01:41Z",
+ "generated_at": "2026-10-26T16:16:28Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
+  "MachineLearning",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "In the rabbit hole I go",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xg18p5/in_the_rabbit_hole_i_go/",
+   "ts": 1793031146,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Scoring IDP [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xg1695/scoring_idp_r/",
+   "ts": 1793031006,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Advice on self-hosting a cybersecurity scanning platform?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xg0iwu/advice_on_selfhosting_a_cybersecurity_scanning/",
+   "ts": 1793029635,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Modular Monolith or Microservices: A Framework for Deciding Without Dogma",
+   "url": "https://www.reddit.com/r/programming/comments/1xg0299/modular_monolith_or_microservices_a_framework_for/",
+   "ts": 1793028639,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Data Sovereignty and Open Architecture in Government Platforms: Design Principles",
+   "url": "https://www.reddit.com/r/programming/comments/1xg00l7/data_sovereignty_and_open_architecture_in/",
+   "ts": 1793028544,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Exposing Development Environments with Cloudflare Tunnel and WARP Without Opening Ports",
+   "url": "https://www.reddit.com/r/programming/comments/1xfzzwj/exposing_development_environments_with_cloudflare/",
+   "ts": 1793028500,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Bad Habits in Web Development We Should Avoid",
+   "url": "https://www.reddit.com/r/programming/comments/1xfzxqz/bad_habits_in_web_development_we_should_avoid/",
+   "ts": 1793028368,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Microservices Architecture",
+   "url": "https://www.reddit.com/r/programming/comments/1xfzwi9/microservices_architecture/",
+   "ts": 1793028295,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "BrowserCode: a browser-based coding playground, powered by WebAssembly",
@@ -172,13 +228,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "I'm Building My Own Programming Language",
-   "url": "https://www.reddit.com/r/programming/comments/1xfnoth/im_building_my_own_programming_language/",
-   "ts": 1792990413,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Is the horror story about AI agent mass deleting your entire drive an old story or it still happen nowadays?",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xflw1l/is_the_horror_story_about_ai_agent_mass_deleting/",
@@ -190,13 +239,6 @@
    "title": "Qwen3.8-Flash-Next vs Swift-1.5-Qwen3.8-Flash-Next",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfl3wo/qwen38flashnext_vs_swift15qwen38flashnext/",
    "ts": 1792982153,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Talk from JavaOne 2026 -- What's Going Wrong with My JVM?! A Guide to First-Time Failure Diagnosis",
-   "url": "https://www.reddit.com/r/programming/comments/1xfjqcj/talk_from_javaone_2026_whats_going_wrong_with_my/",
-   "ts": 1792978112,
    "source": "Reddit"
   },
   {
@@ -249,13 +291,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "How to get notified (by e.g. Gotify) if a given service is not reachable/offline anymore?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xf94tp/how_to_get_notified_by_eg_gotify_if_a_given/",
-   "ts": 1792951182,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Nanbeige releases Nanbeige4.3-33B, an Apache 2.0 teacher model for smaller agents [N]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xf6x35/nanbeige_releases_nanbeige4333b_an_apache_20/",
@@ -274,13 +309,6 @@
    "title": "Just finished my multiplayer system in C and turns out we can support 50k players in a single server at 60hz simulation tick",
    "url": "https://www.reddit.com/r/programming/comments/1xf4c5d/just_finished_my_multiplayer_system_in_c_and/",
    "ts": 1792939838,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Matrix server - which one is it for you?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xf3ubr/matrix_server_which_one_is_it_for_you/",
-   "ts": 1792938610,
    "source": "Reddit"
   },
   {
@@ -333,13 +361,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Broccoli2Shell: Brotli decoder RCE (CVE-2026-111497) in Node.js, Python and more",
-   "url": "https://www.reddit.com/r/programming/comments/1xe7dp8/broccoli2shell_brotli_decoder_rce_cve2026111497/",
-   "ts": 1792844894,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Got a pretrained music transformer to jam with me live, no fine-tuning, just steering the sampling [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xe4pex/got_a_pretrained_music_transformer_to_jam_with_me/",
@@ -351,13 +372,6 @@
    "title": "Are we solving LLM memory by remembering more, when the real problem is knowing what to forget?[D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdpek9/are_we_solving_llm_memory_by_remembering_more/",
    "ts": 1792787946,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "How close can pure FP get to C?",
-   "url": "https://www.reddit.com/r/programming/comments/1xdjru9/how_close_can_pure_fp_get_to_c/",
-   "ts": 1792775076,
    "source": "Reddit"
   },
   {
@@ -379,20 +393,6 @@
    "title": "AAAI 2027 phase 2 reviews discussion [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xddbgv/aaai_2027_phase_2_reviews_discussion_d/",
    "ts": 1792760298,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "eMudhra's Press Release on the CA Compromise",
-   "url": "https://www.reddit.com/r/programming/comments/1xd9rwe/emudhras_press_release_on_the_ca_compromise/",
-   "ts": 1792749346,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "I just came across Next-Concept Modeling and the idea is fascinating[R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xd7bsu/i_just_came_across_nextconcept_modeling_and_the/",
-   "ts": 1792740252,
    "source": "Reddit"
   },
   {
