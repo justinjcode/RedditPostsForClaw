@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T21:57:55Z",
+ "generated_at": "2026-10-26T22:09:36Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "NEW: OpenAI says its AI just made three major discoveries in math, computer science, and physics. 1. Local smoothing + Kakeya conjectures (math): proved in every dimension. A 35-year-old question about how waves focus. 2. Exponential Time Hypothesis (computer science): disproved. Hundreds of research papers were built on it being true 3. Existence of QCD + Yang–Mills (physics): proved. Physics’ theory of the force holding atoms together now stands on solid math, including part of a $1M Millennium Prize problem.",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2114839833134674351#m",
+   "ts": 1793052082,
+   "id": "2114839833134674351#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -1156,15 +1165,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2112944161670488423#m",
    "ts": 1792600119,
    "id": "2112944161670488423#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Unitree: \"Please use the robot safely and in a friendly manner.\" The robot, in a junkyard at night: Video",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2112940948435149088#m",
-   "ts": 1792599353,
-   "id": "2112940948435149088#m"
   },
   {
    "handle": "ZichenWanghere",
