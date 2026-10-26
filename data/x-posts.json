@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-10-26T19:04:43Z",
+ "generated_at": "2026-10-26T19:24:50Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +10,29 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "going to be sharing my WoW forever shaman build at the AIE Code closing keynote AI.Engineer 🔜 SF Code Summit (@aiDotEngineer) We are pleased to announce that @trq212 will be returning to AIE to share what's now and what's next! aie.codes will be the last flagship AIE of the year, gathering the top 1000 agentic engineers in the world by invite only. Apply here: ai.engineer/code/2026/apply As usual all keynotes livestreamed and talks posted free on our youtube! — https://nitter.kareem.one/aiDotEngineer/status/2114794838541660443#m",
+   "url": "https://nitter.kareem.one/trq212/status/2114796261362835842#m",
+   "ts": 1793041694,
+   "id": "2114796261362835842#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Yes Devon Eriksen (@Devon_Eriksen_) Humans are a pack animal. This may be hard to understand if you are evangelical and think the book of genesis is literal rather than allegorical, but humans are a pack animal. What this means is that the human desire for the acceptance and support of a tribe is as fundamental as the desire for food, for air, for water, for sex, for sunlight, for love. If you tell young men that they cannot have a tribe, they're not going to accept that. Ever. Especially if you tell that only to the young men of one tribe in particular. They're going to wonder why everybody gets to have a tribe and they don't. And they're eventually going to decide that you are the enemy. Because you are. Anyone who stands between young men and what they need for a healthy, fulfilled life is their enemy. That includes you. And if you manage to convince them that god doesn't want them to have a tribe, it will also include god. The more you push back against their healthy and natural desire for a tribe, a homeland, and a birthright, the more they will hate you, and the more exclusive their definition of that tribe will become. There is no way you can stop this. The only thing you can control is how far they have to go, how radical they have to become, in order to get it. Because this can go all the way from enforcing immigration law, and shutting down corrupt visa programs right now, to gangs of young White men in balaclavas with Ar15s going door to door ten years from now. We",
+   "url": "https://nitter.kareem.one/elonmusk/status/2114794884850966884#m",
+   "ts": 1793041366,
+   "id": "2114794884850966884#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -211,15 +230,6 @@
    "url": "https://nitter.kareem.one/EvaFox/status/2114716323540250903#m",
    "ts": 1793022635,
    "id": "2114716323540250903#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Good point Gad Saad (@GadSaad) When @realDonaldTrump was elected for his first term, innumerable people including most of my academic colleagues said that the worst realities would befall the United States. None of those things happened. They then said that he would wait until his second term to end democracy, institute martial law, etc. None of those things have happened. Is there a SINGLE honest individual amongst those people who is willing to admit that they were grossly incorrect and hence irrationally unhinged? — https://nitter.kareem.one/GadSaad/status/2114516359493361970#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2114715402768896271#m",
-   "ts": 1793022416,
-   "id": "2114715402768896271#m"
   },
   {
    "handle": "elonmusk",
@@ -976,15 +986,6 @@
    "url": "https://nitter.kareem.one/xiaojingcanxue/status/2113291512394244572#m",
    "ts": 1792682934,
    "id": "2113291512394244572#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Three more AIE Code Summit speakers 👀 @lydiahallie , Member of Technical Staff @ Anthropic Utkarsh Shrivastava, Engineering Leader, Enterprise AI @ Netflix @philipkiely , Author of Inference Engineering @ Baseten Nov 10-12, SF. Apply to join us! ai.engineer/code",
-   "url": "https://nitter.kareem.one/aiDotEngineer/status/2113284239328465316#m",
-   "ts": 1792681200,
-   "id": "2113284239328465316#m"
   },
   {
    "handle": "TheRundownAI",
