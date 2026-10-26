@@ -1,15 +1,22 @@
 {
- "generated_at": "2026-10-26T04:15:33Z",
+ "generated_at": "2026-10-26T06:25:25Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "I'm Building My Own Programming Language",
+   "url": "https://www.reddit.com/r/programming/comments/1xfnoth/im_building_my_own_programming_language/",
+   "ts": 1792990413,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "From Apple One to NAS – self-hosted media and alternatives?",
@@ -25,10 +32,24 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "Is the horror story about AI agent mass deleting your entire drive an old story or it still happen nowadays?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xflw1l/is_the_horror_story_about_ai_agent_mass_deleting/",
+   "ts": 1792984533,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "MachineLearning",
    "title": "Titans learns during inference. What if it learns the wrong thing? [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xfl9qp/titans_learns_during_inference_what_if_it_learns/",
    "ts": 1792982643,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Qwen3.8-Flash-Next vs Swift-1.5-Qwen3.8-Flash-Next",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfl3wo/qwen38flashnext_vs_swift15qwen38flashnext/",
+   "ts": 1792982153,
    "source": "Reddit"
   },
   {
@@ -53,13 +74,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Run recurring jobs on Stripe without a cron server",
-   "url": "https://www.reddit.com/r/programming/comments/1xfj011/run_recurring_jobs_on_stripe_without_a_cron_server/",
-   "ts": 1792976066,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "PSA: llama.cpp CVE-2026-116096",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfizft/psa_llamacpp_cve2026116096/",
@@ -67,17 +81,17 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "Gemma 4, creative writing",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfioub/gemma_4_creative_writing/",
+   "ts": 1792975176,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
    "title": "Traefik and Authelia help (please, this is killing me)",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xfiogb/traefik_and_authelia_help_please_this_is_killing/",
    "ts": 1792975147,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Can ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF compete with UD-Q4_K_XL?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfhhri/can_istadaslabqwen3827bgsqrcogguf_compete_with/",
-   "ts": 1792971976,
    "source": "Reddit"
   },
   {
@@ -148,13 +162,6 @@
    "title": "How to get notified (by e.g. Gotify) if a given service is not reachable/offline anymore?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xf94tp/how_to_get_notified_by_eg_gotify_if_a_given/",
    "ts": 1792951182,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "I made an arena for fighting JEVs",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf8iqi/i_made_an_arena_for_fighting_jevs/",
-   "ts": 1792949727,
    "source": "Reddit"
   },
   {
@@ -253,13 +260,6 @@
    "title": "HTMX creator on the history of REST and why he thinks we got it wrong",
    "url": "https://www.reddit.com/r/programming/comments/1xezyoh/htmx_creator_on_the_history_of_rest_and_why_he/",
    "ts": 1792927691,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "A 4B coding model that can generate 3D scenes",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeuo7t/a_4b_coding_model_that_can_generate_3d_scenes/",
-   "ts": 1792908659,
    "source": "Reddit"
   },
   {
