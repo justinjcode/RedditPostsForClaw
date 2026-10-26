@@ -1,15 +1,50 @@
 {
- "generated_at": "2026-10-26T00:31:18Z",
+ "generated_at": "2026-10-26T02:21:15Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
   "MachineLearning",
-  "programming"
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "AbuseBox: self-hosted blacklist + cert + email-auth monitor",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xfk5bn/abusebox_selfhosted_blacklist_cert_emailauth/",
+   "ts": 1792979323,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "OCIS setup nightmare. Need help or alternative.",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xfjvul/ocis_setup_nightmare_need_help_or_alternative/",
+   "ts": 1792978550,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Let’s talk about cyber capabilities and open weights as we move towards the future",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfju8e/lets_talk_about_cyber_capabilities_and_open/",
+   "ts": 1792978418,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "YAMLResume v0.17 update: new kami HTML template, with accent color support for all engines and slimmed docker image.",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xfjqan/yamlresume_v017_update_new_kami_html_template/",
+   "ts": 1792978108,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "PSA: llama.cpp CVE-2026-116096",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfizft/psa_llamacpp_cve2026116096/",
+   "ts": 1792976020,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Can ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF compete with UD-Q4_K_XL?",
@@ -29,6 +64,20 @@
    "title": "I ran a blind test on self-hosted AI agents. Here are the results, guess who's who [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xfgf1w/i_ran_a_blind_test_on_selfhosted_ai_agents_here/",
    "ts": 1792969053,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "My Proxmox homelab: Caddy was the hardest part, and IPv6 Router Advertisements were to blame",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xfgaoq/my_proxmox_homelab_caddy_was_the_hardest_part_and/",
+   "ts": 1792968726,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Tempus v4.31.0 android subsonic client release",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xfg7e2/tempus_v4310_android_subsonic_client_release/",
+   "ts": 1792968478,
    "source": "Reddit"
   },
   {
@@ -67,6 +116,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "selfhosted",
+   "title": "How to get notified (by e.g. Gotify) if a given service is not reachable/offline anymore?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xf94tp/how_to_get_notified_by_eg_gotify_if_a_given/",
+   "ts": 1792951182,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "LocalLLaMA",
    "title": "I made an arena for fighting JEVs",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf8iqi/i_made_an_arena_for_fighting_jevs/",
@@ -78,20 +134,6 @@
    "title": "ANAS turned my bare Proxmox box into a full-featured NAS",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xf81b6/anas_turned_my_bare_proxmox_box_into_a/",
    "ts": 1792948572,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Is it time to jump ship from OpenCode?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf7loz/is_it_time_to_jump_ship_from_opencode/",
-   "ts": 1792947570,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "4x v620 in a LLM generated and 3d printed chassis",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf7b46/4x_v620_in_a_llm_generated_and_3d_printed_chassis/",
-   "ts": 1792946872,
    "source": "Reddit"
   },
   {
@@ -123,24 +165,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Monitoring my FRITZ!Box and home devices: feedback?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xf4vcz/monitoring_my_fritzbox_and_home_devices_feedback/",
-   "ts": 1792941119,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Just finished my multiplayer system in C and turns out we can support 50k players in a single server at 60hz simulation tick",
    "url": "https://www.reddit.com/r/programming/comments/1xf4c5d/just_finished_my_multiplayer_system_in_c_and/",
    "ts": 1792939838,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "[Update] 1 month after sharing EdgeEver on r/selfhosted (1.2k → 2.7k ⭐): We shipped notebook-to-website publishing, database tables + public forms, architecture diagrams, ACP local agents & more!",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xf3z26/update_1_month_after_sharing_edgeever_on/",
-   "ts": 1792938938,
    "source": "Reddit"
   },
   {
@@ -155,6 +183,13 @@
    "title": "What are your selfhosting gems",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xf2zcl/what_are_your_selfhosting_gems/",
    "ts": 1792936492,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Need your advice, what do you guys do/use to get unlimited permanent email addresses without exposing your real emails?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xf2c12/need_your_advice_what_do_you_guys_douse_to_get/",
+   "ts": 1792934750,
    "source": "Reddit"
   },
   {
@@ -193,13 +228,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Would you self-host a \"digital estate\" vacuum to pull your cloud accounts locally?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xez4ro/would_you_selfhost_a_digital_estate_vacuum_to/",
-   "ts": 1792924883,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "A 4B coding model that can generate 3D scenes",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeuo7t/a_4b_coding_model_that_can_generate_3d_scenes/",
@@ -225,34 +253,6 @@
    "title": "OpenAI and Anthropic blocked the reverse engineering of smart TVs spying on us",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xer30z/openai_and_anthropic_blocked_the_reverse/",
    "ts": 1792896678,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Kitchen Board, a self-hosted wall planner for the family kitchen, now at v1.5",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xejb0k/kitchen_board_a_selfhosted_wall_planner_for_the/",
-   "ts": 1792874499,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "My new media server dashboard",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xei62u/my_new_media_server_dashboard/",
-   "ts": 1792871660,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Is exposing services via reverse proxy still secure enough?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xedisk/is_exposing_services_via_reverse_proxy_still/",
-   "ts": 1792860465,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "One year in, still extremely happy with my selfhosting journey",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xec0wd/one_year_in_still_extremely_happy_with_my/",
-   "ts": 1792856861,
    "source": "Reddit"
   },
   {
