@@ -1,17 +1,18 @@
 {
- "generated_at": "2026-10-26T08:07:17Z",
+ "generated_at": "2026-10-26T08:41:44Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@bcherny: all instances failed"
+ ],
  "count": 179,
  "items": [
   {
@@ -121,6 +122,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2114507338249875500#m",
    "ts": 1792972809,
    "id": "2114507338249875500#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "我看到了有家人的托举😄😄 Video",
+   "url": "https://nitter.kareem.one/ilovecatlovecar/status/2114486175297622414#m",
+   "ts": 1792967764,
+   "id": "2114486175297622414#m"
   },
   {
    "handle": "elonmusk",
@@ -1435,15 +1445,6 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2111477982485516393#m",
    "ts": 1792250555,
    "id": "2111477982485516393#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Chen Deming, China’s former commerce minister, said the EU remains a very strong economy with considerable room for development. He sees China-EU economic complementarity as a real opportunity. “We cannot argue and flip the table. We must find a way that works for both sides.”",
-   "url": "https://nitter.kareem.one/CCG_org/status/2111344340023050275#m",
-   "ts": 1792218692,
-   "id": "2111344340023050275#m"
   },
   {
    "handle": "bcherny",
