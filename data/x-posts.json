@@ -1,20 +1,28 @@
 {
- "generated_at": "2026-10-25T23:56:53Z",
+ "generated_at": "2026-10-26T00:23:59Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "True Kevin Bass (@kevinnbass) If Democrats get power, they will: 1. Lawfare Trump officials; 2. Pack SCOTUS; 3. Go after Elon, SpaceX, and Tesla--then billionaires, then millionaires; 4. Crush free speech; 5. Make voter ID illegal; 6. Flood the country with illegals. It sounds insane. It *is* insane. — https://nitter.kareem.one/kevinnbass/status/2114477494254322066#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2114507338249875500#m",
+   "ts": 1792972809,
+   "id": "2114507338249875500#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -176,15 +184,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2114370625582330326#m",
    "ts": 1792940214,
    "id": "2114370625582330326#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok @Bot can now call someone or a business for you, make a request on your behalf, take notes on the response and send you a note summarizing the conversation! Alex (@alexmichaelio) Grok Bot 0.77 looks INSANE 🔥 > Calls: your Bot can dial someone, sit on hold, press keys and get transferred while you watch a live transcript > Messages on Mac: a setup screen under Connect Apps, still switched off > Tailscale: Grok Bot can join your private tailnet once an admin approves it > Payments: a screen to connect payment accounts and pick a default, on top of yesterday’s Vault > Sharing: emails when someone shares a Bot with you, and invites need Premium or Ultra — https://nitter.kareem.one/alexmichaelio/status/2114056103373758724#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2114365361068138990#m",
-   "ts": 1792938959,
-   "id": "2114365361068138990#m"
   },
   {
    "handle": "elonmusk",
@@ -1000,7 +999,7 @@
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
-   "text": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
+   "text": "Fully included in the Pro plan, doesn't draw on your weekly usage. Community note: As of 22 October 2026, OpenAI’s dots are unavailable to ChatGPT Pro users in the EU. OpenAI excludes the European Economic Area (which includes all EU countries), the UK and Switzerland from Pro access. [Source: OpenAI documentation]( learn.chatgpt.com/docs/dots",
    "url": "https://nitter.kareem.one/thsottiaux/status/2113029854417600834#m",
    "ts": 1792620550,
    "id": "2113029854417600834#m"
