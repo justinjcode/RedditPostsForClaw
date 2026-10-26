@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-10-26T03:42:00Z",
+ "generated_at": "2026-10-26T04:02:57Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +10,9 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 179,
  "items": [
   {
@@ -216,10 +217,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Forever Yours Created with Grok @bot Video",
-   "url": "https://nitter.kareem.one/art_muse/status/2114376208414589210#m",
-   "ts": 1792941545,
-   "id": "2114376208414589210#m"
+   "text": "Elon Musk becomes deeply moved, and deadly serious, when Bret Baier asks him why he called Sen. Mark Kelly a \"Traitor\" for pushing to send more US aid and weapons to Ukraine. Watch every second of his response. \"We should have empathy for the thousands of people dying everyday in the trenches. For no movement in the lines. For the past two years thousands of people have died every week for nothing.\" \"I take great offense at those who put the appearance of goodness over the reality of it. Those who virtue signal and say we can't give into Russia, but have no solution to stopping thousands of kids dying every day.\" \"I have contempt for such people and I want to make that clear. Because they're virtue signaling and their lack of a solution means that kids don't have a father. It means parents lost a son. For what? Nothing.\" Video",
+   "url": "https://nitter.kareem.one/InsightLeaksQ/status/2114321346796622318#m",
+   "ts": 1792928465,
+   "id": "2114321346796622318#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -999,7 +1000,7 @@
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
-   "text": "Fully included in the Pro plan, doesn't draw on your weekly usage. Community note: As of 22 October 2026, OpenAI’s dots are unavailable to ChatGPT Pro users in the EU. OpenAI excludes the European Economic Area (which includes all EU countries), the UK and Switzerland from Pro access. [Source: OpenAI documentation]( learn.chatgpt.com/docs/dots",
+   "text": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
    "url": "https://nitter.kareem.one/thsottiaux/status/2113029854417600834#m",
    "ts": 1792620550,
    "id": "2113029854417600834#m"
