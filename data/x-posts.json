@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-10-26T01:11:00Z",
+ "generated_at": "2026-10-26T01:40:34Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,7 +10,9 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 179,
  "items": [
   {
