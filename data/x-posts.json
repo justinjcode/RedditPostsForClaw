@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T22:58:42Z",
+ "generated_at": "2026-10-26T23:17:24Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,24 @@
  "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "From the open letter published by Russell Impagliazzo and Ramamohan Paturi, who first proposed the Exponential Time Hypothesis, and MIT’s Ryan Williams: \"If the claim is correct, it will change an important part of theoretical computer science.\" The Rundown AI (@TheRundownAI) NEW: OpenAI says its AI just made three major discoveries in math, computer science, and physics. 1. Local smoothing + Kakeya conjectures (math): proved in every dimension. A 35-year-old question about how waves focus. 2. Exponential Time Hypothesis (computer science): disproved. Hundreds of research papers were built on it being true 3. Existence of QCD + Yang–Mills (physics): proved. Physics’ theory of the force holding atoms together now stands on solid math, including part of a $1M Millennium Prize problem. — https://nitter.kareem.one/TheRundownAI/status/2114839833134674351#m",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2114858361598390594#m",
+   "ts": 1793056500,
+   "id": "2114858361598390594#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "🎯😂 Tahreem Hussain (@tahreem57) Waymo vs Tesla solving autonomy — https://nitter.kareem.one/tahreem57/status/2098775310691078252#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2114854940711833669#m",
+   "ts": 1793055684,
+   "id": "2114854940711833669#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -202,15 +220,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2114761043809378685#m",
    "ts": 1793033297,
    "id": "2114761043809378685#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Soon Moon Andrew McCarthy (@AJamesMcCarthy) I took about 50,000 photos through a 14\" telescope last night to produce this: A hyper-detailed photo of the full moon. The fidelity of the photo was great enough to allow me to greatly enhance the color, revealing a hidden world of geological diversity. — https://nitter.kareem.one/AJamesMcCarthy/status/2114751634421231935#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2114756811689447712#m",
-   "ts": 1793032288,
-   "id": "2114756811689447712#m"
   },
   {
    "handle": "swyx",
@@ -1120,15 +1129,6 @@
    "url": "https://nitter.kareem.one/MarathonFusion/status/2113001073019662481#m",
    "ts": 1792613688,
    "id": "2113001073019662481#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "LAUNCHED: Anthropic is previewing Claude Duet, a new proactive agent app powered by Opus 5.5. Now in a U.S. waitlist preview for Pro and Max users. Video",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2112995463896945079#m",
-   "ts": 1792612350,
-   "id": "2112995463896945079#m"
   },
   {
    "handle": "bcherny",
