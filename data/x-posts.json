@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T15:19:13Z",
+ "generated_at": "2026-10-26T15:48:49Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Anthropic’s own internal use of Claude passed its monthly personnel costs (not counting stock pay) in April, per the S-1. Measured at list prices, that usage grew over 250x between January and September 2026.",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2114744285941915951#m",
+   "ts": 1793029302,
+   "id": "2114744285941915951#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -1165,15 +1174,6 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2112897150309073134#m",
    "ts": 1792588911,
    "id": "2112897150309073134#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: therundownai.beehiiv.com/p/s… Link Sam Altman’s three endings for the AI safety race Sam Altman reportedly outlined three possible endings to the AI safety race: a global watchdog, a single super-lab merger, or one lab pulling far ahead of rivals. therundownai.beehiiv.com",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2112853985367384366#m",
-   "ts": 1792578619,
-   "id": "2112853985367384366#m"
   },
   {
    "handle": "thsottiaux",
