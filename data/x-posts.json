@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-10-26T17:55:23Z",
+ "generated_at": "2026-10-26T18:18:12Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Talarico is a far left extremist America (@america) Democrat Nominee for Senate in Texas James Talarico refers to women as “neighbors with a uterus”. Video — https://nitter.kareem.one/america/status/2114710519151997090#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2114778922122395650#m",
+   "ts": 1793037560,
+   "id": "2114778922122395650#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -141,6 +151,15 @@
    "id": "2114734659158376650#m"
   },
   {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Diogo Almeida and the TypeSafe AI team are bringing Jev to AIE CODE. System One models and what people are building with them. November 10 to 12, San Francisco. Apply to attend: ai.engineer/code",
+   "url": "https://nitter.kareem.one/aiDotEngineer/status/2114733797648281624#m",
+   "ts": 1793026801,
+   "id": "2114733797648281624#m"
+  },
+  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -193,15 +212,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2114715402768896271#m",
    "ts": 1793022416,
    "id": "2114715402768896271#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I swear it’s just a coincidence 😂 Robotaxi (@robotaxi) Houston, we have liftoff Bigger service area now live — https://nitter.kareem.one/robotaxi/status/2114713219411660978#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2114714943417110693#m",
-   "ts": 1793022306,
-   "id": "2114714943417110693#m"
   },
   {
    "handle": "elonmusk",
@@ -733,15 +743,6 @@
    "url": "https://nitter.kareem.one/dennisw5/status/2113547660498288930#m",
    "ts": 1792744004,
    "id": "2113547660498288930#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "extremely impt for pipelining... estimating ETA for its own pipeline fixes while running the pipeline still",
-   "url": "https://nitter.kareem.one/swyx/status/2113509413537693703#m",
-   "ts": 1792734885,
-   "id": "2113509413537693703#m"
   },
   {
    "handle": "thsottiaux",
