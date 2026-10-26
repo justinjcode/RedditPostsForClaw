@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T10:17:23Z",
+ "generated_at": "2026-10-26T10:35:36Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,24 @@
  "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: therundownai.beehiiv.com/p/k… Link Kimi continues to challenge the frontier with K3.1 Pro Moonshot's Kimi K3.1 Pro challenges the AI frontier, closing in on top models from Anthropic and Meta. Plus: let AI sign in without sharing your passwords. therundownai.beehiiv.com",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2114665926553379234#m",
+   "ts": 1793010620,
+   "id": "2114665926553379234#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in AI today: - Kimi continues to challenge the frontier with K3.1 Pro - The Rundown Roundtable: Our AI use cases - Let AI sign in without sharing your passwords - Canva’s first in-house image model climbs the ranks",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2114665921763508475#m",
+   "ts": 1793010618,
+   "id": "2114665921763508475#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1176,15 +1194,6 @@
    "id": "2112660394837737863#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "The Electric Plant Co. built an AI that reads a plant’s electrical signals to tell how it’s doing, minute by minute. Its Bombadil model was trained on over 7M hours of data from 125+ species, and can spot plant stress days before it actually shows in the leaves. Co-founder @justinmast says farming and forestry are \"the largest use of fresh water on Earth,\" yet nearly all of it is \"managed from the outside in.\" \"We need planetary gardeners.\"",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2112659234282471487#m",
-   "ts": 1792532187,
-   "id": "2112659234282471487#m"
-  },
-  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -1237,15 +1246,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2112630778068881543#m",
    "ts": 1792525402,
    "id": "2112630778068881543#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Full article via Variety: variety.com/2026/tv/global/a… Link AI Could ‘Absolutely’ Replace Human Actors, CEO of Generative AI Startup Runway Says at Italy’s... AI could replace actors, Runway CEO Cristóbal Valenzuela says at a View Conference fireside chat. variety.com",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2112623737082446013#m",
-   "ts": 1792523724,
-   "id": "2112623737082446013#m"
   },
   {
    "handle": "thsottiaux",
