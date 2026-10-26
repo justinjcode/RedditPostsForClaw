@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T21:48:24Z",
+ "generated_at": "2026-10-26T21:57:55Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -22,15 +22,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2114824910707277997#m",
    "ts": 1793048524,
    "id": "2114824910707277997#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "it is absolutely surreal to me to say this but i think we had more listeners to our @finkd @biohub episode than Aaron Sorkin's The Social Reckoning lmao as i keep saying, if Priscilla and Mark do this right, Facebook will be a mere footnote in the overall wikipedia entry of humanity, a bootstrapping mechanism for Meta Superintelligence and the largest coordinated open source basic science research into human health reject the @bryan_johnson n=1 erection memes, embrace SCIENCE swyx (@swyx) honored to host Priscilla and @finkd on LS, I think their first joint pod since Huberman 2023 10 years in and @ChanZuckerberg is both the most well funded nonprofit in human history and dead serious in its mission of providing {data,tools,models} to cure and prevent all diseases by end of the century: - Biohubs have huge pmf (i explain in writeup below) and now CZI is all in on Biohub - acquiring @EvoscaleAI , the frontier bio research lab backed by @natfriedman - 10,000 GPU cluster in 3 years - imaging and cataloging every cell type and releasing for free (billions of them from nm scale up) - releasing 3 new models for simulating virtual cells: VariantFormer, CryoLens, scLDM being close to solving single cells; they are now launching the Virtual Immune System project, a flagship effort to model the immense complexity of The ENTIRE HUMAN IMMUNE SYSTEM. i was very struck by how Priscilla puts it on the pod: if the immune system is working you’re much more likely to be healthy, if it isn’t you",
-   "url": "https://nitter.kareem.one/swyx/status/2114824565398618126#m",
-   "ts": 1793048442,
-   "id": "2114824565398618126#m"
   },
   {
    "handle": "elonmusk",
@@ -193,6 +184,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2114751739026985329#m",
    "ts": 1793031079,
    "id": "2114751739026985329#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "One of the more under-appreciated details in Anthropic's S-1: Nearly half of Anthropic's revenue now flows through cloud marketplaces - 48% in the first half of 2026, up from 11% in 2023. That's roughly $7.8B of revenue in six months sold through Bedrock, Vertex and Azure Marketplace instead of direct. Which means the hyperscalers get paid twice! They sell Anthropic the compute - Anthropic has committed hundreds of billions of dollars to AWS, Google and Microsoft - and then they take a fee on roughly half of the revenue distributed through their marketplaces. Also on gross margin...those marketplace fees don't sit in cost of revenue. They're in sales, marketing & partnerships, so they never touch the headline 85% gross margin everyone is quoting today. Fees paid to channel partners alone rose ~$2.7B year over year in H1 2026. Hyperscalers feel like they're kind of the winner here all around though reading through this.",
+   "url": "https://nitter.kareem.one/Bensign/status/2114746925740122349#m",
+   "ts": 1793029931,
+   "id": "2114746925740122349#m"
   },
   {
    "handle": "TheRundownAI",
