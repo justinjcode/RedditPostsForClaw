@@ -1,20 +1,48 @@
 {
- "generated_at": "2026-10-26T13:41:29Z",
+ "generated_at": "2026-10-26T15:01:41Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
   {
    "subreddit": "programming",
-   "title": "What is the best way to secure my webapp without login",
-   "url": "https://www.reddit.com/r/programming/comments/1xfwwwz/what_is_the_best_way_to_secure_my_webapp_without/",
-   "ts": 1793021529,
+   "title": "BrowserCode: a browser-based coding playground, powered by WebAssembly",
+   "url": "https://www.reddit.com/r/programming/comments/1xfymz4/browsercode_a_browserbased_coding_playground/",
+   "ts": 1793025507,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "eMudhra Crisis: What self-hosters should check on their reverse proxies and containers",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xfxf8v/emudhra_crisis_what_selfhosters_should_check_on/",
+   "ts": 1793022745,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Beginner question on storage pools",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xfxai1/beginner_question_on_storage_pools/",
+   "ts": 1793022422,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "NoteDiscovery 0.33.0, wikilink autocomplete and a few important fixes",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xfx38c/notediscovery_0330_wikilink_autocomplete_and_a/",
+   "ts": 1793021959,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "For £1000 what is the meta for a local LLM rig?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfwyeo/for_1000_what_is_the_meta_for_a_local_llm_rig/",
+   "ts": 1793021628,
    "source": "Reddit"
   },
   {
@@ -32,6 +60,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "Is there any way for this community to take advantage of the neocloud collapse?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfv8a9/is_there_any_way_for_this_community_to_take/",
+   "ts": 1793017153,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "programming",
    "title": "Using Computer Science and Anki to Learn More Vocabulary With Less Memorization",
    "url": "https://www.reddit.com/r/programming/comments/1xfurcl/using_computer_science_and_anki_to_learn_more/",
@@ -46,10 +81,24 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "Qwen4-27B's 4-way HC shift?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xftcj0/qwen427bs_4way_hc_shift/",
+   "ts": 1793011346,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "programming",
    "title": "Why is it so expensive to send an email?",
    "url": "https://www.reddit.com/r/programming/comments/1xft3w2/why_is_it_so_expensive_to_send_an_email/",
    "ts": 1793010558,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Have 8 GB of VRAM and 32 GB of RAM? You can run Qwen 3.8 Flash Next at up to 900 t/s PP and 30 t/s TG!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xft2ae/have_8_gb_of_vram_and_32_gb_of_ram_you_can_run/",
+   "ts": 1793010408,
    "source": "Reddit"
   },
   {
@@ -130,13 +179,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "From Apple One to NAS – self-hosted media and alternatives?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xfmhkv/from_apple_one_to_nas_selfhosted_media_and/",
-   "ts": 1792986423,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Is the horror story about AI agent mass deleting your entire drive an old story or it still happen nowadays?",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xflw1l/is_the_horror_story_about_ai_agent_mass_deleting/",
@@ -151,13 +193,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Let’s talk about cyber capabilities and open weights as we move towards the future",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfju8e/lets_talk_about_cyber_capabilities_and_open/",
-   "ts": 1792978418,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Talk from JavaOne 2026 -- What's Going Wrong with My JVM?! A Guide to First-Time Failure Diagnosis",
    "url": "https://www.reddit.com/r/programming/comments/1xfjqcj/talk_from_javaone_2026_whats_going_wrong_with_my/",
@@ -165,24 +200,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "YAMLResume v0.17 update: new kami HTML template, with accent color support for all engines and slimmed docker image.",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xfjqan/yamlresume_v017_update_new_kami_html_template/",
-   "ts": 1792978108,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "PSA: llama.cpp CVE-2026-116096",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfizft/psa_llamacpp_cve2026116096/",
    "ts": 1792976020,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Traefik and Authelia help (please, this is killing me)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xfiogb/traefik_and_authelia_help_please_this_is_killing/",
-   "ts": 1792975147,
    "source": "Reddit"
   },
   {
@@ -218,13 +239,6 @@
    "title": "CrowdGPT - A collaboratively trained LLM.",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xff9e4/crowdgpt_a_collaboratively_trained_llm/",
    "ts": 1792966037,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Nanbeige4.3-33B Quantised GGUF",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfeho8/nanbeige4333b_quantised_gguf/",
-   "ts": 1792964009,
    "source": "Reddit"
   },
   {
@@ -277,13 +291,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Nanbeige/Nanbeige4.3-33B · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf0kz4/nanbeigenanbeige4333b_hugging_face/",
-   "ts": 1792929694,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "TREK 5.0: the only travel app you will ever need to self-host. Plan the trip, route the hike, split the costs, print the photo book, and more",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xf0g6j/trek_50_the_only_travel_app_you_will_ever_need_to/",
@@ -316,13 +323,6 @@
    "title": "memt-1.0 architecture breakdown gated deltanet-2, mixture-of-storage, and 66x smaller storage footprint for agent memory [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu0ht/memt10_architecture_breakdown_gated_deltanet2/",
    "ts": 1792906279,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "OpenAI and Anthropic blocked the reverse engineering of smart TVs spying on us",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xer30z/openai_and_anthropic_blocked_the_reverse/",
-   "ts": 1792896678,
    "source": "Reddit"
   },
   {
