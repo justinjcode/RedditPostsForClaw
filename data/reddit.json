@@ -1,15 +1,50 @@
 {
- "generated_at": "2026-10-27T06:21:21Z",
+ "generated_at": "2026-10-27T08:17:10Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
   "MachineLearning",
-  "programming"
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "shelfit-app: a self hosted TV Time alternative",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xgmel6/shelfitapp_a_self_hosted_tv_time_alternative/",
+   "ts": 1793087610,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "How to use Q8 ngram with lower quant Qwen 3.8 Flash Next in Strata and avoid errors",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xglhtx/how_to_use_q8_ngram_with_lower_quant_qwen_38/",
+   "ts": 1793084061,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Did a dry run of the Stalwart 0.16 -> 1.0 migration with a copy of my server. Went fine, but heads up if you use the admin API",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xgldsw/did_a_dry_run_of_the_stalwart_016_10_migration/",
+   "ts": 1793083606,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Qwen3.8 27B on one RTX 5090: six inference engines benchmarked with and without DFlash2",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgkzb9/qwen38_27b_on_one_rtx_5090_six_inference_engines/",
+   "ts": 1793082034,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Do GX10s / DGX Sparks Dream of Throttling? Temps across 6 cooling setups running DeepSeek V4.1-Flash (spoiler: no)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgkpph/do_gx10s_dgx_sparks_dream_of_throttling_temps/",
+   "ts": 1793081022,
+   "source": "Reddit"
+  },
   {
    "subreddit": "MachineLearning",
    "title": "Practical notes on setting up a GPU kernel-dev environment: CUDA 13's GPU cutoff, async timing pitfalls, profiler counter permissions [P]",
@@ -116,13 +151,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Have you gone fully local?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgazww/have_you_gone_fully_local/",
-   "ts": 1793053014,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "So tired of these AI crawlers",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xgae5q/so_tired_of_these_ai_crawlers/",
@@ -137,24 +165,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Docker image version tracker?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xga8mf/docker_image_version_tracker/",
-   "ts": 1793051189,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "I built an engine that runs Qwen-Flash-Next at nearly 400t/s on cheap(ish) hardware. 3x V100 32GB in an old R740. Originally forked from strata but the engine guts all built for the old Volta generation.",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg9cr1/i_built_an_engine_that_runs_qwenflashnext_at/",
    "ts": 1793049085,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Waraq 0.1.0: scan paper with your phone, get searchable PDFs, keep everything on your own server",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xg8g06/waraq_010_scan_paper_with_your_phone_get/",
-   "ts": 1793046986,
    "source": "Reddit"
   },
   {
@@ -263,13 +277,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Qwen4-27B's 4-way HC shift?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xftcj0/qwen427bs_4way_hc_shift/",
-   "ts": 1793011346,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Why is it so expensive to send an email?",
    "url": "https://www.reddit.com/r/programming/comments/1xft3w2/why_is_it_so_expensive_to_send_an_email/",
@@ -302,13 +309,6 @@
    "title": "PBT doesn’t make grokking faster, but it can escape a hyperparameter range where nothing groks [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xfqhfc/pbt_doesnt_make_grokking_faster_but_it_can_escape/",
    "ts": 1793000887,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfovxr/researchers_from_stanford_and_uc_berkeley/",
-   "ts": 1792994761,
    "source": "Reddit"
   },
   {
