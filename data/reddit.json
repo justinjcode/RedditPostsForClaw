@@ -1,15 +1,43 @@
 {
- "generated_at": "2026-10-27T12:19:19Z",
+ "generated_at": "2026-10-27T14:15:11Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
   "MachineLearning",
-  "programming"
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "I built a self-hosted tool that spends the AI quota you'd lose at reset on small, tested pull requests to your repos",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xgtky5/i_built_a_selfhosted_tool_that_spends_the_ai/",
+   "ts": 1793110209,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Ling-3.1-flash-1019 weights are out, and they released the base model too",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgrr8n/ling31flash1019_weights_are_out_and_they_released/",
+   "ts": 1793105708,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Openfw utm",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xgrj13/openfw_utm/",
+   "ts": 1793105091,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "First homelab: WireGuard vs. Headscale/NetBird, plus a tricky VPN situation",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xgr3b3/first_homelab_wireguard_vs_headscalenetbird_plus/",
+   "ts": 1793103850,
+   "source": "Reddit"
+  },
   {
    "subreddit": "MachineLearning",
    "title": "I built a PyTorch optimizer for large GPU workloads — looking for feedback[P]",
@@ -22,6 +50,13 @@
    "title": "Building confidence in concurrent code with a model checker - Scott Wlaschin - NDC London 2023",
    "url": "https://www.reddit.com/r/programming/comments/1xgqsqf/building_confidence_in_concurrent_code_with_a/",
    "ts": 1793102988,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Comparing ISTA-DASLab's DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF 2.25bpw against the official API",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgqf92/comparing_istadaslabs/",
+   "ts": 1793101917,
    "source": "Reddit"
   },
   {
@@ -67,13 +102,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Setup Review",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xgnlb8/setup_review/",
-   "ts": 1793092279,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "DuckDB.NET 1.5.6.1: Reading Data Up to 12× Faster",
    "url": "https://www.reddit.com/r/programming/comments/1xgnigv/duckdbnet_1561_reading_data_up_to_12_faster/",
@@ -95,24 +123,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "How to use Q8 ngram with lower quant Qwen 3.8 Flash Next in Strata and avoid errors",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xglhtx/how_to_use_q8_ngram_with_lower_quant_qwen_38/",
-   "ts": 1793084061,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Did a dry run of the Stalwart 0.16 -> 1.0 migration with a copy of my server. Went fine, but heads up if you use the admin API",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xgldsw/did_a_dry_run_of_the_stalwart_016_10_migration/",
    "ts": 1793083606,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Qwen3.8 27B on one RTX 5090: six inference engines benchmarked with and without DFlash2",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgkzb9/qwen38_27b_on_one_rtx_5090_six_inference_engines/",
-   "ts": 1793082034,
    "source": "Reddit"
   },
   {
@@ -208,13 +222,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "PSA: Synology VMM 2.8.0 lets you schedule VM exports and power on/off",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xgbivr/psa_synology_vmm_280_lets_you_schedule_vm_exports/",
-   "ts": 1793054323,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "So tired of these AI crawlers",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xgae5q/so_tired_of_these_ai_crawlers/",
    "ts": 1793051555,
@@ -232,13 +239,6 @@
    "title": "I now have definitive proofs that my Qwen Flash Next is trying to send something to a remote Chinese server",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg78oq/i_now_have_definitive_proofs_that_my_qwen_flash/",
    "ts": 1793044298,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Deepity: a hand-tuned C++/CUDA predictive coding library, beats jpc (JAX) and ngc-learn on MNIST (CPU benchmarks + source inside) [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xg6sqa/deepity_a_handtuned_ccuda_predictive_coding/",
-   "ts": 1793043297,
    "source": "Reddit"
   },
   {
@@ -291,13 +291,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Rebuilt my media server from scratch",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xfvdtz/rebuilt_my_media_server_from_scratch/",
-   "ts": 1793017567,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Using Computer Science and Anki to Learn More Vocabulary With Less Memorization",
    "url": "https://www.reddit.com/r/programming/comments/1xfurcl/using_computer_science_and_anki_to_learn_more/",
@@ -344,6 +337,13 @@
    "title": "Who lost my lap infant? My attempt to reverse engineer a decade-long airline bug",
    "url": "https://www.reddit.com/r/programming/comments/1xfhd6i/who_lost_my_lap_infant_my_attempt_to_reverse/",
    "ts": 1792971616,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "What's the hardest part of creating edge cases for fine-tuning open-weight models? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xfa17z/whats_the_hardest_part_of_creating_edge_cases_for/",
+   "ts": 1792953321,
    "source": "Reddit"
   },
   {
