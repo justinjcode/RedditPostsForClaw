@@ -1,20 +1,48 @@
 {
- "generated_at": "2026-10-27T08:17:10Z",
+ "generated_at": "2026-10-27T10:13:16Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
   {
    "subreddit": "selfhosted",
-   "title": "shelfit-app: a self hosted TV Time alternative",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xgmel6/shelfitapp_a_self_hosted_tv_time_alternative/",
-   "ts": 1793087610,
+   "title": "Setup Review",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xgnlb8/setup_review/",
+   "ts": 1793092279,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "DuckDB.NET 1.5.6.1: Reading Data Up to 12× Faster",
+   "url": "https://www.reddit.com/r/programming/comments/1xgnigv/duckdbnet_1561_reading_data_up_to_12_faster/",
+   "ts": 1793091980,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "I made Pumpkin, a graphical manager for llama.cpp for my girlfriend. It turned out well, so I put it on github",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgnhw5/i_made_pumpkin_a_graphical_manager_for_llamacpp/",
+   "ts": 1793091913,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "baidu/Unlimited-OCR-2 · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgnbtq/baiduunlimitedocr2_hugging_face/",
+   "ts": 1793091281,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "GameVault 2 is here: Linux support and a completely rebuilt, responsive UI",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xgn565/gamevault_2_is_here_linux_support_and_a/",
+   "ts": 1793090527,
    "source": "Reddit"
   },
   {
@@ -57,13 +85,6 @@
    "title": "What's the actual self-hosted RAG stack when docs can't leave your cloud?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xgirpf/whats_the_actual_selfhosted_rag_stack_when_docs/",
    "ts": 1793074286,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Introducing Zest: model server + agent + friendly GUI",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgi2cx/introducing_zest_model_server_agent_friendly_gui/",
-   "ts": 1793072090,
    "source": "Reddit"
   },
   {
@@ -166,13 +187,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "I built an engine that runs Qwen-Flash-Next at nearly 400t/s on cheap(ish) hardware. 3x V100 32GB in an old R740. Originally forked from strata but the engine guts all built for the old Volta generation.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg9cr1/i_built_an_engine_that_runs_qwenflashnext_at/",
-   "ts": 1793049085,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "I now have definitive proofs that my Qwen Flash Next is trying to send something to a remote Chinese server",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg78oq/i_now_have_definitive_proofs_that_my_qwen_flash/",
    "ts": 1793044298,
@@ -270,13 +284,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Finally jumped on the Tailscale bandwagon, and wow… it just works.",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xftfhm/finally_jumped_on_the_tailscale_bandwagon_and_wow/",
-   "ts": 1793011627,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Why is it so expensive to send an email?",
    "url": "https://www.reddit.com/r/programming/comments/1xft3w2/why_is_it_so_expensive_to_send_an_email/",
@@ -309,13 +316,6 @@
    "title": "PBT doesn’t make grokking faster, but it can escape a hyperparameter range where nothing groks [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xfqhfc/pbt_doesnt_make_grokking_faster_but_it_can_escape/",
    "ts": 1793000887,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "I'm Building My Own Programming Language",
-   "url": "https://www.reddit.com/r/programming/comments/1xfnoth/im_building_my_own_programming_language/",
-   "ts": 1792990413,
    "source": "Reddit"
   },
   {
