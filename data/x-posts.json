@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-10-27T01:06:38Z",
+ "generated_at": "2026-10-27T01:39:33Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,14 +10,16 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 179,
  "items": [
   {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 13% — Yes, significant % of NW 21% — Yes, \"average\" investment 40% — No, its for retail chumps 26% — Undecided/Maybe 310 votes • 6 days",
+   "text": "will you buy $ANT stock at a $2T valuation? Poll 13% — Yes, significant % of NW 21% — Yes, \"average\" investment 42% — No, its for retail chumps 24% — Undecided/Maybe 403 votes • 6 days",
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
