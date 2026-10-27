@@ -1,6 +1,8 @@
 {
- "generated_at": "2026-10-27T18:11:20Z",
+ "generated_at": "2026-10-27T18:23:00Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -9,12 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "看不懂但是大受震撼 Axiom (@axiommathai) The largest math proof in human history is now computer-verified. Today, Axiom announces a complete Lean auto-formalization of the Classification of Finite Simple Groups, the \"periodic table of symmetry.\" About 15,000 pages, built by over 100 mathematicians across generations. Video — https://nitter.kareem.one/axiommathai/status/2115089794867040584#m",
+   "url": "https://nitter.kareem.one/ZichenWanghere/status/2115146907253358607#m",
+   "ts": 1793125294,
+   "id": "2115146907253358607#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -154,7 +162,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 39% — No, its for retail chumps 25% — Undecided/Maybe 4,273 votes • 6 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
+   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 39% — No, its for retail chumps 25% — Undecided/Maybe 4,413 votes • 6 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "url": "https://nitter.kareem.one/swyx/status/2115089887959359988#m",
    "ts": 1793111700,
    "id": "2115089887959359988#m"
@@ -250,6 +258,15 @@
    "id": "2115028290037534790#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Solar power represents 10% of electricity generated globally in 2026. It is now bigger than nuclear for the first time.",
+   "url": "https://nitter.kareem.one/wholemars/status/2115015903834444267#m",
+   "ts": 1793094061,
+   "id": "2115015903834444267#m"
+  },
+  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -266,15 +283,6 @@
    "url": "https://nitter.kareem.one/SpaceX/status/2114979142638960965#m",
    "ts": 1793085296,
    "id": "2114979142638960965#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Everyone should have at least a few penchants",
-   "url": "https://nitter.kareem.one/elonmusk/status/2114973768473039185#m",
-   "ts": 1793084015,
-   "id": "2114973768473039185#m"
   },
   {
    "handle": "elonmusk",
@@ -307,7 +315,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 39% — No, its for retail chumps 25% — Undecided/Maybe 4,273 votes • 6 days",
+   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 39% — No, its for retail chumps 25% — Undecided/Maybe 4,413 votes • 6 days",
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
@@ -1193,15 +1201,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2113029655095836957#m",
    "ts": 1792620502,
    "id": "2113029655095836957#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Last month, we demonstrated high-rate alchemy: turning mercury into real, stable gold, beating CERN’s record by a factor of 10. Last week, we enriched isotopes in the world’s most powerful plasma centrifuge, beating the Soviet record that stood for 40 years. Now, we’re building a fusion reactor in San Francisco to achieve record power density. Video",
-   "url": "https://nitter.kareem.one/MarathonFusion/status/2113001073019662481#m",
-   "ts": 1792613688,
-   "id": "2113001073019662481#m"
   },
   {
    "handle": "bcherny",
