@@ -1,15 +1,71 @@
 {
- "generated_at": "2026-10-27T10:13:16Z",
+ "generated_at": "2026-10-27T12:19:19Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
-  "selfhosted"
+  "MachineLearning",
+  "programming"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "MachineLearning",
+   "title": "I built a PyTorch optimizer for large GPU workloads — looking for feedback[P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xgqtxp/i_built_a_pytorch_optimizer_for_large_gpu/",
+   "ts": 1793103086,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Building confidence in concurrent code with a model checker - Scott Wlaschin - NDC London 2023",
+   "url": "https://www.reddit.com/r/programming/comments/1xgqsqf/building_confidence_in_concurrent_code_with_a/",
+   "ts": 1793102988,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "inclusionAI/Ling-3.1-flash-1019 · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgpo4q/inclusionailing31flash1019_hugging_face/",
+   "ts": 1793099534,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "We put DeepSeek in charge of four Qwen3.5-9B models to reverse engineer binaries using smaller open models.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgoxvu/we_put_deepseek_in_charge_of_four_qwen359b_models/",
+   "ts": 1793097147,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Debunking Cohere's claim of Qwen 3.8 Flash Next uploading to Alibaba remote URL",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgopmj/debunking_coheres_claim_of_qwen_38_flash_next/",
+   "ts": 1793096371,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Eulogy for the Software Engineer",
+   "url": "https://www.reddit.com/r/programming/comments/1xgonay/eulogy_for_the_software_engineer/",
+   "ts": 1793096152,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Tensor Split Over PCIe 3.0 x1 — Good Results",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgojqz/tensor_split_over_pcie_30_x1_good_results/",
+   "ts": 1793095809,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Papers with Code is now open-source [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xgoadu/papers_with_code_is_now_opensource_p/",
+   "ts": 1793094884,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Setup Review",
@@ -22,13 +78,6 @@
    "title": "DuckDB.NET 1.5.6.1: Reading Data Up to 12× Faster",
    "url": "https://www.reddit.com/r/programming/comments/1xgnigv/duckdbnet_1561_reading_data_up_to_12_faster/",
    "ts": 1793091980,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "I made Pumpkin, a graphical manager for llama.cpp for my girlfriend. It turned out well, so I put it on github",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgnhw5/i_made_pumpkin_a_graphical_manager_for_llamacpp/",
-   "ts": 1793091913,
    "source": "Reddit"
   },
   {
@@ -64,13 +113,6 @@
    "title": "Qwen3.8 27B on one RTX 5090: six inference engines benchmarked with and without DFlash2",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgkzb9/qwen38_27b_on_one_rtx_5090_six_inference_engines/",
    "ts": 1793082034,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Do GX10s / DGX Sparks Dream of Throttling? Temps across 6 cooling setups running DeepSeek V4.1-Flash (spoiler: no)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgkpph/do_gx10s_dgx_sparks_dream_of_throttling_temps/",
-   "ts": 1793081022,
    "source": "Reddit"
   },
   {
@@ -207,13 +249,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Oh nvidia… —>> NVIDIA reportedly not accepting RTX 5090 orders from board partners, even backorders are unavailable",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg4s8y/oh_nvidia_nvidia_reportedly_not_accepting_rtx/",
-   "ts": 1793038806,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Fitting a 4D Mandelbulb with KS3 vs MLP [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xg36lw/fitting_a_4d_mandelbulb_with_ks3_vs_mlp_r/",
@@ -225,13 +260,6 @@
    "title": "Qwen3.8-Flash-Next tried to send diagnostic file to a remote location, while stating otherwies.",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg2bht/qwen38flashnext_tried_to_send_diagnostic_file_to/",
    "ts": 1793033479,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Why Lean is faster than Rust",
-   "url": "https://www.reddit.com/r/programming/comments/1xg1n2u/why_lean_is_faster_than_rust/",
-   "ts": 1793031995,
    "source": "Reddit"
   },
   {
@@ -291,13 +319,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Have 8 GB of VRAM and 32 GB of RAM? You can run Qwen 3.8 Flash Next at up to 900 t/s PP and 30 t/s TG!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xft2ae/have_8_gb_of_vram_and_32_gb_of_ram_you_can_run/",
-   "ts": 1793010408,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "From 27 minutes to 4: Cutting CI build time by 85%",
    "url": "https://www.reddit.com/r/programming/comments/1xfszv3/from_27_minutes_to_4_cutting_ci_build_time_by_85/",
@@ -323,20 +344,6 @@
    "title": "Who lost my lap infant? My attempt to reverse engineer a decade-long airline bug",
    "url": "https://www.reddit.com/r/programming/comments/1xfhd6i/who_lost_my_lap_infant_my_attempt_to_reverse/",
    "ts": 1792971616,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "I ran a blind test on self-hosted AI agents. Here are the results, guess who's who [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xfgf1w/i_ran_a_blind_test_on_selfhosted_ai_agents_here/",
-   "ts": 1792969053,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "What's the hardest part of creating edge cases for fine-tuning open-weight models? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xfa17z/whats_the_hardest_part_of_creating_edge_cases_for/",
-   "ts": 1792953321,
    "source": "Reddit"
   },
   {
@@ -386,13 +393,6 @@
    "title": "Increasing number of UG authors in A* conferences with no supervisor [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xe9uoh/increasing_number_of_ug_authors_in_a_conferences/",
    "ts": 1792851487,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Broccoli2Shell: Brotli decoder RCE (CVE-2026-111497) in Node.js, Python and more",
-   "url": "https://www.reddit.com/r/programming/comments/1xe7dp8/broccoli2shell_brotli_decoder_rce_cve2026111497/",
-   "ts": 1792844894,
    "source": "Reddit"
   },
   {
