@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-10-27T17:07:55Z",
+ "generated_at": "2026-10-27T17:19:15Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,27 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Good MELANIA TRUMP (@MELANIATRUMP) THE CEASEFIRE HAS COMMENCED The ceasefire between Ukraine and Russia took effect at 4:00am Moscow time on October 27, 2026. Timing was accelerated two days ahead of schedule to protect the safety of civilians and to facilitate the delivery of critical humanitarian aid. The ceasefire’s geographic area has expanded beyond Oleshky, within the Kherson Region, to provide safe passage for the humanitarian convoys. General Valery Gerasimov, Joint Chief of the General Staff of the Russian Armed Forces has confirmed. — https://nitter.kareem.one/MELANIATRUMP/status/2115116465942614045#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2115129139468673514#m",
+   "ts": 1793121058,
+   "id": "2115129139468673514#m"
+  },
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "These ones are pretty great! Benj Edwards (@benjedwards) Apple II Agent (Opus 5.5) drew a pretty good pelican riding a bicycle (cc: @simonw ) on the Apple Ii Seen here in both color and monochrome — https://nitter.kareem.one/benjedwards/status/2115120640906727914#m",
+   "url": "https://nitter.kareem.one/simonw/status/2115128326922883517#m",
+   "ts": 1793120864,
+   "id": "2115128326922883517#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -100,7 +117,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 39% — No, its for retail chumps 25% — Undecided/Maybe 3,551 votes • 6 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
+   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 39% — No, its for retail chumps 25% — Undecided/Maybe 3,810 votes • 6 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "url": "https://nitter.kareem.one/swyx/status/2115089887959359988#m",
    "ts": 1793111700,
    "id": "2115089887959359988#m"
@@ -122,6 +139,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2115088922493526130#m",
    "ts": 1793111470,
    "id": "2115088922493526130#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "BREAKING: The nation’s first-ever Detransition Clinic is now open as a result of my historic settlement with Texas Children’s Hospital.",
+   "url": "https://nitter.kareem.one/KenPaxtonTX/status/2115085510657863854#m",
+   "ts": 1793110656,
+   "id": "2115085510657863854#m"
   },
   {
    "handle": "elonmusk",
@@ -235,15 +261,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "I see how some people can watch flashy robot demos on the timeline and think with a shiver that the robot apocalypse is around the corner, but reality check: There is no robot in the world that can change the batteries in a jack-o-lantern. If you have a robot friendly door handle it might be able to walk outside, pick it up, and carry it back inside. The robot could open the drawer with your batteries in it, but then things get tough. Opening the package of AA batteries? Extracting a precision screwdriver from its case? Unscrewing four tiny screws that require a hard press and twist? Popping batteries out of the case? Yes, you could build and train a specialist robot to do that today, but there is a very long way to go to replace the full range of human capabilities. Near term doomer scenarios should stop at “secretly controlling humanity” instead of “wiping humanity out” 😀",
-   "url": "https://nitter.kareem.one/ID_AA_Carmack/status/2114897771001974921#m",
-   "ts": 1793065896,
-   "id": "2114897771001974921#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "There are at least 20,000 non-citizens on the California voter rolls. Congressman Duarte lost by 187 votes. Congresswoman Michelle Steel lost by 653 votes. This is a constitutional crisis. The White House (@WhiteHouse) The thing they said doesn't happen is happening again. There is a minimum of 20,000 noncitizens on California voter rolls. Pass the SAVE AMERICA ACT and secure our elections. — https://nitter.kareem.one/WhiteHouse/status/2114740388514697527#m",
    "url": "https://nitter.kareem.one/ScottPresler/status/2114888252171637223#m",
    "ts": 1793063626,
@@ -262,7 +279,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 39% — No, its for retail chumps 25% — Undecided/Maybe 3,551 votes • 6 days",
+   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 39% — No, its for retail chumps 25% — Undecided/Maybe 3,810 votes • 6 days",
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
@@ -347,15 +364,6 @@
    "url": "https://nitter.kareem.one/trq212/status/2114796261362835842#m",
    "ts": 1793041694,
    "id": "2114796261362835842#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Well. Townhall.com (@townhallcom) UNDERCOVER: GAVIN NEWSOM SAYS THE DSA IS \"GOING TO BE DOMINANT\" AND \"MAINSTREAM\" IN THE DEMOCRATIC PARTY! \"The DSA, the energy and the desire and demand for bold change, not incremental change, is very much going to be dominant. I mean, that's going to be a mainstream Democratic movement. Absolutely. No question about that.\" That's California Gov. Gavin Newsom, a likely 2028 presidential candidate, speaking to an undercover journalist while campaigning in New Hampshire. Asked by a \"younger voter\" who said \"we don't want Kamala Harris, we want more democratic socialist policies\": \"No one is arguing to manage the status quo and fail more efficiently.\" \"You can't play in the margins anymore. The system's broken. It's completely unbalanced, and we can't manage the decline. We have to completely reimagine.\" Video — https://nitter.kareem.one/townhallcom/status/2114747000654598250#m",
-   "url": "https://nitter.kareem.one/DataRepublican/status/2114795166540394888#m",
-   "ts": 1793041433,
-   "id": "2114795166540394888#m"
   },
   {
    "handle": "TheRundownAI",
@@ -1580,15 +1588,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2108608837175701514#m",
    "ts": 1791566497,
    "id": "2108608837175701514#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "What's the best open weight Mixture-of-Experts LLM for coding that fits in less than 60GB of RAM? I think MoE might be necessary to get reasonably interactive speeds on the hardware I have access to - I want something faster than 12 tokens/second",
-   "url": "https://nitter.kareem.one/simonw/status/2108608482442449261#m",
-   "ts": 1791566412,
-   "id": "2108608482442449261#m"
   },
   {
    "handle": "bcherny",
