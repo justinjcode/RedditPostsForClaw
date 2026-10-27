@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-10-27T03:58:17Z",
+ "generated_at": "2026-10-27T04:23:16Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,9 +10,38 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "🤭 Robotaxi Radar (@RobotaxiRadar) Waymo just got mogged by Tesla in Houston 😳 — https://nitter.kareem.one/RobotaxiRadar/status/2114747474950725796#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2114931068365414757#m",
+   "ts": 1793073834,
+   "id": "2114931068365414757#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Sounds like Alex P🍆 knows a thing or two about being investigated 🤔 Katie Miller (@KatieMiller) As California's top election official during the 2020 presidential election, Alex Padilla handed a $35M voter-contact contract to Joe Biden's campaign firm. The state controller even refused to pay because she said his office didn't have the authority to spend the money. Alex illegally used federal election grant money for get-out-the-vote work. — https://nitter.kareem.one/KatieMiller/status/2114923009039290680#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2114930622238200202#m",
+   "ts": 1793073728,
+   "id": "2114930622238200202#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "10x safer to not-drive FSD than to drive a non-Tesla. What are you waiting for, Europe? Save lives! Sawyer Merritt (@SawyerMerritt) Tesla has released new FSD (Supervised) safety data. Miles per major collision: • Teslas Driven With FSD (Supervised): 6,006,200 • Teslas Driven Manually (Active Safety Features): 2,031,221 • Teslas Driven Manually (No Active Safety Features): 845,915 • U.S. Average: 660,164 Total major collisions: • Teslas with FSD (Supervised): 1,579 • Teslas driven manually with Active Safety: 17,775 • Teslas driven manually without Active Safety: 239 • U.S. average: 4,989,713 Total miles logged: • Teslas with FSD (Supervised): 9,483,790,215 • Teslas driven manually with Active Safety: 36,104,958,020 • Teslas driven manually without Active Safety: 202,173,600 • U.S. drivers overall: 3,294,031,000,000 Tesla vehicles with FSD (Supervised) engaged experienced ~9x fewer major collisions than those driving without it on. This is North America data across all road classes (highway and non-highway). The data reflects a rolling twelve-month aggregation of miles and collisions. — https://nitter.kareem.one/SawyerMerritt/status/2114924525536034869#m",
+   "url": "https://nitter.kareem.one/p_ferragu/status/2114926690988081593#m",
+   "ts": 1793072791,
+   "id": "2114926690988081593#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -54,7 +82,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 13% — Yes, significant % of NW 21% — Yes, \"average\" investment 43% — No, its for retail chumps 23% — Undecided/Maybe 801 votes • 6 days",
+   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 21% — Yes, \"average\" investment 42% — No, its for retail chumps 23% — Undecided/Maybe 866 votes • 6 days",
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
@@ -207,6 +235,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "This makes no sense when you realize all of the top round 1 candidates were right wing Politics & Poll Tracker 📡 (@PollTracker2024) NYT: Shift in margin between first and second round in Brazil's presidential election — https://nitter.kareem.one/PollTracker2024/status/2114773279667810673#m",
+   "url": "https://nitter.kareem.one/EndWokeness/status/2114776541364191390#m",
+   "ts": 1793036992,
+   "id": "2114776541364191390#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "Bravo to the smaller countries in Europe for moving fastest! Sawyer Merritt (@SawyerMerritt) Tesla FSD Supervised (now named Tesla Assisted Driving in Europe) has officially been approved in Latvia, marking the 10th European country. Countries in Europe that have approved it so far: • Belgium • Netherlands • Denmark • Lithuania • Estonia • Slovenia • Czechia • Croatia • Slovakia • Latvia — https://nitter.kareem.one/SawyerMerritt/status/2114700495130354030#m",
    "url": "https://nitter.kareem.one/elonmusk/status/2114773746510946544#m",
    "ts": 1793036326,
@@ -220,51 +257,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2114773137640554754#m",
    "ts": 1793036181,
    "id": "2114773137640554754#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok @Bot is like hiring an incredibly competent chief of staff Peter St Onge, Ph.D. (@profstonge) I've gone full Grokbot. It checks email, DMs, mentions, and LinkedIn every hour. It flags anything interesting, drafts replies, and tosses the other 99%. It literally feels like having a personal secretary 🤯 And 2 days in I'm like how did I live without this 😂 — https://nitter.kareem.one/profstonge/status/2114760720466292743#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2114772843997351993#m",
-   "ts": 1793036111,
-   "id": "2114772843997351993#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Supervised FSD approved in Latvia! 🇱🇻 Tesla Europe, Middle East & Africa (@teslaeurope) Now approved in Latvia 🇱🇻 Rollout begins soon — https://nitter.kareem.one/teslaeurope/status/2114667445223149619#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2114772404463337693#m",
-   "ts": 1793036006,
-   "id": "2114772404463337693#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Remember when using the wrong pronoun got people canceled? That was dumb. X Freeze (@XFreeze) If Elon Musk hadn't bought Twitter and fought back against the insanity of the last few years, the West would be much further down a path of self-destruction, self-hatred, and moral corruption ​• Pronouns treated like sacred scripture • State propaganda rebranded as \"truth\" and “misinformation” used to shut people up • Heavy censorship of anyone who disagrees • Child mutilation and sterilization sold as “gender-affirming care” • Birth rates collapsing while governments deliberately import a replacement population that refuses to assimilate and poses a threat to citizens • DEI over competence and merit • Open borders + cultural self-hatred as policy ​He called the woke mind virus anti-science, anti-merit, and anti-human for a reason. Without the fight he started, the damage would already be irreversible The woke mind virus is like The Walking Dead... it never stops coming. The fight has to continue or we risk the collapse of entire Western civilization — https://nitter.kareem.one/XFreeze/status/2114725666537283669#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2114765150431682772#m",
-   "ts": 1793034276,
-   "id": "2114765150431682772#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Interesting question Geiger Capital (@Geiger_Capital) The major question in Brazil… At exactly 5pm, a code is supposed to be entered that closes and locks the voting machines. Once a machine is locked, it can’t accept any more votes. It’s irreversible. The Supreme Court extension was relayed a few minutes after polls were supposed to be closed and machines locked. So… which machines were kept open? In what districts were those machines? And why weren’t they locked at 5pm? — https://nitter.kareem.one/Geiger_Capital/status/2114503174241615963#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2114764520552051185#m",
-   "ts": 1793034126,
-   "id": "2114764520552051185#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "It means entire countries and cultures will go extinct forever vittorio (@IterIntellectus) fertility rates are so abstract that people struggle to understand the scale of the catastrophe we’re experiencing. take 1.14 children per woman (italy and japan) if that continues, each generation is roughly half the size of the one before it start with 100 people in a generation, the next only has about 54, then 29, then 16. in three generations, roughly a century, you have a generation 84% smaller than the one you started with. for taiwan that would be 97.4%! i don't think people really understand what that means — https://nitter.kareem.one/IterIntellectus/status/2114753234443108791#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2114764208399421635#m",
-   "ts": 1793034052,
-   "id": "2114764208399421635#m"
   },
   {
    "handle": "swyx",
@@ -328,6 +320,15 @@
    "url": "https://nitter.kareem.one/BrianRoemmele/status/2114725164940423405#m",
    "ts": 1793024743,
    "id": "2114725164940423405#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Holy f*ck, Elon Musk's team at spacexai just dropped a full spam killer inside Grok Bot, and it's free DeleteMe charges $129 a year to pull your number off spam lists Grok Bot does it for $0 It finds your number on people-search sites, files every opt-out, clicks the confirmation emails and checks again every month Add the free Spam-Call Scrubber skill, then say these 3 lines once: 1. \"Find every site that lists my phone number and home address\" 2. \"File the opt-out on each one and finish the confirmation emails\" 3. \"Check again on the 1st of every month and tell me what came back\" Say line 1 tonight Then read how to wire it into a team that never sleeps in the article below ↓ Video Mori (@0xjmori) Grok Bot could be the operating layer AI agents have been missing. It can use tools, run routines and coordinate other agents with minimal supervision. In this article, I show you how. Article Grok Bot Agents: How to Build an AI Team You Can Actually Trust (Full Guide) A practical system for turning Grok Bot into a 24/7 AI workforce Most people are going to use Grok Bot wrong. They will create a Bot, connect a bunch of tools, give it something vague like: \"Handle my — https://nitter.kareem.one/0xjmori/status/2101661510091034926#m",
+   "url": "https://nitter.kareem.one/LunarResearcher/status/2114712197834149958#m",
+   "ts": 1793021652,
+   "id": "2114712197834149958#m"
   },
   {
    "handle": "TheRundownAI",
