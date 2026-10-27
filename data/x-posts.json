@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-10-27T10:15:28Z",
+ "generated_at": "2026-10-27T10:35:25Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -10,11 +11,27 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: therundownai.beehiiv.com/p/t… Link The AI bubble meets Anthropic’s real numbers Anthropic has filed for its IPO, and its financials challenge the \"AI bubble\" narrative: revenue growing faster than spending. Here's what the numbers show. therundownai.beehiiv.com",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2115028295263678974#m",
+   "ts": 1793097015,
+   "id": "2115028295263678974#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in AI today: - Anthropic officially files to go public - OpenAI’s next batch of AI science discoveries arrives - Turn sales call notes into follow-up emails with AI - OpenAI’s new Terra cuts the cost of AI computer use",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2115028290037534790#m",
+   "ts": 1793097014,
+   "id": "2115028290037534790#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -127,7 +144,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 13% — Yes, significant % of NW 21% — Yes, \"average\" investment 42% — No, its for retail chumps 24% — Undecided/Maybe 1,402 votes • 6 days",
+   "text": "will you buy $ANT stock at a $2T valuation? Poll 13% — Yes, significant % of NW 21% — Yes, \"average\" investment 41% — No, its for retail chumps 24% — Undecided/Maybe 1,422 votes • 6 days",
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
@@ -1067,24 +1084,6 @@
    "url": "https://nitter.kareem.one/biannagolodryga/status/2113254988621218057#m",
    "ts": 1792674226,
    "id": "2113254988621218057#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: therundownai.beehiiv.com/p/a… Link AI finds a security hole in 70% of the web AI models are now finding critical security flaws in 70% of the web, flipping from hackers to defenders. Here's what OpenAI and researchers discovered this week. therundownai.beehiiv.com",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2113216503059210348#m",
-   "ts": 1792665050,
-   "id": "2113216503059210348#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in AI today: - OpenAI’s model helps catch critical PHP flaws - Nate’s Notebook: If it’s copy-paste, let AI do it - Let Town prepare your next meeting brief - Anthropic joins the personal agent game with Duet",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2113216497979973703#m",
-   "ts": 1792665049,
-   "id": "2113216497979973703#m"
   },
   {
    "handle": "simonw",
