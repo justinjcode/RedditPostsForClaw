@@ -1,15 +1,43 @@
 {
- "generated_at": "2026-10-26T22:12:36Z",
+ "generated_at": "2026-10-27T00:29:28Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
+  "MachineLearning",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "MachineLearning",
+   "title": "How to do method research when I feel I have no guidance on doing it? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xgdl42/how_to_do_method_research_when_i_feel_i_have_no/",
+   "ts": 1793059603,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Building a music engraving engine from scratch",
+   "url": "https://www.reddit.com/r/programming/comments/1xgd7gv/building_a_music_engraving_engine_from_scratch/",
+   "ts": 1793058675,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "What should I use Flux, ArgoCD or ....",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xgc4mi/what_should_i_use_flux_argocd_or/",
+   "ts": 1793055841,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "PSA: Synology VMM 2.8.0 lets you schedule VM exports and power on/off",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xgbivr/psa_synology_vmm_280_lets_you_schedule_vm_exports/",
+   "ts": 1793054323,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "So tired of these AI crawlers",
@@ -50,6 +78,13 @@
    "title": "I now have definitive proofs that my Qwen Flash Next is trying to send something to a remote Chinese server",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg78oq/i_now_have_definitive_proofs_that_my_qwen_flash/",
    "ts": 1793044298,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Deepity: a hand-tuned C++/CUDA predictive coding library, beats jpc (JAX) and ngc-learn on MNIST (CPU benchmarks + source inside) [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xg6sqa/deepity_a_handtuned_ccuda_predictive_coding/",
+   "ts": 1793043297,
    "source": "Reddit"
   },
   {
@@ -95,17 +130,17 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "MachineLearning",
+   "title": "Fitting a 4D Mandelbulb with KS3 vs MLP [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xg36lw/fitting_a_4d_mandelbulb_with_ks3_vs_mlp_r/",
+   "ts": 1793035359,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "LocalLLaMA",
    "title": "Qwen3.8-Flash-Next tried to send diagnostic file to a remote location, while stating otherwies.",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg2bht/qwen38flashnext_tried_to_send_diagnostic_file_to/",
    "ts": 1793033479,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Why Lean is faster than Rust",
-   "url": "https://www.reddit.com/r/programming/comments/1xg1n2u/why_lean_is_faster_than_rust/",
-   "ts": 1793031995,
    "source": "Reddit"
   },
   {
@@ -130,10 +165,24 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Advice on self-hosting a cybersecurity scanning platform?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xg0iwu/advice_on_selfhosting_a_cybersecurity_scanning/",
-   "ts": 1793029635,
+   "subreddit": "programming",
+   "title": "Data Sovereignty and Open Architecture in Government Platforms: Design Principles",
+   "url": "https://www.reddit.com/r/programming/comments/1xg00l7/data_sovereignty_and_open_architecture_in/",
+   "ts": 1793028544,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Exposing Development Environments with Cloudflare Tunnel and WARP Without Opening Ports",
+   "url": "https://www.reddit.com/r/programming/comments/1xfzzwj/exposing_development_environments_with_cloudflare/",
+   "ts": 1793028500,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Bad Habits in Web Development We Should Avoid",
+   "url": "https://www.reddit.com/r/programming/comments/1xfzxqz/bad_habits_in_web_development_we_should_avoid/",
+   "ts": 1793028368,
    "source": "Reddit"
   },
   {
@@ -155,13 +204,6 @@
    "title": "eMudhra Crisis: What self-hosters should check on their reverse proxies and containers",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xfxf8v/emudhra_crisis_what_selfhosters_should_check_on/",
    "ts": 1793022745,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Beginner question on storage pools",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xfxai1/beginner_question_on_storage_pools/",
-   "ts": 1793022422,
    "source": "Reddit"
   },
   {
@@ -271,20 +313,6 @@
   },
   {
    "subreddit": "programming",
-   "title": "I'm Building My Own Programming Language",
-   "url": "https://www.reddit.com/r/programming/comments/1xfnoth/im_building_my_own_programming_language/",
-   "ts": 1792990413,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Talk from JavaOne 2026 -- What's Going Wrong with My JVM?! A Guide to First-Time Failure Diagnosis",
-   "url": "https://www.reddit.com/r/programming/comments/1xfjqcj/talk_from_javaone_2026_whats_going_wrong_with_my/",
-   "ts": 1792978112,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
    "title": "Who lost my lap infant? My attempt to reverse engineer a decade-long airline bug",
    "url": "https://www.reddit.com/r/programming/comments/1xfhd6i/who_lost_my_lap_infant_my_attempt_to_reverse/",
    "ts": 1792971616,
@@ -354,13 +382,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Broccoli2Shell: Brotli decoder RCE (CVE-2026-111497) in Node.js, Python and more",
-   "url": "https://www.reddit.com/r/programming/comments/1xe7dp8/broccoli2shell_brotli_decoder_rce_cve2026111497/",
-   "ts": 1792844894,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Got a pretrained music transformer to jam with me live, no fine-tuning, just steering the sampling [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xe4pex/got_a_pretrained_music_transformer_to_jam_with_me/",
@@ -369,30 +390,9 @@
   },
   {
    "subreddit": "MachineLearning",
-   "title": "Are we solving LLM memory by remembering more, when the real problem is knowing what to forget?[D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xdpek9/are_we_solving_llm_memory_by_remembering_more/",
-   "ts": 1792787946,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
    "title": "[R] The Hive Mind is a Single Reinforcement Learning Agent: Deriving the Exact Equivalence Between Swarm Dynamics and Multi-Armed Bandits",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdhf7r/r_the_hive_mind_is_a_single_reinforcement/",
    "ts": 1792769843,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Is symbolic ai dead? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xdekrf/is_symbolic_ai_dead_d/",
-   "ts": 1792763356,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "AAAI 2027 phase 2 reviews discussion [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xddbgv/aaai_2027_phase_2_reviews_discussion_d/",
-   "ts": 1792760298,
    "source": "Reddit"
   },
   {
