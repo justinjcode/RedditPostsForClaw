@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T06:36:54Z",
+ "generated_at": "2026-10-27T07:03:54Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Everyone should have at least a few penchants",
+   "url": "https://nitter.kareem.one/elonmusk/status/2114973768473039185#m",
+   "ts": 1793084015,
+   "id": "2114973768473039185#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -117,7 +126,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 21% — Yes, \"average\" investment 42% — No, its for retail chumps 23% — Undecided/Maybe 1,121 votes • 6 days",
+   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 21% — Yes, \"average\" investment 42% — No, its for retail chumps 23% — Undecided/Maybe 1,163 votes • 6 days",
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
@@ -175,15 +184,6 @@
    "url": "https://nitter.kareem.one/wholemars/status/2114833652442132841#m",
    "ts": 1793050609,
    "id": "2114833652442132841#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I was already on SuperGrok Heavy, Grok’s top plan, and I still kept getting: “You’re out of Bot usage.” So today I upgraded to Ultra, the TOP tier of 𝕏 Subscriptions. Before this, I was paying for SuperGrok Heavy and 𝕏 Premium+ separately. And I run a whole team of Grok Bots every day… a chief of staff, research, email, money, travel, sports and my kid’s schedule. These bots literally have become part of how I run my life. Moving everything onto one plan just made sense. The 𝕏 Subscription brings Grok, Grok Bot, Cursor and 𝕏 Premium together, with one bill and a shared pool of Grok usage. If you’re choosing a plan, here’s the breakdown: 1/ FREE — $0 The basics, with limited usage. 2/ PLUS — $8/month Grok Chat, Voice, Imagine and Build, Cursor with Grok models, plus the checkmark and fewer ads on 𝕏. But no Grok Bot. 3/ PREMIUM — $30/month 4x the usage of Plus. This is where Grok Bot starts. You also get the latest Grok models, faster Chat, AI video, Cursor cloud agents and automations, and full 𝕏 Premium+ benefits, including ad-free scrolling on most surfaces. 4/ SUPER — $100/month 15x the usage of Plus. Everything in Premium, plus priority model access during busy periods. 5/ ULTRA — $200/month 50x the usage of Plus. Everything in Super, plus earliest access to new products and models. My upgrade screen also lists the most powerful Chat models and the fastest responses and generations. Ultra also has a $2,000/year option, paid upfront, which works out to about $167/month fyi.",
-   "url": "https://nitter.kareem.one/Teslaconomics/status/2114827425289036116#m",
-   "ts": 1793049124,
-   "id": "2114827425289036116#m"
   },
   {
    "handle": "swyx",
