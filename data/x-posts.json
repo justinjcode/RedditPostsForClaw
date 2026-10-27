@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T15:22:09Z",
+ "generated_at": "2026-10-27T15:41:31Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -18,6 +18,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "United Airlines CEO in new interview on Delta Airlines choosing not to adopt @Starlink : \"It's a mistake. I think (Starlink) is the biggest competitive advantage of all time. We are going to have a few years of being the only airline that has it at scale.\"",
+   "url": "https://nitter.kareem.one/SawyerMerritt/status/2115096791393681426#m",
+   "ts": 1793113346,
+   "id": "2115096791393681426#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "Starlink Brasil 🇧🇷 Starlink (@Starlink) Starlink Mobile is now live in Brazil with @vivobr ! 50M customers can use apps and messaging in cellular dead zones — with 7M phones already connected. This is the first nationwide service to cover the entire country. The next-gen service - Starlink Mobile V2 - will make sure all Brazilians have access to high-speed mobile internet, from small fishing villages deep in the rainforests to remote stretches of highways 🛰️📱 — https://nitter.kareem.one/Starlink/status/2114747196226859108#m",
    "url": "https://nitter.kareem.one/elonmusk/status/2115092766275543266#m",
    "ts": 1793112386,
@@ -27,7 +36,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 21% — Yes, \"average\" investment 41% — No, its for retail chumps 24% — Undecided/Maybe 1,972 votes • 6 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
+   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 21% — Yes, \"average\" investment 41% — No, its for retail chumps 24% — Undecided/Maybe 2,116 votes • 6 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "url": "https://nitter.kareem.one/swyx/status/2115089887959359988#m",
    "ts": 1793111700,
    "id": "2115089887959359988#m"
@@ -216,7 +225,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 21% — Yes, \"average\" investment 41% — No, its for retail chumps 24% — Undecided/Maybe 1,972 votes • 6 days",
+   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 21% — Yes, \"average\" investment 41% — No, its for retail chumps 24% — Undecided/Maybe 2,116 votes • 6 days",
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
@@ -391,15 +400,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2114726364880179286#m",
    "ts": 1793025029,
    "id": "2114726364880179286#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Holy f*ck, Elon Musk's team at spacexai just dropped a full spam killer inside Grok Bot, and it's free DeleteMe charges $129 a year to pull your number off spam lists Grok Bot does it for $0 It finds your number on people-search sites, files every opt-out, clicks the confirmation emails and checks again every month Add the free Spam-Call Scrubber skill, then say these 3 lines once: 1. \"Find every site that lists my phone number and home address\" 2. \"File the opt-out on each one and finish the confirmation emails\" 3. \"Check again on the 1st of every month and tell me what came back\" Say line 1 tonight Then read how to wire it into a team that never sleeps in the article below ↓ Video Mori (@0xjmori) Grok Bot could be the operating layer AI agents have been missing. It can use tools, run routines and coordinate other agents with minimal supervision. In this article, I show you how. Article Grok Bot Agents: How to Build an AI Team You Can Actually Trust (Full Guide) A practical system for turning Grok Bot into a 24/7 AI workforce Most people are going to use Grok Bot wrong. They will create a Bot, connect a bunch of tools, give it something vague like: \"Handle my — https://nitter.kareem.one/0xjmori/status/2101661510091034926#m",
-   "url": "https://nitter.kareem.one/LunarResearcher/status/2114712197834149958#m",
-   "ts": 1793021652,
-   "id": "2114712197834149958#m"
   },
   {
    "handle": "TheRundownAI",
