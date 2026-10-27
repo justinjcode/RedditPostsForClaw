@@ -1,20 +1,34 @@
 {
- "generated_at": "2026-10-27T04:13:35Z",
+ "generated_at": "2026-10-27T06:21:21Z",
  "count": 60,
  "subreddits_ok": [
+  "LocalLLaMA",
   "MachineLearning",
-  "programming",
-  "selfhosted"
+  "programming"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "MachineLearning",
+   "title": "Practical notes on setting up a GPU kernel-dev environment: CUDA 13's GPU cutoff, async timing pitfalls, profiler counter permissions [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xgisgo/practical_notes_on_setting_up_a_gpu_kerneldev/",
+   "ts": 1793074354,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "What's the actual self-hosted RAG stack when docs can't leave your cloud?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xgirpf/whats_the_actual_selfhosted_rag_stack_when_docs/",
    "ts": 1793074286,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Introducing Zest: model server + agent + friendly GUI",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgi2cx/introducing_zest_model_server_agent_friendly_gui/",
+   "ts": 1793072090,
    "source": "Reddit"
   },
   {
@@ -155,13 +169,6 @@
    "title": "Deepity: a hand-tuned C++/CUDA predictive coding library, beats jpc (JAX) and ngc-learn on MNIST (CPU benchmarks + source inside) [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xg6sqa/deepity_a_handtuned_ccuda_predictive_coding/",
    "ts": 1793043297,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Price 5080 10 days",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg5rlx/price_5080_10_days/",
-   "ts": 1793041037,
    "source": "Reddit"
   },
   {
@@ -386,13 +393,6 @@
    "title": "Broccoli2Shell: Brotli decoder RCE (CVE-2026-111497) in Node.js, Python and more",
    "url": "https://www.reddit.com/r/programming/comments/1xe7dp8/broccoli2shell_brotli_decoder_rce_cve2026111497/",
    "ts": 1792844894,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "[R] The Hive Mind is a Single Reinforcement Learning Agent: Deriving the Exact Equivalence Between Swarm Dynamics and Multi-Armed Bandits",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xdhf7r/r_the_hive_mind_is_a_single_reinforcement/",
-   "ts": 1792769843,
    "source": "Reddit"
   },
   {
