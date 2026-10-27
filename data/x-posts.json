@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-10-27T16:53:22Z",
+ "generated_at": "2026-10-27T17:07:55Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,9 +10,29 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "🤨 New York Post (@nypost) Hundreds of ballots left exposed at Skid Row homeless center ahead of LA election trib.al/jDflz8e — https://nitter.kareem.one/nypost/status/2114796654859526401#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2115126959940554814#m",
+   "ts": 1793120539,
+   "id": "2115126959940554814#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "James Talarico now calls himself a \"border security Democrat.\" His Texas House record says otherwise. While millions poured across the border under Biden, Talarico voted NO on: ❌ $1.8 billion for border security ❌ The Texas Border Protection Unit ❌ Arrest powers for Border Patrol ❌ Funding for the border wall (twice) ❌ Tougher human smuggling penalties ❌ Making illegal entry a state crime (twice) ❌ Requiring sheriffs to work with ICE Nine votes. Nine NOs. Don’t send Talarico to Washington to vote with the Democrats who let millions pour across the border. Early voting ends Oct. 30. Go vote, Texas.",
+   "url": "https://nitter.kareem.one/KanekoaTheGreat/status/2115123811444269295#m",
+   "ts": 1793119788,
+   "id": "2115123811444269295#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -63,6 +82,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "In the summer of 1994, a 23-year-old Elon Musk spent his days in Los Gatos at Pinnacle Research Institute, dreaming up how ultracapacitors could power electric cars and even Star Wars–style laser guns. Then, around 5 p.m. every evening, he drove to Palo Alto for his second job at Rocket Science Games, a startup full of future legends, from Tony Fadell, who would later build the iPod, to the people behind Apple's QuickTime and engineers from Industrial Light & Magic. They hired him to write the most boring code imaginable, drivers so joysticks and mice would work with games, but Elon quietly gave himself a much harder problem 😂: figuring out how a computer could run a game and stream video from a CD at the same time, something the machines of that era simply couldn't do. Peter Barrett, one of the company's founders, remembered him as \"completely unflappable,\" and said that after a while nobody was giving him directions at all, because he was just building what he wanted to build. Bruce Leak, who hired him, said: \"He had boundless energy.\" So yeah, nobody handed Elon the big problem, he just went looking for it, at night, after a full day at another job. This is who Elon Musk is 💙",
+   "url": "https://nitter.kareem.one/EvaFox/status/2115093044705763697#m",
+   "ts": 1793112453,
+   "id": "2115093044705763697#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "Starlink Brasil 🇧🇷 Starlink (@Starlink) Starlink Mobile is now live in Brazil with @vivobr ! 50M customers can use apps and messaging in cellular dead zones — with 7M phones already connected. This is the first nationwide service to cover the entire country. The next-gen service - Starlink Mobile V2 - will make sure all Brazilians have access to high-speed mobile internet, from small fishing villages deep in the rainforests to remote stretches of highways 🛰️📱 — https://nitter.kareem.one/Starlink/status/2114747196226859108#m",
    "url": "https://nitter.kareem.one/elonmusk/status/2115092766275543266#m",
    "ts": 1793112386,
@@ -72,7 +100,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 39% — No, its for retail chumps 25% — Undecided/Maybe 3,388 votes • 6 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
+   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 39% — No, its for retail chumps 25% — Undecided/Maybe 3,551 votes • 6 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "url": "https://nitter.kareem.one/swyx/status/2115089887959359988#m",
    "ts": 1793111700,
    "id": "2115089887959359988#m"
@@ -198,33 +226,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Cute 🥰 Jensen Huang (@JensenHuang) I was the opening act for a family of ducks. Thank you, Berlin. What a GTC. Europe is building its AI ecosystem and economy, from AI factories to agents to robots. DSX POD: Vera Rubin modular factories built, cabled and tested in the factory, then delivered ready to produce intelligence. Agents: models, harnesses, sandboxes, knowledge and tools. NVIDIA Agent Toolkit brings the pieces together so companies control what their agents know, access and do. NVIDIA OpenShell enhances safety. Physical AI: new customers across AI-RAN, robotaxis and robotics. Personal AI: after four years building with Microsoft, RTX Spark brings personal agents to the Windows PC. Thank you to President @EmmanuelMacron , Prime Minister @andyburnham and Chancellor @bundeskanzler for hosting me. Great to celebrate Sferical One with Sweden’s technology leaders. And thank you to President @TokayevKZ for the warm welcome. And to our partners and NVIDIA teams: thank you for making it happen. The keynote is here: inv.kareem.one/rF1EsryCAwc Link Jensen Huang’s Keynote Highlights at NVIDIA GTC Berlin 2026 Europe is building its AI economy. NVIDIA founder and CEO Jensen Hu... youtube.com — https://nitter.kareem.one/JensenHuang/status/2114773600574279837#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2114944426271441127#m",
-   "ts": 1793077019,
-   "id": "2114944426271441127#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "A Storm of Cybercabs Sarah (@thesimple_sarah) Cybercab and Yap Video — https://nitter.kareem.one/thesimple_sarah/status/2114751345551147465#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2114936152205697247#m",
-   "ts": 1793075046,
-   "id": "2114936152205697247#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Just published a Grok @Bot to remove my number from spam call lists and one to remove my personal info from public sites Call list remover: x.ai/bot/eGVcE2autG0u6UcAwE3… Privacy scrubber: x.ai/bot/ZSQK72Iear_ykfnpTIO… Took seconds to set up.",
-   "url": "https://nitter.kareem.one/alx/status/2114935735430119764#m",
-   "ts": 1793074947,
-   "id": "2114935735430119764#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Elon Musk: \"At its heart, wokeness is divisive, exclusionary, and hateful. It basically gives mean people a shield to be mean and cruel, armored in false virtue.\" There's really nothing more I could add to that. Video",
    "url": "https://nitter.kareem.one/DefiantLs/status/2114915740293771772#m",
    "ts": 1793070180,
@@ -261,7 +262,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 39% — No, its for retail chumps 25% — Undecided/Maybe 3,388 votes • 6 days",
+   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 39% — No, its for retail chumps 25% — Undecided/Maybe 3,551 votes • 6 days",
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
@@ -366,6 +367,15 @@
    "id": "2114787251066683495#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "When @Starlink helped save a man’s life during emergency surgery in rural Zimbabwe. A young man suffered severe burns to his leg after falling into a cooking fire during a seizure. His parents spent hours helping him reach a remote hospital in Chisizya. Dr. Mike Jeans needed to perform an emergency operation he had never done before. Using Starlink, he called a colleague in South Africa, who guided him through the surgery. The operation succeeded. The patient was transferred by ambulance to a larger hospital. MATTER, the charity involved, reported that he survived and was recovering. Starlink connected a doctor to lifesaving medical guidance when his patient needed it most. This is why Starlink matters. A working connection can help save a life. This lifesaving technology should be available in every part of the world.",
+   "url": "https://nitter.kareem.one/cb_doge/status/2114784107389698172#m",
+   "ts": 1793038796,
+   "id": "2114784107389698172#m"
+  },
+  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -373,15 +383,6 @@
    "url": "https://nitter.kareem.one/niubi/status/2114774931456110898#m",
    "ts": 1793036608,
    "id": "2114774931456110898#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Texas parents need to understand how serious this election is. If you refuse to “affirm” your child’s trans identity, Democrat James Talarico thinks you should be charged with child abuse. He voted for a law in the state legislature that would do this, it’s exactly what he would do in the Senate. This is insane. Video",
-   "url": "https://nitter.kareem.one/america/status/2114772999396069613#m",
-   "ts": 1793036148,
-   "id": "2114772999396069613#m"
   },
   {
    "handle": "swyx",
