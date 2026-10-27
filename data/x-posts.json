@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T18:56:06Z",
+ "generated_at": "2026-10-27T19:06:44Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -8,13 +8,21 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "anyway here's my soundcloud Latent Space: AI News & Views (@latentspacepod) How Anthropic ships Claude with Claude latent.space/p/opus55/ Opus 5.5 is the #1 LLM in the world right now. We go behind the scenes of the launch, with @katelyn_lesse and @angjiang , heads of Eng and Product behind the platform used to build everything from the first party harnesses like Code/Tag/Duet and by >50% of Anthropic's top customers! Link How Anthropic ships Claude with Claude: Separating the Brain from the Hands — Latent Space Katelyn Lesse and Angela Jiang on Opus 5.5, the Claude Platform, and the engineering behind AI agents. latent.space — https://nitter.kareem.one/latentspacepod/status/2115156080309489736#m",
+   "url": "https://nitter.kareem.one/swyx/status/2115156135875629109#m",
+   "ts": 1793127495,
+   "id": "2115156135875629109#m"
+  },
   {
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
@@ -226,7 +234,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 39% — No, its for retail chumps 25% — Undecided/Maybe 4,474 votes • 6 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
+   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 39% — No, its for retail chumps 25% — Undecided/Maybe 4,623 votes • 6 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "url": "https://nitter.kareem.one/swyx/status/2115089887959359988#m",
    "ts": 1793111700,
    "id": "2115089887959359988#m"
@@ -361,7 +369,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 39% — No, its for retail chumps 25% — Undecided/Maybe 4,474 votes • 6 days",
+   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 39% — No, its for retail chumps 25% — Undecided/Maybe 4,623 votes • 6 days",
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
@@ -815,15 +823,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2113770573994299544#m",
    "ts": 1792797151,
    "id": "2113770573994299544#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "reject vc founder grind if u are hot corgi/wasian you should be sliding into dms for post economic bootstrapped ai founders with a bunch of angel exits and even more friends than money and complete control of their destiny litquidity (@litcapital) AI matchmaking is gonna hit SF like a nuclear bomb. Every girl is gonna be looking for a post-Series B AI founder who has sold secondaries and every tech bro is gonna look for a Corgi marketing girl or wasian — https://nitter.kareem.one/litcapital/status/2113701890798260476#m",
-   "url": "https://nitter.kareem.one/swyx/status/2113755882022752556#m",
-   "ts": 1792793648,
-   "id": "2113755882022752556#m"
   },
   {
    "handle": "Lingling_Wei",
