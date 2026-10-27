@@ -1,20 +1,38 @@
 {
- "generated_at": "2026-10-27T15:56:46Z",
+ "generated_at": "2026-10-27T16:10:41Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "A few more AI math and science results to add to the list from this week: @AnthropicAI says Claude also disproved the Exponential Time Hypothesis, separately from OpenAI. It found the key algorithm on Oct. 16 using \"14M output tokens and no human input.\" @axiommathai ’s AI agents computer-checked a 15,000-page math proof, written by ~100 mathematicians over decades, in 24 days. They also caught a flaw in one of the original arguments. @psipbc says its AI made progress on five open quantum physics problems, each backed by a paper and a computer-checked proof. The Rundown AI (@TheRundownAI) NEW: OpenAI says its AI just made three major discoveries in math, computer science, and physics. 1. Local smoothing + Kakeya conjectures (math): proved in every dimension. A 35-year-old question about how waves focus. 2. Exponential Time Hypothesis (computer science): disproved. Hundreds of research papers were built on it being true 3. Existence of QCD + Yang–Mills (physics): proved. Physics’ theory of the force holding atoms together now stands on solid math, including part of a $1M Millennium Prize problem. — https://nitter.kareem.one/TheRundownAI/status/2114839833134674351#m",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2115113176693969059#m",
+   "ts": 1793117252,
+   "id": "2115113176693969059#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "True DHH (@dhh) So much of the climate hysteria is just aimless guilt roaming the earth in search of futile acts of atonement. — https://nitter.kareem.one/dhh/status/2115063651430191303#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2115110737995796849#m",
+   "ts": 1793116671,
+   "id": "2115110737995796849#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -37,7 +55,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 21% — Yes, \"average\" investment 40% — No, its for retail chumps 24% — Undecided/Maybe 2,318 votes • 6 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
+   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 22% — Yes, \"average\" investment 40% — No, its for retail chumps 24% — Undecided/Maybe 2,541 votes • 6 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "url": "https://nitter.kareem.one/swyx/status/2115089887959359988#m",
    "ts": 1793111700,
    "id": "2115089887959359988#m"
@@ -235,7 +253,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 21% — Yes, \"average\" investment 40% — No, its for retail chumps 24% — Undecided/Maybe 2,318 votes • 6 days",
+   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 22% — Yes, \"average\" investment 40% — No, its for retail chumps 24% — Undecided/Maybe 2,541 votes • 6 days",
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
@@ -338,15 +356,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2114787251066683495#m",
    "ts": 1793039546,
    "id": "2114787251066683495#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "This makes no sense when you realize all of the top round 1 candidates were right wing Politics & Poll Tracker 📡 (@PollTracker2024) NYT: Shift in margin between first and second round in Brazil's presidential election — https://nitter.kareem.one/PollTracker2024/status/2114773279667810673#m",
-   "url": "https://nitter.kareem.one/EndWokeness/status/2114776541364191390#m",
-   "ts": 1793036992,
-   "id": "2114776541364191390#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -1078,15 +1087,6 @@
    "id": "2113329634448421148#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "NEW: Ex-OpenAI product chief Kevin Weil raised $215M for Warp Sciences, which is building labs where AI designs experiments and robots run them 24/7. The startup is focused on drug discovery first, with the overarching goal of \"scientific superintelligence.\"",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2113324291307811158#m",
-   "ts": 1792690749,
-   "id": "2113324291307811158#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -1153,7 +1153,7 @@
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
-   "text": "Fully included in the Pro plan, doesn't draw on your weekly usage. Community note: As of 22 October 2026, OpenAI’s dots are unavailable to ChatGPT Pro users in the EU. OpenAI excludes the European Economic Area (which includes all EU countries), the UK and Switzerland from Pro access. [Source: OpenAI documentation]( learn.chatgpt.com/docs/dots",
+   "text": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
    "url": "https://nitter.kareem.one/thsottiaux/status/2113029854417600834#m",
    "ts": 1792620550,
    "id": "2113029854417600834#m"
