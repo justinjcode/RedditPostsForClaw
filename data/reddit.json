@@ -1,15 +1,43 @@
 {
- "generated_at": "2026-10-27T02:19:16Z",
+ "generated_at": "2026-10-27T04:13:35Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "What's the actual self-hosted RAG stack when docs can't leave your cloud?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xgirpf/whats_the_actual_selfhosted_rag_stack_when_docs/",
+   "ts": 1793074286,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Version control for docker compose environment",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xghbex/version_control_for_docker_compose_environment/",
+   "ts": 1793069872,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "What is the value proposition of \"RL environment\" companies? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xggw1k/what_is_the_value_proposition_of_rl_environment/",
+   "ts": 1793068633,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Iframes should have an api",
+   "url": "https://www.reddit.com/r/programming/comments/1xgftsd/iframes_should_have_an_api/",
+   "ts": 1793065650,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Traccar: self-hosted GPS tracking, maintained for 10+ years",
@@ -130,13 +158,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "GhettoSMTP shutting down--alternatives?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xg6b1w/ghettosmtp_shutting_downalternatives/",
-   "ts": 1793042200,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Price 5080 10 days",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg5rlx/price_5080_10_days/",
@@ -158,13 +179,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "i have intel i5-4570 with ddr3 16gb ram and 1tb ssd. i am planning to us it has lab but i no idea please help me",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xg474a/i_have_intel_i54570_with_ddr3_16gb_ram_and_1tb/",
-   "ts": 1793037560,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Fitting a 4D Mandelbulb with KS3 vs MLP [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xg36lw/fitting_a_4d_mandelbulb_with_ks3_vs_mlp_r/",
@@ -179,6 +193,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "programming",
+   "title": "Why Lean is faster than Rust",
+   "url": "https://www.reddit.com/r/programming/comments/1xg1n2u/why_lean_is_faster_than_rust/",
+   "ts": 1793031995,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
    "title": "In the rabbit hole I go",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xg18p5/in_the_rabbit_hole_i_go/",
@@ -190,34 +211,6 @@
    "title": "Scoring IDP [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xg1695/scoring_idp_r/",
    "ts": 1793031006,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Data Sovereignty and Open Architecture in Government Platforms: Design Principles",
-   "url": "https://www.reddit.com/r/programming/comments/1xg00l7/data_sovereignty_and_open_architecture_in/",
-   "ts": 1793028544,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Exposing Development Environments with Cloudflare Tunnel and WARP Without Opening Ports",
-   "url": "https://www.reddit.com/r/programming/comments/1xfzzwj/exposing_development_environments_with_cloudflare/",
-   "ts": 1793028500,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Bad Habits in Web Development We Should Avoid",
-   "url": "https://www.reddit.com/r/programming/comments/1xfzxqz/bad_habits_in_web_development_we_should_avoid/",
-   "ts": 1793028368,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "BrowserCode: a browser-based coding playground, powered by WebAssembly",
-   "url": "https://www.reddit.com/r/programming/comments/1xfymz4/browsercode_a_browserbased_coding_playground/",
-   "ts": 1793025507,
    "source": "Reddit"
   },
   {
@@ -313,6 +306,13 @@
   },
   {
    "subreddit": "programming",
+   "title": "I'm Building My Own Programming Language",
+   "url": "https://www.reddit.com/r/programming/comments/1xfnoth/im_building_my_own_programming_language/",
+   "ts": 1792990413,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
    "title": "Who lost my lap infant? My attempt to reverse engineer a decade-long airline bug",
    "url": "https://www.reddit.com/r/programming/comments/1xfhd6i/who_lost_my_lap_infant_my_attempt_to_reverse/",
    "ts": 1792971616,
@@ -382,10 +382,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "Got a pretrained music transformer to jam with me live, no fine-tuning, just steering the sampling [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xe4pex/got_a_pretrained_music_transformer_to_jam_with_me/",
-   "ts": 1792835909,
+   "subreddit": "programming",
+   "title": "Broccoli2Shell: Brotli decoder RCE (CVE-2026-111497) in Node.js, Python and more",
+   "url": "https://www.reddit.com/r/programming/comments/1xe7dp8/broccoli2shell_brotli_decoder_rce_cve2026111497/",
+   "ts": 1792844894,
    "source": "Reddit"
   },
   {
