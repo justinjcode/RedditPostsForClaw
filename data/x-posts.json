@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-10-27T04:23:16Z",
+ "generated_at": "2026-10-27T04:43:18Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "A Storm of Cybercabs Sarah (@thesimple_sarah) Cybercab and Yap Video — https://nitter.kareem.one/thesimple_sarah/status/2114751345551147465#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2114936152205697247#m",
+   "ts": 1793075046,
+   "id": "2114936152205697247#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -82,7 +90,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 21% — Yes, \"average\" investment 42% — No, its for retail chumps 23% — Undecided/Maybe 866 votes • 6 days",
+   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 21% — Yes, \"average\" investment 42% — No, its for retail chumps 23% — Undecided/Maybe 951 votes • 6 days",
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
@@ -248,15 +256,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2114773746510946544#m",
    "ts": 1793036326,
    "id": "2114773746510946544#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Try using @Starlink for your home or business DogeDesigner (@cb_doge) 50 airlines and counting. 🚀 There’s no stopping @Starlink — https://nitter.kareem.one/cb_doge/status/2114771580945637486#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2114773137640554754#m",
-   "ts": 1793036181,
-   "id": "2114773137640554754#m"
   },
   {
    "handle": "swyx",
