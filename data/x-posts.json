@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T17:39:48Z",
+ "generated_at": "2026-10-27T17:45:50Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "yeah you ignored a @mntruell email in 2024 but did you pitch something like Claude Code in 2019 and then.... not do it for 7 years gist.github.com/swyxio/3af1e… Link an adaptive, intent based CLI \"state machine\" an adaptive, intent based CLI \"state machine\". GitHub Gist: instantly share code, notes, and snippets. gist.github.com",
+   "url": "https://nitter.kareem.one/swyx/status/2115135448876269782#m",
+   "ts": 1793122562,
+   "id": "2115135448876269782#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -144,7 +153,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 39% — No, its for retail chumps 25% — Undecided/Maybe 3,937 votes • 6 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
+   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 39% — No, its for retail chumps 25% — Undecided/Maybe 4,067 votes • 6 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "url": "https://nitter.kareem.one/swyx/status/2115089887959359988#m",
    "ts": 1793111700,
    "id": "2115089887959359988#m"
@@ -297,7 +306,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 39% — No, its for retail chumps 25% — Undecided/Maybe 3,937 votes • 6 days",
+   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 39% — No, its for retail chumps 25% — Undecided/Maybe 4,067 votes • 6 days",
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
@@ -814,15 +823,6 @@
    "url": "https://nitter.kareem.one/ClaudeDevs/status/2113698001889927608#m",
    "ts": 1792779848,
    "id": "2113698001889927608#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Deep and fun conversation on @latentspacepod about the cloud market, why sandbox demand is exploding, why code reviews suck, and much more. Thanks for having me on! Basil Chatha (@realbasilchatha) Last week, @bernhardsson (Founder & CEO, @modal ) announced a $750M Series D. I sat down with him the prior week to discuss a ton of stuff about the business. We got into: -why open-source models made fine-tuning a lot less necessary -how Modal's team grew 4x in a year and could hit ~700 people next year -why the frontier labs have the same business model as music artists and much, much, more… Enjoy! Timestamps: 0:00 What Modal does 1:25 From @Spotify to building @modal 4:19 Founding before the generative AI boom 7:43 First customers and fundraising 10:00 Building for inference and autoscaling 13:21 Where Modal gets GPU capacity 15:39 Renting vs. owning infrastructure 19:45 The risk of GPU prices falling 24:18 Is AI demand infinite? 28:25 What Modal can learn from neoclouds 30:26 GPUs as an asset class 31:55 Modal’s products: functions and sandboxes 36:03 The case for smaller training workloads 41:21 How agent sandboxes are changing 46:48 @AnthropicAI and sandbox security 49:29 Using agents to test security 52:51 Developer experience in the age of agents 57:45 What Modal’s forward-deployed engineers do 59:55 Modal’s approach to product management 1:03:29 Optional code reviews and engineering culture 1:05:56 Cloud, on-prem and bring-your-own-cloud 1:09:25 Capacity, fundraising and gr",
-   "url": "https://nitter.kareem.one/bernhardsson/status/2113697516986470580#m",
-   "ts": 1792779733,
-   "id": "2113697516986470580#m"
   },
   {
    "handle": "simonw",
