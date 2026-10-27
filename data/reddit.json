@@ -1,20 +1,34 @@
 {
- "generated_at": "2026-10-27T00:29:28Z",
+ "generated_at": "2026-10-27T02:19:16Z",
  "count": 60,
  "subreddits_ok": [
+  "LocalLLaMA",
   "MachineLearning",
-  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Traccar: self-hosted GPS tracking, maintained for 10+ years",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xgeull/traccar_selfhosted_gps_tracking_maintained_for_10/",
+   "ts": 1793062980,
+   "source": "Reddit"
+  },
   {
    "subreddit": "MachineLearning",
    "title": "How to do method research when I feel I have no guidance on doing it? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xgdl42/how_to_do_method_research_when_i_feel_i_have_no/",
    "ts": 1793059603,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "PSA: Qwen-3.8-FN is about to win the 2026 ARC-AGI-3 challenge",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgdjy3/psa_qwen38fn_is_about_to_win_the_2026_arcagi3/",
+   "ts": 1793059524,
    "source": "Reddit"
   },
   {
@@ -25,6 +39,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "Update: My 4B coding model is getting better at generating 3D scenes",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgc7uv/update_my_4b_coding_model_is_getting_better_at/",
+   "ts": 1793056069,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
    "title": "What should I use Flux, ArgoCD or ....",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xgc4mi/what_should_i_use_flux_argocd_or/",
@@ -32,10 +53,31 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "Interactive neuron steering playground for Qwen3.5-4B that runs locally in the browser on WebGPU",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgbr9y/interactive_neuron_steering_playground_for/",
+   "ts": 1793054922,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Qwen investigation traces release",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgbm28/qwen_investigation_traces_release/",
+   "ts": 1793054551,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
    "title": "PSA: Synology VMM 2.8.0 lets you schedule VM exports and power on/off",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xgbivr/psa_synology_vmm_280_lets_you_schedule_vm_exports/",
    "ts": 1793054323,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Have you gone fully local?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgazww/have_you_gone_fully_local/",
+   "ts": 1793053014,
    "source": "Reddit"
   },
   {
@@ -123,13 +165,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Local beats cloud, Qwen 3.8 FN",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg3rms/local_beats_cloud_qwen_38_fn/",
-   "ts": 1793036637,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Fitting a 4D Mandelbulb with KS3 vs MLP [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xg36lw/fitting_a_4d_mandelbulb_with_ks3_vs_mlp_r/",
@@ -158,13 +193,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "People who tried gpu-unlock on 3090s and such - does this make any difference on mixed-precision quants where you get some parts of the model quantized to <=Q8 but keep some tensors at BF16?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg0kle/people_who_tried_gpuunlock_on_3090s_and_such_does/",
-   "ts": 1793029727,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Data Sovereignty and Open Architecture in Government Platforms: Design Principles",
    "url": "https://www.reddit.com/r/programming/comments/1xg00l7/data_sovereignty_and_open_architecture_in/",
@@ -183,13 +211,6 @@
    "title": "Bad Habits in Web Development We Should Avoid",
    "url": "https://www.reddit.com/r/programming/comments/1xfzxqz/bad_habits_in_web_development_we_should_avoid/",
    "ts": 1793028368,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Fast voice agents with ConvFill",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfzdqu/fast_voice_agents_with_convfill/",
-   "ts": 1793027168,
    "source": "Reddit"
   },
   {
@@ -271,30 +292,9 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Intrusion detection/prevention on your homelab",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xfsedu/intrusion_detectionprevention_on_your_homelab/",
-   "ts": 1793008106,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "My €200 used mini PC has become one of my favorite hobbies. Here’s my little Dashboard.",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xfse94/my_200_used_mini_pc_has_become_one_of_my_favorite/",
    "ts": 1793008092,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Qwen4 expectations",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfrti9/qwen4_expectations/",
-   "ts": 1793005964,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "tencent/Hy-SimulMT-30B-A3B · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfrgt5/tencenthysimulmt30ba3b_hugging_face/",
-   "ts": 1793004683,
    "source": "Reddit"
   },
   {
