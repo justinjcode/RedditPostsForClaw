@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T16:22:52Z",
+ "generated_at": "2026-10-27T16:35:59Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "New features in Grok @Bot matt palmer (@mattyp) What's New in Grok Bot 00:00 🎃 00:13 Pages in Grok Bot 01:09 Vault 02:05 1Password 02:21 Apple integrations 03:21 Bot makes videos 03:47 New bot characters 04:13 X Spaces 04:31 Font fun 04:54 Design polish 05:11 Rapid fire Video — https://nitter.kareem.one/mattyp/status/2115111897397628974#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2115119252785303813#m",
+   "ts": 1793118701,
+   "id": "2115119252785303813#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -63,7 +72,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 22% — Yes, \"average\" investment 40% — No, its for retail chumps 25% — Undecided/Maybe 2,903 votes • 6 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
+   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 22% — Yes, \"average\" investment 39% — No, its for retail chumps 25% — Undecided/Maybe 3,228 votes • 6 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "url": "https://nitter.kareem.one/swyx/status/2115089887959359988#m",
    "ts": 1793111700,
    "id": "2115089887959359988#m"
@@ -216,15 +225,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "🤭 Robotaxi Radar (@RobotaxiRadar) Waymo just got mogged by Tesla in Houston 😳 — https://nitter.kareem.one/RobotaxiRadar/status/2114747474950725796#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2114931068365414757#m",
-   "ts": 1793073834,
-   "id": "2114931068365414757#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Elon Musk: \"At its heart, wokeness is divisive, exclusionary, and hateful. It basically gives mean people a shield to be mean and cruel, armored in false virtue.\" There's really nothing more I could add to that. Video",
    "url": "https://nitter.kareem.one/DefiantLs/status/2114915740293771772#m",
    "ts": 1793070180,
@@ -261,7 +261,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 22% — Yes, \"average\" investment 40% — No, its for retail chumps 25% — Undecided/Maybe 2,903 votes • 6 days",
+   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 22% — Yes, \"average\" investment 39% — No, its for retail chumps 25% — Undecided/Maybe 3,228 votes • 6 days",
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
