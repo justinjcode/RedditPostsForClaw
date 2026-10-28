@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-10-28T15:46:37Z",
+ "generated_at": "2026-10-28T15:55:18Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +10,9 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 179,
  "items": [
   {
@@ -67,6 +68,15 @@
    "url": "https://nitter.kareem.one/nima_owji/status/2115436409788248346#m",
    "ts": 1793194317,
    "id": "2115436409788248346#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Driving my @Tesla model Y home from pickup, first ever ride, this car is absolutely amazing. @elonmusk your team has produced a masterpiece, FSD is incredible🙌🏻 Video",
+   "url": "https://nitter.kareem.one/BuckSexton/status/2115426953582760314#m",
+   "ts": 1793192063,
+   "id": "2115426953582760314#m"
   },
   {
    "handle": "elonmusk",
@@ -625,15 +635,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2114726364880179286#m",
    "ts": 1793025029,
    "id": "2114726364880179286#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "We took our first Robotaxi ride in the new Houston service area! We live right on the edge of the new boundary, so of course our first ride was to Shipley Donuts. 🍩 The new map covers NRG Park, Downtown and the Medical Center. Download the Robotaxi app and book your ride today Houston! Video",
-   "url": "https://nitter.kareem.one/Matthewtcone/status/2114724874719567911#m",
-   "ts": 1793024674,
-   "id": "2114724874719567911#m"
   },
   {
    "handle": "TheRundownAI",
