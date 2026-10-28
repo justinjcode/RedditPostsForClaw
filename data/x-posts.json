@@ -1,18 +1,17 @@
 {
- "generated_at": "2026-10-28T07:57:13Z",
+ "generated_at": "2026-10-28T08:09:24Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@simonw: all instances failed",
-  "@swyx: all instances failed",
-  "@bcherny: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
   {
@@ -32,6 +31,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2115346748730380385#m",
    "ts": 1793172940,
    "id": "2115346748730380385#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "\"To love and be loved is to feel the sun from both sides.\" Grok Imagine Video",
+   "url": "https://nitter.kareem.one/KnightWorld/status/2115346652718620688#m",
+   "ts": 1793172917,
+   "id": "2115346652718620688#m"
   },
   {
    "handle": "elonmusk",
@@ -86,15 +94,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2115324467295756543#m",
    "ts": 1793167628,
    "id": "2115324467295756543#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok Imagine Grok Imagine (@imagine) Our Prompting Guide is live. We're building the Odyssey episodes in public with a small crew of creatives. Learn from our workflows! Article Inside Episode 1: The Oath We're sharing our workflows, from script to final edit, so you can learn alongside us and use these techniques in your own creative projects. Recently, we’ve partnered with Wonder Studios on a series — https://nitter.kareem.one/imagine/status/2115214583983935517#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2115323441738047731#m",
-   "ts": 1793167383,
-   "id": "2115323441738047731#m"
   },
   {
    "handle": "thsottiaux",
@@ -205,6 +204,15 @@
    "id": "2115205951649423585#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "🚨 MrBeast just nailed it “In my lifetime, is SpaceX going to own a colony on Mars? I think so. Name one thing that’s more badass than that that someone on Earth is currently doing.” The biggest creator in the world calling out SpaceX’s Mars mission as the most epic thing happening right now. Humanity’s future is being built at Starbase. Video",
+   "url": "https://nitter.kareem.one/AsFoundX/status/2115191063979725094#m",
+   "ts": 1793135822,
+   "id": "2115191063979725094#m"
+  },
+  {
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
    "author": "@realDonaldTrump",
@@ -257,15 +265,6 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2115150032986931656#m",
    "ts": 1793126040,
    "id": "2115150032986931656#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "A new bot called \"Director,\" by Xi Yan, showed up in the Grok Bot Marketplace. It's a video director that takes a brief and plans, shoots, cuts and delivers short films, ads, explainers or music videos. Import it, it comes with a pack of video skills. x.ai/bot/marketplace/bots/vi… Link Director · Grok Bot Marketplace Your video director: turn briefs into short films, ads, explainers, music videos, micro-dramas, and more — plan, shoot, cut, and deliver. x.ai",
-   "url": "https://nitter.kareem.one/tetsuoai/status/2115148923337842788#m",
-   "ts": 1793125775,
-   "id": "2115148923337842788#m"
   },
   {
    "handle": "swyx",
@@ -352,7 +351,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,267 votes • 5 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
+   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,314 votes • 5 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "url": "https://nitter.kareem.one/swyx/status/2115089887959359988#m",
    "ts": 1793111700,
    "id": "2115089887959359988#m"
@@ -385,6 +384,15 @@
    "id": "2115081093414109384#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Throughout my 20 something years in investing, SpaceX $SPCX is the largest arbitrage I’ve ever encountered. It’s not a misunderstanding in the usual sense — it’s a cognitive error at market scale, and that error is the edge for anyone willing to look. Management has published guidance and data in the open; the spoon is right there in front of everyone. Yet large parts of the market still can’t see it, or simply refuse to, because the numbers are genuinely that extreme. I don’t know whether this window stays open for one year, two, or ten. But I suspect that whenever it closes, looking back will be one of the more interesting exercises in modern market history.",
+   "url": "https://nitter.kareem.one/SPCX100T/status/2115049359381557675#m",
+   "ts": 1793102037,
+   "id": "2115049359381557675#m"
+  },
+  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -392,15 +400,6 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2115048188055019826#m",
    "ts": 1793101758,
    "id": "2115048188055019826#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "On this day in 2010: Tesla opened its first factory. It was an old GM-Toyota plant. Today, Tesla’s worth more than 5x GM and Toyota combined. Video",
-   "url": "https://nitter.kareem.one/JonErlichman/status/2115041872213385355#m",
-   "ts": 1793100252,
-   "id": "2115041872213385355#m"
   },
   {
    "handle": "TheRundownAI",
@@ -451,7 +450,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,267 votes • 5 days",
+   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,314 votes • 5 days",
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
