@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T05:55:09Z",
+ "generated_at": "2026-10-28T06:14:22Z",
  "accounts_ok": [
   "TheRundownAI",
   "ZichenWanghere",
@@ -15,6 +15,15 @@
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok Imagine Grok Imagine (@imagine) Our Prompting Guide is live. We're building the Odyssey episodes in public with a small crew of creatives. Learn from our workflows! Article Inside Episode 1: The Oath We're sharing our workflows, from script to final edit, so you can learn alongside us and use these techniques in your own creative projects. Recently, we’ve partnered with Wonder Studios on a series — https://nitter.kareem.one/imagine/status/2115214583983935517#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2115323441738047731#m",
+   "ts": 1793167383,
+   "id": "2115323441738047731#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -271,15 +280,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "True DHH (@dhh) So much of the climate hysteria is just aimless guilt roaming the earth in search of futile acts of atonement. — https://nitter.kareem.one/dhh/status/2115063651430191303#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2115110737995796849#m",
-   "ts": 1793116671,
-   "id": "2115110737995796849#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "United Airlines CEO in new interview on @Starlink : \"We were only going to do 65% of our fleet, but once we put it on our first aircraft, I got these anecdotes saying, 'I'm switching to flying regional 'cause it's got Starlink.' Then I was like, 'Holy cow, we gotta go all-in.'\"",
    "url": "https://nitter.kareem.one/SawyerMerritt/status/2115095036496867476#m",
    "ts": 1793112927,
@@ -298,7 +298,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,142 votes • 5 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
+   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,157 votes • 5 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "url": "https://nitter.kareem.one/swyx/status/2115089887959359988#m",
    "ts": 1793111700,
    "id": "2115089887959359988#m"
@@ -352,10 +352,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "A BILLION dollars+ over budget, years behind schedule, contractor suing Karen Bass for delays, and now the LAX people mover, which has yet to move any people, is now arcing and catching on fire. Forget the 3rd World...Karen Bass has turned LA into a 4th World country. Oren Ben-Joseph (@orenbj) Wow... LAX People Mover flashover was caught on video — https://nitter.kareem.one/orenbj/status/2114928312305029548#m",
-   "url": "https://nitter.kareem.one/spencerpratt/status/2115038491948265964#m",
-   "ts": 1793099446,
-   "id": "2115038491948265964#m"
+   "text": "On this day in 2010: Tesla opened its first factory. It was an old GM-Toyota plant. Today, Tesla’s worth more than 5x GM and Toyota combined. Video",
+   "url": "https://nitter.kareem.one/JonErlichman/status/2115041872213385355#m",
+   "ts": 1793100252,
+   "id": "2115041872213385355#m"
   },
   {
    "handle": "TheRundownAI",
@@ -433,7 +433,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,142 votes • 5 days",
+   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,157 votes • 5 days",
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
