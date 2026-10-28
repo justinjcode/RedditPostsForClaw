@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-10-28T07:11:13Z",
+ "generated_at": "2026-10-28T07:26:07Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "hello from literally everybody who took psychology 101 in undergrad Matthew Miskiewicz (@MattOfMisk) I honestly don't get the obsession with limit resets — https://nitter.kareem.one/MattOfMisk/status/2115104790262796305#m",
+   "url": "https://nitter.kareem.one/swyx/status/2115341903311024395#m",
+   "ts": 1793171785,
+   "id": "2115341903311024395#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -294,15 +304,6 @@
    "id": "2115116855236887022#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Amazing news! Texas Children's opens the nation's first detransition clinic. Now the hospital has to pay to help undo the damage. Under a $10 million settlement with Texas Attorney General Ken Paxton over billing Texas Medicaid for 'gender-transition' interventions, Texas Children's Hospital in Houston has opened what Paxton calls the nation's first detransition clinic. The hospital must fully fund the clinic's care for its first five years, so patients pay nothing. Services include endocrinology, surgery, primary care, fertility counseling, psychiatry, psychology, social work and case management, and speech pathology. billboardchris.com/news/2026… Link Texas Children's opens the nation's first detransition clinic. Now the hospital has to pay to help... Under a $10 million settlement with Texas Attorney General Ken Paxton over billing Texas Medicaid for 'gender-transition' interventions, Texas Children's Hospital in Houston has opened what Paxton... billboardchris.com",
-   "url": "https://nitter.kareem.one/BillboardChris/status/2115113896985899352#m",
-   "ts": 1793117424,
-   "id": "2115113896985899352#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -342,7 +343,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,242 votes • 5 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
+   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,255 votes • 5 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "url": "https://nitter.kareem.one/swyx/status/2115089887959359988#m",
    "ts": 1793111700,
    "id": "2115089887959359988#m"
@@ -450,7 +451,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,242 votes • 5 days",
+   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,255 votes • 5 days",
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
@@ -580,6 +581,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2114726364880179286#m",
    "ts": 1793025029,
    "id": "2114726364880179286#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "We took our first Robotaxi ride in the new Houston service area! We live right on the edge of the new boundary, so of course our first ride was to Shipley Donuts. 🍩 The new map covers NRG Park, Downtown and the Medical Center. Download the Robotaxi app and book your ride today Houston! Video",
+   "url": "https://nitter.kareem.one/Matthewtcone/status/2114724874719567911#m",
+   "ts": 1793024674,
+   "id": "2114724874719567911#m"
   },
   {
    "handle": "TheRundownAI",
@@ -868,15 +878,6 @@
    "url": "https://nitter.kareem.one/carmenli/status/2113823222357463219#m",
    "ts": 1792809703,
    "id": "2113823222357463219#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "fake news btw i got him Arfur Grok (@ArfurGrok) ✅ Sunil Pai ( @threepointone ) has joined Anthropic. — https://nitter.kareem.one/ArfurGrok/status/2113783040979640732#m",
-   "url": "https://nitter.kareem.one/swyx/status/2113811349281345578#m",
-   "ts": 1792806873,
-   "id": "2113811349281345578#m"
   },
   {
    "handle": "thsottiaux",
