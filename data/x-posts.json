@@ -1,18 +1,17 @@
 {
- "generated_at": "2026-10-28T13:13:08Z",
+ "generated_at": "2026-10-28T13:19:17Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
+  "realDonaldTrump",
+  "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@realDonaldTrump: all instances failed",
-  "@simonw: all instances failed",
-  "@swyx: all instances failed",
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
   {
@@ -41,6 +40,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2115353441954636214#m",
    "ts": 1793174536,
    "id": "2115353441954636214#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "China’s Car Industry Is Wowing the World—but Crashing at Home: Domestic sales have plunged, but the state-supported sector’s needed shakeout hasn’t begun; ‘so many competitors’ @StephenWilmot @NorthropKatrina wsj.com/business/autos/china… wsj.com/business/autos/china… Link China’s Car Industry Is Wowing the World—but Crashing at Home Domestic sales have plunged, but the state-supported sector’s needed shakeout hasn’t begun. “There’s a lot of sorting that’s going to happen,” said GM CEO Mary Barra. wsj.com",
+   "url": "https://nitter.kareem.one/JChengWSJ/status/2115353122067329302#m",
+   "ts": 1793174460,
+   "id": "2115353122067329302#m"
   },
   {
    "handle": "elonmusk",
@@ -370,7 +378,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,353 votes • 5 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
+   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,525 votes • 5 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "url": "https://nitter.kareem.one/swyx/status/2115089887959359988#m",
    "ts": 1793111700,
    "id": "2115089887959359988#m"
@@ -469,7 +477,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,353 votes • 5 days",
+   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,525 votes • 5 days",
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
@@ -1445,15 +1453,6 @@
    "url": "https://nitter.kareem.one/peterbakernyt/status/2112137585447539113#m",
    "ts": 1792407816,
    "id": "2112137585447539113#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "Rubio, asked about this WSJ report on a trip to Uzbekistan today: “I think there's been talks of a meeting. I don't know everything's been finalized.\" wsj.com/world/russia/putin-f… Link Exclusive | Putin Floats a Summit With Trump and Xi to Discuss Ukraine Deal Ukraine’s Volodymyr Zelensky wouldn’t be included in the proposed talks, as Russia’s leader seeks to negotiate an end to the war that favors Moscow. wsj.com",
-   "url": "https://nitter.kareem.one/VeraMBergen/status/2112129936408670468#m",
-   "ts": 1792405992,
-   "id": "2112129936408670468#m"
   },
   {
    "handle": "bcherny",
