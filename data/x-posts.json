@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T17:07:38Z",
+ "generated_at": "2026-10-28T17:18:44Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -8,12 +8,31 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@swyx: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "BREAKING: Google introduced Gemini 4 Carbon, which it says scores 59 on Artificial Analysis' Intelligence Index, one point above Claude Opus 5.5 for the No. 1 spot, and beats Opus on 14 of 16 published benchmarks. For now, it’s only available to a select group of cybersecurity defenders, with wider access promised \"as soon as possible.\" The Rundown AI (@TheRundownAI) Artificial Analysis just rebuilt its \"Intelligence Index\" AI leaderboard, with 60% of it now running on private tests models can’t study for. The new standings: 1. Claude Opus 5.5 – 58, still topping the charts 2. GPT-6 Astra – 57 3. GPT-6.1 Sol – 55 4. Claude Sonnet 5.5 – 54 5. GPT-6.1 Terra – 51, ahead of Gemini 4 Argon (50) and Claude Fable 5.1 (49) at ~1/13 of Fable’s cost Kimi K3.1 Pro, Moonshot’s model with open weights due Nov. 4, fell from 55 to 46 under the new testing, dropping from just 3 points behind the top spot to 12. The best open models available today, DeepSeek V4.1 Flash and GLM-5.3, score 32, below Claude Haiku 5.5 (36). — https://nitter.kareem.one/TheRundownAI/status/2115489453611356402#m",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2115493069722415403#m",
+   "ts": 1793207826,
+   "id": "2115493069722415403#m"
+  },
+  {
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
+   "text": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+ hours by the end of the four-week pilot. Anthropic (@AnthropicAI) We're expanding our partnership with @USGSA . Under a new OneGov agreement, we are bringing Claude to federal, state, local, tribal, and territorial governments at 40% off. anthropic.com/news/expanding… Link Expanding our partnership with GSA to bring Claude to all levels of government Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems. anthropic.com — https://nitter.kareem.one/AnthropicAI/status/2115207004293853358#m",
+   "url": "https://nitter.kareem.one/bcherny/status/2115491259381072269#m",
+   "ts": 1793207394,
+   "id": "2115491259381072269#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -22,6 +41,24 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2115489453611356402#m",
    "ts": 1793206964,
    "id": "2115489453611356402#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Actual language of Prop I: Shall the City Charter be amended to require an Independent Affordability and Efficiency Initiative on a regular basis and before any tax rate increase election and requiring the independent contractor to identify annual and multi-year savings that exceed the cost of the contractor’s service? Translation: “We don’t want to be held accountable for how we spend your tax dollars in Austin” so make it about Elon Musk and Donald Trump. It’s exhausting.",
+   "url": "https://nitter.kareem.one/mjboswell/status/2115488001740476808#m",
+   "ts": 1793206618,
+   "id": "2115488001740476808#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Holy. Shit. The NYT is reporting that despite their denials, Mary Peltola's staff and Democratic operatives flew all over Alaska in secret to find and recruit a man named Dan Sullivan. They put him on the ballot to purposefully steal votes from Republican Dan Sullivan.",
+   "url": "https://nitter.kareem.one/Geiger_Capital/status/2115475472117080366#m",
+   "ts": 1793203630,
+   "id": "2115475472117080366#m"
   },
   {
    "handle": "thsottiaux",
@@ -162,15 +199,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Hire Grok @Bot , you won’t regret it Pierre Ferragu (@p_ferragu) Planchet, my Grok Bot is promoted to fully-fledged team member. He has access to all our thinking (research, emails, models, slack, industry data), he is incredibly resourceful - a mesmerizing get-it-done attitude, ultra-fast, receptive with feedback. It is mind-blowing. — https://nitter.kareem.one/p_ferragu/status/2115239300874850481#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2115346748730380385#m",
-   "ts": 1793172940,
-   "id": "2115346748730380385#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "\"To love and be loved is to feel the sun from both sides.\" Grok Imagine Video",
    "url": "https://nitter.kareem.one/KnightWorld/status/2115346652718620688#m",
    "ts": 1793172917,
@@ -247,15 +275,6 @@
    "url": "https://nitter.kareem.one/thisiskp_/status/2115253809056288874#m",
    "ts": 1793150782,
    "id": "2115253809056288874#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "F1 World Champion tries Cybercab Oli (@CARN0N) 1996 Formula 1 World Champion Damon Hill takes his first ride in a Tesla Cybercab in Austin Video — https://nitter.kareem.one/CARN0N/status/2115202524567437539#m",
-   "url": "https://nitter.kareem.one/robotaxi/status/2115245051249062224#m",
-   "ts": 1793148694,
-   "id": "2115245051249062224#m"
   },
   {
    "handle": "elonmusk",
@@ -1023,15 +1042,6 @@
    "id": "2113639384033411487#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in tech today: - Palmer Luckey’s $1.2B war dog startup - Meta loses $25B privacy trial - SpaceX goes shopping for 80K cell towers - Airbnb bans the checkout chore list",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2113639378882887916#m",
-   "ts": 1792765872,
-   "id": "2113639378882887916#m"
-  },
-  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -1615,15 +1625,6 @@
    "url": "https://nitter.kareem.one/bcherny/status/2108013947144085714#m",
    "ts": 1791424664,
    "id": "2108013947144085714#m"
-  },
-  {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
-   "text": "It was one prompt, claude verified pretty well too! No bugs so far",
-   "url": "https://nitter.kareem.one/bcherny/status/2108008010253533397#m",
-   "ts": 1791423249,
-   "id": "2108008010253533397#m"
   }
  ]
 }
