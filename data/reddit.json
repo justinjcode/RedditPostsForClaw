@@ -1,20 +1,174 @@
 {
- "generated_at": "2026-10-27T14:15:11Z",
+ "generated_at": "2026-10-28T00:23:35Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
   {
    "subreddit": "selfhosted",
-   "title": "I built a self-hosted tool that spends the AI quota you'd lose at reset on small, tested pull requests to your repos",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xgtky5/i_built_a_selfhosted_tool_that_spends_the_ai/",
-   "ts": 1793110209,
+   "title": "B2B SaaS OS a production-oriented Next.js + Supabase starter with multi-tenancy and RBAC",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xh9kak/b2b_saas_os_a_productionoriented_nextjs_supabase/",
+   "ts": 1793146903,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "SETTLE - an IETF proposal that will revolutionize private network trust",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xh8pv7/settle_an_ietf_proposal_that_will_revolutionize/",
+   "ts": 1793144736,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Choose Your Backend: Three TLS Bugs in GoAhead",
+   "url": "https://www.reddit.com/r/programming/comments/1xh84hz/choose_your_backend_three_tls_bugs_in_goahead/",
+   "ts": 1793143214,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "How I added dynamic social preview images to my site for almost nothing",
+   "url": "https://www.reddit.com/r/programming/comments/1xh55mz/how_i_added_dynamic_social_preview_images_to_my/",
+   "ts": 1793135982,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Chevereto v4.5.8 released (security update)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xh4ubu/chevereto_v458_released_security_update/",
+   "ts": 1793135236,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "HEXAGON",
+   "url": "https://www.reddit.com/r/programming/comments/1xh4iav/hexagon/",
+   "ts": 1793134483,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "What are you using to replace Reddit RSS feeds in Homarr?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xh48wd/what_are_you_using_to_replace_reddit_rss_feeds_in/",
+   "ts": 1793133886,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Exploring Next-Concept Modeling (NCM) & Transformer Interpretability: Repository of 20 Exploratory Studies & Controls [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xh3e7o/exploring_nextconcept_modeling_ncm_transformer/",
+   "ts": 1793131987,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "The Paper Reviewing Process is Now in Critical Condition [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xh2wzt/the_paper_reviewing_process_is_now_in_critical/",
+   "ts": 1793130931,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Understanding Transformer Autograd by Building It Manually in PyTorch [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xh1z1p/understanding_transformer_autograd_by_building_it/",
+   "ts": 1793128808,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Billion-query-per-second lookup tables in C++",
+   "url": "https://www.reddit.com/r/programming/comments/1xh15vv/billionquerypersecond_lookup_tables_in_c/",
+   "ts": 1793127027,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Self-distillation with an EMA teacher at scale: ZeRO-3 + PEFT [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xh083s/selfdistillation_with_an_ema_teacher_at_scale/",
+   "ts": 1793124968,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "I built this, feedback welcome [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xgzbik/i_built_this_feedback_welcome_p/",
+   "ts": 1793123005,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "First 6-step LoRA adapters with no upsampling step, ~5x faster [N]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xgye14/first_6step_lora_adapters_with_no_upsampling_step/",
+   "ts": 1793120968,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Pangolin now supports mTLS client certificates, great for hardening externally exposed services",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xgxbnb/pangolin_now_supports_mtls_client_certificates/",
+   "ts": 1793118681,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "[FOSS] A tool to shrink Immich libraries 20-50% by converting originals to JPEG-XL / AV1 in place while keeping albums and metadata intact.",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xgxbju/foss_a_tool_to_shrink_immich_libraries_2050_by/",
+   "ts": 1793118675,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Image hosting that isnt Immich?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xgwu51/image_hosting_that_isnt_immich/",
+   "ts": 1793117614,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Ψ-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xgwq9u/ψ06_adaptive_streams_of_thought_in_a_unified/",
+   "ts": 1793117382,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "A few of my favorite software and programming language documentaries",
+   "url": "https://www.reddit.com/r/programming/comments/1xgwkhz/a_few_of_my_favorite_software_and_programming/",
+   "ts": 1793117034,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Teachers other than EMA for distillation ? [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xgwagz/teachers_other_than_ema_for_distillation_r/",
+   "ts": 1793116436,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "What to do with my paper, for MLsys conference? [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xguzyz/what_to_do_with_my_paper_for_mlsys_conference_r/",
+   "ts": 1793113538,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "SenseNova 6.8 Code2Video: animation examples with repeated geometry, text and scientific diagrams[P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xguyw1/sensenova_68_code2video_animation_examples_with/",
+   "ts": 1793113471,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xgu9ea/tailscale_warns_of_ssh_flaws_allowing_root/",
+   "ts": 1793111813,
    "source": "Reddit"
   },
   {
@@ -26,23 +180,9 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Openfw utm",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xgrj13/openfw_utm/",
-   "ts": 1793105091,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "First homelab: WireGuard vs. Headscale/NetBird, plus a tricky VPN situation",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xgr3b3/first_homelab_wireguard_vs_headscalenetbird_plus/",
    "ts": 1793103850,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "I built a PyTorch optimizer for large GPU workloads — looking for feedback[P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xgqtxp/i_built_a_pytorch_optimizer_for_large_gpu/",
-   "ts": 1793103086,
    "source": "Reddit"
   },
   {
@@ -81,13 +221,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Eulogy for the Software Engineer",
-   "url": "https://www.reddit.com/r/programming/comments/1xgonay/eulogy_for_the_software_engineer/",
-   "ts": 1793096152,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Tensor Split Over PCIe 3.0 x1 — Good Results",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgojqz/tensor_split_over_pcie_30_x1_good_results/",
@@ -120,34 +253,6 @@
    "title": "GameVault 2 is here: Linux support and a completely rebuilt, responsive UI",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xgn565/gamevault_2_is_here_linux_support_and_a/",
    "ts": 1793090527,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Did a dry run of the Stalwart 0.16 -> 1.0 migration with a copy of my server. Went fine, but heads up if you use the admin API",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xgldsw/did_a_dry_run_of_the_stalwart_016_10_migration/",
-   "ts": 1793083606,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Practical notes on setting up a GPU kernel-dev environment: CUDA 13's GPU cutoff, async timing pitfalls, profiler counter permissions [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xgisgo/practical_notes_on_setting_up_a_gpu_kerneldev/",
-   "ts": 1793074354,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "What's the actual self-hosted RAG stack when docs can't leave your cloud?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xgirpf/whats_the_actual_selfhosted_rag_stack_when_docs/",
-   "ts": 1793074286,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Version control for docker compose environment",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xghbex/version_control_for_docker_compose_environment/",
-   "ts": 1793069872,
    "source": "Reddit"
   },
   {
@@ -242,52 +347,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Every Angular Version Explained in 14 Minutes (2 to 22) | Visually Explained",
-   "url": "https://www.reddit.com/r/programming/comments/1xg5pem/every_angular_version_explained_in_14_minutes_2/",
-   "ts": 1793040904,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Fitting a 4D Mandelbulb with KS3 vs MLP [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xg36lw/fitting_a_4d_mandelbulb_with_ks3_vs_mlp_r/",
-   "ts": 1793035359,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Qwen3.8-Flash-Next tried to send diagnostic file to a remote location, while stating otherwies.",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg2bht/qwen38flashnext_tried_to_send_diagnostic_file_to/",
    "ts": 1793033479,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "In the rabbit hole I go",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xg18p5/in_the_rabbit_hole_i_go/",
-   "ts": 1793031146,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Scoring IDP [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xg1695/scoring_idp_r/",
-   "ts": 1793031006,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "eMudhra Crisis: What self-hosters should check on their reverse proxies and containers",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xfxf8v/emudhra_crisis_what_selfhosters_should_check_on/",
-   "ts": 1793022745,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "How to write a \"bug hunt\" blog post",
-   "url": "https://www.reddit.com/r/programming/comments/1xfwnaz/how_to_write_a_bug_hunt_blog_post/",
-   "ts": 1793020877,
    "source": "Reddit"
   },
   {
@@ -319,20 +382,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "My €200 used mini PC has become one of my favorite hobbies. Here’s my little Dashboard.",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xfse94/my_200_used_mini_pc_has_become_one_of_my_favorite/",
-   "ts": 1793008092,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "PBT doesn’t make grokking faster, but it can escape a hyperparameter range where nothing groks [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xfqhfc/pbt_doesnt_make_grokking_faster_but_it_can_escape/",
-   "ts": 1793000887,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Who lost my lap infant? My attempt to reverse engineer a decade-long airline bug",
    "url": "https://www.reddit.com/r/programming/comments/1xfhd6i/who_lost_my_lap_infant_my_attempt_to_reverse/",
@@ -340,59 +389,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "What's the hardest part of creating edge cases for fine-tuning open-weight models? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xfa17z/whats_the_hardest_part_of_creating_edge_cases_for/",
-   "ts": 1792953321,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Nanbeige releases Nanbeige4.3-33B, an Apache 2.0 teacher model for smaller agents [N]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xf6x35/nanbeige_releases_nanbeige4333b_an_apache_20/",
-   "ts": 1792945964,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Just finished my multiplayer system in C and turns out we can support 50k players in a single server at 60hz simulation tick",
    "url": "https://www.reddit.com/r/programming/comments/1xf4c5d/just_finished_my_multiplayer_system_in_c_and/",
    "ts": 1792939838,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Rewinding the exponential: How we keep hardware usage down",
-   "url": "https://www.reddit.com/r/programming/comments/1xf0aai/rewinding_the_exponential_how_we_keep_hardware/",
-   "ts": 1792928764,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "HTMX creator on the history of REST and why he thinks we got it wrong",
-   "url": "https://www.reddit.com/r/programming/comments/1xezyoh/htmx_creator_on_the_history_of_rest_and_why_he/",
-   "ts": 1792927691,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "ICLR 2027 is still handing out desk rejects [N]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu2z1/iclr_2027_is_still_handing_out_desk_rejects_n/",
-   "ts": 1792906536,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "memt-1.0 architecture breakdown gated deltanet-2, mixture-of-storage, and 66x smaller storage footprint for agent memory [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu0ht/memt10_architecture_breakdown_gated_deltanet2/",
-   "ts": 1792906279,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Increasing number of UG authors in A* conferences with no supervisor [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xe9uoh/increasing_number_of_ug_authors_in_a_conferences/",
-   "ts": 1792851487,
    "source": "Reddit"
   },
   {
