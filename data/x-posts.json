@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T20:53:28Z",
+ "generated_at": "2026-10-28T21:08:00Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "introducing prism, the world’s first speech-to-speech model you can’t tell from a human in conversation prism has: > 300ms response time, 4x faster than OpenAI GPT-Live > outperforms every other s2s model on intelligence (with NO reasoning) > the first s2s model customizable through reinforcement learning we’re a team of 35 with $35M in funding, and we’re unlocking s2s model adoption faster than openai, google, and x. the first 100 people to sign up here get 1 month free: rime.ai/prism?utm_campaign=p… Video",
+   "url": "https://nitter.kareem.one/lilyjclifford/status/2115521147890520503#m",
+   "ts": 1793214520,
+   "id": "2115521147890520503#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -441,7 +450,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,626 votes • 5 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
+   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,627 votes • 5 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "url": "https://nitter.kareem.one/swyx/status/2115089887959359988#m",
    "ts": 1793111700,
    "id": "2115089887959359988#m"
@@ -540,7 +549,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,626 votes • 5 days",
+   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,627 votes • 5 days",
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
@@ -868,15 +877,6 @@
    "url": "https://nitter.kareem.one/jwdwerner/status/2114028658511732816#m",
    "ts": 1792858683,
    "id": "2114028658511732816#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "First time at the Latent Space studio after being three year listener First time interviewing a true inspirer and podcaster that really explains the AI’s complexity in “human” way First time we are going to bring @aiDotEngineer to Shanghai with Mengying and her team Thanks for the conversation @swyx and can’t wait to see what is coming in Shanghai!",
-   "url": "https://nitter.kareem.one/Ninggao88/status/2114025876291788963#m",
-   "ts": 1792858020,
-   "id": "2114025876291788963#m"
   },
   {
    "handle": "swyx",
