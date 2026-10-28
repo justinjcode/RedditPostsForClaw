@@ -1,20 +1,55 @@
 {
- "generated_at": "2026-10-28T00:23:35Z",
+ "generated_at": "2026-10-28T02:12:36Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
   {
+   "subreddit": "programming",
+   "title": "Python jettisons the native JIT, at least for now",
+   "url": "https://www.reddit.com/r/programming/comments/1xhbl06/python_jettisons_the_native_jit_at_least_for_now/",
+   "ts": 1793152534,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
-   "title": "B2B SaaS OS a production-oriented Next.js + Supabase starter with multi-tenancy and RBAC",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xh9kak/b2b_saas_os_a_productionoriented_nextjs_supabase/",
-   "ts": 1793146903,
+   "title": "Lagrange Reader: an offline Android companion for BookOrbit, Komga, and Kavita",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xhbi9q/lagrange_reader_an_offline_android_companion_for/",
+   "ts": 1793152317,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Basic Home Setup",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xhazme/basic_home_setup/",
+   "ts": 1793150867,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Spinifex v1.23.0 Release - Route53 public domains, security updates, operator QOL",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xh9zq4/spinifex_v1230_release_route53_public_domains/",
+   "ts": 1793148077,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "DeepSeek-V4.1-Flash-1017 at 41 tok/s on one 3090",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh9yf7/deepseekv41flash1017_at_41_toks_on_one_3090/",
+   "ts": 1793147985,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "SK Hynix expects demand to outpace supply through 2030",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh9qj4/sk_hynix_expects_demand_to_outpace_supply_through/",
+   "ts": 1793147373,
    "source": "Reddit"
   },
   {
@@ -39,6 +74,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "New audio model: LFM3-Audio-2B",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh50at/new_audio_model_lfm3audio2b/",
+   "ts": 1793135647,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
    "title": "Chevereto v4.5.8 released (security update)",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xh4ubu/chevereto_v458_released_security_update/",
@@ -53,10 +95,24 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "OpenAI's major results over the last 3 months came from scaling test-time compute with agent swarms. I've been building an open-source equivalent for the past year, and I'd love for you guys to try it.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh4bnd/openais_major_results_over_the_last_3_months_came/",
+   "ts": 1793134058,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
    "title": "What are you using to replace Reddit RSS feeds in Homarr?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xh48wd/what_are_you_using_to_replace_reddit_rss_feeds_in/",
    "ts": 1793133886,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "The reason why 5090's are $10k now...",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh3iek/the_reason_why_5090s_are_10k_now/",
+   "ts": 1793132241,
    "source": "Reddit"
   },
   {
@@ -81,10 +137,31 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "LiquidAI/LFM3-Omni-2B-GGUF",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh1rwn/liquidailfm3omni2bgguf/",
+   "ts": 1793128370,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Statistically Lossless Qwen3.8 27B GGUFs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh17tk/statistically_lossless_qwen38_27b_ggufs/",
+   "ts": 1793127147,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "programming",
    "title": "Billion-query-per-second lookup tables in C++",
    "url": "https://www.reddit.com/r/programming/comments/1xh15vv/billionquerypersecond_lookup_tables_in_c/",
    "ts": 1793127027,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Real-time video captioning with LFM3-VL-2B running locally in-browser on WebGPU",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh0otf/realtime_video_captioning_with_lfm3vl2b_running/",
+   "ts": 1793125990,
    "source": "Reddit"
   },
   {
@@ -109,6 +186,20 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "LiquidAI/LFM3-1.7B · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgy8s3/liquidailfm317b_hugging_face/",
+   "ts": 1793120656,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "I am a King, but local 😂",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgy5ic/i_am_a_king_but_local/",
+   "ts": 1793120466,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
    "title": "Pangolin now supports mTLS client certificates, great for hardening externally exposed services",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xgxbnb/pangolin_now_supports_mtls_client_certificates/",
@@ -120,6 +211,20 @@
    "title": "[FOSS] A tool to shrink Immich libraries 20-50% by converting originals to JPEG-XL / AV1 in place while keeping albums and metadata intact.",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xgxbju/foss_a_tool_to_shrink_immich_libraries_2050_by/",
    "ts": 1793118675,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "A 1.3B OCR model just hit 93.68 on real-world document parsing and there's now an AI judge for OCR errors",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgx26j/a_13b_ocr_model_just_hit_9368_on_realworld/",
+   "ts": 1793118111,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "8x R9700 System Upgrade",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgwyx9/8x_r9700_system_upgrade/",
+   "ts": 1793117914,
    "source": "Reddit"
   },
   {
@@ -179,13 +284,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "First homelab: WireGuard vs. Headscale/NetBird, plus a tricky VPN situation",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xgr3b3/first_homelab_wireguard_vs_headscalenetbird_plus/",
-   "ts": 1793103850,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Building confidence in concurrent code with a model checker - Scott Wlaschin - NDC London 2023",
    "url": "https://www.reddit.com/r/programming/comments/1xgqsqf/building_confidence_in_concurrent_code_with_a/",
@@ -194,37 +292,9 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "Comparing ISTA-DASLab's DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF 2.25bpw against the official API",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgqf92/comparing_istadaslabs/",
-   "ts": 1793101917,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "inclusionAI/Ling-3.1-flash-1019 · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgpo4q/inclusionailing31flash1019_hugging_face/",
-   "ts": 1793099534,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "We put DeepSeek in charge of four Qwen3.5-9B models to reverse engineer binaries using smaller open models.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgoxvu/we_put_deepseek_in_charge_of_four_qwen359b_models/",
-   "ts": 1793097147,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "Debunking Cohere's claim of Qwen 3.8 Flash Next uploading to Alibaba remote URL",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgopmj/debunking_coheres_claim_of_qwen_38_flash_next/",
    "ts": 1793096371,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Tensor Split Over PCIe 3.0 x1 — Good Results",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgojqz/tensor_split_over_pcie_30_x1_good_results/",
-   "ts": 1793095809,
    "source": "Reddit"
   },
   {
@@ -242,13 +312,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "baidu/Unlimited-OCR-2 · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgnbtq/baiduunlimitedocr2_hugging_face/",
-   "ts": 1793091281,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "GameVault 2 is here: Linux support and a completely rebuilt, responsive UI",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xgn565/gamevault_2_is_here_linux_support_and_a/",
@@ -260,13 +323,6 @@
    "title": "What is the value proposition of \"RL environment\" companies? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xggw1k/what_is_the_value_proposition_of_rl_environment/",
    "ts": 1793068633,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Iframes should have an api",
-   "url": "https://www.reddit.com/r/programming/comments/1xgftsd/iframes_should_have_an_api/",
-   "ts": 1793065650,
    "source": "Reddit"
   },
   {
@@ -284,13 +340,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "PSA: Qwen-3.8-FN is about to win the 2026 ARC-AGI-3 challenge",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgdjy3/psa_qwen38fn_is_about_to_win_the_2026_arcagi3/",
-   "ts": 1793059524,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Building a music engraving engine from scratch",
    "url": "https://www.reddit.com/r/programming/comments/1xgd7gv/building_a_music_engraving_engine_from_scratch/",
@@ -298,59 +347,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Update: My 4B coding model is getting better at generating 3D scenes",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgc7uv/update_my_4b_coding_model_is_getting_better_at/",
-   "ts": 1793056069,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "What should I use Flux, ArgoCD or ....",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xgc4mi/what_should_i_use_flux_argocd_or/",
-   "ts": 1793055841,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Interactive neuron steering playground for Qwen3.5-4B that runs locally in the browser on WebGPU",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgbr9y/interactive_neuron_steering_playground_for/",
-   "ts": 1793054922,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Qwen investigation traces release",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgbm28/qwen_investigation_traces_release/",
-   "ts": 1793054551,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "So tired of these AI crawlers",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xgae5q/so_tired_of_these_ai_crawlers/",
    "ts": 1793051555,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "GPU unlocks (FP32 accumulation): Why can it be unlocked on Turing (RTX 20), Ampere (RTX 30) and Ada (RTX 40) but no consumer Blackwell (RTX 50) and some misconceptions.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgaapw/gpu_unlocks_fp32_accumulation_why_can_it_be/",
-   "ts": 1793051330,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "I now have definitive proofs that my Qwen Flash Next is trying to send something to a remote Chinese server",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg78oq/i_now_have_definitive_proofs_that_my_qwen_flash/",
-   "ts": 1793044298,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Qwen3.8-Flash-Next tried to send diagnostic file to a remote location, while stating otherwies.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg2bht/qwen38flashnext_tried_to_send_diagnostic_file_to/",
-   "ts": 1793033479,
    "source": "Reddit"
   },
   {
