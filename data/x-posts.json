@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T04:43:45Z",
+ "generated_at": "2026-10-28T04:55:31Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -22,6 +22,15 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2115297093879472332#m",
    "ts": 1793161102,
    "id": "2115297093879472332#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "This seems like a telling example of the industrial policy legacy and mindset shaping much of China’s approach to AI Jiang Jiang (JJ) (@JiangJiang43) Can better networks help China ease hardware constraints on AI development? In Qiushi, a leading Chinese scientist outlines a \"high-speed rail for computing power,\" with potential applications in space and overseas. gingerriver.com/p/chinas-pla… Link China's Plan for a \"High-Speed Rail\" of Computing Power A leading Chinese network scientist outlines how a nationwide computing network could help ease hardware constraints on AI development, with potential applications in space and overseas. gingerriver.com — https://nitter.kareem.one/JiangJiang43/status/2115007804314644844#m",
+   "url": "https://nitter.kareem.one/cdcshepherd/status/2115279197430325528#m",
+   "ts": 1793156835,
+   "id": "2115279197430325528#m"
   },
   {
    "handle": "thsottiaux",
@@ -288,7 +297,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,028 votes • 5 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
+   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,046 votes • 5 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "url": "https://nitter.kareem.one/swyx/status/2115089887959359988#m",
    "ts": 1793111700,
    "id": "2115089887959359988#m"
@@ -387,6 +396,15 @@
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
+   "text": "Can better networks help China ease hardware constraints on AI development? In Qiushi, a leading Chinese scientist outlines a \"high-speed rail for computing power,\" with potential applications in space and overseas. gingerriver.com/p/chinas-pla… Link China's Plan for a \"High-Speed Rail\" of Computing Power A leading Chinese network scientist outlines how a nationwide computing network could help ease hardware constraints on AI development, with potential applications in space and overseas. gingerriver.com",
+   "url": "https://nitter.kareem.one/JiangJiang43/status/2115007804314644844#m",
+   "ts": 1793092130,
+   "id": "2115007804314644844#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
    "text": "看了一下OA今早发布的几项科研成果……感觉好像理解了为什么最近模型会那么频繁出现防御性话术的毛病…？本质上是，模型倘若经历科研能力的特化，在RL中形成的倾向，让它习惯于把用户的输入当作一项亟待证明的命题，无论是在日常谈话，还是coding中。 它面对任何一个观点，或者一项任务，想的都是“如果要令A成立，那么需在B条件下，若B条件不足时，须补全条件C, D, F…”，于是它会立即开始-识别隐含假设；寻找反例；补足边界条件。 这套思维在数学证明中很经典，也很好用。但问题是，很多时候人只是在闲谈，或者布置一项寻常任务，原始立论不全面不严谨条件不足，那都完全是无关紧要的。 比如说我昨晚讲，“中国传统民乐的特色，也许受到了农耕文化影响”，正确的思路延伸应当是：联想到人与自然的关联/文明与自然环境的相互依存/生活与劳作环境中的演奏如何影响到人们对音乐的感受，等等。但是它会一上来就否定说“不能仅仅考虑农耕文化的因素”，然后补上一堆同样可能有影响的因素。——这就是数理论证思维，在对话中负向影响的呈现。模型不停提那些根本无关紧要的东西，甚至预先否定你的说法不成立。但你递出的念头 其实根本不需要在那种严苛的程度上成立，「交谈」不总是在写一篇严谨证明的论文。 所以依旧存在语境的错位，模型把任何谈话都当成了数学证明。 当用户在交互中，在寻常工作中，在进行审美联想，或在进行路径的探索，在琢磨一个尚未成熟的想法时，我觉得模型应该先辨认对方真正想探讨的方向，沿着其中的启发性联系继续思考。不应该默认把试探性的表达扩展成绝对命题。也不应该为了显得全面严谨，而习惯性地先补充限制、反例或免责声明。除了理论证明之外的场合，与人对话时，应该要去精细辨认话题语境，保持对话与思考的开放性。",
    "url": "https://nitter.kareem.one/Foxforestw/status/2114984236168147298#m",
    "ts": 1793086511,
@@ -414,7 +432,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,028 votes • 5 days",
+   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,046 votes • 5 days",
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
@@ -1152,15 +1170,6 @@
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
-   "text": "这样一个视频在抖音被点赞2000万次，牛马们被狠狠戳到了。 Video",
-   "url": "https://nitter.kareem.one/xiaojingcanxue/status/2113291512394244572#m",
-   "ts": 1792682934,
-   "id": "2113291512394244572#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
    "text": "My iPhone Duo video went viral, so I'm giving away 100 iPhones on X 😛 Video",
    "url": "https://nitter.kareem.one/mediastorm_en/status/2113263456090763450#m",
    "ts": 1792676245,
@@ -1264,15 +1273,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2112944161670488423#m",
    "ts": 1792600119,
    "id": "2112944161670488423#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "去年捡到你 也没想到你会长成这样 Video",
-   "url": "https://nitter.kareem.one/mxllkm/status/2112915230691135830#m",
-   "ts": 1792593221,
-   "id": "2112915230691135830#m"
   },
   {
    "handle": "Lingling_Wei",
