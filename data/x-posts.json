@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-28T06:14:22Z",
+ "generated_at": "2026-10-28T06:38:40Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,10 +11,37 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "And it's done. See you tomorrow for some good news. Tibo (@thsottiaux) Lands by midnight PST. — https://nitter.kareem.one/thsottiaux/status/2115273253711409208#m",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2115330127886463244#m",
+   "ts": 1793168978,
+   "id": "2115330127886463244#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok @Bot is like hiring an awesome employee Brian Armstrong (@brian_armstrong) — https://nitter.kareem.one/brian_armstrong/status/2115145550991655088#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2115324694505337203#m",
+   "ts": 1793167682,
+   "id": "2115324694505337203#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "10k Starship launches/year is just from Starbase Louisiana Robin (@xdNiBoR) In a comment to the FAA, SpaceX says it wants to launch 10,000 times per year. The FAA asked for input on where to build new spaceports and how to give rocket launches priority in US airspace. They're preparing for 10,000 launches a year by 2035. SpaceX replied that rockets aren't the bottleneck anymore, the FAA's outdated air traffic processes are. They created their own airspace tool (Cleared) that most major US airlines already get for free. They also noted that Starbase Louisiana is designed for ~30 launches and reentries PER DAY (!!) — https://nitter.kareem.one/xdNiBoR/status/2115179387494465821#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2115324467295756543#m",
+   "ts": 1793167628,
+   "id": "2115324467295756543#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -32,6 +59,15 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2115297093879472332#m",
    "ts": 1793161102,
    "id": "2115297093879472332#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "As featured by President @realDonaldTrump today, this is who James Talarico is. He can’t outrun his record any longer. Video",
+   "url": "https://nitter.kareem.one/KenPaxtonTX/status/2115292577469775946#m",
+   "ts": 1793160025,
+   "id": "2115292577469775946#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -73,10 +109,46 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "\"INVESTIGATE ELON MUSK.\" Sen. Alex Padilla dropped the demand and Elon fired back with a \"wiener\" joke. TMZ's Michael Babcock wants to know WHY Musk should be investigated. Fair scrutiny or political score-settling? 🤔 Video",
+   "url": "https://nitter.kareem.one/TMZ/status/2115254449459565026#m",
+   "ts": 1793150934,
+   "id": "2115254449459565026#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Unsurprisingly, you can’t get an honest assessment of Tesla’s safety, cost, operating cost, or reliability from MSM. Tesla doesn’t pay them to say nice things. AI chat, including Grok, will just summarize media analysis unless you probe deeper. jimmah (@jamesdouma) TLDR 2.4x fewer accidents. If you ask Claude for a summary of Auto-OEM-advertising-supported media opinion you’re going to get a slant. Here’s an extended perplexity session: perplexity.ai/computer/tasks… Link Perplexity Computer Built with Perplexity Computer. Computer works on any task: building websites, editing documents, analyzing data, and automating repetitive work. perplexity.ai — https://nitter.kareem.one/jamesdouma/status/2115250891603472607#m",
+   "url": "https://nitter.kareem.one/jamesdouma/status/2115251710440673611#m",
+   "ts": 1793150281,
+   "id": "2115251710440673611#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok Bot just keeps getting better The Vault feature is a game changer",
+   "url": "https://nitter.kareem.one/beffjezos/status/2115247800132972952#m",
+   "ts": 1793149349,
+   "id": "2115247800132972952#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "What the Democrats are willing to do with power is terrifying. We saw it during Covid, when parents were investigated under the Patriot Act for showing up to schools board meetings and Catholics were spied upon for going to traditional Latin mass. If you bought a MAGA hat you went on a list. Now, Democrats are calling for Show Trials. When you go to the polls next week—remember Democrats want complete control with no room for dissent. Video",
    "url": "https://nitter.kareem.one/Eric_Schmitt/status/2115244242301792497#m",
    "ts": 1793148501,
    "id": "2115244242301792497#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "i've gotten a lot of questions about how i manage my X account with grok bot, so i'm sharing my bot tibot today! he watches your mentions and: • finds every post about you or any keywords, tagged or not • gives one short, sorted digest a day (or hourly, your call) • skips spam and noise • translates non-English posts • can auto block trolls and abuse • never posts for you i still write all my posts and articles by hand but tibot has been very helpful with keeping me in the loop. hire tibot today! x.ai/bot/xZ4wRvomWqzCXnyYFr7… Link tibot by lauren Watches X for posts about you, or anything else you want to track, and sends a short, sorted digest on your schedule (daily by default), staying quiet... x.ai",
+   "url": "https://nitter.kareem.one/poteto/status/2115205951649423585#m",
+   "ts": 1793139372,
+   "id": "2115205951649423585#m"
   },
   {
    "handle": "realDonaldTrump",
@@ -86,6 +158,15 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2115166627268337801#m",
    "ts": 1793129996,
    "id": "2115166627268337801#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Early days, but we're beginning to hire Bots onto our team. Grok Bot (@bot) Our sales operations team built Shared Bots that help reps move deals faster. Account Intel Bot updates the CRM after calls. Quote Bot prepares proposals and order forms. Deal Bot reviews non-standard terms and routes exceptions for approval. — https://nitter.kareem.one/bot/status/2115130760009273501#m",
+   "url": "https://nitter.kareem.one/mntruell/status/2115163331569033368#m",
+   "ts": 1793129210,
+   "id": "2115163331569033368#m"
   },
   {
    "handle": "swyx",
@@ -172,10 +253,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Good MELANIA TRUMP (@MELANIATRUMP) THE CEASEFIRE HAS COMMENCED The ceasefire between Ukraine and Russia took effect at 4:00am Moscow time on October 27, 2026. Timing was accelerated two days ahead of schedule to protect the safety of civilians and to facilitate the delivery of critical humanitarian aid. The ceasefire’s geographic area has expanded beyond Oleshky, within the Kherson Region, to provide safe passage for the humanitarian convoys. General Valery Gerasimov, Joint Chief of the General Staff of the Russian Armed Forces has confirmed. — https://nitter.kareem.one/MELANIATRUMP/status/2115116465942614045#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2115129139468673514#m",
-   "ts": 1793121058,
-   "id": "2115129139468673514#m"
+   "text": "I JUST GAVE GROK BOT A VOICE MAIL AND TEXT MESSAGING! AND YOU CAN TOO—ITS FREE! Your phone number is a front door. Most people leave it unlocked and unattended. Meet Grok Bot Text & Voicemail, a front desk for your phone number that never takes a lunch break. GET IT: x.ai/bot/z2ds5I1IWLO2M1lFFvh… Think of it as a receptionist sitting between the world and your pocket. Texts and voicemails come in to a separate Google Voice number (this is until Grok Bot gets his own number from SpaceXSI). It reads each one, figures out what the person wants and how urgent it is, and hands you a short note: \"Joe’ Hair appointment wants to reschedule, medium urgency, here's a reply ready to go.\" You tap yes and it goes out as a text from your business number. It works like a mail sorter for your attention. Real customers go to the top of the pile, spam goes in the trash, and urgent messages get flagged right away. Where it shines: Barbers and salons: \"Got anything Thursday?\" gets back three open slots from your calendar. Contractors: It turns a rambling voicemail from a job site into one line: \"Leak under kitchen sink, wants a quote, call back today.\" Realtors: It sorts showing requests from people who are just curious. Restaurants and food trucks: Hours, location, and catering questions get a reply ready in seconds. Therapists and coaches: Clients book appointments without ever getting your personal cell. Landlords: A maintenance emergency gets flagged as urgent, and \"is it still available?\" g",
+   "url": "https://nitter.kareem.one/BrianRoemmele/status/2115128602140577967#m",
+   "ts": 1793120930,
+   "id": "2115128602140577967#m"
   },
   {
    "handle": "simonw",
@@ -185,42 +266,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2115128326922883517#m",
    "ts": 1793120864,
    "id": "2115128326922883517#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "🤨 New York Post (@nypost) Hundreds of ballots left exposed at Skid Row homeless center ahead of LA election trib.al/jDflz8e — https://nitter.kareem.one/nypost/status/2114796654859526401#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2115126959940554814#m",
-   "ts": 1793120539,
-   "id": "2115126959940554814#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "James Talarico now calls himself a \"border security Democrat.\" His Texas House record says otherwise. While millions poured across the border under Biden, Talarico voted NO on: ❌ $1.8 billion for border security ❌ The Texas Border Protection Unit ❌ Arrest powers for Border Patrol ❌ Funding for the border wall (twice) ❌ Tougher human smuggling penalties ❌ Making illegal entry a state crime (twice) ❌ Requiring sheriffs to work with ICE Nine votes. Nine NOs. Don’t send Talarico to Washington to vote with the Democrats who let millions pour across the border. Early voting ends Oct. 30. Go vote, Texas.",
-   "url": "https://nitter.kareem.one/KanekoaTheGreat/status/2115123811444269295#m",
-   "ts": 1793119788,
-   "id": "2115123811444269295#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "What goes up must come down",
-   "url": "https://nitter.kareem.one/Tesla/status/2115123717877760129#m",
-   "ts": 1793119766,
-   "id": "2115123717877760129#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "New features in Grok @Bot matt palmer (@mattyp) What's New in Grok Bot 00:00 🎃 00:13 Pages in Grok Bot 01:09 Vault 02:05 1Password 02:21 Apple integrations 03:21 Bot makes videos 03:47 New bot characters 04:13 X Spaces 04:31 Font fun 04:54 Design polish 05:11 Rapid fire Video — https://nitter.kareem.one/mattyp/status/2115111897397628974#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2115119252785303813#m",
-   "ts": 1793118701,
-   "id": "2115119252785303813#m"
   },
   {
    "handle": "elonmusk",
@@ -286,19 +331,10 @@
    "id": "2115095036496867476#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "In the summer of 1994, a 23-year-old Elon Musk spent his days in Los Gatos at Pinnacle Research Institute, dreaming up how ultracapacitors could power electric cars and even Star Wars–style laser guns. Then, around 5 p.m. every evening, he drove to Palo Alto for his second job at Rocket Science Games, a startup full of future legends, from Tony Fadell, who would later build the iPod, to the people behind Apple's QuickTime and engineers from Industrial Light & Magic. They hired him to write the most boring code imaginable, drivers so joysticks and mice would work with games, but Elon quietly gave himself a much harder problem 😂: figuring out how a computer could run a game and stream video from a CD at the same time, something the machines of that era simply couldn't do. Peter Barrett, one of the company's founders, remembered him as \"completely unflappable,\" and said that after a while nobody was giving him directions at all, because he was just building what he wanted to build. Bruce Leak, who hired him, said: \"He had boundless energy.\" So yeah, nobody handed Elon the big problem, he just went looking for it, at night, after a full day at another job. This is who Elon Musk is 💙",
-   "url": "https://nitter.kareem.one/EvaFox/status/2115093044705763697#m",
-   "ts": 1793112453,
-   "id": "2115093044705763697#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,157 votes • 5 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
+   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,186 votes • 5 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "url": "https://nitter.kareem.one/swyx/status/2115089887959359988#m",
    "ts": 1793111700,
    "id": "2115089887959359988#m"
@@ -320,15 +356,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2115088922493526130#m",
    "ts": 1793111470,
    "id": "2115088922493526130#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "BREAKING: The nation’s first-ever Detransition Clinic is now open as a result of my historic settlement with Texas Children’s Hospital.",
-   "url": "https://nitter.kareem.one/KenPaxtonTX/status/2115085510657863854#m",
-   "ts": 1793110656,
-   "id": "2115085510657863854#m"
   },
   {
    "handle": "swyx",
@@ -385,15 +412,6 @@
    "id": "2115020291059646520#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Solar power represents 10% of electricity generated globally in 2026. It is now bigger than nuclear for the first time.",
-   "url": "https://nitter.kareem.one/wholemars/status/2115015903834444267#m",
-   "ts": 1793094061,
-   "id": "2115015903834444267#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -433,7 +451,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,157 votes • 5 days",
+   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,186 votes • 5 days",
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
@@ -509,15 +527,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2114787251066683495#m",
    "ts": 1793039546,
    "id": "2114787251066683495#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "When @Starlink helped save a man’s life during emergency surgery in rural Zimbabwe. A young man suffered severe burns to his leg after falling into a cooking fire during a seizure. His parents spent hours helping him reach a remote hospital in Chisizya. Dr. Mike Jeans needed to perform an emergency operation he had never done before. Using Starlink, he called a colleague in South Africa, who guided him through the surgery. The operation succeeded. The patient was transferred by ambulance to a larger hospital. MATTER, the charity involved, reported that he survived and was recovering. Starlink connected a doctor to lifesaving medical guidance when his patient needed it most. This is why Starlink matters. A working connection can help save a life. This lifesaving technology should be available in every part of the world.",
-   "url": "https://nitter.kareem.one/cb_doge/status/2114784107389698172#m",
-   "ts": 1793038796,
-   "id": "2114784107389698172#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -1229,15 +1238,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2113029854417600834#m",
    "ts": 1792620550,
    "id": "2113029854417600834#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Dot, Dotter, Dottest",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2113029655095836957#m",
-   "ts": 1792620502,
-   "id": "2113029655095836957#m"
   },
   {
    "handle": "bcherny",
