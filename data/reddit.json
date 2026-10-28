@@ -1,15 +1,36 @@
 {
- "generated_at": "2026-10-28T02:12:36Z",
+ "generated_at": "2026-10-28T08:13:32Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
+  "MachineLearning",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Sablier, 4 years later: start your apps on demand, now with Podman, Proxmox LXC, Nomad, ECS and more",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xhf3z7/sablier_4_years_later_start_your_apps_on_demand/",
+   "ts": 1793163515,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Questioning my security through obscurity",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xhehfs/questioning_my_security_through_obscurity/",
+   "ts": 1793161376,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "New to self hosting and need some guidance",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xhe41b/new_to_self_hosting_and_need_some_guidance/",
+   "ts": 1793160150,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "Python jettisons the native JIT, at least for now",
@@ -22,13 +43,6 @@
    "title": "Lagrange Reader: an offline Android companion for BookOrbit, Komga, and Kavita",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xhbi9q/lagrange_reader_an_offline_android_companion_for/",
    "ts": 1793152317,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Basic Home Setup",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xhazme/basic_home_setup/",
-   "ts": 1793150867,
    "source": "Reddit"
   },
   {
@@ -88,24 +102,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "HEXAGON",
-   "url": "https://www.reddit.com/r/programming/comments/1xh4iav/hexagon/",
-   "ts": 1793134483,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "OpenAI's major results over the last 3 months came from scaling test-time compute with agent swarms. I've been building an open-source equivalent for the past year, and I'd love for you guys to try it.",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh4bnd/openais_major_results_over_the_last_3_months_came/",
    "ts": 1793134058,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "What are you using to replace Reddit RSS feeds in Homarr?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xh48wd/what_are_you_using_to_replace_reddit_rss_feeds_in/",
-   "ts": 1793133886,
    "source": "Reddit"
   },
   {
@@ -312,17 +312,17 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "GameVault 2 is here: Linux support and a completely rebuilt, responsive UI",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xgn565/gamevault_2_is_here_linux_support_and_a/",
-   "ts": 1793090527,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "What is the value proposition of \"RL environment\" companies? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xggw1k/what_is_the_value_proposition_of_rl_environment/",
    "ts": 1793068633,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Iframes should have an api",
+   "url": "https://www.reddit.com/r/programming/comments/1xgftsd/iframes_should_have_an_api/",
+   "ts": 1793065650,
    "source": "Reddit"
   },
   {
@@ -355,9 +355,9 @@
   },
   {
    "subreddit": "programming",
-   "title": "Using Computer Science and Anki to Learn More Vocabulary With Less Memorization",
-   "url": "https://www.reddit.com/r/programming/comments/1xfurcl/using_computer_science_and_anki_to_learn_more/",
-   "ts": 1793015859,
+   "title": "How to write a \"bug hunt\" blog post",
+   "url": "https://www.reddit.com/r/programming/comments/1xfwnaz/how_to_write_a_bug_hunt_blog_post/",
+   "ts": 1793020877,
    "source": "Reddit"
   },
   {
