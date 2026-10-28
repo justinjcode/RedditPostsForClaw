@@ -1,9 +1,7 @@
 {
- "generated_at": "2026-10-28T14:08:47Z",
+ "generated_at": "2026-10-28T14:25:07Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +9,30 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "At Tesla, we even care about the chipmunks Chief Nerd (@TheChiefNerd) 98-Year-Old Man Buys His First Self-Driving Tesla Model Y And Is Blown Away “I've been driving it probably 2-3 months, and it's not made an error in its driving. In fact, the other day it stopped - a chipmunk was crossing the road, and there was no other traffic, and it did not run over the chipmunk … For somebody that's 98-years-old, this is a real treat.” Video — https://nitter.kareem.one/TheChiefNerd/status/2115415755109937276#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2115447957843821013#m",
+   "ts": 1793197070,
+   "id": "2115447957843821013#m"
+  },
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
+   "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
+   "ts": 1793196304,
+   "id": "2115444742595260551#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -180,15 +199,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Unsurprisingly, you can’t get an honest assessment of Tesla’s safety, cost, operating cost, or reliability from MSM. Tesla doesn’t pay them to say nice things. AI chat, including Grok, will just summarize media analysis unless you probe deeper. jimmah (@jamesdouma) TLDR 2.4x fewer accidents. If you ask Claude for a summary of Auto-OEM-advertising-supported media opinion you’re going to get a slant. Here’s an extended perplexity session: perplexity.ai/computer/tasks… Link Perplexity Computer Built with Perplexity Computer. Computer works on any task: building websites, editing documents, analyzing data, and automating repetitive work. perplexity.ai — https://nitter.kareem.one/jamesdouma/status/2115250891603472607#m",
-   "url": "https://nitter.kareem.one/jamesdouma/status/2115251710440673611#m",
-   "ts": 1793150281,
-   "id": "2115251710440673611#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Grok Bot just keeps getting better The Vault feature is a game changer",
    "url": "https://nitter.kareem.one/beffjezos/status/2115247800132972952#m",
    "ts": 1793149349,
@@ -211,6 +221,15 @@
    "url": "https://nitter.kareem.one/ericzakariasson/status/2115238537792815303#m",
    "ts": 1793147141,
    "id": "2115238537792815303#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Day 3 of turning Elon's posts into music. Naturally, the reply to Padilla to 'Investigate your wiener' had to be the hook today! Turn it up!! What style should I do next? 🎸 Video Elon Musk (@elonmusk) Investigate your wiener — https://nitter.kareem.one/elonmusk/status/2114893417599914366#m",
+   "url": "https://nitter.kareem.one/CoffeeNGrit/status/2115217226580004871#m",
+   "ts": 1793142060,
+   "id": "2115217226580004871#m"
   },
   {
    "handle": "elonmusk",
@@ -312,15 +331,6 @@
    "id": "2115135448876269782#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I JUST GAVE GROK BOT A VOICE MAIL AND TEXT MESSAGING! AND YOU CAN TOO—ITS FREE! Your phone number is a front door. Most people leave it unlocked and unattended. Meet Grok Bot Text & Voicemail, a front desk for your phone number that never takes a lunch break. GET IT: x.ai/bot/z2ds5I1IWLO2M1lFFvh… Think of it as a receptionist sitting between the world and your pocket. Texts and voicemails come in to a separate Google Voice number (this is until Grok Bot gets his own number from SpaceXSI). It reads each one, figures out what the person wants and how urgent it is, and hands you a short note: \"Joe’ Hair appointment wants to reschedule, medium urgency, here's a reply ready to go.\" You tap yes and it goes out as a text from your business number. It works like a mail sorter for your attention. Real customers go to the top of the pile, spam goes in the trash, and urgent messages get flagged right away. Where it shines: Barbers and salons: \"Got anything Thursday?\" gets back three open slots from your calendar. Contractors: It turns a rambling voicemail from a job site into one line: \"Leak under kitchen sink, wants a quote, call back today.\" Realtors: It sorts showing requests from people who are just curious. Restaurants and food trucks: Hours, location, and catering questions get a reply ready in seconds. Therapists and coaches: Clients book appointments without ever getting your personal cell. Landlords: A maintenance emergency gets flagged as urgent, and \"is it still available?\" g",
-   "url": "https://nitter.kareem.one/BrianRoemmele/status/2115128602140577967#m",
-   "ts": 1793120930,
-   "id": "2115128602140577967#m"
-  },
-  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -378,7 +388,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,555 votes • 5 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
+   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,556 votes • 5 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "url": "https://nitter.kareem.one/swyx/status/2115089887959359988#m",
    "ts": 1793111700,
    "id": "2115089887959359988#m"
@@ -477,7 +487,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,555 votes • 5 days",
+   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,556 votes • 5 days",
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
@@ -1579,15 +1589,6 @@
    "url": "https://nitter.kareem.one/ClaudeDevs/status/2108621476538781878#m",
    "ts": 1791569510,
    "id": "2108621476538781878#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "I like Qwen3.5-35B-A3B for this, wondering what else is out there that might be a bit more recent and pack a little more of a punch",
-   "url": "https://nitter.kareem.one/simonw/status/2108608837175701514#m",
-   "ts": 1791566497,
-   "id": "2108608837175701514#m"
   },
   {
    "handle": "bcherny",
