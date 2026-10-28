@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T21:44:07Z",
+ "generated_at": "2026-10-28T21:55:32Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Hmm C3 (@C_3C_3) Photo 1: A Hennepin county attorney who released a Somali rapist with no jail time who ended up raping again. Photo 2: A Hennepin county attorney who wants to jail James O’Keefe and Cam Higby for exposing voter fraud. — https://nitter.kareem.one/C_3C_3/status/2115513582641389772#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2115561519807402189#m",
+   "ts": 1793224146,
+   "id": "2115561519807402189#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -220,15 +229,6 @@
    "url": "https://nitter.kareem.one/JChengWSJ/status/2115353122067329302#m",
    "ts": 1793174460,
    "id": "2115353122067329302#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "\"To love and be loved is to feel the sun from both sides.\" Grok Imagine Video",
-   "url": "https://nitter.kareem.one/KnightWorld/status/2115346652718620688#m",
-   "ts": 1793172917,
-   "id": "2115346652718620688#m"
   },
   {
    "handle": "swyx",
@@ -450,7 +450,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,640 votes • 5 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
+   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,641 votes • 5 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "url": "https://nitter.kareem.one/swyx/status/2115089887959359988#m",
    "ts": 1793111700,
    "id": "2115089887959359988#m"
@@ -549,7 +549,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,640 votes • 5 days",
+   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,641 votes • 5 days",
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
