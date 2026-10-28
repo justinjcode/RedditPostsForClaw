@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T16:53:43Z",
+ "generated_at": "2026-10-28T17:07:38Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Artificial Analysis just rebuilt its \"Intelligence Index\" AI leaderboard, with 60% of it now running on private tests models can’t study for. The new standings: 1. Claude Opus 5.5 – 58, still topping the charts 2. GPT-6 Astra – 57 3. GPT-6.1 Sol – 55 4. Claude Sonnet 5.5 – 54 5. GPT-6.1 Terra – 51, ahead of Gemini 4 Argon (50) and Claude Fable 5.1 (49) at ~1/13 of Fable’s cost Kimi K3.1 Pro, Moonshot’s model with open weights due Nov. 4, fell from 55 to 46 under the new testing, dropping from just 3 points behind the top spot to 12. The best open models available today, DeepSeek V4.1 Flash and GLM-5.3, score 32, below Claude Haiku 5.5 (36). Artificial Analysis (@ArtificialAnlys) Announcing Artificial Analysis Intelligence Index v5, featuring 2 new benchmarks and 3 upgrades. For the first time, the majority of the Index is built on private datasets The Artificial Analysis Intelligence Index is our composite measure of model capabilities across tasks reflecting real-world usage today. v5 is our biggest upgrade since v4 launched in January. With v5, 60% of the Index is now based on evaluations with private test sets or held-out answers. Alongside Intelligence Index v5, we’re launching the Artificial Analysis Progress Index v1, which tracks model capability over time on one continuous scale. New to the Intelligence Index: ➤ FrontierCode 2.0: Cognition's newly-launched private benchmark of real-world coding tasks, graded on whether a repository maintainer would merge the agent's c",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2115489453611356402#m",
+   "ts": 1793206964,
+   "id": "2115489453611356402#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -414,7 +423,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,602 votes • 5 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
+   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,604 votes • 5 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "url": "https://nitter.kareem.one/swyx/status/2115089887959359988#m",
    "ts": 1793111700,
    "id": "2115089887959359988#m"
@@ -513,7 +522,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,602 votes • 5 days",
+   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,604 votes • 5 days",
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
@@ -1030,15 +1039,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2113633667583287786#m",
    "ts": 1792764510,
    "id": "2113633667583287786#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: therundownai.beehiiv.com/p/u… Link U.S. banks catch AI agents going off-script U.S. banks are catching AI agents logging into customer accounts and going off-script, raising new security and oversight concerns for the banking industry. therundownai.beehiiv.com",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2113578832577826949#m",
-   "ts": 1792751436,
-   "id": "2113578832577826949#m"
   },
   {
    "handle": "Lingling_Wei",
