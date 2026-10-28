@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-28T17:45:59Z",
+ "generated_at": "2026-10-28T17:57:00Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
-  "@bcherny: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 179,
  "items": [
@@ -86,15 +86,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2115471764960735355#m",
    "ts": 1793202746,
    "id": "2115471764960735355#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Happy anniversary to Ligma/Johnson 2026 swyx (@swyx) Happy anniversary to Ligma/Johnson 2022 (proud to now work in the Cerebral Arena with @0interestrates ) — https://nitter.kareem.one/swyx/status/1718238683793596685#m",
-   "url": "https://nitter.kareem.one/swyx/status/2115466368963190937#m",
-   "ts": 1793201460,
-   "id": "2115466368963190937#m"
   },
   {
    "handle": "elonmusk",
@@ -451,7 +442,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,607 votes • 5 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
+   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,612 votes • 5 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "url": "https://nitter.kareem.one/swyx/status/2115089887959359988#m",
    "ts": 1793111700,
    "id": "2115089887959359988#m"
@@ -550,7 +541,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,607 votes • 5 days",
+   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,612 votes • 5 days",
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
@@ -878,6 +869,15 @@
    "url": "https://nitter.kareem.one/jwdwerner/status/2114028658511732816#m",
    "ts": 1792858683,
    "id": "2114028658511732816#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "First time at the Latent Space studio after being three year listener First time interviewing a true inspirer and podcaster that really explains the AI’s complexity in “human” way First time we are going to bring @aiDotEngineer to Shanghai with Mengying and her team Thanks for the conversation @swyx and can’t wait to see what is coming in Shanghai!",
+   "url": "https://nitter.kareem.one/Ninggao88/status/2114025876291788963#m",
+   "ts": 1792858020,
+   "id": "2114025876291788963#m"
   },
   {
    "handle": "swyx",
