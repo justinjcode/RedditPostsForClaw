@@ -1,20 +1,38 @@
 {
- "generated_at": "2026-10-28T13:00:18Z",
+ "generated_at": "2026-10-28T13:13:08Z",
  "accounts_ok": [
+  "TheRundownAI",
+  "ZichenWanghere",
+  "bcherny",
+  "elonmusk",
   "thsottiaux"
  ],
  "errors": [
-  "@elonmusk: all instances failed",
   "@realDonaldTrump: all instances failed",
   "@simonw: all instances failed",
   "@swyx: all instances failed",
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: therundownai.beehiiv.com/p/g… Link Google’s AI worlds can now talk back Google DeepMind's Genie 4 lets you talk to AI-generated characters in simulated worlds, complete with soundtrack and robot demos. Here's what's new in this AI briefing. therundownai.beehiiv.com",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2115390705317101913#m",
+   "ts": 1793183420,
+   "id": "2115390705317101913#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in AI today: - Genie 4 brings sound and interactivity to AI worlds - Anthropic starts developing its own drugs - Make editable product mockups with GPT-6.1 Terra - Axiom’s AI swarm checks math’s longest proof",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2115390700321710583#m",
+   "ts": 1793183419,
+   "id": "2115390700321710583#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -997,15 +1015,6 @@
    "id": "2113578832577826949#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in AI today: - Banks crack down on AI agents’ account access - Rowan’s Corner: Safeguard yourself from AI hacks - Put your open Chrome tabs to work - Microsoft’s AI out-diagnoses doctors on hard cases",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2113578827771187484#m",
-   "ts": 1792751435,
-   "id": "2113578827771187484#m"
-  },
-  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -1121,15 +1130,6 @@
    "url": "https://nitter.kareem.one/ChrisRMcGuire/status/2113417246890680469#m",
    "ts": 1792712911,
    "id": "2113417246890680469#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Craft, Canva’s first in-house image model, just debuted at No. 4 on Design Arena’s rankings (behind only OpenAI’s three models). It was trained on millions of Canva templates, and Canva says the model plans each layout before drawing it, so images convert easily into editable designs via its Magic Layers feature. An impressive first release for Canva Research, the company’s newly unveiled 160+ person in-house AI lab. Video",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2113392393953104076#m",
-   "ts": 1792706986,
-   "id": "2113392393953104076#m"
   },
   {
    "handle": "swyx",
