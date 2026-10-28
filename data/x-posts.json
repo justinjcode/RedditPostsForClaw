@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-10-28T23:25:08Z",
+ "generated_at": "2026-10-28T23:37:54Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "nitterk.kareem.one/i/broadcasts/1yKAPwjza… Link RSBN 🇺🇸 LIVE: President Trump Holds a Rally in Chillicothe, OH - 10/28/26 https://nitter.kareem.one/i/broadcasts/1yKAPwjzamoxb",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2115585451541025092#m",
+   "ts": 1793229851,
+   "id": "2115585451541025092#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1147,15 +1157,6 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2113419290934407279#m",
    "ts": 1792713399,
    "id": "2113419290934407279#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "🚨 ARKANSAS! Early Voting, in-person, is UNDERWAY NOW in the Great State of Arkansas. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT! Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Arkansas, you can cast your early Vote, in-person, all the way through November 2nd. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP Find your Voting Location here: swampthevoteusa.com/arkansas… Link ARKANSAS: MAKE A PLAN TO VOTE! The Arkansas general election is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113419276615118870#m",
-   "ts": 1792713395,
-   "id": "2113419276615118870#m"
   },
   {
    "handle": "Lingling_Wei",
