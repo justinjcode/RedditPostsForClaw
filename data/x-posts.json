@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-10-28T14:25:07Z",
+ "generated_at": "2026-10-28T14:32:19Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "bcherny",
   "elonmusk",
@@ -10,7 +11,6 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
  "count": 179,
@@ -32,6 +32,15 @@
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
    "id": "2115444742595260551#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "RT by @elonmusk: Image",
+   "url": "https://nitter.kareem.one/cb_doge/status/2115410477971026426#m",
+   "ts": 1793188135,
+   "id": "2115410477971026426#m"
   },
   {
    "handle": "TheRundownAI",
@@ -194,15 +203,6 @@
    "url": "https://nitter.kareem.one/thisiskp_/status/2115253809056288874#m",
    "ts": 1793150782,
    "id": "2115253809056288874#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok Bot just keeps getting better The Vault feature is a game changer",
-   "url": "https://nitter.kareem.one/beffjezos/status/2115247800132972952#m",
-   "ts": 1793149349,
-   "id": "2115247800132972952#m"
   },
   {
    "handle": "elonmusk",
