@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T17:26:59Z",
+ "generated_at": "2026-10-28T17:36:13Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "3.5 years in, and The Rundown is approaching the 4M total newsletter subscriber mark 👀 Grateful for the journey so far, so much more to come",
+   "url": "https://nitter.kareem.one/rowancheung/status/2115493365038944411#m",
+   "ts": 1793207896,
+   "id": "2115493365038944411#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -1030,15 +1039,6 @@
    "url": "https://nitter.kareem.one/DesmondShum/status/2113639609938690237#m",
    "ts": 1792765927,
    "id": "2113639609938690237#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: tech.therundown.ai/p/palmer-… Link Palmer Luckey’s gene-edited war dogs PLUS: Meta gets hit with $25B fine tech.therundown.ai",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2113639384033411487#m",
-   "ts": 1792765873,
-   "id": "2113639384033411487#m"
   },
   {
    "handle": "simonw",
