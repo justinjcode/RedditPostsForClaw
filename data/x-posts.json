@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-10-28T23:37:54Z",
+ "generated_at": "2026-10-28T23:44:40Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year, but we're going to proceed carefully here and take our time. We'll have more to share soon. Angel 🌼 (@Angaisb_) ChatGPT is unifying Chat and Work I wonder how that changes usage limits — https://nitter.kareem.one/Angaisb_/status/2115565560603824452#m",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2115588390414581916#m",
+   "ts": 1793230552,
+   "id": "2115588390414581916#m"
+  },
   {
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
@@ -1247,15 +1255,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2113162413008884099#m",
    "ts": 1792652154,
    "id": "2113162413008884099#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Day 17/ Bet you thought we forgot, but no, it’s reset day today. Also good time to remind you to get Daybreak Blue access, it only takes 15 mins and you don’t want to have to do it in the middle of an incident.",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2113162277688070445#m",
-   "ts": 1792652122,
-   "id": "2113162277688070445#m"
   },
   {
    "handle": "simonw",
