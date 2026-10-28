@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-10-28T14:41:24Z",
+ "generated_at": "2026-10-28T14:47:42Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "True CoFounders Nik (@CoFoundersNik) FSD could literally free up OVER $1.5 trillion/yr... WHY isn't anyone talking about this?? If Lawmakers were serious about serving the people, they would start focusing on how to speed up FSD adoption. The Data: Fatal & serious crashes cost the U.S. almost $2 trillion per year in total societal harm; including ~$400 billion in direct economic costs in the form of: - medical bills - property damage - lost wages - enormous quality-of-life cost of lost years - permanent disability Tesla’s latest FSD data shows vehicles with FSD engaged are ~9× SAFER than the average driver. That means, if fully adopted, FSD could produce savings the size of any one of these: - ~6% of GDP - The entire Social Security program - Medicare AND Medicaid - Roughly 2× the defense budget At this scale, FSD (and technologies like it) could be one of the first real steps toward an age of AI \"abundance\" people talk about. 50 years from now, our children and grandchildren will look back in horror at the fact that we ever drove at all. — https://nitter.kareem.one/CoFoundersNik/status/2115137270282101183#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2115451044423668045#m",
+   "ts": 1793197806,
+   "id": "2115451044423668045#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -268,15 +276,6 @@
    "id": "2115163627183595554#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Early days, but we're beginning to hire Bots onto our team. Grok Bot (@bot) Our sales operations team built Shared Bots that help reps move deals faster. Account Intel Bot updates the CRM after calls. Quote Bot prepares proposals and order forms. Deal Bot reviews non-standard terms and routes exceptions for approval. — https://nitter.kareem.one/bot/status/2115130760009273501#m",
-   "url": "https://nitter.kareem.one/mntruell/status/2115163331569033368#m",
-   "ts": 1793129210,
-   "id": "2115163331569033368#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -388,7 +387,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,560 votes • 5 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
+   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,567 votes • 5 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "url": "https://nitter.kareem.one/swyx/status/2115089887959359988#m",
    "ts": 1793111700,
    "id": "2115089887959359988#m"
@@ -487,7 +486,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,560 votes • 5 days",
+   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,567 votes • 5 days",
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
