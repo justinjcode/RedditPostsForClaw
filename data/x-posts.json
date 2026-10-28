@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-28T04:10:50Z",
+ "generated_at": "2026-10-28T04:23:48Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -11,10 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@TheRundownAI: all instances failed"
+  "@bcherny: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "poteto.com has landed",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2115297093879472332#m",
+   "ts": 1793161102,
+   "id": "2115297093879472332#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -280,7 +289,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 39% — No, its for retail chumps 25% — Undecided/Maybe 5,963 votes • 5 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
+   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 39% — No, its for retail chumps 25% — Undecided/Maybe 5,979 votes • 5 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "url": "https://nitter.kareem.one/swyx/status/2115089887959359988#m",
    "ts": 1793111700,
    "id": "2115089887959359988#m"
@@ -406,7 +415,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 39% — No, its for retail chumps 25% — Undecided/Maybe 5,963 votes • 5 days",
+   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 39% — No, its for retail chumps 25% — Undecided/Maybe 5,979 votes • 5 days",
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
@@ -1274,15 +1283,6 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2112897150309073134#m",
    "ts": 1792588911,
    "id": "2112897150309073134#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Day 16/ You can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversation or resuming after a few hours and are now guaranteed to hit the cache. OpenAI Developers (@OpenAIDevs) You can now choose 12-hour prompt caching in the API. Persistent agents, like dots, reuse context throughout the day. You can keep shared instructions, tools, and context cached longer and pay the lower cached-input rate, even when requests are hours apart. — https://nitter.kareem.one/OpenAIDevs/status/2112603916076781778#m",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2112712984644784534#m",
-   "ts": 1792545002,
-   "id": "2112712984644784534#m"
   },
   {
    "handle": "simonw",
