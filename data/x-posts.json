@@ -1,19 +1,29 @@
 {
- "generated_at": "2026-10-28T07:42:58Z",
+ "generated_at": "2026-10-28T07:57:13Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
-  "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@simonw: all instances failed",
+  "@swyx: all instances failed",
+  "@bcherny: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok @Bot rocks Fireside Alpha (@firesidealpha) Gavin Baker says Grok Bot is the most impactful AI product he and his firm have had yet, and reveals he’s up to 17 Grok Bots “I mean, as a user, Grok Bot is the most impactful AI product to me and to the firm that we’ve had yet. I glued together all this stuff with Claude Code, and I’m sure it was user error on my part, you know, 50 years old. I’m doing my best.\" \"But Grok Bot, it just makes it so easy. I think I’m up to like 17 Grok Bots. And every day I think of a new one to add.” Video — https://nitter.kareem.one/firesidealpha/status/2115167081780093145#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2115348410396287061#m",
+   "ts": 1793173336,
+   "id": "2115348410396287061#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -180,10 +190,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "What the Democrats are willing to do with power is terrifying. We saw it during Covid, when parents were investigated under the Patriot Act for showing up to schools board meetings and Catholics were spied upon for going to traditional Latin mass. If you bought a MAGA hat you went on a list. Now, Democrats are calling for Show Trials. When you go to the polls next week—remember Democrats want complete control with no room for dissent. Video",
-   "url": "https://nitter.kareem.one/Eric_Schmitt/status/2115244242301792497#m",
-   "ts": 1793148501,
-   "id": "2115244242301792497#m"
+   "text": "grok @bot 0.77.0 is now stable and rolling out! - permissions settings for your auto-review rules - pick which payment method bots use first in vault - bots can ask several questions on one card full changelog: x.ai/changelog/bot",
+   "url": "https://nitter.kareem.one/ericzakariasson/status/2115238537792815303#m",
+   "ts": 1793147141,
+   "id": "2115238537792815303#m"
   },
   {
    "handle": "elonmusk",
@@ -337,15 +347,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2115113176693969059#m",
    "ts": 1793117252,
    "id": "2115113176693969059#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "United Airlines CEO in new interview on @Starlink : \"We were only going to do 65% of our fleet, but once we put it on our first aircraft, I got these anecdotes saying, 'I'm switching to flying regional 'cause it's got Starlink.' Then I was like, 'Holy cow, we gotta go all-in.'\"",
-   "url": "https://nitter.kareem.one/SawyerMerritt/status/2115095036496867476#m",
-   "ts": 1793112927,
-   "id": "2115095036496867476#m"
   },
   {
    "handle": "swyx",
@@ -1233,7 +1234,7 @@
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
-   "text": "Fully included in the Pro plan, doesn't draw on your weekly usage.",
+   "text": "Fully included in the Pro plan, doesn't draw on your weekly usage. Community note: As of 22 October 2026, OpenAI’s dots are unavailable to ChatGPT Pro users in the EU. OpenAI excludes the European Economic Area (which includes all EU countries), the UK and Switzerland from Pro access. [Source: OpenAI documentation]( learn.chatgpt.com/docs/dots",
    "url": "https://nitter.kareem.one/thsottiaux/status/2113029854417600834#m",
    "ts": 1792620550,
    "id": "2113029854417600834#m"
