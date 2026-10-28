@@ -1,20 +1,83 @@
 {
- "generated_at": "2026-10-28T14:11:17Z",
+ "generated_at": "2026-10-28T18:12:41Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
   {
    "subreddit": "selfhosted",
-   "title": "I replaced Notion and my Claude Code terminals with one open-source app where AI agents run my work like a small company: a CEO agent and a VP for each area",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xhp0ee/i_replaced_notion_and_my_claude_code_terminals/",
-   "ts": 1793196322,
+   "title": "FiestaBoard v10: a self-hosted dashboard for Vestaboard and Pixoo 64",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xhuyqm/fiestaboard_v10_a_selfhosted_dashboard_for/",
+   "ts": 1793209311,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Why Don’t We Have Bug Free Code?",
+   "url": "https://www.reddit.com/r/programming/comments/1xhup1w/why_dont_we_have_bug_free_code/",
+   "ts": 1793208727,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Pipedash - one dashboard for multiple CI/CD providers",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xhum6t/pipedash_one_dashboard_for_multiple_cicd_providers/",
+   "ts": 1793208557,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Cocktail-party audio as a reverse Turing test: humans beat speech models, but not by enough [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xhuado/cocktailparty_audio_as_a_reverse_turing_test/",
+   "ts": 1793207879,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Latent Frames: an iPhone and iPad photo viewer for Synology, SMB and WebDAV folders",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xhtyjh/latent_frames_an_iphone_and_ipad_photo_viewer_for/",
+   "ts": 1793207199,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Could AI detection eventually become a fundamentally unsolvable problem, similar to the halting problem? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xhtabq/could_ai_detection_eventually_become_a/",
+   "ts": 1793205771,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Rooted my WiFi Router and managed to get PHP on it",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xht35p/rooted_my_wifi_router_and_managed_to_get_php_on_it/",
+   "ts": 1793205337,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "How do you start with Agentic AI for a specific use case? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xhso7k/how_do_you_start_with_agentic_ai_for_a_specific/",
+   "ts": 1793204421,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET) [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xhpnfs/ama_this_wednesday_stephen_cas_casper_harvard/",
+   "ts": 1793197825,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Making SIMD Code Scale to Any Vector Width",
+   "url": "https://www.reddit.com/r/programming/comments/1xhpagj/making_simd_code_scale_to_any_vector_width/",
+   "ts": 1793196997,
    "source": "Reddit"
   },
   {
@@ -29,13 +92,6 @@
    "title": "CUDA: fuse MoE gate/up matmuls and GLU in MMQ by anujj · Pull Request #31188 · ggml-org/llama.cpp",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhodj3/cuda_fuse_moe_gateup_matmuls_and_glu_in_mmq_by/",
    "ts": 1793194841,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Need help with Self Hosted VPN",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xhod1c/need_help_with_self_hosted_vpn/",
-   "ts": 1793194805,
    "source": "Reddit"
   },
   {
@@ -102,13 +158,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Is LeetCode Dead? What’s the Alternative?",
-   "url": "https://www.reddit.com/r/programming/comments/1xhkwte/is_leetcode_dead_whats_the_alternative/",
-   "ts": 1793185117,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Princeton and Polymathic AI release FlashMap: Flow Map Speculative Decoding",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhkpzf/princeton_and_polymathic_ai_release_flashmap_flow/",
@@ -127,13 +176,6 @@
    "title": "AA is getting ridiculous now. Zero open weights in the Most Attractive Quadrant.",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhk7hp/aa_is_getting_ridiculous_now_zero_open_weights_in/",
    "ts": 1793182762,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Selfhosted alternative to start.me with flexible bookmark organization",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xhk24j/selfhosted_alternative_to_startme_with_flexible/",
-   "ts": 1793182238,
    "source": "Reddit"
   },
   {
@@ -256,20 +298,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "Self-distillation with an EMA teacher at scale: ZeRO-3 + PEFT [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xh083s/selfdistillation_with_an_ema_teacher_at_scale/",
-   "ts": 1793124968,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "I built this, feedback welcome [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xgzbik/i_built_this_feedback_welcome_p/",
-   "ts": 1793123005,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "I am a King, but local 😂",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgy5ic/i_am_a_king_but_local/",
@@ -284,24 +312,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "[FOSS] A tool to shrink Immich libraries 20-50% by converting originals to JPEG-XL / AV1 in place while keeping albums and metadata intact.",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xgxbju/foss_a_tool_to_shrink_immich_libraries_2050_by/",
-   "ts": 1793118675,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Ψ-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xgwq9u/ψ06_adaptive_streams_of_thought_in_a_unified/",
    "ts": 1793117382,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "A few of my favorite software and programming language documentaries",
-   "url": "https://www.reddit.com/r/programming/comments/1xgwkhz/a_few_of_my_favorite_software_and_programming/",
-   "ts": 1793117034,
    "source": "Reddit"
   },
   {
@@ -337,13 +351,6 @@
    "title": "DuckDB.NET 1.5.6.1: Reading Data Up to 12× Faster",
    "url": "https://www.reddit.com/r/programming/comments/1xgnigv/duckdbnet_1561_reading_data_up_to_12_faster/",
    "ts": 1793091980,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "What is the value proposition of \"RL environment\" companies? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xggw1k/what_is_the_value_proposition_of_rl_environment/",
-   "ts": 1793068633,
    "source": "Reddit"
   },
   {
@@ -414,13 +421,6 @@
    "title": "[D] Self-Promotion Thread",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1wvi1j8/d_selfpromotion_thread/",
    "ts": 1790907305,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1wunvg4/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-   "ts": 1790821809,
    "source": "Reddit"
   },
   {
