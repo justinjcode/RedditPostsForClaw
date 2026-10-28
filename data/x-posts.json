@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-10-28T01:53:50Z",
+ "generated_at": "2026-10-28T02:10:22Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "What the Democrats are willing to do with power is terrifying. We saw it during Covid, when parents were investigated under the Patriot Act for showing up to schools board meetings and Catholics were spied upon for going to traditional Latin mass. If you bought a MAGA hat you went on a list. Now, Democrats are calling for Show Trials. When you go to the polls next week—remember Democrats want complete control with no room for dissent. Video",
+   "url": "https://nitter.kareem.one/Eric_Schmitt/status/2115244242301792497#m",
+   "ts": 1793148501,
+   "id": "2115244242301792497#m"
+  },
   {
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
@@ -49,6 +59,15 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2115150032986931656#m",
    "ts": 1793126040,
    "id": "2115150032986931656#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "A new bot called \"Director,\" by Xi Yan, showed up in the Grok Bot Marketplace. It's a video director that takes a brief and plans, shoots, cuts and delivers short films, ads, explainers or music videos. Import it, it comes with a pack of video skills. x.ai/bot/marketplace/bots/vi… Link Director · Grok Bot Marketplace Your video director: turn briefs into short films, ads, explainers, music videos, micro-dramas, and more — plan, shoot, cut, and deliver. x.ai",
+   "url": "https://nitter.kareem.one/tetsuoai/status/2115148923337842788#m",
+   "ts": 1793125775,
+   "id": "2115148923337842788#m"
   },
   {
    "handle": "swyx",
@@ -216,15 +235,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "United Airlines CEO in new interview on Delta Airlines choosing not to adopt @Starlink : \"It's a mistake. I think (Starlink) is the biggest competitive advantage of all time. We are going to have a few years of being the only airline that has it at scale.\"",
-   "url": "https://nitter.kareem.one/SawyerMerritt/status/2115096791393681426#m",
-   "ts": 1793113346,
-   "id": "2115096791393681426#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "United Airlines CEO in new interview on @Starlink : \"We were only going to do 65% of our fleet, but once we put it on our first aircraft, I got these anecdotes saying, 'I'm switching to flying regional 'cause it's got Starlink.' Then I was like, 'Holy cow, we gotta go all-in.'\"",
    "url": "https://nitter.kareem.one/SawyerMerritt/status/2115095036496867476#m",
    "ts": 1793112927,
@@ -243,7 +253,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 5,719 votes • 5 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
+   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 5,763 votes • 5 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "url": "https://nitter.kareem.one/swyx/status/2115089887959359988#m",
    "ts": 1793111700,
    "id": "2115089887959359988#m"
@@ -351,15 +361,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Watch Falcon 9 launch 27 @Starlink satellites to orbit from California nitterk.kareem.one/i/broadcasts/1mGPaZgYg… Link SpaceX Starlink Mission https://nitter.kareem.one/i/broadcasts/1mGPaZgYgLDJN",
-   "url": "https://nitter.kareem.one/SpaceX/status/2114979142638960965#m",
-   "ts": 1793085296,
-   "id": "2114979142638960965#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "The sheer fucking hypocrisy surrounding Elon Musk is breathtaking. For decades, billionaire-funded foundations have financed advocacy groups, political campaigns, legal organizations, and efforts to reshape public policy. George Soros is one of the most prominent examples. And somehow that influence is routinely presented as enlightened philanthropy. Then Elon Musk enters politics, spends openly, challenges powerful institutions, and suddenly the entire establishment discovers the dangers of billionaire influence. Give me a fucking break. The man has built companies that launch rockets, connect the world through satellites, manufacture vehicles, and advance technologies with enormous implications for humanity. His long-term ambition is to make civilization multiplanetary. He has a profound personal interest in a future where technological progress remains possible. You can disagree with his politics. But pretending he’s just another billionaire looking for influence ignores the extraordinary scale of what he’s actually trying to accomplish.",
    "url": "https://nitter.kareem.one/tslryn/status/2114899814177480951#m",
    "ts": 1793066383,
@@ -378,7 +379,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 5,719 votes • 5 days",
+   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 5,763 votes • 5 days",
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
