@@ -1,15 +1,57 @@
 {
- "generated_at": "2026-10-28T10:10:37Z",
+ "generated_at": "2026-10-28T12:14:17Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
-  "selfhosted"
+  "MachineLearning",
+  "programming"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "A faster way to compute signed 64-bit floor division by constants",
+   "url": "https://www.reddit.com/r/programming/comments/1xhl1jb/a_faster_way_to_compute_signed_64bit_floor/",
+   "ts": 1793185508,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Is LeetCode Dead? What’s the Alternative?",
+   "url": "https://www.reddit.com/r/programming/comments/1xhkwte/is_leetcode_dead_whats_the_alternative/",
+   "ts": 1793185117,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Two days tuning a single Tesla P40: 35B MoE, full 262k context, ~60 t/s short and ~30 t/s at 100k deep. No sub-Q4 quants.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhkwlm/two_days_tuning_a_single_tesla_p40_35b_moe_full/",
+   "ts": 1793185096,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Princeton and Polymathic AI release FlashMap: Flow Map Speculative Decoding",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhkpzf/princeton_and_polymathic_ai_release_flashmap_flow/",
+   "ts": 1793184499,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "What is something you will want an AI model to do (not necessarily LLMs, anything AI) that it currently cannot?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhkaol/what_is_something_you_will_want_an_ai_model_to_do/",
+   "ts": 1793183066,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "AA is getting ridiculous now. Zero open weights in the Most Attractive Quadrant.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhk7hp/aa_is_getting_ridiculous_now_zero_open_weights_in/",
+   "ts": 1793182762,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "NAS (DXP2800) owners: stick with UGOS or jump to ZimaOS (or something else entirely)?",
@@ -137,13 +179,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "New audio model: LFM3-Audio-2B",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh50at/new_audio_model_lfm3audio2b/",
-   "ts": 1793135647,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Chevereto v4.5.8 released (security update)",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xh4ubu/chevereto_v458_released_security_update/",
@@ -179,24 +214,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Statistically Lossless Qwen3.8 27B GGUFs",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh17tk/statistically_lossless_qwen38_27b_ggufs/",
-   "ts": 1793127147,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Billion-query-per-second lookup tables in C++",
    "url": "https://www.reddit.com/r/programming/comments/1xh15vv/billionquerypersecond_lookup_tables_in_c/",
    "ts": 1793127027,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Real-time video captioning with LFM3-VL-2B running locally in-browser on WebGPU",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh0otf/realtime_video_captioning_with_lfm3vl2b_running/",
-   "ts": 1793125990,
    "source": "Reddit"
   },
   {
@@ -298,13 +319,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Debunking Cohere's claim of Qwen 3.8 Flash Next uploading to Alibaba remote URL",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgopmj/debunking_coheres_claim_of_qwen_38_flash_next/",
-   "ts": 1793096371,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Papers with Code is now open-source [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xgoadu/papers_with_code_is_now_opensource_p/",
@@ -326,13 +340,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Iframes should have an api",
-   "url": "https://www.reddit.com/r/programming/comments/1xgftsd/iframes_should_have_an_api/",
-   "ts": 1793065650,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "How to do method research when I feel I have no guidance on doing it? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xgdl42/how_to_do_method_research_when_i_feel_i_have_no/",
@@ -351,13 +358,6 @@
    "title": "So tired of these AI crawlers",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xgae5q/so_tired_of_these_ai_crawlers/",
    "ts": 1793051555,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "How to write a \"bug hunt\" blog post",
-   "url": "https://www.reddit.com/r/programming/comments/1xfwnaz/how_to_write_a_bug_hunt_blog_post/",
-   "ts": 1793020877,
    "source": "Reddit"
   },
   {
