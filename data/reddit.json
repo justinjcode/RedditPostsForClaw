@@ -1,15 +1,57 @@
 {
- "generated_at": "2026-10-28T08:13:32Z",
+ "generated_at": "2026-10-28T10:10:37Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "NAS (DXP2800) owners: stick with UGOS or jump to ZimaOS (or something else entirely)?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xhjtgv/nas_dxp2800_owners_stick_with_ugos_or_jump_to/",
+   "ts": 1793181372,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "After 6 months of daily building, I just released Hillock v1.0 stable: a local neuro-symbolic memory engine that runs under 1.2GB VRAM with zero hallucinations",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xhjre9/after_6_months_of_daily_building_i_just_released/",
+   "ts": 1793181152,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Gemma 5 models soon ??",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhjn9d/gemma_5_models_soon/",
+   "ts": 1793180718,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Oh... I'm having a lot of fun lately",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xhjjzd/oh_im_having_a_lot_of_fun_lately/",
+   "ts": 1793180362,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Diffuspace/Clover-35B-A3B-Preview · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhinyj/diffuspaceclover35ba3bpreview_hugging_face/",
+   "ts": 1793176996,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "4B 3D coding model update: much better one-shot results and visual quality",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhfwui/4b_3d_coding_model_update_much_better_oneshot/",
+   "ts": 1793166356,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Sablier, 4 years later: start your apps on demand, now with Podman, Proxmox LXC, Nomad, ECS and more",
@@ -18,10 +60,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Questioning my security through obscurity",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xhehfs/questioning_my_security_through_obscurity/",
-   "ts": 1793161376,
+   "subreddit": "LocalLLaMA",
+   "title": "Dirt cheap GPUs coming next year",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhep6w/dirt_cheap_gpus_coming_next_year/",
+   "ts": 1793162081,
    "source": "Reddit"
   },
   {
@@ -29,6 +71,13 @@
    "title": "New to self hosting and need some guidance",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xhe41b/new_to_self_hosting_and_need_some_guidance/",
    "ts": 1793160150,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Artificial Analysis Intelligence Index v5 (major update)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhdmlk/artificial_analysis_intelligence_index_v5_major/",
+   "ts": 1793158616,
    "source": "Reddit"
   },
   {
@@ -103,13 +152,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "OpenAI's major results over the last 3 months came from scaling test-time compute with agent swarms. I've been building an open-source equivalent for the past year, and I'd love for you guys to try it.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh4bnd/openais_major_results_over_the_last_3_months_came/",
-   "ts": 1793134058,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "The reason why 5090's are $10k now...",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh3iek/the_reason_why_5090s_are_10k_now/",
    "ts": 1793132241,
@@ -134,13 +176,6 @@
    "title": "Understanding Transformer Autograd by Building It Manually in PyTorch [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xh1z1p/understanding_transformer_autograd_by_building_it/",
    "ts": 1793128808,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "LiquidAI/LFM3-Omni-2B-GGUF",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh1rwn/liquidailfm3omni2bgguf/",
-   "ts": 1793128370,
    "source": "Reddit"
   },
   {
@@ -214,27 +249,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "A 1.3B OCR model just hit 93.68 on real-world document parsing and there's now an AI judge for OCR errors",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgx26j/a_13b_ocr_model_just_hit_9368_on_realworld/",
-   "ts": 1793118111,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "8x R9700 System Upgrade",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgwyx9/8x_r9700_system_upgrade/",
-   "ts": 1793117914,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Image hosting that isnt Immich?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xgwu51/image_hosting_that_isnt_immich/",
-   "ts": 1793117614,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Ψ-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xgwq9u/ψ06_adaptive_streams_of_thought_in_a_unified/",
@@ -277,13 +291,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Ling-3.1-flash-1019 weights are out, and they released the base model too",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgrr8n/ling31flash1019_weights_are_out_and_they_released/",
-   "ts": 1793105708,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Building confidence in concurrent code with a model checker - Scott Wlaschin - NDC London 2023",
    "url": "https://www.reddit.com/r/programming/comments/1xgqsqf/building_confidence_in_concurrent_code_with_a/",
@@ -323,13 +330,6 @@
    "title": "Iframes should have an api",
    "url": "https://www.reddit.com/r/programming/comments/1xgftsd/iframes_should_have_an_api/",
    "ts": 1793065650,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Traccar: self-hosted GPS tracking, maintained for 10+ years",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xgeull/traccar_selfhosted_gps_tracking_maintained_for_10/",
-   "ts": 1793062980,
    "source": "Reddit"
   },
   {
