@@ -1,15 +1,43 @@
 {
- "generated_at": "2026-10-28T18:12:41Z",
+ "generated_at": "2026-10-28T22:09:33Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "If-statement that caused HTTP2Shell was itself undisclosed patch of vulnerability",
+   "url": "https://www.reddit.com/r/programming/comments/1xi16s3/ifstatement_that_caused_http2shell_was_itself/",
+   "ts": 1793223026,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Getting into self-hosting with some specific requirements",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xhz2po/getting_into_selfhosting_with_some_specific/",
+   "ts": 1793218205,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "A 4B model made me a netherite ingot from bare hands. All I did was type one sentence in chat.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhw2l0/a_4b_model_made_me_a_netherite_ingot_from_bare/",
+   "ts": 1793211685,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Theory: Local is going to explode at enterprises",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhvf1z/theory_local_is_going_to_explode_at_enterprises/",
+   "ts": 1793210284,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "FiestaBoard v10: a self-hosted dashboard for Vestaboard and Pixoo 64",
@@ -32,6 +60,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "A small step for man, a GIANT step for LOCAL AI",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhubiw/a_small_step_for_man_a_giant_step_for_local_ai/",
+   "ts": 1793207945,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "MachineLearning",
    "title": "Cocktail-party audio as a reverse Turing test: humans beat speech models, but not by enough [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xhuado/cocktailparty_audio_as_a_reverse_turing_test/",
@@ -39,10 +74,31 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "Mac Studio M5 Ultra 512gb Starts at $22,299.00 USD",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhu3b0/mac_studio_m5_ultra_512gb_starts_at_2229900_usd/",
+   "ts": 1793207476,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
    "title": "Latent Frames: an iPhone and iPad photo viewer for Synology, SMB and WebDAV folders",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xhtyjh/latent_frames_an_iphone_and_ipad_photo_viewer_for/",
    "ts": 1793207199,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "kwatch v1: it now groups related Kubernetes alerts into one incident with the root cause",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xhtxvj/kwatch_v1_it_now_groups_related_kubernetes_alerts/",
+   "ts": 1793207159,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "List of suggestions for Gemma 5.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhtg61/list_of_suggestions_for_gemma_5/",
+   "ts": 1793206126,
    "source": "Reddit"
   },
   {
@@ -60,10 +116,31 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "IT vendor lists massive $60 million AI supercomputer on eBay with 9,600 Nvidia A100 GPUs and 4,200 AMD EPYC CPUs, plus free shipping — 300 racks of decommissioned GPUs on offer",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhsvmy/it_vendor_lists_massive_60_million_ai/",
+   "ts": 1793204880,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "MachineLearning",
    "title": "How do you start with Agentic AI for a specific use case? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xhso7k/how_do_you_start_with_agentic_ai_for_a_specific/",
    "ts": 1793204421,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Alternatives to Artificial Analysis",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhse0l/alternatives_to_artificial_analysis/",
+   "ts": 1793203830,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhqy12/nvidianvidianemotron35transcribe30ba4b_hugging/",
+   "ts": 1793200750,
    "source": "Reddit"
   },
   {
@@ -89,9 +166,9 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "CUDA: fuse MoE gate/up matmuls and GLU in MMQ by anujj · Pull Request #31188 · ggml-org/llama.cpp",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhodj3/cuda_fuse_moe_gateup_matmuls_and_glu_in_mmq_by/",
-   "ts": 1793194841,
+   "title": "Used Qwen 3.8 flash next on underspeced PC to Root and gut LG TV of spy and adware",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhoeo3/used_qwen_38_flash_next_on_underspeced_pc_to_root/",
+   "ts": 1793194918,
    "source": "Reddit"
   },
   {
@@ -116,13 +193,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "I took EmbeddingGemma-2 (577M) from Rank #26 to #1 on the MTEB Audio leaderboard (MAEB), beating 9B models by adding a 2.4 MB PCA head with zero training",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhny7x/i_took_embeddinggemma2_577m_from_rank_26_to_1_on/",
-   "ts": 1793193786,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "A harness that records where an LLM agent’s tool arguments came from, before the tool runs [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xhnoo2/a_harness_that_records_where_an_llm_agents_tool/",
@@ -137,13 +207,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "mtmd: enable video input support for LFM3 model family by tdakhran · Pull Request #31283 · ggml-org/llama.cpp",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhmgql/mtmd_enable_video_input_support_for_lfm3_model/",
-   "ts": 1793189815,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "BookManager follow-up: metadata preservation fixes and XML compatibility improvements for the next release",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xhm5qy/bookmanager_followup_metadata_preservation_fixes/",
@@ -155,13 +218,6 @@
    "title": "A faster way to compute signed 64-bit floor division by constants",
    "url": "https://www.reddit.com/r/programming/comments/1xhl1jb/a_faster_way_to_compute_signed_64bit_floor/",
    "ts": 1793185508,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Princeton and Polymathic AI release FlashMap: Flow Map Speculative Decoding",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhkpzf/princeton_and_polymathic_ai_release_flashmap_flow/",
-   "ts": 1793184499,
    "source": "Reddit"
   },
   {
@@ -193,13 +249,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Diffuspace/Clover-35B-A3B-Preview · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhinyj/diffuspaceclover35ba3bpreview_hugging_face/",
-   "ts": 1793176996,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Sablier, 4 years later: start your apps on demand, now with Podman, Proxmox LXC, Nomad, ECS and more",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xhf3z7/sablier_4_years_later_start_your_apps_on_demand/",
@@ -211,13 +260,6 @@
    "title": "Dirt cheap GPUs coming next year",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhep6w/dirt_cheap_gpus_coming_next_year/",
    "ts": 1793162081,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Artificial Analysis Intelligence Index v5 (major update)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhdmlk/artificial_analysis_intelligence_index_v5_major/",
-   "ts": 1793158616,
    "source": "Reddit"
   },
   {
@@ -235,20 +277,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "DeepSeek-V4.1-Flash-1017 at 41 tok/s on one 3090",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh9yf7/deepseekv41flash1017_at_41_toks_on_one_3090/",
-   "ts": 1793147985,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "SETTLE - an IETF proposal that will revolutionize private network trust",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xh8pv7/settle_an_ietf_proposal_that_will_revolutionize/",
-   "ts": 1793144736,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Choose Your Backend: Three TLS Bugs in GoAhead",
    "url": "https://www.reddit.com/r/programming/comments/1xh84hz/choose_your_backend_three_tls_bugs_in_goahead/",
@@ -260,13 +288,6 @@
    "title": "How I added dynamic social preview images to my site for almost nothing",
    "url": "https://www.reddit.com/r/programming/comments/1xh55mz/how_i_added_dynamic_social_preview_images_to_my/",
    "ts": 1793135982,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "The reason why 5090's are $10k now...",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh3iek/the_reason_why_5090s_are_10k_now/",
-   "ts": 1793132241,
    "source": "Reddit"
   },
   {
@@ -295,20 +316,6 @@
    "title": "Billion-query-per-second lookup tables in C++",
    "url": "https://www.reddit.com/r/programming/comments/1xh15vv/billionquerypersecond_lookup_tables_in_c/",
    "ts": 1793127027,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "I am a King, but local 😂",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgy5ic/i_am_a_king_but_local/",
-   "ts": 1793120466,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Pangolin now supports mTLS client certificates, great for hardening externally exposed services",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xgxbnb/pangolin_now_supports_mtls_client_certificates/",
-   "ts": 1793118681,
    "source": "Reddit"
   },
   {
@@ -386,13 +393,6 @@
    "title": "From 27 minutes to 4: Cutting CI build time by 85%",
    "url": "https://www.reddit.com/r/programming/comments/1xfszv3/from_27_minutes_to_4_cutting_ci_build_time_by_85/",
    "ts": 1793010182,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Who lost my lap infant? My attempt to reverse engineer a decade-long airline bug",
-   "url": "https://www.reddit.com/r/programming/comments/1xfhd6i/who_lost_my_lap_infant_my_attempt_to_reverse/",
-   "ts": 1792971616,
    "source": "Reddit"
   },
   {
