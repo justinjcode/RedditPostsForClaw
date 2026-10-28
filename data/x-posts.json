@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-28T14:56:00Z",
+ "generated_at": "2026-10-28T15:08:14Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "ZichenWanghere",
+  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +11,7 @@
   "thsottiaux"
  ],
  "errors": [
-  "@TheRundownAI: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 179,
  "items": [
@@ -226,6 +226,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "One of the victims of the Zizian trans death cult was their elderly landlord. They bashed him on the head and then attacked him with knives and a sword. With barely any strength left, he managed to shoot them, killing one. That deceased Zizian was honored in a U.S. Senate resolution about the \"epidemic of violence toward transgender people.\" It was introduced by Democratic U.S. Sen. Mazie Hirono and other Democrats. nitterk.kareem.one/BrandonStraka/status/2…",
+   "url": "https://nitter.kareem.one/MrAndyNgo/status/2115243411506885114#m",
+   "ts": 1793148303,
+   "id": "2115243411506885114#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "grok @bot 0.77.0 is now stable and rolling out! - permissions settings for your auto-review rules - pick which payment method bots use first in vault - bots can ask several questions on one card full changelog: x.ai/changelog/bot",
    "url": "https://nitter.kareem.one/ericzakariasson/status/2115238537792815303#m",
    "ts": 1793147141,
@@ -239,15 +248,6 @@
    "url": "https://nitter.kareem.one/CoffeeNGrit/status/2115217226580004871#m",
    "ts": 1793142060,
    "id": "2115217226580004871#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "i've gotten a lot of questions about how i manage my X account with grok bot, so i'm sharing my bot tibot today! he watches your mentions and: • finds every post about you or any keywords, tagged or not • gives one short, sorted digest a day (or hourly, your call) • skips spam and noise • translates non-English posts • can auto block trolls and abuse • never posts for you i still write all my posts and articles by hand but tibot has been very helpful with keeping me in the loop. hire tibot today! x.ai/bot/xZ4wRvomWqzCXnyYFr7… Link tibot by lauren Watches X for posts about you, or anything else you want to track, and sends a short, sorted digest on your schedule (daily by default), staying quiet... x.ai",
-   "url": "https://nitter.kareem.one/poteto/status/2115205951649423585#m",
-   "ts": 1793139372,
-   "id": "2115205951649423585#m"
   },
   {
    "handle": "elonmusk",
@@ -388,7 +388,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,574 votes • 5 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
+   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,577 votes • 5 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "url": "https://nitter.kareem.one/swyx/status/2115089887959359988#m",
    "ts": 1793111700,
    "id": "2115089887959359988#m"
@@ -487,7 +487,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,574 votes • 5 days",
+   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,577 votes • 5 days",
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
