@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-10-29T19:08:21Z",
+ "generated_at": "2026-10-29T19:17:23Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "this is a joke but reminder that extreme ageism in silicon valley is real and not even self aware and yes you should be concerned that a majority of ai apps for the entire world are being built by admittedly hyperintelligent coders who have never worked in a team of >10, never cared for elders or kids, never voted, and are 90% white/asian male Wise (@trikcode) I am doing a project about elderly vibecoders If you are a vibecoder and over 25 please DM — https://nitter.kareem.one/trikcode/status/2115663722945380554#m",
+   "url": "https://nitter.kareem.one/swyx/status/2115884384326939076#m",
+   "ts": 1793301123,
+   "id": "2115884384326939076#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -23,6 +31,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2115873803486032121#m",
    "ts": 1793298600,
    "id": "2115873803486032121#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "It was a privilege to write this piece with you, @ryanl_hass , and I hope to collaborate again soon. Ryan Hass (@ryanl_hass) 1/ Sharing a collaboration with @Ali_Wyne to support thinking around post-Trump China policy. We argue that America's policy pendulum swings on China have been counterproductive. A new approach grounded in national renewal and the mood of American public would be more effective. — https://nitter.kareem.one/ryanl_hass/status/2115857316499362060#m",
+   "url": "https://nitter.kareem.one/Ali_Wyne/status/2115861429605830907#m",
+   "ts": 1793295650,
+   "id": "2115861429605830907#m"
   },
   {
    "handle": "TheRundownAI",
@@ -1042,15 +1059,6 @@
    "id": "2114185782563082307#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "part time and oneoff guest posts welcome docs.google.com/forms/d/e/1F… Link Guest Post on Latent Space! Latent Space is a podcast and newsletter that covers AI Engineering for a global audience of over 100,000 weekly readers. Guests have ranged from Mark Zuckerberg to Greg Brockman to George Hotz and... docs.google.com",
-   "url": "https://nitter.kareem.one/swyx/status/2114149330135519730#m",
-   "ts": 1792887453,
-   "id": "2114149330135519730#m"
-  },
-  {
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
    "author": "@realDonaldTrump",
@@ -1283,15 +1291,6 @@
    "url": "https://nitter.kareem.one/alexbward/status/2113329634448421148#m",
    "ts": 1792692023,
    "id": "2113329634448421148#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "My iPhone Duo video went viral, so I'm giving away 100 iPhones on X 😛 Video",
-   "url": "https://nitter.kareem.one/mediastorm_en/status/2113263456090763450#m",
-   "ts": 1792676245,
-   "id": "2113263456090763450#m"
   },
   {
    "handle": "Lingling_Wei",
