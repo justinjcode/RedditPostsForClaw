@@ -1,15 +1,57 @@
 {
- "generated_at": "2026-10-29T00:24:18Z",
+ "generated_at": "2026-10-29T02:13:21Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
   "MachineLearning",
-  "programming"
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "MachineLearning",
+   "title": "Using compute to verify paper results [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xi7hpf/using_compute_to_verify_paper_results_d/",
+   "ts": 1793239306,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "any fun casual podcasts? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xi7cvk/any_fun_casual_podcasts_d/",
+   "ts": 1793238938,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Qwen4 1M context window",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xi7390/qwen4_1m_context_window/",
+   "ts": 1793238175,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "degoog appreciation post (including a crappy video with some examples of its features)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xi6k5v/degoog_appreciation_post_including_a_crappy_video/",
+   "ts": 1793236699,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Guide - Use docker to operate legacy scanner hardware on Windows 11",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xi5z2k/guide_use_docker_to_operate_legacy_scanner/",
+   "ts": 1793235102,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Best self-hosted Spotify replacement with music discovery",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xi5a34/best_selfhosted_spotify_replacement_with_music/",
+   "ts": 1793233183,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "Learn Any ML Library by Rebuilding It: NumPy, pandas, scikit-learn, PyTorch and sentence-transformer",
@@ -32,6 +74,27 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "selfhosted",
+   "title": "anyone selfhosting Lineage2 for private use?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xi39c5/anyone_selfhosting_lineage2_for_private_use/",
+   "ts": 1793228072,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "My journey after six months... and my thoughts..",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xi306l/my_journey_after_six_months_and_my_thoughts/",
+   "ts": 1793227411,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "I ran Doom inside the Qwen model weights!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xi2jfm/i_ran_doom_inside_the_qwen_model_weights/",
+   "ts": 1793226272,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "MachineLearning",
    "title": "CPT’d Qwen9B on Polish legal data. How to make it chat? IMPORTANTLY: how to make it reason? and function call in my harness? and which to do first? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xi21f9/cptd_qwen9b_on_polish_legal_data_how_to_make_it/",
@@ -43,20 +106,6 @@
    "title": "If-statement that caused HTTP2Shell was itself undisclosed patch of vulnerability",
    "url": "https://www.reddit.com/r/programming/comments/1xi16s3/ifstatement_that_caused_http2shell_was_itself/",
    "ts": 1793223026,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Getting into self-hosting with some specific requirements",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xhz2po/getting_into_selfhosting_with_some_specific/",
-   "ts": 1793218205,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Models are chasing unrealistic benchmarks but the working-level intelligence is already achieved",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhydgj/models_are_chasing_unrealistic_benchmarks_but_the/",
-   "ts": 1793216658,
    "source": "Reddit"
   },
   {
@@ -130,13 +179,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "kwatch v1: it now groups related Kubernetes alerts into one incident with the root cause",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xhtxvj/kwatch_v1_it_now_groups_related_kubernetes_alerts/",
-   "ts": 1793207159,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "List of suggestions for Gemma 5.",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhtg61/list_of_suggestions_for_gemma_5/",
@@ -200,13 +242,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Used Qwen 3.8 flash next on underspeced PC to Root and gut LG TV of spy and adware",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhoeo3/used_qwen_38_flash_next_on_underspeced_pc_to_root/",
-   "ts": 1793194918,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Vicu, a simple client for Vikunja (Android, iOS, Windows/Mac/Linux)",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xhocdq/vicu_a_simple_client_for_vikunja_android_ios/",
@@ -242,24 +277,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "BookManager follow-up: metadata preservation fixes and XML compatibility improvements for the next release",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xhm5qy/bookmanager_followup_metadata_preservation_fixes/",
-   "ts": 1793188923,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "A faster way to compute signed 64-bit floor division by constants",
    "url": "https://www.reddit.com/r/programming/comments/1xhl1jb/a_faster_way_to_compute_signed_64bit_floor/",
    "ts": 1793185508,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Pandora M1, a training monitor box (64 nodes x 8 GPUs support) [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xhkli0/pandora_m1_a_training_monitor_box_64_nodes_x_8/",
-   "ts": 1793184087,
    "source": "Reddit"
   },
   {
@@ -298,13 +319,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Lagrange Reader: an offline Android companion for BookOrbit, Komga, and Kavita",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xhbi9q/lagrange_reader_an_offline_android_companion_for/",
-   "ts": 1793152317,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Choose Your Backend: Three TLS Bugs in GoAhead",
    "url": "https://www.reddit.com/r/programming/comments/1xh84hz/choose_your_backend_three_tls_bugs_in_goahead/",
@@ -316,13 +330,6 @@
    "title": "How I added dynamic social preview images to my site for almost nothing",
    "url": "https://www.reddit.com/r/programming/comments/1xh55mz/how_i_added_dynamic_social_preview_images_to_my/",
    "ts": 1793135982,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Exploring Next-Concept Modeling (NCM) & Transformer Interpretability: Repository of 20 Exploratory Studies & Controls [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xh3e7o/exploring_nextconcept_modeling_ncm_transformer/",
-   "ts": 1793131987,
    "source": "Reddit"
   },
   {
@@ -351,13 +358,6 @@
    "title": "Ψ-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xgwq9u/ψ06_adaptive_streams_of_thought_in_a_unified/",
    "ts": 1793117382,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xgu9ea/tailscale_warns_of_ssh_flaws_allowing_root/",
-   "ts": 1793111813,
    "source": "Reddit"
   },
   {
