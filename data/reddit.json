@@ -1,15 +1,43 @@
 {
- "generated_at": "2026-10-28T22:09:33Z",
+ "generated_at": "2026-10-29T00:24:18Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
-  "selfhosted"
+  "MachineLearning",
+  "programming"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "Learn Any ML Library by Rebuilding It: NumPy, pandas, scikit-learn, PyTorch and sentence-transformer",
+   "url": "https://www.reddit.com/r/programming/comments/1xi4nhc/learn_any_ml_library_by_rebuilding_it_numpy/",
+   "ts": 1793231624,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Local-First Means Three Different Things",
+   "url": "https://www.reddit.com/r/programming/comments/1xi3p7g/localfirst_means_three_different_things/",
+   "ts": 1793229173,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Electronics hobbyist converts $120 DDR5 SODIMM kit into ‘$1000’ desktop kit to fight RAM crisis — ICs from SK hynix DDR5-5600 16GB modules used to create DDR5-7800 desktop sticks",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xi3l9r/electronics_hobbyist_converts_120_ddr5_sodimm_kit/",
+   "ts": 1793228895,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "CPT’d Qwen9B on Polish legal data. How to make it chat? IMPORTANTLY: how to make it reason? and function call in my harness? and which to do first? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xi21f9/cptd_qwen9b_on_polish_legal_data_how_to_make_it/",
+   "ts": 1793225072,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "If-statement that caused HTTP2Shell was itself undisclosed patch of vulnerability",
@@ -26,6 +54,13 @@
   },
   {
    "subreddit": "LocalLLaMA",
+   "title": "Models are chasing unrealistic benchmarks but the working-level intelligence is already achieved",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhydgj/models_are_chasing_unrealistic_benchmarks_but_the/",
+   "ts": 1793216658,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
    "title": "A 4B model made me a netherite ingot from bare hands. All I did was type one sentence in chat.",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhw2l0/a_4b_model_made_me_a_netherite_ingot_from_bare/",
    "ts": 1793211685,
@@ -36,6 +71,13 @@
    "title": "Theory: Local is going to explode at enterprises",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhvf1z/theory_local_is_going_to_explode_at_enterprises/",
    "ts": 1793210284,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "How Much Does the Hint Matter? A generic feedback line matches self-written critiques in hindsight self-distillation (ACM ICAIF '26) [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xhv8yp/how_much_does_the_hint_matter_a_generic_feedback/",
+   "ts": 1793209930,
    "source": "Reddit"
   },
   {
@@ -131,13 +173,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "Alternatives to Artificial Analysis",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhse0l/alternatives_to_artificial_analysis/",
-   "ts": 1793203830,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B · Hugging Face",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhqy12/nvidianvidianemotron35transcribe30ba4b_hugging/",
    "ts": 1793200750,
@@ -225,13 +260,6 @@
    "title": "Pandora M1, a training monitor box (64 nodes x 8 GPUs support) [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xhkli0/pandora_m1_a_training_monitor_box_64_nodes_x_8/",
    "ts": 1793184087,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "AA is getting ridiculous now. Zero open weights in the Most Attractive Quadrant.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhk7hp/aa_is_getting_ridiculous_now_zero_open_weights_in/",
-   "ts": 1793182762,
    "source": "Reddit"
   },
   {
@@ -326,13 +354,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "Teachers other than EMA for distillation ? [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xgwagz/teachers_other_than_ema_for_distillation_r/",
-   "ts": 1793116436,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xgu9ea/tailscale_warns_of_ssh_flaws_allowing_root/",
@@ -361,24 +382,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "How to do method research when I feel I have no guidance on doing it? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xgdl42/how_to_do_method_research_when_i_feel_i_have_no/",
-   "ts": 1793059603,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Building a music engraving engine from scratch",
    "url": "https://www.reddit.com/r/programming/comments/1xgd7gv/building_a_music_engraving_engine_from_scratch/",
    "ts": 1793058675,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Pharo 14 released",
-   "url": "https://www.reddit.com/r/programming/comments/1xfu0wk/pharo_14_released/",
-   "ts": 1793013554,
    "source": "Reddit"
   },
   {
@@ -393,13 +400,6 @@
    "title": "From 27 minutes to 4: Cutting CI build time by 85%",
    "url": "https://www.reddit.com/r/programming/comments/1xfszv3/from_27_minutes_to_4_cutting_ci_build_time_by_85/",
    "ts": 1793010182,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Just finished my multiplayer system in C and turns out we can support 50k players in a single server at 60hz simulation tick",
-   "url": "https://www.reddit.com/r/programming/comments/1xf4c5d/just_finished_my_multiplayer_system_in_c_and/",
-   "ts": 1792939838,
    "source": "Reddit"
   },
   {
