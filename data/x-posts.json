@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T15:21:08Z",
+ "generated_at": "2026-10-29T15:28:49Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Our civilization would be winning wondrously if we are exploring the galaxy with Von Neumann probes by 2100! Larry Page might be right. He has correctly predicted many things. Fireside Alpha (@firesidealpha) Microsoft's Mustafa Suleyman reveals Larry Page told him at SpaceX that by the end of the century he’d be exploring the galaxies at the head of a von Neumann probe “Yeah, I remember in 2015 being in the canteen at SpaceX.” “And we had our first meeting of the Ethics and Safety Board. So when we sold DeepMind to Google, we made it a condition of our acquisition that we would have an Ethics and Safety Board with independent representation on the board.\" \"One of those independent members, because Google had to agree, which was obviously Larry, Sergey, and David Drummond at the time. And then me, Demis, and Shane had to jointly agree who those three independents would be. And so we jointly picked Elon as one of them.” “No idea if that had an influence on the founding of OpenAI or not. But so then we had our morning session and we were sitting down for lunch and I was sitting next to Larry. You know, obviously he was suspicious of me as well because he was like, you know, you’re one of those speciesists.” “And he said, you know, I think that what you don’t understand, Mustafa, is that by the end of the century, I’m going to be exploring the galaxies at the head of a von Neumann probe, which means a von Neumann probe is a kind of self-propelling kind of robot that is able to ga",
+   "url": "https://nitter.kareem.one/elonmusk/status/2115825787647496203#m",
+   "ts": 1793287152,
+   "id": "2115825787647496203#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -267,15 +276,6 @@
    "id": "2115649133554122782#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon on why Starlink matters most when disaster hits Fires, floods and storms knock out fiber and cell towers. Starlink keeps people connected. @elonmusk Video",
-   "url": "https://nitter.kareem.one/teslaownersSV/status/2115641073150333229#m",
-   "ts": 1793243113,
-   "id": "2115641073150333229#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -438,9 +438,9 @@
    "id": "2115473170279080149#m"
   },
   {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
