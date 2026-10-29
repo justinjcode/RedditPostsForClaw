@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-10-29T22:44:06Z",
+ "generated_at": "2026-10-29T22:54:47Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The fraudsters always had outsized moral outrage and the most heart-breaking stories that were … totally false Tesla Owners Silicon Valley (@teslaownersSV) Palantir cofounder “ @elonmusk made a great point when I was involved as a kid at PayPal: whenever you turn off fraud or grift, the people who would scream the most were the fraudsters.” Video — https://nitter.kareem.one/teslaownersSV/status/2115662034557976765#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2115935413882048832#m",
+   "ts": 1793313289,
+   "id": "2115935413882048832#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -391,15 +401,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2115753112459751550#m",
    "ts": 1793269825,
    "id": "2115753112459751550#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "As of October 26, Grok Bot has grown in DAUs for 16 consecutive days, its longest growth streak to date.",
-   "url": "https://nitter.kareem.one/Similarweb/status/2115724259691471150#m",
-   "ts": 1793262946,
-   "id": "2115724259691471150#m"
   },
   {
    "handle": "elonmusk",
