@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T19:34:29Z",
+ "generated_at": "2026-10-29T19:44:03Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Send your kind feedback to this person Andrew Ambrosino (@ajambrosino) hi all, two things: 1. usage limits are back to being double – your feedback worked 2. we today kicked off an intense sprint to dramatically improve the app simplicity and performance. i will oversee this. more to come. now, send me your complaints — https://nitter.kareem.one/ajambrosino/status/2115855769665147254#m",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2115890336107233347#m",
+   "ts": 1793302542,
+   "id": "2115890336107233347#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -1165,15 +1174,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2113770862860222611#m",
    "ts": 1792797220,
    "id": "2113770862860222611#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex cli.",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2113770573994299544#m",
-   "ts": 1792797151,
-   "id": "2113770573994299544#m"
   },
   {
    "handle": "Lingling_Wei",
