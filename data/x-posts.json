@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-10-29T04:24:44Z",
+ "generated_at": "2026-10-29T04:36:59Z",
  "accounts_ok": [
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -10,8 +11,7 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 178,
  "items": [
@@ -41,6 +41,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2115641332035465243#m",
    "ts": 1793243174,
    "id": "2115641332035465243#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Elon on why Starlink matters most when disaster hits Fires, floods and storms knock out fiber and cell towers. Starlink keeps people connected. @elonmusk Video",
+   "url": "https://nitter.kareem.one/teslaownersSV/status/2115641073150333229#m",
+   "ts": 1793243113,
+   "id": "2115641073150333229#m"
   },
   {
    "handle": "elonmusk",
@@ -95,15 +104,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2115622002581188681#m",
    "ts": 1793238566,
    "id": "2115622002581188681#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Yesterday was the REDDEST day of early voting in Texas. We need big turnout tomorrow & Friday to finish strong for Election Day. @KenPaxtonTX",
-   "url": "https://nitter.kareem.one/ScottPresler/status/2115597854878433695#m",
-   "ts": 1793232809,
-   "id": "2115597854878433695#m"
   },
   {
    "handle": "elonmusk",
@@ -199,10 +199,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Early Neuralink speech restoration data: We are enabling speech to text and voice at conversational rates in participants with ALS. One participant achieved 75 WPM at 5.8% WER on a 125k-word vocabulary in their first week.",
-   "url": "https://nitter.kareem.one/neuralink/status/2115534593147187397#m",
-   "ts": 1793217726,
-   "id": "2115534593147187397#m"
+   "text": "The problems Neuralink are solving are almost “biblical in proportion.” “The lame can walk. The mute can speak.” — Thrive Capital’s Dr. Nworah Ayogu @elonmusk Video Neuralink (@neuralink) Early Neuralink speech restoration data: We are enabling speech to text and voice at conversational rates in participants with ALS. One participant achieved 75 WPM at 5.8% WER on a 125k-word vocabulary in their first week. — https://nitter.kareem.one/neuralink/status/2115534593147187397#m",
+   "url": "https://nitter.kareem.one/sourceryy/status/2115540638997590333#m",
+   "ts": 1793219167,
+   "id": "2115540638997590333#m"
   },
   {
    "handle": "ZichenWanghere",
