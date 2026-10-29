@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T18:23:38Z",
+ "generated_at": "2026-10-29T18:38:31Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Stripe co-founder John Collison asked OpenAI CEO Sam Altman on his Cheeky Pint podcast whether OpenAI had more than its 700 published proofs. \"We do. Of course,” Altman said. Moments later: “Humanity deserves fundamental knowledge. And we should not be sitting on a major fundamental science discovery.\" He weighed that against what mathematicians stand to lose: \"If you are a scientist, your career and a significant amount of your enjoyment and fulfillment in life comes from discovering science.\" On the mathematicians who’ve been up in arms over OpenAI’s results, Collison was blunter: \"Like, the longshoremen union weren’t happy about the port automation.\" Video",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2115873803486032121#m",
+   "ts": 1793298600,
+   "id": "2115873803486032121#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -877,15 +886,6 @@
    "url": "https://nitter.kareem.one/trq212/status/2114796261362835842#m",
    "ts": 1793041694,
    "id": "2114796261362835842#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "GPT-6.1 Terra is out, with OpenAI saying its new fast model \"means business.\" The headline numbers: - Price: $1 / $5 per million tokens in and out, half of GPT-6.1 Sol - Agents’ Last Exam (real computer work): on par with GPT-6 Astra at 1/10th the price per token - Roughly 9x lower cost per task than Claude Opus 5.5 at max effort - Terminal-Bench 4.0 (coding): 50.3%, vs. 21.5% for GPT-5.6 Terra OpenAI also says Terra \"meets the Critical threshold in cybersecurity,\" shipping with the same safeguards built for GPT-6 Astra. Video",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2114787251066683495#m",
-   "ts": 1793039546,
-   "id": "2114787251066683495#m"
   },
   {
    "handle": "ZichenWanghere",
