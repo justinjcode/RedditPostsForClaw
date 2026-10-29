@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-10-29T07:53:48Z",
+ "generated_at": "2026-10-29T08:11:17Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,7 +10,9 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 178,
  "items": [
   {
@@ -117,7 +118,7 @@
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
-   "text": "Day 24/ Text your dot just like anyone else. Makes it super easy to share/forward things, leave it voice notes or you can even go creative with \"Hey Siri, text Iggy to <INSERT WILD REQUEST>\" and sit back and relax. ChatGPT (@ChatGPT) By popular request, you can now text your dot. Give it a task to take off your plate or something to keep an eye on, using text, photos, or even voice notes. It will text you proactively with relevant updates. Safe, secure texting via iMessage or RCS. You’re the only one who can text your dot, and your dot can only text you. Rolling out now as a preview for Pro users in the US. Video — https://nitter.kareem.one/ChatGPT/status/2115496387613786374#m",
+   "text": "Day 24/ Text your dot just like anyone else. Makes it super easy to share/forward things, leave it voice notes or you can even go creative with \"Hey Siri, text Iggy to <INSERT WILD REQUEST>\" and sit back and relax. Community note: Texting your dot is a preview for ChatGPT Pro users in the US only. It is not available on Plus plans. engadget.com/2300235/openai… learn.chatgpt.com/docs/dots/chan… ChatGPT (@ChatGPT) By popular request, you can now text your dot. Give it a task to take off your plate or something to keep an eye on, using text, photos, or even voice notes. It will text you proactively with relevant updates. Safe, secure texting via iMessage or RCS. You’re the only one who can text your dot, and your dot can only text you. Rolling out now as a preview for Pro users in the US. Video — https://nitter.kareem.one/ChatGPT/status/2115496387613786374#m",
    "url": "https://nitter.kareem.one/thsottiaux/status/2115622002581188681#m",
    "ts": 1793238566,
    "id": "2115622002581188681#m"
