@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-10-29T22:54:47Z",
+ "generated_at": "2026-10-29T23:08:13Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
   {
@@ -158,6 +157,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2115858499238498456#m",
    "ts": 1793294951,
    "id": "2115858499238498456#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "\"The most diverse cabinet in history…\" 88% Black. Virginia is 20% black. 0% White men. Virginia is 30% White men. Friendly reminder when these people say \"diversity\", they just mean anti-White. Governor Abigail Spanberger (@GovernorVA) I’m proud to have the most talented, hardest-working cabinet in Virginia’s history. They are also the most diverse cabinet Virginia has ever seen. Every single one of our cabinet secretaries were selected because they’re the best of the best in their respective fields. They also bring invaluable perspectives from across the Commonwealth — from Danville, Hampton Roads, Richmond, NOVA, and more. I’m grateful to get to work with these incredibly dedicated, hard-working, and talented cabinet officials to serve the Commonwealth of Virginia. richmond.com/opinion/column/… — https://nitter.kareem.one/GovernorVA/status/2115827073994412437#m",
+   "url": "https://nitter.kareem.one/Geiger_Capital/status/2115856856942002562#m",
+   "ts": 1793294560,
+   "id": "2115856856942002562#m"
   },
   {
    "handle": "thsottiaux",
@@ -374,15 +382,6 @@
    "url": "https://nitter.kareem.one/BillAckman/status/2115771252539261083#m",
    "ts": 1793274150,
    "id": "2115771252539261083#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon Musk presenting about SpaceX rockets in 2008. No slides. No notes. No PowerPoint. No teleprompter. Just his vision, his memory, the message he wants to convey, and his brain operating in its rawest form. And nearly two decades later, he still does the same way Video",
-   "url": "https://nitter.kareem.one/iam_smx/status/2115753906366300532#m",
-   "ts": 1793270014,
-   "id": "2115753906366300532#m"
   },
   {
    "handle": "TheRundownAI",
