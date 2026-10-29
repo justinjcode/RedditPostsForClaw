@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-29T04:11:13Z",
+ "generated_at": "2026-10-29T04:24:44Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "TheRundownAI",
+  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -10,10 +10,10 @@
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
- "count": 179,
+ "count": 178,
  "items": [
   {
    "handle": "elonmusk",
@@ -1616,15 +1616,6 @@
    "url": "https://nitter.kareem.one/claudeai/status/2108271552991252810#m",
    "ts": 1791486082,
    "id": "2108271552991252810#m"
-  },
-  {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
-   "text": "Ok back to reading",
-   "url": "https://nitter.kareem.one/bcherny/status/2108013947144085714#m",
-   "ts": 1791424664,
-   "id": "2108013947144085714#m"
   }
  ]
 }
