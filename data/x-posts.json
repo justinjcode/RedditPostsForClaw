@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-10-29T13:09:28Z",
+ "generated_at": "2026-10-29T13:21:14Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
   {
@@ -32,6 +31,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2115753112459751550#m",
    "ts": 1793269825,
    "id": "2115753112459751550#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Very positive and constructive conversation with @elonmusk today. Italy is looking with great interest at the opportunities offered by assisted driving technologies, with a focus on innovation and road safety, and supports a swift EU approval of Tesla Assisted Driving. Thanks for the exchange, Elon!",
+   "url": "https://nitter.kareem.one/matteosalvinimi/status/2115720560994836862#m",
+   "ts": 1793262064,
+   "id": "2115720560994836862#m"
   },
   {
    "handle": "elonmusk",
@@ -383,15 +391,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2115330127886463244#m",
    "ts": 1793168978,
    "id": "2115330127886463244#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Easy to be an Elon Stan in 2026 Real ones were fans since the early 2000s Unnati (@Unnati_builds24) Whenever I feel demotivated i rewatch this... Elon Musk in a living room in 2008, 12 days from bankruptcy, pitching a $109,000 car to people... Video — https://nitter.kareem.one/Unnati_builds24/status/2115123008583184718#m",
-   "url": "https://nitter.kareem.one/beffjezos/status/2115311645316485459#m",
-   "ts": 1793164571,
-   "id": "2115311645316485459#m"
   },
   {
    "handle": "thsottiaux",
