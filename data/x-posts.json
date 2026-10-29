@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T10:28:08Z",
+ "generated_at": "2026-10-29T10:38:16Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,24 @@
  "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: therundownai.beehiiv.com/p/g… Link Google’s Gemini 4 Carbon tops the charts (for now) Google's Gemini 4 Carbon tops AI leaderboards, but it isn't public yet. Plus, Canva Craft turns prompts into posters. Here's this week's AI briefing. therundownai.beehiiv.com",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2115753117228712356#m",
+   "ts": 1793269826,
+   "id": "2115753117228712356#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in AI today: - Google’s Carbon takes the benchmark crown (for now) - Nate’s Notebook: Hire a dispatcher first - Turn a prompt into a poster with Canva Craft - An Anthropic manager bets on junior engineers",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2115753112459751550#m",
+   "ts": 1793269825,
+   "id": "2115753112459751550#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -771,15 +789,6 @@
    "id": "2114665926553379234#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in AI today: - Kimi continues to challenge the frontier with K3.1 Pro - The Rundown Roundtable: Our AI use cases - Let AI sign in without sharing your passwords - Canva’s first in-house image model climbs the ranks",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2114665921763508475#m",
-   "ts": 1793010618,
-   "id": "2114665921763508475#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -1093,15 +1102,6 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2113687685420487032#m",
    "ts": 1792777389,
    "id": "2113687685420487032#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Pretty fascinating results here: Researchers wrote 50 short secret messages in 15 languages and asked Claude Fable 5.1 to hide each one inside a picture it drew. It mostly used the same trick: height. In 33 of the 50 pictures, each building, star or blade of grass stood for one letter, and its height said which. When letters alone weren't enough, Fable drew in clues, like a Kremlin tower = Cyrillic letters. A fresh Fable session, handed just the image and asked whether anything was hidden in it, found 39 of the 50. OpenAI’s GPT-6 Astra found 44. Communication between advanced AI models may look entirely different from what we expect. Bryan Chan (@cnm13ryan) New blogpost: Fable-5.1 can hide secret messages in benign images. We gave the image to another Fable in a fresh session and simply asked: \"Is there a hidden message in this image?\" It recovered the exact message without being told how it was hidden. — https://nitter.kareem.one/cnm13ryan/status/2113121138205499443#m",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2113668886625235327#m",
-   "ts": 1792772907,
-   "id": "2113668886625235327#m"
   },
   {
    "handle": "Lingling_Wei",
