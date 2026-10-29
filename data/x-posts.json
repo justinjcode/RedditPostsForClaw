@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T20:29:27Z",
+ "generated_at": "2026-10-29T20:39:16Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "i've been working on an app design skill and i can say this is the most valuable addition to any model ive used for making real working software instead of flashy designer demos",
+   "url": "https://nitter.kareem.one/swyx/status/2115903364320129053#m",
+   "ts": 1793305648,
+   "id": "2115903364320129053#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -1057,15 +1066,6 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2114185782563082307#m",
    "ts": 1792896144,
    "id": "2114185782563082307#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "part time and oneoff guest posts welcome docs.google.com/forms/d/e/1F… Link Guest Post on Latent Space! Latent Space is a podcast and newsletter that covers AI Engineering for a global audience of over 100,000 weekly readers. Guests have ranged from Mark Zuckerberg to Greg Brockman to George Hotz and... docs.google.com",
-   "url": "https://nitter.kareem.one/swyx/status/2114149330135519730#m",
-   "ts": 1792887453,
-   "id": "2114149330135519730#m"
   },
   {
    "handle": "realDonaldTrump",
