@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T01:56:07Z",
+ "generated_at": "2026-10-29T02:10:45Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Gemini #1 on AAv5??? this is making me open up @antigravity for the first time in a long time. i’m getting an early review, will report back soon. if google actually pulls this off it is officially comeback season with Meta, Grok and now GDM being cool again. @saranormous talked about model neurodiversity last year. we have roughly 2x more frontier labs than when she was last on the aie stage. absolutely bizarre counter example to the bitter lesson. Artificial Analysis (@ArtificialAnlys) Google’s Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5, and second only to Claude Opus 5.5 on the Artificial Analysis Coding Agent Index Gemini 4 Carbon scores 59 on Intelligence Index v5, driven by leading performance in complex reasoning, knowledge, and scientific tasks. It also has large gains in coding and knowledge work, particularly when compared to other Gemini models, but it is not leading in all these areas. As with launch of Gemini 4 Argon, Gemini 4 Carbon is being rolled out to selected users and is not yet publicly available. Google is offering a 50% launch discount, with no confirmed end date. All our charts and figures use standard pricing for both Gemini 4 Carbon and Argon. Key results for Gemini 4 Carbon with high reasoning: ➤ Gemini 4 Carbon leads the Intelligence Index v5, with the #1 score in 4 of the 9 Index evaluations: HLE-Diamond, Terminal-Bench-Science, AA-Omniscience, AutomationBench-AA. Carbon makes substantial gains elsewhere but is ",
+   "url": "https://nitter.kareem.one/swyx/status/2115624308567658713#m",
+   "ts": 1793239116,
+   "id": "2115624308567658713#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -913,15 +922,6 @@
    "url": "https://nitter.kareem.one/jwdwerner/status/2114028658511732816#m",
    "ts": 1792858683,
    "id": "2114028658511732816#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "fyi I read every single email that comes into our business inbox (yes, dozens a day!) and it is painfully obvious when the email hasn’t been vetted by a human or you haven’t actually done your research on our pod 😔 swyx (@swyx) *taps sign* read your own emails your apps send out. particularly if they are being vibecoded. real humans still care and do read them. — https://nitter.kareem.one/swyx/status/2113717251543367880#m",
-   "url": "https://nitter.kareem.one/adlinzainal/status/2113998354132664477#m",
-   "ts": 1792851458,
-   "id": "2113998354132664477#m"
   },
   {
    "handle": "realDonaldTrump",
