@@ -1,20 +1,69 @@
 {
- "generated_at": "2026-10-29T14:11:19Z",
+ "generated_at": "2026-10-29T16:11:36Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
   {
+   "subreddit": "programming",
+   "title": "functools.singledispatch: I put that shit on everything",
+   "url": "https://www.reddit.com/r/programming/comments/1xio5e2/functoolssingledispatch_i_put_that_shit_on/",
+   "ts": 1793290000,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
-   "title": "Eiciel IR Console- Licencesing",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xikpix/eiciel_ir_console_licencesing/",
-   "ts": 1793282252,
+   "title": "Ternlux: an open-source, local-first ETL and data analysis app that works with local LLMs",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xincjb/ternlux_an_opensource_localfirst_etl_and_data/",
+   "ts": 1793288234,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Newbie OS Suggestion",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1ximv1b/newbie_os_suggestion/",
+   "ts": 1793287144,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "PSA: Synology NAS owners, there has been a recent uptick in C3RB3R Ransomware attacks",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xilmkv/psa_synology_nas_owners_there_has_been_a_recent/",
+   "ts": 1793284320,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Old-school classifiers are still generally better than Jev [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xil53d/oldschool_classifiers_are_still_generally_better/",
+   "ts": 1793283185,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Pocketdesk: your Linux or Windows PC on your Android phone, with no account, no cloud service and no port forward",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xil502/pocketdesk_your_linux_or_windows_pc_on_your/",
+   "ts": 1793283179,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "email encryption",
+   "url": "https://www.reddit.com/r/programming/comments/1xijb4j/email_encryption/",
+   "ts": 1793278827,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "The Shirky Principle Explained: Why Teams Preserve the Problems They Solve",
+   "url": "https://www.reddit.com/r/programming/comments/1xij94t/the_shirky_principle_explained_why_teams_preserve/",
+   "ts": 1793278687,
    "source": "Reddit"
   },
   {
@@ -207,13 +256,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "FiestaBoard v10: a self-hosted dashboard for Vestaboard and Pixoo 64",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xhuyqm/fiestaboard_v10_a_selfhosted_dashboard_for/",
-   "ts": 1793209311,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Why Don’t We Have Bug Free Code?",
    "url": "https://www.reddit.com/r/programming/comments/1xhup1w/why_dont_we_have_bug_free_code/",
@@ -239,13 +281,6 @@
    "title": "Mac Studio M5 Ultra 512gb Starts at $22,299.00 USD",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhu3b0/mac_studio_m5_ultra_512gb_starts_at_2229900_usd/",
    "ts": 1793207476,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Rooted my WiFi Router and managed to get PHP on it",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xht35p/rooted_my_wifi_router_and_managed_to_get_php_on_it/",
-   "ts": 1793205337,
    "source": "Reddit"
   },
   {
@@ -312,13 +347,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Sablier, 4 years later: start your apps on demand, now with Podman, Proxmox LXC, Nomad, ECS and more",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xhf3z7/sablier_4_years_later_start_your_apps_on_demand/",
-   "ts": 1793163515,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Python jettisons the native JIT, at least for now",
    "url": "https://www.reddit.com/r/programming/comments/1xhbl06/python_jettisons_the_native_jit_at_least_for_now/",
@@ -330,13 +358,6 @@
    "title": "Choose Your Backend: Three TLS Bugs in GoAhead",
    "url": "https://www.reddit.com/r/programming/comments/1xh84hz/choose_your_backend_three_tls_bugs_in_goahead/",
    "ts": 1793143214,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "How I added dynamic social preview images to my site for almost nothing",
-   "url": "https://www.reddit.com/r/programming/comments/1xh55mz/how_i_added_dynamic_social_preview_images_to_my/",
-   "ts": 1793135982,
    "source": "Reddit"
   },
   {
@@ -368,13 +389,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "Papers with Code is now open-source [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xgoadu/papers_with_code_is_now_opensource_p/",
-   "ts": 1793094884,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "DuckDB.NET 1.5.6.1: Reading Data Up to 12× Faster",
    "url": "https://www.reddit.com/r/programming/comments/1xgnigv/duckdbnet_1561_reading_data_up_to_12_faster/",
@@ -383,23 +397,9 @@
   },
   {
    "subreddit": "programming",
-   "title": "Building a music engraving engine from scratch",
-   "url": "https://www.reddit.com/r/programming/comments/1xgd7gv/building_a_music_engraving_engine_from_scratch/",
-   "ts": 1793058675,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
    "title": "Why is it so expensive to send an email?",
    "url": "https://www.reddit.com/r/programming/comments/1xft3w2/why_is_it_so_expensive_to_send_an_email/",
    "ts": 1793010558,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "From 27 minutes to 4: Cutting CI build time by 85%",
-   "url": "https://www.reddit.com/r/programming/comments/1xfszv3/from_27_minutes_to_4_cutting_ci_build_time_by_85/",
-   "ts": 1793010182,
    "source": "Reddit"
   },
   {
