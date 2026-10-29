@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T08:55:56Z",
+ "generated_at": "2026-10-29T09:09:01Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -8,11 +8,10 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
   {
@@ -118,7 +117,7 @@
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
-   "text": "Day 24/ Text your dot just like anyone else. Makes it super easy to share/forward things, leave it voice notes or you can even go creative with \"Hey Siri, text Iggy to <INSERT WILD REQUEST>\" and sit back and relax. Community note: Texting your dot is a preview for ChatGPT Pro users in the US only. It is not available on Plus plans. engadget.com/2300235/openai… learn.chatgpt.com/docs/dots/chan… ChatGPT (@ChatGPT) By popular request, you can now text your dot. Give it a task to take off your plate or something to keep an eye on, using text, photos, or even voice notes. It will text you proactively with relevant updates. Safe, secure texting via iMessage or RCS. You’re the only one who can text your dot, and your dot can only text you. Rolling out now as a preview for Pro users in the US. Video — https://nitter.kareem.one/ChatGPT/status/2115496387613786374#m",
+   "text": "Day 24/ Text your dot just like anyone else. Makes it super easy to share/forward things, leave it voice notes or you can even go creative with \"Hey Siri, text Iggy to <INSERT WILD REQUEST>\" and sit back and relax. Community note: Texting your dot is a limited beta available only to ChatGPT Pro users in the US, not to all users or regions. learn.chatgpt.com/docs/dots/chan… help.openai.com/en/articles/20… x.com/ChatGPT/status… ChatGPT (@ChatGPT) By popular request, you can now text your dot. Give it a task to take off your plate or something to keep an eye on, using text, photos, or even voice notes. It will text you proactively with relevant updates. Safe, secure texting via iMessage or RCS. You’re the only one who can text your dot, and your dot can only text you. Rolling out now as a preview for Pro users in the US. Video — https://nitter.kareem.one/ChatGPT/status/2115496387613786374#m",
    "url": "https://nitter.kareem.one/thsottiaux/status/2115622002581188681#m",
    "ts": 1793238566,
    "id": "2115622002581188681#m"
@@ -541,7 +540,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,662 votes • 4 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
+   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,663 votes • 4 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "url": "https://nitter.kareem.one/swyx/status/2115089887959359988#m",
    "ts": 1793111700,
    "id": "2115089887959359988#m"
@@ -631,7 +630,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,662 votes • 4 days",
+   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,663 votes • 4 days",
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
