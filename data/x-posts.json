@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-10-29T01:43:21Z",
+ "generated_at": "2026-10-29T01:56:07Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Day 24/ Text your dot just like anyone else. Makes it super easy to share/forward things, leave it voice notes or you can even go creative with \"Hey Siri, text Iggy to <INSERT WILD REQUEST>\" and sit back and relax. ChatGPT (@ChatGPT) By popular request, you can now text your dot. Give it a task to take off your plate or something to keep an eye on, using text, photos, or even voice notes. It will text you proactively with relevant updates. Safe, secure texting via iMessage or RCS. You’re the only one who can text your dot, and your dot can only text you. Rolling out now as a preview for Pro users in the US. Video — https://nitter.kareem.one/ChatGPT/status/2115496387613786374#m",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2115622002581188681#m",
+   "ts": 1793238566,
+   "id": "2115622002581188681#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -41,6 +49,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2115561519807402189#m",
    "ts": 1793224146,
    "id": "2115561519807402189#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "Congrats to Bo Li on a job fantastically well done. He has been an immensely smart, effective and articulate spokesperon for the IMF and enormously helped advance achievement of its objectives. Kristalina Georgieva (@KGeorgieva) Today, I announced that DMD Bo Li will conclude his IMF term on Nov. 30. He leaves a lasting legacy and will be missed. I also proposed Mr. Min Liao as his successor, effective Dec. 1. His experience will be a tremendous asset to the IMF and our members. imf.org/en/news/articles/202… — https://nitter.kareem.one/KGeorgieva/status/2115518197004918834#m",
+   "url": "https://nitter.kareem.one/sobel_mark/status/2115521750587064411#m",
+   "ts": 1793214664,
+   "id": "2115521750587064411#m"
   },
   {
    "handle": "swyx",
@@ -1114,15 +1131,6 @@
    "id": "2113480702805389435#m"
   },
   {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "[Newsletter Update] Pan Gongsheng, governor of #China 's central bank, in his latest speech rejects claims that Beijing relies on a weak renminbi and details plans to open financial markets and expand the currency's international use open.substack.com/pub/yuzheh… Link China's central bank chief says export strength is not about a cheap currency Pan Gongsheng in his latest speech rejects claims that Beijing relies on a weak renminbi and details plans to open financial markets and expand the currency's international use yuzhehe.com",
-   "url": "https://nitter.kareem.one/Yuzhehere/status/2113442222737916204#m",
-   "ts": 1792718866,
-   "id": "2113442222737916204#m"
-  },
-  {
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
    "author": "@realDonaldTrump",
@@ -1247,15 +1255,6 @@
    "url": "https://nitter.kareem.one/mitsuhiko/status/2113207589978636646#m",
    "ts": 1792662925,
    "id": "2113207589978636646#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Lands tomorrow before 10am PST.",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2113162413008884099#m",
-   "ts": 1792652154,
-   "id": "2113162413008884099#m"
   },
   {
    "handle": "simonw",
