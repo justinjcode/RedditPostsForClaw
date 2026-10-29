@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T19:54:01Z",
+ "generated_at": "2026-10-29T20:09:53Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -22,15 +22,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2115890336107233347#m",
    "ts": 1793302542,
    "id": "2115890336107233347#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "this is a joke but reminder that extreme ageism in silicon valley is real and not even self aware and yes you should be concerned that a majority of ai apps for the entire world are being built by admittedly hyperintelligent coders who have never worked in a team of >10, never cared for elders or kids, never voted, and are 90% white/asian male Wise (@trikcode) I am doing a project about elderly vibecoders If you are a vibecoder and over 25 please DM — https://nitter.kareem.one/trikcode/status/2115663722945380554#m",
-   "url": "https://nitter.kareem.one/swyx/status/2115884384326939076#m",
-   "ts": 1793301123,
-   "id": "2115884384326939076#m"
   },
   {
    "handle": "TheRundownAI",
@@ -537,9 +528,9 @@
    "id": "2115473170279080149#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
@@ -1066,6 +1057,15 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2114185782563082307#m",
    "ts": 1792896144,
    "id": "2114185782563082307#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "part time and oneoff guest posts welcome docs.google.com/forms/d/e/1F… Link Guest Post on Latent Space! Latent Space is a podcast and newsletter that covers AI Engineering for a global audience of over 100,000 weekly readers. Guests have ranged from Mark Zuckerberg to Greg Brockman to George Hotz and... docs.google.com",
+   "url": "https://nitter.kareem.one/swyx/status/2114149330135519730#m",
+   "ts": 1792887453,
+   "id": "2114149330135519730#m"
   },
   {
    "handle": "realDonaldTrump",
