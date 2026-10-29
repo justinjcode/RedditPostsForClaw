@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T21:34:38Z",
+ "generated_at": "2026-10-29T21:43:38Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Worth noting that Grok @Bot has no free tier X Freeze (@XFreeze) Grok Bot is growing at an absolutely insane pace Daily active users have increased for 16 consecutive days, marking its longest growth streak since launch Here's how fast it's growing: • Under 100K daily active users in early September • Over 600K daily active users by October 26 • More than 6X growth in less than two months And this is only the beginning — https://nitter.kareem.one/XFreeze/status/2115779686697697557#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2115921600658735169#m",
+   "ts": 1793309996,
+   "id": "2115921600658735169#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -447,15 +456,6 @@
    "id": "2115622002581188681#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The fact that I’m on an international flight, running Grok, replying to feedback on X, and building cool as shit with the team, all in parallel, is amazing. God bless Starlink. I love you @elonmusk",
-   "url": "https://nitter.kareem.one/EddiePast1/status/2115620709498286235#m",
-   "ts": 1793238258,
-   "id": "2115620709498286235#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -555,9 +555,9 @@
    "id": "2115473170279080149#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
