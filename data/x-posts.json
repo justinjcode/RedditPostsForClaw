@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T05:08:21Z",
+ "generated_at": "2026-10-29T05:21:34Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -8,10 +8,11 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@swyx: all instances failed"
+ ],
  "count": 178,
  "items": [
   {
@@ -22,6 +23,24 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2115664319278973255#m",
    "ts": 1793248655,
    "id": "2115664319278973255#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "A China–EU trade understanding is welcome progress. But how quotas are allocated could determine whether the deal promotes fair competition and European investment—or creates unintended consequences. 1/7",
+   "url": "https://nitter.kareem.one/sinoautoman/status/2115649138931229020#m",
+   "ts": 1793245036,
+   "id": "2115649138931229020#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "Europe’s hybrid export quota could backfire. 🧵 sinoautoman.substack.com/p/e…",
+   "url": "https://nitter.kareem.one/sinoautoman/status/2115649133554122782#m",
+   "ts": 1793245034,
+   "id": "2115649133554122782#m"
   },
   {
    "handle": "elonmusk",
@@ -1131,15 +1150,6 @@
    "id": "2113486315409047975#m"
   },
   {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "给Amy acton捐了钱。 是替13岁的我自己捐的。 13岁那年我被我妈妈好朋友上高中的儿子骚扰，等我终于成熟到能和我妈坦诚这件事的时候，我妈说那位朋友已经患癌症死了，和他们家也没有往来了。 我妈问我想得到什么，我想了很久，直到今天才得到答案。 我想要为所有一起淋过这场雨的人撑一把伞🌂💗 Dr. Amy Acton (@amyactonoh) Vivek Ramaswamy is not fit to lead. Watch our new ad. Video — https://nitter.kareem.one/amyactonoh/status/2112639257655279780#m",
-   "url": "https://nitter.kareem.one/Tracy_Wen_Liu/status/2113480702805389435#m",
-   "ts": 1792728040,
-   "id": "2113480702805389435#m"
-  },
-  {
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
    "author": "@realDonaldTrump",
@@ -1426,15 +1436,6 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2112512637825421611#m",
    "ts": 1792497236,
    "id": "2112512637825421611#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Registration: CCG-JETRO VIP Luncheon on China–Japan Economic Cooperation in a Changing World October 28, Beijing ccgupdate.org/p/invitation-c… Link Invitation | CCG–JETRO VIP Luncheon on China–Japan Economic Cooperation in a Changing World 28 October 2026, Beijing | Senior officials, business leaders and scholars from China and Japan to discuss bilateral trade, industrial and supply chain cooperation, and people-to-people exchanges. ccgupdate.org",
-   "url": "https://nitter.kareem.one/CCG_org/status/2112441599120867784#m",
-   "ts": 1792480299,
-   "id": "2112441599120867784#m"
   },
   {
    "handle": "bcherny",
