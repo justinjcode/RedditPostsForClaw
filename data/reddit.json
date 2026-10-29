@@ -1,20 +1,62 @@
 {
- "generated_at": "2026-10-29T12:15:24Z",
+ "generated_at": "2026-10-29T14:11:19Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
   "MachineLearning",
-  "programming"
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Eiciel IR Console- Licencesing",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xikpix/eiciel_ir_console_licencesing/",
+   "ts": 1793282252,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Jellyfin client (music oriented) for iOS 9?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xij1vc/jellyfin_client_music_oriented_for_ios_9/",
+   "ts": 1793278141,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "SafeAgents: an open-source proxy that checks every tool call your coding agent makes before it runs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xii45s/safeagents_an_opensource_proxy_that_checks_every/",
+   "ts": 1793275514,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Home server vs VPS vs PaaS for hosting private web apps – what would you choose?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xignov/home_server_vs_vps_vs_paas_for_hosting_private/",
+   "ts": 1793271007,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Does a good self hosted recipe manager app exist?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xigi0u/does_a_good_self_hosted_recipe_manager_app_exist/",
+   "ts": 1793270493,
+   "source": "Reddit"
+  },
   {
    "subreddit": "MachineLearning",
    "title": "A (lukewarm) defense of Minsky and Papert [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xig3sd/a_lukewarm_defense_of_minsky_and_papert_d/",
    "ts": 1793269246,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Worried about Qwen 4 License",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xifjn2/worried_about_qwen_4_license/",
+   "ts": 1793267301,
    "source": "Reddit"
   },
   {
@@ -43,13 +85,6 @@
    "title": "Has anyone gotten BiRefNet to work on mobile NPUs and GPUs? especially Qualcomm [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xienbl/has_anyone_gotten_birefnet_to_work_on_mobile_npus/",
    "ts": 1793263883,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Researchers Discover a Way to Reduce LLM Training Compute by 15% Without Sacrificing Quality",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xid3i8/researchers_discover_a_way_to_reduce_llm_training/",
-   "ts": 1793257917,
    "source": "Reddit"
   },
   {
@@ -138,13 +173,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "anyone selfhosting Lineage2 for private use?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xi39c5/anyone_selfhosting_lineage2_for_private_use/",
-   "ts": 1793228072,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "My journey after six months... and my thoughts..",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xi306l/my_journey_after_six_months_and_my_thoughts/",
    "ts": 1793227411,
@@ -193,13 +221,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Pipedash - one dashboard for multiple CI/CD providers",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xhum6t/pipedash_one_dashboard_for_multiple_cicd_providers/",
-   "ts": 1793208557,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "A small step for man, a GIANT step for LOCAL AI",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhubiw/a_small_step_for_man_a_giant_step_for_local_ai/",
@@ -218,13 +239,6 @@
    "title": "Mac Studio M5 Ultra 512gb Starts at $22,299.00 USD",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhu3b0/mac_studio_m5_ultra_512gb_starts_at_2229900_usd/",
    "ts": 1793207476,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "List of suggestions for Gemma 5.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhtg61/list_of_suggestions_for_gemma_5/",
-   "ts": 1793206126,
    "source": "Reddit"
   },
   {
@@ -270,24 +284,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Vicu, a simple client for Vikunja (Android, iOS, Windows/Mac/Linux)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xhocdq/vicu_a_simple_client_for_vikunja_android_ios/",
-   "ts": 1793194759,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "[R] Taking EmbeddingGemma-2 (577M) from Rank #26 to #1 on the MAEB audio benchmark by filling its 256d null space with PCA-reduced intermediate Conformer layers (zero training) [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xho7pr/r_taking_embeddinggemma2_577m_from_rank_26_to_1/",
    "ts": 1793194441,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Looking for a self-hosted music setup: personal archive + online discovery + temporary FLAC cache. Is this realistic?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xho4fs/looking_for_a_selfhosted_music_setup_personal/",
-   "ts": 1793194219,
    "source": "Reddit"
   },
   {
