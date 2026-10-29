@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-10-29T06:11:37Z",
+ "generated_at": "2026-10-29T06:37:48Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "I think I’m Steve babylonbee.com/news/meet-ste… Link Meet Steve, The Last Remaining American Who Doesn't Have A Podcast We recently caught up with Steve in Eastern Texas. Steve is unassuming, an ordinary guy on the surface, but underneath he harbors a dark secret: he's the last remaining holdout who hasn't yet started... babylonbee.com",
+   "url": "https://nitter.kareem.one/elonmusk/status/2115686767969902647#m",
+   "ts": 1793254007,
+   "id": "2115686767969902647#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -97,24 +105,6 @@
    "id": "2115640651517939785#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Buy from @Shopify ! tobi lutke (@tobi) Just in time for shop pay support and — https://nitter.kareem.one/tobi/status/2115633920180113785#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2115634265702678859#m",
-   "ts": 1793241490,
-   "id": "2115634265702678859#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "As the prophecy foretold, Starship 42 will be the first tower catch SpaceX (@SpaceX) Ship 42 static fires complete. The Starship preparing for Flight 15 performed a full duration, six-engine static fire, and fired a single Raptor engine to simulate a deorbit burn Video Video — https://nitter.kareem.one/SpaceX/status/2115476295169814978#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2115634093949911506#m",
-   "ts": 1793241449,
-   "id": "2115634093949911506#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -131,6 +121,15 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2115622002581188681#m",
    "ts": 1793238566,
    "id": "2115622002581188681#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The fact that I’m on an international flight, running Grok, replying to feedback on X, and building cool as shit with the team, all in parallel, is amazing. God bless Starlink. I love you @elonmusk",
+   "url": "https://nitter.kareem.one/EddiePast1/status/2115620709498286235#m",
+   "ts": 1793238258,
+   "id": "2115620709498286235#m"
   },
   {
    "handle": "elonmusk",
@@ -172,19 +171,19 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Just wrapped our earnings call. It was a fast start to our fiscal year. Microsoft Cloud revenue surpassed $63B, with growth accelerating to 30% YoY. Lots of innovation as we build the new tech stack for the agentic wave. A few highlights:",
-   "url": "https://nitter.kareem.one/satyanadella/status/2115577764300693644#m",
-   "ts": 1793228019,
-   "id": "2115577764300693644#m"
+   "text": "We have inflight Wi-Fi that actually works",
+   "url": "https://nitter.kareem.one/united/status/2115569014214742456#m",
+   "ts": 1793225933,
+   "id": "2115569014214742456#m"
   },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "We have inflight Wi-Fi that actually works",
-   "url": "https://nitter.kareem.one/united/status/2115569014214742456#m",
-   "ts": 1793225933,
-   "id": "2115569014214742456#m"
+   "text": "Instead of Space Age carbon fiber or aluminum-lithium, SpaceX is building its Starship rocket out of stainless steel. Stainless steel is easy to weld, far cheaper, and under the right conditions, it has a similar strength-to-weight ratio as carbon fiber. @elonmusk explains: Video",
+   "url": "https://nitter.kareem.one/dwarkeshpodcast/status/2115564269890646149#m",
+   "ts": 1793224801,
+   "id": "2115564269890646149#m"
   },
   {
    "handle": "elonmusk",
