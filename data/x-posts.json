@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T17:35:44Z",
+ "generated_at": "2026-10-29T17:44:48Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -15,6 +15,15 @@
  "count": 178,
  "items": [
   {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "A president’s conversations with AI are now something Congress wants on the record. Two top House Democrats are calling for President Trump to save the conversations he’s sent Grok, ChatGPT and Claude on official business, and to brief them by Nov. 11, per a letter obtained by Politico. The letter cites reporting that Trump asked Grok how Venezuelans would react to Maduro’s capture weeks before the U.S. seized him.",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2115861004211077557#m",
+   "ts": 1793295548,
+   "id": "2115861004211077557#m"
+  },
+  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -22,6 +31,15 @@
    "url": "https://nitter.kareem.one/simonw/status/2115858560823538152#m",
    "ts": 1793294966,
    "id": "2115858560823538152#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "fuck my actual life himanshu (@himanshustwts) anthropic is generational wealth creation machine and its more interesting even 2026 joiners are getting 8-digit payouts — https://nitter.kareem.one/himanshustwts/status/2115711258196574210#m",
+   "url": "https://nitter.kareem.one/swyx/status/2115858499238498456#m",
+   "ts": 1793294951,
+   "id": "2115858499238498456#m"
   },
   {
    "handle": "thsottiaux",
@@ -702,7 +720,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,667 votes • 4 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
+   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,668 votes • 4 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "url": "https://nitter.kareem.one/swyx/status/2115089887959359988#m",
    "ts": 1793111700,
    "id": "2115089887959359988#m"
@@ -792,7 +810,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,667 votes • 4 days",
+   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,668 votes • 4 days",
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
@@ -886,15 +904,6 @@
    "url": "https://nitter.kareem.one/Bensign/status/2114746925740122349#m",
    "ts": 1793029931,
    "id": "2114746925740122349#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Anthropic’s own internal use of Claude passed its monthly personnel costs (not counting stock pay) in April, per the S-1. Measured at list prices, that usage grew over 250x between January and September 2026.",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2114744285941915951#m",
-   "ts": 1793029302,
-   "id": "2114744285941915951#m"
   },
   {
    "handle": "swyx",
@@ -1039,15 +1048,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2114149330135519730#m",
    "ts": 1792887453,
    "id": "2114149330135519730#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "we are hiring writers, reviewers and reporters for the new @latentspacepod editorial team (hit up @ricmac and @adlinzainal ) and i’m gonna put a version of this in the welcome package for everyone we hire",
-   "url": "https://nitter.kareem.one/swyx/status/2114145315196711194#m",
-   "ts": 1792886496,
-   "id": "2114145315196711194#m"
   },
   {
    "handle": "realDonaldTrump",
