@@ -1,18 +1,17 @@
 {
- "generated_at": "2026-10-29T03:37:26Z",
+ "generated_at": "2026-10-29T03:43:24Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
   {
@@ -185,6 +184,15 @@
    "url": "https://nitter.kareem.one/dvorahfr/status/2115548879634518449#m",
    "ts": 1793221132,
    "id": "2115548879634518449#m"
+  },
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "very weird thing happening rn technical people are sad, they think their skills are now useless non-technical people are desperately wishing they were more technical so they could use agents better",
+   "url": "https://nitter.kareem.one/trq212/status/2115544056038350960#m",
+   "ts": 1793219982,
+   "id": "2115544056038350960#m"
   },
   {
    "handle": "elonmusk",
@@ -505,7 +513,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,656 votes • 4 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
+   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,657 votes • 4 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "url": "https://nitter.kareem.one/swyx/status/2115089887959359988#m",
    "ts": 1793111700,
    "id": "2115089887959359988#m"
@@ -595,7 +603,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,656 votes • 4 days",
+   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,657 votes • 4 days",
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
@@ -1580,15 +1588,6 @@
    "url": "https://nitter.kareem.one/felixrieseberg/status/2110023283169247623#m",
    "ts": 1791903727,
    "id": "2110023283169247623#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "Shared some notes on Python 3.15, using it with uv, and features from Python 3.11 I'm excited to use now that 3.10 is no longer the minimum supported version for my own projects simonwillison.net/2026/Oct/1… Link Hello Python 3.15, goodbye 3.10, and now I can use 3.11 Python 3.15 is here! Here’s the essential What’s new in Python 3.15 guide, this year curated by 3.14 and 3.15 release manager Hugo van Kemenade. As someone who builds open … simonwillison.net",
-   "url": "https://nitter.kareem.one/simonw/status/2109711203077619768#m",
-   "ts": 1791829322,
-   "id": "2109711203077619768#m"
   },
   {
    "handle": "bcherny",
