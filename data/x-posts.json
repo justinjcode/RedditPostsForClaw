@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-10-29T14:36:30Z",
+ "generated_at": "2026-10-29T14:43:27Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
   {
@@ -41,6 +40,24 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2115814087963644305#m",
    "ts": 1793284363,
    "id": "2115814087963644305#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: robotnews.therundown.ai/p/th… Link The self-driving future grabs a giant shovel PLUS: Boston Dynamics workers try to block ICE deal robotnews.therundown.ai",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2115813499427307561#m",
+   "ts": 1793284222,
+   "id": "2115813499427307561#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in robotics today: - Bedrock Robotics digs up $600M - Boston Dynamics workers fight ICE deal - MIT built a robot that slithers through your gut - Trump puts factory robots on security notice",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2115813491537780944#m",
+   "ts": 1793284220,
+   "id": "2115813491537780944#m"
   },
   {
    "handle": "elonmusk",
@@ -367,9 +384,9 @@
    "id": "2115473170279080149#m"
   },
   {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
@@ -797,24 +814,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2114726369938542879#m",
    "ts": 1793025030,
    "id": "2114726369938542879#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in robotics today: - AgiBot makes 110 humanoids dance in sync - Figure locks in its ‘iPhone 1 of humanoids’ - Tiny Microduck robots waddle into the spotlight - Unitree founder: Humanoids’ ‘aha’ moment by 2028",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2114726364880179286#m",
-   "ts": 1793025029,
-   "id": "2114726364880179286#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: therundownai.beehiiv.com/p/k… Link Kimi continues to challenge the frontier with K3.1 Pro Moonshot's Kimi K3.1 Pro challenges the AI frontier, closing in on top models from Anthropic and Meta. Plus: let AI sign in without sharing your passwords. therundownai.beehiiv.com",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2114665926553379234#m",
-   "ts": 1793010620,
-   "id": "2114665926553379234#m"
   },
   {
    "handle": "thsottiaux",
