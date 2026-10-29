@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T23:25:30Z",
+ "generated_at": "2026-10-29T23:34:15Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "The remake we never knew we needed Polymarket (@Polymarket) JUST IN: Boston Celtics head coach Joe Mazzulla reveals he's been using Anthropic's Claude to help coach the team. — https://nitter.kareem.one/Polymarket/status/2115923127503036538#m",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2115946616238612937#m",
+   "ts": 1793315960,
+   "id": "2115946616238612937#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -564,9 +573,9 @@
    "id": "2115473170279080149#m"
   },
   {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
@@ -877,15 +886,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "From the open letter published by Russell Impagliazzo and Ramamohan Paturi, who first proposed the Exponential Time Hypothesis, and MIT’s Ryan Williams: \"If the claim is correct, it will change an important part of theoretical computer science.\" The Rundown AI (@TheRundownAI) NEW: OpenAI says its AI just made three major discoveries in math, computer science, and physics. 1. Local smoothing + Kakeya conjectures (math): proved in every dimension. A 35-year-old question about how waves focus. 2. Exponential Time Hypothesis (computer science): disproved. Hundreds of research papers were built on it being true 3. Existence of QCD + Yang–Mills (physics): proved. Physics’ theory of the force holding atoms together now stands on solid math, including part of a $1M Millennium Prize problem. — https://nitter.kareem.one/TheRundownAI/status/2114839833134674351#m",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2114858361598390594#m",
-   "ts": 1793056500,
-   "id": "2114858361598390594#m"
   },
   {
    "handle": "ZichenWanghere",
