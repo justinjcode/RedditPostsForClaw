@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-10-29T14:20:58Z",
+ "generated_at": "2026-10-29T14:36:30Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,9 +10,38 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 178,
  "items": [
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "Aaron Flint has my Complete and Total Endorsement to be the next U.S. Representative from Montana’s 1st Congressional District – HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP Video",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2115814617989431696#m",
+   "ts": 1793284489,
+   "id": "2115814617989431696#m"
+  },
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "Rhett Marques has my Complete and Total Endorsement to be the next U.S. Representative from Alabama’s 2nd Congressional District – HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP Video",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2115814289181483040#m",
+   "ts": 1793284411,
+   "id": "2115814289181483040#m"
+  },
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "Anthony Constantino has my Complete and Total Endorsement to be the next U.S. Representative from New York’s 21st Congressional District – HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP Video",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2115814087963644305#m",
+   "ts": 1793284363,
+   "id": "2115814087963644305#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -157,15 +185,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2115642175199350785#m",
    "ts": 1793243375,
    "id": "2115642175199350785#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "True Nate Esparza (@Nate_Esparza) people with the highest IQ are on 𝕏 — https://nitter.kareem.one/Nate_Esparza/status/2115324906049352145#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2115642019791896679#m",
-   "ts": 1793243338,
-   "id": "2115642019791896679#m"
   },
   {
    "handle": "elonmusk",
@@ -348,9 +367,9 @@
    "id": "2115473170279080149#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
@@ -501,6 +520,15 @@
    "id": "2115146907253358607#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Anthropic has filed for a record $2 trillion IPO. In a talk uploaded November 30, 2025, a stockbroker asked Elon Musk which company he would buy. Musk said he has no portfolio, then named Google and Nvidia. The man asking is Nikhil Kamath, who told Musk his primary job is stockbroker and stock investor. Musk runs Tesla, SpaceX, xAI and X, and says the output of AI and robotics \"will dwarf everything else.\" The clip is three moments from a 114-minute conversation. The full talk is free on YouTube. In it Musk says US deficits run on the order of $2 trillion a year, and that interest payments on the debt exceed the entire US military budget. His rules for money fit on a napkin. Judge the product, not the price. His test for any stock: do you like what the company makes, do you like the roadmap, do you believe in the team. A company, he says, is a group of people assembled to make products and services. Expect the swings. That test does not solve for daily moves, which he admits are sometimes pretty extreme. His advice is to hold and not worry about them. Watch the ratio. Inflation, he says, is goods and services output against growth in the money supply. AI has not yet raised output enough. He guesses output growth passes money growth in about three years. Know the fix on offer. He says the only thing that can solve the US debt is AI and robotics. That is a bet, and he says so. Money is a tool. He calls it an information system for labor allocation. A trillion dollars on a deser",
+   "url": "https://nitter.kareem.one/Vitaliyeyes/status/2115136502619349450#m",
+   "ts": 1793122814,
+   "id": "2115136502619349450#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -558,7 +586,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,666 votes • 4 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
+   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,667 votes • 4 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "url": "https://nitter.kareem.one/swyx/status/2115089887959359988#m",
    "ts": 1793111700,
    "id": "2115089887959359988#m"
@@ -648,7 +676,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,666 votes • 4 days",
+   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,667 votes • 4 days",
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
@@ -1165,33 +1193,6 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2113419957891719444#m",
    "ts": 1792713558,
    "id": "2113419957891719444#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "TO THE GREAT PEOPLE OF ALASKA, GET OUT AND VOTE FOR: – Dan Sullivan for U.S. Senate – Bernadette Wilson for Governor – Nick Begich for U.S. Congress (AK-AL) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP swampthevoteusa.com/alaska/ Link ALASKA: MAKE A PLAN TO VOTE! Election Day in Alaska is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113419834298085813#m",
-   "ts": 1792713528,
-   "id": "2113419834298085813#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "🚨 ALASKA! Early Voting, in-person, is UNDERWAY NOW in the Great State of Alaska. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT! Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Alaska, you can cast your early Vote, in-person, all the way through November 2nd. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP Find your Voting Location here: swampthevoteusa.com/alaska/ Link ALASKA: MAKE A PLAN TO VOTE! Election Day in Alaska is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113419824848392254#m",
-   "ts": 1792713526,
-   "id": "2113419824848392254#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "TO THE GREAT PEOPLE OF ARKANSAS, GET OUT AND VOTE FOR: – Tom Cotton for U.S. Senate – Sarah Huckabee Sanders for Governor – Rick Crawford for U.S. Congress (AR-01) – French Hill for U.S. Congress (AR-02) – Steve Womack for U.S. Congress (AR-03) – Bruce Westerman for U.S. Congress (AR-04) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP swampthevoteusa.com/arkansas… Link ARKANSAS: MAKE A PLAN TO VOTE! The Arkansas general election is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113419290934407279#m",
-   "ts": 1792713399,
-   "id": "2113419290934407279#m"
   },
   {
    "handle": "Lingling_Wei",
