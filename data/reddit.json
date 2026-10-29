@@ -1,15 +1,36 @@
 {
- "generated_at": "2026-10-29T02:13:21Z",
+ "generated_at": "2026-10-29T06:16:15Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Chore management app request",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xibsu2/chore_management_app_request/",
+   "ts": 1793253101,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "[Update Benchmark] Basalt's new PRs (Strata fork) new record IQ3_S Qwen3.8 Flash Next on single RTX 5080 and 51 GB RAM with 5500 tok/s prompt processing and up to 275 tok/s peak generation (during opencode coding live session)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xi9sfl/update_benchmark_basalts_new_prs_strata_fork_new/",
+   "ts": 1793246222,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "yeasah/Qwen3.8-27B-exl3 quants - lowest KLD of 0.0002",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xi9ctj/yeasahqwen3827bexl3_quants_lowest_kld_of_00002/",
+   "ts": 1793244839,
+   "source": "Reddit"
+  },
   {
    "subreddit": "MachineLearning",
    "title": "Using compute to verify paper results [D]",
@@ -85,13 +106,6 @@
    "title": "My journey after six months... and my thoughts..",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xi306l/my_journey_after_six_months_and_my_thoughts/",
    "ts": 1793227411,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "I ran Doom inside the Qwen model weights!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xi2jfm/i_ran_doom_inside_the_qwen_model_weights/",
-   "ts": 1793226272,
    "source": "Reddit"
   },
   {
@@ -172,13 +186,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Latent Frames: an iPhone and iPad photo viewer for Synology, SMB and WebDAV folders",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xhtyjh/latent_frames_an_iphone_and_ipad_photo_viewer_for/",
-   "ts": 1793207199,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "List of suggestions for Gemma 5.",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhtg61/list_of_suggestions_for_gemma_5/",
@@ -211,13 +218,6 @@
    "title": "How do you start with Agentic AI for a specific use case? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xhso7k/how_do_you_start_with_agentic_ai_for_a_specific/",
    "ts": 1793204421,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhqy12/nvidianvidianemotron35transcribe30ba4b_hugging/",
-   "ts": 1793200750,
    "source": "Reddit"
   },
   {
