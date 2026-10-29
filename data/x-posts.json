@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-10-29T20:56:26Z",
+ "generated_at": "2026-10-29T21:07:46Z",
  "accounts_ok": [
-  "TheRundownAI",
+  "Lingling_Wei",
+  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -9,12 +11,28 @@
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@TheRundownAI: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "inspired by High Taste Testers convo with @thaiscbranco_ of @tastelabs btw who gave me immediate critique lol",
+   "url": "https://nitter.kareem.one/swyx/status/2115908489793155125#m",
+   "ts": 1793306870,
+   "id": "2115908489793155125#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "could not imagine a better pairing. congrats deepcat!!! kwindla (@kwindla) Article Deepgram is acquiring Daily and establishing an independent Pipecat Foundation I'm excited to share that the Daily team is joining Deepgram. We will continue our work on the Pipecat open source framework and on our global network infrastructure that powers realtime audio, video, — https://nitter.kareem.one/kwindla/status/2115791491586986432#m",
+   "url": "https://nitter.kareem.one/swyx/status/2115908274570879076#m",
+   "ts": 1793306818,
+   "id": "2115908274570879076#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -757,7 +775,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,672 votes • 4 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
+   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,673 votes • 4 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "url": "https://nitter.kareem.one/swyx/status/2115089887959359988#m",
    "ts": 1793111700,
    "id": "2115089887959359988#m"
@@ -847,7 +865,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,672 votes • 4 days",
+   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,673 votes • 4 days",
    "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
    "ts": 1793058082,
    "id": "2114864999709753526#m"
@@ -1022,15 +1040,6 @@
    "url": "https://nitter.kareem.one/MyChinaTrip/status/2114276753065558104#m",
    "ts": 1792917833,
    "id": "2114276753065558104#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "i need 12 more likes to ratio @ArfurRock whos got it",
-   "url": "https://nitter.kareem.one/swyx/status/2114263159355904426#m",
-   "ts": 1792914592,
-   "id": "2114263159355904426#m"
   },
   {
    "handle": "thsottiaux",
@@ -1247,15 +1256,6 @@
    "url": "https://nitter.kareem.one/ChrisRMcGuire/status/2113417246890680469#m",
    "ts": 1792712911,
    "id": "2113417246890680469#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "glm 5.3 max reasoning effort top 2 on first problem, top 1 on the second ranking: Problem 1 (target 2025) GPT-6 Astra: 8.53s GLM-5.3: 10.87s Scott Wu: ~13.2s Opus 5.5: 13.46s Gemini 4 Argon: 19.87s Muse Wonder: 64.65s Grok 4.7: 94.02s Problem 2 (target 6843) GLM-5.3: 4.50s Opus 5.5: 10.17s Gemini 4 Argon: 13.48s GPT-6 Astra: 19.74s Scott Wu: ~20.8s Grok 4.7: 49.53s Muse Wonder: 50.70s Video kori rogers (@korigero) Scott Wu vs. the models Video — https://nitter.kareem.one/korigero/status/2113337096345981124#m",
-   "url": "https://nitter.kareem.one/eliebakouch/status/2113388284663447937#m",
-   "ts": 1792706006,
-   "id": "2113388284663447937#m"
   },
   {
    "handle": "simonw",
