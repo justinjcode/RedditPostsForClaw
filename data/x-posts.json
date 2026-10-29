@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T14:53:56Z",
+ "generated_at": "2026-10-29T15:07:55Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "Fascinating case study of the sharpest edge of what you can do with agentic engineering in the Fable era - my eyebrows raised at least a dozen times while reading this jacob (@jsnnsa) Article How I Built the Most AI-Pilled Company in the World Spawn is ten people. We spend 30x payroll on AI tokens and ship almost as much as Anthropic. In the last 30 days, Spawn shipped 77,000 substantial changes. That's about 108 an hour, around the clock. — https://nitter.kareem.one/jsnnsa/status/2115623382721126826#m",
+   "url": "https://nitter.kareem.one/simonw/status/2115821668350435645#m",
+   "ts": 1793286170,
+   "id": "2115821668350435645#m"
+  },
   {
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
@@ -1534,15 +1543,6 @@
    "url": "https://nitter.kareem.one/bcherny/status/2110791698611855624#m",
    "ts": 1792086932,
    "id": "2110791698611855624#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "\"Anthropic told investors on Wednesday distillation accounted for 5 per cent to 7 per cent of revenue\" If true, and Q2 revenue was $11.5B, then that's more than half a billion dollars spent by other labs to distill Anthropic's models! ft.com/content/11632d03-358c…",
-   "url": "https://nitter.kareem.one/simonw/status/2110721515130089787#m",
-   "ts": 1792070199,
-   "id": "2110721515130089787#m"
   },
   {
    "handle": "bcherny",
