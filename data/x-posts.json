@@ -1,17 +1,18 @@
 {
- "generated_at": "2026-10-29T05:39:23Z",
+ "generated_at": "2026-10-29T05:46:19Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@bcherny: all instances failed"
+ ],
  "count": 178,
  "items": [
   {
@@ -141,15 +142,6 @@
    "id": "2115595085727338523#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "BREAKING: Gabon’s government plans to authorize Starlink to help connect over 200 villages still without internet. Minister Doumba says some have only 20-30 residents, making towers hard to justify. Starlink could connect these to the world without the need for local fiber. Video",
-   "url": "https://nitter.kareem.one/cb_doge/status/2115592465382355222#m",
-   "ts": 1793231524,
-   "id": "2115592465382355222#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -238,6 +230,15 @@
    "url": "https://nitter.kareem.one/sourceryy/status/2115540638997590333#m",
    "ts": 1793219167,
    "id": "2115540638997590333#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "You can get a used Model 3 for less than a fully loaded 16\" OLED MacBook Pro: • 2020 Model 3 Standard Range with 95k miles, no accidents/damage & clean title: $14,190 • Fully loaded 16-inch MacBook Pro: $14,549",
+   "url": "https://nitter.kareem.one/SawyerMerritt/status/2115521949376143486#m",
+   "ts": 1793214711,
+   "id": "2115521949376143486#m"
   },
   {
    "handle": "ZichenWanghere",
