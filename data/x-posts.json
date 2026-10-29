@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T17:07:42Z",
+ "generated_at": "2026-10-29T17:17:56Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Graduating from The Reset Company to The Token Company.",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2115851621137784832#m",
+   "ts": 1793293311,
+   "id": "2115851621137784832#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -1210,15 +1219,6 @@
    "url": "https://nitter.kareem.one/dennisw5/status/2113547660498288930#m",
    "ts": 1792744004,
    "id": "2113547660498288930#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Landing tomorrow before 10am PST together with a small ship.",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2113492502355562875#m",
-   "ts": 1792730854,
-   "id": "2113492502355562875#m"
   },
   {
    "handle": "Lingling_Wei",
