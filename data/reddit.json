@@ -1,15 +1,71 @@
 {
- "generated_at": "2026-10-29T06:16:15Z",
+ "generated_at": "2026-10-29T12:15:24Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
-  "selfhosted"
+  "MachineLearning",
+  "programming"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "MachineLearning",
+   "title": "A (lukewarm) defense of Minsky and Papert [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xig3sd/a_lukewarm_defense_of_minsky_and_papert_d/",
+   "ts": 1793269246,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Leaving a job to pursue a PhD [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xif85l/leaving_a_job_to_pursue_a_phd_d/",
+   "ts": 1793266108,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "HemmingwayAI/Hemmingway-1.5 (Qwen finetune)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xif7hy/hemmingwayaihemmingway15_qwen_finetune/",
+   "ts": 1793266039,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Apsara conference: Qwen4 next week",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xif6lf/apsara_conference_qwen4_next_week/",
+   "ts": 1793265947,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Has anyone gotten BiRefNet to work on mobile NPUs and GPUs? especially Qualcomm [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xienbl/has_anyone_gotten_birefnet_to_work_on_mobile_npus/",
+   "ts": 1793263883,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Researchers Discover a Way to Reduce LLM Training Compute by 15% Without Sacrificing Quality",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xid3i8/researchers_discover_a_way_to_reduce_llm_training/",
+   "ts": 1793257917,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "How to Create Your Own Decentralized Messenger Protocol",
+   "url": "https://www.reddit.com/r/programming/comments/1xicwoy/how_to_create_your_own_decentralized_messenger/",
+   "ts": 1793257223,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "pruned NVIDIA's new 30B speech LLM from 67.5GB to 10GB with zero retraining, it still transcribes at 5.16% WER (teacher: 4.12%)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xibujk/pruned_nvidias_new_30b_speech_llm_from_675gb_to/",
+   "ts": 1793253278,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Chore management app request",
@@ -22,13 +78,6 @@
    "title": "[Update Benchmark] Basalt's new PRs (Strata fork) new record IQ3_S Qwen3.8 Flash Next on single RTX 5080 and 51 GB RAM with 5500 tok/s prompt processing and up to 275 tok/s peak generation (during opencode coding live session)",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xi9sfl/update_benchmark_basalts_new_prs_strata_fork_new/",
    "ts": 1793246222,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "yeasah/Qwen3.8-27B-exl3 quants - lowest KLD of 0.0002",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xi9ctj/yeasahqwen3827bexl3_quants_lowest_kld_of_00002/",
-   "ts": 1793244839,
    "source": "Reddit"
   },
   {
@@ -71,13 +120,6 @@
    "title": "Best self-hosted Spotify replacement with music discovery",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xi5a34/best_selfhosted_spotify_replacement_with_music/",
    "ts": 1793233183,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Learn Any ML Library by Rebuilding It: NumPy, pandas, scikit-learn, PyTorch and sentence-transformer",
-   "url": "https://www.reddit.com/r/programming/comments/1xi4nhc/learn_any_ml_library_by_rebuilding_it_numpy/",
-   "ts": 1793231624,
    "source": "Reddit"
   },
   {
@@ -127,13 +169,6 @@
    "title": "A 4B model made me a netherite ingot from bare hands. All I did was type one sentence in chat.",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhw2l0/a_4b_model_made_me_a_netherite_ingot_from_bare/",
    "ts": 1793211685,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Theory: Local is going to explode at enterprises",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhvf1z/theory_local_is_going_to_explode_at_enterprises/",
-   "ts": 1793210284,
    "source": "Reddit"
   },
   {
@@ -190,13 +225,6 @@
    "title": "List of suggestions for Gemma 5.",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhtg61/list_of_suggestions_for_gemma_5/",
    "ts": 1793206126,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Could AI detection eventually become a fundamentally unsolvable problem, similar to the halting problem? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xhtabq/could_ai_detection_eventually_become_a/",
-   "ts": 1793205771,
    "source": "Reddit"
   },
   {
@@ -263,13 +291,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "A harness that records where an LLM agent’s tool arguments came from, before the tool runs [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xhnoo2/a_harness_that_records_where_an_llm_agents_tool/",
-   "ts": 1793193109,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Someone built a 32-bit RISC-V CPU directly inside Qwen's model weights so it can execute instructions internaly!",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhmo1q/someone_built_a_32bit_riscv_cpu_directly_inside/",
@@ -284,13 +305,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Gemma 5 models soon ??",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhjn9d/gemma_5_models_soon/",
-   "ts": 1793180718,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Oh... I'm having a lot of fun lately",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xhjjzd/oh_im_having_a_lot_of_fun_lately/",
@@ -302,13 +316,6 @@
    "title": "Sablier, 4 years later: start your apps on demand, now with Podman, Proxmox LXC, Nomad, ECS and more",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xhf3z7/sablier_4_years_later_start_your_apps_on_demand/",
    "ts": 1793163515,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Dirt cheap GPUs coming next year",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhep6w/dirt_cheap_gpus_coming_next_year/",
-   "ts": 1793162081,
    "source": "Reddit"
   },
   {
@@ -351,13 +358,6 @@
    "title": "Billion-query-per-second lookup tables in C++",
    "url": "https://www.reddit.com/r/programming/comments/1xh15vv/billionquerypersecond_lookup_tables_in_c/",
    "ts": 1793127027,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Ψ-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xgwq9u/ψ06_adaptive_streams_of_thought_in_a_unified/",
-   "ts": 1793117382,
    "source": "Reddit"
   },
   {
