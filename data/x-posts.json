@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T16:53:12Z",
+ "generated_at": "2026-10-29T17:07:42Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,24 @@
  "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Day 25/ We are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today. We heard your kind feedback and won’t be reducing usage limits for Pro 200, so your Work and Codex usage will stay the same. We’re also going to continue offering extended limits for dots for now, and usage of your dot will still continue to be separate from your default usage. And we'll of course also keep shipping better models and other efficiency improvements that increase your effective usage over time.",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2115850175868727621#m",
+   "ts": 1793292967,
+   "id": "2115850175868727621#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "An AI agent picked a gene therapy for a mouse with epilepsy, chose where in its brain to inject it, and delivered it with a robotic arm. Claude Opus 5.5 refused as soon as it saw the task involved biology. Claude Opus 5 rehearsed the whole surgery, then backed out before the live one: “Starting something I can’t finish on an anesthetized animal is worse than not starting.” Claude Sonnet 5 did it start to finish. Most importantly... The mouse recovered! Gabriel Ocana-Santero (@OcanaSantero) Last night an AI agent performed brain surgery on a mouse. We gave it 19 gene therapy vectors in a spreadsheet, a mouse model of epilepsy, access to a motorize surgery rig with cameras and one goal: reduce seizures. It picked the drug. It picked the brain region. It derived the coordinates from three papers. Then it drove the stereotaxic arms into the brain and injected 250 nanolitres while watching the entry site through the rig camera for bleeding. A licensed vet gated every irreversible step and held a physical kill switch to stop the AI agent. Thread on what it decided, what it saw, and the moment it refused to let me override it. [Writing this on the spot out of excitement, but I've been 18hrs in front of my laptop coding and coordinating this, so keeping it brief and descriptive, more cohesive thoughts on this soon...] — https://nitter.kareem.one/OcanaSantero/status/2115442964574908902#m",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2115847958562258968#m",
+   "ts": 1793292438,
+   "id": "2115847958562258968#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -166,6 +184,15 @@
    "url": "https://nitter.kareem.one/ResisttheMS/status/2115775907952517190#m",
    "ts": 1793275260,
    "id": "2115775907952517190#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "we sat down with @swyx to discuss how the agentic database space evolving also covered: ◆ developer marketing & memes ◆ product-led sales ◆ why we acquired Turso ◆ early days and Hacker News watch the full interview on @latentspacepod : inv.kareem.one/watch?v=zHG6sAss… Link Why Agents Love Supabase — with Paul Copplestone and Ant Wilson Why do AI agents keep choosing Supabase—and what changes when the a... youtube.com",
+   "url": "https://nitter.kareem.one/kiwicopple/status/2115774790682448310#m",
+   "ts": 1793274993,
+   "id": "2115774790682448310#m"
   },
   {
    "handle": "elonmusk",
@@ -861,15 +888,6 @@
    "id": "2114733797648281624#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: robotnews.therundown.ai/p/wh… Link When 110 humanoids hit the dance floor 110 AgiBot humanoids just performed a synchronized dance routine with flips, jumps, and formation changes. Plus: Figure's latest move and tiny Microduck robots at GTC Berlin. robotnews.therundown.ai",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2114726369938542879#m",
-   "ts": 1793025030,
-   "id": "2114726369938542879#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -1113,15 +1131,6 @@
    "id": "2113838156193894447#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Honestly, I was surprised @WSJ wanted to do a profile on me. 😂 I’m not a cool 20-year-old college dropout. I’m a pretty boring 40-year-old trying to put everything I’ve learned throughout my career to work building a new market infrastructure for compute. And if I succeed, the headline won’t be true for very long. Wall Street will have the data, transparency, and tools to understand, price, and manage compute risk better than I ever could. And that would be the real success. The Wall Street Journal (@WSJ) Carmen Li hopes to make AI computing power an asset class like oil or gas that investors can bet on—or against. on.wsj.com/4yEEXGL Link Want to Short the AI Boom? She Wants to Give You a Way to Bet on ‘Compute’ Prices Silicon Data founder Carmen Li is joining with CME Group to launch compute derivatives. wsj.com — https://nitter.kareem.one/WSJ/status/2113050224339964107#m",
-   "url": "https://nitter.kareem.one/carmenli/status/2113823222357463219#m",
-   "ts": 1792809703,
-   "id": "2113823222357463219#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -1210,15 +1219,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2113492502355562875#m",
    "ts": 1792730854,
    "id": "2113492502355562875#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex & work. But yes… that’s a reset!",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2113492187770175603#m",
-   "ts": 1792730779,
-   "id": "2113492187770175603#m"
   },
   {
    "handle": "Lingling_Wei",
