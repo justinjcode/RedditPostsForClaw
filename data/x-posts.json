@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T21:33:52Z",
+ "generated_at": "2026-10-30T21:45:59Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -22,6 +22,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2116273966629478744#m",
    "ts": 1793394006,
    "id": "2116273966629478744#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "our team has been heads down building for years and I'm just so grateful for the response to Phonic-1's launch yesterday I love my team. they built a model that's.. #1 on AA's speech-to-speech index #1 on AA's 𝜏-Voice (agentic performance) #1 on Sierra's τ³-Voice #1 on Cekura's s2s benchmark #1 on Veris's VAmoS Pro Bench #2 on Bluejay's MIVAS s2s benchmark we literally just dropped seven figures on a new compute cluster to support the load we can't wait to continue pushing the frontier for our customers!! try it out and let me know what you think",
+   "url": "https://nitter.kareem.one/moinnadeem/status/2116270909397123499#m",
+   "ts": 1793393277,
+   "id": "2116270909397123499#m"
   },
   {
    "handle": "elonmusk",
@@ -463,6 +472,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2115847958562258968#m",
    "ts": 1793292438,
    "id": "2115847958562258968#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Introducing Phonic-1, the most advanced speech-to-speech model for agentic tasks — from @phonic_co , the speech-to-speech model company. We’ve had a breakout year and raised a $27.5M Series A led by @firstround with participation from @Lux_Capital , @felicis , and Definition.",
+   "url": "https://nitter.kareem.one/moinnadeem/status/2115830871014183088#m",
+   "ts": 1793288364,
+   "id": "2115830871014183088#m"
   },
   {
    "handle": "simonw",
@@ -967,24 +985,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2115113176693969059#m",
    "ts": 1793117252,
    "id": "2115113176693969059#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. swyx (@swyx) will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,675 votes • 3 days — https://nitter.kareem.one/swyx/status/2114864999709753526#m",
-   "url": "https://nitter.kareem.one/swyx/status/2115089887959359988#m",
-   "ts": 1793111700,
-   "id": "2115089887959359988#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "An interesting idea on calibration of LLMs from @swyx when they were discussing Jev and decision models in @latentspacepod : > There’s one element of calibration which is a rare topic that I don’t think people even knew about or understood. We covered it with, our conversation with Clémentine Fourrier of Hugging Face, and she used to run the evals, at Hugging Face, which is basically the idea that, models are attuned to give you the most likely next token. But, they’re gonna lie to you when you ask them, “How confident are you?” Because they’re just gonna give you the most likely next answer instead of, like, actually, like, no, let’s calibrate. Like, I am actually fifty percent sure, or I am twenty percent sure, and, like, let’s try to calibrate that. I would say, like, if anything, I think that actually that’s pretty easy to generate synthetic data around because you can sort of see the truth and then synthetically generate a bunch of answers, have Jev classify it, and then compare with ground truth. That would be my reverse engineering of this. It was very nice to hear this because we've been exploring something very similar in our recent work on ProbabilityBench: creating synthetic data where we have access to the exact ground-truth probabilities to evaluate decision models and other LLMs. arxiv.org/abs/2610.17016 Calibration metrics are becoming popular for evaluating decision models, but they don't directly measure how close predicted probabilities are to the ground tru",
-   "url": "https://nitter.kareem.one/tksii/status/2115081093414109384#m",
-   "ts": 1793109603,
-   "id": "2115081093414109384#m"
   },
   {
    "handle": "Lingling_Wei",
