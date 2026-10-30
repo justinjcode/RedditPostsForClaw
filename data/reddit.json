@@ -1,20 +1,48 @@
 {
- "generated_at": "2026-10-30T20:09:21Z",
+ "generated_at": "2026-10-30T22:08:10Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
   {
-   "subreddit": "selfhosted",
-   "title": "Beszel now groups containers by Compose project — your 40-container homelab becomes 6 rows",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xjpkil/beszel_now_groups_containers_by_compose_project/",
-   "ts": 1793390100,
+   "subreddit": "programming",
+   "title": "How many people can an app handle at once?",
+   "url": "https://www.reddit.com/r/programming/comments/1xjsd44/how_many_people_can_an_app_handle_at_once/",
+   "ts": 1793396736,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Break Stuff on Purpose",
+   "url": "https://www.reddit.com/r/programming/comments/1xjriux/break_stuff_on_purpose/",
+   "ts": 1793394658,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "AMD reportedly plans another Radeon GPU price increase in November",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjrery/amd_reportedly_plans_another_radeon_gpu_price/",
+   "ts": 1793394387,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Local ai made it to space 🚀",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjrdji/local_ai_made_it_to_space/",
+   "ts": 1793394303,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Qwen27b vs GPT 6",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjpfvi/qwen27b_vs_gpt_6/",
+   "ts": 1793389797,
    "source": "Reddit"
   },
   {
@@ -22,6 +50,20 @@
    "title": "vLLM now has PLE disk offload support on nightly",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjpbcg/vllm_now_has_ple_disk_offload_support_on_nightly/",
    "ts": 1793389505,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "UPDATE - New Quants: Swift 1.5 Flash Next - Heretic v2 - ReverseEngineer",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjo7rt/update_new_quants_swift_15_flash_next_heretic_v2/",
+   "ts": 1793386954,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Yet another performance degradation research induced by mutex in an unexpected hotpath in a mature database code.",
+   "url": "https://www.reddit.com/r/programming/comments/1xjo2ar/yet_another_performance_degradation_research/",
+   "ts": 1793386605,
    "source": "Reddit"
   },
   {
@@ -36,6 +78,13 @@
    "title": "Advice on dealing with Cold Start forecasting [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xjmgju/advice_on_dealing_with_cold_start_forecasting_d/",
    "ts": 1793382986,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "How to orchestrate backups of docker bind mounts",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xjm2vi/how_to_orchestrate_backups_of_docker_bind_mounts/",
+   "ts": 1793382135,
    "source": "Reddit"
   },
   {
@@ -103,13 +152,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "Ultra low temps make your model stupid at coding (a warning for beginners)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xji7ek/ultra_low_temps_make_your_model_stupid_at_coding/",
-   "ts": 1793373586,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "We’re MOSS, the team behind MOSS-Image, MOSS-TTS, and more — Ask Us Anything!",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjhpn9/were_moss_the_team_behind_mossimage_mosstts_and/",
    "ts": 1793372455,
@@ -141,13 +183,6 @@
    "title": "sora-to-ki: a self-hosted personal site where every page is part of one night sky",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xjfpko/soratoki_a_selfhosted_personal_site_where_every/",
    "ts": 1793367712,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "sensenova/SenseNova-Loop-9B-Preview · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xje5oo/sensenovasensenovaloop9bpreview_hugging_face/",
-   "ts": 1793363671,
    "source": "Reddit"
   },
   {
@@ -186,13 +221,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "The RTX 5080 Has Been Removed From NVIDIA's Official Marketplace.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj9xjh/the_rtx_5080_has_been_removed_from_nvidias/",
-   "ts": 1793349488,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Freind of mine published a paper with fabricated results in a top journal and got accepted and i feel disgusted [d]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xj8tvc/freind_of_mine_published_a_paper_with_fabricated/",
@@ -218,13 +246,6 @@
    "title": "10GbE Mini Rack & Work Setup",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xj35n6/10gbe_mini_rack_work_setup/",
    "ts": 1793326039,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Reddit will force everyone to log in",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj2pnp/reddit_will_force_everyone_to_log_in/",
-   "ts": 1793324751,
    "source": "Reddit"
   },
   {
@@ -354,13 +375,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "How to Create Your Own Decentralized Messenger Protocol",
-   "url": "https://www.reddit.com/r/programming/comments/1xicwoy/how_to_create_your_own_decentralized_messenger/",
-   "ts": 1793257223,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "any fun casual podcasts? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xi7cvk/any_fun_casual_podcasts_d/",
@@ -382,24 +396,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Making SIMD Code Scale to Any Vector Width",
-   "url": "https://www.reddit.com/r/programming/comments/1xhpagj/making_simd_code_scale_to_any_vector_width/",
-   "ts": 1793196997,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "[R] Taking EmbeddingGemma-2 (577M) from Rank #26 to #1 on the MAEB audio benchmark by filling its 256d null space with PCA-reduced intermediate Conformer layers (zero training) [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xho7pr/r_taking_embeddinggemma2_577m_from_rank_26_to_1/",
    "ts": 1793194441,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "A faster way to compute signed 64-bit floor division by constants",
-   "url": "https://www.reddit.com/r/programming/comments/1xhl1jb/a_faster_way_to_compute_signed_64bit_floor/",
-   "ts": 1793185508,
    "source": "Reddit"
   },
   {
