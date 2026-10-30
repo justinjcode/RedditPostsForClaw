@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-10-30T14:54:08Z",
+ "generated_at": "2026-10-30T15:08:11Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Vote today! America (@america) 🚨 TEXAS: Today is the LAST DAY to vote early and control of the Senate comes down to YOUR STATE. Tax hikes. Open borders. Lawlessness. Socialism in on the ballot and coming to Texas if you don't vote. Find your voting location. Link Make Your Plan votesafe.org — https://nitter.kareem.one/america/status/2115810385571766384#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2116183558729416712#m",
+   "ts": 1793372451,
+   "id": "2116183558729416712#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -121,15 +131,6 @@
    "url": "https://nitter.kareem.one/w_terrence/status/2116157671086965227#m",
    "ts": 1793366279,
    "id": "2116157671086965227#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "BREAKING: Starlink helped rescue a Swedish sailor stranded off South Africa’s coast. 🇿🇦 The solo sailor’s 12-metre yacht developed mechanical problems 8 nautical miles off St Lucia, with strong winds forecast. He used Starlink to contact the Ocean Sailing Association of South Africa, which alerted NSRI rescuers. Their rescue boat towed his yacht through strong south-westerly winds to safety in Richards Bay, accompanied by two other yachts. Starlink connected him to help when he needed it most. ♥️",
-   "url": "https://nitter.kareem.one/cb_doge/status/2116156673907892687#m",
-   "ts": 1793366042,
-   "id": "2116156673907892687#m"
   },
   {
    "handle": "ZichenWanghere",
