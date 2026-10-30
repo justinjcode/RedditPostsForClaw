@@ -1,34 +1,174 @@
 {
- "generated_at": "2026-10-29T16:11:36Z",
+ "generated_at": "2026-10-30T00:23:37Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
   {
+   "subreddit": "LocalLLaMA",
+   "title": "Sam Altman: “Local inference is a terrible allocation of scarce resources”",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xizbq1/sam_altman_local_inference_is_a_terrible/",
+   "ts": 1793315512,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Half-step to self-hosting email",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xizb6e/halfstep_to_selfhosting_email/",
+   "ts": 1793315475,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "New Project Megathread - Week of 29 Oct 2026",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xiz2ik/new_project_megathread_week_of_29_oct_2026/",
+   "ts": 1793314869,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Self-hosted P2P Networking Platform",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xiz2fm/selfhosted_p2p_networking_platform/",
+   "ts": 1793314863,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "SparkyFitness v1.10.0 - Supports Android watch App - A Self-Hosted alternative for MyFitnessPal, Flo, Hevy, Shotsy & more",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xiydnt/sparkyfitness_v1100_supports_android_watch_app_a/",
+   "ts": 1793313111,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Apache guacamole best approach?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xixmax/apache_guacamole_best_approach/",
+   "ts": 1793311259,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Arguably unethical behavior from Cohere",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xix61q/arguably_unethical_behavior_from_cohere/",
+   "ts": 1793310191,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Release: Swift 1.5 Flash Next - Heretic v2 - ReverseEngineer",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xix35p/release_swift_15_flash_next_heretic_v2/",
+   "ts": 1793310004,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Self-hosted Family tracking app",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xivaak/selfhosted_family_tracking_app/",
+   "ts": 1793305783,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Grimoire v1.10.0 - Character sheets, share links for your VTT, and six weeks of updates to the self-hosted TTRPG library",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xitik9/grimoire_v1100_character_sheets_share_links_for/",
+   "ts": 1793301849,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "UkisAI Swift GLM5.3 + GSQ-RCO, Swift Ornith 9B / -57.7% Token Usage with <1% accuracy loss on max reasoning",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xisqge/ukisai_swift_glm53_gsqrco_swift_ornith_9b_577/",
+   "ts": 1793300071,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "programming",
-   "title": "functools.singledispatch: I put that shit on everything",
-   "url": "https://www.reddit.com/r/programming/comments/1xio5e2/functoolssingledispatch_i_put_that_shit_on/",
-   "ts": 1793290000,
+   "title": "AMD's ROCm HRX Loom v0.1 released for targeting AMD CPUs, GPUs & NPUs",
+   "url": "https://www.reddit.com/r/programming/comments/1xisevc/amds_rocm_hrx_loom_v01_released_for_targeting_amd/",
+   "ts": 1793299360,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Free web search for my local agent stopped working. What are you paying per 1,000 queries now?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xis2qz/free_web_search_for_my_local_agent_stopped/",
+   "ts": 1793298587,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Why you can't trust cloud API endpoints: 40 days of coding-agent telemetry showing the exact day providers silently overwrote deepseek-v4.1-flash with -1017 (\"faster execution, shorter answers\" = 3x more swearing and 6.7x more model switches)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xiqw9i/why_you_cant_trust_cloud_api_endpoints_40_days_of/",
+   "ts": 1793295965,
    "source": "Reddit"
   },
   {
    "subreddit": "selfhosted",
-   "title": "Ternlux: an open-source, local-first ETL and data analysis app that works with local LLMs",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xincjb/ternlux_an_opensource_localfirst_etl_and_data/",
-   "ts": 1793288234,
+   "title": "Playmat: a self-hosted Magic: The Gathering server you can play from the browser (Docker Compose, ARM + x86)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xiqq8c/playmat_a_selfhosted_magic_the_gathering_server/",
+   "ts": 1793295599,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "The Last Proof of Human Craft: Forging a Microsoft Edge Full Chain with Logic Bugs Only!",
+   "url": "https://www.reddit.com/r/programming/comments/1xiq9r7/the_last_proof_of_human_craft_forging_a_microsoft/",
+   "ts": 1793294590,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+   "url": "https://www.reddit.com/r/programming/comments/1xiq8we/linux_kernel_tcp_flaw_with_98_cvss_score_affects/",
+   "ts": 1793294537,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "I want to create a Google chrome extension",
+   "url": "https://www.reddit.com/r/programming/comments/1xippf9/i_want_to_create_a_google_chrome_extension/",
+   "ts": 1793293366,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Kokoro can now clone any voice with just ~600 MB of extra VRAM!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xiplj7/kokoro_can_now_clone_any_voice_with_just_600_mb/",
+   "ts": 1793293148,
    "source": "Reddit"
   },
   {
    "subreddit": "selfhosted",
-   "title": "Newbie OS Suggestion",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1ximv1b/newbie_os_suggestion/",
-   "ts": 1793287144,
+   "title": "Ope! Won’t procrastinate next time!",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xiphv1/ope_wont_procrastinate_next_time/",
+   "ts": 1793292930,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "ServiceNow-AI/Apriel-Voice-27B-preview · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xipftk/servicenowaiaprielvoice27bpreview_hugging_face/",
+   "ts": 1793292803,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "It's the memory latency, stupid",
+   "url": "https://www.reddit.com/r/programming/comments/1xiopmn/its_the_memory_latency_stupid/",
+   "ts": 1793291215,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "I think local AI cost me a job",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xils4t/i_think_local_ai_cost_me_a_job/",
+   "ts": 1793284682,
    "source": "Reddit"
   },
   {
@@ -39,6 +179,20 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "Anyone else suffering from verbose, poor technical documentation and explanations with Q3.8-Flash-Next?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xilihw/anyone_else_suffering_from_verbose_poor_technical/",
+   "ts": 1793284060,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "mistralai/Mistral-Large-4-1T-A52B · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xil58b/mistralaimistrallarge41ta52b_hugging_face/",
+   "ts": 1793283194,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "MachineLearning",
    "title": "Old-school classifiers are still generally better than Jev [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xil53d/oldschool_classifiers_are_still_generally_better/",
@@ -46,10 +200,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Pocketdesk: your Linux or Windows PC on your Android phone, with no account, no cloud service and no port forward",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xil502/pocketdesk_your_linux_or_windows_pc_on_your/",
-   "ts": 1793283179,
+   "subreddit": "LocalLLaMA",
+   "title": "Mistral Large 4 (Le Chonk) is now open weight",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xil3qy/mistral_large_4_le_chonk_is_now_open_weight/",
+   "ts": 1793283102,
    "source": "Reddit"
   },
   {
@@ -57,34 +211,6 @@
    "title": "email encryption",
    "url": "https://www.reddit.com/r/programming/comments/1xijb4j/email_encryption/",
    "ts": 1793278827,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "The Shirky Principle Explained: Why Teams Preserve the Problems They Solve",
-   "url": "https://www.reddit.com/r/programming/comments/1xij94t/the_shirky_principle_explained_why_teams_preserve/",
-   "ts": 1793278687,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Jellyfin client (music oriented) for iOS 9?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xij1vc/jellyfin_client_music_oriented_for_ios_9/",
-   "ts": 1793278141,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "SafeAgents: an open-source proxy that checks every tool call your coding agent makes before it runs",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xii45s/safeagents_an_opensource_proxy_that_checks_every/",
-   "ts": 1793275514,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Home server vs VPS vs PaaS for hosting private web apps – what would you choose?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xignov/home_server_vs_vps_vs_paas_for_hosting_private/",
-   "ts": 1793271007,
    "source": "Reddit"
   },
   {
@@ -102,24 +228,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Worried about Qwen 4 License",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xifjn2/worried_about_qwen_4_license/",
-   "ts": 1793267301,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Leaving a job to pursue a PhD [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xif85l/leaving_a_job_to_pursue_a_phd_d/",
    "ts": 1793266108,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "HemmingwayAI/Hemmingway-1.5 (Qwen finetune)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xif7hy/hemmingwayaihemmingway15_qwen_finetune/",
-   "ts": 1793266039,
    "source": "Reddit"
   },
   {
@@ -144,27 +256,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "pruned NVIDIA's new 30B speech LLM from 67.5GB to 10GB with zero retraining, it still transcribes at 5.16% WER (teacher: 4.12%)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xibujk/pruned_nvidias_new_30b_speech_llm_from_675gb_to/",
-   "ts": 1793253278,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Chore management app request",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xibsu2/chore_management_app_request/",
-   "ts": 1793253101,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "[Update Benchmark] Basalt's new PRs (Strata fork) new record IQ3_S Qwen3.8 Flash Next on single RTX 5080 and 51 GB RAM with 5500 tok/s prompt processing and up to 275 tok/s peak generation (during opencode coding live session)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xi9sfl/update_benchmark_basalts_new_prs_strata_fork_new/",
-   "ts": 1793246222,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Using compute to verify paper results [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xi7hpf/using_compute_to_verify_paper_results_d/",
@@ -179,24 +270,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Qwen4 1M context window",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xi7390/qwen4_1m_context_window/",
-   "ts": 1793238175,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "degoog appreciation post (including a crappy video with some examples of its features)",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xi6k5v/degoog_appreciation_post_including_a_crappy_video/",
    "ts": 1793236699,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Guide - Use docker to operate legacy scanner hardware on Windows 11",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xi5z2k/guide_use_docker_to_operate_legacy_scanner/",
-   "ts": 1793235102,
    "source": "Reddit"
   },
   {
@@ -211,13 +288,6 @@
    "title": "Local-First Means Three Different Things",
    "url": "https://www.reddit.com/r/programming/comments/1xi3p7g/localfirst_means_three_different_things/",
    "ts": 1793229173,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Electronics hobbyist converts $120 DDR5 SODIMM kit into ‘$1000’ desktop kit to fight RAM crisis — ICs from SK hynix DDR5-5600 16GB modules used to create DDR5-7800 desktop sticks",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xi3l9r/electronics_hobbyist_converts_120_ddr5_sodimm_kit/",
-   "ts": 1793228895,
    "source": "Reddit"
   },
   {
@@ -242,13 +312,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "A 4B model made me a netherite ingot from bare hands. All I did was type one sentence in chat.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhw2l0/a_4b_model_made_me_a_netherite_ingot_from_bare/",
-   "ts": 1793211685,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "How Much Does the Hint Matter? A generic feedback line matches self-written critiques in hindsight self-distillation (ACM ICAIF '26) [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xhv8yp/how_much_does_the_hint_matter_a_generic_feedback/",
@@ -256,38 +319,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Why Don’t We Have Bug Free Code?",
-   "url": "https://www.reddit.com/r/programming/comments/1xhup1w/why_dont_we_have_bug_free_code/",
-   "ts": 1793208727,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "A small step for man, a GIANT step for LOCAL AI",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhubiw/a_small_step_for_man_a_giant_step_for_local_ai/",
-   "ts": 1793207945,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Cocktail-party audio as a reverse Turing test: humans beat speech models, but not by enough [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xhuado/cocktailparty_audio_as_a_reverse_turing_test/",
    "ts": 1793207879,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Mac Studio M5 Ultra 512gb Starts at $22,299.00 USD",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhu3b0/mac_studio_m5_ultra_512gb_starts_at_2229900_usd/",
-   "ts": 1793207476,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "IT vendor lists massive $60 million AI supercomputer on eBay with 9,600 Nvidia A100 GPUs and 4,200 AMD EPYC CPUs, plus free shipping — 300 racks of decommissioned GPUs on offer",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhsvmy/it_vendor_lists_massive_60_million_ai/",
-   "ts": 1793204880,
    "source": "Reddit"
   },
   {
@@ -326,24 +361,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Someone built a 32-bit RISC-V CPU directly inside Qwen's model weights so it can execute instructions internaly!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhmo1q/someone_built_a_32bit_riscv_cpu_directly_inside/",
-   "ts": 1793190404,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "A faster way to compute signed 64-bit floor division by constants",
    "url": "https://www.reddit.com/r/programming/comments/1xhl1jb/a_faster_way_to_compute_signed_64bit_floor/",
    "ts": 1793185508,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Oh... I'm having a lot of fun lately",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xhjjzd/oh_im_having_a_lot_of_fun_lately/",
-   "ts": 1793180362,
    "source": "Reddit"
   },
   {
@@ -383,30 +404,9 @@
   },
   {
    "subreddit": "programming",
-   "title": "Building confidence in concurrent code with a model checker - Scott Wlaschin - NDC London 2023",
-   "url": "https://www.reddit.com/r/programming/comments/1xgqsqf/building_confidence_in_concurrent_code_with_a/",
-   "ts": 1793102988,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
    "title": "DuckDB.NET 1.5.6.1: Reading Data Up to 12× Faster",
    "url": "https://www.reddit.com/r/programming/comments/1xgnigv/duckdbnet_1561_reading_data_up_to_12_faster/",
    "ts": 1793091980,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Why is it so expensive to send an email?",
-   "url": "https://www.reddit.com/r/programming/comments/1xft3w2/why_is_it_so_expensive_to_send_an_email/",
-   "ts": 1793010558,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "New Project Megathread - Week of 22 Oct 2026",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xcw6eb/new_project_megathread_week_of_22_oct_2026/",
-   "ts": 1792706468,
    "source": "Reddit"
   },
   {
