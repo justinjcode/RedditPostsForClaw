@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-30T15:08:11Z",
+ "generated_at": "2026-10-30T15:20:34Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -11,10 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@TheRundownAI: all instances failed"
+  "@bcherny: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Democrats will execute their plan to end democracy in America if they gain control America (@america) Kamala Harris: We need to revisit the electoral college, we need to revisit expanding the court, we need to revisit statehood for Puerto Rico and DC. James Talarico: Yeah, I think it’s great. I’m really happy that the Vice President is calling for these systemic political reforms. Video — https://nitter.kareem.one/america/status/2116180878913114525#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2116183808211141028#m",
+   "ts": 1793372511,
+   "id": "2116183808211141028#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -23,6 +32,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2116183558729416712#m",
    "ts": 1793372451,
    "id": "2116183558729416712#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Want even more evidence that @Tesla FSD is going mainstream? Here’s 2016 F1 World Champion Nico Rosberg after recently trying FSD (Supervised) for the first time: \"It's been LIFE-CHANGING! My scarcest resource currently is time. And now, I was able to get some of that time back on the commute. By the evening, it actually felt like I'd won back half a working day!! I even had a mini date with my wife on the drive. My whole racing career, I was the one in control behind the wheel. But I'm now fully willing to hand over control!! It’s crazy that 75% of new Teslas delivered in North America last quarter came with FSD. In Europe, we’re still way behind on this tech. And we for sure need to move faster!!\" More info: evwire.com/p/nico-rosberg-te…",
+   "url": "https://nitter.kareem.one/SawyerMerritt/status/2116181576081928438#m",
+   "ts": 1793371979,
+   "id": "2116181576081928438#m"
   },
   {
    "handle": "elonmusk",
@@ -91,15 +109,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Four years ago … And that is exactly what happened Elon Musk (@elonmusk) In the past I voted Democrat, because they were (mostly) the kindness party. But they have become the party of division & hate, so I can no longer support them and will vote Republican. Now, watch their dirty tricks campaign against me unfold … 🍿 — https://nitter.kareem.one/elonmusk/status/1526997132858822658#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2116164353481462158#m",
-   "ts": 1793367872,
-   "id": "2116164353481462158#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Vote ❤️🇺🇸 Elon Musk (@elonmusk) My biggest concern is that if there is a clean sweep by Democrats of the House, Senate and Presidency in 2028, they will: 1. Make DC and Puerto Rico states to gain a strong majority in the Senate. 2. Open the borders and legalize everyone living in America illegally to cement a permanent majority. 3. Increase the size of the Supreme Court to gain an immediate majority. This would result in America becoming a permanent one-party state and the end of democracy in any meaningful sense of the word. All that is needed to ensure this doesn’t happen is 51 Republican senators in 2029. That is why you should vote for Republican senators this election. Other reasons are irrelevant compared to this one. — https://nitter.kareem.one/elonmusk/status/2116039632743702637#m",
    "url": "https://nitter.kareem.one/mayemusk/status/2116162003496509620#m",
    "ts": 1793367312,
@@ -160,15 +169,6 @@
    "id": "2116138687486714047#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Please Read This Elon Musk (@elonmusk) My biggest concern is that if there is a clean sweep by Democrats of the House, Senate and Presidency in 2028, they will: 1. Make DC and Puerto Rico states to gain a strong majority in the Senate. 2. Open the borders and legalize everyone living in America illegally to cement a permanent majority. 3. Increase the size of the Supreme Court to gain an immediate majority. This would result in America becoming a permanent one-party state and the end of democracy in any meaningful sense of the word. All that is needed to ensure this doesn’t happen is 51 Republican senators in 2029. That is why you should vote for Republican senators this election. Other reasons are irrelevant compared to this one. — https://nitter.kareem.one/elonmusk/status/2116039632743702637#m",
-   "url": "https://nitter.kareem.one/dbongino/status/2116127405601693985#m",
-   "ts": 1793359063,
-   "id": "2116127405601693985#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -203,15 +203,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2116115471137198534#m",
    "ts": 1793356218,
    "id": "2116115471137198534#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "At WF26 thariq was talking about unhobbling the model At CODE26 i'm excited to explore what happens when you unhobble the speaker :) Thariq (@trq212) There’s 100% a kind of mania you can get into with coding agents, where it feels like you’re getting a lot done and working all the time but nothing is really happening. I think it's often a form of avoidance of something else in life. — https://nitter.kareem.one/trq212/status/2115937378674372783#m",
-   "url": "https://nitter.kareem.one/swyx/status/2116071665633558776#m",
-   "ts": 1793345774,
-   "id": "2116071665633558776#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -1031,6 +1022,15 @@
    "url": "https://nitter.kareem.one/Bensign/status/2114746925740122349#m",
    "ts": 1793029931,
    "id": "2114746925740122349#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Diogo Almeida and the TypeSafe AI team are bringing Jev to AIE CODE. System One models and what people are building with them. November 10 to 12, San Francisco. Apply to attend: ai.engineer/code",
+   "url": "https://nitter.kareem.one/aiDotEngineer/status/2114733797648281624#m",
+   "ts": 1793026801,
+   "id": "2114733797648281624#m"
   },
   {
    "handle": "thsottiaux",
