@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-10-30T23:15:43Z",
+ "generated_at": "2026-10-30T23:24:30Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +10,29 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 176,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Cool Chris (@everestchris6) grok bot can now see what's on your phone and answer anything about it just hold the action button and ask what you need: > ask anything about the video you're watching > tell it to build what you saw in a reel for your business > ask it to break down the article you're reading it can watch videos, read posts, check the web, basically everything. i built it as a free iphone shortcut and made it open source, you can grab it below Video — https://nitter.kareem.one/everestchris6/status/2116183923747422477#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2116306579779731464#m",
+   "ts": 1793401782,
+   "id": "2116306579779731464#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Think of Grok @Bot as a work colleague gaut (@0xgaut) Something I've noticed that makes working with grok bot more delightful: it actually feels like you're talking to a coworker. Shorter sentences, less BS and fluff. — https://nitter.kareem.one/0xgaut/status/2116293365180309566#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2116305829381263528#m",
+   "ts": 1793401603,
+   "id": "2116305829381263528#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -85,6 +104,15 @@
    "url": "https://nitter.kareem.one/forwarddeploy/status/2116283109478137946#m",
    "ts": 1793396186,
    "id": "2116283109478137946#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "ngl i still think about this NIK (@ns123abc) BREAKING: Google just proved AI data centers in space actually work Project Suncatcher's first satellite, built with @planet and launched on a SpaceX rocket with 4 TPUs on board, verified the physics: Google sent a prompt from Earth, a TPU in orbit ran Gemma inference, and the full answer was beamed back down. SpaceX is launching its StarMind satellites with NVIDIA GPUs on Starship in late 2027. Kardashev Type II civilization INCOMING Video — https://nitter.kareem.one/ns123abc/status/2116247027335966934#m",
+   "url": "https://nitter.kareem.one/distributedkv/status/2116275089931170257#m",
+   "ts": 1793394274,
+   "id": "2116275089931170257#m"
   },
   {
    "handle": "swyx",
@@ -177,15 +205,6 @@
    "id": "2116241054181806336#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "This would be the end of democracy in America KanekoaTheGreat (@KanekoaTheGreat) James Talarico wants to end the filibuster, is open to packing the Supreme Court, and backs a pathway to citizenship for millions. In his own words: “We should abolish the filibuster in the U.S. Senate…” “I’m open to a discussion about expanding the number of justices.” “I think we should have a pathway for those folks to join us as full citizens.” Talarico now calls himself a “border security Democrat.” But while millions crossed the border under Biden, he voted against border security eight times. Then in 2025, he voted no again. End the filibuster. Pack the Supreme Court. Open the border. Citizenship for millions. That’s what James Talarico will vote for in Washington. Elon Musk is right. Election Day is Nov. 3. Go vote, Texas! Video — https://nitter.kareem.one/KanekoaTheGreat/status/2116222104907764086#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2116240704393351411#m",
-   "ts": 1793386076,
-   "id": "2116240704393351411#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -225,15 +244,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "The Democrat Party is racist against Asians and Whites Kane 謝凱堯 (@kane) When Virginia schools were 50% Asian, the state said they were “overrepresented,” not diverse enough, and needed to be “rebalanced” for equity. Now the governor is saying that a cabinet that is 75% black is “the most diverse”. The double standard is exhausting. — https://nitter.kareem.one/kane/status/2116027141192396850#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2116218370362122746#m",
-   "ts": 1793380751,
-   "id": "2116218370362122746#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "A new poll has found that Republican Ken Paxton has moved past Democrat James Talarico as the race for U.S. Senate enters its final days. fox7austin.com/news/paxton-s… Link Paxton slips past Talarico in latest poll as Senate race enters final days A new poll has found that Republican Ken Paxton has moved past Democrat James Talarico as the race for U.S. Senate enters its final days. fox7austin.com",
    "url": "https://nitter.kareem.one/fox7austin/status/2116213584132792721#m",
    "ts": 1793379610,
@@ -256,15 +266,6 @@
    "url": "https://nitter.kareem.one/AarushYadav47/status/2116198463847408066#m",
    "ts": 1793376005,
    "id": "2116198463847408066#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "This is a reminder that it’s the LAST DAY of early, in-person voting in Texas. @KenPaxtonTX",
-   "url": "https://nitter.kareem.one/ScottPresler/status/2116185225655201967#m",
-   "ts": 1793372849,
-   "id": "2116185225655201967#m"
   },
   {
    "handle": "TheRundownAI",
@@ -321,15 +322,6 @@
    "id": "2116115471137198534#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Well, now I am a free man and the dust is starting to settle I can now be FULLY transparent without repercussion. @GlobalAffairs , aka, @elonmusk picked up the legal tab for my court proceedings these past few months. This was only possible due to the relentless hard work of @ezralevant of @RebelNewsOnline who not only brought @laoisedebrun on board with Padraig Langsch, but pressed X legal department to pursue my case in the interests of Free Speech. Waking up a free man after two years of daily persecution is a strange but liberating feeling. I will continue to promote irishfreespeech.com for the cases of @RossLahive1 and Hugh Fagan who are facing Lawfare outside of X's remit and require funding so Laoise and Padraig can clear their names too. Link Irish Free Speech - Rebel News Ireland is prosecuting one man for a tweet and another for cardboard signs. Kirk Loco's hearing is in Bray on October 23 and Hugh Fagan's trial is in Wexford on October 27, and Ezra Levant is flying... rebelnews.com Global Government Affairs (@GlobalAffairs) Today, Irish citizen journalist Kirk Loco was acquitted at Bray District Court of a criminal charge under Ireland's \"Coco's Law.\" X is proud to have funded Kirk's defense. Kirk's alleged offense was a single post on X relaying a teenage girl's account of a migrant man exposing himself to her on a local bus. Kirk was arrested at his home and faced up to two years in prison. The court found the State had not proved its case. \"Grossly offensive\" sp",
-   "url": "https://nitter.kareem.one/Polito_loco/status/2116077196179656963#m",
-   "ts": 1793347093,
-   "id": "2116077196179656963#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -364,6 +356,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2115993441004036131#m",
    "ts": 1793327124,
    "id": "2115993441004036131#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "I think you can use Allo. Then your Grok Bot can make calls? Allo (@allophonesystem) We decided to give Grok Bot a phone. Video — https://nitter.kareem.one/allophonesystem/status/2115793573589258279#m",
+   "url": "https://nitter.kareem.one/RyDawg42/status/2115947252904837502#m",
+   "ts": 1793316112,
+   "id": "2115947252904837502#m"
   },
   {
    "handle": "TheRundownAI",
