@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T21:06:05Z",
+ "generated_at": "2026-10-30T21:14:09Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "celld/DOs are awesome. added an old school irc chat channel to my blog recently and realized that you can literally add chat to every interface for actually $0 (as in free) with a good local dev experience now you never have to read alone. the web can be open AND social. Ryan Dahl (@rough__sea) Introducing celld: a self-hosted, distributed Durable Objects and Workers implementation - celld = V8 + S3 + SQLite + LTX+ Tokio - programmed with exactly the Cloudflare Workers/DO JavaScript APIs and config - order of magnitude cheaper at scale - writes are durable before they're acknowledged, RPO=0 - only depends on an S3 compatible bucket - no other infrastructure - ~4 MB memory per cell instance overhead - hibernated cells cost ~nothing, just their S3 storage - open source, Apache 2 licensed — https://nitter.kareem.one/rough__sea/status/2085001943693549887#m",
+   "url": "https://nitter.kareem.one/swyx/status/2116273966629478744#m",
+   "ts": 1793394006,
+   "id": "2116273966629478744#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -94,6 +103,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2116215659214561518#m",
    "ts": 1793380105,
    "id": "2116215659214561518#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "four days until forge. the lineups are insane 🤯 ⚡ @dhh , creator of @rails ⚡ @silasalberti , chief research officer at @cognition ⚡ @Thom_Wolf , co-founder of @huggingface ⚡ @noahrshinn , founder of @instinct ⚡ @EnoReyes , cto of @FactoryAI ⚡ @swyx , curator of @aiDotEngineer ⚡ @natolambert , co-founder of @trillium_labs ⚡ @0xSero of sybil solutions ⚡ @GavinSBaker , cio of @Atreidesmgmt ⚡ @dylan522p , founder of @SemiAnalysis_ ⚡ @BrendanFoody , ceo of @mercor ⚡ @pirroh , president of @Replit ⚡ @sarahmsachs , head of ai at @NotionHQ ⚡ @MishaLaskin , ceo of @reflection_ai …plus 30+ more speakers from Fireworks AI, AMD, Meta, Salesforce, Zillow, PayPal, McKinsey and others. In-person is sold out, but you can still join the livestream. Register here 👇 fireworks.ai/forge/livestrea…",
+   "url": "https://nitter.kareem.one/sophiamyang/status/2116207024987926987#m",
+   "ts": 1793378046,
+   "id": "2116207024987926987#m"
   },
   {
    "handle": "elonmusk",
@@ -1005,15 +1023,6 @@
    "id": "2114879024480780371#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "will you buy $ANT stock at a $2T valuation? Poll 14% — Yes, significant % of NW 23% — Yes, \"average\" investment 38% — No, its for retail chumps 25% — Undecided/Maybe 6,675 votes • 3 days",
-   "url": "https://nitter.kareem.one/swyx/status/2114864999709753526#m",
-   "ts": 1793058082,
-   "id": "2114864999709753526#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -1039,15 +1048,6 @@
    "url": "https://nitter.kareem.one/niubi/status/2114774931456110898#m",
    "ts": 1793036608,
    "id": "2114774931456110898#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "One of the more under-appreciated details in Anthropic's S-1: Nearly half of Anthropic's revenue now flows through cloud marketplaces - 48% in the first half of 2026, up from 11% in 2023. That's roughly $7.8B of revenue in six months sold through Bedrock, Vertex and Azure Marketplace instead of direct. Which means the hyperscalers get paid twice! They sell Anthropic the compute - Anthropic has committed hundreds of billions of dollars to AWS, Google and Microsoft - and then they take a fee on roughly half of the revenue distributed through their marketplaces. Also on gross margin...those marketplace fees don't sit in cost of revenue. They're in sales, marketing & partnerships, so they never touch the headline 85% gross margin everyone is quoting today. Fees paid to channel partners alone rose ~$2.7B year over year in H1 2026. Hyperscalers feel like they're kind of the winner here all around though reading through this.",
-   "url": "https://nitter.kareem.one/Bensign/status/2114746925740122349#m",
-   "ts": 1793029931,
-   "id": "2114746925740122349#m"
   },
   {
    "handle": "thsottiaux",
