@@ -1,15 +1,22 @@
 {
- "generated_at": "2026-10-30T02:13:10Z",
+ "generated_at": "2026-10-30T04:11:31Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "I want AI to be something we self host together instead of renting from big tech. looking for people with enough Vram to test it",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xj5kqs/i_want_ai_to_be_something_we_self_host_together/",
+   "ts": 1793333345,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "10GbE Mini Rack & Work Setup",
@@ -36,13 +43,6 @@
    "title": "Sam Altman: “Local inference is a terrible allocation of scarce resources”",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xizbq1/sam_altman_local_inference_is_a_terrible/",
    "ts": 1793315512,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Half-step to self-hosting email",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xizb6e/halfstep_to_selfhosting_email/",
-   "ts": 1793315475,
    "source": "Reddit"
   },
   {
