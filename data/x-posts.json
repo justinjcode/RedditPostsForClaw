@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T15:36:18Z",
+ "generated_at": "2026-10-30T15:44:51Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -8,10 +8,11 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@swyx: all instances failed"
+ ],
  "count": 178,
  "items": [
   {
@@ -252,15 +253,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Leave me alone! Looks like I triggered a whole lot of people because I voted RED and voted for every Republican on my ballot! I was told that as a Black man, my Black vote is powerful. I was told to get out and exercise my right to vote because my voice matters. Well, guess what? I DID EXACTLY THAT! I took my powerful Black vote straight to the polls and voted REPUBLICAN! Now suddenly people are upset with me for exercising the very same right they kept telling me to exercise! So let me get this straight. My Black vote is powerful only when I vote the way YOU want me to vote? That’s not how democracy works! I don’t owe anybody my vote, and I don’t need anybody’s permission to vote Republican. My Black vote. My choice. My right. Get over it! Terrence K. Williams (@w_terrence) Dear Democrats, I got your letter in the mail telling me to use my Black vote to support Democrats. Well, today I went to the polls and voted for every Republican on the Texas ballot. Yes, Ken Paxton too! And yes, I voted for some names I didn’t recognize, because what I DO recognize is that you guys can’t be trusted. I believe if Democrats take back Congress, you’re going to go after my president, Donald Trump, and try to impeach him. Just because I’m Black doesn’t mean I owe Democrats my vote. My vote belongs to ME, and nobody gets to tell me how to use it. You sent me a letter asking for my vote. Well, here’s your answer. I voted Republican, and I stand by my decision. Video — https://nitter.kareem.one",
-   "url": "https://nitter.kareem.one/w_terrence/status/2115937164345094524#m",
-   "ts": 1793313706,
-   "id": "2115937164345094524#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Elon and Kimbal ate at the El Camino Jack in the Box almost every night in late 1995. Prices were low because people had died from food poisoning a few years earlier. That was the dinner budget of the first company. The work started in a booth that other people had already written off.",
    "url": "https://nitter.kareem.one/Alexs_jame/status/2115937031389921316#m",
    "ts": 1793313675,
@@ -490,6 +482,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2115813491537780944#m",
    "ts": 1793284220,
    "id": "2115813491537780944#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "🚨 TEXAS: Today is the LAST DAY to vote early and control of the Senate comes down to YOUR STATE. Tax hikes. Open borders. Lawlessness. Socialism in on the ballot and coming to Texas if you don't vote. Find your voting location. Link Make Your Plan votesafe.org",
+   "url": "https://nitter.kareem.one/america/status/2115810385571766384#m",
+   "ts": 1793283480,
+   "id": "2115810385571766384#m"
   },
   {
    "handle": "simonw",
