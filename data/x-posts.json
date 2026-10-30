@@ -1,18 +1,17 @@
 {
- "generated_at": "2026-10-30T09:48:38Z",
+ "generated_at": "2026-10-30T09:55:22Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
   {
@@ -646,9 +645,9 @@
    "id": "2115473170279080149#m"
   },
   {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
