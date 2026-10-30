@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T14:22:11Z",
+ "generated_at": "2026-10-30T14:33:16Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,24 @@
  "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: tech.therundown.ai/p/binance… Link Binance hit by crypto’s biggest heist ever PLUS: No account, no Reddit tech.therundown.ai",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2116176082864906570#m",
+   "ts": 1793370669,
+   "id": "2116176082864906570#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in tech today: - Binance loses $6.3B in record hack - Reddit locks out logged-out readers - Meta brings self-harm alerts to Facebook - Amazon rolls out five Alexa+ devices",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2116176078192492768#m",
+   "ts": 1793370668,
+   "id": "2116176078192492768#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -76,6 +94,15 @@
    "url": "https://nitter.kareem.one/cb_doge/status/2116159760596619516#m",
    "ts": 1793366777,
    "id": "2116159760596619516#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "FINAL TEXAS POLL: Ken Paxton leads James Talarico 49.4% to 48.4%! This race is razor-thin, and the radical Democrats are pouring everything into turning Texas blue. Do NOT sit this one out. Get out, bring 10 friends, and VOTE RED! Keep Texas RED! 🇺🇸🔴",
+   "url": "https://nitter.kareem.one/RyanAFournier/status/2116159023049293983#m",
+   "ts": 1793366602,
+   "id": "2116159023049293983#m"
   },
   {
    "handle": "elonmusk",
@@ -474,15 +501,6 @@
    "id": "2115813491537780944#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "🚨 TEXAS: Today is the LAST DAY to vote early and control of the Senate comes down to YOUR STATE. Tax hikes. Open borders. Lawlessness. Socialism in on the ballot and coming to Texas if you don't vote. Find your voting location. Link Make Your Plan votesafe.org",
-   "url": "https://nitter.kareem.one/america/status/2115810385571766384#m",
-   "ts": 1793283480,
-   "id": "2115810385571766384#m"
-  },
-  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -681,9 +699,9 @@
    "id": "2115473170279080149#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
@@ -895,24 +913,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2115089887959359988#m",
    "ts": 1793111700,
    "id": "2115089887959359988#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: tech.therundown.ai/p/apple-b… Link Apple's big week begins with iPad mini Apple debuts a new iPad Mini, calling it the tablet's \"biggest update ever,\" as Microsoft offers buyouts to 60,000 workers. Here's what's shaping up this week. tech.therundown.ai",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2115088927451234371#m",
-   "ts": 1793111471,
-   "id": "2115088927451234371#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in tech today: - Apple debuts new iPad mini ahead of big Mac event - Microsoft puts buyouts on the table for 60K workers - Instagram targets YouTube with long-form push - Google closes the distance for military families",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2115088922493526130#m",
-   "ts": 1793111470,
-   "id": "2115088922493526130#m"
   },
   {
    "handle": "swyx",
