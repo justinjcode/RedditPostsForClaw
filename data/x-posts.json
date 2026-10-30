@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T17:15:25Z",
+ "generated_at": "2026-10-30T17:24:55Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -166,6 +166,15 @@
    "url": "https://nitter.kareem.one/mazemoore/status/2116058288240431599#m",
    "ts": 1793342585,
    "id": "2116058288240431599#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Anthropic rewrote its Messages API in Rust. Zero Rust devs on the team. Claude wrote the code. Humans wrote the plan and checked old vs new matched on real traffic. CPU dropped 40-50%. Pretty sure \"never do the big rewrite\" is dead advice. @katelyn_lesse on @latentspacepod Video",
+   "url": "https://nitter.kareem.one/somi_ai/status/2116050219989373170#m",
+   "ts": 1793340661,
+   "id": "2116050219989373170#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -1021,15 +1030,6 @@
    "url": "https://nitter.kareem.one/Bensign/status/2114746925740122349#m",
    "ts": 1793029931,
    "id": "2114746925740122349#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Diogo Almeida and the TypeSafe AI team are bringing Jev to AIE CODE. System One models and what people are building with them. November 10 to 12, San Francisco. Apply to attend: ai.engineer/code",
-   "url": "https://nitter.kareem.one/aiDotEngineer/status/2114733797648281624#m",
-   "ts": 1793026801,
-   "id": "2114733797648281624#m"
   },
   {
    "handle": "thsottiaux",
