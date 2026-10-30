@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-10-30T22:34:24Z",
+ "generated_at": "2026-10-30T22:44:30Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +10,29 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Eli Lilly has some banger drugs coming out! Dave A Ricks (@DaveARicks) I’ll take that bet. — https://nitter.kareem.one/DaveARicks/status/2116162031376015786#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2116296438942765394#m",
+   "ts": 1793399364,
+   "id": "2116296438942765394#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Yes Farhan Thawar (@fnthawar) People ought to think more about who wrote the software that's running in their head (sigh). It probably wasn't them -- Elon Musk — https://nitter.kareem.one/fnthawar/status/2116156450233819385#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2116296050168508726#m",
+   "ts": 1793399271,
+   "id": "2116296050168508726#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -51,6 +70,15 @@
    "id": "2116287873918140737#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "PS - we’re hiring exceptional people if you want to come join the SpaceXSI rocket ship Shaun Maguire (@shaunmmaguire) Article People don't understand SpaceX Caveats: this is not investment advice. Sequoia Capital has a large position in SpaceX so I'm extremely biased. Also, Past performance is not indicative of future results. After SpaceX's earnings call — https://nitter.kareem.one/shaunmmaguire/status/2116260821080973679#m",
+   "url": "https://nitter.kareem.one/forwarddeploy/status/2116283109478137946#m",
+   "ts": 1793396186,
+   "id": "2116283109478137946#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -72,6 +100,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "If you have a Tesla and haven't tried FSD in the last year, you need to try it again. Free month trial with this link. (i don't care about the referal credit, I'm posting this as a PSA because FSD is so awesome. ) tesla.com/get-app/referral?c…",
+   "url": "https://nitter.kareem.one/jhong/status/2116269882530750938#m",
+   "ts": 1793393033,
+   "id": "2116269882530750938#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "My favorite things about this: - You can see which of your posts have a visibility-limiting label, and decide if you think it's fair - You can even see if a legal (eg government) demand is limiting one of your posts, and in which country!! Continuing to deliver unprecedented transparency to the people 💪 X Open Source (@XOpenSource) Under the Hood now shows you which posts received a visibility-limiting label, making it easier to see what’s affected: nitterk.kareem.one/i/jf/under_the_hood This was a top request — thanks for the feedback. You’ll see the specific posts listed when fewer than 5% of your posts during the report period have that label. — https://nitter.kareem.one/XOpenSource/status/2116262141745565826#m",
    "url": "https://nitter.kareem.one/kcoleman/status/2116263135484989645#m",
    "ts": 1793391424,
@@ -85,6 +122,24 @@
    "url": "https://nitter.kareem.one/UpdatingOnRome/status/2116257900075360385#m",
    "ts": 1793390176,
    "id": "2116257900075360385#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "If you’re a Texan who doesn’t vote for Paxton because your “conscience won’t allow it,” think about the fact that Talarico will ok mutilating children & the killing of babies in the womb. So put your brain on, and vote for the guy who doesn’t attack your kids. Political Polls (@PpollingNumbers) New - Senate and Governor poll - Texas 🔴 Ken Paxton 49% 🔵 James Talarico 48% Governor 🔴 Greg Abbott 52% 🔵 Gina Hinojosa 46% Quantus Insights - LV - 10/28 — https://nitter.kareem.one/PpollingNumbers/status/2116138907343417681#m",
+   "url": "https://nitter.kareem.one/heckyessica/status/2116251629372747982#m",
+   "ts": 1793388681,
+   "id": "2116251629372747982#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "BREAKING: Google just proved AI data centers in space actually work Project Suncatcher's first satellite, built with @planet and launched on a SpaceX rocket with 4 TPUs on board, verified the physics: Google sent a prompt from Earth, a TPU in orbit ran Gemma inference, and the full answer was beamed back down. SpaceX is launching its StarMind satellites with NVIDIA GPUs on Starship in late 2027. Kardashev Type II civilization INCOMING Video",
+   "url": "https://nitter.kareem.one/ns123abc/status/2116247027335966934#m",
+   "ts": 1793387583,
+   "id": "2116247027335966934#m"
   },
   {
    "handle": "elonmusk",
@@ -153,6 +208,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "Our TPUs just phoned home... from space. ICYMI, on October 1, we sent four TPUs into orbit to test whether our AI hardware could operate in space. The initial goal was to see if our chips could turn on, process a prompt, and transmit a response back to Earth. This week, we got our answer. ✨ This milestone brings us one step closer to understanding if space-based compute is possible. We’re sending two more TPU-equipped satellites to orbit in 2027 for our next milestone. Watch this space 👀 and learn more about the first milestone of our long-term moonshot with Project Suncatcher ↓ Video",
+   "url": "https://nitter.kareem.one/NewsFromGoogle/status/2116219345215074538#m",
+   "ts": 1793380984,
+   "id": "2116219345215074538#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "The Democrat Party is racist against Asians and Whites Kane 謝凱堯 (@kane) When Virginia schools were 50% Asian, the state said they were “overrepresented,” not diverse enough, and needed to be “rebalanced” for equity. Now the governor is saying that a cabinet that is 75% black is “the most diverse”. The double standard is exhausting. — https://nitter.kareem.one/kane/status/2116027141192396850#m",
    "url": "https://nitter.kareem.one/elonmusk/status/2116218370362122746#m",
    "ts": 1793380751,
@@ -195,15 +259,6 @@
    "id": "2116185225655201967#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The left thinks you’ve gotten involved in Politics out of a craving for power When in reality it seems like what you actually want is to ensure we maintain the balance of power into the future Trying to entrench one side is very different than trying to maintain balance between two sides This is deeply misunderstood",
-   "url": "https://nitter.kareem.one/shaunmmaguire/status/2116183511522783530#m",
-   "ts": 1793372440,
-   "id": "2116183511522783530#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -220,15 +275,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2116176078192492768#m",
    "ts": 1793370668,
    "id": "2116176078192492768#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Ilhan Omar's Ex-Husband, Rumored to Be Her Brother, Says He's Gay tmz.com/2026/10/30/ilhan-oma… Link Ilhan Omar's Ex-Husband, Rumored to Be Her Brother, Says He's Gay Ilhan Omar's ex-husband -- who has long been rumored to be her brother -- says he's gay ... adding a new wrinkle to allegations that the Minnesota congresswoman married him to help him obtain legal... tmz.com",
-   "url": "https://nitter.kareem.one/TMZ/status/2116170223594119410#m",
-   "ts": 1793369272,
-   "id": "2116170223594119410#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -285,15 +331,6 @@
    "id": "2116070712373105117#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Obama: End the filibuster and make Washington DC and Puerto Rico states. You are crazy if you don’t believe Democrats will do it if they get the chance. Video",
-   "url": "https://nitter.kareem.one/mazemoore/status/2116058288240431599#m",
-   "ts": 1793342585,
-   "id": "2116058288240431599#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -312,15 +349,6 @@
    "id": "2116044783064060174#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "“Diversity” (as that term is used here) just means “no white guys” CJ Pearson (@Cjpearson) Hi, black guy here! This is actually the literal opposite of diversity 😂😂😂😂 — https://nitter.kareem.one/Cjpearson/status/2115849845017825696#m",
-   "url": "https://nitter.kareem.one/BasedMikeLee/status/2116026819141132404#m",
-   "ts": 1793335082,
-   "id": "2116026819141132404#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -328,15 +356,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2115993441004036131#m",
    "ts": 1793327124,
    "id": "2115993441004036131#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I still think this needs to be hung in the Louvre",
-   "url": "https://nitter.kareem.one/thirtythree/status/2115951552942772291#m",
-   "ts": 1793317137,
-   "id": "2115951552942772291#m"
   },
   {
    "handle": "TheRundownAI",
@@ -391,15 +410,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2115890336107233347#m",
    "ts": 1793302542,
    "id": "2115890336107233347#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Totally blind, first ride in Robotaxi, the app was totally accessible, the ride accessible, the drop-off accessible, it felt unusually normal! @TeslaSI Video",
-   "url": "https://nitter.kareem.one/rlloken/status/2115883184420163691#m",
-   "ts": 1793300837,
-   "id": "2115883184420163691#m"
   },
   {
    "handle": "TheRundownAI",
@@ -463,15 +473,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2115850175868727621#m",
    "ts": 1793292967,
    "id": "2115850175868727621#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Hi, black guy here! This is actually the literal opposite of diversity 😂😂😂😂 Governor Abigail Spanberger (@GovernorVA) I’m proud to have the most talented, hardest-working cabinet in Virginia’s history. They are also the most diverse cabinet Virginia has ever seen. Every single one of our cabinet secretaries were selected because they’re the best of the best in their respective fields. They also bring invaluable perspectives from across the Commonwealth — from Danville, Hampton Roads, Richmond, NOVA, and more. I’m grateful to get to work with these incredibly dedicated, hard-working, and talented cabinet officials to serve the Commonwealth of Virginia. richmond.com/opinion/column/… — https://nitter.kareem.one/GovernorVA/status/2115827073994412437#m",
-   "url": "https://nitter.kareem.one/Cjpearson/status/2115849845017825696#m",
-   "ts": 1793292888,
-   "id": "2115849845017825696#m"
   },
   {
    "handle": "TheRundownAI",
