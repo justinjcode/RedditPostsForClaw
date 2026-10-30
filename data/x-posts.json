@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-10-30T12:28:54Z",
+ "generated_at": "2026-10-30T12:43:57Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "在海底捞碰到的一个服务员看起来好小啊 一问才 18 岁 河南来的",
+   "url": "https://nitter.kareem.one/ZichenWanghere/status/2116146616432562507#m",
+   "ts": 1793363644,
+   "id": "2116146616432562507#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -1049,15 +1057,6 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2114439942000828644#m",
    "ts": 1792956741,
    "id": "2114439942000828644#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Working hard to advance US-China people-to-people relations… 🍻",
-   "url": "https://nitter.kareem.one/Joshua_Eisenman/status/2114395255860838705#m",
-   "ts": 1792946087,
-   "id": "2114395255860838705#m"
   },
   {
    "handle": "ZichenWanghere",
