@@ -1,20 +1,125 @@
 {
- "generated_at": "2026-10-30T14:11:21Z",
+ "generated_at": "2026-10-30T18:10:27Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "DCM is now a TUI called self-host - you'll never guess what it does",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xjmitu/dcm_is_now_a_tui_called_selfhost_youll_never/",
+   "ts": 1793383136,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Do you have any opinions that generally go against /r/LocalLLaMa's hivemind?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjltn3/do_you_have_any_opinions_that_generally_go/",
+   "ts": 1793381562,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Drive.py v0.996 - Find duplicate files and manage disks across your connected and disconnected drives. Halloween update",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xjlgs4/drivepy_v0996_find_duplicate_files_and_manage/",
+   "ts": 1793380788,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "PSA: Upgrade Flash Next to DFlash2 if you haven't! +17% on average",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjlgm4/psa_upgrade_flash_next_to_dflash2_if_you_havent/",
+   "ts": 1793380781,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "ISTA DeepSeek-V4.1-Flash-1017 GSQ-RCO quants comparison",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjkjla/ista_deepseekv41flash1017_gsqrco_quants_comparison/",
+   "ts": 1793378781,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "For the people who have used them: Fluxer, Backspace or Spacebar as a Discord alternative?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xjk4bm/for_the_people_who_have_used_them_fluxer/",
+   "ts": 1793377840,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "I miss the part of programming where I figure it out myself",
+   "url": "https://www.reddit.com/r/programming/comments/1xjjr9z/i_miss_the_part_of_programming_where_i_figure_it/",
+   "ts": 1793377038,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Mastering CSS Shapes with border-shape for Dynamic Designs",
+   "url": "https://www.reddit.com/r/programming/comments/1xjj2n5/mastering_css_shapes_with_bordershape_for_dynamic/",
+   "ts": 1793375555,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "How curl was accidentally Turing-complete for nine months",
+   "url": "https://www.reddit.com/r/programming/comments/1xjiofl/how_curl_was_accidentally_turingcomplete_for_nine/",
+   "ts": 1793374655,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Copium Prediction: Google and other major labs will drop new local models over the next few days so they can lead on benchmarks until Qwen 4 sweeps them next week.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjigxg/copium_prediction_google_and_other_major_labs/",
+   "ts": 1793374186,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Ultra low temps make your model stupid at coding (a warning for beginners)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xji7ek/ultra_low_temps_make_your_model_stupid_at_coding/",
+   "ts": 1793373586,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "We’re MOSS, the team behind MOSS-Image, MOSS-TTS, and more — Ask Us Anything!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjhpn9/were_moss_the_team_behind_mossimage_mosstts_and/",
+   "ts": 1793372455,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "best self-hosted music discovery for mpd?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xjhm57/best_selfhosted_music_discovery_for_mpd/",
+   "ts": 1793372240,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Another reason to own your own compute. Your account may get banned in a sneaky update.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjgfuv/another_reason_to_own_your_own_compute_your/",
+   "ts": 1793369489,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Ideas for using an old mobile",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xjg92a/ideas_for_using_an_old_mobile/",
    "ts": 1793369053,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Introducing DeepSeek-V4.1-Flash-1017 Dynamic v3.1 Unsloth GGUFs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjfuqh/introducing_deepseekv41flash1017_dynamic_v31/",
+   "ts": 1793368081,
    "source": "Reddit"
   },
   {
@@ -25,17 +130,17 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "ReCasaOS shows my text files as empty",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xjfe1d/recasaos_shows_my_text_files_as_empty/",
-   "ts": 1793366897,
+   "subreddit": "LocalLLaMA",
+   "title": "sensenova/SenseNova-Loop-9B-Preview · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xje5oo/sensenovasensenovaloop9bpreview_hugging_face/",
+   "ts": 1793363671,
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "CloudFree Address – an iOS address book that lives on your own FRITZ!Box / FTPS server instead of iCloud. Looking for beta testers",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xjf5b7/cloudfree_address_an_ios_address_book_that_lives/",
-   "ts": 1793366278,
+   "subreddit": "LocalLLaMA",
+   "title": "Gemma-4-31B-Humanlike-Chat: 2.0's improved human voice on official Gemma 4 31B",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjdjy0/gemma431bhumanlikechat_20s_improved_human_voice/",
+   "ts": 1793361950,
    "source": "Reddit"
   },
   {
@@ -43,13 +148,6 @@
    "title": "What happens to your selfhosted data when you're gone?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xjcv7t/what_happens_to_your_selfhosted_data_when_youre/",
    "ts": 1793359922,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjclj9/official_claude_code_vs_code_extension/",
-   "ts": 1793359098,
    "source": "Reddit"
   },
   {
@@ -102,24 +200,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Complete Dell workstation with 96GB NVIDIA GPU may cost less than graphics card alone",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj7g31/complete_dell_workstation_with_96gb_nvidia_gpu/",
-   "ts": 1793339881,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Experimenting with Bindless Textures in WebGPU",
    "url": "https://www.reddit.com/r/programming/comments/1xj7d21/experimenting_with_bindless_textures_in_webgpu/",
    "ts": 1793339560,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Guys I think I found our GPUs",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj4qi0/guys_i_think_i_found_our_gpus/",
-   "ts": 1793330734,
    "source": "Reddit"
   },
   {
@@ -165,20 +249,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Arguably unethical behavior from Cohere",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xix61q/arguably_unethical_behavior_from_cohere/",
-   "ts": 1793310191,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Release: Swift 1.5 Flash Next - Heretic v2 - ReverseEngineer",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xix35p/release_swift_15_flash_next_heretic_v2/",
-   "ts": 1793310004,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "W(2;3,21) = 416 - a van der Waerden number conjectured by Kullmann in 2010, now proved with a Lean 4 kernel-checked proof [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xivpue/w2321_416_a_van_der_waerden_number_conjectured_by/",
@@ -190,13 +260,6 @@
    "title": "Anyone attending NeurIPS 2026 in Paris willing to present a poster? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xium4n/anyone_attending_neurips_2026_in_paris_willing_to/",
    "ts": 1793304295,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Grimoire v1.10.0 - Character sheets, share links for your VTT, and six weeks of updates to the self-hosted TTRPG library",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xitik9/grimoire_v1100_character_sheets_share_links_for/",
-   "ts": 1793301849,
    "source": "Reddit"
   },
   {
@@ -235,20 +298,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "I want to create a Google chrome extension",
-   "url": "https://www.reddit.com/r/programming/comments/1xippf9/i_want_to_create_a_google_chrome_extension/",
-   "ts": 1793293366,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Kokoro can now clone any voice with just ~600 MB of extra VRAM!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xiplj7/kokoro_can_now_clone_any_voice_with_just_600_mb/",
-   "ts": 1793293148,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Ope! Won’t procrastinate next time!",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xiphv1/ope_wont_procrastinate_next_time/",
@@ -263,31 +312,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "I think local AI cost me a job",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xils4t/i_think_local_ai_cost_me_a_job/",
-   "ts": 1793284682,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "PSA: Synology NAS owners, there has been a recent uptick in C3RB3R Ransomware attacks",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xilmkv/psa_synology_nas_owners_there_has_been_a_recent/",
-   "ts": 1793284320,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Old-school classifiers are still generally better than Jev [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xil53d/oldschool_classifiers_are_still_generally_better/",
    "ts": 1793283185,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Mistral Large 4 (Le Chonk) is now open weight",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xil3qy/mistral_large_4_le_chonk_is_now_open_weight/",
-   "ts": 1793283102,
    "source": "Reddit"
   },
   {
@@ -309,13 +337,6 @@
    "title": "Leaving a job to pursue a PhD [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xif85l/leaving_a_job_to_pursue_a_phd_d/",
    "ts": 1793266108,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Apsara conference: Qwen4 next week",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xif6lf/apsara_conference_qwen4_next_week/",
-   "ts": 1793265947,
    "source": "Reddit"
   },
   {
@@ -368,13 +389,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "AMA Announcement: MOSS, the Team Behind MOSS-Image, MOSS-TTS, and More (Friday, Oct 30, 8–11 AM PT)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhouci/ama_announcement_moss_the_team_behind_mossimage/",
-   "ts": 1793195955,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "[R] Taking EmbeddingGemma-2 (577M) from Rank #26 to #1 on the MAEB audio benchmark by filling its 256d null space with PCA-reduced intermediate Conformer layers (zero training) [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xho7pr/r_taking_embeddinggemma2_577m_from_rank_26_to_1/",
@@ -386,20 +400,6 @@
    "title": "A faster way to compute signed 64-bit floor division by constants",
    "url": "https://www.reddit.com/r/programming/comments/1xhl1jb/a_faster_way_to_compute_signed_64bit_floor/",
    "ts": 1793185508,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Python jettisons the native JIT, at least for now",
-   "url": "https://www.reddit.com/r/programming/comments/1xhbl06/python_jettisons_the_native_jit_at_least_for_now/",
-   "ts": 1793152534,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Billion-query-per-second lookup tables in C++",
-   "url": "https://www.reddit.com/r/programming/comments/1xh15vv/billionquerypersecond_lookup_tables_in_c/",
-   "ts": 1793127027,
    "source": "Reddit"
   },
   {
