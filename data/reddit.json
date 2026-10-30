@@ -1,20 +1,48 @@
 {
- "generated_at": "2026-10-30T04:11:31Z",
+ "generated_at": "2026-10-30T06:15:31Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
   {
+   "subreddit": "programming",
+   "title": "Experimenting with Bindless Textures in WebGPU",
+   "url": "https://www.reddit.com/r/programming/comments/1xj7d21/experimenting_with_bindless_textures_in_webgpu/",
+   "ts": 1793339560,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
-   "title": "I want AI to be something we self host together instead of renting from big tech. looking for people with enough Vram to test it",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xj5kqs/i_want_ai_to_be_something_we_self_host_together/",
-   "ts": 1793333345,
+   "title": "Help with Bindery",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xj6cwm/help_with_bindery/",
+   "ts": 1793335981,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "How Do You Manage Email Notifications?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xj64vv/how_do_you_manage_email_notifications/",
+   "ts": 1793335204,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Relay v0.1.10: Cross-Platform Support Complete（github）",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xj64cw/relay_v0110_crossplatform_support_completegithub/",
+   "ts": 1793335152,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Guys I think I found our GPUs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj4qi0/guys_i_think_i_found_our_gpus/",
+   "ts": 1793330734,
    "source": "Reddit"
   },
   {
@@ -29,13 +57,6 @@
    "title": "Reddit will force everyone to log in",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj2pnp/reddit_will_force_everyone_to_log_in/",
    "ts": 1793324751,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Right now you can get an RTX 6000 Pro Workstation For 12k from Dell",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj1qzw/right_now_you_can_get_an_rtx_6000_pro_workstation/",
-   "ts": 1793322036,
    "source": "Reddit"
   },
   {
@@ -64,13 +85,6 @@
    "title": "SparkyFitness v1.10.0 - Supports Android watch App - A Self-Hosted alternative for MyFitnessPal, Flo, Hevy, Shotsy & more",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xiydnt/sparkyfitness_v1100_supports_android_watch_app_a/",
    "ts": 1793313111,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Apache guacamole best approach?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xixmax/apache_guacamole_best_approach/",
-   "ts": 1793311259,
    "source": "Reddit"
   },
   {
@@ -312,13 +326,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "My journey after six months... and my thoughts..",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xi306l/my_journey_after_six_months_and_my_thoughts/",
-   "ts": 1793227411,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "CPT’d Qwen9B on Polish legal data. How to make it chat? IMPORTANTLY: how to make it reason? and function call in my harness? and which to do first? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xi21f9/cptd_qwen9b_on_polish_legal_data_how_to_make_it/",
@@ -393,13 +400,6 @@
    "title": "Billion-query-per-second lookup tables in C++",
    "url": "https://www.reddit.com/r/programming/comments/1xh15vv/billionquerypersecond_lookup_tables_in_c/",
    "ts": 1793127027,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "DuckDB.NET 1.5.6.1: Reading Data Up to 12× Faster",
-   "url": "https://www.reddit.com/r/programming/comments/1xgnigv/duckdbnet_1561_reading_data_up_to_12_faster/",
-   "ts": 1793091980,
    "source": "Reddit"
   },
   {
