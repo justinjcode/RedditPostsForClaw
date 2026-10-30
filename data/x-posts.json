@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T17:24:55Z",
+ "generated_at": "2026-10-30T17:36:28Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -8,12 +8,22 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@swyx: all instances failed"
+ ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The Democrat Party is racist against Asians and Whites Kane 謝凱堯 (@kane) When Virginia schools were 50% Asian, the state said they were “overrepresented,” not diverse enough, and needed to be “rebalanced” for equity. Now the governor is saying that a cabinet that is 75% black is “the most diverse”. The double standard is exhausting. — https://nitter.kareem.one/kane/status/2116027141192396850#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2116218370362122746#m",
+   "ts": 1793380751,
+   "id": "2116218370362122746#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -63,10 +73,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Yes Captain Eli (@TheCaptainEli) Elon's point isn't partisan. It's about who gets to rewrite the rules. In 1937 FDR, fresh off winning 46 of 48 states, tried to add up to six justices. His own party controlled the Senate, and its Judiciary Committee still killed it: \"a measure which should be so emphatically rejected that its parallel will never again be presented.\" The Court has had 9 seats since 1869. In 2021 a bill was introduced to make it 13. That same year the House passed DC statehood, 216-208. Change the referee, add 4 senators, legalize millions of new voters, and you don't win the next election. You win all of them. I live in Europe. I know what it looks like when one side treats the rules as a tool. 51 senators. That's the whole firewall. — https://nitter.kareem.one/TheCaptainEli/status/2116158412077592730#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2116186700628066529#m",
-   "ts": 1793373200,
-   "id": "2116186700628066529#m"
+   "text": "This is a reminder that it’s the LAST DAY of early, in-person voting in Texas. @KenPaxtonTX",
+   "url": "https://nitter.kareem.one/ScottPresler/status/2116185225655201967#m",
+   "ts": 1793372849,
+   "id": "2116185225655201967#m"
   },
   {
    "handle": "elonmusk",
@@ -319,15 +329,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2115873803486032121#m",
    "ts": 1793298600,
    "id": "2115873803486032121#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "NVIDIA CEO Jensen Huang: \"I think the Tesla stack is the most advanced AV stack in the world. I'm fairly certain they were already using end-to-end AI.\" \"Whether their AI did reasoning or not in somewhat secondary to that first part.\" Video",
-   "url": "https://nitter.kareem.one/ResisttheMS/status/2115866504856031691#m",
-   "ts": 1793296860,
-   "id": "2115866504856031691#m"
   },
   {
    "handle": "ZichenWanghere",
