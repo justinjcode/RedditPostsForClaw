@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T22:54:07Z",
+ "generated_at": "2026-10-30T23:06:40Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -12,7 +12,7 @@
   "thsottiaux"
  ],
  "errors": [],
- "count": 178,
+ "count": 177,
  "items": [
   {
    "handle": "elonmusk",
@@ -225,10 +225,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Cool Sundar Pichai (@sundarpichai) A ‘hello world’ milestone for Project Suncatcher 🚀 After launching our prototype satellite a few weeks ago, we’ve now successfully sent a command up to orbit, booted up the TPU, ran the prompt, and received our first complete response back on earth - a haiku! Video — https://nitter.kareem.one/sundarpichai/status/2116214866444943853#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2116215659214561518#m",
-   "ts": 1793380105,
-   "id": "2116215659214561518#m"
+   "text": "A new poll has found that Republican Ken Paxton has moved past Democrat James Talarico as the race for U.S. Senate enters its final days. fox7austin.com/news/paxton-s… Link Paxton slips past Talarico in latest poll as Senate race enters final days A new poll has found that Republican Ken Paxton has moved past Democrat James Talarico as the race for U.S. Senate enters its final days. fox7austin.com",
+   "url": "https://nitter.kareem.one/fox7austin/status/2116213584132792721#m",
+   "ts": 1793379610,
+   "id": "2116213584132792721#m"
   },
   {
    "handle": "swyx",
@@ -931,15 +931,6 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2115146907253358607#m",
    "ts": 1793125294,
    "id": "2115146907253358607#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "yeah you ignored a @mntruell email in 2024 but did you pitch something like Claude Code in 2019 and then.... not do it for 7 years gist.github.com/swyxio/3af1e… Link an adaptive, intent based CLI \"state machine\" an adaptive, intent based CLI \"state machine\". GitHub Gist: instantly share code, notes, and snippets. gist.github.com",
-   "url": "https://nitter.kareem.one/swyx/status/2115135448876269782#m",
-   "ts": 1793122562,
-   "id": "2115135448876269782#m"
   },
   {
    "handle": "simonw",
