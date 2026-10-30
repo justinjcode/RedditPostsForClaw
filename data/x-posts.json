@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T18:45:00Z",
+ "generated_at": "2026-10-30T18:54:43Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -7,11 +7,12 @@
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@simonw: all instances failed"
+ ],
  "count": 178,
  "items": [
   {
@@ -49,6 +50,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2116201375613018416#m",
    "ts": 1793376699,
    "id": "2116201375613018416#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "We’ve raised $1.3M from YC & Afore Capital so you never have to type or speak again. Typing is slow. Talking into your computer is awkward. Subvocal fixes both Our glasses give you the speed of speech without you making a sound or touching a keyboard. It tracks your internal speech muscles with non-contact sensing and decodes silent, almost invisible mouthing into text at more than 200 words/min. Pre-orders are now live at: subvocal.co/preorder?utm_sou… Video",
+   "url": "https://nitter.kareem.one/AarushYadav47/status/2116198463847408066#m",
+   "ts": 1793376005,
+   "id": "2116198463847408066#m"
   },
   {
    "handle": "elonmusk",
@@ -1057,15 +1067,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2114588174249071102#m",
    "ts": 1792992082,
    "id": "2114588174249071102#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "我看到了有家人的托举😄😄 Video",
-   "url": "https://nitter.kareem.one/ilovecatlovecar/status/2114486175297622414#m",
-   "ts": 1792967764,
-   "id": "2114486175297622414#m"
   },
   {
    "handle": "realDonaldTrump",
