@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T10:28:13Z",
+ "generated_at": "2026-10-30T10:40:18Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,24 @@
  "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: therundownai.beehiiv.com/p/i… Link Inside the spy plot around Nvidia’s CEO A New York Times report says US intelligence flagged an alleged Chinese asset with close ties to Nvidia CEO Jensen Huang, yet the White House chose not to act. therundownai.beehiiv.com",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2116115476463993042#m",
+   "ts": 1793356219,
+   "id": "2116115476463993042#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in AI today: - Report: Nvidia CEO targeted by alleged Chinese spy - Rowan’s Corner: ‘Sent from my agent’ - Make ElevenLabs voiceovers sound more natural - Anthropic’s AI now monitors its own conversations",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2116115471137198534#m",
+   "ts": 1793356218,
+   "id": "2116115471137198534#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -895,24 +913,6 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2115048188055019826#m",
    "ts": 1793101758,
    "id": "2115048188055019826#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: therundownai.beehiiv.com/p/t… Link The AI bubble meets Anthropic’s real numbers Anthropic has filed for its IPO, and its financials challenge the \"AI bubble\" narrative: revenue growing faster than spending. Here's what the numbers show. therundownai.beehiiv.com",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2115028295263678974#m",
-   "ts": 1793097015,
-   "id": "2115028295263678974#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in AI today: - Anthropic officially files to go public - OpenAI’s next batch of AI science discoveries arrives - Turn sales call notes into follow-up emails with AI - OpenAI’s new Terra cuts the cost of AI computer use",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2115028290037534790#m",
-   "ts": 1793097014,
-   "id": "2115028290037534790#m"
   },
   {
    "handle": "ZichenWanghere",
