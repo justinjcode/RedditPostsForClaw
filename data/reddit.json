@@ -1,20 +1,41 @@
 {
- "generated_at": "2026-10-30T18:10:27Z",
+ "generated_at": "2026-10-30T20:09:21Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
+  "MachineLearning",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
   {
    "subreddit": "selfhosted",
-   "title": "DCM is now a TUI called self-host - you'll never guess what it does",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xjmitu/dcm_is_now_a_tui_called_selfhost_youll_never/",
-   "ts": 1793383136,
+   "title": "Beszel now groups containers by Compose project — your 40-container homelab becomes 6 rows",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xjpkil/beszel_now_groups_containers_by_compose_project/",
+   "ts": 1793390100,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "vLLM now has PLE disk offload support on nightly",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjpbcg/vllm_now_has_ple_disk_offload_support_on_nightly/",
+   "ts": 1793389505,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "A TUI to get into self-hosting",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xjo1xq/a_tui_to_get_into_selfhosting/",
+   "ts": 1793386581,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Advice on dealing with Cold Start forecasting [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xjmgju/advice_on_dealing_with_cold_start_forecasting_d/",
+   "ts": 1793382986,
    "source": "Reddit"
   },
   {
@@ -95,13 +116,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "best self-hosted music discovery for mpd?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xjhm57/best_selfhosted_music_discovery_for_mpd/",
-   "ts": 1793372240,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Another reason to own your own compute. Your account may get banned in a sneaky update.",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjgfuv/another_reason_to_own_your_own_compute_your/",
@@ -148,13 +162,6 @@
    "title": "What happens to your selfhosted data when you're gone?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xjcv7t/what_happens_to_your_selfhosted_data_when_youre/",
    "ts": 1793359922,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "[Paper] Multi-Token Prediction Done Right - Soft-MTP",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjc8q3/paper_multitoken_prediction_done_right_softmtp/",
-   "ts": 1793357951,
    "source": "Reddit"
   },
   {
@@ -372,13 +379,6 @@
    "title": "If-statement that caused HTTP2Shell was itself undisclosed patch of vulnerability",
    "url": "https://www.reddit.com/r/programming/comments/1xi16s3/ifstatement_that_caused_http2shell_was_itself/",
    "ts": 1793223026,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Cocktail-party audio as a reverse Turing test: humans beat speech models, but not by enough [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xhuado/cocktailparty_audio_as_a_reverse_turing_test/",
-   "ts": 1793207879,
    "source": "Reddit"
   },
   {
