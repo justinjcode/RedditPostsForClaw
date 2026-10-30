@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T17:43:03Z",
+ "generated_at": "2026-10-30T17:55:32Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -7,13 +7,23 @@
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@simonw: all instances failed"
+ ],
  "count": 178,
  "items": [
+  {
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
+   "text": "We're removing the 5-hour limit for verified Ultra accounts. Claude (@claudeai) We’re renaming our Max plans: Max 5x → Max Max 20x → Ultra Max is still $100/month, and Ultra is still $200. If you’re a subscriber, there’s nothing you need to do. We’re also removing the 5-hour limit for verified Ultra accounts, starting today with most existing subscribers. Newer accounts keep a temporary limit until they’re verified, which helps us prevent fraud and abuse. You'll get an email when it's removed. Weekly limits remain unchanged. View our plans here: claude.com/pricing — https://nitter.kareem.one/claudeai/status/2116220869479428500#m",
+   "url": "https://nitter.kareem.one/bcherny/status/2116222842413142111#m",
+   "ts": 1793381817,
+   "id": "2116222842413142111#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1606,15 +1616,6 @@
    "url": "https://nitter.kareem.one/nateparrott/status/2108278741088833608#m",
    "ts": 1791487796,
    "id": "2108278741088833608#m"
-  },
-  {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
-   "text": "Claude Dashboards and Claude Motion are in beta today. Ask Claude to turn your data into live dashboards and your ideas into animated explainers. Video",
-   "url": "https://nitter.kareem.one/claudeai/status/2108271552991252810#m",
-   "ts": 1791486082,
-   "id": "2108271552991252810#m"
   }
  ]
 }
