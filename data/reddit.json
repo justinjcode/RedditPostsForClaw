@@ -1,15 +1,43 @@
 {
- "generated_at": "2026-10-30T08:12:37Z",
+ "generated_at": "2026-10-30T12:15:19Z",
  "count": 60,
  "subreddits_ok": [
+  "LocalLLaMA",
   "MachineLearning",
-  "programming",
-  "selfhosted"
+  "programming"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjclj9/official_claude_code_vs_code_extension/",
+   "ts": 1793359098,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "[Paper] Multi-Token Prediction Done Right - Soft-MTP",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjc8q3/paper_multitoken_prediction_done_right_softmtp/",
+   "ts": 1793357951,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "We published the full index of our internal Node stack: 348 npm packages, 257 repos",
+   "url": "https://www.reddit.com/r/programming/comments/1xja8om/we_published_the_full_index_of_our_internal_node/",
+   "ts": 1793350717,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "The RTX 5080 Has Been Removed From NVIDIA's Official Marketplace.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj9xjh/the_rtx_5080_has_been_removed_from_nvidias/",
+   "ts": 1793349488,
+   "source": "Reddit"
+  },
   {
    "subreddit": "MachineLearning",
    "title": "Freind of mine published a paper with fabricated results in a top journal and got accepted and i feel disgusted [d]",
@@ -22,6 +50,13 @@
    "title": "What would you require before calling an inference change “quality-neutral”? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xj8f2g/what_would_you_require_before_calling_an/",
    "ts": 1793343597,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Complete Dell workstation with 96GB NVIDIA GPU may cost less than graphics card alone",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj7g31/complete_dell_workstation_with_96gb_nvidia_gpu/",
+   "ts": 1793339881,
    "source": "Reddit"
   },
   {
@@ -151,13 +186,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "UkisAI Swift GLM5.3 + GSQ-RCO, Swift Ornith 9B / -57.7% Token Usage with <1% accuracy loss on max reasoning",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xisqge/ukisai_swift_glm53_gsqrco_swift_ornith_9b_577/",
-   "ts": 1793300071,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "AMD's ROCm HRX Loom v0.1 released for targeting AMD CPUs, GPUs & NPUs",
    "url": "https://www.reddit.com/r/programming/comments/1xisevc/amds_rocm_hrx_loom_v01_released_for_targeting_amd/",
@@ -165,24 +193,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Free web search for my local agent stopped working. What are you paying per 1,000 queries now?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xis2qz/free_web_search_for_my_local_agent_stopped/",
-   "ts": 1793298587,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "TKintegers K5: 3.21× prefill and 3.10× decode throughput vs TorchAO FP8 on NVIDIA L4 [R] [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xir3oa/tkintegers_k5_321_prefill_and_310_decode/",
    "ts": 1793296432,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Why you can't trust cloud API endpoints: 40 days of coding-agent telemetry showing the exact day providers silently overwrote deepseek-v4.1-flash with -1017 (\"faster execution, shorter answers\" = 3x more swearing and 6.7x more model switches)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xiqw9i/why_you_cant_trust_cloud_api_endpoints_40_days_of/",
-   "ts": 1793295965,
    "source": "Reddit"
   },
   {
@@ -246,13 +260,6 @@
    "title": "PSA: Synology NAS owners, there has been a recent uptick in C3RB3R Ransomware attacks",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xilmkv/psa_synology_nas_owners_there_has_been_a_recent/",
    "ts": 1793284320,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "mistralai/Mistral-Large-4-1T-A52B · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xil58b/mistralaimistrallarge41ta52b_hugging_face/",
-   "ts": 1793283194,
    "source": "Reddit"
   },
   {
@@ -386,13 +393,6 @@
    "title": "Python jettisons the native JIT, at least for now",
    "url": "https://www.reddit.com/r/programming/comments/1xhbl06/python_jettisons_the_native_jit_at_least_for_now/",
    "ts": 1793152534,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Choose Your Backend: Three TLS Bugs in GoAhead",
-   "url": "https://www.reddit.com/r/programming/comments/1xh84hz/choose_your_backend_three_tls_bugs_in_goahead/",
-   "ts": 1793143214,
    "source": "Reddit"
   },
   {
