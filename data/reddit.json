@@ -1,15 +1,36 @@
 {
- "generated_at": "2026-10-30T00:23:37Z",
+ "generated_at": "2026-10-30T02:13:10Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
+  "MachineLearning",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "10GbE Mini Rack & Work Setup",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xj35n6/10gbe_mini_rack_work_setup/",
+   "ts": 1793326039,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Reddit will force everyone to log in",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj2pnp/reddit_will_force_everyone_to_log_in/",
+   "ts": 1793324751,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Right now you can get an RTX 6000 Pro Workstation For 12k from Dell",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj1qzw/right_now_you_can_get_an_rtx_6000_pro_workstation/",
+   "ts": 1793322036,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Sam Altman: “Local inference is a terrible allocation of scarce resources”",
@@ -32,10 +53,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Self-hosted P2P Networking Platform",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xiz2fm/selfhosted_p2p_networking_platform/",
-   "ts": 1793314863,
+   "subreddit": "MachineLearning",
+   "title": "Arc: a ~70 MB streaming speech model that transcribes links names and metadata to your own list as they're spoken, with no second model [p]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xiyuoj/arc_a_70_mb_streaming_speech_model_that/",
+   "ts": 1793314317,
    "source": "Reddit"
   },
   {
@@ -53,6 +74,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "selfhosted",
+   "title": "Safety of Cloudflare Access/Zero Trust compared to Tailscale?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xixjnb/safety_of_cloudflare_accesszero_trust_compared_to/",
+   "ts": 1793311099,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "LocalLLaMA",
    "title": "Arguably unethical behavior from Cohere",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xix61q/arguably_unethical_behavior_from_cohere/",
@@ -67,10 +95,24 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "MachineLearning",
+   "title": "W(2;3,21) = 416 - a van der Waerden number conjectured by Kullmann in 2010, now proved with a Lean 4 kernel-checked proof [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xivpue/w2321_416_a_van_der_waerden_number_conjectured_by/",
+   "ts": 1793306785,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
    "title": "Self-hosted Family tracking app",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xivaak/selfhosted_family_tracking_app/",
    "ts": 1793305783,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Anyone attending NeurIPS 2026 in Paris willing to present a poster? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xium4n/anyone_attending_neurips_2026_in_paris_willing_to/",
+   "ts": 1793304295,
    "source": "Reddit"
   },
   {
@@ -99,6 +141,13 @@
    "title": "Free web search for my local agent stopped working. What are you paying per 1,000 queries now?",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xis2qz/free_web_search_for_my_local_agent_stopped/",
    "ts": 1793298587,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "TKintegers K5: 3.21× prefill and 3.10× decode throughput vs TorchAO FP8 on NVIDIA L4 [R] [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xir3oa/tkintegers_k5_321_prefill_and_310_decode/",
+   "ts": 1793296432,
    "source": "Reddit"
   },
   {
@@ -151,13 +200,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "ServiceNow-AI/Apriel-Voice-27B-preview · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xipftk/servicenowaiaprielvoice27bpreview_hugging_face/",
-   "ts": 1793292803,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "It's the memory latency, stupid",
    "url": "https://www.reddit.com/r/programming/comments/1xiopmn/its_the_memory_latency_stupid/",
@@ -176,13 +218,6 @@
    "title": "PSA: Synology NAS owners, there has been a recent uptick in C3RB3R Ransomware attacks",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xilmkv/psa_synology_nas_owners_there_has_been_a_recent/",
    "ts": 1793284320,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Anyone else suffering from verbose, poor technical documentation and explanations with Q3.8-Flash-Next?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xilihw/anyone_else_suffering_from_verbose_poor_technical/",
-   "ts": 1793284060,
    "source": "Reddit"
   },
   {
@@ -257,23 +292,9 @@
   },
   {
    "subreddit": "MachineLearning",
-   "title": "Using compute to verify paper results [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xi7hpf/using_compute_to_verify_paper_results_d/",
-   "ts": 1793239306,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
    "title": "any fun casual podcasts? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xi7cvk/any_fun_casual_podcasts_d/",
    "ts": 1793238938,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "degoog appreciation post (including a crappy video with some examples of its features)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xi6k5v/degoog_appreciation_post_including_a_crappy_video/",
-   "ts": 1793236699,
    "source": "Reddit"
   },
   {
@@ -313,30 +334,9 @@
   },
   {
    "subreddit": "MachineLearning",
-   "title": "How Much Does the Hint Matter? A generic feedback line matches self-written critiques in hindsight self-distillation (ACM ICAIF '26) [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xhv8yp/how_much_does_the_hint_matter_a_generic_feedback/",
-   "ts": 1793209930,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
    "title": "Cocktail-party audio as a reverse Turing test: humans beat speech models, but not by enough [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xhuado/cocktailparty_audio_as_a_reverse_turing_test/",
    "ts": 1793207879,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "How do you start with Agentic AI for a specific use case? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xhso7k/how_do_you_start_with_agentic_ai_for_a_specific/",
-   "ts": 1793204421,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET) [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xhpnfs/ama_this_wednesday_stephen_cas_casper_harvard/",
-   "ts": 1793197825,
    "source": "Reddit"
   },
   {
@@ -389,13 +389,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "Understanding Transformer Autograd by Building It Manually in PyTorch [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xh1z1p/understanding_transformer_autograd_by_building_it/",
-   "ts": 1793128808,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Billion-query-per-second lookup tables in C++",
    "url": "https://www.reddit.com/r/programming/comments/1xh15vv/billionquerypersecond_lookup_tables_in_c/",
@@ -421,6 +414,13 @@
    "title": "[D] Self-Promotion Thread",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1wvi1j8/d_selfpromotion_thread/",
    "ts": 1790907305,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1wunvg4/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+   "ts": 1790821809,
    "source": "Reddit"
   },
   {
