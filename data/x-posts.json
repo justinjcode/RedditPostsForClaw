@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T23:06:40Z",
+ "generated_at": "2026-10-30T23:15:43Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -12,8 +12,17 @@
   "thsottiaux"
  ],
  "errors": [],
- "count": 177,
+ "count": 176,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "its true, Anthropic really vibecoded their entire backend to Rust and none of you noticed Somi (@somi_ai) Anthropic rewrote its Messages API in Rust. Zero Rust devs on the team. Claude wrote the code. Humans wrote the plan and checked old vs new matched on real traffic. CPU dropped 40-50%. Pretty sure \"never do the big rewrite\" is dead advice. @katelyn_lesse on @latentspacepod Video — https://nitter.kareem.one/somi_ai/status/2116050219989373170#m",
+   "url": "https://nitter.kareem.one/swyx/status/2116305528330785190#m",
+   "ts": 1793401531,
+   "id": "2116305528330785190#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -888,15 +897,6 @@
    "id": "2115166627268337801#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "anyway here's my soundcloud Latent Space: AI News & Views (@latentspacepod) How Anthropic ships Claude with Claude latent.space/p/opus55/ Opus 5.5 is the #1 LLM in the world right now. We go behind the scenes of the launch, with @katelyn_lesse and @angjiang , heads of Eng and Product behind the platform used to build everything from the first party harnesses like Code/Tag/Duet and by >50% of Anthropic's top customers! Link How Anthropic ships Claude with Claude: Separating the Brain from the Hands — Latent Space Katelyn Lesse and Angela Jiang on Opus 5.5, the Claude Platform, and the engineering behind AI agents. latent.space — https://nitter.kareem.one/latentspacepod/status/2115156080309489736#m",
-   "url": "https://nitter.kareem.one/swyx/status/2115156135875629109#m",
-   "ts": 1793127495,
-   "id": "2115156135875629109#m"
-  },
-  {
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
    "author": "@realDonaldTrump",
@@ -913,15 +913,6 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2115150032986931656#m",
    "ts": 1793126040,
    "id": "2115150032986931656#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "My favourite event I ever hosted was a karaoke and trivia night in New York ❤️ We brought the community members of Latent Space together to sing our hearts out - WHO KNEW THEY’D HAVE SUCH BARS!!! Thank you to my partner in crime @KaylinWardley ❤️ Until the next time :) Video",
-   "url": "https://nitter.kareem.one/NehallAgrawal/status/2115147654267375903#m",
-   "ts": 1793125472,
-   "id": "2115147654267375903#m"
   },
   {
    "handle": "ZichenWanghere",
