@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-10-30T04:08:14Z",
+ "generated_at": "2026-10-30T04:23:41Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +10,29 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Our second product is called Blindsight and it will, as the name suggests, enable even those who are completely blind or have never seen to see. It is ready from an engineering standpoint. Just waiting on regulatory approval. Elon Musk (@elonmusk) Neuralink’s first product is called Telepathy. It enables high-speed communication with computers or humans simply by thinking. Output bandwidth will vastly exceed the fastest human speech or typing in a few years. Read that sentence again. — https://nitter.kareem.one/elonmusk/status/2116018780111597911#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2116019939056513218#m",
+   "ts": 1793333441,
+   "id": "2116019939056513218#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Neuralink’s first product is called Telepathy. It enables high-speed communication with computers or humans simply by thinking. Output bandwidth will vastly exceed the fastest human speech or typing in a few years. Read that sentence again. Neuralink (@neuralink) Our engineers recently visited one of our speech restoration study participants for a 72-hour hackathon. The goal: rapidly prototype as many features as possible to enhance the experience of using Neuralink to communicate with thought. Here are some of the things we built 🧵 Video — https://nitter.kareem.one/neuralink/status/2115878416423784939#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2116018780111597911#m",
+   "ts": 1793333165,
+   "id": "2116018780111597911#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -114,15 +133,6 @@
    "id": "2115935053347786773#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Worth noting that Grok @Bot has no free tier X Freeze (@XFreeze) Grok Bot is growing at an absolutely insane pace Daily active users have increased for 16 consecutive days, marking its longest growth streak since launch Here's how fast it's growing: • Under 100K daily active users in early September • Over 600K daily active users by October 26 • More than 6X growth in less than two months And this is only the beginning — https://nitter.kareem.one/XFreeze/status/2115779686697697557#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2115921600658735169#m",
-   "ts": 1793309996,
-   "id": "2115921600658735169#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -213,15 +223,6 @@
    "id": "2115868597608169739#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Last week, we hosted Accessibility Day with members of the disabled community – their feedback goes directly into all Robotaxi products, including Cybercab and future products! Robotaxi = freedom of low cost, on-demand, safe transportation for the masses Our purpose-built autonomous vehicles are desiged for everyone from day 1",
-   "url": "https://nitter.kareem.one/robotaxi/status/2115862218470519041#m",
-   "ts": 1793295838,
-   "id": "2115862218470519041#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -285,6 +286,15 @@
    "id": "2115850175868727621#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Before Hollywood, I was living in a van in Hawaii and waiting tables at Bubba Gump Shrimp Company. One day, the incredible Rae Dawn Chong walked into the restaurant, and naturally, I went up to her table and said, “Hey, you’re a movie star! What are you doing here?” She asked if I could act, and I said, “Fuck yeah, put me in your movie!” She asked for my phone number. The only problem was I didn’t have one. So I gave her my buddy Mike’s number instead. A couple days later, Mike casually mentions, “Oh, by the way, someone called you.” ARE YOU KIDDING ME, MIKE?! I called her back, and sure enough, she was serious. I drove over to pick up the script, went back to Mike’s house, and read all 120 pages three times in a row. First script I’d ever read. My character's name was Devon, and I remember thinking, “Sweet! I could totally play a Devon!” I showed up to the audition with every line and inflection mapped out in pencil. Rae told me I could act and offered me the part. I asked if we were shooting in Hawaii. Nope. Los Angeles. I had about $60 to my name, a bag of clothes, and some rollerblades. Then Rae told me they'd fly me out. And I remember thinking right then and there, my life just changed forever. I'm going to be an actor. That little movie was Cursed Part 3, a low-budget horror comedy that opened the door to Hollywood for me. I'll forever be grateful to Rae for taking a chance on a kid working at a shrimp restaurant. Everybody starts somewhere, and this is where it all be",
+   "url": "https://nitter.kareem.one/prattprattpratt/status/2115848262481768576#m",
+   "ts": 1793292510,
+   "id": "2115848262481768576#m"
+  },
+  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -301,15 +311,6 @@
    "url": "https://nitter.kareem.one/Dogetothemoon/status/2115831476952719486#m",
    "ts": 1793288509,
    "id": "2115831476952719486#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok Bot is legitimately amazing As one employee told me \"Grok Bot gets shit done\" We already have around 100-150 @bot 's helping across our business Similarweb (@Similarweb) As of October 26, Grok Bot has grown in DAUs for 16 consecutive days, its longest growth streak to date. — https://nitter.kareem.one/Similarweb/status/2115724259691471150#m",
-   "url": "https://nitter.kareem.one/QuincyEdmundLee/status/2115827875500949887#m",
-   "ts": 1793287650,
-   "id": "2115827875500949887#m"
   },
   {
    "handle": "simonw",
