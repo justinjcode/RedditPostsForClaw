@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T05:47:01Z",
+ "generated_at": "2026-10-30T05:53:33Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "哈哈哈干起来了",
+   "url": "https://nitter.kareem.one/ZichenWanghere/status/2116044783064060174#m",
+   "ts": 1793339365,
+   "id": "2116044783064060174#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -609,9 +618,9 @@
    "id": "2115473170279080149#m"
   },
   {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
@@ -1120,15 +1129,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2114030784625647855#m",
    "ts": 1792859190,
    "id": "2114030784625647855#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "But imagine if the US aim was broad-based egalitarian growth rather than geopolitical dominance. We could pursue a whole range of policies to complement Chinese investment and support host countries in pressing it to serve workers and local economies as well as the investors. 3/",
-   "url": "https://nitter.kareem.one/jwdwerner/status/2114028658511732816#m",
-   "ts": 1792858683,
-   "id": "2114028658511732816#m"
   },
   {
    "handle": "realDonaldTrump",
