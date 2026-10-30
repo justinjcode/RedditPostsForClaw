@@ -1,15 +1,29 @@
 {
- "generated_at": "2026-10-30T06:15:31Z",
+ "generated_at": "2026-10-30T08:12:37Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
+  "MachineLearning",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "MachineLearning",
+   "title": "Freind of mine published a paper with fabricated results in a top journal and got accepted and i feel disgusted [d]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xj8tvc/freind_of_mine_published_a_paper_with_fabricated/",
+   "ts": 1793345123,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "What would you require before calling an inference change “quality-neutral”? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xj8f2g/what_would_you_require_before_calling_an/",
+   "ts": 1793343597,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "Experimenting with Bindless Textures in WebGPU",
@@ -326,13 +340,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "CPT’d Qwen9B on Polish legal data. How to make it chat? IMPORTANTLY: how to make it reason? and function call in my harness? and which to do first? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xi21f9/cptd_qwen9b_on_polish_legal_data_how_to_make_it/",
-   "ts": 1793225072,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "If-statement that caused HTTP2Shell was itself undisclosed patch of vulnerability",
    "url": "https://www.reddit.com/r/programming/comments/1xi16s3/ifstatement_that_caused_http2shell_was_itself/",
@@ -386,13 +393,6 @@
    "title": "Choose Your Backend: Three TLS Bugs in GoAhead",
    "url": "https://www.reddit.com/r/programming/comments/1xh84hz/choose_your_backend_three_tls_bugs_in_goahead/",
    "ts": 1793143214,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "The Paper Reviewing Process is Now in Critical Condition [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xh2wzt/the_paper_reviewing_process_is_now_in_critical/",
-   "ts": 1793130931,
    "source": "Reddit"
   },
   {
