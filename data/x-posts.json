@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-10-30T14:45:08Z",
+ "generated_at": "2026-10-30T14:54:08Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "In his own words America (@america) Democrat Texas Senate Nominee James Talarico: “The Supreme Court needs to be overhauled… I am open to a discussion about expanding the number of justices.” Video — https://nitter.kareem.one/america/status/2116175795173597675#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2116179698267128211#m",
+   "ts": 1793371531,
+   "id": "2116179698267128211#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -122,15 +130,6 @@
    "url": "https://nitter.kareem.one/cb_doge/status/2116156673907892687#m",
    "ts": 1793366042,
    "id": "2116156673907892687#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Exactly this. You may not love Republicans but they aren’t here to destroy the country as we know it. Vote accordingly… Elon Musk (@elonmusk) My biggest concern is that if there is a clean sweep by Democrats of the House, Senate and Presidency in 2028, they will: 1. Make DC and Puerto Rico states to gain a strong majority in the Senate. 2. Open the borders and legalize everyone living in America illegally to cement a permanent majority. 3. Increase the size of the Supreme Court to gain an immediate majority. This would result in America becoming a permanent one-party state and the end of democracy in any meaningful sense of the word. All that is needed to ensure this doesn’t happen is 51 Republican senators in 2029. That is why you should vote for Republican senators this election. Other reasons are irrelevant compared to this one. — https://nitter.kareem.one/elonmusk/status/2116039632743702637#m",
-   "url": "https://nitter.kareem.one/RubinReport/status/2116152899403444684#m",
-   "ts": 1793365142,
-   "id": "2116152899403444684#m"
   },
   {
    "handle": "ZichenWanghere",
