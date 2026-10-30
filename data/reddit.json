@@ -1,15 +1,50 @@
 {
- "generated_at": "2026-10-30T12:15:19Z",
+ "generated_at": "2026-10-30T14:11:21Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
-  "programming"
+  "programming",
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Ideas for using an old mobile",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xjg92a/ideas_for_using_an_old_mobile/",
+   "ts": 1793369053,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "sora-to-ki: a self-hosted personal site where every page is part of one night sky",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xjfpko/soratoki_a_selfhosted_personal_site_where_every/",
+   "ts": 1793367712,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "ReCasaOS shows my text files as empty",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xjfe1d/recasaos_shows_my_text_files_as_empty/",
+   "ts": 1793366897,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "CloudFree Address – an iOS address book that lives on your own FRITZ!Box / FTPS server instead of iCloud. Looking for beta testers",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xjf5b7/cloudfree_address_an_ios_address_book_that_lives/",
+   "ts": 1793366278,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "What happens to your selfhosted data when you're gone?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xjcv7t/what_happens_to_your_selfhosted_data_when_youre/",
+   "ts": 1793359922,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor",
@@ -29,6 +64,20 @@
    "title": "We published the full index of our internal Node stack: 348 npm packages, 257 repos",
    "url": "https://www.reddit.com/r/programming/comments/1xja8om/we_published_the_full_index_of_our_internal_node/",
    "ts": 1793350717,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Before I put email in my homelab: what happens to incoming mail when the house goes offline?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xja4ys/before_i_put_email_in_my_homelab_what_happens_to/",
+   "ts": 1793350306,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Alternative to Komga/Kavita for selfhosted manga solution?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xja0oi/alternative_to_komgakavita_for_selfhosted_manga/",
+   "ts": 1793349843,
    "source": "Reddit"
   },
   {
@@ -64,27 +113,6 @@
    "title": "Experimenting with Bindless Textures in WebGPU",
    "url": "https://www.reddit.com/r/programming/comments/1xj7d21/experimenting_with_bindless_textures_in_webgpu/",
    "ts": 1793339560,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Help with Bindery",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xj6cwm/help_with_bindery/",
-   "ts": 1793335981,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "How Do You Manage Email Notifications?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xj64vv/how_do_you_manage_email_notifications/",
-   "ts": 1793335204,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Relay v0.1.10: Cross-Platform Support Complete（github）",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xj64cw/relay_v0110_crossplatform_support_completegithub/",
-   "ts": 1793335152,
    "source": "Reddit"
   },
   {
@@ -137,13 +165,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Safety of Cloudflare Access/Zero Trust compared to Tailscale?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xixjnb/safety_of_cloudflare_accesszero_trust_compared_to/",
-   "ts": 1793311099,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Arguably unethical behavior from Cohere",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xix61q/arguably_unethical_behavior_from_cohere/",
@@ -162,13 +183,6 @@
    "title": "W(2;3,21) = 416 - a van der Waerden number conjectured by Kullmann in 2010, now proved with a Lean 4 kernel-checked proof [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xivpue/w2321_416_a_van_der_waerden_number_conjectured_by/",
    "ts": 1793306785,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Self-hosted Family tracking app",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xivaak/selfhosted_family_tracking_app/",
-   "ts": 1793305783,
    "source": "Reddit"
   },
   {
@@ -284,13 +298,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Does a good self hosted recipe manager app exist?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xigi0u/does_a_good_self_hosted_recipe_manager_app_exist/",
-   "ts": 1793270493,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "A (lukewarm) defense of Minsky and Papert [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xig3sd/a_lukewarm_defense_of_minsky_and_papert_d/",
@@ -330,13 +337,6 @@
    "title": "any fun casual podcasts? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xi7cvk/any_fun_casual_podcasts_d/",
    "ts": 1793238938,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Best self-hosted Spotify replacement with music discovery",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xi5a34/best_selfhosted_spotify_replacement_with_music/",
-   "ts": 1793233183,
    "source": "Reddit"
   },
   {
