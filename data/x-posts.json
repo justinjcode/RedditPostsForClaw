@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T02:25:49Z",
+ "generated_at": "2026-10-30T02:37:06Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "excited for @Cloudflare 's debut as a frontier lab #NothingButNET gang, assemble! michelle (@michellechen) hiding amongst the greats. see you at ai.engineer/code/2026 — https://nitter.kareem.one/michellechen/status/2115815269167706302#m",
+   "url": "https://nitter.kareem.one/swyx/status/2115993441004036131#m",
+   "ts": 1793327124,
+   "id": "2115993441004036131#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -994,15 +1003,6 @@
    "url": "https://nitter.kareem.one/ilovecatlovecar/status/2114486175297622414#m",
    "ts": 1792967764,
    "id": "2114486175297622414#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Your coding agent's verbosity is a code review problem. Ben Holmes at AIE NY on scoring redundant tests and noisy explanations. Scaling without Slop at AIE CODE. November 10 to 12, San Francisco. Apply to attend: ai.engineer/code Video",
-   "url": "https://nitter.kareem.one/aiDotEngineer/status/2114446906067935425#m",
-   "ts": 1792958401,
-   "id": "2114446906067935425#m"
   },
   {
    "handle": "realDonaldTrump",
