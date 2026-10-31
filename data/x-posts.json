@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-10-31T18:08:52Z",
+ "generated_at": "2026-10-31T18:18:49Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "PENNSYLVANIA, I am doing a TeleRally, NOW, for Stacy Garrity for Governor, Congressman Ryan Mackenzie (PA-07), Congressman Rob Bresnahan (PA-08), Congressman Scott Perry (PA-10), and Congressman Lloyd Smucker (PA-11) — All have my Complete and Total Endorsement, and will never let you down. They LOVE the Great People of Pennsylvania, and so do I — Answer your phones, and ENJOY! President DONALD J. TRUMP",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2116595204958409175#m",
+   "ts": 1793470595,
+   "id": "2116595204958409175#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1175,15 +1183,6 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2113995381348397516#m",
    "ts": 1792850749,
    "id": "2113995381348397516#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "🚨 FLORIDA! Early Voting, in-person, is UNDERWAY NOW in the Great State of Florida. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT! Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP Find your Voting Location here: swampthevoteusa.com/florida/ Link Florida Florida Department of State, Division of Elections Address 500 South Bronough Street R.A. Gray Building, Room 316 Tallahassee, FL 32399-0250 Phone 850.245.6200 Fax 850.245.6217 Email DivElections@dos. swampthevoteusa.com",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113995379138072781#m",
-   "ts": 1792850749,
-   "id": "2113995379138072781#m"
   },
   {
    "handle": "thsottiaux",
