@@ -1,15 +1,64 @@
 {
- "generated_at": "2026-10-31T00:20:23Z",
+ "generated_at": "2026-10-31T04:10:10Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
   "MachineLearning",
-  "programming"
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "I built a log-based blocker that turns attacks in your web/SSH logs into firewall blocks (Linux, Synology, macOS)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xjzt5a/i_built_a_logbased_blocker_that_turns_attacks_in/",
+   "ts": 1793417365,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xjyo89/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+   "ts": 1793413821,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Local LLM Hosting Harness?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xjxo3v/local_llm_hosting_harness/",
+   "ts": 1793410834,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Qwen3.8-Flash-Next on 2x RTX 5090 with 504 tok/s decode: QEngine 1.3.1 decodes ~1.5-1.9x faster than the next-best engine I've tried (numbers, caveats, and what still bites)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjx0ez/qwen38flashnext_on_2x_rtx_5090_with_504_toks/",
+   "ts": 1793408943,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Fable 5.gguf when?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjwtrv/fable_5gguf_when/",
+   "ts": 1793408426,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Sparrow: an MIT-licensed, self-hosted webhook delivery service in Go. Retries, signing, health tracking and a dashboard, with Postgres as the only dependency",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xjwg3y/sparrow_an_mitlicensed_selfhosted_webhook/",
+   "ts": 1793407361,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Loomkeep: one self-hosted library for everything you watch, read, play and listen to",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xjtxmo/loomkeep_one_selfhosted_library_for_everything/",
+   "ts": 1793400742,
+   "source": "Reddit"
+  },
   {
    "subreddit": "MachineLearning",
    "title": "Paid Research Survey for conference papers [D]",
@@ -116,20 +165,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "PSA: Upgrade Flash Next to DFlash2 if you haven't! +17% on average",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjlgm4/psa_upgrade_flash_next_to_dflash2_if_you_havent/",
-   "ts": 1793380781,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "ISTA DeepSeek-V4.1-Flash-1017 GSQ-RCO quants comparison",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjkjla/ista_deepseekv41flash1017_gsqrco_quants_comparison/",
-   "ts": 1793378781,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "For the people who have used them: Fluxer, Backspace or Spacebar as a Discord alternative?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xjk4bm/for_the_people_who_have_used_them_fluxer/",
@@ -179,13 +214,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Ideas for using an old mobile",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xjg92a/ideas_for_using_an_old_mobile/",
-   "ts": 1793369053,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Introducing DeepSeek-V4.1-Flash-1017 Dynamic v3.1 Unsloth GGUFs",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjfuqh/introducing_deepseekv41flash1017_dynamic_v31/",
@@ -214,13 +242,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "My brain is rotting [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xjbfhb/my_brain_is_rotting_d/",
-   "ts": 1793355105,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "We published the full index of our internal Node stack: 348 npm packages, 257 repos",
    "url": "https://www.reddit.com/r/programming/comments/1xja8om/we_published_the_full_index_of_our_internal_node/",
@@ -232,13 +253,6 @@
    "title": "Before I put email in my homelab: what happens to incoming mail when the house goes offline?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xja4ys/before_i_put_email_in_my_homelab_what_happens_to/",
    "ts": 1793350306,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Alternative to Komga/Kavita for selfhosted manga solution?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xja0oi/alternative_to_komgakavita_for_selfhosted_manga/",
-   "ts": 1793349843,
    "source": "Reddit"
   },
   {
@@ -319,13 +333,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Playmat: a self-hosted Magic: The Gathering server you can play from the browser (Docker Compose, ARM + x86)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xiqq8c/playmat_a_selfhosted_magic_the_gathering_server/",
-   "ts": 1793295599,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "The Last Proof of Human Craft: Forging a Microsoft Edge Full Chain with Logic Bugs Only!",
    "url": "https://www.reddit.com/r/programming/comments/1xiq9r7/the_last_proof_of_human_craft_forging_a_microsoft/",
@@ -337,13 +344,6 @@
    "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
    "url": "https://www.reddit.com/r/programming/comments/1xiq8we/linux_kernel_tcp_flaw_with_98_cvss_score_affects/",
    "ts": 1793294537,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Ope! Won’t procrastinate next time!",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xiphv1/ope_wont_procrastinate_next_time/",
-   "ts": 1793292930,
    "source": "Reddit"
   },
   {
@@ -403,6 +403,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "MachineLearning",
+   "title": "[R] Taking EmbeddingGemma-2 (577M) from Rank #26 to #1 on the MAEB audio benchmark by filling its 256d null space with PCA-reduced intermediate Conformer layers (zero training) [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xho7pr/r_taking_embeddinggemma2_577m_from_rank_26_to_1/",
+   "ts": 1793194441,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "LocalLLaMA",
    "title": "[Bi-Weekly Megathread] Project Showcase",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yg86/biweekly_megathread_project_showcase/",
@@ -414,13 +421,6 @@
    "title": "[D] Self-Promotion Thread",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1wvi1j8/d_selfpromotion_thread/",
    "ts": 1790907305,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1wunvg4/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-   "ts": 1790821809,
    "source": "Reddit"
   },
   {
