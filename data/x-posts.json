@@ -1,19 +1,29 @@
 {
- "generated_at": "2026-10-31T00:16:06Z",
+ "generated_at": "2026-10-31T00:45:23Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed",
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 176,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "6m views / 1.8m MAU",
+   "url": "https://nitter.kareem.one/swyx/status/2116323655294828814#m",
+   "ts": 1793405853,
+   "id": "2116323655294828814#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -823,15 +833,6 @@
    "url": "https://nitter.kareem.one/JChengWSJ/status/2115353122067329302#m",
    "ts": 1793174460,
    "id": "2115353122067329302#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "hello from literally everybody who took psychology 101 in undergrad Matthew Miskiewicz (@MattOfMisk) I honestly don't get the obsession with limit resets — https://nitter.kareem.one/MattOfMisk/status/2115104790262796305#m",
-   "url": "https://nitter.kareem.one/swyx/status/2115341903311024395#m",
-   "ts": 1793171785,
-   "id": "2115341903311024395#m"
   },
   {
    "handle": "thsottiaux",
