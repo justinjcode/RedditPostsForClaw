@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T15:43:15Z",
+ "generated_at": "2026-10-31T15:56:17Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -8,10 +8,11 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@swyx: all instances failed"
+ ],
  "count": 176,
  "items": [
   {
@@ -40,6 +41,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2116551882219090231#m",
    "ts": 1793460267,
    "id": "2116551882219090231#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "In many respects, when I look at the world these days, I divide it between 'China' and 'Everywhere else'. The exception is anything having to do with social media and phones, which seem to have the same effects on society anywhere in the world.",
+   "url": "https://nitter.kareem.one/TheStalwart/status/2116551796340490366#m",
+   "ts": 1793460246,
+   "id": "2116551796340490366#m"
   },
   {
    "handle": "elonmusk",
@@ -1030,15 +1040,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2114800277677092936#m",
    "ts": 1793042651,
    "id": "2114800277677092936#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "One of the big PRC tech firms should hire Wang Zichen as their international PR head Zichen Wang (@ZichenWanghere) Kimi’s Global Moment—and a Very Chinese PR Habit An alleged influencer marketing brief for a Chinese frontier AI model by Moonshot reveals a familiar approach to paid promotion—and an unnecessary geopolitical turn. pekingnology.com/p/kimis-glo… Link Kimi’s Global Moment—and a Very Chinese PR Habit An alleged influencer marketing brief for a Chinese frontier AI model reveals a familiar approach to paid promotion—and an unnecessary geopolitical turn. pekingnology.com — https://nitter.kareem.one/ZichenWanghere/status/2114312629015777727#m",
-   "url": "https://nitter.kareem.one/niubi/status/2114774931456110898#m",
-   "ts": 1793036608,
-   "id": "2114774931456110898#m"
   },
   {
    "handle": "thsottiaux",
