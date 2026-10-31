@@ -1,15 +1,57 @@
 {
- "generated_at": "2026-10-31T12:11:11Z",
+ "generated_at": "2026-10-31T14:08:21Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Channel-surf your own movie and TV library like it's 1995 (free Kodi add-on)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xkb4dn/channelsurf_your_own_movie_and_tv_library_like/",
+   "ts": 1793455567,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Just finished my humble MoE-Centric Workstation",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkau4g/just_finished_my_humble_moecentric_workstation/",
+   "ts": 1793454867,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Listune: Simple Self Hosted Spotify Alternative (Google SSO, S3, Google Drive, Soulseek Integration)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xkaobr/listune_simple_self_hosted_spotify_alternative/",
+   "ts": 1793454442,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Beating the compiler at signed 32-bit division",
+   "url": "https://www.reddit.com/r/programming/comments/1xka27q/beating_the_compiler_at_signed_32bit_division/",
+   "ts": 1793452828,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "I miss API in Yamtrack so bad..",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xk9uz5/i_miss_api_in_yamtrack_so_bad/",
+   "ts": 1793452310,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Betelgeuse: Running Qwen 3.8 Flash Next at 22 tok/s sustained (spiking to 48 tok/s) on an RTX 3060 12GB + 16GB DDR4 RAM 100% bit-exact!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk8s6z/betelgeuse_running_qwen_38_flash_next_at_22_toks/",
+   "ts": 1793449202,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Looking for a reliable, low-cost .be registrar for self-hosted services",
@@ -19,23 +61,16 @@
   },
   {
    "subreddit": "selfhosted",
+   "title": "Is it possible to have an AI agent safely help me with my home network?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xk836r/is_it_possible_to_have_an_ai_agent_safely_help_me/",
+   "ts": 1793447063,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
    "title": "Shoutout to TypeType",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xk7wst/shoutout_to_typetype/",
    "ts": 1793446456,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "How to best scan docker compose files?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xk7ghp/how_to_best_scan_docker_compose_files/",
-   "ts": 1793444935,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Noob question: my servers network keeps stuttering",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xk6rd0/noob_question_my_servers_network_keeps_stuttering/",
-   "ts": 1793442542,
    "source": "Reddit"
   },
   {
@@ -57,13 +92,6 @@
    "title": "microsoft/Mage-VL-Cowork · Hugging Face",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk6blw/microsoftmagevlcowork_hugging_face/",
    "ts": 1793440967,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Get updates for new music releases",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xk4gis/get_updates_for_new_music_releases/",
-   "ts": 1793433878,
    "source": "Reddit"
   },
   {
@@ -172,13 +200,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "A TUI to get into self-hosting",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xjo1xq/a_tui_to_get_into_selfhosting/",
-   "ts": 1793386581,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Multi-Token Prediction Done Right [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xjnz40/multitoken_prediction_done_right_r/",
@@ -208,13 +229,6 @@
   },
   {
    "subreddit": "programming",
-   "title": "I miss the part of programming where I figure it out myself",
-   "url": "https://www.reddit.com/r/programming/comments/1xjjr9z/i_miss_the_part_of_programming_where_i_figure_it/",
-   "ts": 1793377038,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
    "title": "Mastering CSS Shapes with border-shape for Dynamic Designs",
    "url": "https://www.reddit.com/r/programming/comments/1xjj2n5/mastering_css_shapes_with_bordershape_for_dynamic/",
    "ts": 1793375555,
@@ -239,13 +253,6 @@
    "title": "Another reason to own your own compute. Your account may get banned in a sneaky update.",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjgfuv/another_reason_to_own_your_own_compute_your/",
    "ts": 1793369489,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Introducing DeepSeek-V4.1-Flash-1017 Dynamic v3.1 Unsloth GGUFs",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjfuqh/introducing_deepseekv41flash1017_dynamic_v31/",
-   "ts": 1793368081,
    "source": "Reddit"
   },
   {
@@ -288,13 +295,6 @@
    "title": "Experimenting with Bindless Textures in WebGPU",
    "url": "https://www.reddit.com/r/programming/comments/1xj7d21/experimenting_with_bindless_textures_in_webgpu/",
    "ts": 1793339560,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Sam Altman: “Local inference is a terrible allocation of scarce resources”",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xizbq1/sam_altman_local_inference_is_a_terrible/",
-   "ts": 1793315512,
    "source": "Reddit"
   },
   {
