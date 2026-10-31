@@ -1,19 +1,29 @@
 {
- "generated_at": "2026-10-31T19:14:03Z",
+ "generated_at": "2026-10-31T19:29:00Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
-  "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@simonw: all instances failed",
+  "@swyx: all instances failed",
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 176,
  "items": [
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "TO THE GREAT PEOPLE OF FLORIDA, I will doing a TeleRally, LIVE, at 3:30pm ET — Answer your phones, and ENJOY! President DONALD J. TRUMP",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2116610185112485904#m",
+   "ts": 1793474167,
+   "id": "2116610185112485904#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -99,15 +109,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Absolutely X Freeze (@XFreeze) I really don't know which lunatic decided that a White kid born in 2005 owes the world an apology for something that happened 300 years ago Slavery wasn't some White invention. Every civilization did it. Africans sold other Africans. The Arab slave trade ran for over a thousand years and enslaved millions. Nobody talks about that And guess who actually ended it? The West. Britain banned the trade and literally sent its navy out to hunt down slave ships. That part somehow never makes it into the lecture Meanwhile, slavery still exists today in parts of Africa and the Middle East. Mauritania only made it a crime in 2007. You will never see the outrage or the protests... Nothing but silence But in the West, people are told to feel guilty for being born. Criminals get excused because \"the system made him do it.\" Repeat offenders get arrested again and again and walk right back out. The victim gets forgotten and the criminal gets treated like the victim Seriously, how did it get this bad? The same civilization that built the modern world and ended slavery is now tearing itself apart and calling it morality You have no reason to feel guilty for things that happened centuries ago. You don't even remember what you ate last week This isn't compassion, it's insanity This is literally civilizational suicide — https://nitter.kareem.one/XFreeze/status/2116554537318350945#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2116582992323752147#m",
-   "ts": 1793467684,
-   "id": "2116582992323752147#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "I’m currently early voting. The line wraps through the building and pushes outside. It’s also raining outside. Staying in line.",
    "url": "https://nitter.kareem.one/the_jefferymead/status/2116580530506666140#m",
    "ts": 1793467097,
@@ -130,6 +131,15 @@
    "url": "https://nitter.kareem.one/morme1/status/2116568879615160462#m",
    "ts": 1793464319,
    "id": "2116568879615160462#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "\"He's a con man. He's a deceiver.\" Texas Attorney General Ken Paxton takes aim at Democratic challenger James Talarico during an interview with @kayleighmcenany on @SatAmericaFNC . Paxton accuses Talarico of misleading Texas voters about his political beliefs, claiming he knows his actual positions would hurt his chances of winning. \"He’s lying to Texans about his real views,\" Paxton says. Stay up to date with the latest headlines and breaking news — download the FOX News app: foxnews.onelink.me/xLDS/z2jy… Video",
+   "url": "https://nitter.kareem.one/FoxNews/status/2116561740896801195#m",
+   "ts": 1793462617,
+   "id": "2116561740896801195#m"
   },
   {
    "handle": "elonmusk",
@@ -180,15 +190,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Launching super intelligence satellites into deep space with a mass driver on the Moon can achieve >>petawatt/year capability, which would far exceed the best case value of Earth’s economy",
-   "url": "https://nitter.kareem.one/elonmusk/status/2116526323938328597#m",
-   "ts": 1793454173,
-   "id": "2116526323938328597#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "\"I'm sorry Anakin. The Tusken Raiders that killed your mother aren't fit to stand trial. Their midichlorian counts are too low.\"",
    "url": "https://nitter.kareem.one/RealDixonUranus/status/2116409050267373991#m",
    "ts": 1793426213,
@@ -211,6 +212,15 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2116405414921384099#m",
    "ts": 1793425346,
    "id": "2116405414921384099#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Ken Paxton has been the most effective record of any Attorney General in America. James Talarico, meanwhile, has spent millions of dollars trying convince people that he's normal. Video",
+   "url": "https://nitter.kareem.one/realBrandonGill/status/2116355224667570300#m",
+   "ts": 1793413380,
+   "id": "2116355224667570300#m"
   },
   {
    "handle": "elonmusk",
@@ -1174,15 +1184,6 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2113995730813657107#m",
    "ts": 1792850833,
    "id": "2113995730813657107#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "🚨 MICHIGAN! Early Voting, in-person, is UNDERWAY NOW in the Great State of Michigan. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT! Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Michigan, you can cast your early Vote, in-person, all the way through November 1st. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP Find your Voting Location here: swampthevoteusa.com/michigan… Link MICHIGAN: MAKE A PLAN TO VOTE! Election Day in Michigan is almost here, and it’s time to make your voice heard. Make a plan to vote! swampthevoteusa.com",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2113995728611598401#m",
-   "ts": 1792850832,
-   "id": "2113995728611598401#m"
   },
   {
    "handle": "thsottiaux",
