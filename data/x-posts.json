@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T14:34:34Z",
+ "generated_at": "2026-10-31T14:44:01Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "vittorio (@IterIntellectus) south africa went from a first world country with nuclear power and one of the largest railway systems in the world to a third world country in just 30 years progress is not a guarantee. decay is the natural state of things — https://nitter.kareem.one/IterIntellectus/status/2116507734430367782#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2116541008208884211#m",
+   "ts": 1793457674,
+   "id": "2116541008208884211#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -265,15 +274,6 @@
    "url": "https://nitter.kareem.one/bcherny/status/2116222842413142111#m",
    "ts": 1793381817,
    "id": "2116222842413142111#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Our TPUs just phoned home... from space. ICYMI, on October 1, we sent four TPUs into orbit to test whether our AI hardware could operate in space. The initial goal was to see if our chips could turn on, process a prompt, and transmit a response back to Earth. This week, we got our answer. ✨ This milestone brings us one step closer to understanding if space-based compute is possible. We’re sending two more TPU-equipped satellites to orbit in 2027 for our next milestone. Watch this space 👀 and learn more about the first milestone of our long-term moonshot with Project Suncatcher ↓ Video",
-   "url": "https://nitter.kareem.one/NewsFromGoogle/status/2116219345215074538#m",
-   "ts": 1793380984,
-   "id": "2116219345215074538#m"
   },
   {
    "handle": "elonmusk",
