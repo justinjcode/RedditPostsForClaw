@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-10-31T17:43:27Z",
+ "generated_at": "2026-10-31T17:53:25Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,7 +10,9 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 176,
  "items": [
   {
@@ -114,6 +115,15 @@
    "id": "2116547860716212313#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Chamath Palihapitiya: \"Who can you trust to have some super intelligence?\" \"The only person that we can trust is Elon [Musk]… I feel like he's the least corruptible.\" Video",
+   "url": "https://nitter.kareem.one/ResisttheMS/status/2116546989097898187#m",
+   "ts": 1793459100,
+   "id": "2116546989097898187#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -121,24 +131,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2116544052267205093#m",
    "ts": 1793458400,
    "id": "2116544052267205093#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Well said Kemi Badenoch (@KemiBadenoch) Slavery was an evil in which people from every continent and region participated. We should be honest about the whole history, not select the parts that are politically convenient today, especially given Britain's leading role in ending the transatlantic slave trade. If Caribbean countries are asking Britain for a formal apology for Britain’s role in the transatlantic slave trade, will they also be asking the same of the descendants of African kingdoms, rulers and merchants who captured, sold and profited from the trade? On demands for reparations, whether through cash or debt relief, we have been down this track before. Twenty-five years ago, Jubilee 2000, Drop the Debt and Make Poverty History argued that cancelling the debts of poorer countries would give them a fresh start. More than $100 billion of debt was eventually written off, but many of those countries have since built up even bigger debts. Labour are already spending too much on Britain's welfare state, now is not the time for Andy Burnham to be providing global welfare. There is no reason British taxpayers today should be held financially responsible for things that happened generations before any of us were born. And I have even less patience for political elites in commonwealth countries who don’t know how to make their own citizens prosperous now looking for another opportunity to blame Britain. As Prime Minister, Andy Burnham should be Britain’s greatest defender. Inste",
-   "url": "https://nitter.kareem.one/elonmusk/status/2116543047882174662#m",
-   "ts": 1793458160,
-   "id": "2116543047882174662#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon Musk answers the most ambitious question: “What do we do after a Terafab?” How do we achieve a PETAWATT-scale future built on the Moon? The vision is to use Tesla Optimus robots, humans and local lunar manufacturing to build massive compute infrastructure, then launch it into deep space using electromagnetic mass drivers Because the Moon has no atmosphere and only one-sixth of Earth’s gravity, electromagnetic mass drivers could accelerate payloads to escape velocity using electricity instead of conventional chemical rocket propulsion So no combustion burning rocket fuel is required for launch from the lunar surface That opens the door to scaling compute by another THREE orders of magnitude: Terawatt → Petawatt A staggering 1,000× increase in scale Video Elon Musk (@elonmusk) Launching super intelligence satellites into deep space with a mass driver on the Moon can achieve >>petawatt/year capability, which would far exceed the best case value of Earth’s economy — https://nitter.kareem.one/elonmusk/status/2116526323938328597#m",
-   "url": "https://nitter.kareem.one/XFreeze/status/2116535407093703056#m",
-   "ts": 1793456339,
-   "id": "2116535407093703056#m"
   },
   {
    "handle": "swyx",
@@ -157,6 +149,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2116526323938328597#m",
    "ts": 1793454173,
    "id": "2116526323938328597#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "March 2017. South Australia was still getting over a statewide blackout, and someone asked on Twitter whether Tesla could guarantee 100 MW in 100 days. Elon's answer, word for word: \"Tesla will get the system installed and working 100 days from contract signature or it is free. That serious enough for you?\" As a skipper I've learned that in a storm, promises mean nothing and only what works counts. Elon put a price on his promise. The clock started on Sept 29, 2017, when the grid connection agreement was signed. On Dec 1 the Hornsdale Power Reserve was feeding the grid. That's 63 days, with 37 to spare, and it was the world's largest lithium-ion battery (100 MW / 129 MWh). On launch night Elon said: \"Talk is cheap. Action is difficult.\" Now the part that gets me. In Q3 2026 alone, Tesla deployed 13.7 GWh of energy storage. That's about 106 Hornsdales in one quarter, more than one every single day. What made world headlines in 2017 is now a daily routine. Megapack factories: Lathrop 40 GWh, Shanghai 20 GWh, and Megafactory Texas has started production with a planned 50 GWh a year. This was never really about one battery. It's the master plan in action: solar plus storage plus electric transport, step by step until it's simply normal. In Elon's words that night: \"Earth is itself a satellite. It's a satellite of the sun.\" And: \"the faster we get there, the better.\" Video",
+   "url": "https://nitter.kareem.one/TheCaptainEli/status/2116406948815867927#m",
+   "ts": 1793425712,
+   "id": "2116406948815867927#m"
   },
   {
    "handle": "thsottiaux",
