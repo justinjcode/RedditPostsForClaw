@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T13:56:04Z",
+ "generated_at": "2026-10-31T14:05:37Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -7,14 +7,22 @@
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@simonw: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Talarico wants to open the borders and legalize everyone to gain a permanent majority to end democracy in America America (@america) Democrat Nominee for U.S. Senate in Texas James Talarico calls for “a pathway for citizenship” for illegal aliens. They want to make them their new voters. Video — https://nitter.kareem.one/america/status/2116524089250881807#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2116530550831780131#m",
+   "ts": 1793455181,
+   "id": "2116530550831780131#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -158,15 +166,6 @@
    "url": "https://nitter.kareem.one/gailalfaratx/status/2116294330638074103#m",
    "ts": 1793398861,
    "id": "2116294330638074103#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "PS - we’re hiring exceptional people if you want to come join the SpaceXSI rocket ship Shaun Maguire (@shaunmmaguire) Article People don't understand SpaceX Caveats: this is not investment advice. Sequoia Capital has a large position in SpaceX so I'm extremely biased. Also, Past performance is not indicative of future results. After SpaceX's earnings call — https://nitter.kareem.one/shaunmmaguire/status/2116260821080973679#m",
-   "url": "https://nitter.kareem.one/forwarddeploy/status/2116283109478137946#m",
-   "ts": 1793396186,
-   "id": "2116283109478137946#m"
   },
   {
    "handle": "elonmusk",
