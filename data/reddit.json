@@ -1,20 +1,20 @@
 {
- "generated_at": "2026-10-31T04:10:10Z",
+ "generated_at": "2026-10-31T06:12:32Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
   {
    "subreddit": "selfhosted",
-   "title": "I built a log-based blocker that turns attacks in your web/SSH logs into firewall blocks (Linux, Synology, macOS)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xjzt5a/i_built_a_logbased_blocker_that_turns_attacks_in/",
-   "ts": 1793417365,
+   "title": "Connect a CloudFlare tunnel to free version of ServBay on Mac",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xk2eeh/connect_a_cloudflare_tunnel_to_free_version_of/",
+   "ts": 1793426116,
    "source": "Reddit"
   },
   {
@@ -159,13 +159,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Drive.py v0.996 - Find duplicate files and manage disks across your connected and disconnected drives. Halloween update",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xjlgs4/drivepy_v0996_find_duplicate_files_and_manage/",
-   "ts": 1793380788,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "For the people who have used them: Fluxer, Backspace or Spacebar as a Discord alternative?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xjk4bm/for_the_people_who_have_used_them_fluxer/",
    "ts": 1793377840,
@@ -204,6 +197,13 @@
    "title": "We’re MOSS, the team behind MOSS-Image, MOSS-TTS, and more — Ask Us Anything!",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjhpn9/were_moss_the_team_behind_mossimage_mosstts_and/",
    "ts": 1793372455,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "best self-hosted music discovery for mpd?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xjhm57/best_selfhosted_music_discovery_for_mpd/",
+   "ts": 1793372240,
    "source": "Reddit"
   },
   {
