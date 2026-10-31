@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T21:25:14Z",
+ "generated_at": "2026-10-31T21:34:07Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "join me all the way on the light side guys low effort + critique loop > superultramaxhighwhatever (for the throughput-constrained; see swyxio/skills/babysit-runs) Theo - t3.gg (@theo) Julius convinced me to move from extra high to high on Opus 5.5 a week or two ago. He was right. This is better almost all of the time. — https://nitter.kareem.one/theo/status/2116420089411145913#m",
+   "url": "https://nitter.kareem.one/swyx/status/2116642586387730593#m",
+   "ts": 1793481892,
+   "id": "2116642586387730593#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -85,6 +94,15 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2116624317857542192#m",
    "ts": 1793477537,
    "id": "2116624317857542192#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Men are twice as likely to ace SAT math, yet women are twice as likely to get in to MIT. Put differently, 1 in 3 men who worked their ass off to get into MIT lost their seat because they were born the wrong gender. Anish Koka, MD (@anish_koka) 17,000 men apply to MIT 8900 women apply to MIT 600 men were accepted 612 women were accepted If we assume male and female applicants to MIT are roughly the same, the probability this happens by chance, let alone every year for a while The probability of a sex blind admission process creating this result is 1 in 4 × 10³¹ — https://nitter.kareem.one/anish_koka/status/2116162795309846718#m",
+   "url": "https://nitter.kareem.one/profstonge/status/2116623747306414310#m",
+   "ts": 1793477400,
+   "id": "2116623747306414310#m"
   },
   {
    "handle": "elonmusk",
@@ -184,15 +202,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2116590025135829425#m",
    "ts": 1793469360,
    "id": "2116590025135829425#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I’m currently early voting. The line wraps through the building and pushes outside. It’s also raining outside. Staying in line.",
-   "url": "https://nitter.kareem.one/the_jefferymead/status/2116580530506666140#m",
-   "ts": 1793467097,
-   "id": "2116580530506666140#m"
   },
   {
    "handle": "elonmusk",
@@ -609,15 +618,6 @@
    "id": "2115858560823538152#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "fuck my actual life himanshu (@himanshustwts) anthropic is generational wealth creation machine and its more interesting even 2026 joiners are getting 8-digit payouts — https://nitter.kareem.one/himanshustwts/status/2115711258196574210#m",
-   "url": "https://nitter.kareem.one/swyx/status/2115858499238498456#m",
-   "ts": 1793294951,
-   "id": "2115858499238498456#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -778,15 +778,6 @@
    "url": "https://nitter.kareem.one/liangxiaoxiao72/status/2115785517878952031#m",
    "ts": 1793277551,
    "id": "2115785517878952031#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "we sat down with @swyx to discuss how the agentic database space evolving also covered: ◆ developer marketing & memes ◆ product-led sales ◆ why we acquired Turso ◆ early days and Hacker News watch the full interview on @latentspacepod : inv.kareem.one/watch?v=zHG6sAss… Link Why Agents Love Supabase — with Paul Copplestone and Ant Wilson Why do AI agents keep choosing Supabase—and what changes when the a... youtube.com",
-   "url": "https://nitter.kareem.one/kiwicopple/status/2115774790682448310#m",
-   "ts": 1793274993,
-   "id": "2115774790682448310#m"
   },
   {
    "handle": "TheRundownAI",
@@ -1192,6 +1183,15 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2113838156193894447#m",
    "ts": 1792813264,
    "id": "2113838156193894447#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "SF2M is back. Join us on November 14 at Vercel's HQ in downtown San Francisco to hear from engineering leaders on the front lines of AI-driven software development: - @FlyaKiet (Co-Founder & CEO, @superset_sh ) - @dexhorthy (Co-Founder & CEO, @humanlayer_dev ) - @MelkeyDev (Staff SWE, @vercel ) We're excited to be partnering with @aiDotEngineer for this special AIE Code Summit edition of the SF Software Factory Meetup. 🔗 RSVP here: luma.com/swmsjyp2",
+   "url": "https://nitter.kareem.one/sazabi/status/2113744876152279550#m",
+   "ts": 1792791024,
+   "id": "2113744876152279550#m"
   },
   {
    "handle": "Lingling_Wei",
