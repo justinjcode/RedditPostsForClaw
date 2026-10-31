@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T03:53:42Z",
+ "generated_at": "2026-10-31T04:06:46Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "everything is fine why are you asking",
+   "url": "https://nitter.kareem.one/swyx/status/2116379186831257954#m",
+   "ts": 1793419093,
+   "id": "2116379186831257954#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -688,15 +697,6 @@
    "url": "https://nitter.kareem.one/sinoautoman/status/2115649133554122782#m",
    "ts": 1793245034,
    "id": "2115649133554122782#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Gemini #1 on AAv5??? this is making me open up @antigravity for the first time in a long time. i’m getting an early review, will report back soon. if google actually pulls this off it is officially comeback season with Meta, Grok and now GDM being cool again. @saranormous talked about model neurodiversity last year. we have roughly 2x more frontier labs than when she was last on the aie stage. absolutely bizarre counter example to the bitter lesson. Artificial Analysis (@ArtificialAnlys) Google’s Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5, and second only to Claude Opus 5.5 on the Artificial Analysis Coding Agent Index Gemini 4 Carbon scores 59 on Intelligence Index v5, driven by leading performance in complex reasoning, knowledge, and scientific tasks. It also has large gains in coding and knowledge work, particularly when compared to other Gemini models, but it is not leading in all these areas. As with launch of Gemini 4 Argon, Gemini 4 Carbon is being rolled out to selected users and is not yet publicly available. Google is offering a 50% launch discount, with no confirmed end date. All our charts and figures use standard pricing for both Gemini 4 Carbon and Argon. Key results for Gemini 4 Carbon with high reasoning: ➤ Gemini 4 Carbon leads the Intelligence Index v5, with the #1 score in 4 of the 9 Index evaluations: HLE-Diamond, Terminal-Bench-Science, AA-Omniscience, AutomationBench-AA. Carbon makes substantial gains elsewhere but is ",
-   "url": "https://nitter.kareem.one/swyx/status/2115624308567658713#m",
-   "ts": 1793239116,
-   "id": "2115624308567658713#m"
   },
   {
    "handle": "thsottiaux",
