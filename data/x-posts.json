@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T14:55:49Z",
+ "generated_at": "2026-10-31T15:05:54Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "direct clip: inv.kareem.one/watch?v=MRQTlwcW… Link How Anthropic ships the #1 LLM in the World — with Katelyn Lesse and... An agent’s sandbox can die without taking the whole agent with it. ... youtube.com",
+   "url": "https://nitter.kareem.one/swyx/status/2116544052267205093#m",
+   "ts": 1793458400,
+   "id": "2116544052267205093#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -31,6 +40,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2116541008208884211#m",
    "ts": 1793457674,
    "id": "2116541008208884211#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Elon Musk answers the most ambitious question: “What do we do after a Terafab?” How do we achieve a PETAWATT-scale future built on the Moon? The vision is to use Tesla Optimus robots, humans and local lunar manufacturing to build massive compute infrastructure, then launch it into deep space using electromagnetic mass drivers Because the Moon has no atmosphere and only one-sixth of Earth’s gravity, electromagnetic mass drivers could accelerate payloads to escape velocity using electricity instead of conventional chemical rocket propulsion So no combustion burning rocket fuel is required for launch from the lunar surface That opens the door to scaling compute by another THREE orders of magnitude: Terawatt → Petawatt A staggering 1,000× increase in scale Video Elon Musk (@elonmusk) Launching super intelligence satellites into deep space with a mass driver on the Moon can achieve >>petawatt/year capability, which would far exceed the best case value of Earth’s economy — https://nitter.kareem.one/elonmusk/status/2116526323938328597#m",
+   "url": "https://nitter.kareem.one/XFreeze/status/2116535407093703056#m",
+   "ts": 1793456339,
+   "id": "2116535407093703056#m"
   },
   {
    "handle": "swyx",
@@ -112,15 +130,6 @@
    "url": "https://nitter.kareem.one/robotaxi/status/2116398208725483797#m",
    "ts": 1793423628,
    "id": "2116398208725483797#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "community note mfs trying to quote my own show notes back to me, bitch dont cite the ancient magic, i was there when it was written Spooky Space 👻 AI News, Views, & Ghosts (@latentspacepod) How Anthropic ships Claude with Claude latent.space/p/opus55/ Opus 5.5 is the #1 LLM in the world right now. We go behind the scenes of the launch, with @katelyn_lesse and @angjiang , heads of Eng and Product behind the platform used to build everything from the first party harnesses like Code/Tag/Duet and by >50% of Anthropic's top customers! Link How Anthropic ships Claude with Claude: Separating the Brain from the Hands — Latent Space Katelyn Lesse and Angela Jiang on Opus 5.5, the Claude Platform, and the engineering behind AI agents. latent.space — https://nitter.kareem.one/latentspacepod/status/2115156080309489736#m",
-   "url": "https://nitter.kareem.one/swyx/status/2116372094527443439#m",
-   "ts": 1793417402,
-   "id": "2116372094527443439#m"
   },
   {
    "handle": "elonmusk",
@@ -265,15 +274,6 @@
    "url": "https://nitter.kareem.one/bcherny/status/2116222842413142111#m",
    "ts": 1793381817,
    "id": "2116222842413142111#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "A new poll has found that Republican Ken Paxton has moved past Democrat James Talarico as the race for U.S. Senate enters its final days. fox7austin.com/news/paxton-s… Link Paxton slips past Talarico in latest poll as Senate race enters final days A new poll has found that Republican Ken Paxton has moved past Democrat James Talarico as the race for U.S. Senate enters its final days. fox7austin.com",
-   "url": "https://nitter.kareem.one/fox7austin/status/2116213584132792721#m",
-   "ts": 1793379610,
-   "id": "2116213584132792721#m"
   },
   {
    "handle": "swyx",
