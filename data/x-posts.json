@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T03:34:51Z",
+ "generated_at": "2026-10-31T03:42:53Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "community note mfs trying to quote my own show notes back to me, bitch dont cite the ancient magic, i was there when it was written Spooky Space 👻 AI News, Views, & Ghosts (@latentspacepod) How Anthropic ships Claude with Claude latent.space/p/opus55/ Opus 5.5 is the #1 LLM in the world right now. We go behind the scenes of the launch, with @katelyn_lesse and @angjiang , heads of Eng and Product behind the platform used to build everything from the first party harnesses like Code/Tag/Duet and by >50% of Anthropic's top customers! Link How Anthropic ships Claude with Claude: Separating the Brain from the Hands — Latent Space Katelyn Lesse and Angela Jiang on Opus 5.5, the Claude Platform, and the engineering behind AI agents. latent.space — https://nitter.kareem.one/latentspacepod/status/2115156080309489736#m",
+   "url": "https://nitter.kareem.one/swyx/status/2116372094527443439#m",
+   "ts": 1793417402,
+   "id": "2116372094527443439#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -742,15 +751,6 @@
    "url": "https://nitter.kareem.one/sobel_mark/status/2115521750587064411#m",
    "ts": 1793214664,
    "id": "2115521750587064411#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "introducing prism, the world’s first speech-to-speech model you can’t tell from a human in conversation prism has: > 300ms response time, 4x faster than OpenAI GPT-Live > outperforms every other s2s model on intelligence (with NO reasoning) > the first s2s model customizable through reinforcement learning we’re a team of 35 with $35M in funding, and we’re unlocking s2s model adoption faster than openai, google, and x. the first 100 people to sign up here get 1 month free: rime.ai/prism?utm_campaign=p… Video",
-   "url": "https://nitter.kareem.one/lilyjclifford/status/2115521147890520503#m",
-   "ts": 1793214520,
-   "id": "2115521147890520503#m"
   },
   {
    "handle": "TheRundownAI",
