@@ -1,20 +1,104 @@
 {
- "generated_at": "2026-10-31T06:12:32Z",
+ "generated_at": "2026-10-31T12:11:11Z",
  "count": 60,
  "subreddits_ok": [
+  "LocalLLaMA",
   "MachineLearning",
-  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
   {
    "subreddit": "selfhosted",
-   "title": "Connect a CloudFlare tunnel to free version of ServBay on Mac",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xk2eeh/connect_a_cloudflare_tunnel_to_free_version_of/",
-   "ts": 1793426116,
+   "title": "Looking for a reliable, low-cost .be registrar for self-hosted services",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xk8aeq/looking_for_a_reliable_lowcost_be_registrar_for/",
+   "ts": 1793447735,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Shoutout to TypeType",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xk7wst/shoutout_to_typetype/",
+   "ts": 1793446456,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "How to best scan docker compose files?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xk7ghp/how_to_best_scan_docker_compose_files/",
+   "ts": 1793444935,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Noob question: my servers network keeps stuttering",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xk6rd0/noob_question_my_servers_network_keeps_stuttering/",
+   "ts": 1793442542,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "plMail Update: PGP, S/MIME, JMAP, POP3, CardDAV Contacts and more",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xk6o7g/plmail_update_pgp_smime_jmap_pop3_carddav/",
+   "ts": 1793442231,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Lightest way to get a few thousand pdf into markdown on a mini PC with no GPU?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xk6djq/lightest_way_to_get_a_few_thousand_pdf_into/",
+   "ts": 1793441165,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "microsoft/Mage-VL-Cowork · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk6blw/microsoftmagevlcowork_hugging_face/",
+   "ts": 1793440967,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Get updates for new music releases",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xk4gis/get_updates_for_new_music_releases/",
+   "ts": 1793433878,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Foldergram v1.3.0: self-hosted photo/video gallery, now with carousels and folder sharing",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xk3q86/foldergram_v130_selfhosted_photovideo_gallery_now/",
+   "ts": 1793431038,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Ubuntu kernel CVE-2026-98432 (CVSS 9.8): no fixed kernel yet for 22.04 / 24.04 / 26.04. What are you doing in the meantime?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xk2qbb/ubuntu_kernel_cve202698432_cvss_98_no_fixed/",
+   "ts": 1793427331,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Lawyer with too many GPUs, part 3: DeepSeek-V4.1-Flash on 2x DGX Spark + an old 3090 box. 2,600+ tok/s prefill to 256K, 322 tok/s structured output, full stack and raw data published",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk20x5/lawyer_with_too_many_gpus_part_3_deepseekv41flash/",
+   "ts": 1793424724,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Koboldcpp v1.124 released",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk1vyk/koboldcpp_v1124_released/",
+   "ts": 1793424246,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "First memory, storage, and now PCBsss: AI Boom Triggers Massive PCB Shortage With Orders Booked Until 2030, Posing Big Challenges For Consumer Hardware Vendors",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk17m0/first_memory_storage_and_now_pcbsss_ai_boom/",
+   "ts": 1793421910,
    "source": "Reddit"
   },
   {
@@ -46,20 +130,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Sparrow: an MIT-licensed, self-hosted webhook delivery service in Go. Retries, signing, health tracking and a dashboard, with Postgres as the only dependency",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xjwg3y/sparrow_an_mitlicensed_selfhosted_webhook/",
-   "ts": 1793407361,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Loomkeep: one self-hosted library for everything you watch, read, play and listen to",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xjtxmo/loomkeep_one_selfhosted_library_for_everything/",
-   "ts": 1793400742,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Paid Research Survey for conference papers [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xjtpio/paid_research_survey_for_conference_papers_d/",
@@ -85,20 +155,6 @@
    "title": "AMD reportedly plans another Radeon GPU price increase in November",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjrery/amd_reportedly_plans_another_radeon_gpu_price/",
    "ts": 1793394387,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Local ai made it to space 🚀",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjrdji/local_ai_made_it_to_space/",
-   "ts": 1793394303,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Qwen27b vs GPT 6",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjpfvi/qwen27b_vs_gpt_6/",
-   "ts": 1793389797,
    "source": "Reddit"
   },
   {
@@ -144,24 +200,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "How to orchestrate backups of docker bind mounts",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xjm2vi/how_to_orchestrate_backups_of_docker_bind_mounts/",
-   "ts": 1793382135,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Do you have any opinions that generally go against /r/LocalLLaMa's hivemind?",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjltn3/do_you_have_any_opinions_that_generally_go/",
    "ts": 1793381562,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "For the people who have used them: Fluxer, Backspace or Spacebar as a Discord alternative?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xjk4bm/for_the_people_who_have_used_them_fluxer/",
-   "ts": 1793377840,
    "source": "Reddit"
   },
   {
@@ -187,23 +229,9 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "Copium Prediction: Google and other major labs will drop new local models over the next few days so they can lead on benchmarks until Qwen 4 sweeps them next week.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjigxg/copium_prediction_google_and_other_major_labs/",
-   "ts": 1793374186,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "We’re MOSS, the team behind MOSS-Image, MOSS-TTS, and more — Ask Us Anything!",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjhpn9/were_moss_the_team_behind_mossimage_mosstts_and/",
    "ts": 1793372455,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "best self-hosted music discovery for mpd?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xjhm57/best_selfhosted_music_discovery_for_mpd/",
-   "ts": 1793372240,
    "source": "Reddit"
   },
   {
@@ -228,13 +256,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Gemma-4-31B-Humanlike-Chat: 2.0's improved human voice on official Gemma 4 31B",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjdjy0/gemma431bhumanlikechat_20s_improved_human_voice/",
-   "ts": 1793361950,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "What happens to your selfhosted data when you're gone?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xjcv7t/what_happens_to_your_selfhosted_data_when_youre/",
@@ -246,13 +267,6 @@
    "title": "We published the full index of our internal Node stack: 348 npm packages, 257 repos",
    "url": "https://www.reddit.com/r/programming/comments/1xja8om/we_published_the_full_index_of_our_internal_node/",
    "ts": 1793350717,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Before I put email in my homelab: what happens to incoming mail when the house goes offline?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xja4ys/before_i_put_email_in_my_homelab_what_happens_to/",
-   "ts": 1793350306,
    "source": "Reddit"
   },
   {
@@ -277,13 +291,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "10GbE Mini Rack & Work Setup",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xj35n6/10gbe_mini_rack_work_setup/",
-   "ts": 1793326039,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Sam Altman: “Local inference is a terrible allocation of scarce resources”",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xizbq1/sam_altman_local_inference_is_a_terrible/",
@@ -302,13 +309,6 @@
    "title": "Arc: a ~70 MB streaming speech model that transcribes links names and metadata to your own list as they're spoken, with no second model [p]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xiyuoj/arc_a_70_mb_streaming_speech_model_that/",
    "ts": 1793314317,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "SparkyFitness v1.10.0 - Supports Android watch App - A Self-Hosted alternative for MyFitnessPal, Flo, Hevy, Shotsy & more",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xiydnt/sparkyfitness_v1100_supports_android_watch_app_a/",
-   "ts": 1793313111,
    "source": "Reddit"
   },
   {
