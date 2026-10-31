@@ -1,20 +1,27 @@
 {
- "generated_at": "2026-10-30T22:08:10Z",
+ "generated_at": "2026-10-31T00:20:23Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
-  "selfhosted"
+  "MachineLearning",
+  "programming"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
   {
+   "subreddit": "MachineLearning",
+   "title": "Paid Research Survey for conference papers [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xjtpio/paid_research_survey_for_conference_papers_d/",
+   "ts": 1793400147,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "programming",
-   "title": "How many people can an app handle at once?",
-   "url": "https://www.reddit.com/r/programming/comments/1xjsd44/how_many_people_can_an_app_handle_at_once/",
-   "ts": 1793396736,
+   "title": "How hard is it to check for whitespace?",
+   "url": "https://www.reddit.com/r/programming/comments/1xjtach/how_hard_is_it_to_check_for_whitespace/",
+   "ts": 1793399073,
    "source": "Reddit"
   },
   {
@@ -53,13 +60,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "UPDATE - New Quants: Swift 1.5 Flash Next - Heretic v2 - ReverseEngineer",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjo7rt/update_new_quants_swift_15_flash_next_heretic_v2/",
-   "ts": 1793386954,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Yet another performance degradation research induced by mutex in an unexpected hotpath in a mature database code.",
    "url": "https://www.reddit.com/r/programming/comments/1xjo2ar/yet_another_performance_degradation_research/",
@@ -71,6 +71,20 @@
    "title": "A TUI to get into self-hosting",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xjo1xq/a_tui_to_get_into_selfhosting/",
    "ts": 1793386581,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Multi-Token Prediction Done Right [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xjnz40/multitoken_prediction_done_right_r/",
+   "ts": 1793386400,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "So uh...where are we on uncensored / NSFW audio models?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjn911/so_uhwhere_are_we_on_uncensored_nsfw_audio_models/",
+   "ts": 1793384748,
    "source": "Reddit"
   },
   {
@@ -200,6 +214,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "MachineLearning",
+   "title": "My brain is rotting [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xjbfhb/my_brain_is_rotting_d/",
+   "ts": 1793355105,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "programming",
    "title": "We published the full index of our internal Node stack: 348 npm packages, 257 repos",
    "url": "https://www.reddit.com/r/programming/comments/1xja8om/we_published_the_full_index_of_our_internal_node/",
@@ -284,13 +305,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "Anyone attending NeurIPS 2026 in Paris willing to present a poster? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xium4n/anyone_attending_neurips_2026_in_paris_willing_to/",
-   "ts": 1793304295,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "AMD's ROCm HRX Loom v0.1 released for targeting AMD CPUs, GPUs & NPUs",
    "url": "https://www.reddit.com/r/programming/comments/1xisevc/amds_rocm_hrx_loom_v01_released_for_targeting_amd/",
@@ -355,13 +369,6 @@
   },
   {
    "subreddit": "MachineLearning",
-   "title": "A (lukewarm) defense of Minsky and Papert [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xig3sd/a_lukewarm_defense_of_minsky_and_papert_d/",
-   "ts": 1793269246,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
    "title": "Leaving a job to pursue a PhD [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xif85l/leaving_a_job_to_pursue_a_phd_d/",
    "ts": 1793266108,
@@ -393,13 +400,6 @@
    "title": "If-statement that caused HTTP2Shell was itself undisclosed patch of vulnerability",
    "url": "https://www.reddit.com/r/programming/comments/1xi16s3/ifstatement_that_caused_http2shell_was_itself/",
    "ts": 1793223026,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "[R] Taking EmbeddingGemma-2 (577M) from Rank #26 to #1 on the MAEB audio benchmark by filling its 256d null space with PCA-reduced intermediate Conformer layers (zero training) [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xho7pr/r_taking_embeddinggemma2_577m_from_rank_26_to_1/",
-   "ts": 1793194441,
    "source": "Reddit"
   },
   {
