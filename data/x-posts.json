@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T14:16:53Z",
+ "generated_at": "2026-10-31T14:22:55Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Alex Lieberman reveals the problem with selling enterprise AI like software: “there is so much nuance and so much inertia and so many systems you have to wrangle and people you have to wrangle.” “every software company is basically building up a team of FDEs because there’s just this convergence happening of services and software when every company wants all this nuance that was not traditionally expected from software.” “how will they be able to do this at software margins if everyone expects a one-of-one solution?” For software we could simply build it once and sell it multiple times... But with AI, AI buyers want completely custom solutions rather than adapting to software. Every new customer needs custom work, so vendors send FDEs to build bespoke operations. These increase costs, thereby decreasing profit margins... But rather than building each automation completely from scratch, processes can be standardized so that it can quickly be deployed onto multiple enterprises while staying custom. This can simply be implemented by changing the deployment steps: 1) Standardization Consolidate the workflows to complete a task into one process 2) Match Look for companies that do it the same way 3) Build Once Make a single solution that fits the group of companies 4) Tailor Add custom work only for the specific parts that belong to one company This way the deployment for the next customer doesn't start from scratch... The work was already built while the last part may change, it s",
+   "url": "https://nitter.kareem.one/theahmedkaiz/status/2116532260560150961#m",
+   "ts": 1793455588,
+   "id": "2116532260560150961#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -670,15 +679,6 @@
    "url": "https://nitter.kareem.one/liangxiaoxiao72/status/2115785517878952031#m",
    "ts": 1793277551,
    "id": "2115785517878952031#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "we sat down with @swyx to discuss how the agentic database space evolving also covered: ◆ developer marketing & memes ◆ product-led sales ◆ why we acquired Turso ◆ early days and Hacker News watch the full interview on @latentspacepod : inv.kareem.one/watch?v=zHG6sAss… Link Why Agents Love Supabase — with Paul Copplestone and Ant Wilson Why do AI agents keep choosing Supabase—and what changes when the a... youtube.com",
-   "url": "https://nitter.kareem.one/kiwicopple/status/2115774790682448310#m",
-   "ts": 1793274993,
-   "id": "2115774790682448310#m"
   },
   {
    "handle": "TheRundownAI",
