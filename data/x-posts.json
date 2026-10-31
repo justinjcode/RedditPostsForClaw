@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T15:05:54Z",
+ "generated_at": "2026-10-31T15:14:22Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Being a super intelligent computer is not always as great as it may seem 😂 TheLaw (@TheLaw3210) 😪 — https://nitter.kareem.one/TheLaw3210/status/2116452007661678836#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2116547860716212313#m",
+   "ts": 1793459308,
+   "id": "2116547860716212313#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -166,15 +175,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2116306579779731464#m",
    "ts": 1793401782,
    "id": "2116306579779731464#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Think of Grok @Bot as a work colleague gaut (@0xgaut) Something I've noticed that makes working with grok bot more delightful: it actually feels like you're talking to a coworker. Shorter sentences, less BS and fluff. — https://nitter.kareem.one/0xgaut/status/2116293365180309566#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2116305829381263528#m",
-   "ts": 1793401603,
-   "id": "2116305829381263528#m"
   },
   {
    "handle": "swyx",
