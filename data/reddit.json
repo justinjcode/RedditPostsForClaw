@@ -1,15 +1,64 @@
 {
- "generated_at": "2026-10-31T14:08:21Z",
+ "generated_at": "2026-10-31T16:09:23Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
-  "selfhosted"
+  "MachineLearning",
+  "programming"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "\"Spent a lot on my rig but I can only run Gemma 4\"",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkcyn6/spent_a_lot_on_my_rig_but_i_can_only_run_gemma_4/",
+   "ts": 1793460128,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Hierarchical detection of neonatal brain pathologies using a two-stage deep learning framework from magnetic resonance imaging [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xkcy83/hierarchical_detection_of_neonatal_brain/",
+   "ts": 1793460099,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Cohere, buddies with Palantir delivering embarrassing results.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkcr7g/cohere_buddies_with_palantir_delivering/",
+   "ts": 1793459610,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "[Guide] Ternary Bonsai 2 is finally 100% working on ik_llama.cpp (Native CUDA offload + Fast CPU -rtr)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkcg2y/guide_ternary_bonsai_2_is_finally_100_working_on/",
+   "ts": 1793458878,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "NVIDIA Nemotron 3.5 Bolt E4B 4GB (post-trained Gemma 4 E4B)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkcdlz/nvidia_nemotron_35_bolt_e4b_4gb_posttrained_gemma/",
+   "ts": 1793458729,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Reddit will discontinue RSS feed on 13th November",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkbl2h/reddit_will_discontinue_rss_feed_on_13th_november/",
+   "ts": 1793456748,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Is your engine lobotomizing your model? Kinda, and I measured it",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkbbqi/is_your_engine_lobotomizing_your_model_kinda_and/",
+   "ts": 1793456091,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Channel-surf your own movie and TV library like it's 1995 (free Kodi add-on)",
@@ -110,13 +159,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "Lawyer with too many GPUs, part 3: DeepSeek-V4.1-Flash on 2x DGX Spark + an old 3090 box. 2,600+ tok/s prefill to 256K, 322 tok/s structured output, full stack and raw data published",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk20x5/lawyer_with_too_many_gpus_part_3_deepseekv41flash/",
-   "ts": 1793424724,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "Koboldcpp v1.124 released",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk1vyk/koboldcpp_v1124_released/",
    "ts": 1793424246,
@@ -141,13 +183,6 @@
    "title": "Local LLM Hosting Harness?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xjxo3v/local_llm_hosting_harness/",
    "ts": 1793410834,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Qwen3.8-Flash-Next on 2x RTX 5090 with 504 tok/s decode: QEngine 1.3.1 decodes ~1.5-1.9x faster than the next-best engine I've tried (numbers, caveats, and what still bites)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjx0ez/qwen38flashnext_on_2x_rtx_5090_with_504_toks/",
-   "ts": 1793408943,
    "source": "Reddit"
   },
   {
@@ -179,20 +214,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "AMD reportedly plans another Radeon GPU price increase in November",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjrery/amd_reportedly_plans_another_radeon_gpu_price/",
-   "ts": 1793394387,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "vLLM now has PLE disk offload support on nightly",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjpbcg/vllm_now_has_ple_disk_offload_support_on_nightly/",
-   "ts": 1793389505,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Yet another performance degradation research induced by mutex in an unexpected hotpath in a mature database code.",
    "url": "https://www.reddit.com/r/programming/comments/1xjo2ar/yet_another_performance_degradation_research/",
@@ -207,24 +228,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "So uh...where are we on uncensored / NSFW audio models?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjn911/so_uhwhere_are_we_on_uncensored_nsfw_audio_models/",
-   "ts": 1793384748,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Advice on dealing with Cold Start forecasting [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xjmgju/advice_on_dealing_with_cold_start_forecasting_d/",
    "ts": 1793382986,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Do you have any opinions that generally go against /r/LocalLLaMa's hivemind?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjltn3/do_you_have_any_opinions_that_generally_go/",
-   "ts": 1793381562,
    "source": "Reddit"
   },
   {
@@ -400,13 +407,6 @@
    "title": "If-statement that caused HTTP2Shell was itself undisclosed patch of vulnerability",
    "url": "https://www.reddit.com/r/programming/comments/1xi16s3/ifstatement_that_caused_http2shell_was_itself/",
    "ts": 1793223026,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "[R] Taking EmbeddingGemma-2 (577M) from Rank #26 to #1 on the MAEB audio benchmark by filling its 256d null space with PCA-reduced intermediate Conformer layers (zero training) [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xho7pr/r_taking_embeddinggemma2_577m_from_rank_26_to_1/",
-   "ts": 1793194441,
    "source": "Reddit"
   },
   {
