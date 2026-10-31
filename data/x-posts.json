@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-10-31T07:08:15Z",
+ "generated_at": "2026-10-31T07:14:55Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
   {
@@ -154,24 +153,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "True DogeDesigner (@cb_doge) BREAKING: Cathie Wood says SpaceX is severely undervalued. SpaceX brings together AI, robotics and energy storage. But traditional space, cloud and AI analysts work separately, making it harder to understand how these technologies strengthen one another. Wood says firms are now assigning teams of analysts to SpaceX. As they collaborate and compare notes, she expects that undervaluation to clear up. Video — https://nitter.kareem.one/cb_doge/status/2116275605272695004#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2116291315432587740#m",
-   "ts": 1793398143,
-   "id": "2116291315432587740#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "You can now find out if any reach limitations have been applied to your account X Open Source (@XOpenSource) Under the Hood now shows you which posts received a visibility-limiting label, making it easier to see what’s affected: nitterk.kareem.one/i/jf/under_the_hood This was a top request — thanks for the feedback. You’ll see the specific posts listed when fewer than 5% of your posts during the report period have that label. — https://nitter.kareem.one/XOpenSource/status/2116262141745565826#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2116289989914787912#m",
-   "ts": 1793397827,
-   "id": "2116289989914787912#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "PS - we’re hiring exceptional people if you want to come join the SpaceXSI rocket ship Shaun Maguire (@shaunmmaguire) Article People don't understand SpaceX Caveats: this is not investment advice. Sequoia Capital has a large position in SpaceX so I'm extremely biased. Also, Past performance is not indicative of future results. After SpaceX's earnings call — https://nitter.kareem.one/shaunmmaguire/status/2116260821080973679#m",
    "url": "https://nitter.kareem.one/forwarddeploy/status/2116283109478137946#m",
    "ts": 1793396186,
@@ -259,6 +240,15 @@
    "id": "2116240128511459608#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "5 minutes of James Talarico in his own words. Send this to your friends in Texas and let them know today is their last day to Vote Early. Video",
+   "url": "https://nitter.kareem.one/america/status/2116227013551796385#m",
+   "ts": 1793382812,
+   "id": "2116227013551796385#m"
+  },
+  {
    "handle": "bcherny",
    "name": "Boris Cherny",
    "author": "@bcherny",
@@ -302,6 +292,15 @@
    "url": "https://nitter.kareem.one/AarushYadav47/status/2116198463847408066#m",
    "ts": 1793376005,
    "id": "2116198463847408066#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "As a black man who was a liberal way back when, I’ve discovered two things: Conservatives will hate your opinion. It really won’t go beyond that. If you’re black, your race won’t be much of a factor for them. Liberals will hate your opinion, you, your family, and will try to ruin you if they can. If you’re black, racism will be allowed against you. Black liberals will give the nod to white liberals, who will then unleash every racist tirade they’ve been saving up until this moment. It’s like a limp-twisted purge for them. I’m not wrong.",
+   "url": "https://nitter.kareem.one/ZeekArkham/status/2116176184757096758#m",
+   "ts": 1793370693,
+   "id": "2116176184757096758#m"
   },
   {
    "handle": "TheRundownAI",
@@ -808,9 +807,9 @@
    "id": "2115473170279080149#m"
   },
   {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
