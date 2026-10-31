@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T22:43:56Z",
+ "generated_at": "2026-10-31T22:53:49Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "A teaser for my upcoming talk! @aiDotEngineer",
+   "url": "https://nitter.kareem.one/JPoehnelt/status/2116646696461709368#m",
+   "ts": 1793482872,
+   "id": "2116646696461709368#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -562,15 +571,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2115908274570879076#m",
    "ts": 1793306818,
    "id": "2115908274570879076#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "i've been working on an app design skill and i can say this is the most valuable addition to any model ive used for making real working software instead of flashy designer demos",
-   "url": "https://nitter.kareem.one/swyx/status/2115903364320129053#m",
-   "ts": 1793305648,
-   "id": "2115903364320129053#m"
   },
   {
    "handle": "thsottiaux",
