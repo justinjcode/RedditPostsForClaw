@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T05:43:30Z",
+ "generated_at": "2026-10-31T05:54:55Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked… do with this what you may 👀. help.openai.com/en/articles/… Link Using multiple ChatGPT accounts on web and mobile | OpenAI Help Center Switch between ChatGPT accounts while keeping their conversations, billing, workspaces, and settings separate. help.openai.com",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2116405414921384099#m",
+   "ts": 1793425346,
+   "id": "2116405414921384099#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -1183,15 +1192,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2113838156193894447#m",
    "ts": 1792813264,
    "id": "2113838156193894447#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "On codex cli updates. We've added reusable prompt presets, inline model and permission settings, and enterprise MCP sign-in. We've also fixed failures when resuming long sessions and added Windows corporate-proxy authentication. Surprisingly the CLI has grown 2X in usage since devday.",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2113770862860222611#m",
-   "ts": 1792797220,
-   "id": "2113770862860222611#m"
   },
   {
    "handle": "Lingling_Wei",
