@@ -1,20 +1,28 @@
 {
- "generated_at": "2026-11-01T23:33:55Z",
+ "generated_at": "2026-11-01T23:42:59Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@simonw: all instances failed",
-  "@bcherny: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Day 28/ Banked 2/2",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2117035794678546764#m",
+   "ts": 1793575640,
+   "id": "2117035794678546764#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1175,15 +1183,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2114588174249071102#m",
    "ts": 1792992082,
    "id": "2114588174249071102#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "It is all propagated. Enjoy some mad codexing tomorrow. Fun week ahead too. Tibo (@thsottiaux) By midnight PST — https://nitter.kareem.one/thsottiaux/status/2114200291319124163#m",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2114237083652882932#m",
-   "ts": 1792908376,
-   "id": "2114237083652882932#m"
   },
   {
    "handle": "swyx",
