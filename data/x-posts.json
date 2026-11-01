@@ -1,18 +1,17 @@
 {
- "generated_at": "2026-11-01T00:20:51Z",
+ "generated_at": "2026-11-01T00:50:31Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
   {
@@ -158,6 +157,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2116614579136635120#m",
    "ts": 1793475215,
    "id": "2116614579136635120#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "活生生被它骂了二十几遍 Video",
+   "url": "https://nitter.kareem.one/xiaojietongxue/status/2116611491407569209#m",
+   "ts": 1793474478,
+   "id": "2116611491407569209#m"
   },
   {
    "handle": "elonmusk",
@@ -1058,15 +1066,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2115116855236887022#m",
    "ts": 1793118129,
    "id": "2115116855236887022#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Countries tend to default on Chinese debt first because doing so is less costly -- Beijing prefers to handle defaults quietly and bilaterally. Escrow arrangements cannot change that dynamic. Yufan Huang (@YufanHuang07) I appreciate the journalistic effort but the escrow setup here (next 1-2 payments) is not that special imo. The fact that ICBC had to tap into escrows in 2018 shows Zambia defaulted on CN bank(s) 2 yrs (!) before their public bond default. Escrows don't give China seniority. — https://nitter.kareem.one/YufanHuang07/status/2115113273549079030#m",
-   "url": "https://nitter.kareem.one/YufanHuang07/status/2115113776303530085#m",
-   "ts": 1793117395,
-   "id": "2115113776303530085#m"
   },
   {
    "handle": "ZichenWanghere",
