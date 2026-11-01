@@ -1,15 +1,71 @@
 {
- "generated_at": "2026-11-01T06:13:21Z",
+ "generated_at": "2026-11-01T14:08:32Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Project NOMAD \"Smaller\" Alternatives?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xl2fg7/project_nomad_smaller_alternatives/",
+   "ts": 1793537908,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Data augmentation question. How do I characterise an original and augmented datasets where the augmentation parameters were zoom and crop? [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xl1uba/data_augmentation_question_how_do_i_characterise/",
+   "ts": 1793536102,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Every time I think I'm finished, it keeps growing and changing",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xl176p/every_time_i_think_im_finished_it_keeps_growing/",
+   "ts": 1793534084,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "What NCM can do for local models and DiLoCo/DisTrO parallel training on home PCS",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xl0kf9/what_ncm_can_do_for_local_models_and_dilocodistro/",
+   "ts": 1793531844,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "LSREP: A Longitudinal State-Replay Protocol for Evaluating Conversational Memory [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xkzwz9/lsrep_a_longitudinal_statereplay_protocol_for/",
+   "ts": 1793529514,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "My Glance setup: home, media, NAS",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xkyg9y/my_glance_setup_home_media_nas/",
+   "ts": 1793523957,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "I contributed to Golang, here is how you can too",
+   "url": "https://www.reddit.com/r/programming/comments/1xkx9zu/i_contributed_to_golang_here_is_how_you_can_too/",
+   "ts": 1793519409,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Best option for local models [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xkwrp3/best_option_for_local_models_d/",
+   "ts": 1793517413,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Best method for selective backups?",
@@ -40,13 +96,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Simple way to manage long-running SSH jobs without learning tmux or new keybindings?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xkqhwi/simple_way_to_manage_longrunning_ssh_jobs_without/",
-   "ts": 1793495522,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "I need hardware help",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xkqgrp/i_need_hardware_help/",
    "ts": 1793495423,
@@ -61,13 +110,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Setting up own domain email-- SoGO or Thunderbird?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xkprni/setting_up_own_domain_email_sogo_or_thunderbird/",
-   "ts": 1793493219,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "Remote desktop or Container monitoring options? Ubuntu",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xkph35/remote_desktop_or_container_monitoring_options/",
    "ts": 1793492318,
@@ -78,13 +120,6 @@
    "title": "Are there fundamental repeating patterns in ML techniques across modalities (text, image, audio) that let us group them? [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkp8e9/are_there_fundamental_repeating_patterns_in_ml/",
    "ts": 1793491624,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Free TLS for internal services on AWS",
-   "url": "https://www.reddit.com/r/programming/comments/1xkoqft/free_tls_for_internal_services_on_aws/",
-   "ts": 1793490204,
    "source": "Reddit"
   },
   {
@@ -179,13 +214,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Chronic 2.5GbE link flapping + autoneg downshift-latching on quad Intel I226-V (N5105 board, Proxmox, igc) — has anyone actually fixed this with a driver?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xkelym/chronic_25gbe_link_flapping_autoneg/",
-   "ts": 1793464122,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "\"Spent a lot on my rig but I can only run Gemma 4\"",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkcyn6/spent_a_lot_on_my_rig_but_i_can_only_run_gemma_4/",
@@ -225,13 +253,6 @@
    "title": "plMail Update: PGP, S/MIME, JMAP, POP3, CardDAV Contacts and more",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xk6o7g/plmail_update_pgp_smime_jmap_pop3_carddav/",
    "ts": 1793442231,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Ubuntu kernel CVE-2026-98432 (CVSS 9.8): no fixed kernel yet for 22.04 / 24.04 / 26.04. What are you doing in the meantime?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xk2qbb/ubuntu_kernel_cve202698432_cvss_98_no_fixed/",
-   "ts": 1793427331,
    "source": "Reddit"
   },
   {
@@ -319,13 +340,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "What would you require before calling an inference change “quality-neutral”? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xj8f2g/what_would_you_require_before_calling_an/",
-   "ts": 1793343597,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Experimenting with Bindless Textures in WebGPU",
    "url": "https://www.reddit.com/r/programming/comments/1xj7d21/experimenting_with_bindless_textures_in_webgpu/",
@@ -337,13 +351,6 @@
    "title": "New Project Megathread - Week of 29 Oct 2026",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xiz2ik/new_project_megathread_week_of_29_oct_2026/",
    "ts": 1793314869,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Arc: a ~70 MB streaming speech model that transcribes links names and metadata to your own list as they're spoken, with no second model [p]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xiyuoj/arc_a_70_mb_streaming_speech_model_that/",
-   "ts": 1793314317,
    "source": "Reddit"
   },
   {
@@ -386,13 +393,6 @@
    "title": "email encryption",
    "url": "https://www.reddit.com/r/programming/comments/1xijb4j/email_encryption/",
    "ts": 1793278827,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Leaving a job to pursue a PhD [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xif85l/leaving_a_job_to_pursue_a_phd_d/",
-   "ts": 1793266108,
    "source": "Reddit"
   },
   {
