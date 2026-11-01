@@ -1,15 +1,43 @@
 {
- "generated_at": "2026-11-01T00:24:16Z",
+ "generated_at": "2026-11-01T02:12:40Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Simple way to manage long-running SSH jobs without learning tmux or new keybindings?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xkqhwi/simple_way_to_manage_longrunning_ssh_jobs_without/",
+   "ts": 1793495522,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "I need hardware help",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xkqgrp/i_need_hardware_help/",
+   "ts": 1793495423,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Networking and general advice needed",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xkqfmo/networking_and_general_advice_needed/",
+   "ts": 1793495320,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Setting up own domain email-- SoGO or Thunderbird?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xkprni/setting_up_own_domain_email_sogo_or_thunderbird/",
+   "ts": 1793493219,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Remote desktop or Container monitoring options? Ubuntu",
@@ -25,10 +53,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "PSA: check your database container's restart policy. Mine silently didn't come back after a reboot and I didn't notice for almost two weeks",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xkow6d/psa_check_your_database_containers_restart_policy/",
-   "ts": 1793490688,
+   "subreddit": "programming",
+   "title": "Free TLS for internal services on AWS",
+   "url": "https://www.reddit.com/r/programming/comments/1xkoqft/free_tls_for_internal_services_on_aws/",
+   "ts": 1793490204,
    "source": "Reddit"
   },
   {
@@ -130,13 +158,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Self hosted DNS filtering?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xkfnru/self_hosted_dns_filtering/",
-   "ts": 1793466656,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "I built a scikit-learn for RSI [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkeq7d/i_built_a_scikitlearn_for_rsi_p/",
@@ -162,13 +183,6 @@
    "title": "Hierarchical detection of neonatal brain pathologies using a two-stage deep learning framework from magnetic resonance imaging [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkcy83/hierarchical_detection_of_neonatal_brain/",
    "ts": 1793460099,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "One Pace for Jellyfin - Version 1.2.0 (and 1.2.1) is out!",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xkcffc/one_pace_for_jellyfin_version_120_and_121_is_out/",
-   "ts": 1793458840,
    "source": "Reddit"
   },
   {
@@ -295,20 +309,6 @@
    "title": "We’re MOSS, the team behind MOSS-Image, MOSS-TTS, and more — Ask Us Anything!",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjhpn9/were_moss_the_team_behind_mossimage_mosstts_and/",
    "ts": 1793372455,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "What happens to your selfhosted data when you're gone?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xjcv7t/what_happens_to_your_selfhosted_data_when_youre/",
-   "ts": 1793359922,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "We published the full index of our internal Node stack: 348 npm packages, 257 repos",
-   "url": "https://www.reddit.com/r/programming/comments/1xja8om/we_published_the_full_index_of_our_internal_node/",
-   "ts": 1793350717,
    "source": "Reddit"
   },
   {
