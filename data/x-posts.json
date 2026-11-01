@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-01T20:34:21Z",
+ "generated_at": "2026-11-01T20:43:44Z",
  "accounts_ok": [
+  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,37 @@
  ],
  "errors": [
   "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "RT by @elonmusk: Image",
+   "url": "https://nitter.kareem.one/KittyMidge/status/2116992604466467181#m",
+   "ts": 1793565343,
+   "id": "2116992604466467181#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The other supercompute projects are unable to reach their goals, but SpaceX is already achieving ours Rothmus 🏴 (@Rothmus) SpaceXAI’s Colossus 2 in Memphis is the world’s most powerful AI data center. Roughly 1.11 million H100 equivalents, ahead of OpenAI’s Stargate and the big tech campuses. By mid 2027, Colossus is expected to widen the gap with more Blackwell clusters coming online. — https://nitter.kareem.one/Rothmus/status/2116967150200193242#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2116991729660575998#m",
+   "ts": 1793565134,
+   "id": "2116991729660575998#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "This is what they stole from us",
+   "url": "https://nitter.kareem.one/elonmusk/status/2116990933103509723#m",
+   "ts": 1793564944,
+   "id": "2116990933103509723#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -172,15 +199,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "HAPPENING NOW: Congresswoman Haley Stevens joins Mike Rogers at church in Detroit this morning. We have a state to save, Michigan.",
-   "url": "https://nitter.kareem.one/abbyronson/status/2116929399820022102#m",
-   "ts": 1793550274,
-   "id": "2116929399820022102#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "He who shapes power, data centers, chips and models into an economically feasible endpoint, disproportionately shapes AI/SI right now. Why? Power is THE binding constraint in AI/SI. Few really have it. Data centers don’t work without power. This is not about promises of power tomorrow. Or forecasted power in 2028. Power TODAY. Chips can’t operate profitably unless installed in a functional data center. If you can install chips, it’s because you’ve solved the power problem. Models aren’t economically viable unless run on cost effective infrastructure which requires a functional data center with low input costs and reliable management. This can’t happen without power. AI/SI ROI doesn’t pencil unless models generate profitable outputs which necessarily needs functional data centers as the critical input. Again, power. Ergo, he who can shape data centers, chips and models together into a tightly coordinated stack is someone who has solved power. Solving power allows you to disproportionately shape AI/SI right now. Elon Musk (@elonmusk) There will be a total of around 1.2M Blackwells at Colossus 2 by end of year — https://nitter.kareem.one/elonmusk/status/2116596535433871630#m",
    "url": "https://nitter.kareem.one/chamath/status/2116926625657024819#m",
    "ts": 1793549612,
@@ -194,15 +212,6 @@
    "url": "https://nitter.kareem.one/GadSaad/status/2116912508401545425#m",
    "ts": 1793546246,
    "id": "2116912508401545425#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "X is the only place where the Legacy Media can’t censor information. They have to denigrate X in order to maintain their grip on the information flow to Americans. X is where you find the truth. The Atlantic (@TheAtlantic) Elon Musk’s X has become the go-to place for MAGA supporters to hunt for examples of voter fraud, @WillOremus reports. He examines how the platform could play a central role in the midterm elections: theatlantic.com/technology/2… Link The Election Lies Are Already Starting on X No one is ready for what Elon Musk’s platform could look like on Tuesday. theatlantic.com — https://nitter.kareem.one/TheAtlantic/status/2116806228663820548#m",
-   "url": "https://nitter.kareem.one/KatieMiller/status/2116885883899330882#m",
-   "ts": 1793539899,
-   "id": "2116885883899330882#m"
   },
   {
    "handle": "elonmusk",
@@ -1148,15 +1157,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2114800277677092936#m",
    "ts": 1793042651,
    "id": "2114800277677092936#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "SpaceX just guided to a $35B quarter! The CFO sees $33B to $37B in Q1 2027 revenue, up from $14.6B this quarter. That's more than double in just two quarters. • SI revenue was $7.56B, up 830%, and it's now bigger than Starlink • 13 GW of compute expected by the end of 2027 • Grok Bot has 800K paid weekly users, more than doubling in a month • Starship Flight 15 will try to catch both stages in mid-November • Starlink is in talks for 80,000+ US cell sites So why did $SPCX stock drop? 👇 Video",
-   "url": "https://nitter.kareem.one/herbertong/status/2114750149062987864#m",
-   "ts": 1793030700,
-   "id": "2114750149062987864#m"
   },
   {
    "handle": "thsottiaux",
