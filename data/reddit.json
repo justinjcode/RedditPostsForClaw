@@ -1,15 +1,106 @@
 {
- "generated_at": "2026-11-01T14:08:32Z",
+ "generated_at": "2026-11-01T18:09:29Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Meet Ava: In-browser local AI avatar with LFM3-Omni and WebGPU",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl9577/meet_ava_inbrowser_local_ai_avatar_with_lfm3omni/",
+   "ts": 1793554577,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Coding is solved* (exclusions apply)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl90rr/coding_is_solved_exclusions_apply/",
+   "ts": 1793554292,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Jepsen on ParticleDB: \"We tested versions 1.1.4 through 1.1.18.11.rc-22 and found that ParticleDB’s claims of “Full ACID” were somewhat premature\"",
+   "url": "https://www.reddit.com/r/programming/comments/1xl8d57/jepsen_on_particledb_we_tested_versions_114/",
+   "ts": 1793552787,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "What do you get when you put every character that exists on a single page?",
+   "url": "https://www.reddit.com/r/programming/comments/1xl7yhp/what_do_you_get_when_you_put_every_character_that/",
+   "ts": 1793551856,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Turbo Haskell",
+   "url": "https://www.reddit.com/r/programming/comments/1xl7lsn/turbo_haskell/",
+   "ts": 1793551024,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Pocket ID v3 with a completely rewritten UI is around the corner - We need your feedback",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xl7ceq/pocket_id_v3_with_a_completely_rewritten_ui_is/",
+   "ts": 1793550401,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Database Indexing Isn't Magic. Understand It From Scratch",
+   "url": "https://www.reddit.com/r/programming/comments/1xl6oes/database_indexing_isnt_magic_understand_it_from/",
+   "ts": 1793548834,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "7900xtx got speedup",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl65xy/7900xtx_got_speedup/",
+   "ts": 1793547594,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "LFM3-1.7b seems impressive",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl64ho/lfm317b_seems_impressive/",
+   "ts": 1793547495,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "The case against Makefiles",
+   "url": "https://www.reddit.com/r/programming/comments/1xl5irk/the_case_against_makefiles/",
+   "ts": 1793546017,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Infernix - New Release!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl4pf6/infernix_new_release/",
+   "ts": 1793544004,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Don't people pay attention anymore when buying hardware for AI?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl4ckr/dont_people_pay_attention_anymore_when_buying/",
+   "ts": 1793543090,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Heretic 2.0 released: Model modification for everyone",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl2tcm/heretic_20_released_model_modification_for/",
+   "ts": 1793538984,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Project NOMAD \"Smaller\" Alternatives?",
@@ -18,17 +109,17 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "DeepSeek: Exploring Super-agent Design: Towards a More Autonomous Agent System",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl1zn3/deepseek_exploring_superagent_design_towards_a/",
+   "ts": 1793536574,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "MachineLearning",
    "title": "Data augmentation question. How do I characterise an original and augmented datasets where the augmentation parameters were zoom and crop? [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xl1uba/data_augmentation_question_how_do_i_characterise/",
    "ts": 1793536102,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Every time I think I'm finished, it keeps growing and changing",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xl176p/every_time_i_think_im_finished_it_keeps_growing/",
-   "ts": 1793534084,
    "source": "Reddit"
   },
   {
@@ -46,6 +137,20 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "new research: A tiny 109M-parameter model outperforms models up to 72B parameters at image-text alignment, using 42× less training data",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkzony/new_research_a_tiny_109mparameter_model/",
+   "ts": 1793528661,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Am I Crazy Or GLM 5.3 Flash is Hilarious?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkz4mo/am_i_crazy_or_glm_53_flash_is_hilarious/",
+   "ts": 1793526578,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
    "title": "My Glance setup: home, media, NAS",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xkyg9y/my_glance_setup_home_media_nas/",
@@ -53,10 +158,24 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkxt7a/memdoor_a_team_of_5_qwen3827b_models_beats_fable/",
+   "ts": 1793521458,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "programming",
    "title": "I contributed to Golang, here is how you can too",
    "url": "https://www.reddit.com/r/programming/comments/1xkx9zu/i_contributed_to_golang_here_is_how_you_can_too/",
    "ts": 1793519409,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "FineDNA: the largest dataset to teach any LLM DNA (midtraining, SFT, RL)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkwvwg/finedna_the_largest_dataset_to_teach_any_llm_dna/",
+   "ts": 1793517849,
    "source": "Reddit"
   },
   {
@@ -71,20 +190,6 @@
    "title": "Best method for selective backups?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xkuvdz/best_method_for_selective_backups/",
    "ts": 1793510291,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "3 VPS nodes for RedPanda cluster.",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xkt46e/3_vps_nodes_for_redpanda_cluster/",
-   "ts": 1793504138,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "64GB isn't the dead zone anymore if you run agents",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xksj75/64gb_isnt_the_dead_zone_anymore_if_you_run_agents/",
-   "ts": 1793502154,
    "source": "Reddit"
   },
   {
@@ -110,6 +215,13 @@
   },
   {
    "subreddit": "selfhosted",
+   "title": "Setting up own domain email-- SoGO or Thunderbird?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xkprni/setting_up_own_domain_email_sogo_or_thunderbird/",
+   "ts": 1793493219,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
    "title": "Remote desktop or Container monitoring options? Ubuntu",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xkph35/remote_desktop_or_container_monitoring_options/",
    "ts": 1793492318,
@@ -123,24 +235,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "+1 for Qwen 27Bs character/chat style",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkngat/1_for_qwen_27bs_characterchat_style/",
-   "ts": 1793486501,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "MinusPod now turns YouTube playlists and channels into ad-free podcast feeds (SponsorBlock first, LLM as fallback)",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xkmq9f/minuspod_now_turns_youtube_playlists_and_channels/",
    "ts": 1793484439,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "How do I make search with local models feel like ChatGPT / Codex?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkm2yb/how_do_i_make_search_with_local_models_feel_like/",
-   "ts": 1793482646,
    "source": "Reddit"
   },
   {
@@ -158,38 +256,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Please tell me Qwen3.8-Flash-Next can be made to be better than this",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkjrdl/please_tell_me_qwen38flashnext_can_be_made_to_be/",
-   "ts": 1793476582,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "An LLM inside an LLM - Same guy who put a RISK-V CPU inside Qwen has now made Karpathy's stories260k run on an NPU compiled inside Qwen 3.5-4B's weights",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkiuut/an_llm_inside_an_llm_same_guy_who_put_a_riskv_cpu/",
-   "ts": 1793474333,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "CrowdGPT v2.6 - The collaborative LLM",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkibxw/crowdgpt_v26_the_collaborative_llm/",
-   "ts": 1793473056,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Is neuro-evolution relevant? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkh5bw/is_neuroevolution_relevant_d/",
    "ts": 1793470193,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Betelgeuse running Qwen 3.8 Flash Next IQ4_XS at 24 tok/s on 2x8GB DDR4 (14 tok/s on a single 16GB stick) + RTX 3060 12GB — 0 dropped experts, 100% byte-exact",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkh2ns/betelgeuse_running_qwen_38_flash_next_iq4_xs_at/",
-   "ts": 1793470012,
    "source": "Reddit"
   },
   {
@@ -200,24 +270,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "I'm Groot?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkge1s/im_groot/",
-   "ts": 1793468395,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "I built a scikit-learn for RSI [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkeq7d/i_built_a_scikitlearn_for_rsi_p/",
    "ts": 1793464406,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "\"Spent a lot on my rig but I can only run Gemma 4\"",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkcyn6/spent_a_lot_on_my_rig_but_i_can_only_run_gemma_4/",
-   "ts": 1793460128,
    "source": "Reddit"
   },
   {
@@ -228,24 +284,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Just finished my humble MoE-Centric Workstation",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkau4g/just_finished_my_humble_moecentric_workstation/",
-   "ts": 1793454867,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Beating the compiler at signed 32-bit division",
    "url": "https://www.reddit.com/r/programming/comments/1xka27q/beating_the_compiler_at_signed_32bit_division/",
    "ts": 1793452828,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Betelgeuse: Running Qwen 3.8 Flash Next at 22 tok/s sustained (spiking to 48 tok/s) on an RTX 3060 12GB + 16GB DDR4 RAM 100% bit-exact!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk8s6z/betelgeuse_running_qwen_38_flash_next_at_22_toks/",
-   "ts": 1793449202,
    "source": "Reddit"
   },
   {
@@ -260,13 +302,6 @@
    "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xjyo89/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
    "ts": 1793413821,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Fable 5.gguf when?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjwtrv/fable_5gguf_when/",
-   "ts": 1793408426,
    "source": "Reddit"
   },
   {
@@ -355,20 +390,6 @@
   },
   {
    "subreddit": "programming",
-   "title": "AMD's ROCm HRX Loom v0.1 released for targeting AMD CPUs, GPUs & NPUs",
-   "url": "https://www.reddit.com/r/programming/comments/1xisevc/amds_rocm_hrx_loom_v01_released_for_targeting_amd/",
-   "ts": 1793299360,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "The Last Proof of Human Craft: Forging a Microsoft Edge Full Chain with Logic Bugs Only!",
-   "url": "https://www.reddit.com/r/programming/comments/1xiq9r7/the_last_proof_of_human_craft_forging_a_microsoft/",
-   "ts": 1793294590,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
    "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
    "url": "https://www.reddit.com/r/programming/comments/1xiq8we/linux_kernel_tcp_flaw_with_98_cvss_score_affects/",
    "ts": 1793294537,
@@ -386,27 +407,6 @@
    "title": "Old-school classifiers are still generally better than Jev [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xil53d/oldschool_classifiers_are_still_generally_better/",
    "ts": 1793283185,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "email encryption",
-   "url": "https://www.reddit.com/r/programming/comments/1xijb4j/email_encryption/",
-   "ts": 1793278827,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Local-First Means Three Different Things",
-   "url": "https://www.reddit.com/r/programming/comments/1xi3p7g/localfirst_means_three_different_things/",
-   "ts": 1793229173,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "If-statement that caused HTTP2Shell was itself undisclosed patch of vulnerability",
-   "url": "https://www.reddit.com/r/programming/comments/1xi16s3/ifstatement_that_caused_http2shell_was_itself/",
-   "ts": 1793223026,
    "source": "Reddit"
   },
   {
