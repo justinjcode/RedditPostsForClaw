@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-01T23:14:17Z",
+ "generated_at": "2026-11-01T23:23:13Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Try Grok @Bot ! You will love it. We land a few dozen fixes, features and sometimes powers to Bot 7 days a week and we look at your feedback to make Bot as perfect as possible. しまぶー (@shimabu_it) 本当にこれ マジでCursor（Grok Bot）を使っていない人は一度だけでいいから使ってみてほしい。 Claude Code、Codexよりも断然良いから。今UXの観点でCursorが負けているところは正直ないと思っている。 モデルの性能という点で現状はClaude Codeも使わざるを得ないが、Grokの性能がOpus 5.5と同等レベルになったらCursorオンリーにできると思っている。 SpaceXAIさん、次のGrokは頼みますよ。4.7も悪くないけどOpusと比べると力不足なので... — https://nitter.kareem.one/shimabu_it/status/2116706033271992754#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2117033967782113327#m",
+   "ts": 1793575205,
+   "id": "2117033967782113327#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -95,15 +103,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2116970572592861616#m",
    "ts": 1793560090,
    "id": "2116970572592861616#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Talarico will vote to trans your kids America (@america) Texas Democrat James Talarico: “What would Jesus do if he visited the Texas legislature? I think he would tell us: 'Blessed are the trans children'…” Video — https://nitter.kareem.one/america/status/2116923224063664354#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2116969654849868192#m",
-   "ts": 1793559871,
-   "id": "2116969654849868192#m"
   },
   {
    "handle": "realDonaldTrump",
