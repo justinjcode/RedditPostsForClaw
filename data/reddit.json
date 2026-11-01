@@ -1,15 +1,36 @@
 {
- "generated_at": "2026-11-01T18:09:29Z",
+ "generated_at": "2026-11-01T20:09:16Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
-  "selfhosted"
+  "MachineLearning",
+  "programming"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "llama2.c on a 2006 iPod @ 80 MHz w/ 64 MB ram and no FPU",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlboqi/llama2c_on_a_2006_ipod_80_mhz_w_64_mb_ram_and_no/",
+   "ts": 1793560526,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "The Developer Communication Handbook",
+   "url": "https://www.reddit.com/r/programming/comments/1xl9z9b/the_developer_communication_handbook/",
+   "ts": 1793556511,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "I animated what GPT-4o's tokenizer does to \"strawberry\": real token ids, a tiny BPE run, and why the space belongs to the word (6 min video) [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xl9sv7/i_animated_what_gpt4os_tokenizer_does_to/",
+   "ts": 1793556088,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Meet Ava: In-browser local AI avatar with LFM3-Omni and WebGPU",
@@ -32,6 +53,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "MachineLearning",
+   "title": "Why do all NN optimizers have weird names? [d]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xl7yv0/why_do_all_nn_optimizers_have_weird_names_d/",
+   "ts": 1793551878,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "programming",
    "title": "What do you get when you put every character that exists on a single page?",
    "url": "https://www.reddit.com/r/programming/comments/1xl7yhp/what_do_you_get_when_you_put_every_character_that/",
@@ -50,6 +78,13 @@
    "title": "Pocket ID v3 with a completely rewritten UI is around the corner - We need your feedback",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xl7ceq/pocket_id_v3_with_a_completely_rewritten_ui_is/",
    "ts": 1793550401,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "[D] Simple Questions Thread",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xl6og2/d_simple_questions_thread/",
+   "ts": 1793548836,
    "source": "Reddit"
   },
   {
@@ -169,13 +204,6 @@
    "title": "I contributed to Golang, here is how you can too",
    "url": "https://www.reddit.com/r/programming/comments/1xkx9zu/i_contributed_to_golang_here_is_how_you_can_too/",
    "ts": 1793519409,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "FineDNA: the largest dataset to teach any LLM DNA (midtraining, SFT, RL)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkwvwg/finedna_the_largest_dataset_to_teach_any_llm_dna/",
-   "ts": 1793517849,
    "source": "Reddit"
   },
   {
@@ -305,13 +333,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "Paid Research Survey for conference papers [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xjtpio/paid_research_survey_for_conference_papers_d/",
-   "ts": 1793400147,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "How hard is it to check for whitespace?",
    "url": "https://www.reddit.com/r/programming/comments/1xjtach/how_hard_is_it_to_check_for_whitespace/",
@@ -396,31 +417,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "It's the memory latency, stupid",
-   "url": "https://www.reddit.com/r/programming/comments/1xiopmn/its_the_memory_latency_stupid/",
-   "ts": 1793291215,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Old-school classifiers are still generally better than Jev [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xil53d/oldschool_classifiers_are_still_generally_better/",
-   "ts": 1793283185,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "[Bi-Weekly Megathread] Project Showcase",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yg86/biweekly_megathread_project_showcase/",
    "ts": 1792420251,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "[D] Self-Promotion Thread",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1wvi1j8/d_selfpromotion_thread/",
-   "ts": 1790907305,
    "source": "Reddit"
   },
   {
