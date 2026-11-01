@@ -1,9 +1,6 @@
 {
- "generated_at": "2026-11-01T21:53:01Z",
+ "generated_at": "2026-11-01T22:05:41Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +8,11 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 176,
  "items": [
   {
@@ -103,15 +104,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2116969654849868192#m",
    "ts": 1793559871,
    "id": "2116969654849868192#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "38,000 foot air gap!",
-   "url": "https://nitter.kareem.one/elonmusk/status/2116969019303432203#m",
-   "ts": 1793559720,
-   "id": "2116969019303432203#m"
   },
   {
    "handle": "realDonaldTrump",
@@ -247,6 +239,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2116773135668404286#m",
    "ts": 1793513017,
    "id": "2116773135668404286#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "I TESTED EVERY MAJOR “BOT” PLATFORM AND THE WINNER IS CLEAR. @Grok @Bot wins on all measures. At this point it can only be copied as the others are watching a rocket launch ship change in AI going into orbit. Read below my exclusive analysis seen no place else! Brian Roemmele (@BrianRoemmele) Article I Tested Every Bot Platform So You Did Not Have To. Here Is What I Found. A took a deep look at Dots, Muse, ChatGPT Work, Claude, Gemini, Copilot, Manus, Perplexity, OpenClaw and Grok Bot: what each one really is, where it runs, what it can share, where its holes are, and — https://nitter.kareem.one/BrianRoemmele/status/2116532267581608050#m",
+   "url": "https://nitter.kareem.one/BrianRoemmele/status/2116708293901205698#m",
+   "ts": 1793497558,
+   "id": "2116708293901205698#m"
   },
   {
    "handle": "thsottiaux",
