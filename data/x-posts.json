@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T12:24:54Z",
+ "generated_at": "2026-11-01T12:32:41Z",
  "accounts_ok": [
   "Lingling_Wei",
   "elonmusk",
@@ -15,6 +15,15 @@
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Autonomy for all, including pumpkins Video",
+   "url": "https://nitter.kareem.one/robotaxi/status/2116837873781813605#m",
+   "ts": 1793528452,
+   "id": "2116837873781813605#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -356,15 +365,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2116405414921384099#m",
    "ts": 1793425346,
    "id": "2116405414921384099#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Ken Paxton has been the most effective record of any Attorney General in America. James Talarico, meanwhile, has spent millions of dollars trying convince people that he's normal. Video",
-   "url": "https://nitter.kareem.one/realBrandonGill/status/2116355224667570300#m",
-   "ts": 1793413380,
-   "id": "2116355224667570300#m"
   },
   {
    "handle": "swyx",
