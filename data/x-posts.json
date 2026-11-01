@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T19:12:57Z",
+ "generated_at": "2026-11-01T19:23:18Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "True Aaron Burnett (@aaronburnett) I believe that not using AI when modeling should be considered negligence. In the near future 1-2 years, this opinion will be considered obvious. like FSD for investment decision making. You can absolutely model by hand if you so choose, but it’s not the smart decision. Every institution will have to grapple with this truth in the coming months. — https://nitter.kareem.one/aaronburnett/status/2116909323670482979#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2116970572592861616#m",
+   "ts": 1793560090,
+   "id": "2116970572592861616#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -180,19 +189,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Autonomy for all, including pumpkins Video",
-   "url": "https://nitter.kareem.one/robotaxi/status/2116837873781813605#m",
-   "ts": 1793528452,
-   "id": "2116837873781813605#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "\"I will die in America. I'm not going anywhere. I might go to Mars but that will be part of America.\" 🇺🇸 一 Elon Musk",
-   "url": "https://nitter.kareem.one/cb_doge/status/2116832725734932924#m",
-   "ts": 1793527225,
-   "id": "2116832725734932924#m"
+   "text": "Having spent a long time watching Elon Musk, and having talked with him, I believe I understand what he understood before almost anyone else. And it's something every one of us needs to understand now. Western civilization is not one civilization among many. It is the one that gave the world freedom of thought, modern science and the dignity of the individual. And it is under attack. Not by peoples, but by ideologies that want it dead. If it dies, the world will not become more just. It will become poorer, more brutal and darker. For everyone, including those who hate it. Why? Because civilizations are not interchangeable. We were told that any culture could be blended with any other, like mixing colors, and that the result would always be harmonious. It isn't true. A society where women are equal to men cannot coexist without friction with a worldview in which a woman's testimony is worth half a man's. A society where you can criticize God, change your religion or have none cannot absorb, without fracturing, a worldview in which apostasy is paid for with your life. Every people has its own genius and moves at its own pace. But not all values are equal, and you cannot build a nation on laws that contradict each other. Saying so is not racist. Racism is about blood. I am talking about laws, customs and values. And those values belong to no race: a Japanese, a Senegalese or an Iranian can make them his own, and millions have. That is exactly why they are worth defending. Let's ",
+   "url": "https://nitter.kareem.one/brivael/status/2116841241241436458#m",
+   "ts": 1793529255,
+   "id": "2116841241241436458#m"
   },
   {
    "handle": "swyx",
@@ -969,9 +969,9 @@
    "id": "2115473170279080149#m"
   },
   {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
