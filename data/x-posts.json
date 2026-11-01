@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-11-01T20:43:44Z",
+ "generated_at": "2026-11-01T20:53:23Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -9,10 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
   {
@@ -277,6 +276,15 @@
    "id": "2116642586387730593#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Gemini 4 Carbon is the first model to tie humans in physical 3D understanding we are already approaching AGI, and I can’t imagine what next year holds for us Stats Wire (@StatsWire) Google AI Ultra's usage limits are actually INSANE!!! I've been using Gemini 4 Argon High EVERY SINGLE DAY in Antigravity, and I still can't exhaust my quota. My weekly limit resets in 6 minutes, and I STILL have 39% left!!! Never hit the 5-hour limit either. Google is being ridiculously generous with Ultra. — https://nitter.kareem.one/StatsWire/status/2116507226420752436#m",
+   "url": "https://nitter.kareem.one/MaaSonder/status/2116638251025100975#m",
+   "ts": 1793480858,
+   "id": "2116638251025100975#m"
+  },
+  {
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
    "author": "@realDonaldTrump",
@@ -383,15 +391,6 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2116595204958409175#m",
    "ts": 1793470595,
    "id": "2116595204958409175#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Most important of all",
-   "url": "https://nitter.kareem.one/elonmusk/status/2116589708180640207#m",
-   "ts": 1793469285,
-   "id": "2116589708180640207#m"
   },
   {
    "handle": "ZichenWanghere",
