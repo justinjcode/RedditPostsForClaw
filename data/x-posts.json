@@ -1,17 +1,18 @@
 {
- "generated_at": "2026-11-01T23:42:59Z",
+ "generated_at": "2026-11-01T23:53:01Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 176,
  "items": [
   {
@@ -63,6 +64,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "Grok Bot is still so underrated. Most people haven't seen what it can really do yet.",
+   "url": "https://nitter.kareem.one/Texas_Twins_Dad/status/2116991205061841011#m",
+   "ts": 1793565009,
+   "id": "2116991205061841011#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "This is what they stole from us",
    "url": "https://nitter.kareem.one/elonmusk/status/2116990933103509723#m",
    "ts": 1793564944,
@@ -103,15 +113,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2116985908268572975#m",
    "ts": 1793563746,
    "id": "2116985908268572975#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "True Aaron Burnett (@aaronburnett) I believe that not using AI when modeling should be considered negligence. In the near future 1-2 years, this opinion will be considered obvious. like FSD for investment decision making. You can absolutely model by hand if you so choose, but it’s not the smart decision. Every institution will have to grapple with this truth in the coming months. — https://nitter.kareem.one/aaronburnett/status/2116909323670482979#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2116970572592861616#m",
-   "ts": 1793560090,
-   "id": "2116970572592861616#m"
   },
   {
    "handle": "realDonaldTrump",
