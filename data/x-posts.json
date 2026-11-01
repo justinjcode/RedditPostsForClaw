@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-01T11:27:28Z",
+ "generated_at": "2026-11-01T11:37:39Z",
  "accounts_ok": [
   "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
+  "@simonw: all instances failed",
   "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
@@ -41,6 +41,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2116773135668404286#m",
    "ts": 1793513017,
    "id": "2116773135668404286#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Sorry to break character but I have to say it. I am a Lifelong moderate liberal. With Democrats nominating radicals like Abdul El-Sayed, and Democratic Party leaders cheering him on, I think this is the year where it makes sense for all common-sense, moderate, reasonable Democrats like myself to vote straight ticket GOP.",
+   "url": "https://nitter.kareem.one/UpdatingOnRome/status/2116750678043344940#m",
+   "ts": 1793507663,
+   "id": "2116750678043344940#m"
   },
   {
    "handle": "elonmusk",
@@ -230,15 +239,6 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2116610185112485904#m",
    "ts": 1793474167,
    "id": "2116610185112485904#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Of course. Gay men have far too much taste for such a laboriously ugly pride flag! Fashion crime beyond belief. Alex (@AlexToughTakes) As a gay man, I'll say what a lot of us are thinking. We fought to be left alone. To marry the man we love, keep our jobs, and live a quiet life. We won. Then woke activists took our letters, stapled on a dozen causes we never signed up for, and started calling us bigots for saying sex is real. That isn't our movement anymore. — https://nitter.kareem.one/AlexToughTakes/status/2116534303735656486#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2116608316776571063#m",
-   "ts": 1793473722,
-   "id": "2116608316776571063#m"
   },
   {
    "handle": "ZichenWanghere",
