@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-01T06:45:42Z",
+ "generated_at": "2026-11-01T06:55:49Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed"
+  "@bcherny: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "hackertube.org/ url Link HackerTube The YouTube videos that Hacker News keeps telling each other to watch. hackertube.org",
+   "url": "https://nitter.kareem.one/swyx/status/2116782055665402157#m",
+   "ts": 1793515144,
+   "id": "2116782055665402157#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -590,15 +599,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2115920808761864472#m",
    "ts": 1793309807,
    "id": "2115920808761864472#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "inspired by High Taste Testers convo with @thaiscbranco_ of @tastelabs btw who gave me immediate critique lol",
-   "url": "https://nitter.kareem.one/swyx/status/2115908489793155125#m",
-   "ts": 1793306870,
-   "id": "2115908489793155125#m"
   },
   {
    "handle": "thsottiaux",
