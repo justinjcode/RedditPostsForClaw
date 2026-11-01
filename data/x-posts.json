@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-11-01T11:07:57Z",
+ "generated_at": "2026-11-01T11:14:15Z",
  "accounts_ok": [
-  "ZichenWanghere",
+  "Lingling_Wei",
+  "TheRundownAI",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -9,12 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "My father would not let anyone service his plane except himself. This photo was taken in Australia. My parents were the only people to fly in a single propeller plane from South Africa, up Africa, over Asia and across the ocean to Australia, and back. Nerve-racking!!! Doge Tipping (@Dogetothemoon) 1955 Joshua Norman Haldeman (maternal grandfather of Elon Musk) and his wife Winnifred Haldeman (Wyn) next to their single-engine airplane (the Bellanca Cruisair named \"Winnie“). Elon Musk has confirmed that he acquired the airplane from a collector and is currently having it restored to its flyable condition. — https://nitter.kareem.one/Dogetothemoon/status/2116710444924915860#m",
+   "url": "https://nitter.kareem.one/mayemusk/status/2116827440421142629#m",
+   "ts": 1793525965,
+   "id": "2116827440421142629#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -275,15 +284,6 @@
    "url": "https://nitter.kareem.one/multiplanet1/status/2116582472754344327#m",
    "ts": 1793467560,
    "id": "2116582472754344327#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The scale of Starlink is almost impossible to comprehend Out of 16,848 active satellites in orbit as of October 31, 2026, 11,184 are Starlink That's 66% of every active satellite humanity has in orbit Just look at the numbers: • Starlink: 11,184 • OneWeb: 651 • Amazon Kuiper: 391 • Qianfan (China): 257 • Iridium: 80 Starlink alone has nearly 2 TIMES more active satellites than every other operator on Earth COMBINED And what's even more insane is how fast SpaceX built this On May 24, 2019, Falcon 9 launched the first batch of 60 Starlink satellites Just 2,717 days later, SpaceX is still launching batches of 27 satellites, including another mission on October 31 SpaceX has built the largest satellite constellation in human history, at a scale no other operator comes close to matching And this is just the beginning",
-   "url": "https://nitter.kareem.one/XFreeze/status/2116579225914519759#m",
-   "ts": 1793466786,
-   "id": "2116579225914519759#m"
   },
   {
    "handle": "elonmusk",
