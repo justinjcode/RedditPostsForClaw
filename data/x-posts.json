@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-01T13:37:43Z",
+ "generated_at": "2026-11-01T13:47:15Z",
  "accounts_ok": [
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
-  "@swyx: all instances failed",
-  "@Lingling_Wei: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "X is the only place where the Legacy Media can’t censor information. They have to denigrate X in order to maintain their grip on the information flow to Americans. X is where you find the truth. The Atlantic (@TheAtlantic) Elon Musk’s X has become the go-to place for MAGA supporters to hunt for examples of voter fraud, @WillOremus reports. He examines how the platform could play a central role in the midterm elections: theatlantic.com/technology/2… Link The Election Lies Are Already Starting on X No one is ready for what Elon Musk’s platform could look like on Tuesday. theatlantic.com — https://nitter.kareem.one/TheAtlantic/status/2116806228663820548#m",
+   "url": "https://nitter.kareem.one/KatieMiller/status/2116885883899330882#m",
+   "ts": 1793539899,
+   "id": "2116885883899330882#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -239,15 +248,6 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2116624317857542192#m",
    "ts": 1793477537,
    "id": "2116624317857542192#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Men are twice as likely to ace SAT math, yet women are twice as likely to get in to MIT. Put differently, 1 in 3 men who worked their ass off to get into MIT lost their seat because they were born the wrong gender. Anish Koka, MD (@anish_koka) 17,000 men apply to MIT 8900 women apply to MIT 600 men were accepted 612 women were accepted If we assume male and female applicants to MIT are roughly the same, the probability this happens by chance, let alone every year for a while The probability of a sex blind admission process creating this result is 1 in 4 × 10³¹ — https://nitter.kareem.one/anish_koka/status/2116162795309846718#m",
-   "url": "https://nitter.kareem.one/profstonge/status/2116623747306414310#m",
-   "ts": 1793477400,
-   "id": "2116623747306414310#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -934,9 +934,9 @@
    "id": "2115473170279080149#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
