@@ -1,15 +1,64 @@
 {
- "generated_at": "2026-11-01T20:09:16Z",
+ "generated_at": "2026-11-01T22:08:24Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
   "MachineLearning",
-  "programming"
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "personal-os-setup: a TUI that configures Windows, Linux, macOS and WSL2 — packages, dotfiles, dev tools, GPU drivers",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xlfdnk/personalossetup_a_tui_that_configures_windows/",
+   "ts": 1793569484,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Looking for suggestions/feedback on a self-hosted music stack with discovery",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xlfcly/looking_for_suggestionsfeedback_on_a_selfhosted/",
+   "ts": 1793569412,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Getting incredible results with a single RTX 3090ti and 128gb of ram. Deepseek-V4.1-Flash-1017 (35 tok/s decode) and Qwen3.8-Flash-Next (130 tok/s decode)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlec67/getting_incredible_results_with_a_single_rtx/",
+   "ts": 1793566902,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "QwenBend : Qwen writes a Bend program, then the same model type checks it with Bend2 rules and runs it inside its own forward pass",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xle8ta/qwenbend_qwen_writes_a_bend_program_then_the_same/",
+   "ts": 1793566687,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Magic hanging on my fedora 44 server",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xle01r/magic_hanging_on_my_fedora_44_server/",
+   "ts": 1793566091,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "tandem.cpp: Qwen3.8-Flash-Next at 97 tok/s on a single 4090 + 64 GB RAM, 3.3× llama.cpp, works for any MoE",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xldent/tandemcpp_qwen38flashnext_at_97_toks_on_a_single/",
+   "ts": 1793564630,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "I imagine my next best course of action would be to buy optane",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xlddko/i_imagine_my_next_best_course_of_action_would_be/",
+   "ts": 1793564555,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "llama2.c on a 2006 iPod @ 80 MHz w/ 64 MB ram and no FPU",
@@ -25,10 +74,24 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "selfhosted",
+   "title": "Kyoo now released on Android TV with v5.3.0",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xl9wyz/kyoo_now_released_on_android_tv_with_v530/",
+   "ts": 1793556356,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "MachineLearning",
    "title": "I animated what GPT-4o's tokenizer does to \"strawberry\": real token ids, a tiny BPE run, and why the space belongs to the word (6 min video) [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xl9sv7/i_animated_what_gpt4os_tokenizer_does_to/",
    "ts": 1793556088,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "OneNote Replacement with Native Android Client",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xl9bgr/onenote_replacement_with_native_android_client/",
+   "ts": 1793554983,
    "source": "Reddit"
   },
   {
@@ -96,13 +159,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "7900xtx got speedup",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl65xy/7900xtx_got_speedup/",
-   "ts": 1793547594,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "LFM3-1.7b seems impressive",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl64ho/lfm317b_seems_impressive/",
    "ts": 1793547495,
@@ -113,13 +169,6 @@
    "title": "The case against Makefiles",
    "url": "https://www.reddit.com/r/programming/comments/1xl5irk/the_case_against_makefiles/",
    "ts": 1793546017,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Infernix - New Release!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl4pf6/infernix_new_release/",
-   "ts": 1793544004,
    "source": "Reddit"
   },
   {
@@ -158,13 +207,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "What NCM can do for local models and DiLoCo/DisTrO parallel training on home PCS",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xl0kf9/what_ncm_can_do_for_local_models_and_dilocodistro/",
-   "ts": 1793531844,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "LSREP: A Longitudinal State-Replay Protocol for Evaluating Conversational Memory [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkzwz9/lsrep_a_longitudinal_statereplay_protocol_for/",
@@ -176,13 +218,6 @@
    "title": "new research: A tiny 109M-parameter model outperforms models up to 72B parameters at image-text alignment, using 42× less training data",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkzony/new_research_a_tiny_109mparameter_model/",
    "ts": 1793528661,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Am I Crazy Or GLM 5.3 Flash is Hilarious?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkz4mo/am_i_crazy_or_glm_53_flash_is_hilarious/",
-   "ts": 1793526578,
    "source": "Reddit"
   },
   {
@@ -222,37 +257,9 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Gaming PC x Jellyfin sever?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xkrvpy/gaming_pc_x_jellyfin_sever/",
-   "ts": 1793500011,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "I need hardware help",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xkqgrp/i_need_hardware_help/",
-   "ts": 1793495423,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "Networking and general advice needed",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xkqfmo/networking_and_general_advice_needed/",
    "ts": 1793495320,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Setting up own domain email-- SoGO or Thunderbird?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xkprni/setting_up_own_domain_email_sogo_or_thunderbird/",
-   "ts": 1793493219,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Remote desktop or Container monitoring options? Ubuntu",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xkph35/remote_desktop_or_container_monitoring_options/",
-   "ts": 1793492318,
    "source": "Reddit"
   },
   {
@@ -260,13 +267,6 @@
    "title": "Are there fundamental repeating patterns in ML techniques across modalities (text, image, audio) that let us group them? [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkp8e9/are_there_fundamental_repeating_patterns_in_ml/",
    "ts": 1793491624,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "MinusPod now turns YouTube playlists and channels into ad-free podcast feeds (SponsorBlock first, LLM as fallback)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xkmq9f/minuspod_now_turns_youtube_playlists_and_channels/",
-   "ts": 1793484439,
    "source": "Reddit"
   },
   {
