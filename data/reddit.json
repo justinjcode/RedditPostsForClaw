@@ -1,15 +1,36 @@
 {
- "generated_at": "2026-11-01T02:12:40Z",
+ "generated_at": "2026-11-01T04:10:38Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "3 VPS nodes for RedPanda cluster.",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xkt46e/3_vps_nodes_for_redpanda_cluster/",
+   "ts": 1793504138,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "64GB isn't the dead zone anymore if you run agents",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xksj75/64gb_isnt_the_dead_zone_anymore_if_you_run_agents/",
+   "ts": 1793502154,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Gaming PC x Jellyfin sever?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xkrvpy/gaming_pc_x_jellyfin_sever/",
+   "ts": 1793500011,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Simple way to manage long-running SSH jobs without learning tmux or new keybindings?",
@@ -75,13 +96,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "Jiahao Shao on X: \"Shame on @DarioAmodei / Anthropic. I never distilled Claude—rollouts came from a strong open-source model; Claude just helped submit jobs and run analysis. Still got tagged for \"training a competitor,\" and now anything touching RFT, SFT, or training larger models gets me blocked",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkm5gz/jiahao_shao_on_x_shame_on_darioamodei_anthropic_i/",
-   "ts": 1793482839,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "How do I make search with local models feel like ChatGPT / Codex?",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkm2yb/how_do_i_make_search_with_local_models_feel_like/",
    "ts": 1793482646,
@@ -120,13 +134,6 @@
    "title": "CrowdGPT v2.6 - The collaborative LLM",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkibxw/crowdgpt_v26_the_collaborative_llm/",
    "ts": 1793473056,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Any services like Purelymail? (Email routing/relay)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xkhgl8/any_services_like_purelymail_email_routingrelay/",
-   "ts": 1793470924,
    "source": "Reddit"
   },
   {
@@ -183,13 +190,6 @@
    "title": "Hierarchical detection of neonatal brain pathologies using a two-stage deep learning framework from magnetic resonance imaging [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkcy83/hierarchical_detection_of_neonatal_brain/",
    "ts": 1793460099,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Channel-surf your own movie and TV library like it's 1995 (free Kodi add-on)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xkb4dn/channelsurf_your_own_movie_and_tv_library_like/",
-   "ts": 1793455567,
    "source": "Reddit"
   },
   {
