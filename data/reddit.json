@@ -1,15 +1,85 @@
 {
- "generated_at": "2026-10-31T20:08:28Z",
+ "generated_at": "2026-11-01T00:24:16Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
+  "MachineLearning",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Remote desktop or Container monitoring options? Ubuntu",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xkph35/remote_desktop_or_container_monitoring_options/",
+   "ts": 1793492318,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Are there fundamental repeating patterns in ML techniques across modalities (text, image, audio) that let us group them? [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xkp8e9/are_there_fundamental_repeating_patterns_in_ml/",
+   "ts": 1793491624,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "PSA: check your database container's restart policy. Mine silently didn't come back after a reboot and I didn't notice for almost two weeks",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xkow6d/psa_check_your_database_containers_restart_policy/",
+   "ts": 1793490688,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "+1 for Qwen 27Bs character/chat style",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkngat/1_for_qwen_27bs_characterchat_style/",
+   "ts": 1793486501,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "MinusPod now turns YouTube playlists and channels into ad-free podcast feeds (SponsorBlock first, LLM as fallback)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xkmq9f/minuspod_now_turns_youtube_playlists_and_channels/",
+   "ts": 1793484439,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Jiahao Shao on X: \"Shame on @DarioAmodei / Anthropic. I never distilled Claude—rollouts came from a strong open-source model; Claude just helped submit jobs and run analysis. Still got tagged for \"training a competitor,\" and now anything touching RFT, SFT, or training larger models gets me blocked",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkm5gz/jiahao_shao_on_x_shame_on_darioamodei_anthropic_i/",
+   "ts": 1793482839,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "How do I make search with local models feel like ChatGPT / Codex?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkm2yb/how_do_i_make_search_with_local_models_feel_like/",
+   "ts": 1793482646,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Well, my local AI addiction officially got out of hand tonight.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xklq96/well_my_local_ai_addiction_officially_got_out_of/",
+   "ts": 1793481662,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Am I An Idiot",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xklmzn/am_i_an_idiot/",
+   "ts": 1793481418,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Please tell me Qwen3.8-Flash-Next can be made to be better than this",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkjrdl/please_tell_me_qwen38flashnext_can_be_made_to_be/",
+   "ts": 1793476582,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "An LLM inside an LLM - Same guy who put a RISK-V CPU inside Qwen has now made Karpathy's stories260k run on an NPU compiled inside Qwen 3.5-4B's weights",
@@ -32,10 +102,24 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "MachineLearning",
+   "title": "Is neuro-evolution relevant? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xkh5bw/is_neuroevolution_relevant_d/",
+   "ts": 1793470193,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "LocalLLaMA",
    "title": "Betelgeuse running Qwen 3.8 Flash Next IQ4_XS at 24 tok/s on 2x8GB DDR4 (14 tok/s on a single 16GB stick) + RTX 3060 12GB — 0 dropped experts, 100% byte-exact",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkh2ns/betelgeuse_running_qwen_38_flash_next_iq4_xs_at/",
    "ts": 1793470012,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Is it okay to share my experiments implementing research papers on my own LLM here? [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xkgtly/is_it_okay_to_share_my_experiments_implementing/",
+   "ts": 1793469442,
    "source": "Reddit"
   },
   {
@@ -53,10 +137,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Is a used HP Z440 Workstation with a Xeon E5-2680 v4 a good choice for a home server? (₹24,000–₹36,000)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xkf9ul/is_a_used_hp_z440_workstation_with_a_xeon_e52680/",
-   "ts": 1793465743,
+   "subreddit": "MachineLearning",
+   "title": "I built a scikit-learn for RSI [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xkeq7d/i_built_a_scikitlearn_for_rsi_p/",
+   "ts": 1793464406,
    "source": "Reddit"
   },
   {
@@ -81,24 +165,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "NVIDIA Nemotron 3.5 Bolt E4B 4GB (post-trained Gemma 4 E4B)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkcdlz/nvidia_nemotron_35_bolt_e4b_4gb_posttrained_gemma/",
-   "ts": 1793458729,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Reddit will discontinue RSS feed on 13th November",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkbl2h/reddit_will_discontinue_rss_feed_on_13th_november/",
-   "ts": 1793456748,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Is your engine lobotomizing your model? Kinda, and I measured it",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkbbqi/is_your_engine_lobotomizing_your_model_kinda_and/",
-   "ts": 1793456091,
+   "subreddit": "selfhosted",
+   "title": "One Pace for Jellyfin - Version 1.2.0 (and 1.2.1) is out!",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xkcffc/one_pace_for_jellyfin_version_120_and_121_is_out/",
+   "ts": 1793458840,
    "source": "Reddit"
   },
   {
@@ -138,37 +208,9 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "How to best scan docker compose files?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xk7ghp/how_to_best_scan_docker_compose_files/",
-   "ts": 1793444935,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "plMail Update: PGP, S/MIME, JMAP, POP3, CardDAV Contacts and more",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xk6o7g/plmail_update_pgp_smime_jmap_pop3_carddav/",
    "ts": 1793442231,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Lightest way to get a few thousand pdf into markdown on a mini PC with no GPU?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xk6djq/lightest_way_to_get_a_few_thousand_pdf_into/",
-   "ts": 1793441165,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "microsoft/Mage-VL-Cowork · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk6blw/microsoftmagevlcowork_hugging_face/",
-   "ts": 1793440967,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Foldergram v1.3.0: self-hosted photo/video gallery, now with carousels and folder sharing",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xk3q86/foldergram_v130_selfhosted_photovideo_gallery_now/",
-   "ts": 1793431038,
    "source": "Reddit"
   },
   {
@@ -179,24 +221,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "First memory, storage, and now PCBsss: AI Boom Triggers Massive PCB Shortage With Orders Booked Until 2030, Posing Big Challenges For Consumer Hardware Vendors",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk17m0/first_memory_storage_and_now_pcbsss_ai_boom/",
-   "ts": 1793421910,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xjyo89/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
    "ts": 1793413821,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Local LLM Hosting Harness?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xjxo3v/local_llm_hosting_harness/",
-   "ts": 1793410834,
    "source": "Reddit"
   },
   {
@@ -319,24 +347,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "W(2;3,21) = 416 - a van der Waerden number conjectured by Kullmann in 2010, now proved with a Lean 4 kernel-checked proof [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xivpue/w2321_416_a_van_der_waerden_number_conjectured_by/",
-   "ts": 1793306785,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "AMD's ROCm HRX Loom v0.1 released for targeting AMD CPUs, GPUs & NPUs",
    "url": "https://www.reddit.com/r/programming/comments/1xisevc/amds_rocm_hrx_loom_v01_released_for_targeting_amd/",
    "ts": 1793299360,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "TKintegers K5: 3.21× prefill and 3.10× decode throughput vs TorchAO FP8 on NVIDIA L4 [R] [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xir3oa/tkintegers_k5_321_prefill_and_310_decode/",
-   "ts": 1793296432,
    "source": "Reddit"
   },
   {
@@ -379,20 +393,6 @@
    "title": "Leaving a job to pursue a PhD [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xif85l/leaving_a_job_to_pursue_a_phd_d/",
    "ts": 1793266108,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Has anyone gotten BiRefNet to work on mobile NPUs and GPUs? especially Qualcomm [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xienbl/has_anyone_gotten_birefnet_to_work_on_mobile_npus/",
-   "ts": 1793263883,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "any fun casual podcasts? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xi7cvk/any_fun_casual_podcasts_d/",
-   "ts": 1793238938,
    "source": "Reddit"
   },
   {
