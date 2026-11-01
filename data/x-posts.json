@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-01T02:53:47Z",
+ "generated_at": "2026-11-01T03:09:49Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 176,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Super Intelligence WILL EAT MANY ENTIRE businesses, industries and professions in the next few *months* and *quarters*. The rest will follow. The physical world will take a bit longer. That needs A LOT of humanoid robots. Strap yourselves in.",
+   "url": "https://nitter.kareem.one/stevenmarkryan/status/2116697757645942920#m",
+   "ts": 1793495046,
+   "id": "2116697757645942920#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -661,15 +671,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2115847958562258968#m",
    "ts": 1793292438,
    "id": "2115847958562258968#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "“Anakin we are a GALAXY of IMMIGRANTS!”",
-   "url": "https://nitter.kareem.one/loganclarkhall/status/2115834563343638727#m",
-   "ts": 1793289244,
-   "id": "2115834563343638727#m"
   },
   {
    "handle": "swyx",
