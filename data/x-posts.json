@@ -1,8 +1,6 @@
 {
- "generated_at": "2026-11-01T13:08:59Z",
+ "generated_at": "2026-11-01T13:18:48Z",
  "accounts_ok": [
-  "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,10 +9,30 @@
  "errors": [
   "@simonw: all instances failed",
   "@swyx: all instances failed",
-  "@Lingling_Wei: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Anyone with a brain is on 𝕏 DogeDesigner (@cb_doge) BREAKING: 𝕏 beats Instagram, Reddit, Facebook and TikTok in average website visit duration, according to Similarweb’s September 2026 data. 𝕏 is winning. People stay longer where the conversation matters. Video — https://nitter.kareem.one/cb_doge/status/2116872470963892248#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2116879037175898424#m",
+   "ts": 1793538266,
+   "id": "2116879037175898424#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Nonetheless, look at how generic and banal day-to-day corpo fashion and cars have become for over 2 decades!! Time for a total reset in fashion. To quote my son, Saxon, “Why does everything today look like 2015?? The future should look like the future!” We will make it so.",
+   "url": "https://nitter.kareem.one/elonmusk/status/2116878724943458644#m",
+   "ts": 1793538192,
+   "id": "2116878724943458644#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -223,15 +241,6 @@
    "id": "2116623015626871137#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "This will happen again Sabine Hossenfelder (@skdh) The dinosaurs probably died much faster -- and much more horribly -- than we thought. Video — https://nitter.kareem.one/skdh/status/2116549037864128678#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2116617926472016007#m",
-   "ts": 1793476013,
-   "id": "2116617926472016007#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -302,15 +311,6 @@
    "url": "https://nitter.kareem.one/multiplanet1/status/2116582472754344327#m",
    "ts": 1793467560,
    "id": "2116582472754344327#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "AUSTIN MAN slams into a stopped minivan at 103 mph on Mother's Day, right in front of a cop, and kills a fire captain hours after his fifth son was born. DA Jose Garza's office asked him to pay a small fine. Marvin Taylor was on his way to pick up his four other boys so they could meet their new baby brother. He was sitting at a red light on Koenig Lane when a Dodge Durango doing 103 in a 45 zone slammed into him and threw his van 150 feet. He died pinned inside. The officer found the driver, Rodney Bremby, with bloodshot eyes and slurred speech and stench of alcohol. He was charged with intoxication manslaughter, which carries up to 20 years in prison. A judge revoked his bond twice while the case was pending, and both times he was back out within two weeks. On Monday he got 10 years of probation, community service, and $535 in fees. Five boys have lost their father, and the man who killed him just had to pay a small fine and promise not do it again before going back home.",
-   "url": "https://nitter.kareem.one/AustinJustice/status/2116574145550983574#m",
-   "ts": 1793465575,
-   "id": "2116574145550983574#m"
   },
   {
    "handle": "elonmusk",
