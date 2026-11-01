@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-01T12:58:42Z",
+ "generated_at": "2026-11-01T13:08:59Z",
  "accounts_ok": [
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "thsottiaux"
@@ -10,11 +11,19 @@
  "errors": [
   "@simonw: all instances failed",
   "@swyx: all instances failed",
-  "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "I have this great idea for a drug called Regretamine. One dose and all your regrets are gone! Including, obviously, having taken Regretamine in the first place.",
+   "url": "https://nitter.kareem.one/elonmusk/status/2116875604889112772#m",
+   "ts": 1793537448,
+   "id": "2116875604889112772#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -230,15 +239,6 @@
    "url": "https://nitter.kareem.one/xiaojietongxue/status/2116611491407569209#m",
    "ts": 1793474478,
    "id": "2116611491407569209#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok Bot is the most useful app on my phone right now.",
-   "url": "https://nitter.kareem.one/cb_doge/status/2116610983997460897#m",
-   "ts": 1793474357,
-   "id": "2116610983997460897#m"
   },
   {
    "handle": "realDonaldTrump",
