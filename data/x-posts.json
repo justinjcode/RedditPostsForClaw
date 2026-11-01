@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-01T12:41:43Z",
+ "generated_at": "2026-11-01T12:50:59Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "elonmusk",
-  "realDonaldTrump",
-  "simonw",
-  "thsottiaux"
+  "realDonaldTrump"
  ],
  "errors": [
+  "@thsottiaux: all instances failed",
+  "@simonw: all instances failed",
   "@swyx: all instances failed",
   "@bcherny: all instances failed",
   "@ZichenWanghere: all instances failed"
@@ -223,15 +223,6 @@
    "id": "2116617926472016007#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Neuralink deep dive Cleo Abram (@cleoabram) Full HUGE* If True episode on Neuralink and the future of brain computer interfaces I toured @neuralink and got a close up view of their new R1 surgical robot, to see the future they and @elonmusk are building and how it is already changing lives... 00:00 What if you put a chip in your brain? 01:02 What does a human brain feel like? 02:17 How does your brain work? 03:58 Can a brain computer interface read your thoughts? 05:19 How do you get a chip into your brain? 08:07 What’s inside Neuralink’s implant? 10:06 How do you build a brain implant? 11:07 How does robot do brain surgery? 12:20 What could you do with a brain chip? 15:05 How are brain computer interfaces already being used today? 16:07 How are brain chips huge if true? Video — https://nitter.kareem.one/cleoabram/status/2116587096651505814#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2116614579136635120#m",
-   "ts": 1793475215,
-   "id": "2116614579136635120#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -257,6 +248,15 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2116610185112485904#m",
    "ts": 1793474167,
    "id": "2116610185112485904#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Marc Andreessen revealed how Harvard Business School was built on a broken 1941 theory, and how it's now collapsing... Andreessen co-founded Netscape in 1994 and a16z in 2009. He has sat on Meta's board since 2008. He has spent 30 years backing founders and watching managerial CEOs lose to them. The pattern traces back to one book: James Burnham's The Machiavellians (1941). Burnham argued every great company had been founder-run. Henry Ford ran Ford. Bob Noyce ran Intel. Today, Elon Musk runs Tesla, SpaceX, and Starlink. Then, he said, something broke. Between the 1880s and the 1920s, a new philosophy replaced the founder. It was called managerialism. The professional manager would now hold a portable skill, usable across any business. The consequences were: - Harvard Business School - Stanford Business School - Management as a universal skill - The 1970s conglomerate \"That assumes the managers are going to do a good job,\" Andreessen says. For 30 years, they haven't. Managers can run something static, he says. Soup is soup. A bank is a bank. A car is a car. But when the industry changes, the manager freezes. Look at SpaceX. \"Imagine being a professionally trained manager, trained at a top management school, working for a rocket launch company, competing with SpaceX.\" Then Elon's rockets started landing on their butt. \"Your management skills ... what good are they at that point?\" Andreessen's conclusion: \"You're much more likely to build something important in the 21st century",
+   "url": "https://nitter.kareem.one/Founder_Mode_/status/2116608335969443931#m",
+   "ts": 1793473726,
+   "id": "2116608335969443931#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -320,15 +320,6 @@
    "url": "https://nitter.kareem.one/BasedMikeLee/status/2116572935561630161#m",
    "ts": 1793465286,
    "id": "2116572935561630161#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Text your friends in Texas and make sure they vote on Election Day Politics & Poll Tracker 📡 (@PollTracker2024) #TexasSenate NYT: James Talarico’s internals are within the margin of error. Some recent public surveys show Talarico either tied with Paxton or within the margin of error with a 2-point lead. The candidate’s internal polls match those tighter surveys, people close to Talarico said, and may not be fully capturing the sentiments of rural conservative voters who support Trump. Link to article: nytimes.com/2026/10/31/us/po… — https://nitter.kareem.one/PollTracker2024/status/2116540398982091027#m",
-   "url": "https://nitter.kareem.one/alx/status/2116560722469810622#m",
-   "ts": 1793462374,
-   "id": "2116560722469810622#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -1121,6 +1112,15 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2114800277677092936#m",
    "ts": 1793042651,
    "id": "2114800277677092936#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Silly analysis. Robot RAM needs will exceed everything else on Earth, as you need the robots to be on physical substates in order to shape atoms. Super intelligence needs will vastly exceed that, but ~100% of SI will be deep space compute. Obviously.",
+   "url": "https://nitter.kareem.one/elonmusk/status/2114772074438988256#m",
+   "ts": 1793035927,
+   "id": "2114772074438988256#m"
   },
   {
    "handle": "thsottiaux",
