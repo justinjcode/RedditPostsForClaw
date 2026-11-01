@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-01T10:58:29Z",
+ "generated_at": "2026-11-01T11:07:57Z",
  "accounts_ok": [
   "ZichenWanghere",
   "elonmusk",
-  "realDonaldTrump"
+  "realDonaldTrump",
+  "simonw",
+  "swyx",
+  "thsottiaux"
  ],
  "errors": [
-  "@thsottiaux: all instances failed",
-  "@simonw: all instances failed",
-  "@swyx: all instances failed",
   "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed",
   "@TheRundownAI: all instances failed"
