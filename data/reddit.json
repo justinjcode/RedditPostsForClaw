@@ -1,20 +1,76 @@
 {
- "generated_at": "2026-11-02T16:11:17Z",
+ "generated_at": "2026-11-02T18:11:16Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
   "MachineLearning",
-  "programming"
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Did anyone get backrest's multihost sync feature working behind pangolin?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xm440z/did_anyone_get_backrests_multihost_sync_feature/",
+   "ts": 1793641802,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Operators Day : 10 founders hiring for founding ML roles - Nov 5 [n]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xm3im8/operators_day_10_founders_hiring_for_founding_ml/",
+   "ts": 1793640496,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Yet another reason to self host: Anthropic has (again) cut back on reverse engineering tools",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm33gr/yet_another_reason_to_self_host_anthropic_has/",
+   "ts": 1793639627,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Fine tuned open model ftw",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm2xbq/fine_tuned_open_model_ftw/",
+   "ts": 1793639260,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Official Statement: Qwen Models Will Stick to Open Source to the End!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open/",
+   "ts": 1793637752,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "What actually broke when I tried to fine-tune on web-scraped data and what fixed it [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xm1rjj/what_actually_broke_when_i_tried_to_finetune_on/",
+   "ts": 1793636725,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Unsloth vs GSQ-RCO - 512K context DeepSeek-V4.1 GGUF benchmarks Terminal Bench",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm102d/unsloth_vs_gsqrco_512k_context_deepseekv41_gguf/",
    "ts": 1793635057,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Over the wire: Email vs. WhatsApp vs. fmsg",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xm0wdz/over_the_wire_email_vs_whatsapp_vs_fmsg/",
+   "ts": 1793634837,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Running UNCENSORED DeepSeek-V4.1-Flash-1017 on a 12 Gb VRAM",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm0uy0/running_uncensored_deepseekv41flash1017_on_a_12/",
+   "ts": 1793634745,
    "source": "Reddit"
   },
   {
@@ -53,6 +109,20 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "selfhosted",
+   "title": "Using anubis with multiple apache vhosts",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xlyynh/using_anubis_with_multiple_apache_vhosts/",
+   "ts": 1793630438,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Game Hosting",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xlytqe/game_hosting/",
+   "ts": 1793630105,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "LocalLLaMA",
    "title": "[Release] ISTA DeepSeek-V4.1-Flash-1017 GSQ-RCO Coder: a 763B model at 1 bit per parameter",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlys6k/release_ista_deepseekv41flash1017_gsqrco_coder_a/",
@@ -64,13 +134,6 @@
    "title": "What did Ilya Sutskever mean when he said \"The models, they just want to learn\"? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xlyr77/what_did_ilya_sutskever_mean_when_he_said_the/",
    "ts": 1793629934,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "We released KVARK Sparkle 1.0 – a Qwen3.8-27B-based model with up to 67% fewer thinking tokens",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlxnpc/we_released_kvark_sparkle_10_a_qwen3827bbased/",
-   "ts": 1793627335,
    "source": "Reddit"
   },
   {
@@ -137,31 +200,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Recommendations for getting started?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xltdvx/recommendations_for_getting_started/",
-   "ts": 1793614259,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "ML PhDs: Would you rather have done your PhD before or after the rise of AI chatbots? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xlt9wm/ml_phds_would_you_rather_have_done_your_phd/",
    "ts": 1793613865,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "4\" touchscreen for inference engine monitoring",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlsuwf/4_touchscreen_for_inference_engine_monitoring/",
-   "ts": 1793612296,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "[ Removed by Reddit ]",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xlsrl8/removed_by_reddit/",
-   "ts": 1793611939,
    "source": "Reddit"
   },
   {
@@ -176,13 +218,6 @@
    "title": "The fastest double-to-string algorithm you’ve never heard of",
    "url": "https://www.reddit.com/r/programming/comments/1xlqfb6/the_fastest_doubletostring_algorithm_youve_never/",
    "ts": 1793602829,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Looking for suggestions over a humble home server",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xlq9hh/looking_for_suggestions_over_a_humble_home_server/",
-   "ts": 1793602216,
    "source": "Reddit"
   },
   {
@@ -222,13 +257,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "JetBrains/Mellum2.1-12B-A2.5B-Thinking-MTP · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xln8f2/jetbrainsmellum2112ba25bthinkingmtp_hugging_face/",
-   "ts": 1793591886,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "AMA Announcement: Reflection, the lab behind behind Beam (Tuesday Nov 3rd, 8am-11am PT)",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlmkk4/ama_announcement_reflection_the_lab_behind_behind/",
    "ts": 1793589748,
@@ -256,13 +284,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Do we really need all these \"speed\" posts?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xljjf2/do_we_really_need_all_these_speed_posts/",
-   "ts": 1793580760,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Scibrarian: Your personal PubMed catalog and research workflow",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xljfa9/scibrarian_your_personal_pubmed_catalog_and/",
@@ -281,13 +302,6 @@
    "title": "Securely Accessing Your Self-Hosted Services with mTLS and Cloudflare Tunnels",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xlinb6/securely_accessing_your_selfhosted_services_with/",
    "ts": 1793578162,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Self-hosted proxy for npm, PyPI and pub: new releases wait 7 days before anyone at work can install them",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xlhs4m/selfhosted_proxy_for_npm_pypi_and_pub_new/",
-   "ts": 1793575819,
    "source": "Reddit"
   },
   {
@@ -368,24 +382,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "LSREP: A Longitudinal State-Replay Protocol for Evaluating Conversational Memory [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xkzwz9/lsrep_a_longitudinal_statereplay_protocol_for/",
-   "ts": 1793529514,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "My Glance setup: home, media, NAS",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xkyg9y/my_glance_setup_home_media_nas/",
    "ts": 1793523957,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Best option for local models [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xkwrp3/best_option_for_local_models_d/",
-   "ts": 1793517413,
    "source": "Reddit"
   },
   {
