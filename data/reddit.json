@@ -1,15 +1,29 @@
 {
- "generated_at": "2026-11-02T02:13:17Z",
+ "generated_at": "2026-11-02T04:11:23Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
-  "programming"
+  "programming",
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "MachineLearning",
+   "title": "[D] Self-Promotion Thread",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xlmffv/d_selfpromotion_thread/",
+   "ts": 1793589307,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Bad Apple!! Running on the NAND2TETRIS CPU simulator",
+   "url": "https://www.reddit.com/r/programming/comments/1xlll2u/bad_apple_running_on_the_nand2tetris_cpu_simulator/",
+   "ts": 1793586756,
+   "source": "Reddit"
+  },
   {
    "subreddit": "MachineLearning",
    "title": "UnEZ: A fully unsupervised, directly interpretable neural network [R]",
@@ -32,6 +46,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "selfhosted",
+   "title": "Scibrarian: Your personal PubMed catalog and research workflow",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xljfa9/scibrarian_your_personal_pubmed_catalog_and/",
+   "ts": 1793580426,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "LocalLLaMA",
    "title": "Sorry Sam, my \"quite terrible\" home DRAM is at 100% now: patched Strata to make DeepSeek V4.1 agent sessions start 20× faster on a good old standard gaming GPU, no datacenter required",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xljdnj/sorry_sam_my_quite_terrible_home_dram_is_at_100/",
@@ -43,6 +64,13 @@
    "title": "Securely Accessing Your Self-Hosted Services with mTLS and Cloudflare Tunnels",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xlinb6/securely_accessing_your_selfhosted_services_with/",
    "ts": 1793578162,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Thinking about optane",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xlieyj/thinking_about_optane/",
+   "ts": 1793577600,
    "source": "Reddit"
   },
   {
@@ -75,13 +103,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "personal-os-setup: a TUI that configures Windows, Linux, macOS and WSL2 — packages, dotfiles, dev tools, GPU drivers",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xlfdnk/personalossetup_a_tui_that_configures_windows/",
-   "ts": 1793569484,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "Looking for suggestions/feedback on a self-hosted music stack with discovery",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xlfcly/looking_for_suggestionsfeedback_on_a_selfhosted/",
    "ts": 1793569412,
@@ -99,13 +120,6 @@
    "title": "Is Gemma 4 E4B still the best small model for a local, tool-calling personal assistant? What am I missing?",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xle3ul/is_gemma_4_e4b_still_the_best_small_model_for_a/",
    "ts": 1793566346,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Magic hanging on my fedora 44 server",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xle01r/magic_hanging_on_my_fedora_44_server/",
-   "ts": 1793566091,
    "source": "Reddit"
   },
   {
@@ -313,13 +327,6 @@
   },
   {
    "subreddit": "MachineLearning",
-   "title": "Is it okay to share my experiments implementing research papers on my own LLM here? [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xkgtly/is_it_okay_to_share_my_experiments_implementing/",
-   "ts": 1793469442,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
    "title": "I built a scikit-learn for RSI [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkeq7d/i_built_a_scikitlearn_for_rsi_p/",
    "ts": 1793464406,
@@ -400,13 +407,6 @@
    "title": "Freind of mine published a paper with fabricated results in a top journal and got accepted and i feel disgusted [d]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xj8tvc/freind_of_mine_published_a_paper_with_fabricated/",
    "ts": 1793345123,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Experimenting with Bindless Textures in WebGPU",
-   "url": "https://www.reddit.com/r/programming/comments/1xj7d21/experimenting_with_bindless_textures_in_webgpu/",
-   "ts": 1793339560,
    "source": "Reddit"
   },
   {
