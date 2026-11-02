@@ -1,6 +1,9 @@
 {
- "generated_at": "2026-11-02T18:53:12Z",
+ "generated_at": "2026-11-02T19:05:46Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -8,13 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "i think the @CompleteSkeptic and @typesafeai followup is going to melt on twitter inv.kareem.one/watch?v=cJ0EOzey… looking frward to attend. Link Jev CEO: I made ChatGPT, now I'm building what's next Diogo Almeida, a GPT-4 co author formerly at OpenAI and now CEO of ... youtube.com",
+   "url": "https://nitter.kareem.one/swyx/status/2117331535007531009#m",
+   "ts": 1793646150,
+   "id": "2117331535007531009#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -68,6 +76,15 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2117283124833055196#m",
    "ts": 1793634608,
    "id": "2117283124833055196#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "Talked with researchers at Chinese AI labs. I came back thinking the gap between US and Chinese labs is getting wider. 1/openai and anthropic are already in RSI territory. You can feel the speed-up from the outside. Chinese models aren't strong enough to get there yet. Most of the \"RSI\" I heard about is automating steps researchers used to do by hand. 2/Everyone there is now obsessed with data, mostly because distillation got a lot harder. So labs are going all in on synthetic and expert data. 3/After GPT-6 Astra, everyone is looking at robotics. Robot companies are already plugging Astra into their hardware. Almost nobody is seriously doing AI for science though. 4/One more thing from this weekend. DeepSeek open-sourced a research prototype of a coding agent.The line in their README I keep thinking about: \"take as little human attention as possible.\" The model gap isn't closing soon, so they're thinking hard about how little you should have to babysit the agent.",
+   "url": "https://nitter.kareem.one/hannahhaina/status/2117281419479404775#m",
+   "ts": 1793634202,
+   "id": "2117281419479404775#m"
   },
   {
    "handle": "TheRundownAI",
@@ -691,15 +708,6 @@
    "id": "2116240369134584305#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "I wrote about this in AINews last night but basically aie.codes is gathering the top 1000 AI Engineers to 1) accurately represent the 2026 SOTA in AI x Code, 2) preview 2027. So proud to have gathered the best collection of invited attendees, speakers and sponsors to reflect the three themes that have defined this year: michelle (@michellechen) hiding amongst the greats. see you at ai.engineer/code/2026 — https://nitter.kareem.one/michellechen/status/2115815269167706302#m",
-   "url": "https://nitter.kareem.one/swyx/status/2116240128511459608#m",
-   "ts": 1793385939,
-   "id": "2116240128511459608#m"
-  },
-  {
    "handle": "bcherny",
    "name": "Boris Cherny",
    "author": "@bcherny",
@@ -1049,15 +1057,6 @@
    "url": "https://nitter.kareem.one/sinoautoman/status/2115649164323545529#m",
    "ts": 1793245042,
    "id": "2115649164323545529#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "A China–EU trade understanding is welcome progress. But how quotas are allocated could determine whether the deal promotes fair competition and European investment—or creates unintended consequences. 1/7",
-   "url": "https://nitter.kareem.one/sinoautoman/status/2115649138931229020#m",
-   "ts": 1793245036,
-   "id": "2115649138931229020#m"
   },
   {
    "handle": "ZichenWanghere",
