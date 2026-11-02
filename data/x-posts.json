@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-01T23:53:01Z",
+ "generated_at": "2026-11-02T00:16:07Z",
  "accounts_ok": [
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -10,7 +11,6 @@
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed"
  ],
  "count": 176,
@@ -32,6 +32,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2117033967782113327#m",
    "ts": 1793575205,
    "id": "2117033967782113327#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "grok bot templates are a VERY good example of a feature that doubles as a distribution mechanism... look closely and they're basically instructions, simple prompts for each agent but because they're easy to share, people on X feel like they can plug new modules and extra capabilities into their setup with a simple copy + paste the team behind them knew people would build marketplaces, farm engagement on X with these, even sell them the smartest way to build a product when distribution is the goal",
+   "url": "https://nitter.kareem.one/EXM7777/status/2116999470437339364#m",
+   "ts": 1793566980,
+   "id": "2116999470437339364#m"
   },
   {
    "handle": "elonmusk",
@@ -106,15 +115,6 @@
    "id": "2116989604104392969#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The people deserve to have their RAM too!",
-   "url": "https://nitter.kareem.one/elonmusk/status/2116985908268572975#m",
-   "ts": 1793563746,
-   "id": "2116985908268572975#m"
-  },
-  {
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
    "author": "@realDonaldTrump",
@@ -131,6 +131,15 @@
    "url": "https://nitter.kareem.one/Scobleizer/status/2116964579750379687#m",
    "ts": 1793558661,
    "id": "2116964579750379687#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Introducing GrokBot's first live dashboard for your teams of agent 1 prompt + 2 min + <1% usage = you have the same: • no more chaos - every team on its own floor of live 3D office • see exactly which bot is eating your usage • no more \"is it working or dead?\" - every bot shows its status live here's guide to setup it: works on computer and phone* 1 → paste prompt below into your GrokBot ( that's it ) - it becomes the \"manager\" of your dashboard 2 → it creates your private live channel on ntfy - a free real-time mailbox only your link can read 3 → writes 1 rule into the shared memory of ALL your bots: every time you start, finish, get stuck or need me - send 1 line 4 → it sends your full roster: every bot, its team, its look and its chat link - each team gets its own floor 5 → open the link it gives you - the office reads your channel line 6 → a routine resends roster + usage per bot on shedule - new bots walk into the office by themselves all it takes ~2 min for GrokBot... the result: you stop opening 15 chats and see your whole AI company work 24/7 - who's busy, who's stuck, who' eating your usage... and can manage them right from office p.s: 1% usage measured on my Super Plan. I'll keep updating dashboard and making it even better, so wait for updates - and tell me what to improve Try it now, you're welcome. Then read full guide on how use GrokBot below: Video codila (@0xCodila) Article Grok Bot Agents: Build 24/7 AI Agent Graph That Automate Your Life (The Ultimate 5-Step",
+   "url": "https://nitter.kareem.one/0xCodila/status/2116960213206966317#m",
+   "ts": 1793557620,
+   "id": "2116960213206966317#m"
   },
   {
    "handle": "elonmusk",
@@ -181,28 +190,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "AnakinCore keeps hitting Video",
-   "url": "https://nitter.kareem.one/Jason/status/2116934482515083564#m",
-   "ts": 1793551486,
-   "id": "2116934482515083564#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "The scale of SpaceX’s lead in global launch is absolutely insane In 2025 alone, SpaceX delivered approximately 2,330 TONNES of payload to orbit, primarily using its Falcon 9 rockets The rest of the world COMBINED delivered just 547 tonnes That's 4.3 TIMES more payload than every other launch provider on Earth combined We're talking about the scale without Starship here",
    "url": "https://nitter.kareem.one/XFreeze/status/2116932007632736521#m",
    "ts": 1793550895,
    "id": "2116932007632736521#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "He who shapes power, data centers, chips and models into an economically feasible endpoint, disproportionately shapes AI/SI right now. Why? Power is THE binding constraint in AI/SI. Few really have it. Data centers don’t work without power. This is not about promises of power tomorrow. Or forecasted power in 2028. Power TODAY. Chips can’t operate profitably unless installed in a functional data center. If you can install chips, it’s because you’ve solved the power problem. Models aren’t economically viable unless run on cost effective infrastructure which requires a functional data center with low input costs and reliable management. This can’t happen without power. AI/SI ROI doesn’t pencil unless models generate profitable outputs which necessarily needs functional data centers as the critical input. Again, power. Ergo, he who can shape data centers, chips and models together into a tightly coordinated stack is someone who has solved power. Solving power allows you to disproportionately shape AI/SI right now. Elon Musk (@elonmusk) There will be a total of around 1.2M Blackwells at Colossus 2 by end of year — https://nitter.kareem.one/elonmusk/status/2116596535433871630#m",
-   "url": "https://nitter.kareem.one/chamath/status/2116926625657024819#m",
-   "ts": 1793549612,
-   "id": "2116926625657024819#m"
   },
   {
    "handle": "elonmusk",
@@ -226,10 +217,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Having spent a long time watching Elon Musk, and having talked with him, I believe I understand what he understood before almost anyone else. And it's something every one of us needs to understand now. Western civilization is not one civilization among many. It is the one that gave the world freedom of thought, modern science and the dignity of the individual. And it is under attack. Not by peoples, but by ideologies that want it dead. If it dies, the world will not become more just. It will become poorer, more brutal and darker. For everyone, including those who hate it. Why? Because civilizations are not interchangeable. We were told that any culture could be blended with any other, like mixing colors, and that the result would always be harmonious. It isn't true. A society where women are equal to men cannot coexist without friction with a worldview in which a woman's testimony is worth half a man's. A society where you can criticize God, change your religion or have none cannot absorb, without fracturing, a worldview in which apostasy is paid for with your life. Every people has its own genius and moves at its own pace. But not all values are equal, and you cannot build a nation on laws that contradict each other. Saying so is not racist. Racism is about blood. I am talking about laws, customs and values. And those values belong to no race: a Japanese, a Senegalese or an Iranian can make them his own, and millions have. That is exactly why they are worth defending. Let's ",
-   "url": "https://nitter.kareem.one/brivael/status/2116841241241436458#m",
-   "ts": 1793529255,
-   "id": "2116841241241436458#m"
+   "text": "wtf is Grok Jarvis. Grok Jarvis is a Grok Bot plus a Page. The bot holds the personality. The Page is the live screen it builds from plain English. No code. Two prompts and one fix message. 8 parts that make Grok Jarvis work: 1. The personality • Calm, short, precise, a little dry humour • Calls you by your name • Says what it'll do in one line, does it, reports back in one line 2. The morning brief • Say \"Good morning, Jarvis\" • Hear what every bot did and what's waiting on you • Get the one thing to do first 3. The Systems panel • Lists every bot you run with a status light • Shows the last thing each one did • Mine reads 31 active bots 4. Waiting on you • Lines up every decision that needs your yes • Approve or Later on each one • Ticks off on your screen only, nothing gets sent 5. The voice • Reads every answer out loud • The glowing core pulses while it speaks • The reply types out under the core 6. Quick commands • Morning brief, Status, What's waiting, Focus mode • Or type a sentence in the command bar • Focus mode dims the panels and calms the motion 7. The self-fix • My first screen broke: the core was missing • I told Jarvis what I saw and pasted the error • It fixed its own work and sent a bigger core 8. Its own computer • Opens a browser and searches Google for you • Reads competitor sites one by one and returns a table • Says your rules back first: only read, no forms, no contact follow @JulianGoldieSEO for more on Grok Bot. Video",
+   "url": "https://nitter.kareem.one/JulianGoldieSEO/status/2116854011827806310#m",
+   "ts": 1793532300,
+   "id": "2116854011827806310#m"
   },
   {
    "handle": "swyx",
@@ -248,6 +239,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2116773135668404286#m",
    "ts": 1793513017,
    "id": "2116773135668404286#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "This is INSANE. A huge step for humanity. Google Gemma 4 is a actually running at a Data Center in Space. Read that again and let that sink in. Congrats project Suncatcher team! Video",
+   "url": "https://nitter.kareem.one/Saboo_Shubham_/status/2116740612372435274#m",
+   "ts": 1793505263,
+   "id": "2116740612372435274#m"
   },
   {
    "handle": "elonmusk",
