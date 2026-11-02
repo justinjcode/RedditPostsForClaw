@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-02T12:10:13Z",
+ "generated_at": "2026-11-02T12:24:52Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
   {
@@ -59,6 +58,15 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2117146320335241507#m",
    "ts": 1793601992,
    "id": "2117146320335241507#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "A cat desperately struggles to keep from falling. Thank you to the kind grandpa who came to help. 😭🧡 Video",
+   "url": "https://nitter.kareem.one/NoCatsNoLife_m/status/2117110846115467287#m",
+   "ts": 1793593534,
+   "id": "2117110846115467287#m"
   },
   {
    "handle": "realDonaldTrump",
@@ -1051,9 +1059,9 @@
    "id": "2115473170279080149#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
@@ -1103,15 +1111,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2115297093879472332#m",
    "ts": 1793161102,
    "id": "2115297093879472332#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "This seems like a telling example of the industrial policy legacy and mindset shaping much of China’s approach to AI Jiang Jiang (JJ) (@JiangJiang43) Can better networks help China ease hardware constraints on AI development? In Qiushi, a leading Chinese scientist outlines a \"high-speed rail for computing power,\" with potential applications in space and overseas. gingerriver.com/p/chinas-pla… Link China's Plan for a \"High-Speed Rail\" of Computing Power A leading Chinese network scientist outlines how a nationwide computing network could help ease hardware constraints on AI development, with potential applications in space and overseas. gingerriver.com — https://nitter.kareem.one/JiangJiang43/status/2115007804314644844#m",
-   "url": "https://nitter.kareem.one/cdcshepherd/status/2115279197430325528#m",
-   "ts": 1793156835,
-   "id": "2115279197430325528#m"
   },
   {
    "handle": "thsottiaux",
