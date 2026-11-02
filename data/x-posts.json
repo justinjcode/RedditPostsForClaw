@@ -1,20 +1,38 @@
 {
- "generated_at": "2026-11-02T15:36:32Z",
+ "generated_at": "2026-11-02T15:44:20Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@TheRundownAI: all instances failed"
+  "@simonw: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: robotnews.therundown.ai/p/me… Link Meta builds its first humanoid robot PLUS: Walmart goes full-Amazon on robots robotnews.therundown.ai",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2117278198853489093#m",
+   "ts": 1793633434,
+   "id": "2117278198853489093#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in robotics today: - Meta built a humanoid to do your chores - Walmart commits $6B to warehouse robots - Toyota is building Waymo’s next robotaxi - OKA launches screenless mushroom robot",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2117278192171942275#m",
+   "ts": 1793633432,
+   "id": "2117278192171942275#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -23,6 +41,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2117272748112154651#m",
    "ts": 1793632134,
    "id": "2117272748112154651#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "China has likely resumed making weapon-grade uranium at Emeishan thebulletin.org/2026/11/chin… Link China has likely resumed making weapon-grade uranium at Emeishan Satellite imagery and capacity analysis reveal that Beijing is expanding its uninspected Emeishan centrifuge facility—a move strongly suggesting an end to China's nearly four-decade pause on produc... thebulletin.org",
+   "url": "https://nitter.kareem.one/niubi/status/2117260304522395653#m",
+   "ts": 1793629168,
+   "id": "2117260304522395653#m"
   },
   {
    "handle": "elonmusk",
@@ -113,6 +140,15 @@
    "url": "https://nitter.kareem.one/NoCatsNoLife_m/status/2117110846115467287#m",
    "ts": 1793593534,
    "id": "2117110846115467287#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "The U.S. Once Dominated the World’s Oceans. China’s Xi is Changing That. A colossus in shipbuilding, China is undertaking one of the largest peacetime naval buildups in modern history @NiharikaSM @joshchin wsj.com/world/china/china-xi… wsj.com/world/china/china-xi… Link The U.S. Once Dominated the World’s Oceans. China’s Xi is Changing That. A colossus in shipbuilding, China is undertaking one of the largest peacetime naval buildups in modern history. wsj.com",
+   "url": "https://nitter.kareem.one/JChengWSJ/status/2117089564024050082#m",
+   "ts": 1793588460,
+   "id": "2117089564024050082#m"
   },
   {
    "handle": "realDonaldTrump",
@@ -275,6 +311,15 @@
    "url": "https://nitter.kareem.one/CollinRugg/status/2116922678733058176#m",
    "ts": 1793548671,
    "id": "2116922678733058176#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Back from two weeks in China. One takeaway: the K-shaped economy is is widening. Top arm: world-class EVs, AI, drones — Shenzhen blew me away. Bottom arm: falling investment, weak demand, property in free fall, tax revenues plunging. .... A quick 🧵 jamescrabtree.substack.com/p…",
+   "url": "https://nitter.kareem.one/jamescrabtree/status/2116867234849321041#m",
+   "ts": 1793535452,
+   "id": "2116867234849321041#m"
   },
   {
    "handle": "elonmusk",
@@ -1069,24 +1114,6 @@
    "id": "2115444742595260551#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: therundownai.beehiiv.com/p/g… Link Google’s AI worlds can now talk back Google DeepMind's Genie 4 lets you talk to AI-generated characters in simulated worlds, complete with soundtrack and robot demos. Here's what's new in this AI briefing. therundownai.beehiiv.com",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2115390705317101913#m",
-   "ts": 1793183420,
-   "id": "2115390705317101913#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in AI today: - Genie 4 brings sound and interactivity to AI worlds - Anthropic starts developing its own drugs - Make editable product mockups with GPT-6.1 Terra - Axiom’s AI swarm checks math’s longest proof",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2115390700321710583#m",
-   "ts": 1793183419,
-   "id": "2115390700321710583#m"
-  },
-  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -1463,33 +1490,6 @@
    "url": "https://nitter.kareem.one/ClaudeDevs/status/2112299602510749992#m",
    "ts": 1792446444,
    "id": "2112299602510749992#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "Trump Says He Would Be Open to Meeting With Putin and Xi wsj.com/world/trump-putin-xi… via @WSJ Link Trump Says He Would Be Open to Meeting With Putin and Xi The president said he would be willing to discuss denuclearization with the leaders of Russia and China. wsj.com",
-   "url": "https://nitter.kareem.one/Lingling_Wei/status/2112277579088777689#m",
-   "ts": 1792441193,
-   "id": "2112277579088777689#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "\"Have you agreed to a trilateral meeting with Presidents Putin and Xi?\" @POTUS : \"No, but I would do it... We would have it to talk about nuclear weapons and denuclearization.\" Video",
-   "url": "https://nitter.kareem.one/RapidResponse47/status/2112266052247962008#m",
-   "ts": 1792438445,
-   "id": "2112266052247962008#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "UPDATE: Ukraine’s foreign minister rejected the idea of a peace summit without Kyiv, saying it would “encourage Putin to continue his war.” “As long as he continues this terror, there should be no place for him at any table,” Andrii Sybiha wrote Monday on X. Michael Amon (@michaelkamon) THREE'S COMPANY: Putin wants a summit with Trump and Xi to decide Ukraine's fate. Scoop by @Lingling_Wei @learyreports @tggrove @jdawsey1 wsj.com/world/russia/putin-f… Link Exclusive | Putin Floats a Summit With Trump and Xi to Discuss Ukraine Deal Ukraine’s Volodymyr Zelensky wouldn’t be included in the proposed talks, as Russia’s leader seeks to negotiate an end to the war that favors Moscow. wsj.com — https://nitter.kareem.one/michaelkamon/status/2111991521213923497#m",
-   "url": "https://nitter.kareem.one/Lingling_Wei/status/2112141488578596987#m",
-   "ts": 1792408747,
-   "id": "2112141488578596987#m"
   },
   {
    "handle": "bcherny",
