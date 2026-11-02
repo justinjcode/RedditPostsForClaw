@@ -1,20 +1,69 @@
 {
- "generated_at": "2026-11-02T08:13:19Z",
+ "generated_at": "2026-11-02T10:10:15Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "4\" touchscreen for inference engine monitoring",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlsuwf/4_touchscreen_for_inference_engine_monitoring/",
+   "ts": 1793612296,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "[ Removed by Reddit ]",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xlsrl8/removed_by_reddit/",
+   "ts": 1793611939,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Designsystemet, Now in Elm · cekrem.github.io",
+   "url": "https://www.reddit.com/r/programming/comments/1xlsnmi/designsystemet_now_in_elm_cekremgithubio/",
+   "ts": 1793611506,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "If you are using big model compared to ram try and disable mtp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlsd4v/if_you_are_using_big_model_compared_to_ram_try/",
+   "ts": 1793610366,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Simple Feed Reader: self-hosted, multi-user RSS reader with podcasts, YouTube and Bluesky/Mastodon (MIT)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xlrmu8/simple_feed_reader_selfhosted_multiuser_rss/",
+   "ts": 1793607464,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "The fastest double-to-string algorithm you’ve never heard of",
+   "url": "https://www.reddit.com/r/programming/comments/1xlqfb6/the_fastest_doubletostring_algorithm_youve_never/",
+   "ts": 1793602829,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Looking for suggestions over a humble home server",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xlq9hh/looking_for_suggestions_over_a_humble_home_server/",
    "ts": 1793602216,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "List of tiny-to-medium models for web research/coding agents",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlpkqv/list_of_tinytomedium_models_for_web/",
+   "ts": 1793599684,
    "source": "Reddit"
   },
   {
@@ -57,13 +106,6 @@
    "title": "JetBrains/Mellum2.1-12B-A2.5B-Thinking-MTP · Hugging Face",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xln8f2/jetbrainsmellum2112ba25bthinkingmtp_hugging_face/",
    "ts": 1793591886,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Live-Swap CUDA Workloads: llama.cpp, ComfyUI, Strata & More",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlmu81/liveswap_cuda_workloads_llamacpp_comfyui_strata/",
-   "ts": 1793590608,
    "source": "Reddit"
   },
   {
@@ -138,20 +180,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Thinking about optane",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xlieyj/thinking_about_optane/",
-   "ts": 1793577600,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Qwen 3.8 Flash Next NVFP4 on 64gb RAM and 5090, Basalt. Ditched windows for it. Very hyped for qwen 4 model family now.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlicia/qwen_38_flash_next_nvfp4_on_64gb_ram_and_5090/",
-   "ts": 1793577409,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "Self-hosted proxy for npm, PyPI and pub: new releases wait 7 days before anyone at work can install them",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xlhs4m/selfhosted_proxy_for_npm_pypi_and_pub_new/",
    "ts": 1793575819,
@@ -180,13 +208,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "Is Gemma 4 E4B still the best small model for a local, tool-calling personal assistant? What am I missing?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xle3ul/is_gemma_4_e4b_still_the_best_small_model_for_a/",
-   "ts": 1793566346,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "llama2.c on a 2006 iPod @ 80 MHz w/ 64 MB ram and no FPU",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlboqi/llama2c_on_a_2006_ipod_80_mhz_w_64_mb_ram_and_no/",
    "ts": 1793560526,
@@ -197,13 +218,6 @@
    "title": "The Developer Communication Handbook",
    "url": "https://www.reddit.com/r/programming/comments/1xl9z9b/the_developer_communication_handbook/",
    "ts": 1793556511,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Kyoo now released on Android TV with v5.3.0",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xl9wyz/kyoo_now_released_on_android_tv_with_v530/",
-   "ts": 1793556356,
    "source": "Reddit"
   },
   {
@@ -397,13 +411,6 @@
   },
   {
    "subreddit": "programming",
-   "title": "Mastering CSS Shapes with border-shape for Dynamic Designs",
-   "url": "https://www.reddit.com/r/programming/comments/1xjj2n5/mastering_css_shapes_with_bordershape_for_dynamic/",
-   "ts": 1793375555,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
    "title": "How curl was accidentally Turing-complete for nine months",
    "url": "https://www.reddit.com/r/programming/comments/1xjiofl/how_curl_was_accidentally_turingcomplete_for_nine/",
    "ts": 1793374655,
@@ -414,13 +421,6 @@
    "title": "New Project Megathread - Week of 29 Oct 2026",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xiz2ik/new_project_megathread_week_of_29_oct_2026/",
    "ts": 1793314869,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
-   "url": "https://www.reddit.com/r/programming/comments/1xiq8we/linux_kernel_tcp_flaw_with_98_cvss_score_affects/",
-   "ts": 1793294537,
    "source": "Reddit"
   },
   {
