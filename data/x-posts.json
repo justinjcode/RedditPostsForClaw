@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T17:15:39Z",
+ "generated_at": "2026-11-02T17:24:14Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "How I discovered my family’s secret history—as part of America’s earliest wave of illegal immigrants. A fascinating essay by @joshchin wsj.com/arts-culture/books/t… via @WSJ Link Essay | The ‘Paper Son’ Gambit My Family Used to Defy American Exclusion Forced by a restrictive immigration policy to live under a forged identity, my grandfather kept a secret that many Chinese-Americans are only now starting to acknowledge. wsj.com",
+   "url": "https://nitter.kareem.one/Lingling_Wei/status/2117304572045631533#m",
+   "ts": 1793639722,
+   "id": "2117304572045631533#m"
+  },
   {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
@@ -1131,9 +1140,9 @@
    "id": "2115473170279080149#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
@@ -1471,15 +1480,6 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2112531108063826118#m",
    "ts": 1792501639,
    "id": "2112531108063826118#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "I asked Rubio about the prospect of a Trump-Xi-Putin summit (news first scooped by my colleagues @Lingling_Wei and team) His response: Department of State (@StateDept) SECRETARY RUBIO: People need to grow up when it comes to foreign policy a little bit. I don't think it's unusual for the three most powerful, nuclear-armed nations on Earth to have their leaders communicate with each other. Video — https://nitter.kareem.one/StateDept/status/2112510803912138835#m",
-   "url": "https://nitter.kareem.one/RobbieGramer/status/2112527840357015571#m",
-   "ts": 1792500860,
-   "id": "2112527840357015571#m"
   },
   {
    "handle": "bcherny",
