@@ -1,15 +1,64 @@
 {
- "generated_at": "2026-11-02T20:08:38Z",
+ "generated_at": "2026-11-02T22:09:28Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Docker HCI Project",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xmaom2/docker_hci_project/",
+   "ts": 1793656266,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "GPT-6 Astra Edits Qwen Weights: MATH-500 7.9% to 48.1%",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xma0tw/gpt6_astra_edits_qwen_weights_math500_79_to_481/",
+   "ts": 1793654739,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Netbird vs. Pangolin in late 2026",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xm9zmg/netbird_vs_pangolin_in_late_2026/",
+   "ts": 1793654667,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Looking for affordable and scalable hosting for our app",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xm9j0b/looking_for_affordable_and_scalable_hosting_for/",
+   "ts": 1793653602,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Kind of enjoying the ISTA (GSQ-RCO) vs Unsloth beef",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm8xhn/kind_of_enjoying_the_ista_gsqrco_vs_unsloth_beef/",
+   "ts": 1793652228,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Amazon Is Allegedly Canceling GPU Orders And, In Rare Cases, Closing Accounts For Purchasing Compute Hardware; Tim Sweeney Also A Victim Of This Practice",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm8o8g/amazon_is_allegedly_canceling_gpu_orders_and_in/",
+   "ts": 1793651628,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "YSK: Strata and polystrata have this functionality called answer_room",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm8aki/ysk_strata_and_polystrata_have_this_functionality/",
+   "ts": 1793650779,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Research Study on Self-Hosting Communities",
@@ -18,10 +67,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Wow. \"The C Programming Language\", 2nd edition, published in 1988 is still selling for $50. In the *kindle* version.",
-   "url": "https://www.reddit.com/r/programming/comments/1xm7bh8/wow_the_c_programming_language_2nd_edition/",
-   "ts": 1793648637,
+   "subreddit": "LocalLLaMA",
+   "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm6jow/sparks_of_weightspace_programming_llms_can/",
+   "ts": 1793646933,
    "source": "Reddit"
   },
   {
@@ -46,10 +95,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Open source alternate to bear notes",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xm5l84/open_source_alternate_to_bear_notes/",
-   "ts": 1793644894,
+   "subreddit": "LocalLLaMA",
+   "title": "Am I the only one who frequently opens this subreddit and stumbles upon announcements about Qwen4?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm506n/am_i_the_only_one_who_frequently_opens_this/",
+   "ts": 1793643664,
    "source": "Reddit"
   },
   {
@@ -102,31 +151,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Over the wire: Email vs. WhatsApp vs. fmsg",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xm0wdz/over_the_wire_email_vs_whatsapp_vs_fmsg/",
-   "ts": 1793634837,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Running UNCENSORED DeepSeek-V4.1-Flash-1017 on a 12 Gb VRAM",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm0uy0/running_uncensored_deepseekv41flash1017_on_a_12/",
    "ts": 1793634745,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "😃Made My Own Invoicing Dekstop App With Qwen 3.8 27B+OpenCode+LM Studio On RTX 5090..Saved Me $100 a Year I Was Paying",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm0i9m/made_my_own_invoicing_dekstop_app_with_qwen_38/",
-   "ts": 1793633935,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Builders got MiniMax M3.1 Flash's open weights from 252.4 GB down to 93 GB in 10 days, and the lab thanked them by name",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm0b7r/builders_got_minimax_m31_flashs_open_weights_from/",
-   "ts": 1793633499,
    "source": "Reddit"
   },
   {
@@ -141,13 +169,6 @@
    "title": "Small-scale check of \"good views beat next-token prediction\" (Balestriero & LeCun 2026): human captions only, 11M-param encoders [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xlzoze/smallscale_check_of_good_views_beat_nexttoken/",
    "ts": 1793632121,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Qwen 4 When ?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlz5dz/qwen_4_when/",
-   "ts": 1793630875,
    "source": "Reddit"
   },
   {
@@ -197,13 +218,6 @@
    "title": "Not another tok/s post: local quants vs Claude on 9 real bugs",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlwpqv/not_another_toks_post_local_quants_vs_claude_on_9/",
    "ts": 1793624914,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "sensenova/SenseNova-Loop-9B-Preview · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlw9v4/sensenovasensenovaloop9bpreview_hugging_face/",
-   "ts": 1793623713,
    "source": "Reddit"
   },
   {
@@ -264,13 +278,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Trouble with Bindery",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xloirm/trouble_with_bindery/",
-   "ts": 1793596062,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "Alternatives to Invidious? (Hate the UI experience)",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xlogp0/alternatives_to_invidious_hate_the_ui_experience/",
    "ts": 1793595871,
@@ -312,24 +319,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Sorry Sam, my \"quite terrible\" home DRAM is at 100% now: patched Strata to make DeepSeek V4.1 agent sessions start 20× faster on a good old standard gaming GPU, no datacenter required",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xljdnj/sorry_sam_my_quite_terrible_home_dram_is_at_100/",
-   "ts": 1793580293,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Securely Accessing Your Self-Hosted Services with mTLS and Cloudflare Tunnels",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xlinb6/securely_accessing_your_selfhosted_services_with/",
    "ts": 1793578162,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "[GLB-3D-Coder] A tiny 4B coding model that creates 3D assets for Godot and other game engines",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlh0zw/glb3dcoder_a_tiny_4b_coding_model_that_creates_3d/",
-   "ts": 1793573779,
    "source": "Reddit"
   },
   {
@@ -407,6 +400,13 @@
    "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xjyo89/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
    "ts": 1793413821,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "How hard is it to check for whitespace?",
+   "url": "https://www.reddit.com/r/programming/comments/1xjtach/how_hard_is_it_to_check_for_whitespace/",
+   "ts": 1793399073,
    "source": "Reddit"
   },
   {
