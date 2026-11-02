@@ -1,15 +1,57 @@
 {
- "generated_at": "2026-11-02T04:11:23Z",
+ "generated_at": "2026-11-02T06:17:35Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Non-*arr self-hosted recommendations?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xlox3y/nonarr_selfhosted_recommendations/",
+   "ts": 1793597412,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Trouble with Bindery",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xloirm/trouble_with_bindery/",
+   "ts": 1793596062,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Alternatives to Invidious? (Hate the UI experience)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xlogp0/alternatives_to_invidious_hate_the_ui_experience/",
+   "ts": 1793595871,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "JetBrains/Mellum2.1-12B-A2.5B-Thinking-MTP · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xln8f2/jetbrainsmellum2112ba25bthinkingmtp_hugging_face/",
+   "ts": 1793591886,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Live-Swap CUDA Workloads: llama.cpp, ComfyUI, Strata & More",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlmu81/liveswap_cuda_workloads_llamacpp_comfyui_strata/",
+   "ts": 1793590608,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "AMA Announcement: Reflection, the lab behind behind Beam (Tuesday Nov 3rd, 8am-11am PT)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlmkk4/ama_announcement_reflection_the_lab_behind_behind/",
+   "ts": 1793589748,
+   "source": "Reddit"
+  },
   {
    "subreddit": "MachineLearning",
    "title": "[D] Self-Promotion Thread",
@@ -29,6 +71,13 @@
    "title": "UnEZ: A fully unsupervised, directly interpretable neural network [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xlkj9m/unez_a_fully_unsupervised_directly_interpretable/",
    "ts": 1793583648,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "8 agents × 250K context, concurrently, on two 3090s (~600+ tok/s total)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlk43x/8_agents_250k_context_concurrently_on_two_3090s/",
+   "ts": 1793582399,
    "source": "Reddit"
   },
   {
@@ -74,13 +123,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Qwen 3.8 Flash Next NVFP4 on 64gb RAM and 5090, Basalt. Ditched windows for it. Very hyped for qwen 4 model family now.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlicia/qwen_38_flash_next_nvfp4_on_64gb_ram_and_5090/",
-   "ts": 1793577409,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Self-hosted proxy for npm, PyPI and pub: new releases wait 7 days before anyone at work can install them",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xlhs4m/selfhosted_proxy_for_npm_pypi_and_pub_new/",
@@ -92,13 +134,6 @@
    "title": "[GLB-3D-Coder] A tiny 4B coding model that creates 3D assets for Godot and other game engines",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlh0zw/glb3dcoder_a_tiny_4b_coding_model_that_creates_3d/",
    "ts": 1793573779,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Benchmarking: Qwen 27B, 35B, QFN180B; Nemotron Bolt 74B, Flint40B & Clover 35B (Q4 + KFlash) on MacBook M5 Max 2026 with Kapitsa (Apple Silicon Inference Engine)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlgu8m/benchmarking_qwen_27b_35b_qfn180b_nemotron_bolt/",
-   "ts": 1793573261,
    "source": "Reddit"
   },
   {
@@ -120,13 +155,6 @@
    "title": "Is Gemma 4 E4B still the best small model for a local, tool-calling personal assistant? What am I missing?",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xle3ul/is_gemma_4_e4b_still_the_best_small_model_for_a/",
    "ts": 1793566346,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "tandem.cpp: Qwen3.8-Flash-Next at 97 tok/s on a single 4090 + 64 GB RAM, 3.3× llama.cpp, works for any MoE",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xldent/tandemcpp_qwen38flashnext_at_97_toks_on_a_single/",
-   "ts": 1793564630,
    "source": "Reddit"
   },
   {
@@ -162,13 +190,6 @@
    "title": "I animated what GPT-4o's tokenizer does to \"strawberry\": real token ids, a tiny BPE run, and why the space belongs to the word (6 min video) [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xl9sv7/i_animated_what_gpt4os_tokenizer_does_to/",
    "ts": 1793556088,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "OneNote Replacement with Native Android Client",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xl9bgr/onenote_replacement_with_native_android_client/",
-   "ts": 1793554983,
    "source": "Reddit"
   },
   {
@@ -249,13 +270,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Project NOMAD \"Smaller\" Alternatives?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xl2fg7/project_nomad_smaller_alternatives/",
-   "ts": 1793537908,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Data augmentation question. How do I characterise an original and augmented datasets where the augmentation parameters were zoom and crop? [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xl1uba/data_augmentation_question_how_do_i_characterise/",
@@ -295,13 +309,6 @@
    "title": "Best option for local models [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkwrp3/best_option_for_local_models_d/",
    "ts": 1793517413,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Best method for selective backups?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xkuvdz/best_method_for_selective_backups/",
-   "ts": 1793510291,
    "source": "Reddit"
   },
   {
@@ -393,13 +400,6 @@
    "title": "How curl was accidentally Turing-complete for nine months",
    "url": "https://www.reddit.com/r/programming/comments/1xjiofl/how_curl_was_accidentally_turingcomplete_for_nine/",
    "ts": 1793374655,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "We’re MOSS, the team behind MOSS-Image, MOSS-TTS, and more — Ask Us Anything!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjhpn9/were_moss_the_team_behind_mossimage_mosstts_and/",
-   "ts": 1793372455,
    "source": "Reddit"
   },
   {
