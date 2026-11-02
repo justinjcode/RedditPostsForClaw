@@ -1,9 +1,7 @@
 {
- "generated_at": "2026-11-02T00:16:07Z",
+ "generated_at": "2026-11-02T00:45:01Z",
  "accounts_ok": [
   "TheRundownAI",
-  "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -11,10 +9,21 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed"
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "Video",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2117052438515777925#m",
+   "ts": 1793579608,
+   "id": "2117052438515777925#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -1085,15 +1094,6 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2115266669379494311#m",
    "ts": 1793153848,
    "id": "2115266669379494311#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "nitterk.kareem.one/i/broadcasts/1MJgNbRVO… Link RSBN 🇺🇸 LIVE: President Trump Holds Rallies in Corpus Christi & Lubbock, Texas - 10/27/26 https://nitter.kareem.one/i/broadcasts/1MJgNbRVOLkGL",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2115166627268337801#m",
-   "ts": 1793129996,
-   "id": "2115166627268337801#m"
   },
   {
    "handle": "ZichenWanghere",
