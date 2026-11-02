@@ -1,15 +1,43 @@
 {
- "generated_at": "2026-11-02T00:21:30Z",
+ "generated_at": "2026-11-02T02:13:17Z",
  "count": 60,
  "subreddits_ok": [
+  "LocalLLaMA",
   "MachineLearning",
-  "programming",
-  "selfhosted"
+  "programming"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "MachineLearning",
+   "title": "UnEZ: A fully unsupervised, directly interpretable neural network [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xlkj9m/unez_a_fully_unsupervised_directly_interpretable/",
+   "ts": 1793583648,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "LFM3 Omni 2B is INCREDIBLE",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlk2kb/lfm3_omni_2b_is_incredible/",
+   "ts": 1793582270,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Do we really need all these \"speed\" posts?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xljjf2/do_we_really_need_all_these_speed_posts/",
+   "ts": 1793580760,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Sorry Sam, my \"quite terrible\" home DRAM is at 100% now: patched Strata to make DeepSeek V4.1 agent sessions start 20× faster on a good old standard gaming GPU, no datacenter required",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xljdnj/sorry_sam_my_quite_terrible_home_dram_is_at_100/",
+   "ts": 1793580293,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Securely Accessing Your Self-Hosted Services with mTLS and Cloudflare Tunnels",
@@ -18,10 +46,31 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "Qwen 3.8 Flash Next NVFP4 on 64gb RAM and 5090, Basalt. Ditched windows for it. Very hyped for qwen 4 model family now.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlicia/qwen_38_flash_next_nvfp4_on_64gb_ram_and_5090/",
+   "ts": 1793577409,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
    "title": "Self-hosted proxy for npm, PyPI and pub: new releases wait 7 days before anyone at work can install them",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xlhs4m/selfhosted_proxy_for_npm_pypi_and_pub_new/",
    "ts": 1793575819,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "[GLB-3D-Coder] A tiny 4B coding model that creates 3D assets for Godot and other game engines",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlh0zw/glb3dcoder_a_tiny_4b_coding_model_that_creates_3d/",
+   "ts": 1793573779,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Benchmarking: Qwen 27B, 35B, QFN180B; Nemotron Bolt 74B, Flint40B & Clover 35B (Q4 + KFlash) on MacBook M5 Max 2026 with Kapitsa (Apple Silicon Inference Engine)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlgu8m/benchmarking_qwen_27b_35b_qfn180b_nemotron_bolt/",
+   "ts": 1793573261,
    "source": "Reddit"
   },
   {
@@ -47,9 +96,9 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "QwenBend : Qwen writes a Bend program, then the same model type checks it with Bend2 rules and runs it inside its own forward pass",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xle8ta/qwenbend_qwen_writes_a_bend_program_then_the_same/",
-   "ts": 1793566687,
+   "title": "Is Gemma 4 E4B still the best small model for a local, tool-calling personal assistant? What am I missing?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xle3ul/is_gemma_4_e4b_still_the_best_small_model_for_a/",
+   "ts": 1793566346,
    "source": "Reddit"
   },
   {
@@ -110,13 +159,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "Meet Ava: In-browser local AI avatar with LFM3-Omni and WebGPU",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl9577/meet_ava_inbrowser_local_ai_avatar_with_lfm3omni/",
-   "ts": 1793554577,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "Coding is solved* (exclusions apply)",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl90rr/coding_is_solved_exclusions_apply/",
    "ts": 1793554292,
@@ -172,13 +214,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "LFM3-1.7b seems impressive",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl64ho/lfm317b_seems_impressive/",
-   "ts": 1793547495,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "The case against Makefiles",
    "url": "https://www.reddit.com/r/programming/comments/1xl5irk/the_case_against_makefiles/",
@@ -207,13 +242,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "DeepSeek: Exploring Super-agent Design: Towards a More Autonomous Agent System",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl1zn3/deepseek_exploring_superagent_design_towards_a/",
-   "ts": 1793536574,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Data augmentation question. How do I characterise an original and augmented datasets where the augmentation parameters were zoom and crop? [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xl1uba/data_augmentation_question_how_do_i_characterise/",
@@ -225,13 +253,6 @@
    "title": "LSREP: A Longitudinal State-Replay Protocol for Evaluating Conversational Memory [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkzwz9/lsrep_a_longitudinal_statereplay_protocol_for/",
    "ts": 1793529514,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "new research: A tiny 109M-parameter model outperforms models up to 72B parameters at image-text alignment, using 42× less training data",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkzony/new_research_a_tiny_109mparameter_model/",
-   "ts": 1793528661,
    "source": "Reddit"
   },
   {
@@ -274,13 +295,6 @@
    "title": "Are there fundamental repeating patterns in ML techniques across modalities (text, image, audio) that let us group them? [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkp8e9/are_there_fundamental_repeating_patterns_in_ml/",
    "ts": 1793491624,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Well, my local AI addiction officially got out of hand tonight.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xklq96/well_my_local_ai_addiction_officially_got_out_of/",
-   "ts": 1793481662,
    "source": "Reddit"
   },
   {
@@ -407,20 +421,6 @@
    "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
    "url": "https://www.reddit.com/r/programming/comments/1xiq8we/linux_kernel_tcp_flaw_with_98_cvss_score_affects/",
    "ts": 1793294537,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Old-school classifiers are still generally better than Jev [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xil53d/oldschool_classifiers_are_still_generally_better/",
-   "ts": 1793283185,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "[Bi-Weekly Megathread] Project Showcase",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yg86/biweekly_megathread_project_showcase/",
-   "ts": 1792420251,
    "source": "Reddit"
   },
   {
