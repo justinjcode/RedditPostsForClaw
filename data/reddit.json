@@ -1,20 +1,34 @@
 {
- "generated_at": "2026-11-02T06:17:35Z",
+ "generated_at": "2026-11-02T08:13:19Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
+  "MachineLearning",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Looking for suggestions over a humble home server",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xlq9hh/looking_for_suggestions_over_a_humble_home_server/",
+   "ts": 1793602216,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Non-*arr self-hosted recommendations?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xlox3y/nonarr_selfhosted_recommendations/",
    "ts": 1793597412,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "How to handle object deduplication across multiple camera angles using YOLO (especially for tiny 20x22px crops) across isolated user sessions? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xloo4i/how_to_handle_object_deduplication_across/",
+   "ts": 1793596550,
    "source": "Reddit"
   },
   {
@@ -29,6 +43,13 @@
    "title": "Alternatives to Invidious? (Hate the UI experience)",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xlogp0/alternatives_to_invidious_hate_the_ui_experience/",
    "ts": 1793595871,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "[R] There is no free lunch in RLVR: under strategy specialization, every pass@1 gain provably costs some prompt, and the pass@k crossover has a tight bound [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xlnu1y/r_there_is_no_free_lunch_in_rlvr_under_strategy/",
+   "ts": 1793593811,
    "source": "Reddit"
   },
   {
@@ -67,13 +88,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "UnEZ: A fully unsupervised, directly interpretable neural network [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xlkj9m/unez_a_fully_unsupervised_directly_interpretable/",
-   "ts": 1793583648,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "8 agents × 250K context, concurrently, on two 3090s (~600+ tok/s total)",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlk43x/8_agents_250k_context_concurrently_on_two_3090s/",
@@ -85,6 +99,13 @@
    "title": "LFM3 Omni 2B is INCREDIBLE",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlk2kb/lfm3_omni_2b_is_incredible/",
    "ts": 1793582270,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Benchmarking: Qwen 27B, 35B, QFN180B; Nemotron Bolt 74B, Flint40B & Clover 35B (Q4) on M5 Max 2026 on Kapitsa with KFlash [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xljter/benchmarking_qwen_27b_35b_qfn180b_nemotron_bolt/",
+   "ts": 1793581533,
    "source": "Reddit"
   },
   {
@@ -123,6 +144,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "Qwen 3.8 Flash Next NVFP4 on 64gb RAM and 5090, Basalt. Ditched windows for it. Very hyped for qwen 4 model family now.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlicia/qwen_38_flash_next_nvfp4_on_64gb_ram_and_5090/",
+   "ts": 1793577409,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
    "title": "Self-hosted proxy for npm, PyPI and pub: new releases wait 7 days before anyone at work can install them",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xlhs4m/selfhosted_proxy_for_npm_pypi_and_pub_new/",
@@ -155,13 +183,6 @@
    "title": "Is Gemma 4 E4B still the best small model for a local, tool-calling personal assistant? What am I missing?",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xle3ul/is_gemma_4_e4b_still_the_best_small_model_for_a/",
    "ts": 1793566346,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "I imagine my next best course of action would be to buy optane",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xlddko/i_imagine_my_next_best_course_of_action_would_be/",
-   "ts": 1793564555,
    "source": "Reddit"
   },
   {
@@ -291,13 +312,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkxt7a/memdoor_a_team_of_5_qwen3827b_models_beats_fable/",
-   "ts": 1793521458,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "I contributed to Golang, here is how you can too",
    "url": "https://www.reddit.com/r/programming/comments/1xkx9zu/i_contributed_to_golang_here_is_how_you_can_too/",
@@ -323,13 +337,6 @@
    "title": "Am I An Idiot",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xklmzn/am_i_an_idiot/",
    "ts": 1793481418,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Is neuro-evolution relevant? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xkh5bw/is_neuroevolution_relevant_d/",
-   "ts": 1793470193,
    "source": "Reddit"
   },
   {
@@ -400,13 +407,6 @@
    "title": "How curl was accidentally Turing-complete for nine months",
    "url": "https://www.reddit.com/r/programming/comments/1xjiofl/how_curl_was_accidentally_turingcomplete_for_nine/",
    "ts": 1793374655,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Freind of mine published a paper with fabricated results in a top journal and got accepted and i feel disgusted [d]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xj8tvc/freind_of_mine_published_a_paper_with_fabricated/",
-   "ts": 1793345123,
    "source": "Reddit"
   },
   {
