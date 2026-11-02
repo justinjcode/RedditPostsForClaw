@@ -1,20 +1,28 @@
 {
- "generated_at": "2026-11-02T18:20:18Z",
+ "generated_at": "2026-11-02T18:29:21Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@simonw: all instances failed",
-  "@bcherny: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "after 3 years of building from nothing, we are now serving 2M monthly unique engineers on aie youtube. (76% not subscribed lol. idk if it matters but pls subscribe! we need to keep up momentum to cross 1M subs roughly around aie.codes it looks like) swyx (@swyx) In Jan this year I called my content strategy shot: \"Scaling without Slop\". It's finally starting to work. It took us 3 years to reach our first 100k on youtube. It only took 1.2 months for the next 100k. Similar other metrics on AEO/SEO/subscriber traction and have a lot of New Media ideas that I'm excited to pursue. officially giving notice of the next phase of Latent Space, AINews, and what the rest of swyx inc has been cooking below — https://nitter.kareem.one/swyx/status/2103361254433993165#m",
+   "url": "https://nitter.kareem.one/swyx/status/2117321973080760644#m",
+   "ts": 1793643870,
+   "id": "2117321973080760644#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -790,15 +798,6 @@
    "id": "2116070712373105117#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Anthropic rewrote its Messages API in Rust. Zero Rust devs on the team. Claude wrote the code. Humans wrote the plan and checked old vs new matched on real traffic. CPU dropped 40-50%. Pretty sure \"never do the big rewrite\" is dead advice. @katelyn_lesse on @latentspacepod Video",
-   "url": "https://nitter.kareem.one/somi_ai/status/2116050219989373170#m",
-   "ts": 1793340661,
-   "id": "2116050219989373170#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -1150,9 +1149,9 @@
    "id": "2115473170279080149#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
