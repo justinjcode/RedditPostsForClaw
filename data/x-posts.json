@@ -1,20 +1,28 @@
 {
- "generated_at": "2026-11-02T16:53:49Z",
+ "generated_at": "2026-11-02T17:05:58Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "\"Some hiring managers in China told me the attitude of young job seekers is at fault, describing them as lazy, picky and weak. Some might be. But the jobless numbers suggest there is a bigger economic problem,\" writes @hannahmiao_ wsj.com/world/china/what-i-l… via @WSJ Link What I Learned in ‘Dalifornia,’ China’s Laid-Back Capital of Doing Nothing A trend among China’s youth of fleeing the rat race and doing the bare minimum has prompted concern in Beijing. But most young Chinese do want to work. wsj.com",
+   "url": "https://nitter.kareem.one/Lingling_Wei/status/2117301887682940962#m",
+   "ts": 1793639082,
+   "id": "2117301887682940962#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -1472,15 +1480,6 @@
    "url": "https://nitter.kareem.one/RobbieGramer/status/2112527840357015571#m",
    "ts": 1792500860,
    "id": "2112527840357015571#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "Xi’s widening purge is targeting officials with ties to rival political networks as China prepares for its 2027 leadership reshuffle. An interview with @guoguang_wu Read more in this edition of the WSJ China newsletter. wsj.com/world/china/chinas-u… via @WSJ Link China’s Ultimate Political Survivor Just Fell. What That Says About Xi’s Rule. Plus, export-driven growth rebounds, masking deepening economic problems that are creating a lost generation. wsj.com",
-   "url": "https://nitter.kareem.one/Lingling_Wei/status/2112512637825421611#m",
-   "ts": 1792497236,
-   "id": "2112512637825421611#m"
   },
   {
    "handle": "bcherny",
