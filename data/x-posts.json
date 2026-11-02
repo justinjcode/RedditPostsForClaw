@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-02T14:07:44Z",
+ "generated_at": "2026-11-02T14:19:39Z",
  "accounts_ok": [
-  "TheRundownAI",
+  "Lingling_Wei",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx"
+  "swyx",
+  "thsottiaux"
  ],
  "errors": [
-  "@thsottiaux: all instances failed",
-  "@Lingling_Wei: all instances failed"
+  "@TheRundownAI: all instances failed"
  ],
  "count": 176,
  "items": [
@@ -23,6 +23,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2117252866503290905#m",
    "ts": 1793627394,
    "id": "2117252866503290905#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Elon Musk's naming choices for Colossus 2 are on a completely different level 😭 • Macrohard • Macroharder • Minihard • Gun Range • Spam This man built the most powerful SI data center on Earth, is building the future of superintelligence, and these are the names he comes up with 😂 X Freeze (@XFreeze) SpaceXSI is building the most powerful SI training cluster on Earth, with Colossus 2 reaching around 1.2M Blackwell GPUs by the end of this year — https://nitter.kareem.one/XFreeze/status/2116619519989096450#m",
+   "url": "https://nitter.kareem.one/XFreeze/status/2117247883842084961#m",
+   "ts": 1793626206,
+   "id": "2117247883842084961#m"
   },
   {
    "handle": "TheRundownAI",
@@ -185,15 +194,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2116990933103509723#m",
    "ts": 1793564944,
    "id": "2116990933103509723#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Yes Napoleon Bonaparte (@Napoleon__Bon) Elon Musk on his grandfather in World War 2: \"My grandfather was in World War II for almost six years. All his friends got killed. He's the only one of his friends to survive. And he was severely traumatized. He really just couldn't even talk afterwards. Most of that time was in East Africa, North Africa, Italy. The only reason he's even alive frankly is because towards the end of the war they gave an aptitude test because he was just a corporal. He didn't graduate high school so he wasn't eligible for officer school. And they plucked him out probably right before he died and sent him to work for British intelligence in London which is where he met my grandmother. So he was one of the people fighting to stop the Nazis along with millions of others. So let's not forget that the vast majority of the West fought and died to stop Nazism.\" Video — https://nitter.kareem.one/Napoleon__Bon/status/2116918244363878832#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2116990584048984346#m",
-   "ts": 1793564861,
-   "id": "2116990584048984346#m"
   },
   {
    "handle": "realDonaldTrump",
@@ -1060,9 +1060,9 @@
    "id": "2115473170279080149#m"
   },
   {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
