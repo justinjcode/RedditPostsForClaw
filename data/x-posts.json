@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-02T23:23:26Z",
+ "generated_at": "2026-11-02T23:34:12Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +11,7 @@
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed"
+  "@TheRundownAI: all instances failed"
  ],
  "count": 176,
  "items": [
@@ -37,7 +37,7 @@
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
    "author": "@realDonaldTrump",
-   "text": "Video",
+   "text": "Video Community note: The president has previously promised on multiple occasions similar checks of $2000-$5000 from tariff revenues and DOGE cuts, however none ever materialized. axios.com/2025/11/17/200… abcnews.com/Politics/trump… nbcnews.com/politics/doge/… 13newsnow.com/article/news/n… nytimes.com/2026/09/10/us/… In fact, when asked about these checks at later dates he pretended he never promised them. masslive.com/politics/2026/…",
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2117358007793377387#m",
    "ts": 1793652462,
    "id": "2117358007793377387#m"
@@ -284,6 +284,15 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2117301887682940962#m",
    "ts": 1793639082,
    "id": "2117301887682940962#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "卧槽！不知该惊喜还是惊吓！监控里看到我家咪咪唱着小曲拖着猫窝晒太阳了！！ Video",
+   "url": "https://nitter.kareem.one/PicCrow/status/2117290170949275949#m",
+   "ts": 1793636288,
+   "id": "2117290170949275949#m"
   },
   {
    "handle": "thsottiaux",
@@ -1085,15 +1094,6 @@
    "url": "https://nitter.kareem.one/sinoautoman/status/2115649164323545529#m",
    "ts": 1793245042,
    "id": "2115649164323545529#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Europe’s hybrid export quota could backfire. 🧵 sinoautoman.substack.com/p/e…",
-   "url": "https://nitter.kareem.one/sinoautoman/status/2115649133554122782#m",
-   "ts": 1793245034,
-   "id": "2115649133554122782#m"
   },
   {
    "handle": "thsottiaux",
