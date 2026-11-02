@@ -1,20 +1,38 @@
 {
- "generated_at": "2026-11-02T11:34:45Z",
+ "generated_at": "2026-11-02T11:43:49Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "bcherny",
+  "TheRundownAI",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@simonw: all instances failed",
+  "@bcherny: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: therundownai.beehiiv.com/p/a… Link AI backlash heads to the polls AI backlash is heading to the polls as voters push back against data centers in their backyards. Here's how the fight over AI's buildout is shaping the midterms. therundownai.beehiiv.com",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2117217864562114973#m",
+   "ts": 1793619049,
+   "id": "2117217864562114973#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in AI today: - Data centers hit the ballot as OpenAI plots a rebrand - The Rundown Roundtable: Our AI use cases - Make AI artwork you can actually edit - Google’s space data center sends home a haiku",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2117217859508007009#m",
+   "ts": 1793619048,
+   "id": "2117217859508007009#m"
+  },
   {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
@@ -1121,24 +1139,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2115128326922883517#m",
    "ts": 1793120864,
    "id": "2115128326922883517#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "NEW: Google DeepMind introduced Genie 4, the company’s next-gen world model that builds walkable worlds from a text prompt in real time. It’s the first Genie to generate its own sound, including characters you can talk to. Launching in research preview for trusted testers, with Google AI Ultra subscribers getting access next: Video",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2115116855236887022#m",
-   "ts": 1793118129,
-   "id": "2115116855236887022#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "A few more AI math and science results to add to the list from this week: @AnthropicAI says Claude also disproved the Exponential Time Hypothesis, separately from OpenAI. It found the key algorithm on Oct. 16 using \"14M output tokens and no human input.\" @axiommathai ’s AI agents computer-checked a 15,000-page math proof, written by ~100 mathematicians over decades, in 24 days. They also caught a flaw in one of the original arguments. @psipbc says its AI made progress on five open quantum physics problems, each backed by a paper and a computer-checked proof. The Rundown AI (@TheRundownAI) NEW: OpenAI says its AI just made three major discoveries in math, computer science, and physics. 1. Local smoothing + Kakeya conjectures (math): proved in every dimension. A 35-year-old question about how waves focus. 2. Exponential Time Hypothesis (computer science): disproved. Hundreds of research papers were built on it being true 3. Existence of QCD + Yang–Mills (physics): proved. Physics’ theory of the force holding atoms together now stands on solid math, including part of a $1M Millennium Prize problem. — https://nitter.kareem.one/TheRundownAI/status/2114839833134674351#m",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2115113176693969059#m",
-   "ts": 1793117252,
-   "id": "2115113176693969059#m"
   },
   {
    "handle": "Lingling_Wei",
