@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-02T18:08:02Z",
+ "generated_at": "2026-11-02T18:20:18Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
-  "bcherny",
+  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@simonw: all instances failed",
+  "@bcherny: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "OpenAI says it wants ChatGPT handling your life admin, so it built LifeVal, a test of real chores picked using studies of how people spend their time and a 3,995-person poll. GPT-6 Astra hit 100% on 10 of the 16 tasks in its results table. A few, with its \"best recorded\" score on each: - Finding a match for a lost engagement ring: 100% - Quitting email lists: 100% - Texas food-aid paperwork: 98.7% - Diet plan for a diabetic parent: 90.4% - Checking LSAT answers: 88.7% Its average across the whole test is 80.6%. Video",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2117316324166651979#m",
+   "ts": 1793642524,
+   "id": "2117316324166651979#m"
+  },
   {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
@@ -106,6 +115,15 @@
    "id": "2117247883842084961#m"
   },
   {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "This would be insane. Tucker Carlson (@TuckerCarlson) Under pressure from Israeli prime minister Benjamin Netanyahu, the Trump administration may be within days of launching a nuclear strike on Iran. The target would be Pickax Mountain in central Iran, where Israeli intelligence claims the Iranian government has restarted its nuclear enrichment program. No conventional weapon in the American arsenal can penetrate 300 feet of solid granite to destroy the tunnels where enrichment is supposedly taking place. The only military option is a nuclear strike. Netanyahu has been pushing hard for one. “Bibi calls Trump about it every day,” says an informed observer. Netanyahu is cornered and desperate. After last week’s election results, he can’t form a government unless Trump intervenes directly in Israeli politics and brokers a deal with other parties that gives Netanyahu 61 seats in the Knesset. Otherwise, he is out as prime minister and on his way to ignominy, investigations and possibly jail. Netanyahu must stay close to Trump. He needs this war. To that end, he’s applied maximum pressure to his closest allies in the administration, including Secretary of Defense Pete Hegseth and CENTCOM commander Brad Cooper. Both oppose a negotiated settlement to the war they’ve so grievously mismanaged; both are pushing to restart major combat operations. Secretary of State Marco Rubio and CIA director John Ratcliffe are also following Netanyahu’s lead, as are leaders of the Democratic Party. In",
+   "url": "https://nitter.kareem.one/amanpour/status/2117239214685508088#m",
+   "ts": 1793624139,
+   "id": "2117239214685508088#m"
+  },
+  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -149,6 +167,15 @@
    "url": "https://nitter.kareem.one/scpxxxxxxx/status/2117156959946437113#m",
    "ts": 1793604528,
    "id": "2117156959946437113#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "再次提醒大家：一定要不断给生活注入新的东西， 比如去没去过的地方，尝试没做过的事，认识不同的人，学习新的知识。因为日子过久了，人很容易陷入重复，慢慢失去感受生活的能力。 新的体验不只是带来快乐，更能打破原本的思维框架，让你重新看见生活的可能。保持年轻的秘诀不是年龄多小，而是你始终对世界充满好奇。",
+   "url": "https://nitter.kareem.one/king1818888/status/2117151221022597194#m",
+   "ts": 1793603160,
+   "id": "2117151221022597194#m"
   },
   {
    "handle": "realDonaldTrump",
@@ -1087,15 +1114,6 @@
    "id": "2115544056038350960#m"
   },
   {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Congrats to Bo Li on a job fantastically well done. He has been an immensely smart, effective and articulate spokesperon for the IMF and enormously helped advance achievement of its objectives. Kristalina Georgieva (@KGeorgieva) Today, I announced that DMD Bo Li will conclude his IMF term on Nov. 30. He leaves a lasting legacy and will be missed. I also proposed Mr. Min Liao as his successor, effective Dec. 1. His experience will be a tremendous asset to the IMF and our members. imf.org/en/news/articles/202… — https://nitter.kareem.one/KGeorgieva/status/2115518197004918834#m",
-   "url": "https://nitter.kareem.one/sobel_mark/status/2115521750587064411#m",
-   "ts": 1793214664,
-   "id": "2115521750587064411#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -1121,15 +1139,6 @@
    "url": "https://nitter.kareem.one/bcherny/status/2115491259381072269#m",
    "ts": 1793207394,
    "id": "2115491259381072269#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Artificial Analysis just rebuilt its \"Intelligence Index\" AI leaderboard, with 60% of it now running on private tests models can’t study for. The new standings: 1. Claude Opus 5.5 – 58, still topping the charts 2. GPT-6 Astra – 57 3. GPT-6.1 Sol – 55 4. Claude Sonnet 5.5 – 54 5. GPT-6.1 Terra – 51, ahead of Gemini 4 Argon (50) and Claude Fable 5.1 (49) at ~1/13 of Fable’s cost Kimi K3.1 Pro, Moonshot’s model with open weights due Nov. 4, fell from 55 to 46 under the new testing, dropping from just 3 points behind the top spot to 12. The best open models available today, DeepSeek V4.1 Flash and GLM-5.3, score 32, below Claude Haiku 5.5 (36). Artificial Analysis (@ArtificialAnlys) Announcing Artificial Analysis Intelligence Index v5, featuring 2 new benchmarks and 3 upgrades. For the first time, the majority of the Index is built on private datasets The Artificial Analysis Intelligence Index is our composite measure of model capabilities across tasks reflecting real-world usage today. v5 is our biggest upgrade since v4 launched in January. With v5, 60% of the Index is now based on evaluations with private test sets or held-out answers. Alongside Intelligence Index v5, we’re launching the Artificial Analysis Progress Index v1, which tracks model capability over time on one continuous scale. New to the Intelligence Index: ➤ FrontierCode 2.0: Cognition's newly-launched private benchmark of real-world coding tasks, graded on whether a repository maintainer would merge the agent's c",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2115489453611356402#m",
-   "ts": 1793206964,
-   "id": "2115489453611356402#m"
   },
   {
    "handle": "thsottiaux",
@@ -1211,15 +1220,6 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2115048188055019826#m",
    "ts": 1793101758,
    "id": "2115048188055019826#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Can better networks help China ease hardware constraints on AI development? In Qiushi, a leading Chinese scientist outlines a \"high-speed rail for computing power,\" with potential applications in space and overseas. gingerriver.com/p/chinas-pla… Link China's Plan for a \"High-Speed Rail\" of Computing Power A leading Chinese network scientist outlines how a nationwide computing network could help ease hardware constraints on AI development, with potential applications in space and overseas. gingerriver.com",
-   "url": "https://nitter.kareem.one/JiangJiang43/status/2115007804314644844#m",
-   "ts": 1793092130,
-   "id": "2115007804314644844#m"
   },
   {
    "handle": "thsottiaux",
