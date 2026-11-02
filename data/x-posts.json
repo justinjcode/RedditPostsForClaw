@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-02T19:34:15Z",
+ "generated_at": "2026-11-02T19:43:49Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
+  "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@realDonaldTrump: all instances failed"
+  "@TheRundownAI: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "TO THE GREAT PEOPLE OF WYOMING, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP swampthevoteusa.com/wyoming/",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2117339356541358475#m",
+   "ts": 1793648015,
+   "id": "2117339356541358475#m"
+  },
   {
    "handle": "simonw",
    "name": "Simon Willison",
@@ -1094,15 +1103,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2115588390414581916#m",
    "ts": 1793230552,
    "id": "2115588390414581916#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "nitterk.kareem.one/i/broadcasts/1yKAPwjza… Link RSBN 🇺🇸 LIVE: President Trump Holds a Rally in Chillicothe, OH - 10/28/26 https://nitter.kareem.one/i/broadcasts/1yKAPwjzamoxb",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2115585451541025092#m",
-   "ts": 1793229851,
-   "id": "2115585451541025092#m"
   },
   {
    "handle": "Lingling_Wei",
