@@ -1,18 +1,17 @@
 {
- "generated_at": "2026-11-02T11:43:49Z",
+ "generated_at": "2026-11-02T11:53:31Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@simonw: all instances failed",
-  "@bcherny: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
   {
@@ -32,6 +31,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2117217859508007009#m",
    "ts": 1793619048,
    "id": "2117217859508007009#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Estos días han empezado a subir a YouTube las charlas de @aiDotEngineer AI Engineer, la conferencia de IA más importante ahora mismo en el panorama mundial. Empresas contando cómo incorporan y escalan IA. Realmente SoTA. He seleccionado las 10 más relevantes. Va hilo 🧵 con todas. Son todas bastante crema :chefkiss Like, RT y guárdatelo para poder verlas luego. 👇",
+   "url": "https://nitter.kareem.one/borjaperfra/status/2117193535661203864#m",
+   "ts": 1793613249,
+   "id": "2117193535661203864#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -680,15 +688,6 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2116044783064060174#m",
    "ts": 1793339365,
    "id": "2116044783064060174#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "excited for @Cloudflare 's debut as a frontier lab #NothingButNET gang, assemble! michelle (@michellechen) hiding amongst the greats. see you at ai.engineer/code/2026 — https://nitter.kareem.one/michellechen/status/2115815269167706302#m",
-   "url": "https://nitter.kareem.one/swyx/status/2115993441004036131#m",
-   "ts": 1793327124,
-   "id": "2115993441004036131#m"
   },
   {
    "handle": "TheRundownAI",
