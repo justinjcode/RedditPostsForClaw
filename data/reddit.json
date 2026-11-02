@@ -1,15 +1,43 @@
 {
- "generated_at": "2026-11-02T10:10:15Z",
+ "generated_at": "2026-11-02T12:14:20Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
-  "selfhosted"
+  "MachineLearning",
+  "programming"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "CheerpJ 5.0: Java 21/25 in the browser, full OpenJDK, and a new WasmGC engine",
+   "url": "https://www.reddit.com/r/programming/comments/1xlutld/cheerpj_50_java_2125_in_the_browser_full_openjdk/",
+   "ts": 1793619286,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Proposal: A community revolution for private quality benchmarks (and why endless chasing tok/s is rotting our brains",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlusil/proposal_a_community_revolution_for_private/",
+   "ts": 1793619180,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Reducing “synthetic” content with programming language design",
+   "url": "https://www.reddit.com/r/programming/comments/1xlu1sz/reducing_synthetic_content_with_programming/",
+   "ts": 1793616653,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "ML PhDs: Would you rather have done your PhD before or after the rise of AI chatbots? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xlt9wm/ml_phds_would_you_rather_have_done_your_phd/",
+   "ts": 1793613865,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "4\" touchscreen for inference engine monitoring",
@@ -131,13 +159,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "8 agents × 250K context, concurrently, on two 3090s (~600+ tok/s total)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlk43x/8_agents_250k_context_concurrently_on_two_3090s/",
-   "ts": 1793582399,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "LFM3 Omni 2B is INCREDIBLE",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlk2kb/lfm3_omni_2b_is_incredible/",
    "ts": 1793582270,
@@ -218,13 +239,6 @@
    "title": "The Developer Communication Handbook",
    "url": "https://www.reddit.com/r/programming/comments/1xl9z9b/the_developer_communication_handbook/",
    "ts": 1793556511,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "I animated what GPT-4o's tokenizer does to \"strawberry\": real token ids, a tiny BPE run, and why the space belongs to the word (6 min video) [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xl9sv7/i_animated_what_gpt4os_tokenizer_does_to/",
-   "ts": 1793556088,
    "source": "Reddit"
   },
   {
@@ -326,13 +340,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "I contributed to Golang, here is how you can too",
-   "url": "https://www.reddit.com/r/programming/comments/1xkx9zu/i_contributed_to_golang_here_is_how_you_can_too/",
-   "ts": 1793519409,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Best option for local models [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkwrp3/best_option_for_local_models_d/",
@@ -386,13 +393,6 @@
    "title": "How hard is it to check for whitespace?",
    "url": "https://www.reddit.com/r/programming/comments/1xjtach/how_hard_is_it_to_check_for_whitespace/",
    "ts": 1793399073,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Break Stuff on Purpose",
-   "url": "https://www.reddit.com/r/programming/comments/1xjriux/break_stuff_on_purpose/",
-   "ts": 1793394658,
    "source": "Reddit"
   },
   {
