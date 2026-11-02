@@ -1,15 +1,50 @@
 {
- "generated_at": "2026-11-02T12:14:20Z",
+ "generated_at": "2026-11-02T14:11:12Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
   "MachineLearning",
-  "programming"
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Rumor: Qwen 4 will be the last open weight model release from Alibaba",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlxgzb/rumor_qwen_4_will_be_the_last_open_weight_model/",
+   "ts": 1793626863,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Not technical enough, Syncthing and WebDAV beat me, looking for p2p local-only sync solutions instead",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xlx3og/not_technical_enough_syncthing_and_webdav_beat_me/",
+   "ts": 1793625914,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "DeepSeek V4.1 Flash 1017 is really golden.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlwrh1/deepseek_v41_flash_1017_is_really_golden/",
+   "ts": 1793625041,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Not another tok/s post: local quants vs Claude on 9 real bugs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlwpqv/not_another_toks_post_local_quants_vs_claude_on_9/",
+   "ts": 1793624914,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "sensenova/SenseNova-Loop-9B-Preview · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlw9v4/sensenovasensenovaloop9bpreview_hugging_face/",
+   "ts": 1793623713,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "CheerpJ 5.0: Java 21/25 in the browser, full OpenJDK, and a new WasmGC engine",
@@ -29,6 +64,20 @@
    "title": "Reducing “synthetic” content with programming language design",
    "url": "https://www.reddit.com/r/programming/comments/1xlu1sz/reducing_synthetic_content_with_programming/",
    "ts": 1793616653,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Do I need to buy a server or use something I already have ?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xltg3e/do_i_need_to_buy_a_server_or_use_something_i/",
+   "ts": 1793614484,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Recommendations for getting started?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xltdvx/recommendations_for_getting_started/",
+   "ts": 1793614259,
    "source": "Reddit"
   },
   {
@@ -67,13 +116,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Simple Feed Reader: self-hosted, multi-user RSS reader with podcasts, YouTube and Bluesky/Mastodon (MIT)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xlrmu8/simple_feed_reader_selfhosted_multiuser_rss/",
-   "ts": 1793607464,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "The fastest double-to-string algorithm you’ve never heard of",
    "url": "https://www.reddit.com/r/programming/comments/1xlqfb6/the_fastest_doubletostring_algorithm_youve_never/",
@@ -85,13 +127,6 @@
    "title": "Looking for suggestions over a humble home server",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xlq9hh/looking_for_suggestions_over_a_humble_home_server/",
    "ts": 1793602216,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "List of tiny-to-medium models for web research/coding agents",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlpkqv/list_of_tinytomedium_models_for_web/",
-   "ts": 1793599684,
    "source": "Reddit"
   },
   {
@@ -158,13 +193,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "LFM3 Omni 2B is INCREDIBLE",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlk2kb/lfm3_omni_2b_is_incredible/",
-   "ts": 1793582270,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Benchmarking: Qwen 27B, 35B, QFN180B; Nemotron Bolt 74B, Flint40B & Clover 35B (Q4) on M5 Max 2026 on Kapitsa with KFlash [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xljter/benchmarking_qwen_27b_35b_qfn180b_nemotron_bolt/",
@@ -214,24 +242,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Looking for suggestions/feedback on a self-hosted music stack with discovery",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xlfcly/looking_for_suggestionsfeedback_on_a_selfhosted/",
-   "ts": 1793569412,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Getting incredible results with a single RTX 3090ti and 128gb of ram. Deepseek-V4.1-Flash-1017 (35 tok/s decode) and Qwen3.8-Flash-Next (130 tok/s decode)",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlec67/getting_incredible_results_with_a_single_rtx/",
    "ts": 1793566902,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "llama2.c on a 2006 iPod @ 80 MHz w/ 64 MB ram and no FPU",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlboqi/llama2c_on_a_2006_ipod_80_mhz_w_64_mb_ram_and_no/",
-   "ts": 1793560526,
    "source": "Reddit"
   },
   {
@@ -306,13 +320,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "Don't people pay attention anymore when buying hardware for AI?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl4ckr/dont_people_pay_attention_anymore_when_buying/",
-   "ts": 1793543090,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "Heretic 2.0 released: Model modification for everyone",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl2tcm/heretic_20_released_model_modification_for/",
    "ts": 1793538984,
@@ -351,13 +358,6 @@
    "title": "Are there fundamental repeating patterns in ML techniques across modalities (text, image, audio) that let us group them? [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkp8e9/are_there_fundamental_repeating_patterns_in_ml/",
    "ts": 1793491624,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Am I An Idiot",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xklmzn/am_i_an_idiot/",
-   "ts": 1793481418,
    "source": "Reddit"
   },
   {
