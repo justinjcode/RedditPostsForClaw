@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-11-02T22:23:57Z",
+ "generated_at": "2026-11-02T22:33:42Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -9,10 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
   {
@@ -28,7 +27,7 @@
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
    "author": "@realDonaldTrump",
-   "text": "Video Community note: The president has previously promised on multiple occasions similar checks of $2000-$5000 from tariff revenues and DOGE cuts, however none ever materialized. axios.com/2025/11/17/200… abcnews.com/Politics/trump… nbcnews.com/politics/doge/… 13newsnow.com/article/news/n… nytimes.com/2026/09/10/us/… In fact, when asked about these checks at later dates he pretended he never promised them. masslive.com/politics/2026/…",
+   "text": "Video Community note: Feb 2025: $5,000 DOGE dividend proposed. $0 paid. Nov 2025: $2,000 tariff dividend promised. $0 paid. Sept 2026: Another $5,000 promised, conditional on Republicans winning Congress. $0 paid. Different announcements. Same result: no checks. Sources: politifact.com/article/2026/s… abcnews.com/Politics/trump…",
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2117358007793377387#m",
    "ts": 1793652462,
    "id": "2117358007793377387#m"
