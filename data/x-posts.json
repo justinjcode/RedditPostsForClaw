@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-02T20:53:36Z",
+ "generated_at": "2026-11-02T21:06:15Z",
  "accounts_ok": [
-  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,10 +11,28 @@
  ],
  "errors": [
   "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@TheRundownAI: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "This is the way Jason Ginsberg (@JasonBud) Treat Grok Bot like a teammate and give @bot an ambitious task you’d normally give to a new hire. — https://nitter.kareem.one/JasonBud/status/2117285679961096683#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2117360990119506022#m",
+   "ts": 1793653173,
+   "id": "2117360990119506022#m"
+  },
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "Video",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2117358007793377387#m",
+   "ts": 1793652462,
+   "id": "2117358007793377387#m"
+  },
   {
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
@@ -194,15 +212,6 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2117342899692020176#m",
    "ts": 1793648860,
    "id": "2117342899692020176#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "TO THE GREAT PEOPLE OF MISSOURI, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP swampthevoteusa.com/missouri…",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2117342818452562296#m",
-   "ts": 1793648840,
-   "id": "2117342818452562296#m"
   },
   {
    "handle": "swyx",
@@ -491,15 +500,6 @@
    "url": "https://nitter.kareem.one/teslaownersSV/status/2116997397348045165#m",
    "ts": 1793566486,
    "id": "2116997397348045165#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "RT by @elonmusk: Image",
-   "url": "https://nitter.kareem.one/KittyMidge/status/2116992604466467181#m",
-   "ts": 1793565343,
-   "id": "2116992604466467181#m"
   },
   {
    "handle": "elonmusk",
