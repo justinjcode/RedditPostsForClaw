@@ -1,20 +1,28 @@
 {
- "generated_at": "2026-11-02T22:53:22Z",
+ "generated_at": "2026-11-02T23:06:15Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@simonw: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "@WeAreLegora announced a $550M Series E a couple weeks ago, so @swyx and I sat down with @jacsebl (CTO, @WeAreLegora ) to talk about the nuances of building AI agents for the legal industry. We got into: -how one model release took Legora's citation accuracy from 70% to 99% with zero work -why Legora runs on Azure (early customers refused AWS / GCP) -why law firms punish partners for codifying what they know -why Legora post-trains open-weight models and much, much, more… Enjoy! Timestamps 0:00 Cold open 0:40 Meet Jacob Lauritzen, CTO of Legora 1:05 Starting out as underdogs in a Stockholm basement 1:54 How Legora grew from ChatGPT with Swedish law into a legal agent 4:12 The switch from assistant to agent 5:23 Which models Legora uses and why it added a model picker 7:48 Are today’s models good enough for lawyers? 8:20 What agents couldn’t do nine months ago 9:18 Testing the agent in simulated worlds and a 10,000-file data room 10:07 The evals team and Legora’s 100 legal engineers 11:03 When evals didn’t seem worth it and one release took citations from 70% to 99% 12:18 What legal practice could look like in five to ten years 14:18 Will the law firm partnership model survive? 16:40 What happens to paralegals and junior lawyers? 18:00 The billable hour and why earlier legal tech fell short 19:39 Where the money goes now 22:44 How Legora used its own product for acquisition diligence 23:59 How Swedish and American law firms differ 26:12 Product metrics when you can’t read the ",
+   "url": "https://nitter.kareem.one/realbasilchatha/status/2117385359176679645#m",
+   "ts": 1793658983,
+   "id": "2117385359176679645#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -28,7 +36,7 @@
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
    "author": "@realDonaldTrump",
-   "text": "Video Community note: The president has previously promised on multiple occasions similar checks of $2000-$5000 from tariff revenues and DOGE cuts, however none ever materialized. axios.com/2025/11/17/200… abcnews.com/Politics/trump… nbcnews.com/politics/doge/… 13newsnow.com/article/news/n… nytimes.com/2026/09/10/us/… In fact, when asked about these checks at later dates he pretended he never promised them. masslive.com/politics/2026/…",
+   "text": "Video",
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2117358007793377387#m",
    "ts": 1793652462,
    "id": "2117358007793377387#m"
@@ -779,15 +787,6 @@
    "url": "https://nitter.kareem.one/yishan/status/2116262199698358457#m",
    "ts": 1793391201,
    "id": "2116262199698358457#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "last but not least, if you wanna see what else i'm cooking + enjoy techies with extreme musical talent, we're doing v2 of our Broadway show the weekend of: partiful.com/e/e0ePVVLYt7Rn8… ? join in! love u Link Broadway Our Way: Graduation | Partiful Broadway, Our Way is proud to announce a new show to debut in November, Graduation, a 90-minute musical theater cabaret of the best and most rocking show tunes in concert form, featuring a bigger... partiful.com swyx (@swyx) late night low TAM tweet: did a Broadway solo song for the first time in ~18 years! only fumbled lyrics once! Video — https://nitter.kareem.one/swyx/status/2043217991589102027#m",
-   "url": "https://nitter.kareem.one/swyx/status/2116241054181806336#m",
-   "ts": 1793386159,
-   "id": "2116241054181806336#m"
   },
   {
    "handle": "bcherny",
