@@ -1,20 +1,90 @@
 {
- "generated_at": "2026-11-02T14:11:12Z",
+ "generated_at": "2026-11-02T16:11:17Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
   "MachineLearning",
-  "selfhosted"
+  "programming"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
   {
    "subreddit": "LocalLLaMA",
-   "title": "Rumor: Qwen 4 will be the last open weight model release from Alibaba",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlxgzb/rumor_qwen_4_will_be_the_last_open_weight_model/",
-   "ts": 1793626863,
+   "title": "Unsloth vs GSQ-RCO - 512K context DeepSeek-V4.1 GGUF benchmarks Terminal Bench",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm102d/unsloth_vs_gsqrco_512k_context_deepseekv41_gguf/",
+   "ts": 1793635057,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "😃Made My Own Invoicing Dekstop App With Qwen 3.8 27B+OpenCode+LM Studio On RTX 5090..Saved Me $100 a Year I Was Paying",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm0i9m/made_my_own_invoicing_dekstop_app_with_qwen_38/",
+   "ts": 1793633935,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Builders got MiniMax M3.1 Flash's open weights from 252.4 GB down to 93 GB in 10 days, and the lab thanked them by name",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm0b7r/builders_got_minimax_m31_flashs_open_weights_from/",
+   "ts": 1793633499,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Any update with the accomodation from NeurIPS [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xlzumq/any_update_with_the_accomodation_from_neurips_d/",
+   "ts": 1793632470,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Small-scale check of \"good views beat next-token prediction\" (Balestriero & LeCun 2026): human captions only, 11M-param encoders [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xlzoze/smallscale_check_of_good_views_beat_nexttoken/",
+   "ts": 1793632121,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Qwen 4 When ?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlz5dz/qwen_4_when/",
+   "ts": 1793630875,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "[Release] ISTA DeepSeek-V4.1-Flash-1017 GSQ-RCO Coder: a 763B model at 1 bit per parameter",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlys6k/release_ista_deepseekv41flash1017_gsqrco_coder_a/",
+   "ts": 1793630000,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "What did Ilya Sutskever mean when he said \"The models, they just want to learn\"? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xlyr77/what_did_ilya_sutskever_mean_when_he_said_the/",
+   "ts": 1793629934,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "We released KVARK Sparkle 1.0 – a Qwen3.8-27B-based model with up to 67% fewer thinking tokens",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlxnpc/we_released_kvark_sparkle_10_a_qwen3827bbased/",
+   "ts": 1793627335,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "How To Fix All Your PWA Issues Once And For All",
+   "url": "https://www.reddit.com/r/programming/comments/1xlxlhr/how_to_fix_all_your_pwa_issues_once_and_for_all/",
+   "ts": 1793627182,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Scheme+ language : 100% Scheme compatible, infix support and now with type annotation and inference for performance.",
+   "url": "https://www.reddit.com/r/programming/comments/1xlxgqs/scheme_language_100_scheme_compatible_infix/",
+   "ts": 1793626846,
    "source": "Reddit"
   },
   {
@@ -25,10 +95,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "DeepSeek V4.1 Flash 1017 is really golden.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlwrh1/deepseek_v41_flash_1017_is_really_golden/",
-   "ts": 1793625041,
+   "subreddit": "programming",
+   "title": "The Benchmarking Crisis",
+   "url": "https://www.reddit.com/r/programming/comments/1xlwstd/the_benchmarking_crisis/",
+   "ts": 1793625136,
    "source": "Reddit"
   },
   {
@@ -57,13 +127,6 @@
    "title": "Proposal: A community revolution for private quality benchmarks (and why endless chasing tok/s is rotting our brains",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlusil/proposal_a_community_revolution_for_private/",
    "ts": 1793619180,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Reducing “synthetic” content with programming language design",
-   "url": "https://www.reddit.com/r/programming/comments/1xlu1sz/reducing_synthetic_content_with_programming/",
-   "ts": 1793616653,
    "source": "Reddit"
   },
   {
@@ -106,13 +169,6 @@
    "title": "Designsystemet, Now in Elm · cekrem.github.io",
    "url": "https://www.reddit.com/r/programming/comments/1xlsnmi/designsystemet_now_in_elm_cekremgithubio/",
    "ts": 1793611506,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "If you are using big model compared to ram try and disable mtp",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlsd4v/if_you_are_using_big_model_compared_to_ram_try/",
-   "ts": 1793610366,
    "source": "Reddit"
   },
   {
@@ -242,24 +298,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Getting incredible results with a single RTX 3090ti and 128gb of ram. Deepseek-V4.1-Flash-1017 (35 tok/s decode) and Qwen3.8-Flash-Next (130 tok/s decode)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlec67/getting_incredible_results_with_a_single_rtx/",
-   "ts": 1793566902,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "The Developer Communication Handbook",
    "url": "https://www.reddit.com/r/programming/comments/1xl9z9b/the_developer_communication_handbook/",
    "ts": 1793556511,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Coding is solved* (exclusions apply)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl90rr/coding_is_solved_exclusions_apply/",
-   "ts": 1793554292,
    "source": "Reddit"
   },
   {
@@ -319,13 +361,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Heretic 2.0 released: Model modification for everyone",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl2tcm/heretic_20_released_model_modification_for/",
-   "ts": 1793538984,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Data augmentation question. How do I characterise an original and augmented datasets where the augmentation parameters were zoom and crop? [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xl1uba/data_augmentation_question_how_do_i_characterise/",
@@ -361,20 +396,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "I built a scikit-learn for RSI [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xkeq7d/i_built_a_scikitlearn_for_rsi_p/",
-   "ts": 1793464406,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Hierarchical detection of neonatal brain pathologies using a two-stage deep learning framework from magnetic resonance imaging [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xkcy83/hierarchical_detection_of_neonatal_brain/",
-   "ts": 1793460099,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Beating the compiler at signed 32-bit division",
    "url": "https://www.reddit.com/r/programming/comments/1xka27q/beating_the_compiler_at_signed_32bit_division/",
@@ -386,27 +407,6 @@
    "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xjyo89/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
    "ts": 1793413821,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "How hard is it to check for whitespace?",
-   "url": "https://www.reddit.com/r/programming/comments/1xjtach/how_hard_is_it_to_check_for_whitespace/",
-   "ts": 1793399073,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Yet another performance degradation research induced by mutex in an unexpected hotpath in a mature database code.",
-   "url": "https://www.reddit.com/r/programming/comments/1xjo2ar/yet_another_performance_degradation_research/",
-   "ts": 1793386605,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Multi-Token Prediction Done Right [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xjnz40/multitoken_prediction_done_right_r/",
-   "ts": 1793386400,
    "source": "Reddit"
   },
   {
