@@ -1,15 +1,29 @@
 {
- "generated_at": "2026-11-01T22:08:24Z",
+ "generated_at": "2026-11-02T00:21:30Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Securely Accessing Your Self-Hosted Services with mTLS and Cloudflare Tunnels",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xlinb6/securely_accessing_your_selfhosted_services_with/",
+   "ts": 1793578162,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Self-hosted proxy for npm, PyPI and pub: new releases wait 7 days before anyone at work can install them",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xlhs4m/selfhosted_proxy_for_npm_pypi_and_pub_new/",
+   "ts": 1793575819,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "personal-os-setup: a TUI that configures Windows, Linux, macOS and WSL2 — packages, dotfiles, dev tools, GPU drivers",
@@ -256,13 +270,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Networking and general advice needed",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xkqfmo/networking_and_general_advice_needed/",
-   "ts": 1793495320,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Are there fundamental repeating patterns in ML techniques across modalities (text, image, audio) that let us group them? [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkp8e9/are_there_fundamental_repeating_patterns_in_ml/",
@@ -319,13 +326,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "plMail Update: PGP, S/MIME, JMAP, POP3, CardDAV Contacts and more",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xk6o7g/plmail_update_pgp_smime_jmap_pop3_carddav/",
-   "ts": 1793442231,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xjyo89/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
@@ -358,13 +358,6 @@
    "title": "Multi-Token Prediction Done Right [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xjnz40/multitoken_prediction_done_right_r/",
    "ts": 1793386400,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Advice on dealing with Cold Start forecasting [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xjmgju/advice_on_dealing_with_cold_start_forecasting_d/",
-   "ts": 1793382986,
    "source": "Reddit"
   },
   {
@@ -414,6 +407,13 @@
    "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
    "url": "https://www.reddit.com/r/programming/comments/1xiq8we/linux_kernel_tcp_flaw_with_98_cvss_score_affects/",
    "ts": 1793294537,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Old-school classifiers are still generally better than Jev [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xil53d/oldschool_classifiers_are_still_generally_better/",
+   "ts": 1793283185,
    "source": "Reddit"
   },
   {
