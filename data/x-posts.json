@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-02T19:24:00Z",
+ "generated_at": "2026-11-02T19:34:15Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
-  "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@TheRundownAI: all instances failed"
+  "@realDonaldTrump: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "In updating a graphic showing U.S. company AI adoption over time according to a long-running U.S. Census Bureau survey, I found out that the Bureau's work has been sullied by that asinine \"Super Intelligence\" executive order simonwillison.net/2026/Nov/2… Link The U.S. Census Bureau and “Super Intelligence” I was reminded today of AI Adoption Rate Trending Down for Large Companies, a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in … simonwillison.net",
+   "url": "https://nitter.kareem.one/simonw/status/2117337139633607167#m",
+   "ts": 1793647486,
+   "id": "2117337139633607167#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -1463,15 +1472,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2112632287250743641#m",
    "ts": 1792525762,
    "id": "2112632287250743641#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "In addition to human-vs-in-game-AI and human-vs-human it supports two LLMs playing against each other! That works by pausing the game every 5s for them to think about the game state and queue up commands Here's a replay link for Haiku 5.5 vs GPT-6 Luna: simonw.github.io/battledrone…",
-   "url": "https://nitter.kareem.one/simonw/status/2112631208580645130#m",
-   "ts": 1792525505,
-   "id": "2112631208580645130#m"
   },
   {
    "handle": "Lingling_Wei",
