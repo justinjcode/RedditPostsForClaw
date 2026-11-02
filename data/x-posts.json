@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-02T20:24:09Z",
+ "generated_at": "2026-11-02T20:34:38Z",
  "accounts_ok": [
-  "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,10 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@TheRundownAI: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "NEW: An MIT CSAIL team found GPT-6 Astra can improve some AI models by rewriting their weights itself, with one edit taking the math score of a small Qwen model to 48.1% from 7.9%. Rikiya Takehi (@rikiyatakehi) We asked GPT-6 Astra to edit Qwen3.5-0.8B weights to improve math. It directly changed only 0.016% of weights, fixing 0.8B's reasoning loops & improving math up to 6x and even instruction following 3x, without gradients or training. We call this Weight-Space Programming: frontier LLMs can now natively read/write neural network weights! 🧵 Blog: rikiyat.github.io/blog/weigh… — https://nitter.kareem.one/rikiyatakehi/status/2117313742891327994#m",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2117350447275282677#m",
+   "ts": 1793650659,
+   "id": "2117350447275282677#m"
+  },
   {
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
@@ -1130,15 +1139,6 @@
    "url": "https://nitter.kareem.one/rowancheung/status/2115493365038944411#m",
    "ts": 1793207896,
    "id": "2115493365038944411#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "BREAKING: Google introduced Gemini 4 Carbon, which it says scores 59 on Artificial Analysis' Intelligence Index, one point above Claude Opus 5.5 for the No. 1 spot, and beats Opus on 14 of 16 published benchmarks. For now, it’s only available to a select group of cybersecurity defenders, with wider access promised \"as soon as possible.\" The Rundown AI (@TheRundownAI) Artificial Analysis just rebuilt its \"Intelligence Index\" AI leaderboard, with 60% of it now running on private tests models can’t study for. The new standings: 1. Claude Opus 5.5 – 58, still topping the charts 2. GPT-6 Astra – 57 3. GPT-6.1 Sol – 55 4. Claude Sonnet 5.5 – 54 5. GPT-6.1 Terra – 51, ahead of Gemini 4 Argon (50) and Claude Fable 5.1 (49) at ~1/13 of Fable’s cost Kimi K3.1 Pro, Moonshot’s model with open weights due Nov. 4, fell from 55 to 46 under the new testing, dropping from just 3 points behind the top spot to 12. The best open models available today, DeepSeek V4.1 Flash and GLM-5.3, score 32, below Claude Haiku 5.5 (36). — https://nitter.kareem.one/TheRundownAI/status/2115489453611356402#m",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2115493069722415403#m",
-   "ts": 1793207826,
-   "id": "2115493069722415403#m"
   },
   {
    "handle": "bcherny",
