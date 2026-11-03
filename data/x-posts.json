@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-03T02:53:18Z",
+ "generated_at": "2026-11-03T03:07:40Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 176,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Wow Rothmus 🏴 (@Rothmus) 31% of the EU budget is farm subsidies. Defense gets 1.2%. Borders get 2%. Farm handouts get 25x what defense gets and 15x what borders get. Europe faces a land war on its eastern flank and years of uncontrolled migration. The response is a giant welfare machine, while actual security is ignored. They’re not preparing for the next decade. — https://nitter.kareem.one/Rothmus/status/2117376313879306471#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2117450915875852697#m",
+   "ts": 1793674613,
+   "id": "2117450915875852697#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -81,7 +91,7 @@
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
    "author": "@realDonaldTrump",
-   "text": "Video",
+   "text": "Video Community note: The president has previously promised on multiple occasions similar checks of $2000-$5000 from tariff revenues and DOGE cuts, however none ever materialized. axios.com/2025/11/17/200… abcnews.com/Politics/trump… nbcnews.com/politics/doge/… 13newsnow.com/article/news/n… nytimes.com/2026/09/10/us/… In fact, when asked about these checks at later dates he pretended he never promised them. masslive.com/politics/2026/…",
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2117358007793377387#m",
    "ts": 1793652462,
    "id": "2117358007793377387#m"
@@ -285,6 +295,15 @@
    "id": "2117341332645826945#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "TO THE GREAT PEOPLE OF TEXAS, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP swampthevoteusa.com/texas/",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2117340433294807338#m",
+   "ts": 1793648272,
+   "id": "2117340433294807338#m"
+  },
+  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -400,6 +419,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2117272748112154651#m",
    "ts": 1793632134,
    "id": "2117272748112154651#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Talarico has outspent Paxton nearly 9-to-1 since July. $89.4 million vs $10 million. He’s also spent $11.6M MORE THAN HE RAISED. Leftists love to lecture everyone about “money in politics” and “buying elections” until it’s their guy burning through cash like it’s Monopoly money. Where’s it coming from? Out of state donors? Special interests? Or just the usual Democrat money machine trying to purchase Texas? Paxton is getting outspent almost 9-to-1 and they’re still worried. They will fail. Rothmus 🏴 (@Rothmus) California is trying to buy a Texas Senate seat. Talarico is getting 53% of his itemized money from outside the state. California alone dropped $7.8 million on him, more than Paxton raised from every other state combined. New York added $3 million. Massachusetts another $2.1 million. Paxton’s campaign is 73% Texas money. Talarico’s is a coastal donor operation. The left can’t win Texas on the merits, so they flooded the race with blue state cash instead. So no, nothing “grassroots” about him. — https://nitter.kareem.one/Rothmus/status/2117043924690747428#m",
+   "url": "https://nitter.kareem.one/Rothmus/status/2117271314540978483#m",
+   "ts": 1793631793,
+   "id": "2117271314540978483#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -549,15 +577,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Try Grok @Bot ! You will love it. We land a few dozen fixes, features and sometimes powers to Bot 7 days a week and we look at your feedback to make Bot as perfect as possible. しまぶー (@shimabu_it) 本当にこれ マジでCursor（Grok Bot）を使っていない人は一度だけでいいから使ってみてほしい。 Claude Code、Codexよりも断然良いから。今UXの観点でCursorが負けているところは正直ないと思っている。 モデルの性能という点で現状はClaude Codeも使わざるを得ないが、Grokの性能がOpus 5.5と同等レベルになったらCursorオンリーにできると思っている。 SpaceXAIさん、次のGrokは頼みますよ。4.7も悪くないけどOpusと比べると力不足なので... — https://nitter.kareem.one/shimabu_it/status/2116706033271992754#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2117033967782113327#m",
-   "ts": 1793575205,
-   "id": "2117033967782113327#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "grok bot templates are a VERY good example of a feature that doubles as a distribution mechanism... look closely and they're basically instructions, simple prompts for each agent but because they're easy to share, people on X feel like they can plug new modules and extra capabilities into their setup with a simple copy + paste the team behind them knew people would build marketplaces, farm engagement on X with these, even sell them the smartest way to build a product when distribution is the goal",
    "url": "https://nitter.kareem.one/EXM7777/status/2116999470437339364#m",
    "ts": 1793566980,
@@ -618,15 +637,6 @@
    "id": "2116935650511585696#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "NEW: Dem officials are raising alarm bells that Latino men are refusing to turn on President Trump in Texas and have a growing \"aversion\" to James Talarico. Democrats on the ground are surprised to find that Latino men they interview are \"loyal\" to President Trump. \"Mr. Talarico’s allies acknowledge that for him to win, he will need to maximize turnout in Latino-heavy communities,\" the New York Times reports. \"But Democratic Party officials said in interviews that while knocking on doors in both San Antonio and El Paso, they encountered abiding loyalty to Mr. Trump and an aversion to Mr. Talarico, particularly among Latino men.\" \"In downtown Lubbock this week, a long line of the president’s supporters waiting to get into a Trump rally included numerous Latino men, many of them wearing 'Make America Great Again' caps.\" Lmao amazing.",
-   "url": "https://nitter.kareem.one/CollinRugg/status/2116922678733058176#m",
-   "ts": 1793548671,
-   "id": "2116922678733058176#m"
-  },
-  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -670,15 +680,6 @@
    "url": "https://nitter.kareem.one/Saboo_Shubham_/status/2116740612372435274#m",
    "ts": 1793505263,
    "id": "2116740612372435274#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I TESTED EVERY MAJOR “BOT” PLATFORM AND THE WINNER IS CLEAR. @Grok @Bot wins on all measures. At this point it can only be copied as the others are watching a rocket launch ship change in AI going into orbit. Read below my exclusive analysis seen no place else! Brian Roemmele (@BrianRoemmele) Article I Tested Every Bot Platform So You Did Not Have To. Here Is What I Found. A took a deep look at Dots, Muse, ChatGPT Work, Claude, Gemini, Copilot, Manus, Perplexity, OpenClaw and Grok Bot: what each one really is, where it runs, what it can share, where its holes are, and — https://nitter.kareem.one/BrianRoemmele/status/2116532267581608050#m",
-   "url": "https://nitter.kareem.one/BrianRoemmele/status/2116708293901205698#m",
-   "ts": 1793497558,
-   "id": "2116708293901205698#m"
   },
   {
    "handle": "thsottiaux",
@@ -1167,9 +1168,9 @@
    "id": "2115473170279080149#m"
   },
   {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
