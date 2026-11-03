@@ -1,20 +1,55 @@
 {
- "generated_at": "2026-11-03T10:09:25Z",
+ "generated_at": "2026-11-03T12:12:33Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Secure remote control setup",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xmqldn/secure_remote_control_setup/",
+   "ts": 1793705576,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "I made a game in 3 kB… and accidentally created a programming language",
+   "url": "https://www.reddit.com/r/programming/comments/1xmqimu/i_made_a_game_in_3_kb_and_accidentally_created_a/",
+   "ts": 1793705332,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Paper review question [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xmq17q/paper_review_question_d/",
+   "ts": 1793703666,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Offlog: a task manager where your PC is the sync server. No cloud, no account, end-to-end encrypted",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xmpgne/offlog_a_task_manager_where_your_pc_is_the_sync/",
+   "ts": 1793701644,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Anyone using Cortendesk",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xmp0v7/anyone_using_cortendesk/",
    "ts": 1793700048,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Gefs: a filesystem for plan 9 built on Bε-trees",
+   "url": "https://www.reddit.com/r/programming/comments/1xmoxah/gefs_a_filesystem_for_plan_9_built_on_bεtrees/",
+   "ts": 1793699692,
    "source": "Reddit"
   },
   {
@@ -29,13 +64,6 @@
    "title": "Any self-hosted Emergency/Disaster Prep apps?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xmnxcr/any_selfhosted_emergencydisaster_prep_apps/",
    "ts": 1793695951,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Self-hosting email/cloud/ad-blocking focused on privacy",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xmmj77/selfhosting_emailcloudadblocking_focused_on/",
-   "ts": 1793690531,
    "source": "Reddit"
   },
   {
@@ -200,13 +228,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Research Study on Self-Hosting Communities",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xm7mjb/research_study_on_selfhosting_communities/",
-   "ts": 1793649329,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm6jow/sparks_of_weightspace_programming_llms_can/",
@@ -340,13 +361,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "How to handle object deduplication across multiple camera angles using YOLO (especially for tiny 20x22px crops) across isolated user sessions? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xloo4i/how_to_handle_object_deduplication_across/",
-   "ts": 1793596550,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "AMA Announcement: Reflection, the lab behind behind Beam (Tuesday Nov 3rd, 8am-11am PT)",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlmkk4/ama_announcement_reflection_the_lab_behind_behind/",
@@ -358,13 +372,6 @@
    "title": "[D] Self-Promotion Thread",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xlmffv/d_selfpromotion_thread/",
    "ts": 1793589307,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Bad Apple!! Running on the NAND2TETRIS CPU simulator",
-   "url": "https://www.reddit.com/r/programming/comments/1xlll2u/bad_apple_running_on_the_nand2tetris_cpu_simulator/",
-   "ts": 1793586756,
    "source": "Reddit"
   },
   {
@@ -386,13 +393,6 @@
    "title": "What do you get when you put every character that exists on a single page?",
    "url": "https://www.reddit.com/r/programming/comments/1xl7yhp/what_do_you_get_when_you_put_every_character_that/",
    "ts": 1793551856,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Turbo Haskell",
-   "url": "https://www.reddit.com/r/programming/comments/1xl7lsn/turbo_haskell/",
-   "ts": 1793551024,
    "source": "Reddit"
   },
   {
