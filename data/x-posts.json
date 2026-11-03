@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T10:17:20Z",
+ "generated_at": "2026-11-03T10:24:35Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -7,14 +7,22 @@
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@simonw: all instances failed",
-  "@swyx: all instances failed"
- ],
- "count": 175,
+ "errors": [],
+ "count": 176,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "btw here's @addyosmani how anthropic yolos 30k code changes a day in a dark factory approach, with @kapmani of @SonarSource giving more research on why every loop needs independent verification inv.kareem.one/watch?v=AnsXWH2_… already one of the top talks of AIE NYC! (Sonar is both a sponsor and super relevant for the aie nyc focus on finance) Link How Anthropic Merges 30,000 Code Changes a Day - Manish Kapur, Sonar & Addy Osmani, Anthropic Coding agents are opening PRs faster than anyone can review them. M... youtube.com",
+   "url": "https://nitter.kareem.one/swyx/status/2117558305891746212#m",
+   "ts": 1793700217,
+   "id": "2117558305891746212#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -95,6 +103,15 @@
    "url": "https://nitter.kareem.one/thatsKAIZEN/status/2117436285824463021#m",
    "ts": 1793671125,
    "id": "2117436285824463021#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "FAR-LEFT VIOLENCE IN AUSTRALIA. One Nation volunteer hospitalised in Australia with bleeding of the brain and multiple facial fractures after being bashed with a baseball bat in a targeted political attack by left wing extremists. The two men who attacked him were migrants on visas - they assaulted him after he confronted them for ripping down One Nation signs on his property. The victim’s family have started a fundraiser to support him while he recovers in hospital and cannot work.",
+   "url": "https://nitter.kareem.one/DrewPavlou/status/2117432396727632178#m",
+   "ts": 1793670198,
+   "id": "2117432396727632178#m"
   },
   {
    "handle": "elonmusk",
@@ -806,15 +823,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2116305528330785190#m",
    "ts": 1793401531,
    "id": "2116305528330785190#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "our team has been heads down building for years and I'm just so grateful for the response to Phonic-1's launch yesterday I love my team. they built a model that's.. #1 on AA's speech-to-speech index #1 on AA's 𝜏-Voice (agentic performance) #1 on Sierra's τ³-Voice #1 on Cekura's s2s benchmark #1 on Veris's VAmoS Pro Bench #2 on Bluejay's MIVAS s2s benchmark we literally just dropped seven figures on a new compute cluster to support the load we can't wait to continue pushing the frontier for our customers!! try it out and let me know what you think",
-   "url": "https://nitter.kareem.one/moinnadeem/status/2116270909397123499#m",
-   "ts": 1793393277,
-   "id": "2116270909397123499#m"
   },
   {
    "handle": "ZichenWanghere",
