@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-03T21:34:39Z",
+ "generated_at": "2026-11-03T21:44:05Z",
  "accounts_ok": [
-  "bcherny",
+  "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
-  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@simonw: all instances failed",
+  "@swyx: all instances failed",
+  "@bcherny: all instances failed"
  ],
  "count": 178,
  "items": [
@@ -302,6 +302,15 @@
    "url": "https://nitter.kareem.one/OpenSourceZone/status/2117618217502085518#m",
    "ts": 1793714501,
    "id": "2117618217502085518#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "Americans don't use WhatsApp because of a decision Apple made in 2013. We only know about it because the emails came out in court, and the whole thing came down to keeping your kids off Android. It started with Eddy Cue, the guy who runs Apple's services. That April he emailed the team saying Apple really needed to put iMessage on Android. Google was reportedly trying to buy WhatsApp for $1 billion at the time, and Cue's pitch was that Apple already had the best messaging app, so why not make it the one the whole world used. Craig Federighi, Apple's software chief, shut it down. He asked how Apple was supposed to get Android users to leave WhatsApp when they didn't even have iPhone friends. So back in 2013, the guy running iPhone software was basically admitting WhatsApp already owned everybody who didn't have an iPhone. Then he got to what he was actually worried about. iMessage on Android would remove \"an obstacle to iPhone families giving their kids Android phones.\" Phil Schiller, Apple's longtime marketing boss, backed him up in another email thread in 2016, writing that putting iMessage on Android would hurt Apple more than help it. None of this was public until Epic sued Apple and the emails got pulled into evidence in 2021. Now look at what that does to WhatsApp. The entire reason WhatsApp exists is that it works on any phone, so it wins wherever group chats are a mix of iPhones and Androids. Apple went the other direction on purpose. For years, every Android user in a",
+   "url": "https://nitter.kareem.one/aakashgupta/status/2117613517125857752#m",
+   "ts": 1793713380,
+   "id": "2117613517125857752#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -1022,15 +1031,6 @@
    "url": "https://nitter.kareem.one/bcherny/status/2116222842413142111#m",
    "ts": 1793381817,
    "id": "2116222842413142111#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Today we’re launching the first AI modeling agency 💅 right inside Glif. Cast hundreds of real AI models, drop your product, idea or brief and let Glif create super compelling content for you end to end. If you still think AI models aren’t ready for real work, watch this 👇 Video",
-   "url": "https://nitter.kareem.one/heyglif/status/2116198551814623370#m",
-   "ts": 1793376026,
-   "id": "2116198551814623370#m"
   },
   {
    "handle": "TheRundownAI",
