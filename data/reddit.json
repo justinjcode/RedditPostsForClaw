@@ -1,27 +1,27 @@
 {
- "generated_at": "2026-11-03T04:10:41Z",
+ "generated_at": "2026-11-03T06:14:40Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
   {
-   "subreddit": "selfhosted",
-   "title": "How much access should an AI assistant have on homeservers?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xmizwq/how_much_access_should_an_ai_assistant_have_on/",
-   "ts": 1793678644,
+   "subreddit": "LocalLLaMA",
+   "title": "Underrated benefit of Local AI: Speed",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmjipa/underrated_benefit_of_local_ai_speed/",
+   "ts": 1793680283,
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Tip 93 (Updated for Ubuntu 20.04+): Install and Configure an Ubuntu Server",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xmit35/tip_93_updated_for_ubuntu_2004_install_and/",
-   "ts": 1793678065,
+   "subreddit": "LocalLLaMA",
+   "title": "Alibaba's Qwen Code repo just leaked qwen4-max, qwen4-coder-plus, and qwen4-omni-120b",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmitzx/alibabas_qwen_code_repo_just_leaked_qwen4max/",
+   "ts": 1793678143,
    "source": "Reddit"
   },
   {
@@ -29,6 +29,13 @@
    "title": "Standalone server for IoT projects without any third-party websites or any middlemen. Is it possible?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xmh1f0/standalone_server_for_iot_projects_without_any/",
    "ts": 1793672941,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Rtx 8000 48gb prices have decreased over the last two years while 3090 doubled.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmgmd8/rtx_8000_48gb_prices_have_decreased_over_the_last/",
+   "ts": 1793671782,
    "source": "Reddit"
   },
   {
@@ -130,13 +137,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Kind of enjoying the ISTA (GSQ-RCO) vs Unsloth beef",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm8xhn/kind_of_enjoying_the_ista_gsqrco_vs_unsloth_beef/",
-   "ts": 1793652228,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "ICLR 2027 review results [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xm8vik/iclr_2027_review_results_d/",
@@ -228,20 +228,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Unsloth vs GSQ-RCO - 512K context DeepSeek-V4.1 GGUF benchmarks Terminal Bench",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm102d/unsloth_vs_gsqrco_512k_context_deepseekv41_gguf/",
-   "ts": 1793635057,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Running UNCENSORED DeepSeek-V4.1-Flash-1017 on a 12 Gb VRAM",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm0uy0/running_uncensored_deepseekv41flash1017_on_a_12/",
-   "ts": 1793634745,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Any update with the accomodation from NeurIPS [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xlzumq/any_update_with_the_accomodation_from_neurips_d/",
@@ -305,6 +291,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "selfhosted",
+   "title": "Do I need to buy a server or use something I already have ?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xltg3e/do_i_need_to_buy_a_server_or_use_something_i/",
+   "ts": 1793614484,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "MachineLearning",
    "title": "ML PhDs: Would you rather have done your PhD before or after the rise of AI chatbots? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xlt9wm/ml_phds_would_you_rather_have_done_your_phd/",
@@ -355,9 +348,16 @@
   },
   {
    "subreddit": "programming",
-   "title": "The Developer Communication Handbook",
-   "url": "https://www.reddit.com/r/programming/comments/1xl9z9b/the_developer_communication_handbook/",
-   "ts": 1793556511,
+   "title": "Bad Apple!! Running on the NAND2TETRIS CPU simulator",
+   "url": "https://www.reddit.com/r/programming/comments/1xlll2u/bad_apple_running_on_the_nand2tetris_cpu_simulator/",
+   "ts": 1793586756,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Securely Accessing Your Self-Hosted Services with mTLS and Cloudflare Tunnels",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xlinb6/securely_accessing_your_selfhosted_services_with/",
+   "ts": 1793578162,
    "source": "Reddit"
   },
   {
