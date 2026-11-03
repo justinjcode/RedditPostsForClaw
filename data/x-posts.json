@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T05:25:34Z",
+ "generated_at": "2026-11-03T05:34:23Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -7,13 +7,23 @@
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@simonw: all instances failed"
+ ],
  "count": 175,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Le GPT Fat",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2117489367417803042#m",
+   "ts": 1793683780,
+   "id": "2117489367417803042#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1201,15 +1211,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2115273253711409208#m",
    "ts": 1793155418,
    "id": "2115273253711409208#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Day 23/ Much requested iCloud Main & Calendar plugins. Just kidding, today is a reset. Still much requested though! ChatGPT (@ChatGPT) Much requested, and now yours to connect: iCloud Mail and Calendar plugins are available in ChatGPT. Ask ChatGPT to find that email, catch up on your inbox, check what’s next, or update a calendar event. Phew. Available on all ChatGPT plans on web, desktop, and iOS. Video — https://nitter.kareem.one/ChatGPT/status/2115139248458191070#m",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2115273064481218829#m",
-   "ts": 1793155373,
-   "id": "2115273064481218829#m"
   },
   {
    "handle": "simonw",
