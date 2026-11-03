@@ -1,6 +1,9 @@
 {
- "generated_at": "2026-11-03T04:07:19Z",
+ "generated_at": "2026-11-03T04:19:13Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -8,11 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
   {
@@ -32,6 +31,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2117462581371719779#m",
    "ts": 1793677394,
    "id": "2117462581371719779#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "\"defensive strikes\" \"limited strikes\"",
+   "url": "https://nitter.kareem.one/ZichenWanghere/status/2117461253262369188#m",
+   "ts": 1793677077,
+   "id": "2117461253262369188#m"
   },
   {
    "handle": "elonmusk",
@@ -1094,15 +1102,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2115753112459751550#m",
    "ts": 1793269825,
    "id": "2115753112459751550#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "The EU’s minimum import price mechanism for Chinese EVs has yet to deliver its intended results, while hybrid exports have surged. A poorly designed hybrid quota could produce another unintended outcome. The China–EU understanding deserves better implementation. 7/7",
-   "url": "https://nitter.kareem.one/sinoautoman/status/2115649164323545529#m",
-   "ts": 1793245042,
-   "id": "2115649164323545529#m"
   },
   {
    "handle": "thsottiaux",
