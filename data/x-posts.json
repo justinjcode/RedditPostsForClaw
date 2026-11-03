@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T14:34:38Z",
+ "generated_at": "2026-11-03T14:44:19Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -15,6 +15,42 @@
  "count": 176,
  "items": [
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Vote red today!",
+   "url": "https://nitter.kareem.one/elonmusk/status/2117626744668905487#m",
+   "ts": 1793716534,
+   "id": "2117626744668905487#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Yes Captain Eli (@TheCaptainEli) Most people are still using AI the wrong way. They ask it questions. Elon Musk just pointed at the right way. Yesterday, Jason Ginsberg wrote: \"Treat Grok Bot like a teammate and give @bot an ambitious task you'd normally give to a new hire.\" Elon's answer: \"This is the way.\" Three words. A whole shift in how we work. Here's what that looks like in real life. Scott Billows runs a business with a very traditional sales cycle. Deals that take months to cultivate. He pointed Grok Bot at his company's tools. It dug through the past. Surfaced old prospects and customers nobody was calling anymore. Handed them to his sales reps. Two weeks in, a closed deal. His words: \"Without Grok Bot we most likely would not have reached out to this past customer.\" Think about that. Not a faster search. Not a smarter autocomplete. Not a chatbot. A teammate that found money hiding in plain sight. Everyone thought AI would be a better answer machine. It's actually a new kind of colleague. Elon put it plainly back in October: \"assume you are hiring a super competent employee.\" Not a tool you open. Someone you hand the job to. The team keeps adding powers. Product pages. Order tracking. Payments. Team Bots your whole company can share. Every week the job description gets longer. Here's the part almost nobody sees yet. For all of history, having a team was a privilege. Only the rich, the big companies, the well-connected could delegate. Everyone else did everything alo",
+   "url": "https://nitter.kareem.one/elonmusk/status/2117626410529689678#m",
+   "ts": 1793716454,
+   "id": "2117626410529689678#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "I was at the beach with a couple of friends, and we were all hungry and wanted to find a really good restaurant for dinner But we couldn't decide where to go. You know how it is when you're traveling, you end up spending so much time searching through Google trying to find the best place Then one of my friends said, \"Just ask Grok Bot\" So we did, and it literally picked a restaurant nearby for us We just had dinner there, and it turned out to be the BEST food we've had since arriving here last night 😂 The Pad Thai was great, the mango shake was great, and the dessert was absolutely amazing I'm telling you, Grok Bot is making even the little things in life sooo much easier",
+   "url": "https://nitter.kareem.one/XFreeze/status/2117613423274111487#m",
+   "ts": 1793713358,
+   "id": "2117613423274111487#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The replies to this post are amazing. This guy doesn’t even understand how much Elon Musk has saved the taxpayer with SpaceX alone. James Tate (@JamesTate121) Delete yours. Elon Musk’s companies have received at least $38 billion in U.S. government contracts, loans, subsidies, and tax credits since 2003, with another $11.8 billion projected in the coming years. 2018: Musk paid $0 in federal income tax due to low realized income and legal deductions. 📷milliondollarthings.com+2 — https://nitter.kareem.one/JamesTate121/status/2117382536875606446#m",
+   "url": "https://nitter.kareem.one/Chesschick01/status/2117613413212057943#m",
+   "ts": 1793713355,
+   "id": "2117613413212057943#m"
+  },
+  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -22,6 +58,15 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2117608870910513633#m",
    "ts": 1793712272,
    "id": "2117608870910513633#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Texas, I ask for your votes for Ken Paxton for the US Senate. @KenPaxtonTX",
+   "url": "https://nitter.kareem.one/ScottPresler/status/2117607254585455002#m",
+   "ts": 1793711887,
+   "id": "2117607254585455002#m"
   },
   {
    "handle": "elonmusk",
@@ -87,6 +132,15 @@
    "id": "2117554045611106776#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok Build just got a massive performance and reliability upgrade, with improvements across multi-agent workflows, terminal responsiveness, session recovery, and overall stability Long-running sessions now use less memory, large JSON and log pastes no longer freeze the terminal, Linux file watching uses significantly less CPU, and background subagent activity triggers far fewer unnecessary screen redraws Session resuming is also much faster, subagent conversations are easier to follow, shell approvals now explain why commands were blocked, and `@` file navigation can access files outside the workspace There’s also a huge reliability pass covering safer updates, MCP authentication, context window handling, workflow execution, Windows and macOS stability, and more reliable headless sessions Grok Build keeps getting better at handling bigger projects, longer conversations, and increasingly complex multi-agent workloads without slowing down Release Notes: v1.0.74 Features: • Messages between subagents appear as left-aligned rows under the bullet that name the sender and recipient, replacing the centered rows • Shift+Enter inserts a newline in VS Code and other xterm.js-based terminals that use the Kitty keyboard protocol • `/mcps`: when a browser can't open an MCP server's sign-in URL, the URL shows in a panel you can copy with `c` or the [Copy the url] button • [Copy] button in a finished `/btw` panel and its folded transcript row copies the whole answer, even when only part of ",
+   "url": "https://nitter.kareem.one/XFreeze/status/2117521174406299738#m",
+   "ts": 1793691364,
+   "id": "2117521174406299738#m"
+  },
+  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -123,24 +177,6 @@
    "id": "2117465116858052725#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok @Bot Dylan (@dkmitc) I had my Grok Bot shop around new Auto Insurance. It couldn’t find info about Progressives Glass coverage and as all Tesla owners know Windshield replacements can be pricey. I had Grok Bot call Progressive and get additional information for me all while I picked my kids up from school without me ever having to talk to a person. Here is the transcript and actual recording from the call. Personal info was bleeped and some parts cut for time. While there’s some improvements that can be made it got the job done. My mind is thoroughly blown! Video — https://nitter.kareem.one/dkmitc/status/2117375502285721792#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2117463822332314036#m",
-   "ts": 1793677690,
-   "id": "2117463822332314036#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Yeah, much easier to cool in space. ~1300 W/m^2 is easily achievable for an aluminum radiator pointed away from the Sun, as it is mostly just seeing cosmic background radiation at ~3 degrees above absolute zero! Solar panels generate ~250 W/m^2, so you should expect them to have ~5 times the area of the radiator. Most of the mass of the satellite is solar panels.",
-   "url": "https://nitter.kareem.one/elonmusk/status/2117462581371719779#m",
-   "ts": 1793677394,
-   "id": "2117462581371719779#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -162,37 +198,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "It’s the same thing every time: 1. A black person has the courage to point the objective truth about slavery. 2. Person gets personally attacked with subjective opinions - “you hate black people, you’re a coon” 3. But that person is saying what is needed to emancipate both black people and white people from the mental slavery that black victimhood and white guilt has us all in. No, black people who say the truth do not hate black people. Someone who loves you will tell you what you need to hear, even if you don’t want to hear it. Good video from @chadojackson Chad O. Jackson (@chadojackson) Full episode drops layered today. Video — https://nitter.kareem.one/chadojackson/status/2117190014190916000#m",
-   "url": "https://nitter.kareem.one/thatsKAIZEN/status/2117436285824463021#m",
-   "ts": 1793671125,
-   "id": "2117436285824463021#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "9 of America’s top 10 foreign aid recipients voted against us more than with us at the UN. Jordan takes $1.74 billion and votes against America 52-24. Ethiopia, Somalia, Nigeria, Kenya, same thing. Billions of our money, then they stab us in the back every chance they get. Literally funding our own opposition. Rothmus 🏴 (@Rothmus) $329 BILLION in aid and they’re POORER than they were in 1960. The “not enough aid” politicians and NGOs have poured more than enough cash into places with rotten institutions, elite theft, and zero accountability. And instead of building prosperity, your taxes subsidized failure. — https://nitter.kareem.one/Rothmus/status/2117417878156710180#m",
-   "url": "https://nitter.kareem.one/Rothmus/status/2117431727689720217#m",
-   "ts": 1793670038,
-   "id": "2117431727689720217#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Jay Leno says @elonmusk is the Thomas Edison or the Henry Ford, and Tesla's factories are the proof. Video",
    "url": "https://nitter.kareem.one/teslaownersSV/status/2117430313928515603#m",
    "ts": 1793669701,
    "id": "2117430313928515603#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon Musk on going \"from the impossible to the merely late,\" his own description of how Starship got built: \"When we first started talking about Starship, people thought this was impossible. In fact, even within the company, we sort of thought it was impossible.\" He says it had what he calls a \"giggle factor.\" People laughed at the idea. \"I guess I specialize in going from the impossible to the merely late. So that's my skill.\" \"It wasn't possible, now it's just late.\" @elonmusk Video",
-   "url": "https://nitter.kareem.one/teslaownersSV/status/2117415528449065099#m",
-   "ts": 1793666176,
-   "id": "2117415528449065099#m"
   },
   {
    "handle": "thsottiaux",
@@ -261,7 +270,7 @@
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
    "author": "@realDonaldTrump",
-   "text": "Video Community note: The president has previously promised on multiple occasions similar checks of $2000-$5000 from tariff revenues and DOGE cuts, however none ever materialized. axios.com/2025/11/17/200… abcnews.com/Politics/trump… nbcnews.com/politics/doge/… 13newsnow.com/article/news/n… nytimes.com/2026/09/10/us/… In fact, when asked about these checks at later dates he pretended he never promised them. masslive.com/politics/2026/…",
+   "text": "Video",
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2117358007793377387#m",
    "ts": 1793652462,
    "id": "2117358007793377387#m"
@@ -589,15 +598,6 @@
    "url": "https://nitter.kareem.one/hannahhaina/status/2117281419479404775#m",
    "ts": 1793634202,
    "id": "2117281419479404775#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The single most important thing I can share with you going into Election Day is the following website: protectthevote.com/report-fr… If you encounter ANY problems related to voting, submit a report immediately.",
-   "url": "https://nitter.kareem.one/ScottPresler/status/2117280015179985030#m",
-   "ts": 1793633867,
-   "id": "2117280015179985030#m"
   },
   {
    "handle": "TheRundownAI",
