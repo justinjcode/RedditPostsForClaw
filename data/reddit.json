@@ -1,20 +1,48 @@
 {
- "generated_at": "2026-11-03T08:11:32Z",
+ "generated_at": "2026-11-03T10:09:25Z",
  "count": 60,
  "subreddits_ok": [
+  "LocalLLaMA",
   "MachineLearning",
-  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Anyone using Cortendesk",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xmp0v7/anyone_using_cortendesk/",
+   "ts": 1793700048,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Work knowledge base",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xmo4v5/work_knowledge_base/",
+   "ts": 1793696714,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Any self-hosted Emergency/Disaster Prep apps?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xmnxcr/any_selfhosted_emergencydisaster_prep_apps/",
+   "ts": 1793695951,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Self-hosting email/cloud/ad-blocking focused on privacy",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xmmj77/selfhosting_emailcloudadblocking_focused_on/",
    "ts": 1793690531,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "DeepSeek V5 is planned to be pre-trained on Huawei Ascend chips.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmmadn/deepseek_v5_is_planned_to_be_pretrained_on_huawei/",
+   "ts": 1793689631,
    "source": "Reddit"
   },
   {
@@ -249,13 +277,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Game Hosting",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xlytqe/game_hosting/",
-   "ts": 1793630105,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "[Release] ISTA DeepSeek-V4.1-Flash-1017 GSQ-RCO Coder: a 763B model at 1 bit per parameter",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlys6k/release_ista_deepseekv41flash1017_gsqrco_coder_a/",
@@ -281,13 +302,6 @@
    "title": "The Benchmarking Crisis",
    "url": "https://www.reddit.com/r/programming/comments/1xlwstd/the_benchmarking_crisis/",
    "ts": 1793625136,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Not another tok/s post: local quants vs Claude on 9 real bugs",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlwpqv/not_another_toks_post_local_quants_vs_claude_on_9/",
-   "ts": 1793624914,
    "source": "Reddit"
   },
   {
@@ -354,13 +368,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Securely Accessing Your Self-Hosted Services with mTLS and Cloudflare Tunnels",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xlinb6/securely_accessing_your_selfhosted_services_with/",
-   "ts": 1793578162,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Jepsen on ParticleDB: \"We tested versions 1.1.4 through 1.1.18.11.rc-22 and found that ParticleDB’s claims of “Full ACID” were somewhat premature\"",
    "url": "https://www.reddit.com/r/programming/comments/1xl8d57/jepsen_on_particledb_we_tested_versions_114/",
@@ -386,13 +393,6 @@
    "title": "Turbo Haskell",
    "url": "https://www.reddit.com/r/programming/comments/1xl7lsn/turbo_haskell/",
    "ts": 1793551024,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Pocket ID v3 with a completely rewritten UI is around the corner - We need your feedback",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xl7ceq/pocket_id_v3_with_a_completely_rewritten_ui_is/",
-   "ts": 1793550401,
    "source": "Reddit"
   },
   {
