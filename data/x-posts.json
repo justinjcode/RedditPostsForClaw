@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-03T11:43:41Z",
+ "generated_at": "2026-11-03T11:53:50Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "ZichenWanghere",
+  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,10 +10,29 @@
   "thsottiaux"
  ],
  "errors": [
-  "@TheRundownAI: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: therundownai.beehiiv.com/p/m… Link MIT shows AI improving AI, no training required Discover how MIT researchers found AI can improve itself without any retraining, hinting at autonomous AI research already possible in today's public models. therundownai.beehiiv.com",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2117580187260895526#m",
+   "ts": 1793705434,
+   "id": "2117580187260895526#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in AI today: - OpenAI’s Astra rewrites other AI from the inside - OpenAI grades its AI on everyday tasks - Turn one interview into two clips with Riverside - OpenAI joins Abu Dhabi’s AI-native government push",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2117580181766373562#m",
+   "ts": 1793705432,
+   "id": "2117580181766373562#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -1105,15 +1123,6 @@
    "id": "2115753117228712356#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in AI today: - Google’s Carbon takes the benchmark crown (for now) - Nate’s Notebook: Hire a dispatcher first - Turn a prompt into a poster with Canva Craft - An Anthropic manager bets on junior engineers",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2115753112459751550#m",
-   "ts": 1793269825,
-   "id": "2115753112459751550#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -1148,15 +1157,6 @@
    "url": "https://nitter.kareem.one/trq212/status/2115544056038350960#m",
    "ts": 1793219982,
    "id": "2115544056038350960#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "3.5 years in, and The Rundown is approaching the 4M total newsletter subscriber mark 👀 Grateful for the journey so far, so much more to come",
-   "url": "https://nitter.kareem.one/rowancheung/status/2115493365038944411#m",
-   "ts": 1793207896,
-   "id": "2115493365038944411#m"
   },
   {
    "handle": "bcherny",
