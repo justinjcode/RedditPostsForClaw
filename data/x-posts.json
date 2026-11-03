@@ -1,20 +1,28 @@
 {
- "generated_at": "2026-11-03T21:44:05Z",
+ "generated_at": "2026-11-03T21:53:12Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@simonw: all instances failed",
-  "@swyx: all instances failed",
-  "@bcherny: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "had fun talking through our open infra software factory stack with @swyx . looking forward to giving a keynote at AIE Code in SF next week Latent.Space: AI News & Views (@latentspacepod) ⚡ Inside the 2026 SOTA of Software Factories with @zachlloydtweets of @warpdotdev ! Warp's open source cloud factory approach has been resonating bigly this year, leading to multiple top @aiDotEngineer talks and an invitation to keynote this year's AIE CODE. Zach talks through the philosophy, demos Warp’s live system, and reports that tuning models and reducing redundant subagents can lower costs from ~$80 to ~$15–20 per PR and raise throughput 40% over the prior month, while keeping quality! Full episode below: from a Slack request to a PR, then into the work of measuring and improving software factories. 0:00 Software factories at Warp 0:53 AIE CODE in San Francisco 1:31 Zach Lloyd and software factories 4:30 Define the factory in code 7:34 Follow a Slack request to a PR 8:41 Measure cost, throughput and quality 14:32 Agents improving the factory 16:10 Benchmark your own tasks 23:59 From $80 to $15–20 per PR 27:03 Who needs software factories? 33:23 Product engineers and factory engineers See Zach at @aiDotEngineer CODE, Nov 10–12 in San Francisco: ai.engineer/code Video — https://nitter.kareem.one/latentspacepod/status/2117721636195663898#m",
+   "url": "https://nitter.kareem.one/zachlloydtweets/status/2117729371288903752#m",
+   "ts": 1793741002,
+   "id": "2117729371288903752#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -86,6 +94,15 @@
    "url": "https://nitter.kareem.one/OrangePENNY_/status/2117698006375895129#m",
    "ts": 1793733524,
    "id": "2117698006375895129#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "This is wild. (CTO of Legora, one of the most popular Legal AI platforms btw): Related to the whole 'frontier models can understand and directly modify weights' topic from the last several days. My brain continues to break as we see new things in this space. What a fun time to be building and learning. Jacob Lauritzen (@jacsebl) Got fable to hand-write weights of a 100k param model to recognize real versus fake legal citations. Basically one-shotted a full NN that’s better than training it — https://nitter.kareem.one/jacsebl/status/2117606206764175543#m",
+   "url": "https://nitter.kareem.one/mstockton/status/2117695754278142357#m",
+   "ts": 1793732987,
+   "id": "2117695754278142357#m"
   },
   {
    "handle": "bcherny",
@@ -995,24 +1012,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2116405414921384099#m",
    "ts": 1793425346,
    "id": "2116405414921384099#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "6m views / 1.8m MAU",
-   "url": "https://nitter.kareem.one/swyx/status/2116323655294828814#m",
-   "ts": 1793405853,
-   "id": "2116323655294828814#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "its true, Anthropic really vibecoded their entire backend to Rust and none of you noticed Somi (@somi_ai) Anthropic rewrote its Messages API in Rust. Zero Rust devs on the team. Claude wrote the code. Humans wrote the plan and checked old vs new matched on real traffic. CPU dropped 40-50%. Pretty sure \"never do the big rewrite\" is dead advice. @katelyn_lesse on @latentspacepod Video — https://nitter.kareem.one/somi_ai/status/2116050219989373170#m",
-   "url": "https://nitter.kareem.one/swyx/status/2116305528330785190#m",
-   "ts": 1793401531,
-   "id": "2116305528330785190#m"
   },
   {
    "handle": "ZichenWanghere",
