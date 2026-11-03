@@ -1,15 +1,92 @@
 {
- "generated_at": "2026-11-03T18:10:36Z",
+ "generated_at": "2026-11-03T22:08:25Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
+  "MachineLearning",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn568h/british_fintech_revolut_slashes_ai_coding_costs/",
+   "ts": 1793739930,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Basalt 0.2.0: Qwen 3.8 Flash Next NVFP4, 300 t/s prose, 600 t/s struct, 10K t/s prefill on a 5090 + 5060 Ti and 128GB RAM",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn4qn1/basalt_020_qwen_38_flash_next_nvfp4_300_ts_prose/",
+   "ts": 1793738961,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Update: I got email working in my homelab — the offline problem is still open",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xn47e8/update_i_got_email_working_in_my_homelab_the/",
+   "ts": 1793737721,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Found an old desktop (i5-3340S, 4GB RAM). Usable to start self-hosting or straight to e-waste?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xn44mc/found_an_old_desktop_i53340s_4gb_ram_usable_to/",
+   "ts": 1793737545,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Tokens/s? \"World's biggest PCIe graphics card\" discovered, prototype AMD Radeon RX 470 board with four GPUs has been pictured",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn40w7/tokenss_worlds_biggest_pcie_graphics_card/",
+   "ts": 1793737311,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Anyone using Tailscale or similar for remote tank/aquarium monitoring?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xn2vtk/anyone_using_tailscale_or_similar_for_remote/",
+   "ts": 1793734811,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "A new, open-weights 278M PII detection model and reference benchmark [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xn2lro/a_new_openweights_278m_pii_detection_model_and/",
+   "ts": 1793734194,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "What do people with normal hardware : 32GB ram 16GB VRAM run?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn2jyz/what_do_people_with_normal_hardware_32gb_ram_16gb/",
+   "ts": 1793734089,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "DeepSeek V4.1 Flash 1017 can also do Weight-Space Programming",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn2i0n/deepseek_v41_flash_1017_can_also_do_weightspace/",
+   "ts": 1793733972,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "I tried MIT's \"weight-space programming\" on my own use case: Claude rewrote 8 neurons of Gemma 4 12B to change how it translates one Italian tense",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn1gs9/i_tried_mits_weightspace_programming_on_my_own/",
+   "ts": 1793731737,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Anybody up for discussion on improvement of inference speed of Language Models[R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xmzu1x/anybody_up_for_discussion_on_improvement_of/",
+   "ts": 1793728239,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "[2611.03526] Library of Layers (LoL): Adaptively Ordering Transformer Layers at Runtime",
@@ -29,13 +106,6 @@
    "title": "The Movement Physics of Super Mario Bros - Behind the Code",
    "url": "https://www.reddit.com/r/programming/comments/1xmydo2/the_movement_physics_of_super_mario_bros_behind/",
    "ts": 1793725100,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Jaull: a terminal tool that tells you which local LLMs your hardware can run, then benchmarks them to check",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xmxsyw/jaull_a_terminal_tool_that_tells_you_which_local/",
-   "ts": 1793723808,
    "source": "Reddit"
   },
   {
@@ -67,24 +137,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Has anyone done a in-depth comparison between Qwen-3.8 27b @ 8bpw and Qwen-3.8-FN @ 4bpw?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmv9ju/has_anyone_done_a_indepth_comparison_between/",
-   "ts": 1793718128,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Anyone here host Fluxer?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xmuw5w/anyone_here_host_fluxer/",
    "ts": 1793717284,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "pgquery: a Postgres GUI in a single container (SQL editor, ER diagram, RLS policies, EXPLAIN viewer). MIT, no account",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xmucck/pgquery_a_postgres_gui_in_a_single_container_sql/",
-   "ts": 1793716013,
    "source": "Reddit"
   },
   {
@@ -96,9 +152,9 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Notify-only Docker update checks: what threads here keep landing on",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xmtfmb/notifyonly_docker_update_checks_what_threads_here/",
-   "ts": 1793713837,
+   "title": "Feedback on my personal anti-censorship VPN setup",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xmt31w/feedback_on_my_personal_anticensorship_vpn_setup/",
+   "ts": 1793712921,
    "source": "Reddit"
   },
   {
@@ -179,20 +235,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "[Paper] Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmo5xu/paper_sparks_of_weightspace_programming_llms_can/",
-   "ts": 1793696819,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Work knowledge base",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xmo4v5/work_knowledge_base/",
-   "ts": 1793696714,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Any self-hosted Emergency/Disaster Prep apps?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xmnxcr/any_selfhosted_emergencydisaster_prep_apps/",
@@ -200,24 +242,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "DeepSeek V5 is planned to be pre-trained on Huawei Ascend chips.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmmadn/deepseek_v5_is_planned_to_be_pretrained_on_huawei/",
-   "ts": 1793689631,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "We turned 10 years of ML papers into one page per topic: benchmark records, what got tried, what reviewers expect [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xmk8rx/we_turned_10_years_of_ml_papers_into_one_page_per/",
    "ts": 1793682558,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "I tested whether changing who an argument is attributed to changes how LLMs evaluate the exact same argument [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xmjex5/i_tested_whether_changing_who_an_argument_is/",
-   "ts": 1793679952,
    "source": "Reddit"
   },
   {
@@ -256,24 +284,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Qwen 3.8 27b is sometimes so smart it scares me...",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmbym0/qwen_38_27b_is_sometimes_so_smart_it_scares_me/",
-   "ts": 1793659331,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "SurfSense: a self-hosted NotebookLM alternative",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xmbomg/surfsense_a_selfhosted_notebooklm_alternative/",
    "ts": 1793658644,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "GPT-6 Astra Edits Qwen Weights: MATH-500 7.9% to 48.1%",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xma0tw/gpt6_astra_edits_qwen_weights_math500_79_to_481/",
-   "ts": 1793654739,
    "source": "Reddit"
   },
   {
@@ -288,13 +302,6 @@
    "title": "ICLR 2027 review results [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xm8vik/iclr_2027_review_results_d/",
    "ts": 1793652095,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Amazon Is Allegedly Canceling GPU Orders And, In Rare Cases, Closing Accounts For Purchasing Compute Hardware; Tim Sweeney Also A Victim Of This Practice",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm8o8g/amazon_is_allegedly_canceling_gpu_orders_and_in/",
-   "ts": 1793651628,
    "source": "Reddit"
   },
   {
@@ -330,13 +337,6 @@
    "title": "Official Statement: Qwen Models Will Stick to Open Source to the End!",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open/",
    "ts": 1793637752,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Any update with the accomodation from NeurIPS [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xlzumq/any_update_with_the_accomodation_from_neurips_d/",
-   "ts": 1793632470,
    "source": "Reddit"
   },
   {
