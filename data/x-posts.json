@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T16:19:00Z",
+ "generated_at": "2026-11-03T16:27:10Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok @Bot is like hiring a super competent employee. Treat Bot like you would a colleague. Peter H. Diamandis, MD (@PeterDiamandis) Got to say it. GrokBot is AWESOME. Actually addicting. — https://nitter.kareem.one/PeterDiamandis/status/2117640018630217997#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2117651007538884899#m",
+   "ts": 1793722318,
+   "id": "2117651007538884899#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -184,15 +193,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2117489367417803042#m",
    "ts": 1793683780,
    "id": "2117489367417803042#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Space datacenters actually make sense elie (@eliebakouch) distributed training in space ❤️‍🔥 — https://nitter.kareem.one/eliebakouch/status/2117297070155731058#m",
-   "url": "https://nitter.kareem.one/MillionInt/status/2117465116858052725#m",
-   "ts": 1793677999,
-   "id": "2117465116858052725#m"
   },
   {
    "handle": "ZichenWanghere",
