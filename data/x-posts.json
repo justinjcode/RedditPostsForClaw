@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-11-03T11:53:50Z",
+ "generated_at": "2026-11-03T12:09:04Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -9,10 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
   {
@@ -41,6 +40,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2117558305891746212#m",
    "ts": 1793700217,
    "id": "2117558305891746212#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "我妈说我给仓库猫吃太多， 我睁大眼睛说，“仓库猫运动量大……” “你就像溺爱小孩的家长。” 我涨红了脸，额上的青筋条条绽出，争辩道：“仓库猫运动量大，它们每天跑来跑去消耗大啊” 接连便是难懂的话，什么“仓库猫不胖”，什么“都消耗了”之类，引得众人都哄笑起来：仓库充满了快活的空气。",
+   "url": "https://nitter.kareem.one/BadDogEgg/status/2117554380463579169#m",
+   "ts": 1793699281,
+   "id": "2117554380463579169#m"
   },
   {
    "handle": "thsottiaux",
@@ -167,6 +175,15 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2117412956950638872#m",
    "ts": 1793665563,
    "id": "2117412956950638872#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "\"Intense fury followed by: let's get on with business.\" Kevin Rudd on Trump and the PM's White House meeting in October last year.",
+   "url": "https://nitter.kareem.one/stephendziedzic/status/2117412541081293262#m",
+   "ts": 1793665464,
+   "id": "2117412541081293262#m"
   },
   {
    "handle": "swyx",
@@ -943,15 +960,6 @@
    "id": "2116070712373105117#m"
   },
   {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "哈哈哈干起来了",
-   "url": "https://nitter.kareem.one/ZichenWanghere/status/2116044783064060174#m",
-   "ts": 1793339365,
-   "id": "2116044783064060174#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -986,15 +994,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2115873803486032121#m",
    "ts": 1793298600,
    "id": "2115873803486032121#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "It was a privilege to write this piece with you, @ryanl_hass , and I hope to collaborate again soon. Ryan Hass (@ryanl_hass) 1/ Sharing a collaboration with @Ali_Wyne to support thinking around post-Trump China policy. We argue that America's policy pendulum swings on China have been counterproductive. A new approach grounded in national renewal and the mood of American public would be more effective. — https://nitter.kareem.one/ryanl_hass/status/2115857316499362060#m",
-   "url": "https://nitter.kareem.one/Ali_Wyne/status/2115861429605830907#m",
-   "ts": 1793295650,
-   "id": "2115861429605830907#m"
   },
   {
    "handle": "TheRundownAI",
