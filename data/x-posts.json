@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-03T19:43:29Z",
+ "generated_at": "2026-11-03T19:53:17Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "bcherny",
+  "TheRundownAI",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -10,11 +10,20 @@
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@bcherny: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "The Jewish community in Monsey, New York, and its surrounding neighborhoods, voted in very big numbers for me in our Historic 2024 Presidential Campaign. TREMENDOUS SUPPORT! TODAY, the eyes of the Country are on New York again! Congressman Mike Lawler has been a tremendous friend to the Jewish community and a strong leader in the fight against antisemitism. He has stood with the community when it mattered most, speaking out against hatred, and standing up for Religious Freedom and School Choice! Mike has worked tirelessly for his constituents, for our Country, and for the Jewish people. He understands the importance of strong leadership, protecting our communities, and delivering REAL RESULTS for the people he represents. His dedication to public service and his willingness to stand up for what he believes in have made a tremendous difference. That kind of commitment should never be taken for granted! Working together with your State Senator Bill Weber, Mike will continue to be your voice, and fight for you and your family! EVERY VOTE MATTERS. MAKE YOUR VOICE HEARD TODAY. VOTE MIKE LAWLER FOR CONGRESS — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2117703424963703252#m",
+   "ts": 1793734816,
+   "id": "2117703424963703252#m"
+  },
   {
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
@@ -194,15 +203,6 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2117691746758922654#m",
    "ts": 1793732031,
    "id": "2117691746758922654#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "Florida Attorney General James Uthmeier is doing a GREAT job for the Sunshine State, which I won BIG in 2016, 2020, and 2024. James is an America First Warrior, who is a true champion for “MAGA.” He is THE MAN behind ALLIGATOR ALCATRAZ, and argued strongly at the United States Supreme Court in defense of my Executive Power to fire Deep State bureaucrats. Under James’ fearless leadership, over 1,000 CRIMINAL PEDOPHILES have been arrested, missing children have been SAVED, and our Great Members of Law Enforcement have been empowered to do their jobs and, KEEP FLORIDA SAFE. In his next term, James will continue to work tirelessly to Ensure Law and Order, Uphold our Constitutional Rights, and Protect our always under siege Second Amendment. James Uthmeier is a Strong Conservative Fighter and Prosecutor, and has my Complete and Total Endorsement! GET OUT AND VOTE FOR JAMES — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2117691629091913863#m",
-   "ts": 1793732003,
-   "id": "2117691629091913863#m"
   },
   {
    "handle": "swyx",
