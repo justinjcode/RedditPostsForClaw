@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-03T19:53:17Z",
+ "generated_at": "2026-11-03T20:07:29Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -10,11 +10,20 @@
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "NEW: OpenAI set out to build a gadget \"without any direct human edits,\" and in less than a week GPT-6 Astra handled the case, circuit board and software alongside two staffers. An unreleased OpenAI model also beat Astra on a hardware design test, 0.875 to 0.594. Video",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2117709084652867996#m",
+   "ts": 1793736165,
+   "id": "2117709084652867996#m"
+  },
   {
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
@@ -217,6 +226,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "Remember this image when you vote today. 🇺🇸",
+   "url": "https://nitter.kareem.one/SwipeWright/status/2117672336199491954#m",
+   "ts": 1793727404,
+   "id": "2117672336199491954#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "🤨 America (@america) Democrat Nominee for U.S. Senate in Michigan Abdul El-Sayed wants open borders and no deportations: “We as a country, I believe, owe it to the world to open our doors.” Get out and VOTE Republican against this. Video — https://nitter.kareem.one/america/status/2117625345503302015#m",
    "url": "https://nitter.kareem.one/elonmusk/status/2117666899844866098#m",
    "ts": 1793726107,
@@ -338,15 +356,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2117651007538884899#m",
    "ts": 1793722318,
    "id": "2117651007538884899#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Starlink grows customers for airlines DogeDesigner (@cb_doge) BREAKING: Starlink helped Japan’s ZIPAIR grow passenger revenue 12.3% YoY. Japan Airlines (JAL) says @Starlink improved ZIPAIR’s onboard experience and helped drive revenue growth alongside flexible pricing. ZIPAIR became Asia’s first airline with Starlink across its entire fleet in May. April–September passenger revenue reached ¥42.9 billion, while seat occupancy jumped from 73.7% to 87.8%. — https://nitter.kareem.one/cb_doge/status/2117649738623496227#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2117650707398664501#m",
-   "ts": 1793722247,
-   "id": "2117650707398664501#m"
   },
   {
    "handle": "elonmusk",
@@ -1103,15 +1112,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2115850175868727621#m",
    "ts": 1793292967,
    "id": "2115850175868727621#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "An AI agent picked a gene therapy for a mouse with epilepsy, chose where in its brain to inject it, and delivered it with a robotic arm. Claude Opus 5.5 refused as soon as it saw the task involved biology. Claude Opus 5 rehearsed the whole surgery, then backed out before the live one: “Starting something I can’t finish on an anesthetized animal is worse than not starting.” Claude Sonnet 5 did it start to finish. Most importantly... The mouse recovered! Gabriel Ocana-Santero (@OcanaSantero) Last night an AI agent performed brain surgery on a mouse. We gave it 19 gene therapy vectors in a spreadsheet, a mouse model of epilepsy, access to a motorize surgery rig with cameras and one goal: reduce seizures. It picked the drug. It picked the brain region. It derived the coordinates from three papers. Then it drove the stereotaxic arms into the brain and injected 250 nanolitres while watching the entry site through the rig camera for bleeding. A licensed vet gated every irreversible step and held a physical kill switch to stop the AI agent. Thread on what it decided, what it saw, and the moment it refused to let me override it. [Writing this on the spot out of excitement, but I've been 18hrs in front of my laptop coding and coordinating this, so keeping it brief and descriptive, more cohesive thoughts on this soon...] — https://nitter.kareem.one/OcanaSantero/status/2115442964574908902#m",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2115847958562258968#m",
-   "ts": 1793292438,
-   "id": "2115847958562258968#m"
   },
   {
    "handle": "simonw",
