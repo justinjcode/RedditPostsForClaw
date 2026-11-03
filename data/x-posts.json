@@ -1,20 +1,28 @@
 {
- "generated_at": "2026-11-03T16:44:44Z",
+ "generated_at": "2026-11-03T16:53:30Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed",
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "REPORT: Starting in early 2027, K-12 students will lose Google Search on their school logins if their district blocks Google’s AI completely. Those students will get \"a message from their school that indicates it’s not available.\" Chris Phillips, Google’s education VP, told The New York Times that’s because \"Search and A.I. are deeply integrated.\" Google’s announcement came one day after the Nov. 2 deadline Sens. Richard Blumenthal and Josh Hawley gave the company to answer questions about pushing AI into schools. NYC and LA have already restricted student AI for roughly 1.1M kids, and Fairfax County, Va., built a plug-in to hide Google’s AI summaries.",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2117658214481228117#m",
+   "ts": 1793724037,
+   "id": "2117658214481228117#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1103,15 +1111,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2115821668350435645#m",
    "ts": 1793286170,
    "id": "2115821668350435645#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: robotnews.therundown.ai/p/th… Link The self-driving future grabs a giant shovel PLUS: Boston Dynamics workers try to block ICE deal robotnews.therundown.ai",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2115813499427307561#m",
-   "ts": 1793284222,
-   "id": "2115813499427307561#m"
   },
   {
    "handle": "simonw",
