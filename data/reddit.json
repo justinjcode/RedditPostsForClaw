@@ -1,15 +1,57 @@
 {
- "generated_at": "2026-11-03T16:09:32Z",
+ "generated_at": "2026-11-03T18:10:36Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "[2611.03526] Library of Layers (LoL): Adaptively Ordering Transformer Layers at Runtime",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmzo2s/261103526_library_of_layers_lol_adaptively/",
+   "ts": 1793727881,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Like GPT-6 Astra, Qwen 3.8 27B can interpret model weights",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmz9ca/like_gpt6_astra_qwen_38_27b_can_interpret_model/",
+   "ts": 1793726982,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "The Movement Physics of Super Mario Bros - Behind the Code",
+   "url": "https://www.reddit.com/r/programming/comments/1xmydo2/the_movement_physics_of_super_mario_bros_behind/",
+   "ts": 1793725100,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Jaull: a terminal tool that tells you which local LLMs your hardware can run, then benchmarks them to check",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xmxsyw/jaull_a_terminal_tool_that_tells_you_which_local/",
+   "ts": 1793723808,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Can GROUP BY still be optimized after all these years?",
+   "url": "https://www.reddit.com/r/programming/comments/1xmxnwu/can_group_by_still_be_optimized_after_all_these/",
+   "ts": 1793723487,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "We’re the product team at Reflection, the lab behind Beam — Ask Us Anything!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmwryg/were_the_product_team_at_reflection_the_lab/",
+   "ts": 1793721560,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "Designed Once, Usable Everywhere: why PHP 8.6 adds SortDirection and Time\\Duration to the standard library",
@@ -18,17 +60,24 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "Four open coding models, prompted to finish an upload URL - analysis",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmvn4q/four_open_coding_models_prompted_to_finish_an/",
+   "ts": 1793719002,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Has anyone done a in-depth comparison between Qwen-3.8 27b @ 8bpw and Qwen-3.8-FN @ 4bpw?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmv9ju/has_anyone_done_a_indepth_comparison_between/",
+   "ts": 1793718128,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
    "title": "Anyone here host Fluxer?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xmuw5w/anyone_here_host_fluxer/",
    "ts": 1793717284,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Using public BitTorrent trackers as WebRTC signaling for a serverless browser game, plus Tribes-style packet notify netcode",
-   "url": "https://www.reddit.com/r/programming/comments/1xmuuwa/using_public_bittorrent_trackers_as_webrtc/",
-   "ts": 1793717200,
    "source": "Reddit"
   },
   {
@@ -50,13 +99,6 @@
    "title": "Notify-only Docker update checks: what threads here keep landing on",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xmtfmb/notifyonly_docker_update_checks_what_threads_here/",
    "ts": 1793713837,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Feedback on my personal anti-censorship VPN setup",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xmt31w/feedback_on_my_personal_anticensorship_vpn_setup/",
-   "ts": 1793712921,
    "source": "Reddit"
   },
   {
@@ -138,13 +180,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "Qwen3.8-Flash-Next (local) vs Claude",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmolk6/qwen38flashnext_local_vs_claude/",
-   "ts": 1793698438,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "[Paper] Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmo5xu/paper_sparks_of_weightspace_programming_llms_can/",
    "ts": 1793696819,
@@ -179,13 +214,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Underrated benefit of Local AI: Speed",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmjipa/underrated_benefit_of_local_ai_speed/",
-   "ts": 1793680283,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "I tested whether changing who an argument is attributed to changes how LLMs evaluate the exact same argument [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xmjex5/i_tested_whether_changing_who_an_argument_is/",
@@ -214,13 +242,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "I found another niche use case for local LLMs, but need some advice",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmfbam/i_found_another_niche_use_case_for_local_llms_but/",
-   "ts": 1793668091,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Memory Management, Explained Simply (Part 3)",
    "url": "https://www.reddit.com/r/programming/comments/1xmex43/memory_management_explained_simply_part_3/",
@@ -246,13 +267,6 @@
    "title": "SurfSense: a self-hosted NotebookLM alternative",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xmbomg/surfsense_a_selfhosted_notebooklm_alternative/",
    "ts": 1793658644,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "New sparse attention method for ultra-long context",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmbj0v/new_sparse_attention_method_for_ultralong_context/",
-   "ts": 1793658258,
    "source": "Reddit"
   },
   {
@@ -375,13 +389,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "AMA Announcement: Reflection, the lab behind behind Beam (Tuesday Nov 3rd, 8am-11am PT)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlmkk4/ama_announcement_reflection_the_lab_behind_behind/",
-   "ts": 1793589748,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "[D] Self-Promotion Thread",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xlmffv/d_selfpromotion_thread/",
@@ -400,13 +407,6 @@
    "title": "Database Indexing Isn't Magic. Understand It From Scratch",
    "url": "https://www.reddit.com/r/programming/comments/1xl6oes/database_indexing_isnt_magic_understand_it_from/",
    "ts": 1793548834,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "The case against Makefiles",
-   "url": "https://www.reddit.com/r/programming/comments/1xl5irk/the_case_against_makefiles/",
-   "ts": 1793546017,
    "source": "Reddit"
   },
   {
