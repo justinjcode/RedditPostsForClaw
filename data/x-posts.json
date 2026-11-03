@@ -1,20 +1,38 @@
 {
- "generated_at": "2026-11-03T15:43:49Z",
+ "generated_at": "2026-11-03T15:53:40Z",
  "accounts_ok": [
-  "Lingling_Wei",
+  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@swyx: all instances failed",
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: tech.therundown.ai/p/apple-c… Link Apple can't build enough iPhone Duos PLUS: TikTok builds its super app tech.therundown.ai",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2117640781137649686#m",
+   "ts": 1793719880,
+   "id": "2117640781137649686#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in tech today: - Apple says it can’t predict Duo supply fix - TikTok builds a super app, piece by piece - BrainCo aims to build an ‘electronic GLP-1’ - Rivian, Ford scale up 3D-printed car parts",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2117640776205181181#m",
+   "ts": 1793719879,
+   "id": "2117640776205181181#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1087,15 +1105,6 @@
    "id": "2115813499427307561#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in robotics today: - Bedrock Robotics digs up $600M - Boston Dynamics workers fight ICE deal - MIT built a robot that slithers through your gut - Trump puts factory robots on security notice",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2115813491537780944#m",
-   "ts": 1793284220,
-   "id": "2115813491537780944#m"
-  },
-  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -1121,15 +1130,6 @@
    "url": "https://nitter.kareem.one/liangxiaoxiao72/status/2115785517878952031#m",
    "ts": 1793277551,
    "id": "2115785517878952031#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: therundownai.beehiiv.com/p/g… Link Google’s Gemini 4 Carbon tops the charts (for now) Google's Gemini 4 Carbon tops AI leaderboards, but it isn't public yet. Plus, Canva Craft turns prompts into posters. Here's this week's AI briefing. therundownai.beehiiv.com",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2115753117228712356#m",
-   "ts": 1793269826,
-   "id": "2115753117228712356#m"
   },
   {
    "handle": "thsottiaux",
