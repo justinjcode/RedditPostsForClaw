@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-11-03T20:07:29Z",
+ "generated_at": "2026-11-03T20:17:21Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -9,10 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
   {
@@ -32,6 +31,15 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2117703424963703252#m",
    "ts": 1793734816,
    "id": "2117703424963703252#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "我饿啦 晚上没有吃饱",
+   "url": "https://nitter.kareem.one/ZichenWanghere/status/2117699841526772156#m",
+   "ts": 1793733961,
+   "id": "2117699841526772156#m"
   },
   {
    "handle": "realDonaldTrump",
@@ -401,6 +409,15 @@
    "url": "https://nitter.kareem.one/america/status/2117640446830948453#m",
    "ts": 1793719801,
    "id": "2117640446830948453#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "小猫咪打工日记 Video",
+   "url": "https://nitter.kareem.one/eryang666/status/2117624589350035686#m",
+   "ts": 1793716020,
+   "id": "2117624589350035686#m"
   },
   {
    "handle": "elonmusk",
@@ -1006,24 +1023,6 @@
    "id": "2116176078192492768#m"
   },
   {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "在海底捞碰到的一个服务员看起来好小啊 一问才 18 岁 河南来的",
-   "url": "https://nitter.kareem.one/ZichenWanghere/status/2116146616432562507#m",
-   "ts": 1793363644,
-   "id": "2116146616432562507#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "BREAKING NEWS: Binance, the world’s largest crypto exchange, said that it had halted withdrawals after hackers stole more than $6 billion. nyti.ms/4ieku6y Link Binance Grapples With ‘Security Incident’ That May Cause $6.3 Billion in Losses The world’s largest crypto exchange was compromised in what could be the biggest crypto heist ever. One research lab attributed the theft to “North Korea’s elite hacking unit.” nytimes.com",
-   "url": "https://nitter.kareem.one/nytimes/status/2116122840558665852#m",
-   "ts": 1793357975,
-   "id": "2116122840558665852#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -1204,9 +1203,9 @@
    "id": "2115473170279080149#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
