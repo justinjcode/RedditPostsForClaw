@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-03T10:52:56Z",
+ "generated_at": "2026-11-03T11:06:46Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
-  "swyx",
   "thsottiaux"
  ],
  "errors": [
+  "@simonw: all instances failed",
+  "@swyx: all instances failed",
+  "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
- "count": 176,
+ "count": 175,
  "items": [
   {
    "handle": "swyx",
@@ -104,15 +104,6 @@
    "url": "https://nitter.kareem.one/thatsKAIZEN/status/2117436285824463021#m",
    "ts": 1793671125,
    "id": "2117436285824463021#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "FAR-LEFT VIOLENCE IN AUSTRALIA. One Nation volunteer hospitalised in Australia with bleeding of the brain and multiple facial fractures after being bashed with a baseball bat in a targeted political attack by left wing extremists. The two men who attacked him were migrants on visas - they assaulted him after he confronted them for ripping down One Nation signs on his property. The victim’s family have started a fundraiser to support him while he recovers in hospital and cannot work.",
-   "url": "https://nitter.kareem.one/DrewPavlou/status/2117432396727632178#m",
-   "ts": 1793670198,
-   "id": "2117432396727632178#m"
   },
   {
    "handle": "elonmusk",
