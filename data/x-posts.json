@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-03T16:36:52Z",
+ "generated_at": "2026-11-03T16:44:44Z",
  "accounts_ok": [
   "TheRundownAI",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
  "errors": [
+  "@swyx: all instances failed",
+  "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Prophetic Alcuin Press (@AlcuinPress) J.R.R. Tolkien, holy cow this hits — https://nitter.kareem.one/AlcuinPress/status/2117607331433496741#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2117656478689775862#m",
+   "ts": 1793723623,
+   "id": "2117656478689775862#m"
+  },
   {
    "handle": "simonw",
    "name": "Simon Willison",
@@ -50,6 +59,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2117649850644705591#m",
    "ts": 1793722043,
    "id": "2117649850644705591#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "GO OUT AND VOTE‼️🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸 Video",
+   "url": "https://nitter.kareem.one/RobSchneider/status/2117644895561347224#m",
+   "ts": 1793720861,
+   "id": "2117644895561347224#m"
   },
   {
    "handle": "TheRundownAI",
@@ -286,19 +304,10 @@
    "id": "2117385359176679645#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I've never voted for Ken Paxton. Not in a primary (voted against) or a general election (left blank) Yet tomorrow I will vote for him so enthusiastically that I put a Paxton yard sign up Why? Because Talarico is a nutjob liberal and I don't say that lightly If you watch the commercials, you might think that all the wild things that he's said are taken out of context. But if you go look at them in context, they're even more wild than they seem in short TV ads So posts about Talarico like from @elonmusk seem to be hyperbole But actually they're pretty accurate despite his 2026 attempts to cloak himself in moderate language However while even AOC has seemed to walk back from the excesses and censorship of the Biden years (\"woke 1 was crazy\") there hasn't been any of that from Talarico Just lies about how he was bipartisan in the lege (he wasn't!) or didn't support the craziest parts of peak trans (he did!) or that he fought Biden on the border in any way (he was a cheerleader for Biden's open border!) If Texas Democrats had run anyone less crazy and weird than Talarico, they'd win tomorrow IMHO looks like a tossup. I'll happily vote for Paxton",
-   "url": "https://nitter.kareem.one/evan_van_ness/status/2117383678112207341#m",
-   "ts": 1793658582,
-   "id": "2117383678112207341#m"
-  },
-  {
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
    "author": "@realDonaldTrump",
-   "text": "Video",
+   "text": "Video Community note: The president has previously promised on multiple occasions similar checks of $2000-$5000 from tariff revenues and DOGE cuts, however none ever materialized. axios.com/2025/11/17/200… abcnews.com/Politics/trump… nbcnews.com/politics/doge/… 13newsnow.com/article/news/n… nytimes.com/2026/09/10/us/… In fact, when asked about these checks at later dates he pretended he never promised them. masslive.com/politics/2026/…",
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2117358007793377387#m",
    "ts": 1793652462,
    "id": "2117358007793377387#m"
@@ -590,15 +599,6 @@
    "url": "https://nitter.kareem.one/PicCrow/status/2117290170949275949#m",
    "ts": 1793636288,
    "id": "2117290170949275949#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Gavin Baker ( @GavinSBaker ) on orbital compute: \"The most important thing in the next 3-4 years is data centers in space. In space, you can keep a satellite in the sun 24 hours a day. So you don't need a battery. Space cooling is free. In every way, data centers in space, from a first principles perspective, are superior to data centers on earth.\" \" @elonmusk operates two of the largest coherent GPU clusters in the world, SpaceX is responsible for over 90% of mass to orbit and SpaceX operates the largest satellite constellation in the solar system. More than 10 years later, no other company or country can consistently land and reuse orbital rockets.\" \"Starship should be able to lift 10 to 15 megawatts to sun-synchronous orbit per flight.\" \"Starship is going to change the space economy in ways we cannot imagine. Particularly if regulation becomes a constraint to data centers, none of it's going to matter. You're going to sell as much orbital compute as you can make.\" A collection of Gavin's quotes from his conversations on Invest Like the Best (EP.451 and EP.473) and his own posts on X. Video Elon Musk (@elonmusk) Future super intelligence compute will obviously be overwhelmingly in space. By “overwhelmingly”, I mean that it will round up to 100%! You have to be an utter moron not to realize this. — https://nitter.kareem.one/elonmusk/status/2117272748112154651#m",
-   "url": "https://nitter.kareem.one/InvestLikeBest/status/2117285868641673235#m",
-   "ts": 1793635263,
-   "id": "2117285868641673235#m"
   },
   {
    "handle": "thsottiaux",
