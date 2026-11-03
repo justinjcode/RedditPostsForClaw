@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-03T05:06:38Z",
+ "generated_at": "2026-11-03T05:17:29Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "bcherny",
+  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -11,9 +10,10 @@
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed"
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed"
  ],
- "count": 175,
+ "count": 176,
  "items": [
   {
    "handle": "elonmusk",
@@ -32,6 +32,15 @@
    "url": "https://nitter.kareem.one/pbeisel/status/2117471098820587582#m",
    "ts": 1793679425,
    "id": "2117471098820587582#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Space datacenters actually make sense elie (@eliebakouch) distributed training in space ❤️‍🔥 — https://nitter.kareem.one/eliebakouch/status/2117297070155731058#m",
+   "url": "https://nitter.kareem.one/MillionInt/status/2117465116858052725#m",
+   "ts": 1793677999,
+   "id": "2117465116858052725#m"
   },
   {
    "handle": "elonmusk",
@@ -82,6 +91,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "FAR-LEFT VIOLENCE IN AUSTRALIA. One Nation volunteer hospitalised in Australia with bleeding of the brain and multiple facial fractures after being bashed with a baseball bat in a targeted political attack by left wing extremists. The two men who attacked him were migrants on visas - they assaulted him after he confronted them for ripping down One Nation signs on his property. The victim’s family have started a fundraiser to support him while he recovers in hospital and cannot work.",
+   "url": "https://nitter.kareem.one/DrewPavlou/status/2117432396727632178#m",
+   "ts": 1793670198,
+   "id": "2117432396727632178#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "9 of America’s top 10 foreign aid recipients voted against us more than with us at the UN. Jordan takes $1.74 billion and votes against America 52-24. Ethiopia, Somalia, Nigeria, Kenya, same thing. Billions of our money, then they stab us in the back every chance they get. Literally funding our own opposition. Rothmus 🏴 (@Rothmus) $329 BILLION in aid and they’re POORER than they were in 1960. The “not enough aid” politicians and NGOs have poured more than enough cash into places with rotten institutions, elite theft, and zero accountability. And instead of building prosperity, your taxes subsidized failure. — https://nitter.kareem.one/Rothmus/status/2117417878156710180#m",
    "url": "https://nitter.kareem.one/Rothmus/status/2117431727689720217#m",
    "ts": 1793670038,
@@ -127,6 +145,15 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
+   "text": "Writing code is one step. Finishing the job is the test. @walden_yan , cofounder and CPO of @cognition , joins AIE CODE. Thank you to Cognition, a Platinum Sponsor. Nov 10–12, San Francisco. Apply: ai.engineer/code",
+   "url": "https://nitter.kareem.one/aiDotEngineer/status/2117391304535736653#m",
+   "ts": 1793660400,
+   "id": "2117391304535736653#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
    "text": "@WeAreLegora announced a $550M Series E a couple weeks ago, so @swyx and I sat down with @jacsebl (CTO, @WeAreLegora ) to talk about the nuances of building AI agents for the legal industry. We got into: -how one model release took Legora's citation accuracy from 70% to 99% with zero work -why Legora runs on Azure (early customers refused AWS / GCP) -why law firms punish partners for codifying what they know -why Legora post-trains open-weight models and much, much, more… Enjoy! Timestamps 0:00 Cold open 0:40 Meet Jacob Lauritzen, CTO of Legora 1:05 Starting out as underdogs in a Stockholm basement 1:54 How Legora grew from ChatGPT with Swedish law into a legal agent 4:12 The switch from assistant to agent 5:23 Which models Legora uses and why it added a model picker 7:48 Are today’s models good enough for lawyers? 8:20 What agents couldn’t do nine months ago 9:18 Testing the agent in simulated worlds and a 10,000-file data room 10:07 The evals team and Legora’s 100 legal engineers 11:03 When evals didn’t seem worth it and one release took citations from 70% to 99% 12:18 What legal practice could look like in five to ten years 14:18 Will the law firm partnership model survive? 16:40 What happens to paralegals and junior lawyers? 18:00 The billable hour and why earlier legal tech fell short 19:39 Where the money goes now 22:44 How Legora used its own product for acquisition diligence 23:59 How Swedish and American law firms differ 26:12 Product metrics when you can’t read the ",
    "url": "https://nitter.kareem.one/realbasilchatha/status/2117385359176679645#m",
    "ts": 1793658983,
@@ -163,7 +190,7 @@
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
    "author": "@realDonaldTrump",
-   "text": "Video",
+   "text": "Video Community note: The president has previously promised on multiple occasions similar checks of $2000-$5000 from tariff revenues and DOGE cuts, however none ever materialized. axios.com/2025/11/17/200… abcnews.com/Politics/trump… nbcnews.com/politics/doge/… 13newsnow.com/article/news/n… nytimes.com/2026/09/10/us/… In fact, when asked about these checks at later dates he pretended he never promised them. masslive.com/politics/2026/…",
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2117358007793377387#m",
    "ts": 1793652462,
    "id": "2117358007793377387#m"
@@ -520,15 +547,6 @@
    "id": "2117260304522395653#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon Musk's naming choices for Colossus 2 are on a completely different level 😭 • Macrohard • Macroharder • Minihard • Gun Range • Spam This man built the most powerful SI data center on Earth, is building the future of superintelligence, and these are the names he comes up with 😂 X Freeze (@XFreeze) SpaceXSI is building the most powerful SI training cluster on Earth, with Colossus 2 reaching around 1.2M Blackwell GPUs by the end of this year — https://nitter.kareem.one/XFreeze/status/2116619519989096450#m",
-   "url": "https://nitter.kareem.one/XFreeze/status/2117247883842084961#m",
-   "ts": 1793626206,
-   "id": "2117247883842084961#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -815,15 +833,6 @@
    "url": "https://nitter.kareem.one/bcherny/status/2116222842413142111#m",
    "ts": 1793381817,
    "id": "2116222842413142111#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "four days until forge. the lineups are insane 🤯 ⚡ @dhh , creator of @rails ⚡ @silasalberti , chief research officer at @cognition ⚡ @Thom_Wolf , co-founder of @huggingface ⚡ @noahrshinn , founder of @instinct ⚡ @EnoReyes , cto of @FactoryAI ⚡ @swyx , curator of @aiDotEngineer ⚡ @natolambert , co-founder of @trillium_labs ⚡ @0xSero of sybil solutions ⚡ @GavinSBaker , cio of @Atreidesmgmt ⚡ @dylan522p , founder of @SemiAnalysis_ ⚡ @BrendanFoody , ceo of @mercor ⚡ @pirroh , president of @Replit ⚡ @sarahmsachs , head of ai at @NotionHQ ⚡ @MishaLaskin , ceo of @reflection_ai …plus 30+ more speakers from Fireworks AI, AMD, Meta, Salesforce, Zillow, PayPal, McKinsey and others. In-person is sold out, but you can still join the livestream. Register here 👇 fireworks.ai/forge/livestrea…",
-   "url": "https://nitter.kareem.one/sophiamyang/status/2116207024987926987#m",
-   "ts": 1793378046,
-   "id": "2116207024987926987#m"
   },
   {
    "handle": "ZichenWanghere",
