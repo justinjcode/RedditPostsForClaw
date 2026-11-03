@@ -1,15 +1,36 @@
 {
- "generated_at": "2026-11-02T22:09:28Z",
+ "generated_at": "2026-11-03T00:19:24Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
+  "MachineLearning",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Qwen 3.8 27b is sometimes so smart it scares me...",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmbym0/qwen_38_27b_is_sometimes_so_smart_it_scares_me/",
+   "ts": 1793659331,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "SurfSense: a self-hosted NotebookLM alternative",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xmbomg/surfsense_a_selfhosted_notebooklm_alternative/",
+   "ts": 1793658644,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "New sparse attention method for ultra-long context",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmbj0v/new_sparse_attention_method_for_ultralong_context/",
+   "ts": 1793658258,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Docker HCI Project",
@@ -40,9 +61,23 @@
   },
   {
    "subreddit": "LocalLLaMA",
+   "title": "Inconsistencies in Unsloth's LiveCodeBench Results",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm9i4x/inconsistencies_in_unsloths_livecodebench_results/",
+   "ts": 1793653547,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
    "title": "Kind of enjoying the ISTA (GSQ-RCO) vs Unsloth beef",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm8xhn/kind_of_enjoying_the_ista_gsqrco_vs_unsloth_beef/",
    "ts": 1793652228,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "ICLR 2027 review results [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xm8vik/iclr_2027_review_results_d/",
+   "ts": 1793652095,
    "source": "Reddit"
   },
   {
@@ -53,10 +88,17 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "YSK: Strata and polystrata have this functionality called answer_room",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm8aki/ysk_strata_and_polystrata_have_this_functionality/",
-   "ts": 1793650779,
+   "subreddit": "MachineLearning",
+   "title": "LightMIS: Ultra-lightweight medical image segmentation for edge devices [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xm8dbo/lightmis_ultralightweight_medical_image/",
+   "ts": 1793650950,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xm89ef/sparks_of_weightspace_programming_llms_can/",
+   "ts": 1793650706,
    "source": "Reddit"
   },
   {
@@ -120,13 +162,6 @@
    "title": "Yet another reason to self host: Anthropic has (again) cut back on reverse engineering tools",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm33gr/yet_another_reason_to_self_host_anthropic_has/",
    "ts": 1793639627,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Fine tuned open model ftw",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm2xbq/fine_tuned_open_model_ftw/",
-   "ts": 1793639260,
    "source": "Reddit"
   },
   {
@@ -228,13 +263,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Proposal: A community revolution for private quality benchmarks (and why endless chasing tok/s is rotting our brains",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlusil/proposal_a_community_revolution_for_private/",
-   "ts": 1793619180,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Do I need to buy a server or use something I already have ?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xltg3e/do_i_need_to_buy_a_server_or_use_something_i/",
@@ -277,20 +305,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Alternatives to Invidious? (Hate the UI experience)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xlogp0/alternatives_to_invidious_hate_the_ui_experience/",
-   "ts": 1793595871,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "[R] There is no free lunch in RLVR: under strategy specialization, every pass@1 gain provably costs some prompt, and the pass@k crossover has a tight bound [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xlnu1y/r_there_is_no_free_lunch_in_rlvr_under_strategy/",
-   "ts": 1793593811,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "AMA Announcement: Reflection, the lab behind behind Beam (Tuesday Nov 3rd, 8am-11am PT)",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlmkk4/ama_announcement_reflection_the_lab_behind_behind/",
@@ -309,13 +323,6 @@
    "title": "Bad Apple!! Running on the NAND2TETRIS CPU simulator",
    "url": "https://www.reddit.com/r/programming/comments/1xlll2u/bad_apple_running_on_the_nand2tetris_cpu_simulator/",
    "ts": 1793586756,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Benchmarking: Qwen 27B, 35B, QFN180B; Nemotron Bolt 74B, Flint40B & Clover 35B (Q4) on M5 Max 2026 on Kapitsa with KFlash [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xljter/benchmarking_qwen_27b_35b_qfn180b_nemotron_bolt/",
-   "ts": 1793581533,
    "source": "Reddit"
   },
   {
@@ -365,13 +372,6 @@
    "title": "Pocket ID v3 with a completely rewritten UI is around the corner - We need your feedback",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xl7ceq/pocket_id_v3_with_a_completely_rewritten_ui_is/",
    "ts": 1793550401,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "[D] Simple Questions Thread",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xl6og2/d_simple_questions_thread/",
-   "ts": 1793548836,
    "source": "Reddit"
   },
   {
