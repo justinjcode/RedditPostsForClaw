@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-03T04:38:16Z",
+ "generated_at": "2026-11-03T04:46:08Z",
  "accounts_ok": [
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
-  "@swyx: all instances failed",
-  "@Lingling_Wei: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
- "count": 176,
+ "count": 175,
  "items": [
   {
    "handle": "elonmusk",
@@ -55,15 +55,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "FAR-LEFT VIOLENCE IN AUSTRALIA. One Nation volunteer hospitalised in Australia with bleeding of the brain and multiple facial fractures after being bashed with a baseball bat in a targeted political attack by left wing extremists. The two men who attacked him were migrants on visas - they assaulted him after he confronted them for ripping down One Nation signs on his property. The victim’s family have started a fundraiser to support him while he recovers in hospital and cannot work.",
-   "url": "https://nitter.kareem.one/DrewPavlou/status/2117432396727632178#m",
-   "ts": 1793670198,
-   "id": "2117432396727632178#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "9 of America’s top 10 foreign aid recipients voted against us more than with us at the UN. Jordan takes $1.74 billion and votes against America 52-24. Ethiopia, Somalia, Nigeria, Kenya, same thing. Billions of our money, then they stab us in the back every chance they get. Literally funding our own opposition. Rothmus 🏴 (@Rothmus) $329 BILLION in aid and they’re POORER than they were in 1960. The “not enough aid” politicians and NGOs have poured more than enough cash into places with rotten institutions, elite theft, and zero accountability. And instead of building prosperity, your taxes subsidized failure. — https://nitter.kareem.one/Rothmus/status/2117417878156710180#m",
    "url": "https://nitter.kareem.one/Rothmus/status/2117431727689720217#m",
    "ts": 1793670038,
@@ -77,6 +68,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2117422818648555595#m",
    "ts": 1793667914,
    "id": "2117422818648555595#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Elon Musk on going \"from the impossible to the merely late,\" his own description of how Starship got built: \"When we first started talking about Starship, people thought this was impossible. In fact, even within the company, we sort of thought it was impossible.\" He says it had what he calls a \"giggle factor.\" People laughed at the idea. \"I guess I specialize in going from the impossible to the merely late. So that's my skill.\" \"It wasn't possible, now it's just late.\" @elonmusk Video",
+   "url": "https://nitter.kareem.one/teslaownersSV/status/2117415528449065099#m",
+   "ts": 1793666176,
+   "id": "2117415528449065099#m"
   },
   {
    "handle": "thsottiaux",
@@ -617,15 +617,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2117035794678546764#m",
    "ts": 1793575640,
    "id": "2117035794678546764#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Introducing GrokBot's first live dashboard for your teams of agent 1 prompt + 2 min + <1% usage = you have the same: • no more chaos - every team on its own floor of live 3D office • see exactly which bot is eating your usage • no more \"is it working or dead?\" - every bot shows its status live here's guide to setup it: works on computer and phone* 1 → paste prompt below into your GrokBot ( that's it ) - it becomes the \"manager\" of your dashboard 2 → it creates your private live channel on ntfy - a free real-time mailbox only your link can read 3 → writes 1 rule into the shared memory of ALL your bots: every time you start, finish, get stuck or need me - send 1 line 4 → it sends your full roster: every bot, its team, its look and its chat link - each team gets its own floor 5 → open the link it gives you - the office reads your channel line 6 → a routine resends roster + usage per bot on shedule - new bots walk into the office by themselves all it takes ~2 min for GrokBot... the result: you stop opening 15 chats and see your whole AI company work 24/7 - who's busy, who's stuck, who' eating your usage... and can manage them right from office p.s: 1% usage measured on my Super Plan. I'll keep updating dashboard and making it even better, so wait for updates - and tell me what to improve Try it now, you're welcome. Then read full guide on how use GrokBot below: Video codila (@0xCodila) Article Grok Bot Agents: Build 24/7 AI Agent Graph That Automate Your Life (The Ultimate 5-Step",
-   "url": "https://nitter.kareem.one/0xCodila/status/2116960213206966317#m",
-   "ts": 1793557620,
-   "id": "2116960213206966317#m"
   },
   {
    "handle": "thsottiaux",
