@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-03T04:53:03Z",
+ "generated_at": "2026-11-03T05:06:38Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +10,29 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
- "count": 176,
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
+ "count": 175,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starlink saves lives DogeDesigner (@cb_doge) Starlink helped save FIVE lives in the Atlantic. ♥️ Their boat, Karolina Viking, was filling with water. Its power systems were failing. Rescuers couldn’t reach them by radio or satellite phone. The sailors shared their location with rescuers through Starlink, helping another yacht find them. All five were rescued from their liferaft and brought safely aboard. Starlink helped turn a desperate situation into five lives saved. This is what a lifeline from space looks like. — https://nitter.kareem.one/cb_doge/status/2117465958025674806#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2117479668768981376#m",
+   "ts": 1793681468,
+   "id": "2117479668768981376#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "A lot of very smart people are tying themselves in knots trying to explain why dissipating heat from a compute satellite is impossible. All they’ve really guaranteed is that they’ll never get a job at SpaceX. It used to be: “You can’t build an EV that performs as well as an ICE vehicle.” “You can’t build EV batteries at scale.” “You can’t solve autonomous driving with cameras and vision alone.” “You can’t land and reuse an orbital-class rocket.” “You can’t build an electric semi.” “You can’t manufacture cars at that scale.” Now it’s: “You can’t build a space-based AI compute satellite.” “You can’t scale terrestrial compute that fast.” “You can’t manufacture advanced AI chips at scale.” “You can’t build AI models that challenge the frontier labs.” “You can’t build a general-purpose humanoid robot that works at scale.” “You can’t get to Mars.” phil beisel (@pbeisel) Here we have the necessary 'I am smarter than Elon' post. I wonder if Jan realizes that there are 11,184 Starlink satellites in space, 'cooling' right now through their radiative structures. Not the same heat dissipation requirements as the Starmind sats, but I think it's reasonable to say Elon knows a thing or two about satellite thermal management. Jan got his impression count, though I am not sure that was his objective. — https://nitter.kareem.one/pbeisel/status/2117340482594562486#m",
+   "url": "https://nitter.kareem.one/pbeisel/status/2117471098820587582#m",
+   "ts": 1793679425,
+   "id": "2117471098820587582#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -58,15 +77,6 @@
    "url": "https://nitter.kareem.one/thatsKAIZEN/status/2117436285824463021#m",
    "ts": 1793671125,
    "id": "2117436285824463021#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "FAR-LEFT VIOLENCE IN AUSTRALIA. One Nation volunteer hospitalised in Australia with bleeding of the brain and multiple facial fractures after being bashed with a baseball bat in a targeted political attack by left wing extremists. The two men who attacked him were migrants on visas - they assaulted him after he confronted them for ripping down One Nation signs on his property. The victim’s family have started a fundraiser to support him while he recovers in hospital and cannot work.",
-   "url": "https://nitter.kareem.one/DrewPavlou/status/2117432396727632178#m",
-   "ts": 1793670198,
-   "id": "2117432396727632178#m"
   },
   {
    "handle": "elonmusk",
@@ -513,15 +523,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Starlink saves lives DogeDesigner (@cb_doge) Starlink helped save a woman stranded in Colorado’s freezing mountains. A 37-year-old hiker was trapped in deep snow, unable to walk and suffering from cold injuries. With no mobile phone signal, rescuers used Starlink to stay connected to their coordinator throughout the night. She was rescued by helicopter and flown to hospital the next morning. A lifeline from space helped rescuers bring her to safety. — https://nitter.kareem.one/cb_doge/status/2117215644957716547#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2117252866503290905#m",
-   "ts": 1793627394,
-   "id": "2117252866503290905#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Elon Musk's naming choices for Colossus 2 are on a completely different level 😭 • Macrohard • Macroharder • Minihard • Gun Range • Spam This man built the most powerful SI data center on Earth, is building the future of superintelligence, and these are the names he comes up with 😂 X Freeze (@XFreeze) SpaceXSI is building the most powerful SI training cluster on Earth, with Colossus 2 reaching around 1.2M Blackwell GPUs by the end of this year — https://nitter.kareem.one/XFreeze/status/2116619519989096450#m",
    "url": "https://nitter.kareem.one/XFreeze/status/2117247883842084961#m",
    "ts": 1793626206,
@@ -589,15 +590,6 @@
    "url": "https://nitter.kareem.one/king1818888/status/2117151221022597194#m",
    "ts": 1793603160,
    "id": "2117151221022597194#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Fuck you if you hate on Elon Musk. Just imagine this was your son… ALS took away Jake’s ability to use his wheelchair joystick and now, Neuralink lets him control his chair with his mind. Hate on Elon all you want, he’s out here giving people their lives back. Video",
-   "url": "https://nitter.kareem.one/Teslaconomics/status/2117122417634250989#m",
-   "ts": 1793596293,
-   "id": "2117122417634250989#m"
   },
   {
    "handle": "ZichenWanghere",
