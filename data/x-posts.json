@@ -1,9 +1,7 @@
 {
- "generated_at": "2026-11-03T20:53:13Z",
+ "generated_at": "2026-11-03T21:05:58Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +9,57 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
- "count": 176,
+ "errors": [
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
+ ],
+ "count": 178,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Google provides a clarification to this morning's AI / Google search drama: The Rundown AI (@TheRundownAI) REPORT: Starting in early 2027, K-12 students will lose Google Search on their school logins if their district blocks Google’s AI completely. Those students will get \"a message from their school that indicates it’s not available.\" Chris Phillips, Google’s education VP, told The New York Times that’s because \"Search and A.I. are deeply integrated.\" Google’s announcement came one day after the Nov. 2 deadline Sens. Richard Blumenthal and Josh Hawley gave the company to answer questions about pushing AI into schools. NYC and LA have already restricted student AI for roughly 1.1M kids, and Fairfax County, Va., built a plug-in to hide Google’s AI summaries. — https://nitter.kareem.one/TheRundownAI/status/2117658214481228117#m",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2117723912867811714#m",
+   "ts": 1793739700,
+   "id": "2117723912867811714#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Try asking Grok @Bot to make calls! Sawyer Merritt (@SawyerMerritt) Grok @Bot 's new calling feature is very impressive. You just tell it who to call and why, and it handles the conversation for you. It shows a real-time transcript of the call, and if Grok needs additional info from you, a little answer box pops up where you type/select your response, and Grok relays it to the person on the phone. Pretty incredible. Here's an example (with the call audio) of what's it's like to use: Video — https://nitter.kareem.one/SawyerMerritt/status/2117697749009207386#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2117722703738310713#m",
+   "ts": 1793739412,
+   "id": "2117722703738310713#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "⚡ Inside the 2026 SOTA of Software Factories with @zachlloydtweets of @warpdotdev ! Warp's open source cloud factory approach has been resonating bigly this year, leading to multiple top @aiDotEngineer talks and an invitation to keynote this year's AIE CODE. Zach talks through the philosophy, demos Warp’s live system, and reports that tuning models and reducing redundant subagents can lower costs from ~$80 to ~$15–20 per PR and raise throughput 40% over the prior month, while keeping quality! Full episode below: from a Slack request to a PR, then into the work of measuring and improving software factories. 0:00 Software factories at Warp 0:53 AIE CODE in San Francisco 1:31 Zach Lloyd and software factories 4:30 Define the factory in code 7:34 Follow a Slack request to a PR 8:41 Measure cost, throughput and quality 14:32 Agents improving the factory 16:10 Benchmark your own tasks 23:59 From $80 to $15–20 per PR 27:03 Who needs software factories? 33:23 Product engineers and factory engineers See Zach at @aiDotEngineer CODE, Nov 10–12 in San Francisco: ai.engineer/code Video",
+   "url": "https://nitter.kareem.one/latentspacepod/status/2117721636195663898#m",
+   "ts": 1793739158,
+   "id": "2117721636195663898#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Elon Is Doing It Again: SpaceX Will Be The World’s Biggest AI Cloud Making 13GW in 1.5 Years A Reality newsletter.semianalysis.com/… Link Elon Is Doing It Again: SpaceX Will Be The World’s Biggest AI Cloud Making 13GW in 1.5 Years A Reality newsletter.semianalysis.com",
+   "url": "https://nitter.kareem.one/SemiAnalysis_/status/2117720668145852429#m",
+   "ts": 1793738927,
+   "id": "2117720668145852429#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "you won't want to miss the TB lounge!! kick your feet up and relax while your agents are working 🤝 more to come... cc @swyx Ivan Leo (@ivanleomk) Hah can’t wait for the token billionaire lounge, burning billion every week on evals now 😭 — https://nitter.kareem.one/ivanleomk/status/2117511977077702808#m",
+   "url": "https://nitter.kareem.one/mattbergland/status/2117714495623852414#m",
+   "ts": 1793737455,
+   "id": "2117714495623852414#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -132,15 +178,6 @@
    "id": "2117659675709849612#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Good work sir! Follow his example if you haven’t voted yet and go vote! Dwight (@Wightout66) Just voted red in PA Go vote! — https://nitter.kareem.one/Wightout66/status/2117619717368062287#m",
-   "url": "https://nitter.kareem.one/the_jefferymead/status/2117659676850700415#m",
-   "ts": 1793724385,
-   "id": "2117659676850700415#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -198,15 +235,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "GO OUT AND VOTE‼️🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸 Video",
-   "url": "https://nitter.kareem.one/RobSchneider/status/2117644895561347224#m",
-   "ts": 1793720861,
-   "id": "2117644895561347224#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "BOOM: Lines are wrapping around polling places in Texas this morning as voters pour in. Texans do not stand in long lines for things they do not care about. If you are in line, stay there. Texas polls are open until 7 PM, and everyone in line by 7 gets to vote.",
    "url": "https://nitter.kareem.one/GuntherEagleman/status/2117644656469033331#m",
    "ts": 1793720804,
@@ -252,19 +280,19 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Just voted red in PA Go vote!",
-   "url": "https://nitter.kareem.one/Wightout66/status/2117619717368062287#m",
-   "ts": 1793714858,
-   "id": "2117619717368062287#m"
+   "text": "Voted today to keep Florida red. I left the failed politics from New York in New York.",
+   "url": "https://nitter.kareem.one/ZeekArkham/status/2117619294813171762#m",
+   "ts": 1793714758,
+   "id": "2117619294813171762#m"
   },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Voted today to keep Florida red. I left the failed politics from New York in New York.",
-   "url": "https://nitter.kareem.one/ZeekArkham/status/2117619294813171762#m",
-   "ts": 1793714758,
-   "id": "2117619294813171762#m"
+   "text": "Greg Abbott’s odds rise with reports of high election day turnout in Texas Texas Governor Race Per Kalshi 🔴 Greg Abbott: 66% (+6) 🔵 Gina Hinojosa: 34% (-6) (+/- vs poll opening)",
+   "url": "https://nitter.kareem.one/OpenSourceZone/status/2117618217502085518#m",
+   "ts": 1793714501,
+   "id": "2117618217502085518#m"
   },
   {
    "handle": "elonmusk",
@@ -414,6 +442,96 @@
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
    "author": "@realDonaldTrump",
+   "text": "TO THE GREAT PEOPLE OF ALABAMA, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP swampthevoteusa.com/alabama/",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2117345168496169036#m",
+   "ts": 1793649401,
+   "id": "2117345168496169036#m"
+  },
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "TO THE GREAT PEOPLE OF ALASKA, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP swampthevoteusa.com/alaska/",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2117345085947777431#m",
+   "ts": 1793649381,
+   "id": "2117345085947777431#m"
+  },
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "TO THE GREAT PEOPLE OF ARIZONA, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP swampthevoteusa.com/arizona/",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2117345016129413341#m",
+   "ts": 1793649364,
+   "id": "2117345016129413341#m"
+  },
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "TO THE GREAT PEOPLE OF ARKANSAS, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP swampthevoteusa.com/arkansas…",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2117344811686494316#m",
+   "ts": 1793649316,
+   "id": "2117344811686494316#m"
+  },
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "TO THE GREAT PEOPLE OF CALIFORNIA, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP swampthevoteusa.com/californ…",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2117344620065755479#m",
+   "ts": 1793649270,
+   "id": "2117344620065755479#m"
+  },
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "TO THE GREAT PEOPLE OF COLORADO, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP swampthevoteusa.com/colorado…",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2117344512192262464#m",
+   "ts": 1793649244,
+   "id": "2117344512192262464#m"
+  },
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "TO THE GREAT PEOPLE OF FLORIDA, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP swampthevoteusa.com/florida/",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2117344285674906050#m",
+   "ts": 1793649190,
+   "id": "2117344285674906050#m"
+  },
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "TO THE GREAT PEOPLE OF GEORGIA, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP swampthevoteusa.com/georgia/",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2117344194260079035#m",
+   "ts": 1793649168,
+   "id": "2117344194260079035#m"
+  },
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "TO THE GREAT PEOPLE OF IDAHO, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP swampthevoteusa.com/idaho/",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2117344056296784140#m",
+   "ts": 1793649136,
+   "id": "2117344056296784140#m"
+  },
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
+   "text": "TO THE GREAT PEOPLE OF ILLINOIS, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP swampthevoteusa.com/illinois…",
+   "url": "https://nitter.kareem.one/realDonaldTrump/status/2117343963359449271#m",
+   "ts": 1793649113,
+   "id": "2117343963359449271#m"
+  },
+  {
+   "handle": "realDonaldTrump",
+   "name": "Donald Trump",
+   "author": "@realDonaldTrump",
    "text": "TO THE GREAT PEOPLE OF IOWA, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP swampthevoteusa.com/iowa/",
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2117343760615084255#m",
    "ts": 1793649065,
@@ -490,96 +608,6 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2117342818452562296#m",
    "ts": 1793648840,
    "id": "2117342818452562296#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "TO THE GREAT PEOPLE OF MONTANA, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP swampthevoteusa.com/montana/",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2117342717051081055#m",
-   "ts": 1793648816,
-   "id": "2117342717051081055#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "TO THE GREAT PEOPLE OF NEBRASKA, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP swampthevoteusa.com/nebraska…",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2117342628526358560#m",
-   "ts": 1793648795,
-   "id": "2117342628526358560#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "TO THE GREAT PEOPLE OF NEVADA, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP swampthevoteusa.com/nevada/",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2117342536280784915#m",
-   "ts": 1793648773,
-   "id": "2117342536280784915#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "TO THE GREAT PEOPLE OF NEW HAMPSHIRE, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP swampthevoteusa.com/new-hamp…",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2117342413308280851#m",
-   "ts": 1793648744,
-   "id": "2117342413308280851#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "TO THE GREAT PEOPLE OF NEW JERSEY, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP swampthevoteusa.com/new-jers…",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2117342315844894771#m",
-   "ts": 1793648721,
-   "id": "2117342315844894771#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "TO THE GREAT PEOPLE OF NEW MEXICO, GET OUT AND VOTE for Greg Cunningham for Congress! He has my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP swampthevoteusa.com/new-mexi…",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2117342189923795153#m",
-   "ts": 1793648691,
-   "id": "2117342189923795153#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "TO THE GREAT PEOPLE OF NEW YORK, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP swampthevoteusa.com/new-york…",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2117341930850009133#m",
-   "ts": 1793648629,
-   "id": "2117341930850009133#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "TO THE GREAT PEOPLE OF NORTH CAROLINA, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP swampthevoteusa.com/north-ca…",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2117341835878342907#m",
-   "ts": 1793648606,
-   "id": "2117341835878342907#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "TO THE GREAT PEOPLE OF NORTH DAKOTA, GET OUT AND VOTE for Congresswoman Julie Fedorchak! She has my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP swampthevoteusa.com/north-da…",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2117341742252904913#m",
-   "ts": 1793648584,
-   "id": "2117341742252904913#m"
-  },
-  {
-   "handle": "realDonaldTrump",
-   "name": "Donald Trump",
-   "author": "@realDonaldTrump",
-   "text": "TO THE GREAT PEOPLE OF OHIO, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement and will never let you down! President DONALD J. TRUMP swampthevoteusa.com/ohio/",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2117341621758947378#m",
-   "ts": 1793648555,
-   "id": "2117341621758947378#m"
   },
   {
    "handle": "swyx",
@@ -1075,15 +1103,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2115873803486032121#m",
    "ts": 1793298600,
    "id": "2115873803486032121#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "A president’s conversations with AI are now something Congress wants on the record. Two top House Democrats are calling for President Trump to save the conversations he’s sent Grok, ChatGPT and Claude on official business, and to brief them by Nov. 11, per a letter obtained by Politico. The letter cites reporting that Trump asked Grok how Venezuelans would react to Maduro’s capture weeks before the U.S. seized him.",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2115861004211077557#m",
-   "ts": 1793295548,
-   "id": "2115861004211077557#m"
   },
   {
    "handle": "simonw",
