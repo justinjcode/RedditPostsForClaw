@@ -1,18 +1,17 @@
 {
- "generated_at": "2026-11-03T22:43:29Z",
+ "generated_at": "2026-11-03T22:53:05Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed",
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
   {
@@ -59,6 +58,15 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2117741980860235930#m",
    "ts": 1793744008,
    "id": "2117741980860235930#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "America is the greatest country on Earth. There is no competitor. It's necessary to ensure continued American greatness by electing leaders who uphold those values of freedom, democracy, and independence from authoritarian rule. #Midterms2026 #WSJ 🔗 on.wsj.com/4za72H0 Video",
+   "url": "https://nitter.kareem.one/gerardtbaker/status/2117734798932521209#m",
+   "ts": 1793742296,
+   "id": "2117734798932521209#m"
   },
   {
    "handle": "swyx",
@@ -158,6 +166,15 @@
    "url": "https://nitter.kareem.one/bcherny/status/2117693181651542387#m",
    "ts": 1793732373,
    "id": "2117693181651542387#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Come work for the best Middle East team in journalism. We have a new opening for a Farsi-speaking reporter in Dubai to join an Iran reporting team that breaks news about and explains the Islamic Republic to our millions of readers. Apply here. wsj.jobs/dubai-are/mideast-c…",
+   "url": "https://nitter.kareem.one/michaelkamon/status/2117683721834775038#m",
+   "ts": 1793730118,
+   "id": "2117683721834775038#m"
   },
   {
    "handle": "elonmusk",
@@ -1490,24 +1507,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2112657717227843942#m",
    "ts": 1792531825,
    "id": "2112657717227843942#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "Thanks for Lingling’s insightful report and her quote of my two cents🙏 Lingling Wei 魏玲灵 (@Lingling_Wei) Xi’s widening purge is targeting officials with ties to rival political networks as China prepares for its 2027 leadership reshuffle. An interview with @guoguang_wu Read more in this edition of the WSJ China newsletter. wsj.com/world/china/chinas-u… via @WSJ Link China’s Ultimate Political Survivor Just Fell. What That Says About Xi’s Rule. Plus, export-driven growth rebounds, masking deepening economic problems that are creating a lost generation. wsj.com — https://nitter.kareem.one/Lingling_Wei/status/2112512637825421611#m",
-   "url": "https://nitter.kareem.one/guoguang_wu/status/2112646849010241679#m",
-   "ts": 1792529234,
-   "id": "2112646849010241679#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "Incredible scoop by my @WSJ colleagues: Elon Musk ordered the slowdown of a military-grade version of Starlink relied on by Ukraine, a decision that sparked panic in Kyiv and confusion inside the Trump administration. wsj.com/world/ukraine-starli… Link Exclusive | Musk Ordered Starlink Slowdown That Blindsided Ukraine The SpaceX founder authorized the move and has been discussing Ukraine with Trump, but the president has denied ordering the restrictions. wsj.com",
-   "url": "https://nitter.kareem.one/laraseligman/status/2112642629317861626#m",
-   "ts": 1792528228,
-   "id": "2112642629317861626#m"
   },
   {
    "handle": "bcherny",
