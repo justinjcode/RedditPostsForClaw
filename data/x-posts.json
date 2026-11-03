@@ -1,18 +1,17 @@
 {
- "generated_at": "2026-11-03T00:54:22Z",
+ "generated_at": "2026-11-03T01:07:13Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed",
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
   {
@@ -23,6 +22,15 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2117412956950638872#m",
    "ts": 1793665563,
    "id": "2117412956950638872#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "friendliest ghosts in town were out singing till 2 am 🎶 Video",
+   "url": "https://nitter.kareem.one/NehallAgrawal/status/2117410878295577066#m",
+   "ts": 1793665067,
+   "id": "2117410878295577066#m"
   },
   {
    "handle": "swyx",
@@ -779,15 +787,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2116305528330785190#m",
    "ts": 1793401531,
    "id": "2116305528330785190#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "celld/DOs are awesome. added an old school irc chat channel to my blog recently and realized that you can literally add chat to every interface for actually $0 (as in free) with a good local dev experience now you never have to read alone. the web can be open AND social. Ryan Dahl (@rough__sea) Introducing celld: a self-hosted, distributed Durable Objects and Workers implementation - celld = V8 + S3 + SQLite + LTX+ Tokio - programmed with exactly the Cloudflare Workers/DO JavaScript APIs and config - order of magnitude cheaper at scale - writes are durable before they're acknowledged, RPO=0 - only depends on an S3 compatible bucket - no other infrastructure - ~4 MB memory per cell instance overhead - hibernated cells cost ~nothing, just their S3 storage - open source, Apache 2 licensed — https://nitter.kareem.one/rough__sea/status/2085001943693549887#m",
-   "url": "https://nitter.kareem.one/swyx/status/2116273966629478744#m",
-   "ts": 1793394006,
-   "id": "2116273966629478744#m"
   },
   {
    "handle": "swyx",
