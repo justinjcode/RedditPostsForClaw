@@ -1,15 +1,78 @@
 {
- "generated_at": "2026-11-03T12:12:33Z",
+ "generated_at": "2026-11-03T14:09:39Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "BackVault v3.0 RC1",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xmtjti/backvault_v30_rc1/",
+   "ts": 1793714119,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Moving away from iCloud, step 1: Apple Passwords to Vaultwarden",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xmtjt3/moving_away_from_icloud_step_1_apple_passwords_to/",
+   "ts": 1793714118,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Notify-only Docker update checks: what threads here keep landing on",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xmtfmb/notifyonly_docker_update_checks_what_threads_here/",
+   "ts": 1793713837,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Sterling PDF Sync",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xmtanf/sterling_pdf_sync/",
+   "ts": 1793713485,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Feedback on my personal anti-censorship VPN setup",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xmt31w/feedback_on_my_personal_anticensorship_vpn_setup/",
+   "ts": 1793712921,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "[Project Update] Fail2Ban-Report v0.5.2 – Cumulative Security Release (XSS & Auth Bypass Fixes)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xmskej/project_update_fail2banreport_v052_cumulative/",
+   "ts": 1793711517,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "What Qwen is thinking when it gets stuck saying \"Wait\"",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xms9ii/what_qwen_is_thinking_when_it_gets_stuck_saying/",
+   "ts": 1793710685,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Is Qwen 3.8 27B still the king",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xms6eq/is_qwen_38_27b_still_the_king/",
+   "ts": 1793710437,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "RTX 5090 with 64GB and 96GB VRAM 'confirmed' by US GPU repair tech",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmqq2a/rtx_5090_with_64gb_and_96gb_vram_confirmed_by_us/",
+   "ts": 1793706016,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Secure remote control setup",
@@ -33,9 +96,9 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Offlog: a task manager where your PC is the sync server. No cloud, no account, end-to-end encrypted",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xmpgne/offlog_a_task_manager_where_your_pc_is_the_sync/",
-   "ts": 1793701644,
+   "title": "Any valid Canva alternative?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xmp21h/any_valid_canva_alternative/",
+   "ts": 1793700160,
    "source": "Reddit"
   },
   {
@@ -50,6 +113,20 @@
    "title": "Gefs: a filesystem for plan 9 built on Bε-trees",
    "url": "https://www.reddit.com/r/programming/comments/1xmoxah/gefs_a_filesystem_for_plan_9_built_on_bεtrees/",
    "ts": 1793699692,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Qwen3.8-Flash-Next (local) vs Claude",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmolk6/qwen38flashnext_local_vs_claude/",
+   "ts": 1793698438,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "[Paper] Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmo5xu/paper_sparks_of_weightspace_programming_llms_can/",
+   "ts": 1793696819,
    "source": "Reddit"
   },
   {
@@ -95,20 +172,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Standalone server for IoT projects without any third-party websites or any middlemen. Is it possible?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xmh1f0/standalone_server_for_iot_projects_without_any/",
-   "ts": 1793672941,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Rtx 8000 48gb prices have decreased over the last two years while 3090 doubled.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmgmd8/rtx_8000_48gb_prices_have_decreased_over_the_last/",
-   "ts": 1793671782,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "A Decade of Kill Bugs – Alan Grow",
    "url": "https://www.reddit.com/r/programming/comments/1xmgayd/a_decade_of_kill_bugs_alan_grow/",
@@ -127,13 +190,6 @@
    "title": "I found another niche use case for local LLMs, but need some advice",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmfbam/i_found_another_niche_use_case_for_local_llms_but/",
    "ts": 1793668091,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Issues with basic pocket id setup",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xmf30b/issues_with_basic_pocket_id_setup/",
-   "ts": 1793667475,
    "source": "Reddit"
   },
   {
@@ -172,13 +228,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Docker HCI Project",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xmaom2/docker_hci_project/",
-   "ts": 1793656266,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "GPT-6 Astra Edits Qwen Weights: MATH-500 7.9% to 48.1%",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xma0tw/gpt6_astra_edits_qwen_weights_math500_79_to_481/",
@@ -190,13 +239,6 @@
    "title": "Netbird vs. Pangolin in late 2026",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xm9zmg/netbird_vs_pangolin_in_late_2026/",
    "ts": 1793654667,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Looking for affordable and scalable hosting for our app",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xm9j0b/looking_for_affordable_and_scalable_hosting_for/",
-   "ts": 1793653602,
    "source": "Reddit"
   },
   {
@@ -228,13 +270,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm6jow/sparks_of_weightspace_programming_llms_can/",
-   "ts": 1793646933,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Couldn't reproduce a published paper's numbers with its own code and settings. How do I present this? [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xm64of/couldnt_reproduce_a_published_papers_numbers_with/",
@@ -249,31 +284,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Am I the only one who frequently opens this subreddit and stumbles upon announcements about Qwen4?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm506n/am_i_the_only_one_who_frequently_opens_this/",
-   "ts": 1793643664,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Did anyone get backrest's multihost sync feature working behind pangolin?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xm440z/did_anyone_get_backrests_multihost_sync_feature/",
-   "ts": 1793641802,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Operators Day : 10 founders hiring for founding ML roles - Nov 5 [n]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xm3im8/operators_day_10_founders_hiring_for_founding_ml/",
    "ts": 1793640496,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Yet another reason to self host: Anthropic has (again) cut back on reverse engineering tools",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm33gr/yet_another_reason_to_self_host_anthropic_has/",
-   "ts": 1793639627,
    "source": "Reddit"
   },
   {
@@ -295,13 +309,6 @@
    "title": "Small-scale check of \"good views beat next-token prediction\" (Balestriero & LeCun 2026): human captions only, 11M-param encoders [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xlzoze/smallscale_check_of_good_views_beat_nexttoken/",
    "ts": 1793632121,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "[Release] ISTA DeepSeek-V4.1-Flash-1017 GSQ-RCO Coder: a 763B model at 1 bit per parameter",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlys6k/release_ista_deepseekv41flash1017_gsqrco_coder_a/",
-   "ts": 1793630000,
    "source": "Reddit"
   },
   {
@@ -351,13 +358,6 @@
    "title": "The fastest double-to-string algorithm you’ve never heard of",
    "url": "https://www.reddit.com/r/programming/comments/1xlqfb6/the_fastest_doubletostring_algorithm_youve_never/",
    "ts": 1793602829,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Non-*arr self-hosted recommendations?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xlox3y/nonarr_selfhosted_recommendations/",
-   "ts": 1793597412,
    "source": "Reddit"
   },
   {
