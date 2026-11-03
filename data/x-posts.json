@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-03T02:34:35Z",
+ "generated_at": "2026-11-03T02:43:05Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,20 +11,9 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
- "count": 176,
+ "errors": [],
+ "count": 175,
  "items": [
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "FAR-LEFT VIOLENCE IN AUSTRALIA. One Nation volunteer hospitalised in Australia with bleeding of the brain and multiple facial fractures after being bashed with a baseball bat in a targeted political attack by left wing extremists. The two men who attacked him were migrants on visas - they assaulted him after he confronted them for ripping down One Nation signs on his property. The victim’s family have started a fundraiser to support him while he recovers in hospital and cannot work.",
-   "url": "https://nitter.kareem.one/DrewPavlou/status/2117432396727632178#m",
-   "ts": 1793670198,
-   "id": "2117432396727632178#m"
-  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -343,7 +333,7 @@
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
-   "text": "卧槽！不知该惊喜还是惊吓！监控里看到我家咪咪唱着小曲拖着猫窝晒太阳了！！ Video",
+   "text": "卧槽！不知该惊喜还是惊吓！监控里看到我家咪咪唱着小曲拖着猫窝晒太阳了！！ Video Community note: 视频中猫的叫声是流行 meme 音频，已被配用于多段不同猫视频，并非该监控原声。猫拖窝行为真实存在，但此呈现具误导性。 inv.kareem.one/shorts/DiblJ0e… newsweek.com/seen-it-all-ca…",
    "url": "https://nitter.kareem.one/PicCrow/status/2117290170949275949#m",
    "ts": 1793636288,
    "id": "2117290170949275949#m"
