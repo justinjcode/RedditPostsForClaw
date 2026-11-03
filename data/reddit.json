@@ -1,15 +1,50 @@
 {
- "generated_at": "2026-11-03T00:19:24Z",
+ "generated_at": "2026-11-03T02:12:22Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "A Decade of Kill Bugs – Alan Grow",
+   "url": "https://www.reddit.com/r/programming/comments/1xmgayd/a_decade_of_kill_bugs_alan_grow/",
+   "ts": 1793670897,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "For Macro Lovers: Could Tauto Have the World's Most Powerful Macro System?",
+   "url": "https://www.reddit.com/r/programming/comments/1xmffyy/for_macro_lovers_could_tauto_have_the_worlds_most/",
+   "ts": 1793668446,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "I found another niche use case for local LLMs, but need some advice",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmfbam/i_found_another_niche_use_case_for_local_llms_but/",
+   "ts": 1793668091,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Memory Management, Explained Simply (Part 3)",
+   "url": "https://www.reddit.com/r/programming/comments/1xmex43/memory_management_explained_simply_part_3/",
+   "ts": 1793667013,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Java Game Devlog - Enemy Object Management for my Java game.",
+   "url": "https://www.reddit.com/r/programming/comments/1xmdvnb/java_game_devlog_enemy_object_management_for_my/",
+   "ts": 1793664164,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Qwen 3.8 27b is sometimes so smart it scares me...",
@@ -57,13 +92,6 @@
    "title": "Looking for affordable and scalable hosting for our app",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xm9j0b/looking_for_affordable_and_scalable_hosting_for/",
    "ts": 1793653602,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Inconsistencies in Unsloth's LiveCodeBench Results",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm9i4x/inconsistencies_in_unsloths_livecodebench_results/",
-   "ts": 1793653547,
    "source": "Reddit"
   },
   {
@@ -319,13 +347,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Bad Apple!! Running on the NAND2TETRIS CPU simulator",
-   "url": "https://www.reddit.com/r/programming/comments/1xlll2u/bad_apple_running_on_the_nand2tetris_cpu_simulator/",
-   "ts": 1793586756,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Securely Accessing Your Self-Hosted Services with mTLS and Cloudflare Tunnels",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xlinb6/securely_accessing_your_selfhosted_services_with/",
@@ -389,31 +410,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Beating the compiler at signed 32-bit division",
-   "url": "https://www.reddit.com/r/programming/comments/1xka27q/beating_the_compiler_at_signed_32bit_division/",
-   "ts": 1793452828,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xjyo89/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
    "ts": 1793413821,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "How hard is it to check for whitespace?",
-   "url": "https://www.reddit.com/r/programming/comments/1xjtach/how_hard_is_it_to_check_for_whitespace/",
-   "ts": 1793399073,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "How curl was accidentally Turing-complete for nine months",
-   "url": "https://www.reddit.com/r/programming/comments/1xjiofl/how_curl_was_accidentally_turingcomplete_for_nine/",
-   "ts": 1793374655,
    "source": "Reddit"
   },
   {
