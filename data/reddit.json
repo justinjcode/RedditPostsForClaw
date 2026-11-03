@@ -1,20 +1,41 @@
 {
- "generated_at": "2026-11-03T14:09:39Z",
+ "generated_at": "2026-11-03T16:09:32Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
+  "MachineLearning",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
   {
+   "subreddit": "programming",
+   "title": "Designed Once, Usable Everywhere: why PHP 8.6 adds SortDirection and Time\\Duration to the standard library",
+   "url": "https://www.reddit.com/r/programming/comments/1xmwmej/designed_once_usable_everywhere_why_php_86_adds/",
+   "ts": 1793721207,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
-   "title": "BackVault v3.0 RC1",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xmtjti/backvault_v30_rc1/",
-   "ts": 1793714119,
+   "title": "Anyone here host Fluxer?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xmuw5w/anyone_here_host_fluxer/",
+   "ts": 1793717284,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Using public BitTorrent trackers as WebRTC signaling for a serverless browser game, plus Tribes-style packet notify netcode",
+   "url": "https://www.reddit.com/r/programming/comments/1xmuuwa/using_public_bittorrent_trackers_as_webrtc/",
+   "ts": 1793717200,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "pgquery: a Postgres GUI in a single container (SQL editor, ER diagram, RLS policies, EXPLAIN viewer). MIT, no account",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xmucck/pgquery_a_postgres_gui_in_a_single_container_sql/",
+   "ts": 1793716013,
    "source": "Reddit"
   },
   {
@@ -29,13 +50,6 @@
    "title": "Notify-only Docker update checks: what threads here keep landing on",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xmtfmb/notifyonly_docker_update_checks_what_threads_here/",
    "ts": 1793713837,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Sterling PDF Sync",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xmtanf/sterling_pdf_sync/",
-   "ts": 1793713485,
    "source": "Reddit"
   },
   {
@@ -116,6 +130,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "MachineLearning",
+   "title": "CPU parallelism lessons that carry over to GPU kernels: dependency chains, FP non-associativity, false sharing, memory-bound loops [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xmowry/cpu_parallelism_lessons_that_carry_over_to_gpu/",
+   "ts": 1793699638,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "LocalLLaMA",
    "title": "Qwen3.8-Flash-Next (local) vs Claude",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmolk6/qwen38flashnext_local_vs_claude/",
@@ -162,6 +183,13 @@
    "title": "Underrated benefit of Local AI: Speed",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmjipa/underrated_benefit_of_local_ai_speed/",
    "ts": 1793680283,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "I tested whether changing who an argument is attributed to changes how LLMs evaluate the exact same argument [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xmjex5/i_tested_whether_changing_who_an_argument_is/",
+   "ts": 1793679952,
    "source": "Reddit"
   },
   {
@@ -284,13 +312,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "Operators Day : 10 founders hiring for founding ML roles - Nov 5 [n]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xm3im8/operators_day_10_founders_hiring_for_founding_ml/",
-   "ts": 1793640496,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Official Statement: Qwen Models Will Stick to Open Source to the End!",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open/",
@@ -348,13 +369,6 @@
   },
   {
    "subreddit": "programming",
-   "title": "Designsystemet, Now in Elm · cekrem.github.io",
-   "url": "https://www.reddit.com/r/programming/comments/1xlsnmi/designsystemet_now_in_elm_cekremgithubio/",
-   "ts": 1793611506,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
    "title": "The fastest double-to-string algorithm you’ve never heard of",
    "url": "https://www.reddit.com/r/programming/comments/1xlqfb6/the_fastest_doubletostring_algorithm_youve_never/",
    "ts": 1793602829,
@@ -379,20 +393,6 @@
    "title": "Jepsen on ParticleDB: \"We tested versions 1.1.4 through 1.1.18.11.rc-22 and found that ParticleDB’s claims of “Full ACID” were somewhat premature\"",
    "url": "https://www.reddit.com/r/programming/comments/1xl8d57/jepsen_on_particledb_we_tested_versions_114/",
    "ts": 1793552787,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Why do all NN optimizers have weird names? [d]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xl7yv0/why_do_all_nn_optimizers_have_weird_names_d/",
-   "ts": 1793551878,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "What do you get when you put every character that exists on a single page?",
-   "url": "https://www.reddit.com/r/programming/comments/1xl7yhp/what_do_you_get_when_you_put_every_character_that/",
-   "ts": 1793551856,
    "source": "Reddit"
   },
   {
