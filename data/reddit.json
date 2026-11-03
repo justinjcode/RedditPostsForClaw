@@ -1,15 +1,29 @@
 {
- "generated_at": "2026-11-03T06:14:40Z",
+ "generated_at": "2026-11-03T08:11:32Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
+  "MachineLearning",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Self-hosting email/cloud/ad-blocking focused on privacy",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xmmj77/selfhosting_emailcloudadblocking_focused_on/",
+   "ts": 1793690531,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "We turned 10 years of ML papers into one page per topic: benchmark records, what got tried, what reviewers expect [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xmk8rx/we_turned_10_years_of_ml_papers_into_one_page_per/",
+   "ts": 1793682558,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Underrated benefit of Local AI: Speed",
@@ -43,13 +57,6 @@
    "title": "A Decade of Kill Bugs – Alan Grow",
    "url": "https://www.reddit.com/r/programming/comments/1xmgayd/a_decade_of_kill_bugs_alan_grow/",
    "ts": 1793670897,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "ICLR 2027 reviews discussion [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xmfm3n/iclr_2027_reviews_discussion_d/",
-   "ts": 1793668928,
    "source": "Reddit"
   },
   {
@@ -288,13 +295,6 @@
    "title": "CheerpJ 5.0: Java 21/25 in the browser, full OpenJDK, and a new WasmGC engine",
    "url": "https://www.reddit.com/r/programming/comments/1xlutld/cheerpj_50_java_2125_in_the_browser_full_openjdk/",
    "ts": 1793619286,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Do I need to buy a server or use something I already have ?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xltg3e/do_i_need_to_buy_a_server_or_use_something_i/",
-   "ts": 1793614484,
    "source": "Reddit"
   },
   {
