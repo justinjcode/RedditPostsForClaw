@@ -1,20 +1,56 @@
 {
- "generated_at": "2026-11-03T22:23:32Z",
+ "generated_at": "2026-11-03T22:34:27Z",
  "accounts_ok": [
+  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@simonw: all instances failed",
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "睡了四个小时就被打断了 烦死",
+   "url": "https://nitter.kareem.one/ZichenWanghere/status/2117744823298048080#m",
+   "ts": 1793744686,
+   "id": "2117744823298048080#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "is it how it is taught in journalism school or written in AP stylebook now Zichen Wang (@ZichenWanghere) \"defensive strikes\" \"limited strikes\" — https://nitter.kareem.one/ZichenWanghere/status/2117461253262369188#m",
+   "url": "https://nitter.kareem.one/ZichenWanghere/status/2117742487356018738#m",
+   "ts": 1793744129,
+   "id": "2117742487356018738#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "死了就没那么多事儿了",
+   "url": "https://nitter.kareem.one/ZichenWanghere/status/2117742166768525422#m",
+   "ts": 1793744052,
+   "id": "2117742166768525422#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "烟抽多了咳得就跟要死了一样",
+   "url": "https://nitter.kareem.one/ZichenWanghere/status/2117741980860235930#m",
+   "ts": 1793744008,
+   "id": "2117741980860235930#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -127,7 +163,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "As part of the most insane AIE lineup to end 2026, we're also excited to announce our final track theme: *Raising your Ambition* featuring @jxnlco , @trq212 , @jarredsumner , @sqs , @mitsuhiko , @dexhorthy , @BuiltByJustin (StrongDM Dark Factory) and a special keynote from @echelon in his first big appearance since cloning the entire Adobe suite last month... and talking about how and what's next! gathering 1000 of the top agentic engineers in person in SF and livestreamed to 2M MAU online on youtube. join here: aie.codes <- see you in SF! AI.Engineer 🔜 Shanghai (@aiDotEngineer) We're excited to announce our AI Engineer Code Summit speaker lineup! → ai.engineer/code VP Gemini Post-Training Lead, @GoogleDeepMind CEO, @e2b CTO, @ExaAILabs CEO, @warpdotdev CEO, @aviator_co_ CEO, @fivetran CTO, @Lovable CTO, @iamovercut CTO, @earendilworks (Pi) CEO, @diffusionio CPO, @cognition CTO, @GoodfireAI MTS, @AnthropicAI CTO, @composio GPM, @Cloudflare MTS, @databricks CEO, @AmpCode Co-Founder, @gimletlabs CEO, @mixedbreadai CEO, @humanlayer_dev Head of AI, @MonacoGTM Lecturer, @UCBerkeley Principal Engineer, @spacexai CEO, @TypeSafeAI (Jev) Founder, Bun at Anthropic VP Product, @reflection_ai Research Lead, Reflection AI Staff Software Engineer, @SonarSource Principal Software Engineer, @tryramp Senior Engineering Manager, @netflix Forward Deployed Engineer, @baseten Also joining us: @kevinhou22 — Google DeepMind Antigravity @Steve_Yegge — Creator of Beads & Gas Town @lucasmeijer — Agent",
+   "text": "As part of the most insane AIE lineup to end 2026, we're also excited to announce our final track theme: *Raising your Ambition* featuring @jxnlco , @trq212 , @jarredsumner , @sqs , @mitsuhiko , @dexhorthy , @BuiltByJustin (StrongDM Dark Factory) and a special keynote from @echelon in his first big appearance since cloning the entire Adobe suite last month... and talking about how and what's next! gathering 1000 of the top agentic engineers in person in SF and livestreamed to 2M MAU online on youtube. join here: aie.codes <- see you in SF! AI.Engineer 🔜 Shanghai & SF CODE (@aiDotEngineer) We're excited to announce our AI Engineer Code Summit speaker lineup! → ai.engineer/code VP Gemini Post-Training Lead, @GoogleDeepMind CEO, @e2b CTO, @ExaAILabs CEO, @warpdotdev CEO, @aviator_co_ CEO, @fivetran CTO, @Lovable CTO, @iamovercut CTO, @earendilworks (Pi) CEO, @diffusionio CPO, @cognition CTO, @GoodfireAI MTS, @AnthropicAI CTO, @composio GPM, @Cloudflare MTS, @databricks CEO, @AmpCode Co-Founder, @gimletlabs CEO, @mixedbreadai CEO, @humanlayer_dev Head of AI, @MonacoGTM Lecturer, @UCBerkeley Principal Engineer, @spacexai CEO, @TypeSafeAI (Jev) Founder, Bun at Anthropic VP Product, @reflection_ai Research Lead, Reflection AI Staff Software Engineer, @SonarSource Principal Software Engineer, @tryramp Senior Engineering Manager, @netflix Forward Deployed Engineer, @baseten Also joining us: @kevinhou22 — Google DeepMind Antigravity @Steve_Yegge — Creator of Beads & Gas Town @lucasmeij",
    "url": "https://nitter.kareem.one/swyx/status/2117679157035602065#m",
    "ts": 1793729030,
    "id": "2117679157035602065#m"
@@ -952,33 +988,6 @@
    "id": "2116642586387730593#m"
   },
   {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "活生生被它骂了二十几遍 Video",
-   "url": "https://nitter.kareem.one/xiaojietongxue/status/2116611491407569209#m",
-   "ts": 1793474478,
-   "id": "2116611491407569209#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Who’s Afraid of “ByteDance Time”? An acrimonious squabble over ByteDance’s success reveals deeper tensions in China’s attention economy. pekingnology.com/p/whos-afra… Link Who’s Afraid of “ByteDance Time”? An acrimonious squabble over ByteDance’s success reveals deeper tensions in China’s attention economy. pekingnology.com",
-   "url": "https://nitter.kareem.one/ZichenWanghere/status/2116606755908223457#m",
-   "ts": 1793473349,
-   "id": "2116606755908223457#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "In many respects, when I look at the world these days, I divide it between 'China' and 'Everywhere else'. The exception is anything having to do with social media and phones, which seem to have the same effects on society anywhere in the world.",
-   "url": "https://nitter.kareem.one/TheStalwart/status/2116551796340490366#m",
-   "ts": 1793460246,
-   "id": "2116551796340490366#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -1013,15 +1022,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2116405414921384099#m",
    "ts": 1793425346,
    "id": "2116405414921384099#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "We should celebrate the fact that AI will soon free mankind from the drudgery of being models, who endure constant dieting, weight management, enforced exercise, many resort of cocaine to keep weight off, and are often exploited by the industry at a young age. GLIF (@heyglif) Today we’re launching the first AI modeling agency 💅 right inside Glif. Cast hundreds of real AI models, drop your product, idea or brief and let Glif create super compelling content for you end to end. If you still think AI models aren’t ready for real work, watch this 👇 Video — https://nitter.kareem.one/heyglif/status/2116198551814623370#m",
-   "url": "https://nitter.kareem.one/yishan/status/2116262199698358457#m",
-   "ts": 1793391201,
-   "id": "2116262199698358457#m"
   },
   {
    "handle": "bcherny",
