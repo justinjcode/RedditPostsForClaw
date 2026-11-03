@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-03T06:38:34Z",
+ "generated_at": "2026-11-03T06:45:48Z",
  "accounts_ok": [
   "Lingling_Wei",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
+  "@simonw: all instances failed",
+  "@bcherny: all instances failed",
   "@TheRundownAI: all instances failed"
  ],
  "count": 176,
@@ -208,7 +208,7 @@
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
    "author": "@realDonaldTrump",
-   "text": "Video Community note: The president has previously promised on multiple occasions similar checks of $2000-$5000 from tariff revenues and DOGE cuts, however none ever materialized. axios.com/2025/11/17/200… abcnews.com/Politics/trump… nbcnews.com/politics/doge/… 13newsnow.com/article/news/n… nytimes.com/2026/09/10/us/… In fact, when asked about these checks at later dates he pretended he never promised them. masslive.com/politics/2026/…",
+   "text": "Video",
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2117358007793377387#m",
    "ts": 1793652462,
    "id": "2117358007793377387#m"
