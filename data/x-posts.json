@@ -1,9 +1,6 @@
 {
- "generated_at": "2026-11-03T09:25:55Z",
+ "generated_at": "2026-11-03T09:35:07Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,18 +8,13 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 175,
  "items": [
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "with weight-space programming, we are now at paragraph 2 of exhalation Latent.Space: AI News & Views (@latentspacepod) Qwen3.5-0.8B often spent 32K tokens on a math problem without reaching an answer. In an MIT study, GPT-6 Astra traced the loops to two layers and edited 0.016% of Qwen’s weights. With sampling held fixed, its MATH-500 score rose from 7.9% to 48.1%. latent.space/p/ainews-llms-c… Link LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of... Editing Qwen’s weights to reduce reasoning loops, DeepSeek’s super-agent prototype, and the GDPx benchmark. latent.space — https://nitter.kareem.one/latentspacepod/status/2117492027587985695#m",
-   "url": "https://nitter.kareem.one/swyx/status/2117492548780589510#m",
-   "ts": 1793684539,
-   "id": "2117492548780589510#m"
-  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -814,6 +806,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2116305528330785190#m",
    "ts": 1793401531,
    "id": "2116305528330785190#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "our team has been heads down building for years and I'm just so grateful for the response to Phonic-1's launch yesterday I love my team. they built a model that's.. #1 on AA's speech-to-speech index #1 on AA's 𝜏-Voice (agentic performance) #1 on Sierra's τ³-Voice #1 on Cekura's s2s benchmark #1 on Veris's VAmoS Pro Bench #2 on Bluejay's MIVAS s2s benchmark we literally just dropped seven figures on a new compute cluster to support the load we can't wait to continue pushing the frontier for our customers!! try it out and let me know what you think",
+   "url": "https://nitter.kareem.one/moinnadeem/status/2116270909397123499#m",
+   "ts": 1793393277,
+   "id": "2116270909397123499#m"
   },
   {
    "handle": "ZichenWanghere",
