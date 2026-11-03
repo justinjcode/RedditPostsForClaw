@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-03T17:53:35Z",
+ "generated_at": "2026-11-03T18:07:44Z",
  "accounts_ok": [
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,10 +10,20 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "As part of the most insane AIE lineup to end 2026, we're also excited to announce our final track theme: *Raising your Ambition* featuring @jxnlco , @trq212 , @jarredsumner , @sqs , @mitsuhiko , @dexhorthy , @BuiltByJustin (StrongDM Dark Factory) and a special keynote from @echelon in his first big appearance since cloning the entire Adobe suite last month... and talking about how and what's next! gathering 1000 of the top agentic engineers in person in SF and livestreamed to 2M MAU online on youtube. join here: aie.codes <- see you in SF! AI.Engineer 🔜 Shanghai (@aiDotEngineer) We're excited to announce our AI Engineer Code Summit speaker lineup! → ai.engineer/code VP Gemini Post-Training Lead, @GoogleDeepMind CEO, @e2b CTO, @ExaAILabs CEO, @warpdotdev CEO, @aviator_co_ CEO, @fivetran CTO, @Lovable CTO, @iamovercut CTO, @earendilworks (Pi) CEO, @diffusionio CPO, @cognition CTO, @GoodfireAI MTS, @AnthropicAI CTO, @composio GPM, @Cloudflare MTS, @databricks CEO, @AmpCode Co-Founder, @gimletlabs CEO, @mixedbreadai CEO, @humanlayer_dev Head of AI, @MonacoGTM Lecturer, @UCBerkeley Principal Engineer, @spacexai CEO, @TypeSafeAI (Jev) Founder, Bun at Anthropic VP Product, @reflection_ai Research Lead, Reflection AI Staff Software Engineer, @SonarSource Principal Software Engineer, @tryramp Senior Engineering Manager, @netflix Forward Deployed Engineer, @baseten Also joining us: @kevinhou22 — Google DeepMind Antigravity @Steve_Yegge — Creator of Beads & Gas Town @lucasmeijer — Agent",
+   "url": "https://nitter.kareem.one/swyx/status/2117679157035602065#m",
+   "ts": 1793729030,
+   "id": "2117679157035602065#m"
+  },
   {
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
@@ -1085,15 +1094,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2115847958562258968#m",
    "ts": 1793292438,
    "id": "2115847958562258968#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Introducing Phonic-1, the most advanced speech-to-speech model for agentic tasks — from @phonic_co , the speech-to-speech model company. We’ve had a breakout year and raised a $27.5M Series A led by @firstround with participation from @Lux_Capital , @felicis , and Definition.",
-   "url": "https://nitter.kareem.one/moinnadeem/status/2115830871014183088#m",
-   "ts": 1793288364,
-   "id": "2115830871014183088#m"
   },
   {
    "handle": "simonw",
