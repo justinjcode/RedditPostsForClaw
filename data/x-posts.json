@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-03T22:34:27Z",
+ "generated_at": "2026-11-03T22:43:29Z",
  "accounts_ok": [
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "swyx",
+  "simonw",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
+  "@swyx: all instances failed",
   "@Lingling_Wei: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Things will change again and again and again. We’re still very early and agents today are incredible, and yet so frustrating still. Can’t wait to crack things to get that flow state back. Long journey ahead.",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2117746467058405665#m",
+   "ts": 1793745078,
+   "id": "2117746467058405665#m"
+  },
   {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
@@ -1256,15 +1265,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2115297093879472332#m",
    "ts": 1793161102,
    "id": "2115297093879472332#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Lands by midnight PST.",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2115273253711409208#m",
-   "ts": 1793155418,
-   "id": "2115273253711409208#m"
   },
   {
    "handle": "simonw",
