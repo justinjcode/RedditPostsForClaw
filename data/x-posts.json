@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-03T13:07:05Z",
+ "generated_at": "2026-11-03T13:17:35Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 176,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starlink's mobile app has grown massively worldwide over the past three years Between September 2023 and September 2026: • Monthly downloads: up 316% • Monthly active users: up 332% That's global usage across iPhone and Android Starlink now has roughly over 13 million users worldwide, and app activity keeps climbing as the network expands across homes, aviation, maritime, mobility and Direct to Cell Starlink isn't just growing its network Its global user base is scaling right alongside it Every new user is another family, ship, plane, or village now connected, bringing the world closer together Similarweb (@Similarweb) Between September 2023 and September 2026, Starlink's mobile app saw significant growth: 📈 Monthly downloads: +316% 📈 Monthly active users: +332% Get a complete picture of the app economy with Similarweb App Intelligence: similarweb.com/corp/apps/?ut… — https://nitter.kareem.one/Similarweb/status/2117593478872076644#m",
+   "url": "https://nitter.kareem.one/XFreeze/status/2117603942649434370#m",
+   "ts": 1793711097,
+   "id": "2117603942649434370#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -135,10 +145,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Wow Rothmus 🏴 (@Rothmus) 31% of the EU budget is farm subsidies. Defense gets 1.2%. Borders get 2%. Farm handouts get 25x what defense gets and 15x what borders get. Europe faces a land war on its eastern flank and years of uncontrolled migration. The response is a giant welfare machine, while actual security is ignored. They’re not preparing for the next decade. — https://nitter.kareem.one/Rothmus/status/2117376313879306471#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2117450915875852697#m",
-   "ts": 1793674613,
-   "id": "2117450915875852697#m"
+   "text": "Tomorrow, stand up for Texas—our families, freedoms, and future. Don’t sit on the sidelines: VOTE! Call family, text friends, and check on neighbors. Every vote matters. Don’t wake up Wednesday wishing you’d done more. Texas is worth fighting for! 🇺🇸 Video",
+   "url": "https://nitter.kareem.one/KenPaxtonTX/status/2117443858619605464#m",
+   "ts": 1793672930,
+   "id": "2117443858619605464#m"
   },
   {
    "handle": "elonmusk",
@@ -240,19 +250,10 @@
    "id": "2117383678112207341#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I had my Grok Bot shop around new Auto Insurance. It couldn’t find info about Progressives Glass coverage and as all Tesla owners know Windshield replacements can be pricey. I had Grok Bot call Progressive and get additional information for me all while I picked my kids up from school without me ever having to talk to a person. Here is the transcript and actual recording from the call. Personal info was bleeped and some parts cut for time. While there’s some improvements that can be made it got the job done. My mind is thoroughly blown! Video Dylan (@dkmitc) Using Grok Bot to make calls to Progressive for additional info before I buy new insurance. — https://nitter.kareem.one/dkmitc/status/2117359236963336514#m",
-   "url": "https://nitter.kareem.one/dkmitc/status/2117375502285721792#m",
-   "ts": 1793656633,
-   "id": "2117375502285721792#m"
-  },
-  {
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
    "author": "@realDonaldTrump",
-   "text": "Video Community note: The president has previously promised on multiple occasions similar checks of $2000-$5000 from tariff revenues and DOGE cuts, however none ever materialized. axios.com/2025/11/17/200… abcnews.com/Politics/trump… nbcnews.com/politics/doge/… 13newsnow.com/article/news/n… nytimes.com/2026/09/10/us/… In fact, when asked about these checks at later dates he pretended he never promised them. masslive.com/politics/2026/…",
+   "text": "Video",
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2117358007793377387#m",
    "ts": 1793652462,
    "id": "2117358007793377387#m"
