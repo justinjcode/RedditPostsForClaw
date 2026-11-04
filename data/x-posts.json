@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-04T14:53:30Z",
+ "generated_at": "2026-11-04T15:06:51Z",
  "accounts_ok": [
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,10 +10,38 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "At last there will be one network with good signal everywhere! Starlink (@Starlink) Starlink Mobile is building the first fully-integrated US nationwide satellite and terrestrial network that will keep people connected on their phones no matter where they are. Our 5G base stations will leverage @Qualcomm chips to accelerate deployment, starting in 2027 🛰️📱 — https://nitter.kareem.one/Starlink/status/2117973275414532165#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2117996293188718856#m",
+   "ts": 1793804641,
+   "id": "2117996293188718856#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Free new dish for all early Starlink customers Sawyer Merritt (@SawyerMerritt) Starlink is formally rolling out free dish upgrades for its earliest customers. “Eligible customers who were among the first to connect with Starlink, and who are still using a first-generation kit can receive a new Standard kit at no cost. Customers will be provided with a free mount, and they can opt in for free installation. If you are eligible for this upgrade, you will receive an invitation by email.” More info: starlink.com/support/article… — https://nitter.kareem.one/SawyerMerritt/status/2117745806996340890#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2117995905525907769#m",
+   "ts": 1793804548,
+   "id": "2117995905525907769#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok @Bot will research purchase ideas, bring back a selection, order them, track the purchases and return anything you don’t want Andrew Milich (@milichab) Buying things with @bot just got better — https://nitter.kareem.one/milichab/status/2117736578395295970#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2117995339320070525#m",
+   "ts": 1793804414,
+   "id": "2117995339320070525#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -34,6 +61,15 @@
    "id": "2117989292144525474#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Excited to build Starlink Mobile with @Qualcomm ! Starlink (@Starlink) Starlink Mobile is building the first fully-integrated US nationwide satellite and terrestrial network that will keep people connected on their phones no matter where they are. Our 5G base stations will leverage @Qualcomm chips to accelerate deployment, starting in 2027 🛰️📱 — https://nitter.kareem.one/Starlink/status/2117973275414532165#m",
+   "url": "https://nitter.kareem.one/michaelnicollsx/status/2117986093178265833#m",
+   "ts": 1793802209,
+   "id": "2117986093178265833#m"
+  },
+  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -41,6 +77,24 @@
    "url": "https://nitter.kareem.one/AaronBack/status/2117975680038408418#m",
    "ts": 1793799726,
    "id": "2117975680038408418#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "BREAKING: Norway’s government secures @Starlink access for its military, police and security agencies under a satellite communications deal worth up to NOK 450 million. 🇳🇴 The agreement covers: • Norwegian Armed Forces • Police • Police Security Service (PST) • National Security Authority (NSM) Norway’s military already has 180 active Starlink subscriptions for email, internet access and personnel welfare. Awarded to Marlink, a Norway-based satellite communications provider, the agreement includes several satellite networks and specifically requires access to Starlink.",
+   "url": "https://nitter.kareem.one/cb_doge/status/2117968783784673696#m",
+   "ts": 1793798082,
+   "id": "2117968783784673696#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "This is 100% real 😂 SpaceXSI is running an ad on a different platform about how to use Grok Bot to buy a local home services business featuring... Never mind… just watch it yourself. My head is spinning. Video",
+   "url": "https://nitter.kareem.one/SMB_Attorney/status/2117967638911435077#m",
+   "ts": 1793797809,
+   "id": "2117967638911435077#m"
   },
   {
    "handle": "TheRundownAI",
@@ -169,6 +223,15 @@
    "id": "2117752005037064529#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Team and I absolutely ripped on this. Designed and built it in 1 week, shipped it in 2. And the crazy part is it's actually good. Grok Bot (@bot) Try the new shopping experience in Grok Bot. Find the best deal, compare items, and have Bot track all your orders. Video — https://nitter.kareem.one/bot/status/2117736249444507834#m",
+   "url": "https://nitter.kareem.one/emersonsays/status/2117751600815178160#m",
+   "ts": 1793746302,
+   "id": "2117751600815178160#m"
+  },
+  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -241,15 +304,6 @@
    "id": "2117723912867811714#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Try asking Grok @Bot to make calls! Sawyer Merritt (@SawyerMerritt) Grok @Bot 's new calling feature is very impressive. You just tell it who to call and why, and it handles the conversation for you. It shows a real-time transcript of the call, and if Grok needs additional info from you, a little answer box pops up where you type/select your response, and Grok relays it to the person on the phone. Pretty incredible. Here's an example (with the call audio) of what's it's like to use: Video — https://nitter.kareem.one/SawyerMerritt/status/2117697749009207386#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2117722703738310713#m",
-   "ts": 1793739412,
-   "id": "2117722703738310713#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -257,15 +311,6 @@
    "url": "https://nitter.kareem.one/latentspacepod/status/2117721636195663898#m",
    "ts": 1793739158,
    "id": "2117721636195663898#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon Is Doing It Again: SpaceX Will Be The World’s Biggest AI Cloud Making 13GW in 1.5 Years A Reality newsletter.semianalysis.com/… Link Elon Is Doing It Again: SpaceX Will Be The World’s Biggest AI Cloud Making 13GW in 1.5 Years A Reality, Repurposing Rocket Ship Campuses, A Datacenter at TeraFab? newsletter.semianalysis.com",
-   "url": "https://nitter.kareem.one/SemiAnalysis_/status/2117720668145852429#m",
-   "ts": 1793738927,
-   "id": "2117720668145852429#m"
   },
   {
    "handle": "swyx",
@@ -331,15 +376,6 @@
    "id": "2117683721834775038#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "It is my Great Honor to endorse the Highly Respected Attorney General of Texas, Ken Paxton, an America First Patriot, and someone who has always been extremely loyal to me and our AMAZING MAGA MOVEMENT, who is running for the United States Senate, to represent a place I love and WON, BIG, three times, with 6.4 Million Votes in 2024 (The Most Votes in the History of the State, BY FAR)! I know Ken well, have seen him tested at the highest and most difficult levels, and he is a WINNER! Ken is a true MAGA Warrior who has ALWAYS delivered for Texas, and will continue to do so in the United States Senate. His opponent, James TalaFREAKO, is a Radical Left Dumocrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women's Sports, and Transgender Mutilization of your Children. James TalaFREAKO is Reckless, Radical, and Dangerous! On the other hand, as your next Senator, Ken will tirelessly fight to continue the Great Growth of our Economy, Cut Taxes and Regulations, Advance MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Champion Texas Oil & Gas, Advocate for our Amazing Farmers and Ranchers, Promote School Choice, Keep our Border SECURE, Stop Migrant Crime, Support our Incredible Military/Veterans, Safeguard our Elections, and Protect our always under siege Second Amendment. Ken Paxton has my Complete a",
-   "url": "https://nitter.kareem.one/realDonaldTrump/status/2117679967496454617#m",
-   "ts": 1793729223,
-   "id": "2117679967496454617#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -347,15 +383,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2117679157035602065#m",
    "ts": 1793729030,
    "id": "2117679157035602065#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Remember this image when you vote today. 🇺🇸",
-   "url": "https://nitter.kareem.one/SwipeWright/status/2117672336199491954#m",
-   "ts": 1793727404,
-   "id": "2117672336199491954#m"
   },
   {
    "handle": "elonmusk",
@@ -383,15 +410,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2117658214481228117#m",
    "ts": 1793724037,
    "id": "2117658214481228117#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Great news! Kalshit just failed miserably at Guam:",
-   "url": "https://nitter.kareem.one/diydatascience/status/2117656879874883639#m",
-   "ts": 1793723718,
-   "id": "2117656879874883639#m"
   },
   {
    "handle": "simonw",
@@ -437,15 +455,6 @@
    "url": "https://nitter.kareem.one/eryang666/status/2117624589350035686#m",
    "ts": 1793716020,
    "id": "2117624589350035686#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Greg Abbott’s odds rise with reports of high election day turnout in Texas Texas Governor Race Per Kalshi 🔴 Greg Abbott: 66% (+6) 🔵 Gina Hinojosa: 34% (-6) (+/- vs poll opening)",
-   "url": "https://nitter.kareem.one/OpenSourceZone/status/2117618217502085518#m",
-   "ts": 1793714501,
-   "id": "2117618217502085518#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -887,15 +896,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2117278192171942275#m",
    "ts": 1793633432,
    "id": "2117278192171942275#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Over the past months, a single Wikipedia editor has been quietly shaping @AbdulElSayed 's entry. The editing has been intensive and highly directed. For example: + Hasan Piker controversy got cut down. + Syed's antisemitism problem – deleted. + Harris and Obama endorsements went in. + A line saying AIPAC’s brand is “toxic” included. Is it an op? Well, two weeks ago the same editor had this to say in an edit summary on the El-Sayed page: “another half month of this shit.” 🧵",
-   "url": "https://nitter.kareem.one/AshleyRindsberg/status/2117272304514175370#m",
-   "ts": 1793632029,
-   "id": "2117272304514175370#m"
   },
   {
    "handle": "Lingling_Wei",
