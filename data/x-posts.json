@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-04T08:34:18Z",
+ "generated_at": "2026-11-04T08:43:49Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@simonw: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Interesting America First Graphs (@AF_Graphs) Exit polls are showing the GOPs perceived strict immigration enforcement was one of their few winning issues. The Iran war was a massive losing issue. — https://nitter.kareem.one/AF_Graphs/status/2117815414709497895#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2117896640929603800#m",
+   "ts": 1793780882,
+   "id": "2117896640929603800#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -374,15 +383,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2117640776205181181#m",
    "ts": 1793719879,
    "id": "2117640776205181181#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Democrat Nominee for U.S. Senate Abdul El-Sayed calls for amnesty for illegal aliens: “We need a pathway to citizenship for folks stuck in limbo right now. This tough guy attitude to immigration is not keeping us safe.” 10 million illegal aliens entered the U.S. in just four years under Biden alone. Vote Republican. Video",
-   "url": "https://nitter.kareem.one/america/status/2117640446830948453#m",
-   "ts": 1793719801,
-   "id": "2117640446830948453#m"
   },
   {
    "handle": "ZichenWanghere",
