@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-04T16:54:08Z",
+ "generated_at": "2026-11-04T17:05:45Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Computers have RAM, right? Welcome Pierre. Let’s reinvent everything Pierre (@pierrecomputer) an announcement from the pierre computer company Video — https://nitter.kareem.one/pierrecomputer/status/2117999036175188183#m",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2118024169762029594#m",
+   "ts": 1793811287,
+   "id": "2118024169762029594#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -1301,15 +1309,6 @@
    "url": "https://nitter.kareem.one/JChengWSJ/status/2115353122067329302#m",
    "ts": 1793174460,
    "id": "2115353122067329302#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "And it's done. See you tomorrow for some good news. Tibo (@thsottiaux) Lands by midnight PST. — https://nitter.kareem.one/thsottiaux/status/2115273253711409208#m",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2115330127886463244#m",
-   "ts": 1793168978,
-   "id": "2115330127886463244#m"
   },
   {
    "handle": "simonw",
