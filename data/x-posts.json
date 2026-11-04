@@ -1,20 +1,28 @@
 {
- "generated_at": "2026-11-04T15:34:39Z",
+ "generated_at": "2026-11-04T15:43:44Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "The US checks and balances finally came through. As Churchill said, democracy isn't perfect but it's better than the alternatives.",
+   "url": "https://nitter.kareem.one/JohnCassidy/status/2118000642497388621#m",
+   "ts": 1793805678,
+   "id": "2118000642497388621#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -194,6 +202,15 @@
    "url": "https://nitter.kareem.one/EndWokeness/status/2117847205771944381#m",
    "ts": 1793769096,
    "id": "2117847205771944381#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "#中国洞察 本报首席中国记者魏玲灵写道，中国希望吸引外国资本。但一项新研究显示，中国公司并不一定愿意向外国投资者提供与国内股东相同的信息，有意使外国投资者处于信息劣势。 cn.wsj.com/articles/%E4%B8%A… Link 中国股市的隐性风险：外国投资者面临信息不对称 中国希望吸引外国资本。但一项新研究显示，中国公司并不一定愿意向外国投资者提供与国内股东相同的信息，有意使外国投资者处于信息劣势。 cn.wsj.com",
+   "url": "https://nitter.kareem.one/ChineseWSJ/status/2117825431130779956#m",
+   "ts": 1793763904,
+   "id": "2117825431130779956#m"
   },
   {
    "handle": "elonmusk",
@@ -1429,15 +1446,6 @@
    "id": "2113329634448421148#m"
   },
   {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "After nine wonderful years at CNN, I’ve decided to leave for an opportunity that I couldn’t pass up. I’m grateful for the experiences, friendships and support from fabulous colleagues during my CNN years. Exciting news to share very soon!",
-   "url": "https://nitter.kareem.one/biannagolodryga/status/2113254988621218057#m",
-   "ts": 1792674226,
-   "id": "2113254988621218057#m"
-  },
-  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -1463,15 +1471,6 @@
    "url": "https://nitter.kareem.one/claudeai/status/2112984664256241837#m",
    "ts": 1792609775,
    "id": "2112984664256241837#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "My WSJ China newsletter column made it into the print edition of today’s @WSJ — a first! After a couple of years of writing this column, seeing it in print feels like a special moment. Grateful to subscribers who’ve followed along and to the editors who made it happen. 🗞️ Lingling Wei 魏玲灵 (@Lingling_Wei) Xi’s widening purge is targeting officials with ties to rival political networks as China prepares for its 2027 leadership reshuffle. An interview with @guoguang_wu Read more in this edition of the WSJ China newsletter. wsj.com/world/china/chinas-u… via @WSJ Link China’s Ultimate Political Survivor Just Fell. What That Says About Xi’s Rule. Plus, export-driven growth rebounds, masking deepening economic problems that are creating a lost generation. wsj.com — https://nitter.kareem.one/Lingling_Wei/status/2112512637825421611#m",
-   "url": "https://nitter.kareem.one/Lingling_Wei/status/2112968586079744448#m",
-   "ts": 1792605942,
-   "id": "2112968586079744448#m"
   },
   {
    "handle": "simonw",
