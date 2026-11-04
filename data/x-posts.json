@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-04T09:52:51Z",
+ "generated_at": "2026-11-04T10:07:38Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
   {
@@ -199,7 +198,7 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Elon Is Doing It Again: SpaceX Will Be The World’s Biggest AI Cloud Making 13GW in 1.5 Years A Reality newsletter.semianalysis.com/… Link Elon Is Doing It Again: SpaceX Will Be The World’s Biggest AI Cloud Making 13GW in 1.5 Years A Reality newsletter.semianalysis.com",
+   "text": "Elon Is Doing It Again: SpaceX Will Be The World’s Biggest AI Cloud Making 13GW in 1.5 Years A Reality newsletter.semianalysis.com/… Link Elon Is Doing It Again: SpaceX Will Be The World’s Biggest AI Cloud Making 13GW in 1.5 Years A Reality, Repurposing Rocket Ship Campuses, A Datacenter at TeraFab? newsletter.semianalysis.com",
    "url": "https://nitter.kareem.one/SemiAnalysis_/status/2117720668145852429#m",
    "ts": 1793738927,
    "id": "2117720668145852429#m"
