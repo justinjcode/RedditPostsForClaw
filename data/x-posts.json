@@ -1,18 +1,17 @@
 {
- "generated_at": "2026-11-04T07:43:46Z",
+ "generated_at": "2026-11-04T07:54:19Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
   {
@@ -32,6 +31,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2117862462976594112#m",
    "ts": 1793772733,
    "id": "2117862462976594112#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Texas results by group (NBC exit poll): 🔴 White men: +23 Republican 🔴 White women: +13 Republican 🔵 Latino men: +19 Democrat 🔵 Latino women: +42 Democrat 🔵 Black men: +77 Democrat 🔵 Black women: +84 Democrat 🔵 All others: +10 Democrat Like it or not, demographics are destiny",
+   "url": "https://nitter.kareem.one/EndWokeness/status/2117847205771944381#m",
+   "ts": 1793769096,
+   "id": "2117847205771944381#m"
   },
   {
    "handle": "elonmusk",
@@ -329,15 +337,6 @@
    "url": "https://nitter.kareem.one/AlexToughTakes/status/2117651768788259139#m",
    "ts": 1793722500,
    "id": "2117651768788259139#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "BOOM: Lines are wrapping around polling places in Texas this morning as voters pour in. Texans do not stand in long lines for things they do not care about. If you are in line, stay there. Texas polls are open until 7 PM, and everyone in line by 7 gets to vote.",
-   "url": "https://nitter.kareem.one/GuntherEagleman/status/2117644656469033331#m",
-   "ts": 1793720804,
-   "id": "2117644656469033331#m"
   },
   {
    "handle": "TheRundownAI",
@@ -1249,9 +1248,9 @@
    "id": "2115473170279080149#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
