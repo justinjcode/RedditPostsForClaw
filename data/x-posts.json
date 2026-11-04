@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T07:54:19Z",
+ "generated_at": "2026-11-04T08:07:46Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,33 @@
  "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "True Naval (@naval) Greed can be satisfied. Envy, cannot. — https://nitter.kareem.one/naval/status/2117848335264702710#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2117888389739634881#m",
+   "ts": 1793778915,
+   "id": "2117888389739634881#m"
+  },
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "ChatBLT Tibo (@thsottiaux) Le GPT Fat — https://nitter.kareem.one/thsottiaux/status/2117489367417803042#m",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2117888243119304945#m",
+   "ts": 1793778880,
+   "id": "2117888243119304945#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Georgia results by group (NBC exit poll): 🔴 White men: +42 Republican 🔴 White women: +29 Republican 🔵 Black men: +78 Democrat 🔵 Black women: +85 Democrat 🔵 Latino men: +20 Democrat 🔵 Latino women: +26 Democrat 🔵 All others: +24 Democrat Whites became a minority in Georgia this year for the 1st time ever, three decades ahead of earlier projections",
+   "url": "https://nitter.kareem.one/EndWokeness/status/2117865829081460893#m",
+   "ts": 1793773536,
+   "id": "2117865829081460893#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -265,24 +292,6 @@
    "url": "https://nitter.kareem.one/petergyang/status/2117671678650294437#m",
    "ts": 1793727247,
    "id": "2117671678650294437#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "🤨 America (@america) Democrat Nominee for U.S. Senate in Michigan Abdul El-Sayed wants open borders and no deportations: “We as a country, I believe, owe it to the world to open our doors.” Get out and VOTE Republican against this. Video — https://nitter.kareem.one/america/status/2117625345503302015#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2117666899844866098#m",
-   "ts": 1793726107,
-   "id": "2117666899844866098#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "POV you’re a flying car Video",
-   "url": "https://nitter.kareem.one/Tesla/status/2117659842685128881#m",
-   "ts": 1793724425,
-   "id": "2117659842685128881#m"
   },
   {
    "handle": "elonmusk",
@@ -1248,9 +1257,9 @@
    "id": "2115473170279080149#m"
   },
   {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
@@ -1273,15 +1282,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2115330127886463244#m",
    "ts": 1793168978,
    "id": "2115330127886463244#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "poteto.com has landed",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2115297093879472332#m",
-   "ts": 1793161102,
-   "id": "2115297093879472332#m"
   },
   {
    "handle": "simonw",
