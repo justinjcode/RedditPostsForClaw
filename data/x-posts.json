@@ -1,9 +1,7 @@
 {
- "generated_at": "2026-11-04T17:24:05Z",
+ "generated_at": "2026-11-04T17:34:34Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +9,10 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 178,
  "items": [
   {
@@ -31,6 +32,15 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118024169762029594#m",
    "ts": 1793811287,
    "id": "2118024169762029594#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Pages in Grok Bot 0:15 What are Pages? 0:40 An example page 1:34 Sharing a Page 1:55 Tips: use your data 2:46 @X posts 3:44 Recap Video",
+   "url": "https://nitter.kareem.one/mattyp/status/2118021605544833173#m",
+   "ts": 1793810676,
+   "id": "2118021605544833173#m"
   },
   {
    "handle": "TheRundownAI",
@@ -216,15 +226,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Data centers in space looking pretty appealing right now",
-   "url": "https://nitter.kareem.one/elonmusk/status/2117862462976594112#m",
-   "ts": 1793772733,
-   "id": "2117862462976594112#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Texas results by group (NBC exit poll): 🔴 White men: +23 Republican 🔴 White women: +13 Republican 🔵 Latino men: +19 Democrat 🔵 Latino women: +42 Democrat 🔵 Black men: +77 Democrat 🔵 Black women: +84 Democrat 🔵 All others: +10 Democrat Like it or not, demographics are destiny",
    "url": "https://nitter.kareem.one/EndWokeness/status/2117847205771944381#m",
    "ts": 1793769096,
@@ -247,6 +248,15 @@
    "url": "https://nitter.kareem.one/grok/status/2117824882213818870#m",
    "ts": 1793763773,
    "id": "2117824882213818870#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Quick update: Starlink Mobile is continuing to provide service with Orange and Telefónica following the tragic train derailment in Spain. We've connected more than 36,000 people in the region so far. Thank you to @mintradigital for your continued support. David Goldman (@davesgoldman) Our thoughts are with everyone affected by this tragedy. Starlink Mobile connected nearly 2k messages with @orange_es and @Telefonica in the first few hours. Thank you to @mintradigital and Secretary González Martín for your support. 🇪🇸 — https://nitter.kareem.one/davesgoldman/status/2115606937127764092#m",
+   "url": "https://nitter.kareem.one/davesgoldman/status/2117804190378365250#m",
+   "ts": 1793758840,
+   "id": "2117804190378365250#m"
   },
   {
    "handle": "swyx",
@@ -436,15 +446,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2117679157035602065#m",
    "ts": 1793729030,
    "id": "2117679157035602065#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "\"I don't actually have eyes on the sky.\" That's what my Grok @Bot told a Comcast rep who asked about the weather 😂 It also told the rep that a competitor was offering a much lower price and negotiated both a price decrease AND higher speed for my internet. Below's the 20-second reel of the real call. 📌 Watch the full video to see this feature in action: inv.kareem.one/F-356TczoQU (Btw, all Grok Bot users should have access to call US businesses now, just ask your bot to dial a number and give it some context upfront) Video Peter Yang (@petergyang) Grok @Bot can now call US businesses for you, and it's one of my favorite AI features ever. Here's my new video where I play a real call of my bot successfully negotiating with Comcast to cut my internet bill by almost $500 a year. Some highlights include my bot: → Responding to \"How's the weather?\" → Turning down 3 upsells from the rep → Pushing the rep with a rival's lower offer 📌 Watch now: inv.kareem.one/F-356TczoQU Link This New Grok Bot Feature Just Saved Me $500 a Year (Seriously) 📌 Get $100 in free X subscription codes by upgrading to a paid memb... youtube.com — https://nitter.kareem.one/petergyang/status/2117638801296380159#m",
-   "url": "https://nitter.kareem.one/petergyang/status/2117671678650294437#m",
-   "ts": 1793727247,
-   "id": "2117671678650294437#m"
   },
   {
    "handle": "TheRundownAI",
@@ -1170,7 +1171,7 @@
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
-   "text": "Send your kind feedback to this person Andrew Ambrosino (@ajambrosino) hi all, two things: 1. usage limits are back to being double – your feedback worked 2. we today kicked off an intense sprint to dramatically improve the app simplicity and performance. i will oversee this. more to come. now, send me your complaints — https://nitter.kareem.one/ajambrosino/status/2115855769665147254#m",
+   "text": "Send your kind feedback to this person Andrew Rambrosino (@ajambrosino) hi all, two things: 1. usage limits are back to being double – your feedback worked 2. we today kicked off an intense sprint to dramatically improve the app simplicity and performance. i will oversee this. more to come. now, send me your complaints — https://nitter.kareem.one/ajambrosino/status/2115855769665147254#m",
    "url": "https://nitter.kareem.one/thsottiaux/status/2115890336107233347#m",
    "ts": 1793302542,
    "id": "2115890336107233347#m"
