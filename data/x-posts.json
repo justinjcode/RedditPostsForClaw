@@ -1,20 +1,47 @@
 {
- "generated_at": "2026-11-04T20:17:04Z",
+ "generated_at": "2026-11-04T20:24:46Z",
  "accounts_ok": [
-  "ZichenWanghere",
+  "Lingling_Wei",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
-  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed",
   "@TheRundownAI: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "> we developed and trained Ripple-65B Preview for only $32M, which is one-tenth the cost of the previous open-weight SOTA on agentic coding¹ this is like the avengers of open model SOTA ¹ \"Note that $32M is our full R&D cost starting from scratch, including pretraining ladder development, data mixing, evals, debugging, synthetic data generation, posttraining recipe development, and the final hero pretraining and posttraining run.\" Ricursive Intelligence (@RicursiveAI) Today we release Ripple-65B Preview, our 65B dense LLM we pretrained from scratch. Ripple sets a new state-of-the-art for U.S. open-weight models in agentic coding tasks, surpassing significantly larger models including Muse Spark Open-816B, Beam-501B, Inkling-975B, and Nemotron 3 Ultra-550B. Learn more: ricursive.com/ripple Video — https://nitter.kareem.one/RicursiveAI/status/2118046765857546733#m",
+   "url": "https://nitter.kareem.one/swyx/status/2118073650356384239#m",
+   "ts": 1793823084,
+   "id": "2118073650356384239#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "every fucking time goodalexander (@goodalexander) mcrib wasn't priced in btw — https://nitter.kareem.one/goodalexander/status/2118070067829014835#m",
+   "url": "https://nitter.kareem.one/swyx/status/2118070993747059066#m",
+   "ts": 1793822451,
+   "id": "2118070993747059066#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "and yes my dms are a complete trash fire but i have hooked up high level people before and enjoy doing it for free, make sure u are actually category leader tho, market is very asymmetric",
+   "url": "https://nitter.kareem.one/swyx/status/2118066424996651505#m",
+   "ts": 1793821362,
+   "id": "2118066424996651505#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -1096,15 +1123,6 @@
    "id": "2116782055665402157#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "btw @karpathy uses medium on opus 5.5 on his latest project (Hackertube launched today). overall i think having strong opinions on effort levels is like the tabs vs spaces of our time. just tweak to taste. altho mine is definitely superior to yours. swyx (@swyx) join me all the way on the light side guys low effort + critique loop > superultramaxhighwhatever (for the throughput-constrained; see swyxio/skills/babysit-runs) — https://nitter.kareem.one/swyx/status/2116642586387730593#m",
-   "url": "https://nitter.kareem.one/swyx/status/2116773135668404286#m",
-   "ts": 1793513017,
-   "id": "2116773135668404286#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -1112,15 +1130,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2116692529970311254#m",
    "ts": 1793493800,
    "id": "2116692529970311254#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "A teaser for my upcoming talk! @aiDotEngineer",
-   "url": "https://nitter.kareem.one/JPoehnelt/status/2116646696461709368#m",
-   "ts": 1793482872,
-   "id": "2116646696461709368#m"
   },
   {
    "handle": "thsottiaux",
@@ -1294,9 +1303,9 @@
    "id": "2115473170279080149#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
@@ -1328,15 +1337,6 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2115048188055019826#m",
    "ts": 1793101758,
    "id": "2115048188055019826#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "SF2M is back. Join us on November 14 at Vercel's HQ in downtown San Francisco to hear from engineering leaders on the front lines of AI-driven software development: - @FlyaKiet (Co-Founder & CEO, @superset_sh ) - @dexhorthy (Co-Founder & CEO, @humanlayer_dev ) - @MelkeyDev (Staff SWE, @vercel ) We're excited to be partnering with @aiDotEngineer for this special AIE Code Summit edition of the SF Software Factory Meetup. 🔗 RSVP here: luma.com/swmsjyp2",
-   "url": "https://nitter.kareem.one/sazabi/status/2113744876152279550#m",
-   "ts": 1792791024,
-   "id": "2113744876152279550#m"
   },
   {
    "handle": "Lingling_Wei",
