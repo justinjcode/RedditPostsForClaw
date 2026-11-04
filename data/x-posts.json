@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-04T20:06:50Z",
+ "generated_at": "2026-11-04T20:17:04Z",
  "accounts_ok": [
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,7 +10,8 @@
  ],
  "errors": [
   "@swyx: all instances failed",
-  "@Lingling_Wei: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 178,
  "items": [
@@ -1171,7 +1171,7 @@
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
-   "text": "Send your kind feedback to this person Andrew Rambrosino (@ajambrosino) hi all, two things: 1. usage limits are back to being double – your feedback worked 2. we today kicked off an intense sprint to dramatically improve the app simplicity and performance. i will oversee this. more to come. now, send me your complaints — https://nitter.kareem.one/ajambrosino/status/2115855769665147254#m",
+   "text": "Send your kind feedback to this person Andrew Ambrosino (@ajambrosino) hi all, two things: 1. usage limits are back to being double – your feedback worked 2. we today kicked off an intense sprint to dramatically improve the app simplicity and performance. i will oversee this. more to come. now, send me your complaints — https://nitter.kareem.one/ajambrosino/status/2115855769665147254#m",
    "url": "https://nitter.kareem.one/thsottiaux/status/2115890336107233347#m",
    "ts": 1793302542,
    "id": "2115890336107233347#m"
