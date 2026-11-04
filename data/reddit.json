@@ -1,27 +1,27 @@
 {
- "generated_at": "2026-11-04T04:10:28Z",
+ "generated_at": "2026-11-04T06:14:32Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
+  "MachineLearning",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
   {
    "subreddit": "selfhosted",
-   "title": "How many self-hosted apps are you running that you've forgotten about?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xne5le/how_many_selfhosted_apps_are_you_running_that/",
-   "ts": 1793764166,
+   "title": "Need advice on upgrading homelab/self-hosting computer",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xnezvo/need_advice_on_upgrading_homelabselfhosting/",
+   "ts": 1793766763,
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Nuvi Sphere — a sneak peek at an unofficial self-hosting tool for Nuvio",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xncx3d/nuvi_sphere_a_sneak_peek_at_an_unofficial/",
-   "ts": 1793760418,
+   "subreddit": "programming",
+   "title": "Instrumental dark metal written for deep-work sessions — 12-minute preview, looking for mix and pacing feedback",
+   "url": "https://www.reddit.com/r/programming/comments/1xnesoc/instrumental_dark_metal_written_for_deepwork/",
+   "ts": 1793766141,
    "source": "Reddit"
   },
   {
@@ -43,6 +43,13 @@
    "title": "Experiments with Chinchilla scaling laws (following DeepMind) [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xnbdx0/experiments_with_chinchilla_scaling_laws/",
    "ts": 1793755910,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Link in bio for musicians e.g like band.bio",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xnb1aq/link_in_bio_for_musicians_eg_like_bandbio/",
+   "ts": 1793754912,
    "source": "Reddit"
   },
   {
@@ -393,13 +400,6 @@
    "title": "ML PhDs: Would you rather have done your PhD before or after the rise of AI chatbots? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xlt9wm/ml_phds_would_you_rather_have_done_your_phd/",
    "ts": 1793613865,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "The fastest double-to-string algorithm you’ve never heard of",
-   "url": "https://www.reddit.com/r/programming/comments/1xlqfb6/the_fastest_doubletostring_algorithm_youve_never/",
-   "ts": 1793602829,
    "source": "Reddit"
   },
   {
