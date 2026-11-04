@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-04T19:14:21Z",
+ "generated_at": "2026-11-04T19:24:17Z",
  "accounts_ok": [
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
+  "@simonw: all instances failed",
+  "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "NEW: Grok Bot now has the ability to place phone calls for users. Calls are limited to the U.S. for now, with Washington and Illinois blocked. Once a user approves a call, Grok Bot can wait on hold, press through automated menus, and talk to whoever picks up. The user can follow along on a live transcript and gets a summary after. Video",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2118057565607367147#m",
+   "ts": 1793819249,
+   "id": "2118057565607367147#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1157,15 +1166,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2116115476463993042#m",
    "ts": 1793356219,
    "id": "2116115476463993042#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in AI today: - Report: Nvidia CEO targeted by alleged Chinese spy - Rowan’s Corner: ‘Sent from my agent’ - Make ElevenLabs voiceovers sound more natural - Anthropic’s AI now monitors its own conversations",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2116115471137198534#m",
-   "ts": 1793356218,
-   "id": "2116115471137198534#m"
   },
   {
    "handle": "thsottiaux",
