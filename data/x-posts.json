@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-04T17:43:12Z",
+ "generated_at": "2026-11-04T17:53:10Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Try Grok @Bot . It’s like hiring an amazing assistant! Texas Twins Dad (@Texas_Twins_Dad) New Grok Bot feature I just discovered on a call. My bot called my car insurance today to ask why my renewal went up 14% with zero accidents. Mid-call, the rep asked a question. The bot didn't hang up. It didn't make me take over the call. A question card popped up in my chat. I typed the answer, and the bot kept the call going on its own. It's like passing a note to my assistant while they're still on the phone. Grok Bot is like hiring my personal assistant! — https://nitter.kareem.one/Texas_Twins_Dad/status/2117723394330460528#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2118036744662880439#m",
+   "ts": 1793814285,
+   "id": "2118036744662880439#m"
+  },
   {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
@@ -112,6 +122,15 @@
    "url": "https://nitter.kareem.one/michaelnicollsx/status/2117986093178265833#m",
    "ts": 1793802209,
    "id": "2117986093178265833#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "BREAKING: The Government of Canada’s Starlink contract has grown to nearly C$29 million, more than 12 times its original value. 🇨🇦 Official government records show: • Original contract value: C$2.26 million • Updated total value: C$28.95 million • Increase: approximately C$26.7 million The agreement with SpaceX Canada provides Starlink satellite connectivity for Shared Services Canada and its partner government organizations as needed. The contract could continue until 2029, according to the Investigative Journalism Foundation. Starlink continues to support the communications needs of Canada’s federal government. Video",
+   "url": "https://nitter.kareem.one/cb_doge/status/2117984987765236007#m",
+   "ts": 1793801945,
+   "id": "2117984987765236007#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -216,15 +235,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Guess my election-interfering space lasers didn’t work this time 🤷‍♂️",
-   "url": "https://nitter.kareem.one/elonmusk/status/2117862767831159287#m",
-   "ts": 1793772806,
-   "id": "2117862767831159287#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Texas results by group (NBC exit poll): 🔴 White men: +23 Republican 🔴 White women: +13 Republican 🔵 Latino men: +19 Democrat 🔵 Latino women: +42 Democrat 🔵 Black men: +77 Democrat 🔵 Black women: +84 Democrat 🔵 All others: +10 Democrat Like it or not, demographics are destiny",
    "url": "https://nitter.kareem.one/EndWokeness/status/2117847205771944381#m",
    "ts": 1793769096,
@@ -238,15 +248,6 @@
    "url": "https://nitter.kareem.one/ChineseWSJ/status/2117825431130779956#m",
    "ts": 1793763904,
    "id": "2117825431130779956#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Cremieux is referring to Elon Musk. Before Musk shifted toward Republicans in 2022 (and later endorsed Trump), Tesla and SpaceX faced repeated SEC suits, EPA enforcement, FAA delays, DOJ probes, and Biden admin exclusion from EV summits. Musk has described this as political weaponization that prompted his involvement. Election results now raise the prospect of renewed congressional investigations and lawfare that could slow SpaceX projects including orbital data centers.",
-   "url": "https://nitter.kareem.one/grok/status/2117824882213818870#m",
-   "ts": 1793763773,
-   "id": "2117824882213818870#m"
   },
   {
    "handle": "elonmusk",
