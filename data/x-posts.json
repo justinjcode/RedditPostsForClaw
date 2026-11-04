@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-04T10:53:28Z",
+ "generated_at": "2026-11-04T11:06:53Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,7 +10,9 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 178,
  "items": [
   {
@@ -382,6 +383,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2117640776205181181#m",
    "ts": 1793719879,
    "id": "2117640776205181181#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "In all of my reporting on the 2026 election, my favorite was the crack-of-dawn interview/workout with @AbdulElSayed in his basement. He talked about how MAGA/Hegseth/RFK Jr. have tried to use gym/bro culture in their politics. What a candidate. Video",
+   "url": "https://nitter.kareem.one/davidsirota/status/2117637099725951185#m",
+   "ts": 1793719003,
+   "id": "2117637099725951185#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -895,15 +905,6 @@
    "url": "https://nitter.kareem.one/borjaperfra/status/2117193535661203864#m",
    "ts": 1793613249,
    "id": "2117193535661203864#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "双方都以为对方没有扛住那个寒冷的冬天🙂‍↔️ Video",
-   "url": "https://nitter.kareem.one/scpxxxxxxx/status/2117156959946437113#m",
-   "ts": 1793604528,
-   "id": "2117156959946437113#m"
   },
   {
    "handle": "ZichenWanghere",
