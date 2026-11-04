@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T18:19:16Z",
+ "generated_at": "2026-11-04T18:28:33Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -8,10 +8,11 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@swyx: all instances failed"
+ ],
  "count": 178,
  "items": [
   {
@@ -49,6 +50,15 @@
    "url": "https://nitter.kareem.one/mattyp/status/2118021605544833173#m",
    "ts": 1793810676,
    "id": "2118021605544833173#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "some fun slides from my upcoming talk @aiDotEngineer very excited to share how we ship crazy amounts of code (30x'd) without reading it, yet perf is as good if not better then when we launched there's a lot more to improve of course, and the ceiling is far from being reached, but given the relentless shipping speed and our high bar for polish, i think that our agent friendly architecture bets are paying off at taming the slop fun fact: ~230 people landed at least 1 PR to grok bot in october! AI.Engineer 🔜 Shanghai & SF CODE (@aiDotEngineer) First AIE Code Summit speakers: @poteto , Principal Engineer @ SpaceX @steve_yegge , Engineer, Writer, Advisor @zachbruggeman , Principal Software Engineer @ Ramp Nov 10-12, SF. Come hang out with us. Apply at ai.engineer/code — https://nitter.kareem.one/aiDotEngineer/status/2112276851355693315#m",
+   "url": "https://nitter.kareem.one/poteto/status/2118017093677494706#m",
+   "ts": 1793809600,
+   "id": "2118017093677494706#m"
   },
   {
    "handle": "TheRundownAI",
@@ -229,15 +239,6 @@
    "url": "https://nitter.kareem.one/EndWokeness/status/2117865829081460893#m",
    "ts": 1793773536,
    "id": "2117865829081460893#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Texas results by group (NBC exit poll): 🔴 White men: +23 Republican 🔴 White women: +13 Republican 🔵 Latino men: +19 Democrat 🔵 Latino women: +42 Democrat 🔵 Black men: +77 Democrat 🔵 Black women: +84 Democrat 🔵 All others: +10 Democrat Like it or not, demographics are destiny",
-   "url": "https://nitter.kareem.one/EndWokeness/status/2117847205771944381#m",
-   "ts": 1793769096,
-   "id": "2117847205771944381#m"
   },
   {
    "handle": "Lingling_Wei",
