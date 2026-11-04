@@ -1,15 +1,43 @@
 {
- "generated_at": "2026-11-04T12:12:26Z",
+ "generated_at": "2026-11-04T14:10:17Z",
  "count": 60,
  "subreddits_ok": [
+  "LocalLLaMA",
   "MachineLearning",
-  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "I removed 85% of gemma's weights (and it is mostly fine)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnoqyy/i_removed_85_of_gemmas_weights_and_it_is_mostly/",
+   "ts": 1793800410,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Tencent says Hy4 ranks among the best open models. Its weights aren't out yet",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnnr3k/tencent_says_hy4_ranks_among_the_best_open_models/",
+   "ts": 1793797646,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Help with Ansible and Borgbackup",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xnn3gu/help_with_ansible_and_borgbackup/",
+   "ts": 1793795740,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "TinyWebUI - Lightweight Open WebUI alternative, just npx and go",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnmre2/tinywebui_lightweight_open_webui_alternative_just/",
+   "ts": 1793794705,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Versioned backup on change?",
@@ -25,10 +53,24 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "Deepseek V4.1 flash 1017 on 4rtx3090 + 256ddr4 ( Maya - engine )",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnkr5q/deepseek_v41_flash_1017_on_4rtx3090_256ddr4_maya/",
+   "ts": 1793787759,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "MachineLearning",
    "title": "A message to top tier conferences [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xnkbeu/a_message_to_top_tier_conferences_d/",
    "ts": 1793786150,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Using Strata IQ4 Qwen Flash to edit Qwen 3.5 0.6B weight based on MIT CSAIL",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnjwte/using_strata_iq4_qwen_flash_to_edit_qwen_35_06b/",
+   "ts": 1793784528,
    "source": "Reddit"
   },
   {
@@ -39,17 +81,24 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "[Paper] SpecPilot: Autonomous Algorithm Discovery and Systems Optimization for Speculative Decoding 🚀🚀🚀",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnjrgj/paper_specpilot_autonomous_algorithm_discovery/",
+   "ts": 1793783924,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Axion1-0/Axion-1.0-35B · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnjiu4/axion10axion1035b_hugging_face/",
+   "ts": 1793782978,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "MachineLearning",
    "title": "Hydrogen-1.0: open-weight scientific model beats GPT-6 Astra on FSR with 72% lower estimated output cost [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xnjhdd/hydrogen10_openweight_scientific_model_beats_gpt6/",
    "ts": 1793782829,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "I built a self-hosted panel to deploy and manage Odoo on your own servers (code on GitHub, free to use)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xnj9q8/i_built_a_selfhosted_panel_to_deploy_and_manage/",
-   "ts": 1793781965,
    "source": "Reddit"
   },
   {
@@ -64,13 +113,6 @@
    "title": "Introducing Hy4 (open weights soon)",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnhzbz/introducing_hy4_open_weights_soon/",
    "ts": 1793776990,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Revolut sidelines Claude Code for a self-hosted Chinese model, says it pays 90% less",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnhq66/revolut_sidelines_claude_code_for_a_selfhosted/",
-   "ts": 1793776055,
    "source": "Reddit"
   },
   {
@@ -137,13 +179,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Keeping up with new inference engines",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnanyh/keeping_up_with_new_inference_engines/",
-   "ts": 1793753881,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Postgres 19 REPACK: Built-In Online Table Bloat Cleanup",
    "url": "https://www.reddit.com/r/programming/comments/1xn9jr2/postgres_19_repack_builtin_online_table_bloat/",
@@ -172,13 +207,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "gemma4: graph optimizations (massive gains on pp for E2B and E4B) by max-krasnyansky · Pull Request #31356 · ggml-org/llama.cpp",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn6mm0/gemma4_graph_optimizations_massive_gains_on_pp/",
-   "ts": 1793743369,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Wiki.js 3.0 Release — Wiki.js",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xn628i/wikijs_30_release_wikijs/",
@@ -193,24 +221,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Basalt 0.2.0: Qwen 3.8 Flash Next NVFP4, 300 t/s prose, 600 t/s struct, 10K t/s prefill on a 5090 + 5060 Ti and 128GB RAM",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn4qn1/basalt_020_qwen_38_flash_next_nvfp4_300_ts_prose/",
-   "ts": 1793738961,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Found an old desktop (i5-3340S, 4GB RAM). Usable to start self-hosting or straight to e-waste?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xn44mc/found_an_old_desktop_i53340s_4gb_ram_usable_to/",
    "ts": 1793737545,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Tokens/s? \"World's biggest PCIe graphics card\" discovered, prototype AMD Radeon RX 470 board with four GPUs has been pictured",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn40w7/tokenss_worlds_biggest_pcie_graphics_card/",
-   "ts": 1793737311,
    "source": "Reddit"
   },
   {
@@ -225,13 +239,6 @@
    "title": "What do people with normal hardware : 32GB ram 16GB VRAM run?",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn2jyz/what_do_people_with_normal_hardware_32gb_ram_16gb/",
    "ts": 1793734089,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "I tried MIT's \"weight-space programming\" on my own use case: Claude rewrote 8 neurons of Gemma 4 12B to change how it translates one Italian tense",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn1gs9/i_tried_mits_weightspace_programming_on_my_own/",
-   "ts": 1793731737,
    "source": "Reddit"
   },
   {
@@ -295,13 +302,6 @@
    "title": "Feedback on my personal anti-censorship VPN setup",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xmt31w/feedback_on_my_personal_anticensorship_vpn_setup/",
    "ts": 1793712921,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "RTX 5090 with 64GB and 96GB VRAM 'confirmed' by US GPU repair tech",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmqq2a/rtx_5090_with_64gb_and_96gb_vram_confirmed_by_us/",
-   "ts": 1793706016,
    "source": "Reddit"
   },
   {
