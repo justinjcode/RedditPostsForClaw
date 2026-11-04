@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T18:28:33Z",
+ "generated_at": "2026-11-04T18:37:37Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -8,13 +8,30 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "True Brivael Le Pogam (@brivael) After DOGE, Elon came to a conclusion most people missed. He tried to reform the state from the inside. He failed. And he said it plainly: the government can't fix its own deficit. Nobody in power actually wants to cut. The machine protects itself. So he drew the only logical conclusion. If the state can't be reformed, there are only two ways this ends. Either global bankruptcy. Debt keeps compounding, interest payments eat the budget, and the system collapses under its own weight. Or robots. AI and robotics grow the economy so fast that the debt becomes manageable, and abundance makes the old fights over scarcity irrelevant. Here's the part almost nobody sees. For two centuries, capitalism has had a marketing problem. Its gains are real but slow and invisible. 2% growth a year doesn't feel like anything. Your life gets better over 30 years and you never connect it to the system that did it. Meanwhile, the left's promises feel immediate and concrete: a check, a subsidy, a benefit. That's why the left wins on promises even when it can't deliver them. Capitalism produces the wealth, socialism takes the credit. Robots break that asymmetry. When productivity doubles in a few years instead of a few decades, people will see it. Things get cheaper, services get better, opportunities appear, in real time. For the first time in history, people will connect capitalism and their rising standard of living directly, almost instantly. The causal chain becom",
+   "url": "https://nitter.kareem.one/elonmusk/status/2118048421663973792#m",
+   "ts": 1793817069,
+   "id": "2118048421663973792#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "you thought i was kidding swyx (@swyx) btw if you can build a category leader open source project in ai engineering right now the market acquihire rate is ~$10-$100m per ai engineer. you do not need to figure out a business model, you do not need GTM, you do not need funding. just build things clankers want. — https://nitter.kareem.one/swyx/status/2031071059307601944#m",
+   "url": "https://nitter.kareem.one/swyx/status/2118048180168483229#m",
+   "ts": 1793817012,
+   "id": "2118048180168483229#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -230,15 +247,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2117888243119304945#m",
    "ts": 1793778880,
    "id": "2117888243119304945#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Georgia results by group (NBC exit poll): 🔴 White men: +42 Republican 🔴 White women: +29 Republican 🔵 Black men: +78 Democrat 🔵 Black women: +85 Democrat 🔵 Latino men: +20 Democrat 🔵 Latino women: +26 Democrat 🔵 All others: +24 Democrat Whites became a minority in Georgia this year for the 1st time ever, three decades ahead of earlier projections",
-   "url": "https://nitter.kareem.one/EndWokeness/status/2117865829081460893#m",
-   "ts": 1793773536,
-   "id": "2117865829081460893#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -1103,15 +1111,6 @@
    "url": "https://nitter.kareem.one/JPoehnelt/status/2116646696461709368#m",
    "ts": 1793482872,
    "id": "2116646696461709368#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "join me all the way on the light side guys low effort + critique loop > superultramaxhighwhatever (for the throughput-constrained; see swyxio/skills/babysit-runs) Theo - t3.gg (@theo) Julius convinced me to move from extra high to high on Opus 5.5 a week or two ago. He was right. This is better almost all of the time. — https://nitter.kareem.one/theo/status/2116420089411145913#m",
-   "url": "https://nitter.kareem.one/swyx/status/2116642586387730593#m",
-   "ts": 1793481892,
-   "id": "2116642586387730593#m"
   },
   {
    "handle": "thsottiaux",
