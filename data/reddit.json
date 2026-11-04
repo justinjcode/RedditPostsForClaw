@@ -1,15 +1,29 @@
 {
- "generated_at": "2026-11-04T02:12:16Z",
+ "generated_at": "2026-11-04T04:10:28Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "How many self-hosted apps are you running that you've forgotten about?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xne5le/how_many_selfhosted_apps_are_you_running_that/",
+   "ts": 1793764166,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Nuvi Sphere — a sneak peek at an unofficial self-hosting tool for Nuvio",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xncx3d/nuvi_sphere_a_sneak_peek_at_an_unofficial/",
+   "ts": 1793760418,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "PSA: Immich Machine Learning has Microsoft Telemetry enabled by default, here's how to disable it",
@@ -32,17 +46,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Link in bio for musicians e.g like band.bio",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xnb1aq/link_in_bio_for_musicians_eg_like_bandbio/",
-   "ts": 1793754912,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Finance Python Automation",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xna2ek/finance_python_automation/",
-   "ts": 1793752211,
+   "subreddit": "LocalLLaMA",
+   "title": "Keeping up with new inference engines",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnanyh/keeping_up_with_new_inference_engines/",
+   "ts": 1793753881,
    "source": "Reddit"
   },
   {
@@ -344,13 +351,6 @@
    "title": "To all ML PhDs, how are you guys doing these days? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xm5w5i/to_all_ml_phds_how_are_you_guys_doing_these_days_d/",
    "ts": 1793645537,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Official Statement: Qwen Models Will Stick to Open Source to the End!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open/",
-   "ts": 1793637752,
    "source": "Reddit"
   },
   {
