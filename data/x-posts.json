@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-04T18:37:37Z",
+ "generated_at": "2026-11-04T18:45:49Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,7 +10,9 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 178,
  "items": [
   {
@@ -186,6 +187,15 @@
    "id": "2117967638911435077#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "BREAKING: Vietnam’s Lâm Đồng plans to bring Starlink to areas where poor mobile coverage makes rescue efforts harder. Around Gia Bắc Pass in Sơn Điền, mountains and deep valleys make it hard to stay connected. During road accidents, floods and landslides, that can make calling for help difficult. Local officials are working with FPT Telecom to choose a location for Starlink, helping rescue teams stay connected and organise emergency responses. Video",
+   "url": "https://nitter.kareem.one/cb_doge/status/2117950907610784237#m",
+   "ts": 1793793820,
+   "id": "2117950907610784237#m"
+  },
+  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -220,24 +230,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2117896640929603800#m",
    "ts": 1793780882,
    "id": "2117896640929603800#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok @Bot shopping is great Grok Bot (@bot) Try the new shopping experience in Grok Bot. Find the best deal, compare items, and have Bot track all your orders. Video — https://nitter.kareem.one/bot/status/2117736249444507834#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2117893633009651980#m",
-   "ts": 1793780165,
-   "id": "2117893633009651980#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "True Naval (@naval) Greed can be satisfied. Envy, cannot. — https://nitter.kareem.one/naval/status/2117848335264702710#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2117888389739634881#m",
-   "ts": 1793778915,
-   "id": "2117888389739634881#m"
   },
   {
    "handle": "thsottiaux",
@@ -436,6 +428,15 @@
    "url": "https://nitter.kareem.one/bcherny/status/2117693181651542387#m",
    "ts": 1793732373,
    "id": "2117693181651542387#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "How much usage does a Grok Bot phone call take? So I checked. My bot just called an EV charger installer for a quote. 85 seconds on the phone. Usage before: 5.8% Usage after: 6.0% That's 0.2% for a real call I didn't have to make myself.",
+   "url": "https://nitter.kareem.one/Texas_Twins_Dad/status/2117691954578538798#m",
+   "ts": 1793732081,
+   "id": "2117691954578538798#m"
   },
   {
    "handle": "Lingling_Wei",
