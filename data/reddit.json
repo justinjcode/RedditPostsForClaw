@@ -1,20 +1,62 @@
 {
- "generated_at": "2026-11-04T08:11:22Z",
+ "generated_at": "2026-11-04T12:12:26Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
   {
    "subreddit": "selfhosted",
-   "title": "If you can use only one self-hosted system, what would it be?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xnim9x/if_you_can_use_only_one_selfhosted_system_what/",
-   "ts": 1793779394,
+   "title": "Versioned backup on change?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xnm6zq/versioned_backup_on_change/",
+   "ts": 1793792922,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Matplotlib Real time Plot Animation Tutorial using FuncAnimation() and Python for Beginners",
+   "url": "https://www.reddit.com/r/programming/comments/1xnlo9f/matplotlib_real_time_plot_animation_tutorial/",
+   "ts": 1793791101,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "A message to top tier conferences [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xnkbeu/a_message_to_top_tier_conferences_d/",
+   "ts": 1793786150,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "A Maintainer's Advice on Contributing to Open Source in 2026",
+   "url": "https://www.reddit.com/r/programming/comments/1xnjvkx/a_maintainers_advice_on_contributing_to_open/",
+   "ts": 1793784389,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Hydrogen-1.0: open-weight scientific model beats GPT-6 Astra on FSR with 72% lower estimated output cost [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xnjhdd/hydrogen10_openweight_scientific_model_beats_gpt6/",
+   "ts": 1793782829,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "I built a self-hosted panel to deploy and manage Odoo on your own servers (code on GitHub, free to use)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xnj9q8/i_built_a_selfhosted_panel_to_deploy_and_manage/",
+   "ts": 1793781965,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "the lost malloc()",
+   "url": "https://www.reddit.com/r/programming/comments/1xni70o/the_lost_malloc/",
+   "ts": 1793777817,
    "source": "Reddit"
   },
   {
@@ -60,13 +102,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Instrumental dark metal written for deep-work sessions — 12-minute preview, looking for mix and pacing feedback",
-   "url": "https://www.reddit.com/r/programming/comments/1xnesoc/instrumental_dark_metal_written_for_deepwork/",
-   "ts": 1793766141,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "deep-principle/Hydrogen-1.0 · Hugging Face",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnervh/deepprinciplehydrogen10_hugging_face/",
@@ -78,13 +113,6 @@
    "title": "PSA: Immich Machine Learning has Microsoft Telemetry enabled by default, here's how to disable it",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xnbujt/psa_immich_machine_learning_has_microsoft/",
    "ts": 1793757279,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Railway Coded Malicious Scripts?!",
-   "url": "https://www.reddit.com/r/programming/comments/1xnbig3/railway_coded_malicious_scripts/",
-   "ts": 1793756285,
    "source": "Reddit"
   },
   {
@@ -120,13 +148,6 @@
    "title": "Postgres 19 REPACK: Built-In Online Table Bloat Cleanup",
    "url": "https://www.reddit.com/r/programming/comments/1xn9jr2/postgres_19_repack_builtin_online_table_bloat/",
    "ts": 1793750798,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "LLVM Vulkan 1.1: Drop-in compiler passes (GVN, CSE, CFG, DCE) on Vulkan compute with benchmarks & Clang integration",
-   "url": "https://www.reddit.com/r/programming/comments/1xn802v/llvm_vulkan_11_dropin_compiler_passes_gvn_cse_cfg/",
-   "ts": 1793746761,
    "source": "Reddit"
   },
   {
@@ -277,13 +298,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "[Project Update] Fail2Ban-Report v0.5.2 – Cumulative Security Release (XSS & Auth Bypass Fixes)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xmskej/project_update_fail2banreport_v052_cumulative/",
-   "ts": 1793711517,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "RTX 5090 with 64GB and 96GB VRAM 'confirmed' by US GPU repair tech",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmqq2a/rtx_5090_with_64gb_and_96gb_vram_confirmed_by_us/",
@@ -365,20 +379,6 @@
    "title": "To all ML PhDs, how are you guys doing these days? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xm5w5i/to_all_ml_phds_how_are_you_guys_doing_these_days_d/",
    "ts": 1793645537,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Small-scale check of \"good views beat next-token prediction\" (Balestriero & LeCun 2026): human captions only, 11M-param encoders [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xlzoze/smallscale_check_of_good_views_beat_nexttoken/",
-   "ts": 1793632121,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "What did Ilya Sutskever mean when he said \"The models, they just want to learn\"? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xlyr77/what_did_ilya_sutskever_mean_when_he_said_the/",
-   "ts": 1793629934,
    "source": "Reddit"
   },
   {
