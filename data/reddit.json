@@ -1,15 +1,43 @@
 {
- "generated_at": "2026-11-04T18:10:31Z",
+ "generated_at": "2026-11-04T20:09:30Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
+  "MachineLearning",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "BookOrbit - Bulk Edit",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xnxpz9/bookorbit_bulk_edit/",
+   "ts": 1793821240,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Has anyone been to a WomenHack hiring event? How do the “speed interviews” actually work?",
+   "url": "https://www.reddit.com/r/programming/comments/1xnvzp9/has_anyone_been_to_a_womenhack_hiring_event_how/",
+   "ts": 1793817235,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Switch from DS932+ to Terra Micro PC as compute?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xnvgo4/switch_from_ds932_to_terra_micro_pc_as_compute/",
+   "ts": 1793816035,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Upgrading Immich",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xnv6bh/upgrading_immich/",
+   "ts": 1793815377,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Unsloth Qwen3.8-Flash-Next GGUFs V3.1 Update (November 4th 2026)",
@@ -26,9 +54,9 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "DashGate: a self-hosted app portal for your homelab",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xnuism/dashgate_a_selfhosted_app_portal_for_your_homelab/",
-   "ts": 1793813928,
+   "title": "Dozzle question",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xnudqi/dozzle_question/",
+   "ts": 1793813615,
    "source": "Reddit"
   },
   {
@@ -53,17 +81,24 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Vaultbase: an open-source backend in one binary (auth, realtime, files, hooks) – runs fine on a $5 VPS",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xntqyq/vaultbase_an_opensource_backend_in_one_binary/",
-   "ts": 1793812218,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "LFM3-Omni-2B running fully offline on my iPhone 18 Pro Max at ~80 tok/s, powered by custom WebGPU kernels in a React Native app.",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xntou1/lfm3omni2b_running_fully_offline_on_my_iphone_18/",
    "ts": 1793812086,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Do looped transformers save HBM traffic? Profiling weight reuse in Huginn on a B200 [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xnskvt/do_looped_transformers_save_hbm_traffic_profiling/",
+   "ts": 1793809572,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Why can't conferences just reasonably reduce the cap on number of submissions? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xnscvr/why_cant_conferences_just_reasonably_reduce_the/",
+   "ts": 1793809059,
    "source": "Reddit"
   },
   {
@@ -78,13 +113,6 @@
    "title": "Building Barista: Postgres, Embeddings, and Jev",
    "url": "https://www.reddit.com/r/programming/comments/1xnsc70/building_barista_postgres_embeddings_and_jev/",
    "ts": 1793809015,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "ICLR grading change [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xns0uq/iclr_grading_change_d/",
-   "ts": 1793808278,
    "source": "Reddit"
   },
   {
@@ -113,13 +141,6 @@
    "title": "My gift to the mods:",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnr6zd/my_gift_to_the_mods/",
    "ts": 1793806337,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Looking to join research group / lab [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xnr05k/looking_to_join_research_group_lab_r/",
-   "ts": 1793805884,
    "source": "Reddit"
   },
   {
@@ -155,13 +176,6 @@
    "title": "Pocket-sized Linux AI box runs on 256-TOPS Axera chip",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnpuv7/pocketsized_linux_ai_box_runs_on_256tops_axera/",
    "ts": 1793803128,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "TexLite – A lightweight self-hosted Overleaf alternative with built-in coding agent support",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xnpqss/texlite_a_lightweight_selfhosted_overleaf/",
-   "ts": 1793802847,
    "source": "Reddit"
   },
   {
@@ -246,13 +260,6 @@
    "title": "Introducing Hy4 (open weights soon)",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnhzbz/introducing_hy4_open_weights_soon/",
    "ts": 1793776990,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Question for anyone self-hosting documentation tools: how are you handling document format conversion?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xnh2h4/question_for_anyone_selfhosting_documentation/",
-   "ts": 1793773659,
    "source": "Reddit"
   },
   {
@@ -365,13 +372,6 @@
    "title": "We turned 10 years of ML papers into one page per topic: benchmark records, what got tried, what reviewers expect [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xmk8rx/we_turned_10_years_of_ml_papers_into_one_page_per/",
    "ts": 1793682558,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "A Decade of Kill Bugs – Alan Grow",
-   "url": "https://www.reddit.com/r/programming/comments/1xmgayd/a_decade_of_kill_bugs_alan_grow/",
-   "ts": 1793670897,
    "source": "Reddit"
   },
   {
