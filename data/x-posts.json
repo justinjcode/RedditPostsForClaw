@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-04T16:25:12Z",
+ "generated_at": "2026-11-04T16:34:22Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
-  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -11,7 +10,8 @@
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed"
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 178,
  "items": [
@@ -304,6 +304,15 @@
    "id": "2117741980860235930#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Shopping is the most underrated agent use case. Everyone demos coding, but the pain most people actually have every week is 12 tabs of the same fucking air fryer and \"where's my package?\" lol. Grok Bot does that part now: > finds the best deal > compares items side by side > tracks all your orders in one place Give it a spin and lmk what you want next. Grok Bot (@bot) Try the new shopping experience in Grok Bot. Find the best deal, compare items, and have Bot track all your orders. Video — https://nitter.kareem.one/bot/status/2117736249444507834#m",
+   "url": "https://nitter.kareem.one/larsencc/status/2117739360728547476#m",
+   "ts": 1793743383,
+   "id": "2117739360728547476#m"
+  },
+  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -410,15 +419,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2117679157035602065#m",
    "ts": 1793729030,
    "id": "2117679157035602065#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The dangerous incompetency or sinister intentionality of the blue in this graph led me to vote red in 2024, and today. They will let it happen again. Choose wisely 🇺🇸 ALX 🇺🇸 (@alx) Vote Republican. — https://nitter.kareem.one/alx/status/2117651355498414286#m",
-   "url": "https://nitter.kareem.one/jgebbia/status/2117672333137899961#m",
-   "ts": 1793727403,
-   "id": "2117672333137899961#m"
   },
   {
    "handle": "elonmusk",
