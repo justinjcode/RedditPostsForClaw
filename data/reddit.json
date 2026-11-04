@@ -1,15 +1,43 @@
 {
- "generated_at": "2026-11-03T22:08:25Z",
+ "generated_at": "2026-11-04T00:21:17Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
   "MachineLearning",
-  "selfhosted"
+  "programming"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "Postgres 19 REPACK: Built-In Online Table Bloat Cleanup",
+   "url": "https://www.reddit.com/r/programming/comments/1xn9jr2/postgres_19_repack_builtin_online_table_bloat/",
+   "ts": 1793750798,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "LLVM Vulkan 1.1: Drop-in compiler passes (GVN, CSE, CFG, DCE) on Vulkan compute with benchmarks & Clang integration",
+   "url": "https://www.reddit.com/r/programming/comments/1xn802v/llvm_vulkan_11_dropin_compiler_passes_gvn_cse_cfg/",
+   "ts": 1793746761,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "[llama.cpp fork]: QFN + [specific quant] + [ultra specific hardware config] = [incredible and irreproducible pp and tg]",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn7rfh/llamacpp_fork_qfn_specific_quant_ultra_specific/",
+   "ts": 1793746137,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "gemma4: graph optimizations (massive gains on pp for E2B and E4B) by max-krasnyansky · Pull Request #31356 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn6mm0/gemma4_graph_optimizations_massive_gains_on_pp/",
+   "ts": 1793743369,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
@@ -130,13 +158,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Four open coding models, prompted to finish an upload URL - analysis",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmvn4q/four_open_coding_models_prompted_to_finish_an/",
-   "ts": 1793719002,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Anyone here host Fluxer?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xmuw5w/anyone_here_host_fluxer/",
@@ -169,13 +190,6 @@
    "title": "What Qwen is thinking when it gets stuck saying \"Wait\"",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xms9ii/what_qwen_is_thinking_when_it_gets_stuck_saying/",
    "ts": 1793710685,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Is Qwen 3.8 27B still the king",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xms6eq/is_qwen_38_27b_still_the_king/",
-   "ts": 1793710437,
    "source": "Reddit"
   },
   {
@@ -393,20 +407,6 @@
    "title": "[D] Self-Promotion Thread",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xlmffv/d_selfpromotion_thread/",
    "ts": 1793589307,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Jepsen on ParticleDB: \"We tested versions 1.1.4 through 1.1.18.11.rc-22 and found that ParticleDB’s claims of “Full ACID” were somewhat premature\"",
-   "url": "https://www.reddit.com/r/programming/comments/1xl8d57/jepsen_on_particledb_we_tested_versions_114/",
-   "ts": 1793552787,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Database Indexing Isn't Magic. Understand It From Scratch",
-   "url": "https://www.reddit.com/r/programming/comments/1xl6oes/database_indexing_isnt_magic_understand_it_from/",
-   "ts": 1793548834,
    "source": "Reddit"
   },
   {
