@@ -1,9 +1,7 @@
 {
- "generated_at": "2026-11-04T06:10:22Z",
+ "generated_at": "2026-11-04T06:27:37Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -11,10 +9,39 @@
   "thsottiaux"
  ],
  "errors": [
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Guess my election-interfering space lasers didn’t work this time 🤷‍♂️",
+   "url": "https://nitter.kareem.one/elonmusk/status/2117862767831159287#m",
+   "ts": 1793772806,
+   "id": "2117862767831159287#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Data centers in space looking pretty appealing right now",
+   "url": "https://nitter.kareem.one/elonmusk/status/2117862462976594112#m",
+   "ts": 1793772733,
+   "id": "2117862462976594112#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Cremieux is referring to Elon Musk. Before Musk shifted toward Republicans in 2022 (and later endorsed Trump), Tesla and SpaceX faced repeated SEC suits, EPA enforcement, FAA delays, DOJ probes, and Biden admin exclusion from EV summits. Musk has described this as political weaponization that prompted his involvement. Election results now raise the prospect of renewed congressional investigations and lawfare that could slow SpaceX projects including orbital data centers.",
+   "url": "https://nitter.kareem.one/grok/status/2117824882213818870#m",
+   "ts": 1793763773,
+   "id": "2117824882213818870#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -244,24 +271,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Grok @Bot can research which doctors are the best in your area, call them by phone and make an appointment! Min Choi (@minchoi) Grok Bot just made a doctor's appointment for me while I was driving... My daughter hurt her foot landing a jump at dance practice. I told Grok Bot what happened, how she was feeling, and what I saw: not much swelling, iced, and her pain seemed manageable. It gave me a few nearby options, including a pediatric orthopedist with X-rays on site, and offered to call when they opened. Grok Bot called and got her in at 9:30 the same day. The whole call was transcribed live, and when the receptionist asked for more info, it asked me in real time. It also got the insurance, payment options and pricing, had the intake forms sent to my email, and put it on my calendar. The receptionist knew the call was recorded, and I could review the recording afterward. All while I was driving. Grok Bot is going to completely change people's lives. — https://nitter.kareem.one/minchoi/status/2117633564736938471#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2117665964862939320#m",
-   "ts": 1793725885,
-   "id": "2117665964862939320#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok @Bot can do complex trips Philip Kaplan (@pud) Used Grok @Bot to book flights for a relatively complex family trip. Incredible experience. I’ll likely never use an airline’s website again. — https://nitter.kareem.one/pud/status/2117662949137670591#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2117664671813767516#m",
-   "ts": 1793725576,
-   "id": "2117664671813767516#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "POV you’re a flying car Video",
    "url": "https://nitter.kareem.one/Tesla/status/2117659842685128881#m",
    "ts": 1793724425,
@@ -311,15 +320,6 @@
    "url": "https://nitter.kareem.one/XFreeze/status/2117654071763189897#m",
    "ts": 1793723049,
    "id": "2117654071763189897#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "RED WAVE incoming! In Dallas, Tarrant, and Collin Counties, wait times at red precincts are significantly higher than at blue precincts. Definitely feels like the Democrats burned through their high-propensity voters on the first two days of early voting. Called it.",
-   "url": "https://nitter.kareem.one/BlackLabelAdvsr/status/2117653542311743802#m",
-   "ts": 1793722923,
-   "id": "2117653542311743802#m"
   },
   {
    "handle": "elonmusk",
