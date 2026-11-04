@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-04T21:53:22Z",
+ "generated_at": "2026-11-04T22:06:07Z",
  "accounts_ok": [
   "TheRundownAI",
-  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
   "swyx",
@@ -11,10 +10,20 @@
  "errors": [
   "@simonw: all instances failed",
   "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "ran into theo last night at @FireworksAI_HQ forge and yea he's not kidding its both dumb and a banger 50b783df7d2c335500f1b6206d52649c69fb51931a0d616bfa2e299778588511a2ea894496cff26ba08ca8c7a81f64796f30d0efd9d914b32d3a5c639fd45125 Theo - t3.gg (@theo) About to vaguepost harder than I ever have vagueposted in my life. I'm so sorry. I promise this will make sense in a few weeks. \"Bellwether\" — https://nitter.kareem.one/theo/status/2117851450630099452#m",
+   "url": "https://nitter.kareem.one/swyx/status/2118100752732418268#m",
+   "ts": 1793829546,
+   "id": "2118100752732418268#m"
+  },
   {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
@@ -1112,15 +1121,6 @@
    "url": "https://nitter.kareem.one/jamescrabtree/status/2116867234849321041#m",
    "ts": 1793535452,
    "id": "2116867234849321041#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "hackertube.org/ url Link HackerTube The YouTube videos that Hacker News keeps telling each other to watch. hackertube.org",
-   "url": "https://nitter.kareem.one/swyx/status/2116782055665402157#m",
-   "ts": 1793515144,
-   "id": "2116782055665402157#m"
   },
   {
    "handle": "thsottiaux",
