@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-04T01:43:25Z",
+ "generated_at": "2026-11-04T01:53:15Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +10,9 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 178,
  "items": [
   {
@@ -216,7 +217,7 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "\"I don't actually have eyes on the sky.\" That's what my Grok @Bot told a Comcast rep who asked about the weather 😂 It also told the rep that a competitor was offering a much lower price and negotiated both a price decrease AND higher speed for my internet. Below's the 20-second reel of the real call. 📌 Watch the full video to see this feature in action: inv.kareem.one/F-356TczoQU (Btw, all Grok Bot users should have access to call US businesses now, just ask your bot to dial a number and give it some context upfront) Video Peter Yang (@petergyang) Grok @Bot can now call US businesses for you, and it's one of my favorite AI features ever. Here's my new video where I play a real call of my bot successfully negotiating with Comcast to cut my internet bill by almost $500 a year. Some highlights include my bot: → Responding to \"How's the weather?\" → Turning down 3 upsells from the rep → Pushing the rep with a rival's lower offer 📌 Watch now: inv.kareem.one/F-356TczoQU Link This New Grok Bot Feature Just Saved Me $500 (Seriously) 📌 Get $100 in free X subscription codes by upgrading to a paid memb... youtube.com — https://nitter.kareem.one/petergyang/status/2117638801296380159#m",
+   "text": "\"I don't actually have eyes on the sky.\" That's what my Grok @Bot told a Comcast rep who asked about the weather 😂 It also told the rep that a competitor was offering a much lower price and negotiated both a price decrease AND higher speed for my internet. Below's the 20-second reel of the real call. 📌 Watch the full video to see this feature in action: inv.kareem.one/F-356TczoQU (Btw, all Grok Bot users should have access to call US businesses now, just ask your bot to dial a number and give it some context upfront) Video Peter Yang (@petergyang) Grok @Bot can now call US businesses for you, and it's one of my favorite AI features ever. Here's my new video where I play a real call of my bot successfully negotiating with Comcast to cut my internet bill by almost $500 a year. Some highlights include my bot: → Responding to \"How's the weather?\" → Turning down 3 upsells from the rep → Pushing the rep with a rival's lower offer 📌 Watch now: inv.kareem.one/F-356TczoQU Link This New Grok Bot Feature Just Saved Me $500 a Year (Seriously) 📌 Get $100 in free X subscription codes by upgrading to a paid memb... youtube.com — https://nitter.kareem.one/petergyang/status/2117638801296380159#m",
    "url": "https://nitter.kareem.one/petergyang/status/2117671678650294437#m",
    "ts": 1793727247,
    "id": "2117671678650294437#m"
