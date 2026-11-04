@@ -1,15 +1,50 @@
 {
- "generated_at": "2026-11-04T00:21:17Z",
+ "generated_at": "2026-11-04T02:12:16Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
-  "programming"
+  "programming",
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "PSA: Immich Machine Learning has Microsoft Telemetry enabled by default, here's how to disable it",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xnbujt/psa_immich_machine_learning_has_microsoft/",
+   "ts": 1793757279,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Railway Coded Malicious Scripts?!",
+   "url": "https://www.reddit.com/r/programming/comments/1xnbig3/railway_coded_malicious_scripts/",
+   "ts": 1793756285,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Experiments with Chinchilla scaling laws (following DeepMind) [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xnbdx0/experiments_with_chinchilla_scaling_laws/",
+   "ts": 1793755910,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Link in bio for musicians e.g like band.bio",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xnb1aq/link_in_bio_for_musicians_eg_like_bandbio/",
+   "ts": 1793754912,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Finance Python Automation",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xna2ek/finance_python_automation/",
+   "ts": 1793752211,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "Postgres 19 REPACK: Built-In Online Table Bloat Cleanup",
@@ -29,6 +64,20 @@
    "title": "[llama.cpp fork]: QFN + [specific quant] + [ultra specific hardware config] = [incredible and irreproducible pp and tg]",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn7rfh/llamacpp_fork_qfn_specific_quant_ultra_specific/",
    "ts": 1793746137,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Self Hosted Sanity Check",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xn7lh2/self_hosted_sanity_check/",
+   "ts": 1793745728,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "MiBeeNVR: dynamic timelapse and thermal cameras in a self-hosted NVR that keeps your footage on your own hardware",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xn7jbb/mibeenvr_dynamic_timelapse_and_thermal_cameras_in/",
+   "ts": 1793745577,
    "source": "Reddit"
   },
   {
@@ -54,13 +103,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Update: I got email working in my homelab — the offline problem is still open",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xn47e8/update_i_got_email_working_in_my_homelab_the/",
-   "ts": 1793737721,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "Found an old desktop (i5-3340S, 4GB RAM). Usable to start self-hosting or straight to e-waste?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xn44mc/found_an_old_desktop_i53340s_4gb_ram_usable_to/",
    "ts": 1793737545,
@@ -71,13 +113,6 @@
    "title": "Tokens/s? \"World's biggest PCIe graphics card\" discovered, prototype AMD Radeon RX 470 board with four GPUs has been pictured",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn40w7/tokenss_worlds_biggest_pcie_graphics_card/",
    "ts": 1793737311,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Anyone using Tailscale or similar for remote tank/aquarium monitoring?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xn2vtk/anyone_using_tailscale_or_similar_for_remote/",
-   "ts": 1793734811,
    "source": "Reddit"
   },
   {
@@ -200,13 +235,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Secure remote control setup",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xmqldn/secure_remote_control_setup/",
-   "ts": 1793705576,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "I made a game in 3 kB… and accidentally created a programming language",
    "url": "https://www.reddit.com/r/programming/comments/1xmqimu/i_made_a_game_in_3_kb_and_accidentally_created_a/",
@@ -228,24 +256,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Anyone using Cortendesk",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xmp0v7/anyone_using_cortendesk/",
-   "ts": 1793700048,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Gefs: a filesystem for plan 9 built on Bε-trees",
    "url": "https://www.reddit.com/r/programming/comments/1xmoxah/gefs_a_filesystem_for_plan_9_built_on_bεtrees/",
    "ts": 1793699692,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "CPU parallelism lessons that carry over to GPU kernels: dependency chains, FP non-associativity, false sharing, memory-bound loops [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xmowry/cpu_parallelism_lessons_that_carry_over_to_gpu/",
-   "ts": 1793699638,
    "source": "Reddit"
   },
   {
@@ -291,24 +305,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Java Game Devlog - Enemy Object Management for my Java game.",
-   "url": "https://www.reddit.com/r/programming/comments/1xmdvnb/java_game_devlog_enemy_object_management_for_my/",
-   "ts": 1793664164,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "SurfSense: a self-hosted NotebookLM alternative",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xmbomg/surfsense_a_selfhosted_notebooklm_alternative/",
    "ts": 1793658644,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Netbird vs. Pangolin in late 2026",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xm9zmg/netbird_vs_pangolin_in_late_2026/",
-   "ts": 1793654667,
    "source": "Reddit"
   },
   {
