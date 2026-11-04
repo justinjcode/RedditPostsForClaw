@@ -1,20 +1,46 @@
 {
- "generated_at": "2026-11-04T11:34:29Z",
+ "generated_at": "2026-11-04T11:43:01Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed",
-  "@bcherny: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: therundownai.beehiiv.com/p/a… Link Apple cracks the door open to Siri AI Apple opens Siri AI to all developers after years of Apple Intelligence delays. Could third-party apps finally make the iPhone feel built for the AI era? therundownai.beehiiv.com",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2117942512249720983#m",
+   "ts": 1793791819,
+   "id": "2117942512249720983#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in AI today: - Apple lets any app plug into Siri AI - Google won’t give schools Search without AI - Turn one product photo into three studio shots - CrowdStrike’s ‘kill switch’ to stop rogue AI agents",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2117942506935505343#m",
+   "ts": 1793791817,
+   "id": "2117942506935505343#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "⚡ Behind Latent Space: from AI Substack to the first @aiDotEngineer in China 🇨🇳 inv.kareem.one/watch?v=QmDLDy3Z… This time @Ninggao88 of Linkloud turns the mic around: asking @swyx how LS started, why “AI Engineering\" needed a name, and what’s different about the builder community in China. We also get into Kill My SaaS: agents could pass the entry checks, but choosing software we’d actually use took judgment about the organizer’s workflow. That gap between generating software and making a good product runs through the conversation, from conference tools to Legora and Thinking Machines. A special one for longtime listeners, with the original essays, demos and Chinese community posts on screen. Chapters on YouTube: 0:00 AIEi Shanghai 2:31 Cold open 3:28 The conversation with Galen 8:01 Learn in Public 10:54 How Latent Space started 13:05 The idea for AI Engineer 25:10 The conference as a dataset 29:57 Kill My SaaS 39:31 What the contest judge measured 46:45 Jev and System One models 52:49 Writing and founder stories 1:02:13 Legora and product taste 1:03:29 OpenClaw adoption in China 1:07:35 Thinking Machines and interaction models 1:10:02 Reading and listening recommendations Link Behind Latent Space, ft AIEi Shanghai preview — with swyx and Galen Gao Galen Gao (https://substack.com/@linkloud1, https://x.com/Ninggao88... youtube.com",
+   "url": "https://nitter.kareem.one/latentspacepod/status/2117932116021588031#m",
+   "ts": 1793789340,
+   "id": "2117932116021588031#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1033,15 +1059,6 @@
    "id": "2116642586387730593#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "direct clip: inv.kareem.one/watch?v=MRQTlwcW… Link How Anthropic ships the #1 LLM in the World — with Katelyn Lesse and... An agent’s sandbox can die without taking the whole agent with it. ... youtube.com",
-   "url": "https://nitter.kareem.one/swyx/status/2116544052267205093#m",
-   "ts": 1793458400,
-   "id": "2116544052267205093#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -1114,15 +1131,6 @@
    "id": "2115946616238612937#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "A fascinating look inside a company at the very far end of the AI adoption spectrum. Spawn lets people build multiplayer games with AI, and it runs the business on AI, too. Spawn's 10 (human) employees spent $3.1M on AI tokens last month, with its agents shipping 77,000 changes in 30 days. The founder even built AI judges from two years of recorded calls to make decisions for him. Out of 11,000+ verdicts, he says he’s stepped in 27 times. jacob (@jsnnsa) Article How I Built the Most AI-Pilled Company in the World Spawn is ten people. We spend 30x payroll on AI tokens and ship almost as much as Anthropic. In the last 30 days, Spawn shipped 77,000 substantial changes. That's about 108 an hour, around the clock. — https://nitter.kareem.one/jsnnsa/status/2115623382721126826#m",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2115920808761864472#m",
-   "ts": 1793309807,
-   "id": "2115920808761864472#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -1130,15 +1138,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2115890336107233347#m",
    "ts": 1793302542,
    "id": "2115890336107233347#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Stripe co-founder John Collison asked OpenAI CEO Sam Altman on his Cheeky Pint podcast whether OpenAI had more than its 700 published proofs. \"We do. Of course,” Altman said. Moments later: “Humanity deserves fundamental knowledge. And we should not be sitting on a major fundamental science discovery.\" He weighed that against what mathematicians stand to lose: \"If you are a scientist, your career and a significant amount of your enjoyment and fulfillment in life comes from discovering science.\" On the mathematicians who’ve been up in arms over OpenAI’s results, Collison was blunter: \"Like, the longshoremen union weren’t happy about the port automation.\" Video",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2115873803486032121#m",
-   "ts": 1793298600,
-   "id": "2115873803486032121#m"
   },
   {
    "handle": "simonw",
