@@ -1,15 +1,57 @@
 {
- "generated_at": "2026-11-04T06:14:32Z",
+ "generated_at": "2026-11-04T08:11:22Z",
  "count": 60,
  "subreddits_ok": [
+  "LocalLLaMA",
   "MachineLearning",
-  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "If you can use only one self-hosted system, what would it be?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xnim9x/if_you_can_use_only_one_selfhosted_system_what/",
+   "ts": 1793779394,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Introducing Hy4 (open weights soon)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnhzbz/introducing_hy4_open_weights_soon/",
+   "ts": 1793776990,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Revolut sidelines Claude Code for a self-hosted Chinese model, says it pays 90% less",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnhq66/revolut_sidelines_claude_code_for_a_selfhosted/",
+   "ts": 1793776055,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Question for anyone self-hosting documentation tools: how are you handling document format conversion?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xnh2h4/question_for_anyone_selfhosting_documentation/",
+   "ts": 1793773659,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Visa Situation for NeurIPS Sydney Attendees [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xnh0uh/visa_situation_for_neurips_sydney_attendees_d/",
+   "ts": 1793773494,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "B70 Price Increase Incoming --> Intel Might Discontinue the Arc B580 to Prioritize Higher-Margin Arc Pro Cards",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnfzky/b70_price_increase_incoming_intel_might/",
+   "ts": 1793769956,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Need advice on upgrading homelab/self-hosting computer",
@@ -22,6 +64,13 @@
    "title": "Instrumental dark metal written for deep-work sessions — 12-minute preview, looking for mix and pacing feedback",
    "url": "https://www.reddit.com/r/programming/comments/1xnesoc/instrumental_dark_metal_written_for_deepwork/",
    "ts": 1793766141,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "deep-principle/Hydrogen-1.0 · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnervh/deepprinciplehydrogen10_hugging_face/",
+   "ts": 1793766070,
    "source": "Reddit"
   },
   {
@@ -43,6 +92,13 @@
    "title": "Experiments with Chinchilla scaling laws (following DeepMind) [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xnbdx0/experiments_with_chinchilla_scaling_laws/",
    "ts": 1793755910,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "AI can read neural network weights. I wasn't ready for that. [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xnb5ju/ai_can_read_neural_network_weights_i_wasnt_ready/",
+   "ts": 1793755244,
    "source": "Reddit"
   },
   {
@@ -102,6 +158,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "selfhosted",
+   "title": "Wiki.js 3.0 Release — Wiki.js",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xn628i/wikijs_30_release_wikijs/",
+   "ts": 1793742018,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "LocalLLaMA",
    "title": "British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn568h/british_fintech_revolut_slashes_ai_coding_costs/",
@@ -145,13 +208,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "DeepSeek V4.1 Flash 1017 can also do Weight-Space Programming",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn2i0n/deepseek_v41_flash_1017_can_also_do_weightspace/",
-   "ts": 1793733972,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "I tried MIT's \"weight-space programming\" on my own use case: Claude rewrote 8 neurons of Gemma 4 12B to change how it translates one Italian tense",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn1gs9/i_tried_mits_weightspace_programming_on_my_own/",
    "ts": 1793731737,
@@ -162,13 +218,6 @@
    "title": "Anybody up for discussion on improvement of inference speed of Language Models[R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xmzu1x/anybody_up_for_discussion_on_improvement_of/",
    "ts": 1793728239,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "[2611.03526] Library of Layers (LoL): Adaptively Ordering Transformer Layers at Runtime",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmzo2s/261103526_library_of_layers_lol_adaptively/",
-   "ts": 1793727881,
    "source": "Reddit"
   },
   {
@@ -236,13 +285,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "What Qwen is thinking when it gets stuck saying \"Wait\"",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xms9ii/what_qwen_is_thinking_when_it_gets_stuck_saying/",
-   "ts": 1793710685,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "RTX 5090 with 64GB and 96GB VRAM 'confirmed' by US GPU repair tech",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmqq2a/rtx_5090_with_64gb_and_96gb_vram_confirmed_by_us/",
    "ts": 1793706016,
@@ -263,13 +305,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Any valid Canva alternative?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xmp21h/any_valid_canva_alternative/",
-   "ts": 1793700160,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Gefs: a filesystem for plan 9 built on Bε-trees",
    "url": "https://www.reddit.com/r/programming/comments/1xmoxah/gefs_a_filesystem_for_plan_9_built_on_bεtrees/",
@@ -277,24 +312,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Any self-hosted Emergency/Disaster Prep apps?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xmnxcr/any_selfhosted_emergencydisaster_prep_apps/",
-   "ts": 1793695951,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "We turned 10 years of ML papers into one page per topic: benchmark records, what got tried, what reviewers expect [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xmk8rx/we_turned_10_years_of_ml_papers_into_one_page_per/",
    "ts": 1793682558,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Alibaba's Qwen Code repo just leaked qwen4-max, qwen4-coder-plus, and qwen4-omni-120b",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmitzx/alibabas_qwen_code_repo_just_leaked_qwen4max/",
-   "ts": 1793678143,
    "source": "Reddit"
   },
   {
@@ -319,24 +340,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "SurfSense: a self-hosted NotebookLM alternative",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xmbomg/surfsense_a_selfhosted_notebooklm_alternative/",
-   "ts": 1793658644,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "ICLR 2027 review results [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xm8vik/iclr_2027_review_results_d/",
    "ts": 1793652095,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "LightMIS: Ultra-lightweight medical image segmentation for edge devices [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xm8dbo/lightmis_ultralightweight_medical_image/",
-   "ts": 1793650950,
    "source": "Reddit"
   },
   {
@@ -393,13 +400,6 @@
    "title": "CheerpJ 5.0: Java 21/25 in the browser, full OpenJDK, and a new WasmGC engine",
    "url": "https://www.reddit.com/r/programming/comments/1xlutld/cheerpj_50_java_2125_in_the_browser_full_openjdk/",
    "ts": 1793619286,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "ML PhDs: Would you rather have done your PhD before or after the rise of AI chatbots? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xlt9wm/ml_phds_would_you_rather_have_done_your_phd/",
-   "ts": 1793613865,
    "source": "Reddit"
   },
   {
