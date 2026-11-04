@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T17:14:05Z",
+ "generated_at": "2026-11-04T17:24:05Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "what Bertrand Russell once described as an \"unbearable pity for the suffering of mankind.\"",
+   "url": "https://nitter.kareem.one/ZichenWanghere/status/2118029981477703979#m",
+   "ts": 1793812673,
+   "id": "2118029981477703979#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -630,7 +639,7 @@
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
-   "text": "NEW: An MIT CSAIL team found GPT-6 Astra can improve some AI models by rewriting their weights itself, with one edit taking the math score of a small Qwen model to 48.1% from 7.9%. Rikiya Takehi (@rikiyatakehi) We asked GPT-6 Astra to edit Qwen3.5-0.8B weights to improve math. It directly changed only 0.016% of weights, fixing 0.8B's reasoning loops & improving math up to 6x and even instruction following 3x, without gradients or training. We call this Weight-Space Programming: frontier LLMs can now natively read/write neural network weights! 🧵 Blog: rikiyat.github.io/blog/weigh… — https://nitter.kareem.one/rikiyatakehi/status/2117313742891327994#m",
+   "text": "NEW: An MIT CSAIL team found GPT-6 Astra can improve some AI models by rewriting their weights itself, with one edit taking the math score of a small Qwen model to 48.1% from 7.9%. Rikiya Takehi (@rikiyatakehi) We asked GPT-6 Astra to edit Qwen3.5-0.8B weights to improve math. It directly changed only 0.016% of weights, fixing 0.8B's reasoning loops & improving math up to 6x and even instruction following 3x, without gradients or training. We call this Weight-Space Programming: frontier LLMs can now natively read/write neural network weights! 🧵 Blog: rikiyat.github.io/blog/weigh… Community note: LLM was given weights explicitly as text in prompt and used code/forward passes (per authors' logs) to ablate Qwen looping direction, a known thinking-mode issue per model card. Primarily fixed repetition in that mode, not general 'natively' improving weights/math. rikiyat.github.io/blog/weight-sp… github.com/RikiyaT/lm_und… huggingface.co/Qwen/Qwen3.5-0… huggingface.co/RikiyaT/Qwen3.… — https://nitter.kareem.one/rikiyatakehi/status/2117313742891327994#m",
    "url": "https://nitter.kareem.one/TheRundownAI/status/2117350447275282677#m",
    "ts": 1793650659,
    "id": "2117350447275282677#m"
@@ -1102,15 +1111,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2116642586387730593#m",
    "ts": 1793481892,
    "id": "2116642586387730593#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "India saw about 496 million people lifted out of poverty between 2011 and 2023 in one of the world’s fastest declines in this metric, the World Bank said, although the gains remain uneven. bloomberg.com/news/articles/… Link India Saw 496 Million Escape Poverty Since 2011, World Bank Says India saw about 496 million people lifted out of poverty between 2011 and 2023 in one of the world’s fastest declines in this metric, the World Bank said, although the gains remain uneven. bloomberg.com",
-   "url": "https://nitter.kareem.one/business/status/2116430002644279561#m",
-   "ts": 1793431208,
-   "id": "2116430002644279561#m"
   },
   {
    "handle": "thsottiaux",
