@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T15:53:18Z",
+ "generated_at": "2026-11-04T16:07:25Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -15,6 +15,15 @@
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "RESULTS: Data center opponents have won 38 of the 39 local ballot measures fully counted from Tuesday, in unofficial results. The one exception: Harwood, North Dakota. They’re also ahead in all 6 with partial counts, with one Maine town still yet to report.",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2118011880392548674#m",
+   "ts": 1793808357,
+   "id": "2118011880392548674#m"
+  },
   {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
@@ -1148,15 +1157,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2116115471137198534#m",
    "ts": 1793356218,
    "id": "2116115471137198534#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "The remake we never knew we needed Polymarket (@Polymarket) JUST IN: Boston Celtics head coach Joe Mazzulla reveals he's been using Anthropic's Claude to help coach the team. — https://nitter.kareem.one/Polymarket/status/2115923127503036538#m",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2115946616238612937#m",
-   "ts": 1793315960,
-   "id": "2115946616238612937#m"
   },
   {
    "handle": "thsottiaux",
