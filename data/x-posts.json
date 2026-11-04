@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-11-04T14:43:14Z",
+ "generated_at": "2026-11-04T14:53:30Z",
  "accounts_ok": [
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,28 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Image",
+   "url": "https://nitter.kareem.one/elonmusk/status/2117989734492537245#m",
+   "ts": 1793803077,
+   "id": "2117989734492537245#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Qualcomm’s technology is excellent Cristiano R. Amon (@cristianoamon) SpaceX selected Qualcomm Dragonwing to accelerate @Starlink Mobile’s nationwide terrestrial 5G network. Together with @elonmusk and the @SpaceX team, we’re excited to build world-leading cellular infrastructure and a path to AI-native 6G. 🤜🤛 — https://nitter.kareem.one/cristianoamon/status/2117973038516117906#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2117989292144525474#m",
+   "ts": 1793802972,
+   "id": "2117989292144525474#m"
+  },
   {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
@@ -140,6 +158,15 @@
    "url": "https://nitter.kareem.one/vadiamit/status/2117769196469690765#m",
    "ts": 1793750497,
    "id": "2117769196469690765#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "I literally just had my Grok @bot make a phone call. I texted my CEO and told her to order a pizza for pickup at 5 PM, under Teslaconomics. She wrote out what she planned to say, showed it to me, and got my approval. She only dialed after I tapped “Call”. Her opening line: “I’m a virtual assistant calling for Teslaconomics on a recorded line.” I liked that. She introduced herself as my assistant, used the name I gave her, and never said my real name or phone number. I picked up the other phone and she went through w/ my request… One large pepperoni, pickup today at 5 PM, paying at pickup, no drinks. She even asked if there was a freakin deal... I made her say “Tesla to the moon” to get the 50% off, bringing the total to $7.42. When she hung up, the recap landed right back in my chat. Everything was there for me to check. Super dope feature. Video Video",
+   "url": "https://nitter.kareem.one/Teslaconomics/status/2117752005037064529#m",
+   "ts": 1793746398,
+   "id": "2117752005037064529#m"
   },
   {
    "handle": "thsottiaux",
@@ -349,15 +376,6 @@
    "id": "2117671678650294437#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "They said Elon would destroy it. Today X is the #1 news app in 167 countries. And on Election Day, you can see it live: results, breaking updates, real people reporting from the ground, all happening right here, in real time. Not bought. Not forced. Organic. Real. Alive. Hundreds of millions of views every single day. Breaking news doesn't happen on TV anymore. It happens on X, first. They doubted. X delivered.",
-   "url": "https://nitter.kareem.one/TheCaptainEli/status/2117659675709849612#m",
-   "ts": 1793724385,
-   "id": "2117659675709849612#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -383,24 +401,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2117655816581071203#m",
    "ts": 1793723465,
    "id": "2117655816581071203#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "United Airlines just reached a major milestone: Starlink Wi-Fi is now available on 50% of its DAILY flights United's official live tracker now shows: • 674 aircraft equipped with Starlink • 352 regional aircraft • 315 narrowbody aircraft • 7 widebody aircraft • 50% of daily flights now have Starlink And the rollout is accelerating United is targeting 61% of daily flights by the end of 2026, with its entire fleet expected to be equipped by the end of 2027 Starlink is transforming in-flight connectivity, and millions more passengers are getting access to high-speed internet in the sky",
-   "url": "https://nitter.kareem.one/XFreeze/status/2117654071763189897#m",
-   "ts": 1793723049,
-   "id": "2117654071763189897#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I’m gay. I voted straight Republican today. The party that secured the border and lets me live openly beats the one that puts me on a flag then opens the door to cultures that would kill me.",
-   "url": "https://nitter.kareem.one/AlexToughTakes/status/2117651768788259139#m",
-   "ts": 1793722500,
-   "id": "2117651768788259139#m"
   },
   {
    "handle": "TheRundownAI",
