@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-11-04T13:53:40Z",
+ "generated_at": "2026-11-04T14:07:36Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -9,12 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Dow futures up 1000 points",
+   "url": "https://nitter.kareem.one/AaronBack/status/2117975680038408418#m",
+   "ts": 1793799726,
+   "id": "2117975680038408418#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -1481,15 +1489,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2112944161670488423#m",
    "ts": 1792600119,
    "id": "2112944161670488423#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "采访吴国光老师 @guoguang_wu 的中文版👇欢迎阅读 华尔街日报中文网 (@ChineseWSJ) 本报首席中国记者魏玲灵在本期中国洞察中写道，黄奇帆素有“不倒翁”之称，他在十多年的派系斗争中屹立不倒，哪怕当年他和倒台的重庆原市委书记薄熙来关系密切。有政治学者认为，黄奇帆的影响力横跨中国几代政治精英，拿下黄奇帆，是为了切断几大关系网的联系。 cn.wsj.com/articles/WP-WSJS-… Link 中国政坛“不倒翁”黄奇帆落马，折射了习近平治下的何种问题？ 有政治学者认为，黄奇帆的影响力横跨中国几代政治精英，拿下黄奇帆，是为了切断几大关系网的联系。 cn.wsj.com — https://nitter.kareem.one/ChineseWSJ/status/2112876796894908428#m",
-   "url": "https://nitter.kareem.one/Lingling_Wei/status/2112897150309073134#m",
-   "ts": 1792588911,
-   "id": "2112897150309073134#m"
   },
   {
    "handle": "simonw",
