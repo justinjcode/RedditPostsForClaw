@@ -1,15 +1,85 @@
 {
- "generated_at": "2026-11-04T14:10:17Z",
+ "generated_at": "2026-11-04T16:09:31Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "MachineLearning",
+   "title": "ICLR grading change [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xns0uq/iclr_grading_change_d/",
+   "ts": 1793808278,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Should You Learn Java in 2026?",
+   "url": "https://www.reddit.com/r/programming/comments/1xnrx61/should_you_learn_java_in_2026/",
+   "ts": 1793808051,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Im on a mission to create the best self hosted reading client alternative to Kindle and Apple Books",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xnrt3j/im_on_a_mission_to_create_the_best_self_hosted/",
+   "ts": 1793807787,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Looking to join research group / lab [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xnr05k/looking_to_join_research_group_lab_r/",
+   "ts": 1793805884,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Git, From the Inside (interactive explainer)",
+   "url": "https://www.reddit.com/r/programming/comments/1xnqotw/git_from_the_inside_interactive_explainer/",
+   "ts": 1793805148,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Shlemiel the Painter Is Back: How Zig’s libc Rewrite Made SQLite 12,000× Slower",
+   "url": "https://www.reddit.com/r/programming/comments/1xnq1xx/shlemiel_the_painter_is_back_how_zigs_libc/",
+   "ts": 1793803618,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Why I'm building an automated laptop to server installer: the \"non-technical friend\" problem",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xnq0rv/why_im_building_an_automated_laptop_to_server/",
+   "ts": 1793803543,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Jumped into the rabbit hole with both feet a few weeks ago - thoroughly enjoying myself!",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xnpwnx/jumped_into_the_rabbit_hole_with_both_feet_a_few/",
+   "ts": 1793803252,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "TexLite – A lightweight self-hosted Overleaf alternative with built-in coding agent support",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xnpqss/texlite_a_lightweight_selfhosted_overleaf/",
+   "ts": 1793802847,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Advice needed: Running a bootstrap yt-dlp web service without proxy funds. Tips to prevent IP blocks/throttling?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xnp7cm/advice_needed_running_a_bootstrap_ytdlp_web/",
+   "ts": 1793801499,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "I removed 85% of gemma's weights (and it is mostly fine)",
@@ -36,6 +106,13 @@
    "title": "TinyWebUI - Lightweight Open WebUI alternative, just npx and go",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnmre2/tinywebui_lightweight_open_webui_alternative_just/",
    "ts": 1793794705,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "DuckDB.NET 1.5.6.1: Appending Dates Up to 27× Faster",
+   "url": "https://www.reddit.com/r/programming/comments/1xnmntq/duckdbnet_1561_appending_dates_up_to_27_faster/",
+   "ts": 1793794392,
    "source": "Reddit"
   },
   {
@@ -165,20 +242,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "AI can read neural network weights. I wasn't ready for that. [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xnb5ju/ai_can_read_neural_network_weights_i_wasnt_ready/",
-   "ts": 1793755244,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Link in bio for musicians e.g like band.bio",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xnb1aq/link_in_bio_for_musicians_eg_like_bandbio/",
-   "ts": 1793754912,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Postgres 19 REPACK: Built-In Online Table Bloat Cleanup",
    "url": "https://www.reddit.com/r/programming/comments/1xn9jr2/postgres_19_repack_builtin_online_table_bloat/",
@@ -190,20 +253,6 @@
    "title": "[llama.cpp fork]: QFN + [specific quant] + [ultra specific hardware config] = [incredible and irreproducible pp and tg]",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn7rfh/llamacpp_fork_qfn_specific_quant_ultra_specific/",
    "ts": 1793746137,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Self Hosted Sanity Check",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xn7lh2/self_hosted_sanity_check/",
-   "ts": 1793745728,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "MiBeeNVR: dynamic timelapse and thermal cameras in a self-hosted NVR that keeps your footage on your own hardware",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xn7jbb/mibeenvr_dynamic_timelapse_and_thermal_cameras_in/",
-   "ts": 1793745577,
    "source": "Reddit"
   },
   {
@@ -277,20 +326,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Designed Once, Usable Everywhere: why PHP 8.6 adds SortDirection and Time\\Duration to the standard library",
-   "url": "https://www.reddit.com/r/programming/comments/1xmwmej/designed_once_usable_everywhere_why_php_86_adds/",
-   "ts": 1793721207,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Anyone here host Fluxer?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xmuw5w/anyone_here_host_fluxer/",
-   "ts": 1793717284,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Moving away from iCloud, step 1: Apple Passwords to Vaultwarden",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xmtjt3/moving_away_from_icloud_step_1_apple_passwords_to/",
@@ -298,24 +333,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Feedback on my personal anti-censorship VPN setup",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xmt31w/feedback_on_my_personal_anticensorship_vpn_setup/",
-   "ts": 1793712921,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "I made a game in 3 kB… and accidentally created a programming language",
    "url": "https://www.reddit.com/r/programming/comments/1xmqimu/i_made_a_game_in_3_kb_and_accidentally_created_a/",
    "ts": 1793705332,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Paper review question [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xmq17q/paper_review_question_d/",
-   "ts": 1793703666,
    "source": "Reddit"
   },
   {
@@ -379,27 +400,6 @@
    "title": "To all ML PhDs, how are you guys doing these days? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xm5w5i/to_all_ml_phds_how_are_you_guys_doing_these_days_d/",
    "ts": 1793645537,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Scheme+ language : 100% Scheme compatible, infix support and now with type annotation and inference for performance.",
-   "url": "https://www.reddit.com/r/programming/comments/1xlxgqs/scheme_language_100_scheme_compatible_infix/",
-   "ts": 1793626846,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "The Benchmarking Crisis",
-   "url": "https://www.reddit.com/r/programming/comments/1xlwstd/the_benchmarking_crisis/",
-   "ts": 1793625136,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "CheerpJ 5.0: Java 21/25 in the browser, full OpenJDK, and a new WasmGC engine",
-   "url": "https://www.reddit.com/r/programming/comments/1xlutld/cheerpj_50_java_2125_in_the_browser_full_openjdk/",
-   "ts": 1793619286,
    "source": "Reddit"
   },
   {
