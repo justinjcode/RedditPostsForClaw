@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-04T20:53:24Z",
+ "generated_at": "2026-11-04T21:05:21Z",
  "accounts_ok": [
-  "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "做了个梦，刚醒的时候还能想起来，结果醒了十分钟就想不起来了",
+   "url": "https://nitter.kareem.one/ZichenWanghere/status/2118086262104228162#m",
+   "ts": 1793826091,
+   "id": "2118086262104228162#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -41,6 +50,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2118066424996651505#m",
    "ts": 1793821362,
    "id": "2118066424996651505#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Bot has this bias for action that makes it feel like the most fearless coworker you’ve ever worked with. So much work is needless friction, bot finds the path of least resistance and grinds through tasks until they’re complete. Feels like a new era of productivity. Grok Bot (@bot) Grok Bot can now make phone calls. Video — https://nitter.kareem.one/bot/status/2118043939592942052#m",
+   "url": "https://nitter.kareem.one/Baconbrix/status/2118064051771310169#m",
+   "ts": 1793820796,
+   "id": "2118064051771310169#m"
   },
   {
    "handle": "TheRundownAI",
@@ -257,15 +275,6 @@
    "url": "https://nitter.kareem.one/latentspacepod/status/2117932116021588031#m",
    "ts": 1793789340,
    "id": "2117932116021588031#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Interesting America First Graphs (@AF_Graphs) Exit polls are showing the GOPs perceived strict immigration enforcement was one of their few winning issues. The Iran war was a massive losing issue. — https://nitter.kareem.one/AF_Graphs/status/2117815414709497895#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2117896640929603800#m",
-   "ts": 1793780882,
-   "id": "2117896640929603800#m"
   },
   {
    "handle": "thsottiaux",
@@ -1040,15 +1049,6 @@
    "url": "https://nitter.kareem.one/king1818888/status/2117151221022597194#m",
    "ts": 1793603160,
    "id": "2117151221022597194#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "A cat desperately struggles to keep from falling. Thank you to the kind grandpa who came to help. 😭🧡 Video",
-   "url": "https://nitter.kareem.one/NoCatsNoLife_m/status/2117110846115467287#m",
-   "ts": 1793593534,
-   "id": "2117110846115467287#m"
   },
   {
    "handle": "Lingling_Wei",
