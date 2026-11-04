@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-04T11:25:41Z",
+ "generated_at": "2026-11-04T11:34:29Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@swyx: all instances failed",
+  "@bcherny: all instances failed"
  ],
  "count": 178,
  "items": [
