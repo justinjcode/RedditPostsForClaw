@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-05T01:07:48Z",
+ "generated_at": "2026-11-05T01:17:49Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
-  "bcherny",
+  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -11,10 +10,29 @@
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed"
+  "@bcherny: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Reach out to @clintgibler if you want to work on securing the world.",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2118146834325733453#m",
+   "ts": 1793840533,
+   "id": "2118146834325733453#m"
+  },
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. OpenAI (@OpenAI) Our security researchers built an autonomous cyber vulnerability discovery, exploitation, and patching pipeline. In a single run with an upcoming cyber model, it validated and generated patches for 948 local privilege escalation vulnerabilities in the Linux kernel at a total API cost of $1.2 million. — https://nitter.kareem.one/OpenAI/status/2118119451401048497#m",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2118146794362405231#m",
+   "ts": 1793840523,
+   "id": "2118146794362405231#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -1231,15 +1249,6 @@
    "id": "2115851621137784832#m"
   },
   {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Day 25/ We are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today. We heard your kind feedback and won’t be reducing usage limits for Pro 200, so your Work and Codex usage will stay the same. We’re also going to continue offering extended limits for dots for now, and usage of your dot will still continue to be separate from your default usage. And we'll of course also keep shipping better models and other efficiency improvements that increase your effective usage over time.",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2115850175868727621#m",
-   "ts": 1793292967,
-   "id": "2115850175868727621#m"
-  },
-  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -1274,15 +1283,6 @@
    "url": "https://nitter.kareem.one/levelsio/status/2115805396753383750#m",
    "ts": 1793282291,
    "id": "2115805396753383750#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Day 24/ Text your dot just like anyone else. Makes it super easy to share/forward things, leave it voice notes or you can even go creative with \"Hey Siri, text Iggy to <INSERT WILD REQUEST>\" and sit back and relax. ChatGPT (@ChatGPT) By popular request, you can now text your dot. Give it a task to take off your plate or something to keep an eye on, using text, photos, or even voice notes. It will text you proactively with relevant updates. Safe, secure texting via iMessage or RCS. You’re the only one who can text your dot, and your dot can only text you. Rolling out now as a preview for Pro users in the US. Video — https://nitter.kareem.one/ChatGPT/status/2115496387613786374#m",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2115622002581188681#m",
-   "ts": 1793238566,
-   "id": "2115622002581188681#m"
   },
   {
    "handle": "Lingling_Wei",
