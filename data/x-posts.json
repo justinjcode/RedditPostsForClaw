@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-05T02:09:08Z",
+ "generated_at": "2026-11-05T02:22:41Z",
  "accounts_ok": [
   "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
+  "@simonw: all instances failed",
   "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
@@ -19,7 +19,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "i'm still processing. what an insane run. $0 to $100B ARR in 2.5 years. Latent.Space: AI News & Views (@latentspacepod) hey @TBPN you dropped this but we gotchu — https://nitter.kareem.one/latentspacepod/status/2118151813555945505#m",
+   "text": "i'm still processing. what an insane run. $0 to $100B ARR in 2.5 years. Latent.Space (@latentspacepod) hey @TBPN you dropped this but we gotchu — https://nitter.kareem.one/latentspacepod/status/2118151813555945505#m",
    "url": "https://nitter.kareem.one/swyx/status/2118152585911869634#m",
    "ts": 1793841904,
    "id": "2118152585911869634#m"
@@ -478,7 +478,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "had fun talking through our open infra software factory stack with @swyx . looking forward to giving a keynote at AIE Code in SF next week Latent.Space: AI News & Views (@latentspacepod) ⚡ Inside the 2026 SOTA of Software Factories with @zachlloydtweets of @warpdotdev ! Warp's open source cloud factory approach has been resonating bigly this year, leading to multiple top @aiDotEngineer talks and an invitation to keynote this year's AIE CODE. Zach talks through the philosophy, demos Warp’s live system, and reports that tuning models and reducing redundant subagents can lower costs from ~$80 to ~$15–20 per PR and raise throughput 40% over the prior month, while keeping quality! Full episode below: from a Slack request to a PR, then into the work of measuring and improving software factories. 0:00 Software factories at Warp 0:53 AIE CODE in San Francisco 1:31 Zach Lloyd and software factories 4:30 Define the factory in code 7:34 Follow a Slack request to a PR 8:41 Measure cost, throughput and quality 14:32 Agents improving the factory 16:10 Benchmark your own tasks 23:59 From $80 to $15–20 per PR 27:03 Who needs software factories? 33:23 Product engineers and factory engineers See Zach at @aiDotEngineer CODE, Nov 10–12 in San Francisco: ai.engineer/code Video — https://nitter.kareem.one/latentspacepod/status/2117721636195663898#m",
+   "text": "had fun talking through our open infra software factory stack with @swyx . looking forward to giving a keynote at AIE Code in SF next week Latent.Space (@latentspacepod) ⚡ Inside the 2026 SOTA of Software Factories with @zachlloydtweets of @warpdotdev ! Warp's open source cloud factory approach has been resonating bigly this year, leading to multiple top @aiDotEngineer talks and an invitation to keynote this year's AIE CODE. Zach talks through the philosophy, demos Warp’s live system, and reports that tuning models and reducing redundant subagents can lower costs from ~$80 to ~$15–20 per PR and raise throughput 40% over the prior month, while keeping quality! Full episode below: from a Slack request to a PR, then into the work of measuring and improving software factories. 0:00 Software factories at Warp 0:53 AIE CODE in San Francisco 1:31 Zach Lloyd and software factories 4:30 Define the factory in code 7:34 Follow a Slack request to a PR 8:41 Measure cost, throughput and quality 14:32 Agents improving the factory 16:10 Benchmark your own tasks 23:59 From $80 to $15–20 per PR 27:03 Who needs software factories? 33:23 Product engineers and factory engineers See Zach at @aiDotEngineer CODE, Nov 10–12 in San Francisco: ai.engineer/code Video — https://nitter.kareem.one/latentspacepod/status/2117721636195663898#m",
    "url": "https://nitter.kareem.one/zachlloydtweets/status/2117729371288903752#m",
    "ts": 1793741002,
    "id": "2117729371288903752#m"
@@ -955,7 +955,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "lmaoooo Latent.Space: AI News & Views (@latentspacepod) Recursive Language Models: Claude Code, Agent Swarms, Big Research Bets, & the $40M AI Problem Solver latent.space/p/rlm MIT’s @a1zhang explains why Claude Code, Codex, and Pi are basically the same, how RLMs use code, context offloading, and recursive subagents to generalize across tasks, why one expert can sometimes replace a trillion-token brute-force search, what OpenAI’s 10,000-agent, 130B-output-token experiment reveals about the future of language models, and why academia’s biggest advantage is the freedom to take weird, ambitious research bets. Video — https://nitter.kareem.one/latentspacepod/status/2105818177674654099#m",
+   "text": "lmaoooo Latent.Space (@latentspacepod) Recursive Language Models: Claude Code, Agent Swarms, Big Research Bets, & the $40M AI Problem Solver latent.space/p/rlm MIT’s @a1zhang explains why Claude Code, Codex, and Pi are basically the same, how RLMs use code, context offloading, and recursive subagents to generalize across tasks, why one expert can sometimes replace a trillion-token brute-force search, what OpenAI’s 10,000-agent, 130B-output-token experiment reveals about the future of language models, and why academia’s biggest advantage is the freedom to take weird, ambitious research bets. Video — https://nitter.kareem.one/latentspacepod/status/2105818177674654099#m",
    "url": "https://nitter.kareem.one/swyx/status/2117341332645826945#m",
    "ts": 1793648486,
    "id": "2117341332645826945#m"
