@@ -1,19 +1,29 @@
 {
- "generated_at": "2026-11-05T05:34:31Z",
+ "generated_at": "2026-11-05T05:43:36Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@bcherny: all instances failed"
+ ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Try Grok @Bot ! Shubham Saboo (@Saboo_Shubham_) I have moved everything from OpenClaw, Hermes and Muse to just Grok Bot now. Muse had a moment for a while. But Grok @bot is coming out as a clear winner for personal agents (UI/UX/features - everything on point). And the most impressive thing the speed of shipping to keep grok bot relevant. Amazing work @poteto , @mattyp and team! Video — https://nitter.kareem.one/Saboo_Shubham_/status/2118055599036588312#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2118214299391057973#m",
+   "ts": 1793856618,
+   "id": "2118214299391057973#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -274,15 +284,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2117989734492537245#m",
    "ts": 1793803077,
    "id": "2117989734492537245#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Qualcomm’s technology is excellent Cristiano R. Amon (@cristianoamon) SpaceX selected Qualcomm Dragonwing to accelerate @Starlink Mobile’s nationwide terrestrial 5G network. Together with @elonmusk and the @SpaceX team, we’re excited to build world-leading cellular infrastructure and a path to AI-native 6G. 🤜🤛 — https://nitter.kareem.one/cristianoamon/status/2117973038516117906#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2117989292144525474#m",
-   "ts": 1793802972,
-   "id": "2117989292144525474#m"
   },
   {
    "handle": "elonmusk",
