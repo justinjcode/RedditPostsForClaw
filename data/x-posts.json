@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T17:34:26Z",
+ "generated_at": "2026-11-05T17:42:45Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "NEW: OpenAI released GPT-6 Cyber, an AI built for hunting and exploiting software flaws, and only approved security teams can use it. It shares GPT-6 Astra’s \"Critical\" hacking-risk rating, the top level on OpenAI’s safety scale, but OpenAI says it beats Astra on most hacking tests. OpenAI says it found 81 serious new bugs in Firefox, a browser earlier AI models had already combed through. Video",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2118395629466513761#m",
+   "ts": 1793899850,
+   "id": "2118395629466513761#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1158,15 +1167,6 @@
    "id": "2117260304522395653#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: therundownai.beehiiv.com/p/a… Link AI backlash heads to the polls AI backlash is heading to the polls as voters push back against data centers in their backyards. Here's how the fight over AI's buildout is shaping the midterms. therundownai.beehiiv.com",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2117217864562114973#m",
-   "ts": 1793619049,
-   "id": "2117217864562114973#m"
-  },
-  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -1329,9 +1329,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
