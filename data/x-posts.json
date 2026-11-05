@@ -1,17 +1,18 @@
 {
- "generated_at": "2026-11-05T17:42:45Z",
+ "generated_at": "2026-11-05T17:53:38Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
-  "thsottiaux"
+  "swyx"
  ],
- "errors": [],
+ "errors": [
+  "@thsottiaux: all instances failed",
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 178,
  "items": [
   {
@@ -132,6 +133,15 @@
    "id": "2118363397775561023#m"
   },
   {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "So here it is — @ryolu_ 's talk at @aiDotEngineer 2026 Shanghai. I shot it handheld on a Xiaomi 15 Ultra, so there's some shake; I fixed as much of it as I could in CapCut. Handheld footage just isn't going to be sharp or steady. Still, it's the best talk I saw on day 1 of AIE — which is why I'm not posting a text summary. Watch for yourself. I missed the first minute or so. Ryo opens with the excitement of what AI makes possible, and how seeing what others are building can quickly turn that excitement into anxiety about falling behind. Video",
+   "url": "https://nitter.kareem.one/ZinkLu2/status/2118357855782965560#m",
+   "ts": 1793890844,
+   "id": "2118357855782965560#m"
+  },
+  {
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
@@ -144,10 +154,28 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
+   "text": "manus firsthand club01 期 和朋友们的久违聚会，披萨啤酒闲聊，看 AI host 翻车 o(^▽^)o （迟到了最好吃的披萨）",
+   "url": "https://nitter.kareem.one/ameliax111/status/2118338475271528762#m",
+   "ts": 1793886223,
+   "id": "2118338475271528762#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
    "text": "For a long time I’ve talked about Agent Experience. Many think AX is the new DX, but that misses the bigger picture. We’re moving to an agent-first world, where agents are the primary users of all software. AX isn’t just the new DX. It’s the new UX. innovationendeavors.com/insi… Link AX is not the new DX, it’s the new UX Over the past year, I've watched infrastructure start the transition from Developer Experience to Agent Experience. It meant strong tailwinds for infrastructure... innovationendeavors.com",
    "url": "https://nitter.kareem.one/auchenberg/status/2118330248135582163#m",
    "ts": 1793884262,
    "id": "2118330248135582163#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "@swyx you must wonder how you looked like in front of hull house of AI engineers in China! Great opening from Mengying @StandupPartners , golden words from @ryolu_ and such an amazing gaming demos from @MinakoOikawa Day 1 @aiDotEngineer",
+   "url": "https://nitter.kareem.one/Ninggao88/status/2118320016366133433#m",
+   "ts": 1793881823,
+   "id": "2118320016366133433#m"
   },
   {
    "handle": "TheRundownAI",
@@ -202,6 +230,24 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2118280765679284645#m",
    "ts": 1793872464,
    "id": "2118280765679284645#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "在 aie 上演“解救”大斌行动，哈哈哈[破涕为笑]",
+   "url": "https://nitter.kareem.one/ameliax111/status/2118265218283589925#m",
+   "ts": 1793868758,
+   "id": "2118265218283589925#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "AIE Shanghai is amazing",
+   "url": "https://nitter.kareem.one/Xianbao_QIAN/status/2118256882578075723#m",
+   "ts": 1793866770,
+   "id": "2118256882578075723#m"
   },
   {
    "handle": "elonmusk",
@@ -261,6 +307,15 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
+   "text": "I’m humbled by my product and my team 🫶. Major keynote and 100% built on @openclaw with voice notes on a train from Hangzhou to Shanghai. Never touched Google Drive. Claw had full access to my X, past talks etc. Even the self roasting pablo meme it generated i never asked 👌",
+   "url": "https://nitter.kareem.one/vincent_koc/status/2118248452568285608#m",
+   "ts": 1793864760,
+   "id": "2118248452568285608#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
    "text": "absolutely tearing up seeing AIE Shanghai kick off and SUCH INCREDIBLE EXECUTION from @StandupPartners . the first AIE in China is actually happening!!! and its a packed room and a hot schedule featuring @ryolu_ , @Microsoft , @MiniMax_AI , @theworldlabs , @HeyGen , @ExaAILabs , @openclaw , @StepFun_ai , @liquidai , @youdotcom , @DynaRobotics , @baseten , @Meta , @OptiverGlobal , @ManusAI and more. not livestreamed because Reasons but you can bet we'll be posting up some videos and takes SophiaXHu (@SophiaXH25) Look at this turnout at @aiDotEngineer Shanghai Day 1! Featuring the one the only @ryolu_ 當我們什麼都能做，還知道自己想做什麼嗎？🥹 好真誠的分享 Video — https://nitter.kareem.one/SophiaXH25/status/2118189766047109629#m",
    "url": "https://nitter.kareem.one/swyx/status/2118246851136909731#m",
    "ts": 1793864379,
@@ -270,10 +325,28 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
+   "text": "I went to Shanghai to attend AI Engineer Shanghai 2026 hosted by @swyx , I really like @ryolu_ ‘s talk about what he thought and care about in the age of AI. Some of the words he said really resonated with me, ”when AI can almost do anything for us, do we still know want we to do?” Many of his principles are similar to what I feel about life and research, where everything comes down to simplicity and freedom. Although I don’t know anything about real design, the spirit is the same, whether it is to write a math proof, design a research experiments to get to a conclusion or designing a system( @GenAI_is_real probably have much to say about that). Those who still have standard for quality and beauty rather than chasing the AI speed and AI quantify (that most people are chasing) is our last fort that distinguishes us with AI.",
+   "url": "https://nitter.kareem.one/SuJinyan6/status/2118246809957277730#m",
+   "ts": 1793864369,
+   "id": "2118246809957277730#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
    "text": "AIE Shanghai @swyx is happening now, Nov 5-6! Spicy take: AIE >>> OpenAI Dev Day for me, cuz it has the best and most fun AI builder community. Make sure to check out @ryolu_ ’s talk. His keynote at Cursor Compile was my all-time favorite! Latent.Space (@latentspacepod) ⚡ Behind Latent Space: from AI Substack to the first @aiDotEngineer in China 🇨🇳 inv.kareem.one/watch?v=QmDLDy3Z… This time @Ninggao88 of Linkloud turns the mic around: asking @swyx how LS started, why “AI Engineering\" needed a name, and what’s different about the builder community in China. We also get into Kill My SaaS: agents could pass the entry checks, but choosing software we’d actually use took judgment about the organizer’s workflow. That gap between generating software and making a good product runs through the conversation, from conference tools to Legora and Thinking Machines. A special one for longtime listeners, with the original essays, demos and Chinese community posts on screen. Chapters on YouTube: 0:00 AIEi Shanghai 2:31 Cold open 3:28 The conversation with Galen 8:01 Learn in Public 10:54 How Latent Space started 13:05 The idea for AI Engineer 25:10 The conference as a dataset 29:57 Kill My SaaS 39:31 What the contest judge measured 46:45 Jev and System One models 52:49 Writing and founder stories 1:02:13 Legora and product taste 1:03:29 OpenClaw adoption in China 1:07:35 Thinking Machines and interaction models 1:10:02 Reading and listening recommendations Link Behind Latent Space, ft AIEi S",
    "url": "https://nitter.kareem.one/lily_gpupoor/status/2118223980398276867#m",
    "ts": 1793858926,
    "id": "2118223980398276867#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "The fustration when I wake up and its all gone to shit… again! 🙈 At @aiDotEngineer Shanghai today to talk about how we @openclaw went from building a dark factory to building the city “Lobsterville”.",
+   "url": "https://nitter.kareem.one/vincent_koc/status/2118220970037268747#m",
+   "ts": 1793858208,
+   "id": "2118220970037268747#m"
   },
   {
    "handle": "elonmusk",
@@ -288,28 +361,73 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "uhhh what, 3x faster 5x cheaper but evals SAME ON FRONTIERCODE 2 this is distillation without tradeoffs. i think @thinkymachines inkling is one of the most underrated base models in the world. expect to see a TON more of these esp on US pretrained models Cognition (@cognition) Introducing SWE-2 Flash, our new fast & efficient coding model. On leading evals, it outperforms all American open-weight models, even ones 3x larger. To balance transparency and cyber risks, we are building a program to securely share the weights with partners & researchers. — https://nitter.kareem.one/cognition/status/2118069614521241739#m",
-   "url": "https://nitter.kareem.one/swyx/status/2118208851506036989#m",
-   "ts": 1793855319,
-   "id": "2118208851506036989#m"
+   "text": "“没必要招一个比你更弱的人。大部分团队 2–3 人就够了。”这是今天 AI Engineer 大会上，一位 OnlyFans 顾问跟我说的。他早期是滴滴的 AI 负责人，后来去了美国 Roblox，他非常不建议现在创业团队招人。 我们聊到社交，他说美国做 AI 线上社交已经很卷了，现在美国反而在转做线下社交，见面、互动、一起吃饭这些。在他们看来，Telegram 不是一个好的社交渠道。而且不建议我去旧金山，因为甲方和客户都不在那。 谈到现在AI创业的人，他说现在只能做非常垂直的赛道 整个展区摊位，有一些做量化的（Optiver）、做培训的、做 Agent 评估（Evaluation）的，还有 You.com 这类给 Agent 用的搜索工具。 前 Cursor 的 Ryo Lu， @ryolu_ 从旧金山搬回台北了，他觉得旧金山到处都是KPI，什么都要被优化，受不了那种硅谷的氛围。 他今天的演讲题目是：当我们什么都能做的时候，我们要做什么？ 其实是现在大家经常讨论的话题，当工具越来越强，开始替你做所有判断，甚至直接给你一个很好、很完整的结果。比如，你让它做一个日记 App，它会帮你设好提醒、心情指数。这当然没什么不对，但这真的是你想要的吗？很可能只是AI大量参考了其他人的结果。 而你在被动接受一个完整的结果，但你并没有参与其中。 他自己从旧金山搬到台北，也是在实践这件事。要保留人 做不同选择的自由。 包括我再次见到的这个朋友在内，很多人都讲到，Agent 性价比更高、算力更强、更强的英伟达…，但到头来还是要去解决服务人的需求、要人和人去见面。还有人聊到了宠物医疗。 大家都在说 Agent 经济、Agent 卖东西，但现场真正反复出现的问题是：Agent 怎么服务于人的需求。 人 要参与到 AI 生成的过程里，从 Prefill 到 Decode",
+   "url": "https://nitter.kareem.one/Yuki27__/status/2118209195627676078#m",
+   "ts": 1793855401,
+   "id": "2118209195627676078#m"
   },
   {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "announced on aie channel. so hyped AI.Engineer 🔜 Shanghai & SF CODE (@aiDotEngineer) Three days at AIE CODE: Nov 10: Fighting Slop in Software Factories. Talks + workshops. Nov 11: System One models making smart software. Nov 12: Raising Ambition, including Grand Rewrites. San Francisco. Nov 10 requires the workshop add-on. Schedule: ai.engineer/code/2026/schedu… — https://nitter.kareem.one/aiDotEngineer/status/2118048131052933313#m",
-   "url": "https://nitter.kareem.one/swyx/status/2118169736563589350#m",
-   "ts": 1793845993,
-   "id": "2118169736563589350#m"
+   "text": "gave a talk at @aiDotEngineer shanghai about about a question i keep coming back to: when we can make anything, do we still know what we want? i want tools that help us find our own answers, not skip the process of forming them. not just more output, but more room to think, care, and make together. will share more soon! ZinkLu (@ZinkLu2) @ryolu_ 在 AIE 的分享真的是一股清流啊，真的是广告里面播了一集电视剧的感觉。 反正我已经录下来了回头传上来让大家品品。 — https://nitter.kareem.one/ZinkLu2/status/2118197358601379910#m",
+   "url": "https://nitter.kareem.one/ryolu_/status/2118207967728451760#m",
+   "ts": 1793855108,
+   "id": "2118207967728451760#m"
   },
   {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "i'm still processing. what an insane run. $0 to $100B ARR in 2.5 years. Latent.Space (@latentspacepod) hey @TBPN you dropped this but we gotchu — https://nitter.kareem.one/latentspacepod/status/2118151813555945505#m",
-   "url": "https://nitter.kareem.one/swyx/status/2118152585911869634#m",
-   "ts": 1793841904,
-   "id": "2118152585911869634#m"
+   "text": "@ryolu_ 在 AIE 的分享真的是一股清流啊，真的是广告里面播了一集电视剧的感觉。 反正我已经录下来了回头传上来让大家品品。",
+   "url": "https://nitter.kareem.one/ZinkLu2/status/2118197358601379910#m",
+   "ts": 1793852579,
+   "id": "2118197358601379910#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "有幸来听到 Ryo 的讲座，短短不到半小时却受益匪浅，",
+   "url": "https://nitter.kareem.one/vanillaCitron/status/2118197075343216656#m",
+   "ts": 1793852511,
+   "id": "2118197075343216656#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "AIE @ Shanghai! Happy to attend an event at Shanghai with @aiDotEngineer . This always night quality conference is as great as promised and can’t wait to talk to speakers at Expo 😜",
+   "url": "https://nitter.kareem.one/YijinBao73718/status/2118195151151808614#m",
+   "ts": 1793852052,
+   "id": "2118195151151808614#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "✅",
+   "url": "https://nitter.kareem.one/zanweiguo/status/2118179977019662815#m",
+   "ts": 1793848435,
+   "id": "2118179977019662815#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "在AIE上领到自家物料了， 喜欢 @ryolu_ 的分享：当我们什么都能做时，还知道自己想要什么吗？ 让创意回归感受和生活",
+   "url": "https://nitter.kareem.one/Ni_luvya/status/2118177969000825152#m",
+   "ts": 1793847956,
+   "id": "2118177969000825152#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "First AIE in China. Live tweets today.",
+   "url": "https://nitter.kareem.one/Gracemzshao/status/2118154102194786455#m",
+   "ts": 1793842266,
+   "id": "2118154102194786455#m"
   },
   {
    "handle": "thsottiaux",
@@ -339,15 +457,6 @@
    "id": "2118138764161913278#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "i actually respect breadth in an economy that only respects b2b saas competitor: we solved coding oai: here’s sora competitor: we solved alignment oai: here’s scarlett johannson’s voice competitor: we are giving tokens and vms away for free to recapture mainstream attention oai: heres dancing cats OpenAI (@OpenAI) Images, upgraded—introducing ChatGPT Images 2.6. Now with GIFs and reference images. Plus, two new models are coming to the API with 50% faster image generation. Video — https://nitter.kareem.one/OpenAI/status/2118124944928432327#m",
-   "url": "https://nitter.kareem.one/swyx/status/2118138737419067758#m",
-   "ts": 1793838602,
-   "id": "2118138737419067758#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -357,15 +466,6 @@
    "id": "2118138648214585591#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "GPU, CPU, file system... I put BabyAGI in Qwen 👶 meet babyagi-inside: a bounded agent loop, compiled into the weights of Qwen3.5-2B. nothing runs outside the model the agent still sucks, but the loop works! built on and uses @thevixhal 's qwenfs, shout out to @divagr1925 's qwenputer more 👇 Video",
-   "url": "https://nitter.kareem.one/yoheinakajima/status/2118134446947971336#m",
-   "ts": 1793837579,
-   "id": "2118134446947971336#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -373,15 +473,6 @@
    "url": "https://nitter.kareem.one/NovaIntrovert/status/2118113693355606206#m",
    "ts": 1793832631,
    "id": "2118113693355606206#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "ran into theo last night at @FireworksAI_HQ forge and yea he's not kidding its both dumb and a banger 50b783df7d2c335500f1b6206d52649c69fb51931a0d616bfa2e299778588511a2ea894496cff26ba08ca8c7a81f64796f30d0efd9d914b32d3a5c639fd45125 Theo - t3.gg (@theo) About to vaguepost harder than I ever have vagueposted in my life. I'm so sorry. I promise this will make sense in a few weeks. \"Bellwether\" — https://nitter.kareem.one/theo/status/2117851450630099452#m",
-   "url": "https://nitter.kareem.one/swyx/status/2118100752732418268#m",
-   "ts": 1793829546,
-   "id": "2118100752732418268#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -400,33 +491,6 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2118086262104228162#m",
    "ts": 1793826091,
    "id": "2118086262104228162#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "> we developed and trained Ripple-65B Preview for only $32M, which is one-tenth the cost of the previous open-weight SOTA on agentic coding¹ this is like the avengers of open model SOTA ¹ \"Note that $32M is our full R&D cost starting from scratch, including pretraining ladder development, data mixing, evals, debugging, synthetic data generation, posttraining recipe development, and the final hero pretraining and posttraining run.\" Ricursive Intelligence (@RicursiveAI) Today we release Ripple-65B Preview, our 65B dense LLM we pretrained from scratch. Ripple sets a new state-of-the-art for U.S. open-weight models in agentic coding tasks, surpassing significantly larger models including Muse Spark Open-816B, Beam-501B, Inkling-975B, and Nemotron 3 Ultra-550B. Learn more: ricursive.com/ripple Video — https://nitter.kareem.one/RicursiveAI/status/2118046765857546733#m",
-   "url": "https://nitter.kareem.one/swyx/status/2118073650356384239#m",
-   "ts": 1793823084,
-   "id": "2118073650356384239#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "every fucking time goodalexander (@goodalexander) mcrib wasn't priced in btw — https://nitter.kareem.one/goodalexander/status/2118070067829014835#m",
-   "url": "https://nitter.kareem.one/swyx/status/2118070993747059066#m",
-   "ts": 1793822451,
-   "id": "2118070993747059066#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "and yes my dms are a complete trash fire but i have hooked up high level people before and enjoy doing it for free, make sure u are actually category leader tho, market is very asymmetric",
-   "url": "https://nitter.kareem.one/swyx/status/2118066424996651505#m",
-   "ts": 1793821362,
-   "id": "2118066424996651505#m"
   },
   {
    "handle": "elonmusk",
@@ -472,15 +536,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2118048421663973792#m",
    "ts": 1793817069,
    "id": "2118048421663973792#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "you thought i was kidding swyx (@swyx) btw if you can build a category leader open source project in ai engineering right now the market acquihire rate is ~$10-$100m per ai engineer. you do not need to figure out a business model, you do not need GTM, you do not need funding. just build things clankers want. — https://nitter.kareem.one/swyx/status/2031071059307601944#m",
-   "url": "https://nitter.kareem.one/swyx/status/2118048180168483229#m",
-   "ts": 1793817012,
-   "id": "2118048180168483229#m"
   },
   {
    "handle": "elonmusk",
@@ -573,15 +628,6 @@
    "id": "2117942506935505343#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "⚡ Behind Latent Space: from AI Substack to the first @aiDotEngineer in China 🇨🇳 inv.kareem.one/watch?v=QmDLDy3Z… This time @Ninggao88 of Linkloud turns the mic around: asking @swyx how LS started, why “AI Engineering\" needed a name, and what’s different about the builder community in China. We also get into Kill My SaaS: agents could pass the entry checks, but choosing software we’d actually use took judgment about the organizer’s workflow. That gap between generating software and making a good product runs through the conversation, from conference tools to Legora and Thinking Machines. A special one for longtime listeners, with the original essays, demos and Chinese community posts on screen. Chapters on YouTube: 0:00 AIEi Shanghai 2:31 Cold open 3:28 The conversation with Galen 8:01 Learn in Public 10:54 How Latent Space started 13:05 The idea for AI Engineer 25:10 The conference as a dataset 29:57 Kill My SaaS 39:31 What the contest judge measured 46:45 Jev and System One models 52:49 Writing and founder stories 1:02:13 Legora and product taste 1:03:29 OpenClaw adoption in China 1:07:35 Thinking Machines and interaction models 1:10:02 Reading and listening recommendations Link Behind Latent Space, ft AIEi Shanghai preview — with swyx and Galen Gao Galen Gao (https://substack.com/@linkloud1, https://x.com/Ninggao88... youtube.com",
-   "url": "https://nitter.kareem.one/latentspacepod/status/2117932116021588031#m",
-   "ts": 1793789340,
-   "id": "2117932116021588031#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -607,15 +653,6 @@
    "url": "https://nitter.kareem.one/liwei7194211781/status/2117812040073170971#m",
    "ts": 1793760712,
    "id": "2117812040073170971#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "excited to be heading back to SF next week for the @aiDotEngineer Code Summit. it only feels right after starting the year with @swyx and team @ AIE Europe in London to run it back for the first Code Summit in SF. hope to see lots of you there! oh and you'll see lots of the @GoogleDeepMind @GoogleAIStudio @antigravity crew at fun side events all week 👇",
-   "url": "https://nitter.kareem.one/vadiamit/status/2117769196469690765#m",
-   "ts": 1793750497,
-   "id": "2117769196469690765#m"
   },
   {
    "handle": "thsottiaux",
@@ -672,15 +709,6 @@
    "id": "2117734798932521209#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "had fun talking through our open infra software factory stack with @swyx . looking forward to giving a keynote at AIE Code in SF next week Latent.Space (@latentspacepod) ⚡ Inside the 2026 SOTA of Software Factories with @zachlloydtweets of @warpdotdev ! Warp's open source cloud factory approach has been resonating bigly this year, leading to multiple top @aiDotEngineer talks and an invitation to keynote this year's AIE CODE. Zach talks through the philosophy, demos Warp’s live system, and reports that tuning models and reducing redundant subagents can lower costs from ~$80 to ~$15–20 per PR and raise throughput 40% over the prior month, while keeping quality! Full episode below: from a Slack request to a PR, then into the work of measuring and improving software factories. 0:00 Software factories at Warp 0:53 AIE CODE in San Francisco 1:31 Zach Lloyd and software factories 4:30 Define the factory in code 7:34 Follow a Slack request to a PR 8:41 Measure cost, throughput and quality 14:32 Agents improving the factory 16:10 Benchmark your own tasks 23:59 From $80 to $15–20 per PR 27:03 Who needs software factories? 33:23 Product engineers and factory engineers See Zach at @aiDotEngineer CODE, Nov 10–12 in San Francisco: ai.engineer/code Video — https://nitter.kareem.one/latentspacepod/status/2117721636195663898#m",
-   "url": "https://nitter.kareem.one/zachlloydtweets/status/2117729371288903752#m",
-   "ts": 1793741002,
-   "id": "2117729371288903752#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -688,24 +716,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2117723912867811714#m",
    "ts": 1793739700,
    "id": "2117723912867811714#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "⚡ Inside the 2026 SOTA of Software Factories with @zachlloydtweets of @warpdotdev ! Warp's open source cloud factory approach has been resonating bigly this year, leading to multiple top @aiDotEngineer talks and an invitation to keynote this year's AIE CODE. Zach talks through the philosophy, demos Warp’s live system, and reports that tuning models and reducing redundant subagents can lower costs from ~$80 to ~$15–20 per PR and raise throughput 40% over the prior month, while keeping quality! Full episode below: from a Slack request to a PR, then into the work of measuring and improving software factories. 0:00 Software factories at Warp 0:53 AIE CODE in San Francisco 1:31 Zach Lloyd and software factories 4:30 Define the factory in code 7:34 Follow a Slack request to a PR 8:41 Measure cost, throughput and quality 14:32 Agents improving the factory 16:10 Benchmark your own tasks 23:59 From $80 to $15–20 per PR 27:03 Who needs software factories? 33:23 Product engineers and factory engineers See Zach at @aiDotEngineer CODE, Nov 10–12 in San Francisco: ai.engineer/code Video",
-   "url": "https://nitter.kareem.one/latentspacepod/status/2117721636195663898#m",
-   "ts": 1793739158,
-   "id": "2117721636195663898#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "you won't want to miss the TB lounge!! kick your feet up and relax while your agents are working 🤝 more to come... cc @swyx Ivan Leo (@ivanleomk) Hah can’t wait for the token billionaire lounge, burning billion every week on evals now 😭 — https://nitter.kareem.one/ivanleomk/status/2117511977077702808#m",
-   "url": "https://nitter.kareem.one/mattbergland/status/2117714495623852414#m",
-   "ts": 1793737455,
-   "id": "2117714495623852414#m"
   },
   {
    "handle": "TheRundownAI",
@@ -733,15 +743,6 @@
    "url": "https://nitter.kareem.one/OrangePENNY_/status/2117698006375895129#m",
    "ts": 1793733524,
    "id": "2117698006375895129#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "This is wild. (CTO of Legora, one of the most popular Legal AI platforms btw): Related to the whole 'frontier models can understand and directly modify weights' topic from the last several days. My brain continues to break as we see new things in this space. What a fun time to be building and learning. Jacob Lauritzen (@jacsebl) Got fable to hand-write weights of a 100k param model to recognize real versus fake legal citations. Basically one-shotted a full NN that’s better than training it — https://nitter.kareem.one/jacsebl/status/2117606206764175543#m",
-   "url": "https://nitter.kareem.one/mstockton/status/2117695754278142357#m",
-   "ts": 1793732987,
-   "id": "2117695754278142357#m"
   },
   {
    "handle": "bcherny",
