@@ -1,15 +1,78 @@
 {
- "generated_at": "2026-11-05T12:12:35Z",
+ "generated_at": "2026-11-05T14:09:27Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
+  "MachineLearning",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "System Design - Apache Kafka Basics",
+   "url": "https://www.reddit.com/r/programming/comments/1xojhvz/system_design_apache_kafka_basics/",
+   "ts": 1793887575,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "openssh on musl linux has been letting people into password-less accounts since 2016",
+   "url": "https://www.reddit.com/r/programming/comments/1xojg3s/openssh_on_musl_linux_has_been_letting_people/",
+   "ts": 1793887450,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "FareBot: a self-hosted Telegram bot that tracks Google Flights prices and alerts you when they drop",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xojehe/farebot_a_selfhosted_telegram_bot_that_tracks/",
+   "ts": 1793887341,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "14 self-hostable apps report usage to their vendor unless you turn it off. Here's the switch for each",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xoiyrn/14_selfhostable_apps_report_usage_to_their_vendor/",
+   "ts": 1793886192,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Not every GitHub Actions outage is out of your control",
+   "url": "https://www.reddit.com/r/programming/comments/1xoim8i/not_every_github_actions_outage_is_out_of_your/",
+   "ts": 1793885242,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "I built an annotation-based Kubernetes operator for Uptime Kuma — no CRDs",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xohtqf/i_built_an_annotationbased_kubernetes_operator/",
+   "ts": 1793883004,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Do not ask \"Is A a B?\": Inheritance and the Is-A Trap",
+   "url": "https://www.reddit.com/r/programming/comments/1xohfz9/do_not_ask_is_a_a_b_inheritance_and_the_isa_trap/",
+   "ts": 1793881819,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "changedetection.io - Yearly update :)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xoh9mu/changedetectionio_yearly_update/",
+   "ts": 1793881268,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Wireguard on router Vs Tailscale",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xoh5zn/wireguard_on_router_vs_tailscale/",
+   "ts": 1793880949,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "Verifying data from untrusted peers: how Hypercore's Merkle proofs work (one block in a million costs ~1 KB)",
@@ -32,10 +95,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Just wanted to give an update on Comics Now! A self hosted comic reading/tagging/managment app that i created.",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xog6vo/just_wanted_to_give_an_update_on_comics_now_a/",
-   "ts": 1793877734,
+   "subreddit": "MachineLearning",
+   "title": "DialFork: a benchmark for procedural hallucination in conversational agents [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xofjrn/dialfork_a_benchmark_for_procedural_hallucination/",
+   "ts": 1793875455,
    "source": "Reddit"
   },
   {
@@ -165,13 +228,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Composio/Nango alternative",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xo42sf/composionango_alternative/",
-   "ts": 1793836848,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "What are you looking forward to in Qwen 4?",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xo3ikc/what_are_you_looking_forward_to_in_qwen_4/",
@@ -200,20 +256,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Switch from DS932+ to Terra Micro PC as compute?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xnvgo4/switch_from_ds932_to_terra_micro_pc_as_compute/",
-   "ts": 1793816035,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Upgrading Immich",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xnv6bh/upgrading_immich/",
-   "ts": 1793815377,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Unsloth Qwen3.8-Flash-Next GGUFs V3.1 Update (November 4th 2026)",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnuva2/unsloth_qwen38flashnext_ggufs_v31_update_november/",
@@ -228,13 +270,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Best Photo Picker: point it at a photo folder and get the best shots back, all on your own hardware (MIT, Docker)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xnu71s/best_photo_picker_point_it_at_a_photo_folder_and/",
-   "ts": 1793813213,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Do looped transformers save HBM traffic? Profiling weight reuse in Huginn on a B200 [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xnskvt/do_looped_transformers_save_hbm_traffic_profiling/",
@@ -246,13 +281,6 @@
    "title": "Why can't conferences just reasonably reduce the cap on number of submissions? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xnscvr/why_cant_conferences_just_reasonably_reduce_the/",
    "ts": 1793809059,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Building Barista: Postgres, Embeddings, and Jev",
-   "url": "https://www.reddit.com/r/programming/comments/1xnsc70/building_barista_postgres_embeddings_and_jev/",
-   "ts": 1793809015,
    "source": "Reddit"
   },
   {
@@ -354,24 +382,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Postgres 19 REPACK: Built-In Online Table Bloat Cleanup",
-   "url": "https://www.reddit.com/r/programming/comments/1xn9jr2/postgres_19_repack_builtin_online_table_bloat/",
-   "ts": 1793750798,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "A new, open-weights 278M PII detection model and reference benchmark [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xn2lro/a_new_openweights_278m_pii_detection_model_and/",
    "ts": 1793734194,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Can GROUP BY still be optimized after all these years?",
-   "url": "https://www.reddit.com/r/programming/comments/1xmxnwu/can_group_by_still_be_optimized_after_all_these/",
-   "ts": 1793723487,
    "source": "Reddit"
   },
   {
@@ -382,24 +396,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Gefs: a filesystem for plan 9 built on Bε-trees",
-   "url": "https://www.reddit.com/r/programming/comments/1xmoxah/gefs_a_filesystem_for_plan_9_built_on_bεtrees/",
-   "ts": 1793699692,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "We turned 10 years of ML papers into one page per topic: benchmark records, what got tried, what reviewers expect [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xmk8rx/we_turned_10_years_of_ml_papers_into_one_page_per/",
    "ts": 1793682558,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xm89ef/sparks_of_weightspace_programming_llms_can/",
-   "ts": 1793650706,
    "source": "Reddit"
   },
   {
