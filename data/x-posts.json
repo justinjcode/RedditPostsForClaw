@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-05T16:34:26Z",
+ "generated_at": "2026-11-05T16:44:33Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Interesting Smirkley (@Smirkley) Young men with kids voted to the right of men without kids by 40 points. Young women with kids voted to the right of women without kids by 35 points — https://nitter.kareem.one/Smirkley/status/2118356806720266556#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2118380771853705309#m",
+   "ts": 1793896308,
+   "id": "2118380771853705309#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -32,6 +40,15 @@
    "url": "https://nitter.kareem.one/HuiyaoWang/status/2118371814879715734#m",
    "ts": 1793894172,
    "id": "2118371814879715734#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Democratic socialists get the attention, but moderates made this week's Democratic majorities. They delivered lion's share of House flips and vastly outperformed Bernie Sanders' Senate candidates. That & more in today's newsletter: wsj.com/politics/elections/a…",
+   "url": "https://nitter.kareem.one/greg_ip/status/2118370296671633741#m",
+   "ts": 1793893810,
+   "id": "2118370296671633741#m"
   },
   {
    "handle": "TheRundownAI",
@@ -59,6 +76,15 @@
    "url": "https://nitter.kareem.one/RushDoshi/status/2118364403506511900#m",
    "ts": 1793892405,
    "id": "2118364403506511900#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Qualcomm CEO Cristiano Amon on partnership with @SpaceX “It’s a great partnership with SpaceX for next-generation infrastructure. We’re very proud of this announcement. I think it’s also great from a United States technology leadership standpoint. It’s probably one of the largest network buildouts.” Video",
+   "url": "https://nitter.kareem.one/cb_doge/status/2118363397775561023#m",
+   "ts": 1793892165,
+   "id": "2118363397775561023#m"
   },
   {
    "handle": "swyx",
@@ -304,6 +330,15 @@
    "id": "2118100752732418268#m"
   },
   {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "The Wall Street Journal now has more than 5 million paid subscriptions, according to News Corp earnings, a 9% increase YoY",
+   "url": "https://nitter.kareem.one/katie_robertson/status/2118099869235630081#m",
+   "ts": 1793829335,
+   "id": "2118099869235630081#m"
+  },
+  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -496,15 +531,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "BREAKING: Norway’s government secures @Starlink access for its military, police and security agencies under a satellite communications deal worth up to NOK 450 million. 🇳🇴 The agreement covers: • Norwegian Armed Forces • Police • Police Security Service (PST) • National Security Authority (NSM) Norway’s military already has 180 active Starlink subscriptions for email, internet access and personnel welfare. Awarded to Marlink, a Norway-based satellite communications provider, the agreement includes several satellite networks and specifically requires access to Starlink.",
-   "url": "https://nitter.kareem.one/cb_doge/status/2117968783784673696#m",
-   "ts": 1793798082,
-   "id": "2117968783784673696#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "BREAKING: Vietnam’s Lâm Đồng plans to bring Starlink to areas where poor mobile coverage makes rescue efforts harder. Around Gia Bắc Pass in Sơn Điền, mountains and deep valleys make it hard to stay connected. During road accidents, floods and landslides, that can make calling for help difficult. Local officials are working with FPT Telecom to choose a location for Starlink, helping rescue teams stay connected and organise emergency responses. Video",
    "url": "https://nitter.kareem.one/cb_doge/status/2117950907610784237#m",
    "ts": 1793793820,
@@ -626,15 +652,6 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2117741980860235930#m",
    "ts": 1793744008,
    "id": "2117741980860235930#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Shopping is the most underrated agent use case. Everyone demos coding, but the pain most people actually have every week is 12 tabs of the same fucking air fryer and \"where's my package?\" lol. Grok Bot does that part now: > finds the best deal > compares items side by side > tracks all your orders in one place Give it a spin and lmk what you want next. Grok Bot (@bot) Try the new shopping experience in Grok Bot. Find the best deal, compare items, and have Bot track all your orders. Video — https://nitter.kareem.one/bot/status/2117736249444507834#m",
-   "url": "https://nitter.kareem.one/larsencc/status/2117739360728547476#m",
-   "ts": 1793743383,
-   "id": "2117739360728547476#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -1312,9 +1329,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
@@ -1429,15 +1446,6 @@
    "id": "2113356466770121166#m"
   },
   {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "Walked into the office to see this--what an honor. So proud that “The Business of Babies” earned a Gerald Loeb Award honorable mention. I played a small part, but getting to work alongside @ByKLong , @BenFoldy , @DanaMattioli , @EmilyGlazer , @sara_randazzo , @AmyDMarcus @csstewart @johnjcook was the real prize. This team is gold. Congrats to all the @WSJ winners! 🎉",
-   "url": "https://nitter.kareem.one/Lingling_Wei/status/2113337108450406788#m",
-   "ts": 1792693805,
-   "id": "2113337108450406788#m"
-  },
-  {
    "handle": "bcherny",
    "name": "Boris Cherny",
    "author": "@bcherny",
@@ -1445,15 +1453,6 @@
    "url": "https://nitter.kareem.one/bcherny/status/2113333859907747871#m",
    "ts": 1792693030,
    "id": "2113333859907747871#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "NEW: Trump called Musk and asked him to lift restrictions on a military-grade version of Starlink in Ukraine that the SpaceX chief had throttled, U.S. officials said. The system was working more normally Thursday, shortly after their conversation, per Us and Ukrainian officials",
-   "url": "https://nitter.kareem.one/alexbward/status/2113329634448421148#m",
-   "ts": 1792692023,
-   "id": "2113329634448421148#m"
   },
   {
    "handle": "simonw",
