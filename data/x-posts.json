@@ -1,20 +1,28 @@
 {
- "generated_at": "2026-11-05T05:25:29Z",
+ "generated_at": "2026-11-05T05:34:31Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed",
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "uhhh what, 3x faster 5x cheaper but evals SAME ON FRONTIERCODE 2 this is distillation without tradeoffs. i think @thinkymachines inkling is one of the most underrated base models in the world. expect to see a TON more of these esp on US pretrained models Cognition (@cognition) Introducing SWE-2 Flash, our new fast & efficient coding model. On leading evals, it outperforms all American open-weight models, even ones 3x larger. To balance transparency and cyber risks, we are building a program to securely share the weights with partners & researchers. — https://nitter.kareem.one/cognition/status/2118069614521241739#m",
+   "url": "https://nitter.kareem.one/swyx/status/2118208851506036989#m",
+   "ts": 1793855319,
+   "id": "2118208851506036989#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -761,15 +769,6 @@
    "url": "https://nitter.kareem.one/aiDotEngineer/status/2117391304535736653#m",
    "ts": 1793660400,
    "id": "2117391304535736653#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "@WeAreLegora announced a $550M Series E a couple weeks ago, so @swyx and I sat down with @jacsebl (CTO, @WeAreLegora ) to talk about the nuances of building AI agents for the legal industry. We got into: -how one model release took Legora's citation accuracy from 70% to 99% with zero work -why Legora runs on Azure (early customers refused AWS / GCP) -why law firms punish partners for codifying what they know -why Legora post-trains open-weight models and much, much, more… Enjoy! Timestamps 0:00 Cold open 0:40 Meet Jacob Lauritzen, CTO of Legora 1:05 Starting out as underdogs in a Stockholm basement 1:54 How Legora grew from ChatGPT with Swedish law into a legal agent 4:12 The switch from assistant to agent 5:23 Which models Legora uses and why it added a model picker 7:48 Are today’s models good enough for lawyers? 8:20 What agents couldn’t do nine months ago 9:18 Testing the agent in simulated worlds and a 10,000-file data room 10:07 The evals team and Legora’s 100 legal engineers 11:03 When evals didn’t seem worth it and one release took citations from 70% to 99% 12:18 What legal practice could look like in five to ten years 14:18 Will the law firm partnership model survive? 16:40 What happens to paralegals and junior lawyers? 18:00 The billable hour and why earlier legal tech fell short 19:39 Where the money goes now 22:44 How Legora used its own product for acquisition diligence 23:59 How Swedish and American law firms differ 26:12 Product metrics when you can’t read the ",
-   "url": "https://nitter.kareem.one/realbasilchatha/status/2117385359176679645#m",
-   "ts": 1793658983,
-   "id": "2117385359176679645#m"
   },
   {
    "handle": "realDonaldTrump",
