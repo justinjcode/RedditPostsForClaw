@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-05T02:22:41Z",
+ "generated_at": "2026-11-05T02:34:37Z",
  "accounts_ok": [
-  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
   "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "announced on aie channel. so hyped AI.Engineer 🔜 Shanghai & SF CODE (@aiDotEngineer) Three days at AIE CODE: Nov 10: Fighting Slop in Software Factories. Talks + workshops. Nov 11: System One models making smart software. Nov 12: Raising Ambition, including Grand Rewrites. San Francisco. Nov 10 requires the workshop add-on. Schedule: ai.engineer/code/2026/schedu… — https://nitter.kareem.one/aiDotEngineer/status/2118048131052933313#m",
+   "url": "https://nitter.kareem.one/swyx/status/2118169736563589350#m",
+   "ts": 1793845993,
+   "id": "2118169736563589350#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -950,15 +959,6 @@
    "url": "https://nitter.kareem.one/realDonaldTrump/status/2117342818452562296#m",
    "ts": 1793648840,
    "id": "2117342818452562296#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "lmaoooo Latent.Space (@latentspacepod) Recursive Language Models: Claude Code, Agent Swarms, Big Research Bets, & the $40M AI Problem Solver latent.space/p/rlm MIT’s @a1zhang explains why Claude Code, Codex, and Pi are basically the same, how RLMs use code, context offloading, and recursive subagents to generalize across tasks, why one expert can sometimes replace a trillion-token brute-force search, what OpenAI’s 10,000-agent, 130B-output-token experiment reveals about the future of language models, and why academia’s biggest advantage is the freedom to take weird, ambitious research bets. Video — https://nitter.kareem.one/latentspacepod/status/2105818177674654099#m",
-   "url": "https://nitter.kareem.one/swyx/status/2117341332645826945#m",
-   "ts": 1793648486,
-   "id": "2117341332645826945#m"
   },
   {
    "handle": "ZichenWanghere",
