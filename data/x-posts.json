@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-05T23:15:38Z",
+ "generated_at": "2026-11-05T23:34:29Z",
  "accounts_ok": [
-  "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -11,10 +10,20 @@
   "thsottiaux"
  ],
  "errors": [
-  "@TheRundownAI: all instances failed"
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "tagging certified theater ai kids @DynamicWebPaige",
+   "url": "https://nitter.kareem.one/swyx/status/2118483528203833418#m",
+   "ts": 1793920807,
+   "id": "2118483528203833418#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -455,15 +464,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118248900381536740#m",
    "ts": 1793864867,
    "id": "2118248900381536740#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "I went to Shanghai to attend AI Engineer Shanghai 2026 hosted by @swyx , I really like @ryolu_ ‘s talk about what he thought and care about in the age of AI. Some of the words he said really resonated with me, ”when AI can almost do anything for us, do we still know want we to do?” Many of his principles are similar to what I feel about life and research, where everything comes down to simplicity and freedom. Although I don’t know anything about real design, the spirit is the same, whether it is to write a math proof, design a research experiments to get to a conclusion or designing a system( @GenAI_is_real probably have much to say about that). Those who still have standard for quality and beauty rather than chasing the AI speed and AI quantify (that most people are chasing) is our last fort that distinguishes us with AI.",
-   "url": "https://nitter.kareem.one/SuJinyan6/status/2118246809957277730#m",
-   "ts": 1793864369,
-   "id": "2118246809957277730#m"
   },
   {
    "handle": "swyx",
