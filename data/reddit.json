@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-05T04:11:21Z",
+ "generated_at": "2026-11-05T06:15:24Z",
  "count": 60,
  "subreddits_ok": [
+  "LocalLLaMA",
   "MachineLearning",
-  "programming",
-  "selfhosted"
+  "programming"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
   {
