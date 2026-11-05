@@ -1,6 +1,8 @@
 {
- "generated_at": "2026-11-05T02:34:37Z",
+ "generated_at": "2026-11-05T02:43:53Z",
  "accounts_ok": [
+  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -9,9 +11,7 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 178,
  "items": [
@@ -383,6 +383,15 @@
    "url": "https://nitter.kareem.one/ChineseWSJ/status/2117825431130779956#m",
    "ts": 1793763904,
    "id": "2117825431130779956#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "跟我老婆简直一模一样 跟你们家的那位一样吗 Video",
+   "url": "https://nitter.kareem.one/liwei7194211781/status/2117812040073170971#m",
+   "ts": 1793760712,
+   "id": "2117812040073170971#m"
   },
   {
    "handle": "elonmusk",
@@ -1094,15 +1103,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2117217859508007009#m",
    "ts": 1793619048,
    "id": "2117217859508007009#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "再次提醒大家：一定要不断给生活注入新的东西， 比如去没去过的地方，尝试没做过的事，认识不同的人，学习新的知识。因为日子过久了，人很容易陷入重复，慢慢失去感受生活的能力。 新的体验不只是带来快乐，更能打破原本的思维框架，让你重新看见生活的可能。保持年轻的秘诀不是年龄多小，而是你始终对世界充满好奇。",
-   "url": "https://nitter.kareem.one/king1818888/status/2117151221022597194#m",
-   "ts": 1793603160,
-   "id": "2117151221022597194#m"
   },
   {
    "handle": "Lingling_Wei",
