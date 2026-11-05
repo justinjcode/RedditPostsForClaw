@@ -1,15 +1,71 @@
 {
- "generated_at": "2026-11-05T02:13:19Z",
+ "generated_at": "2026-11-05T04:11:21Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
-  "programming"
+  "programming",
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "MachineLearning",
+   "title": "I submitted my AACL paper as a long paper, but it’s listed as a short paper. [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xo8vd3/i_submitted_my_aacl_paper_as_a_long_paper_but_its/",
+   "ts": 1793850746,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Anyone else tired of how expensive agent evaluations are? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xo8hlk/anyone_else_tired_of_how_expensive_agent/",
+   "ts": 1793849581,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "LZAV 7.1: Improved compression ratio and speed. Achieved complete C/C++ pointer arithmetic compliance. Fast Data Compression Algorithm (inline C/C++).",
+   "url": "https://www.reddit.com/r/programming/comments/1xo82gs/lzav_71_improved_compression_ratio_and_speed/",
+   "ts": 1793848323,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "What is now considered a “reasonable” publication rate (papers/year) for a PhD student to be considered “productive”? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xo7q89/what_is_now_considered_a_reasonable_publication/",
+   "ts": 1793847315,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "[Android] Tailscale connection delay after phone sits unused.",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xo7ho1/android_tailscale_connection_delay_after_phone/",
+   "ts": 1793846598,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Cryptominer in my Plausible anayltics container",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xo7agf/cryptominer_in_my_plausible_anayltics_container/",
+   "ts": 1793846016,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Went a bit nuts with homepage for my homelab",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xo70xx/went_a_bit_nuts_with_homepage_for_my_homelab/",
+   "ts": 1793845239,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "ICLR 2027 Reviews Discussion [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
+   "ts": 1793845079,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Composio/Nango alternative",
@@ -29,20 +85,6 @@
    "title": "Ricursive Intelligence Ripple-65B-Preview: New Dense Model!",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xo2arv/ricursive_intelligence_ripple65bpreview_new_dense/",
    "ts": 1793832168,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "[P] NKI layer megakernels for GLM-5.3-Flash on AWS Trainium2: where a decode step's time went, and what we changed [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xo0yuq/p_nki_layer_megakernels_for_glm53flash_on_aws/",
-   "ts": 1793828875,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Length Is Cheap, Competition Is Not: Attention Predicts Context Rot in Retrieval [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xnzzgn/length_is_cheap_competition_is_not_attention/",
-   "ts": 1793826521,
    "source": "Reddit"
   },
   {
@@ -113,13 +155,6 @@
    "title": "how to test a used hp z440 workstation after purchase?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xnuqai/how_to_test_a_used_hp_z440_workstation_after/",
    "ts": 1793814397,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Dozzle question",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xnudqi/dozzle_question/",
-   "ts": 1793813615,
    "source": "Reddit"
   },
   {
@@ -291,13 +326,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "Experiments with Chinchilla scaling laws (following DeepMind) [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xnbdx0/experiments_with_chinchilla_scaling_laws/",
-   "ts": 1793755910,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Postgres 19 REPACK: Built-In Online Table Bloat Cleanup",
    "url": "https://www.reddit.com/r/programming/comments/1xn9jr2/postgres_19_repack_builtin_online_table_bloat/",
@@ -309,13 +337,6 @@
    "title": "Wiki.js 3.0 Release — Wiki.js",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xn628i/wikijs_30_release_wikijs/",
    "ts": 1793742018,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Found an old desktop (i5-3340S, 4GB RAM). Usable to start self-hosting or straight to e-waste?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xn44mc/found_an_old_desktop_i53340s_4gb_ram_usable_to/",
-   "ts": 1793737545,
    "source": "Reddit"
   },
   {
@@ -347,13 +368,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Moving away from iCloud, step 1: Apple Passwords to Vaultwarden",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xmtjt3/moving_away_from_icloud_step_1_apple_passwords_to/",
-   "ts": 1793714118,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "I made a game in 3 kB… and accidentally created a programming language",
    "url": "https://www.reddit.com/r/programming/comments/1xmqimu/i_made_a_game_in_3_kb_and_accidentally_created_a/",
@@ -372,20 +386,6 @@
    "title": "We turned 10 years of ML papers into one page per topic: benchmark records, what got tried, what reviewers expect [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xmk8rx/we_turned_10_years_of_ml_papers_into_one_page_per/",
    "ts": 1793682558,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "A Decade of Kill Bugs – Alan Grow",
-   "url": "https://www.reddit.com/r/programming/comments/1xmgayd/a_decade_of_kill_bugs_alan_grow/",
-   "ts": 1793670897,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "ICLR 2027 review results [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xm8vik/iclr_2027_review_results_d/",
-   "ts": 1793652095,
    "source": "Reddit"
   },
   {
