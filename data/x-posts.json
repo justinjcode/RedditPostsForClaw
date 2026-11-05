@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T06:09:52Z",
+ "generated_at": "2026-11-05T06:26:37Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "AIE Shanghai @swyx is happening now, Nov 5-6! Spicy take: AIE >>> OpenAI Dev Day for me, cuz it has the best and most fun AI builder community. Make sure to check out @ryolu_ ’s talk. His keynote at Cursor Compile was my all-time favorite! Latent.Space (@latentspacepod) ⚡ Behind Latent Space: from AI Substack to the first @aiDotEngineer in China 🇨🇳 inv.kareem.one/watch?v=QmDLDy3Z… This time @Ninggao88 of Linkloud turns the mic around: asking @swyx how LS started, why “AI Engineering\" needed a name, and what’s different about the builder community in China. We also get into Kill My SaaS: agents could pass the entry checks, but choosing software we’d actually use took judgment about the organizer’s workflow. That gap between generating software and making a good product runs through the conversation, from conference tools to Legora and Thinking Machines. A special one for longtime listeners, with the original essays, demos and Chinese community posts on screen. Chapters on YouTube: 0:00 AIEi Shanghai 2:31 Cold open 3:28 The conversation with Galen 8:01 Learn in Public 10:54 How Latent Space started 13:05 The idea for AI Engineer 25:10 The conference as a dataset 29:57 Kill My SaaS 39:31 What the contest judge measured 46:45 Jev and System One models 52:49 Writing and founder stories 1:02:13 Legora and product taste 1:03:29 OpenClaw adoption in China 1:07:35 Thinking Machines and interaction models 1:10:02 Reading and listening recommendations Link Behind Latent Space, ft AIEi S",
+   "url": "https://nitter.kareem.one/lily_gpupoor/status/2118223980398276867#m",
+   "ts": 1793858926,
+   "id": "2118223980398276867#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -751,15 +760,6 @@
    "url": "https://nitter.kareem.one/stephendziedzic/status/2117412541081293262#m",
    "ts": 1793665464,
    "id": "2117412541081293262#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "friendliest ghosts in town were out singing till 2 am 🎶 Video",
-   "url": "https://nitter.kareem.one/NehallAgrawal/status/2117410878295577066#m",
-   "ts": 1793665067,
-   "id": "2117410878295577066#m"
   },
   {
    "handle": "swyx",
