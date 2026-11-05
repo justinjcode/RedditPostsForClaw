@@ -1,20 +1,76 @@
 {
- "generated_at": "2026-11-05T10:10:20Z",
+ "generated_at": "2026-11-05T12:12:35Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
-  "programming"
+  "programming",
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "Verifying data from untrusted peers: how Hypercore's Merkle proofs work (one block in a million costs ~1 KB)",
+   "url": "https://www.reddit.com/r/programming/comments/1xoguip/verifying_data_from_untrusted_peers_how/",
+   "ts": 1793879999,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Quantization livestream with goats of inference",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoglot/quantization_livestream_with_goats_of_inference/",
+   "ts": 1793879170,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Applying DDD with Jakarta EE: Strategic and Tactical Design with Jakarta Data",
+   "url": "https://www.reddit.com/r/programming/comments/1xogagh/applying_ddd_with_jakarta_ee_strategic_and/",
+   "ts": 1793878091,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Just wanted to give an update on Comics Now! A self hosted comic reading/tagging/managment app that i created.",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xog6vo/just_wanted_to_give_an_update_on_comics_now_a/",
+   "ts": 1793877734,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "A Look at Datastar",
+   "url": "https://www.reddit.com/r/programming/comments/1xofjis/a_look_at_datastar/",
+   "ts": 1793875425,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "withoutBG v4: self-hosted background removal with a Docker app and brush fixes",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xoel60/withoutbg_v4_selfhosted_background_removal_with_a/",
+   "ts": 1793871772,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Qwen3.8-27B has become unuseable recently",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoeeyf/qwen3827b_has_become_unuseable_recently/",
    "ts": 1793871070,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Anything beat Qwen 3.8 27B yet?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoe1wc/anything_beat_qwen_38_27b_yet/",
+   "ts": 1793869620,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "APT CVE-2026-109518 (root via packages that fail signature checks): Ubuntu says to update with -o Acquire::Retries=0",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xodzj7/apt_cve2026109518_root_via_packages_that_fail/",
+   "ts": 1793869356,
    "source": "Reddit"
   },
   {
@@ -89,13 +145,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "[Android] Tailscale connection delay after phone sits unused.",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xo7ho1/android_tailscale_connection_delay_after_phone/",
-   "ts": 1793846598,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "Cryptominer in my Plausible anayltics container",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xo7agf/cryptominer_in_my_plausible_anayltics_container/",
    "ts": 1793846016,
@@ -155,13 +204,6 @@
    "title": "Switch from DS932+ to Terra Micro PC as compute?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xnvgo4/switch_from_ds932_to_terra_micro_pc_as_compute/",
    "ts": 1793816035,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "New Qwen3.8-Flash-Next Unsloth Dynamic V3.1 GGUFs",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnvbxn/new_qwen38flashnext_unsloth_dynamic_v31_ggufs/",
-   "ts": 1793815738,
    "source": "Reddit"
   },
   {
@@ -263,31 +305,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "I removed 85% of gemma's weights (and it is mostly fine)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnoqyy/i_removed_85_of_gemmas_weights_and_it_is_mostly/",
-   "ts": 1793800410,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Help with Ansible and Borgbackup",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xnn3gu/help_with_ansible_and_borgbackup/",
-   "ts": 1793795740,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "DuckDB.NET 1.5.6.1: Appending Dates Up to 27× Faster",
    "url": "https://www.reddit.com/r/programming/comments/1xnmntq/duckdbnet_1561_appending_dates_up_to_27_faster/",
    "ts": 1793794392,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Matplotlib Real time Plot Animation Tutorial using FuncAnimation() and Python for Beginners",
-   "url": "https://www.reddit.com/r/programming/comments/1xnlo9f/matplotlib_real_time_plot_animation_tutorial/",
-   "ts": 1793791101,
    "source": "Reddit"
   },
   {
@@ -340,24 +361,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Wiki.js 3.0 Release — Wiki.js",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xn628i/wikijs_30_release_wikijs/",
-   "ts": 1793742018,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "A new, open-weights 278M PII detection model and reference benchmark [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xn2lro/a_new_openweights_278m_pii_detection_model_and/",
    "ts": 1793734194,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "The Movement Physics of Super Mario Bros - Behind the Code",
-   "url": "https://www.reddit.com/r/programming/comments/1xmydo2/the_movement_physics_of_super_mario_bros_behind/",
-   "ts": 1793725100,
    "source": "Reddit"
   },
   {
@@ -372,13 +379,6 @@
    "title": "We’re the product team at Reflection, the lab behind Beam — Ask Us Anything!",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmwryg/were_the_product_team_at_reflection_the_lab/",
    "ts": 1793721560,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "I made a game in 3 kB… and accidentally created a programming language",
-   "url": "https://www.reddit.com/r/programming/comments/1xmqimu/i_made_a_game_in_3_kb_and_accidentally_created_a/",
-   "ts": 1793705332,
    "source": "Reddit"
   },
   {
