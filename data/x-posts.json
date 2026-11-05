@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-05T23:05:54Z",
+ "generated_at": "2026-11-05T23:15:38Z",
  "accounts_ok": [
-  "TheRundownAI",
+  "Lingling_Wei",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
+  "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@realDonaldTrump: all instances failed",
-  "@Lingling_Wei: all instances failed"
+  "@TheRundownAI: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "use SHAWN for $5 off",
+   "url": "https://nitter.kareem.one/swyx/status/2118480792221622661#m",
+   "ts": 1793920154,
+   "id": "2118480792221622661#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -41,6 +50,15 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118470016127598724#m",
    "ts": 1793917585,
    "id": "2118470016127598724#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Excited to attend @aiDotEngineer next week! Who’s going to be there? 👀 if you are going and in need for good coffee, I might be up for hosting a cafe date nearby✨☕️",
+   "url": "https://nitter.kareem.one/ekang426/status/2118469737835618513#m",
+   "ts": 1793917519,
+   "id": "2118469737835618513#m"
   },
   {
    "handle": "thsottiaux",
@@ -412,15 +430,6 @@
    "id": "2118280765679284645#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "AIE Shanghai is amazing",
-   "url": "https://nitter.kareem.one/Xianbao_QIAN/status/2118256882578075723#m",
-   "ts": 1793866770,
-   "id": "2118256882578075723#m"
-  },
-  {
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
@@ -518,15 +527,6 @@
    "url": "https://nitter.kareem.one/XFreeze/status/2118176199746965741#m",
    "ts": 1793847534,
    "id": "2118176199746965741#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "First AIE in China. Live tweets today.",
-   "url": "https://nitter.kareem.one/Gracemzshao/status/2118154102194786455#m",
-   "ts": 1793842266,
-   "id": "2118154102194786455#m"
   },
   {
    "handle": "thsottiaux",
