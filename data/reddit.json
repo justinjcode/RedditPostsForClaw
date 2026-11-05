@@ -1,15 +1,43 @@
 {
- "generated_at": "2026-11-04T22:09:22Z",
+ "generated_at": "2026-11-05T00:20:26Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
-  "programming"
+  "programming",
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Composio/Nango alternative",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xo42sf/composionango_alternative/",
+   "ts": 1793836848,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "What are you looking forward to in Qwen 4?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xo3ikc/what_are_you_looking_forward_to_in_qwen_4/",
+   "ts": 1793835349,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "OpenFruit a native iOS Compiler for Windows",
+   "url": "https://www.reddit.com/r/programming/comments/1xo3hq8/openfruit_a_native_ios_compiler_for_windows/",
+   "ts": 1793835284,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Ricursive Intelligence Ripple-65B-Preview: New Dense Model!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xo2arv/ricursive_intelligence_ripple65bpreview_new_dense/",
+   "ts": 1793832168,
+   "source": "Reddit"
+  },
   {
    "subreddit": "MachineLearning",
    "title": "[P] NKI layer megakernels for GLM-5.3-Flash on AWS Trainium2: where a decode step's time went, and what we changed [P]",
@@ -26,16 +54,16 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "Deepseek alone accounted for 53% of all (27 trillion) tokens on Openrouter yesterday. Open-weights labs totaling over 75% now",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnz8ct/deepseek_alone_accounted_for_53_of_all_27/",
-   "ts": 1793824768,
+   "title": "Qwen3.8 27B Q4 on my low-end Laptop, and it became my main Model usage for coding",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnzo38/qwen38_27b_q4_on_my_lowend_laptop_and_it_became/",
+   "ts": 1793825815,
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "BookOrbit - Bulk Edit",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xnxpz9/bookorbit_bulk_edit/",
-   "ts": 1793821240,
+   "subreddit": "LocalLLaMA",
+   "title": "Deepseek alone accounted for 53% of all (27 trillion) tokens on Openrouter yesterday. Open-weights labs totaling over 75% now",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnz8ct/deepseek_alone_accounted_for_53_of_all_27/",
+   "ts": 1793824768,
    "source": "Reddit"
   },
   {
@@ -127,13 +155,6 @@
    "title": "Why can't conferences just reasonably reduce the cap on number of submissions? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xnscvr/why_cant_conferences_just_reasonably_reduce_the/",
    "ts": 1793809059,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Slow is smart and smart is fast",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnsckx/slow_is_smart_and_smart_is_fast/",
-   "ts": 1793809040,
    "source": "Reddit"
   },
   {
@@ -235,13 +256,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Axion1-0/Axion-1.0-35B · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnjiu4/axion10axion1035b_hugging_face/",
-   "ts": 1793782978,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Hydrogen-1.0: open-weight scientific model beats GPT-6 Astra on FSR with 72% lower estimated output cost [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xnjhdd/hydrogen10_openweight_scientific_model_beats_gpt6/",
@@ -295,13 +309,6 @@
    "title": "Wiki.js 3.0 Release — Wiki.js",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xn628i/wikijs_30_release_wikijs/",
    "ts": 1793742018,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn568h/british_fintech_revolut_slashes_ai_coding_costs/",
-   "ts": 1793739930,
    "source": "Reddit"
   },
   {
@@ -365,13 +372,6 @@
    "title": "We turned 10 years of ML papers into one page per topic: benchmark records, what got tried, what reviewers expect [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xmk8rx/we_turned_10_years_of_ml_papers_into_one_page_per/",
    "ts": 1793682558,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "A Decade of Kill Bugs – Alan Grow",
-   "url": "https://www.reddit.com/r/programming/comments/1xmgayd/a_decade_of_kill_bugs_alan_grow/",
-   "ts": 1793670897,
    "source": "Reddit"
   },
   {
