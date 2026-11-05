@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T23:53:40Z",
+ "generated_at": "2026-11-05T00:14:43Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -67,6 +67,15 @@
    "url": "https://nitter.kareem.one/Baconbrix/status/2118064051771310169#m",
    "ts": 1793820796,
    "id": "2118064051771310169#m"
+  },
+  {
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
+   "text": "Background subagents in Claude Code now use less of your usage limit. A running subagent updates its status line every 30 seconds, and each update used to re-read its whole conversation. Now Haiku 5.5 writes it from short notes instead, so each update costs about 99% less. Video",
+   "url": "https://nitter.kareem.one/ClaudeDevs/status/2118063143167693011#m",
+   "ts": 1793820579,
+   "id": "2118063143167693011#m"
   },
   {
    "handle": "TheRundownAI",
@@ -1606,15 +1615,6 @@
    "url": "https://nitter.kareem.one/felixrieseberg/status/2110023283169247623#m",
    "ts": 1791903727,
    "id": "2110023283169247623#m"
-  },
-  {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
-   "text": "We just let in every Pro and Max user from the Claude Code Projects waitlist! If you're new to Claude Code Projects, here's a 4 minute walkthrough to get you started: Video",
-   "url": "https://nitter.kareem.one/ClaudeDevs/status/2108621476538781878#m",
-   "ts": 1791569510,
-   "id": "2108621476538781878#m"
   }
  ]
 }
