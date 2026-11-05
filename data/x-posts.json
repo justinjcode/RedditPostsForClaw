@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-11-05T21:05:58Z",
+ "generated_at": "2026-11-05T21:13:38Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -9,10 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
   {
@@ -304,6 +303,15 @@
    "id": "2118357376525119788#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "So for my YouTube channel, having @bot take charge of ad integrations is beginning to pay off. For months I was getting nowhere with advertisers, but my agent is reaching out to potential partners, vetting cold emails, and responding to appropriate ones. This will have a very meaningful impact on my channel's earnings potential over the next months. This is no longer just playing around with a new toy: it is changing my business model and could make me an order of magnitude more money for my channel.",
+   "url": "https://nitter.kareem.one/DrKnowItAll16/status/2118341564262973607#m",
+   "ts": 1793886960,
+   "id": "2118341564262973607#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -475,6 +483,15 @@
    "id": "2118177969000825152#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok Build packed a serious upgrade into this release, making multi-agent workflows more reliable, easier to control, and much smoother to manage Background agents and workflows now stay visible as active work on the dashboard, workflow status shows how many agents are still running, and stop controls work even when approval prompts are open. Permission rules that fail to load now trigger warnings instead of silently being ignored Session recovery is also more reliable, manually saved file edits are better protected, and Ctrl+L can now quote selected messages directly into your prompt. There’s also improved keyboard navigation, better terminal compatibility, and fixes across skills, hooks, file handling, and session management Another strong push toward making Grok Build a dependable environment for running entire teams of AI agents Release Notes: v1.0.75 Features: • Permission rules that don't load, such as a rule that doesn't parse or a .claude/settings.json that isn't valid JSON, show a warning when a session opens instead of being skipped silently. • Cmd+Up / Cmd+Down and Ctrl+Home / Ctrl+End move the cursor to the start or end of the whole prompt, and with Shift they select to there. • Send now shows as Enter Enter in the footer where Ctrl+Enter arrives as plain Enter, such as inside tmux with its default settings. • Esc on a /btw side question that hasn't been answered yet cancels it, instead of letting it run on and reopening the panel when the answer arrives. • Clicki",
+   "url": "https://nitter.kareem.one/XFreeze/status/2118176199746965741#m",
+   "ts": 1793847534,
+   "id": "2118176199746965741#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -608,24 +625,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118024169762029594#m",
    "ts": 1793811287,
    "id": "2118024169762029594#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "My mindset on @bot has completely changed. I used to treat them like assistants. Now I treat them like real employees. Why: an assistant does what you ask. An employee notices what you didn't ask. How: Hire them for one job. Onboard them with a clear brief. Train them when they get it wrong. Maintain them as the job changes. The moment I stopped asking \"what can this assistant do?\" and started asking \"what could this hire own?\", everything they could do for me got bigger.",
-   "url": "https://nitter.kareem.one/kiaraplds/status/2118022500244172902#m",
-   "ts": 1793810889,
-   "id": "2118022500244172902#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "A friend signed up for Grok Bot a month ago and was about to cancel. He couldn't see the real value. He had 4 bots, but no plugins connected, no routines, and no skills. I showed him my 25 bots, what each one does, and how I manage the whole team. He was surprised by what Grok Bot can do, and he decided to keep his subscription. If you don't know how to orchestrate Grok Bots, you won't see the value. Businesses, companies, churches: if you need AI consulting, DM me.",
-   "url": "https://nitter.kareem.one/Texas_Twins_Dad/status/2118014632480682487#m",
-   "ts": 1793809013,
-   "id": "2118014632480682487#m"
   },
   {
    "handle": "TheRundownAI",
@@ -1330,9 +1329,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
