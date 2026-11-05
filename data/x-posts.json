@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-05T07:53:10Z",
+ "generated_at": "2026-11-05T08:08:44Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,9 +10,47 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok @Bot can call your dentist on the phone! Arthur MacWaters (@ArthurMacwaters) Grok @bot is calling a dentist for me to see if they take my insurance. Incredible. This feels amazing. — https://nitter.kareem.one/ArthurMacwaters/status/2118098432141431019#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2118251808179323102#m",
+   "ts": 1793865560,
+   "id": "2118251808179323102#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "lily zhang (@lily_gpupoor) AIE Shanghai @swyx is happening now, Nov 5-6! Spicy take: AIE >>> OpenAI Dev Day for me, cuz it has the best and most fun AI builder community. Make sure to check out @ryolu_ ’s talk. His keynote at Cursor Compile was my all-time favorite! — https://nitter.kareem.one/lily_gpupoor/status/2118223980398276867#m",
+   "url": "https://nitter.kareem.one/swyx/status/2118251501214896570#m",
+   "ts": 1793865487,
+   "id": "2118251501214896570#m"
+  },
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Follow Samir for dot updates samir (@_samirism) the team has been laser-focused on making dots significantly faster and more reliable. some updates in the latest app release… - you can now reply to your dot inline from a notification on iOS - share anything directly to your dot in iOS - open your dot from the iPhone Action button - faster loading when you tap in from a notification - gmail links deeplink to the exact email inside the gmail app — https://nitter.kareem.one/_samirism/status/2118103057980690771#m",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2118250631165300747#m",
+   "ts": 1793865280,
+   "id": "2118250631165300747#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Everyone is using Grok @Bot Min-Liang Tan (@minliangtan) Been using Grok Bot and it's pretty amazing. Got my team to hack together a GrokPuck (Grok Bot in your pocket). Swipe the screen, the bot changes. What do you guys think? Video — https://nitter.kareem.one/minliangtan/status/2118213415944724730#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2118250472373129319#m",
+   "ts": 1793865242,
+   "id": "2118250472373129319#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -261,6 +298,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "My mindset on @bot has completely changed. I used to treat them like assistants. Now I treat them like real employees. Why: an assistant does what you ask. An employee notices what you didn't ask. How: Hire them for one job. Onboard them with a clear brief. Train them when they get it wrong. Maintain them as the job changes. The moment I stopped asking \"what can this assistant do?\" and started asking \"what could this hire own?\", everything they could do for me got bigger.",
+   "url": "https://nitter.kareem.one/kiaraplds/status/2118022500244172902#m",
+   "ts": 1793810889,
+   "id": "2118022500244172902#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "Pages in Grok Bot 0:15 What are Pages? 0:40 An example page 1:34 Sharing a Page 1:55 Tips: use your data 2:46 @X posts 3:44 Recap Video",
    "url": "https://nitter.kareem.one/mattyp/status/2118021605544833173#m",
    "ts": 1793810676,
@@ -274,6 +320,15 @@
    "url": "https://nitter.kareem.one/poteto/status/2118017093677494706#m",
    "ts": 1793809600,
    "id": "2118017093677494706#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "A friend signed up for Grok Bot a month ago and was about to cancel. He couldn't see the real value. He had 4 bots, but no plugins connected, no routines, and no skills. I showed him my 25 bots, what each one does, and how I manage the whole team. He was surprised by what Grok Bot can do, and he decided to keep his subscription. If you don't know how to orchestrate Grok Bots, you won't see the value. Businesses, companies, churches: if you need AI consulting, DM me.",
+   "url": "https://nitter.kareem.one/Texas_Twins_Dad/status/2118014632480682487#m",
+   "ts": 1793809013,
+   "id": "2118014632480682487#m"
   },
   {
    "handle": "TheRundownAI",
@@ -315,15 +370,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Excited to build Starlink Mobile with @Qualcomm ! Starlink (@Starlink) Starlink Mobile is building the first fully-integrated US nationwide satellite and terrestrial network that will keep people connected on their phones no matter where they are. Our 5G base stations will leverage @Qualcomm chips to accelerate deployment, starting in 2027 🛰️📱 — https://nitter.kareem.one/Starlink/status/2117973275414532165#m",
-   "url": "https://nitter.kareem.one/michaelnicollsx/status/2117986093178265833#m",
-   "ts": 1793802209,
-   "id": "2117986093178265833#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "BREAKING: The Government of Canada’s Starlink contract has grown to nearly C$29 million, more than 12 times its original value. 🇨🇦 Official government records show: • Original contract value: C$2.26 million • Updated total value: C$28.95 million • Increase: approximately C$26.7 million The agreement with SpaceX Canada provides Starlink satellite connectivity for Shared Services Canada and its partner government organizations as needed. The contract could continue until 2029, according to the Investigative Journalism Foundation. Starlink continues to support the communications needs of Canada’s federal government. Video",
    "url": "https://nitter.kareem.one/cb_doge/status/2117984987765236007#m",
    "ts": 1793801945,
@@ -346,15 +392,6 @@
    "url": "https://nitter.kareem.one/cb_doge/status/2117968783784673696#m",
    "ts": 1793798082,
    "id": "2117968783784673696#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "This is 100% real 😂 SpaceXSI is running an ad on a different platform about how to use Grok Bot to buy a local home services business featuring... Never mind… just watch it yourself. My head is spinning. Video",
-   "url": "https://nitter.kareem.one/SMB_Attorney/status/2117967638911435077#m",
-   "ts": 1793797809,
-   "id": "2117967638911435077#m"
   },
   {
    "handle": "elonmusk",
@@ -436,24 +473,6 @@
    "url": "https://nitter.kareem.one/vadiamit/status/2117769196469690765#m",
    "ts": 1793750497,
    "id": "2117769196469690765#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I literally just had my Grok @bot make a phone call. I texted my CEO and told her to order a pizza for pickup at 5 PM, under Teslaconomics. She wrote out what she planned to say, showed it to me, and got my approval. She only dialed after I tapped “Call”. Her opening line: “I’m a virtual assistant calling for Teslaconomics on a recorded line.” I liked that. She introduced herself as my assistant, used the name I gave her, and never said my real name or phone number. I picked up the other phone and she went through w/ my request… One large pepperoni, pickup today at 5 PM, paying at pickup, no drinks. She even asked if there was a freakin deal... I made her say “Tesla to the moon” to get the 50% off, bringing the total to $7.42. When she hung up, the recap landed right back in my chat. Everything was there for me to check. Super dope feature. Video Video",
-   "url": "https://nitter.kareem.one/Teslaconomics/status/2117752005037064529#m",
-   "ts": 1793746398,
-   "id": "2117752005037064529#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Team and I absolutely ripped on this. Designed and built it in 1 week, shipped it in 2. And the crazy part is it's actually good. Grok Bot (@bot) Try the new shopping experience in Grok Bot. Find the best deal, compare items, and have Bot track all your orders. Video — https://nitter.kareem.one/bot/status/2117736249444507834#m",
-   "url": "https://nitter.kareem.one/emersonsays/status/2117751600815178160#m",
-   "ts": 1793746302,
-   "id": "2117751600815178160#m"
   },
   {
    "handle": "thsottiaux",
@@ -724,15 +743,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2117580181766373562#m",
    "ts": 1793705432,
    "id": "2117580181766373562#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "btw here's @addyosmani how anthropic yolos 30k code changes a day in a dark factory approach, with @kapmani of @SonarSource giving more research on why every loop needs independent verification inv.kareem.one/watch?v=AnsXWH2_… already one of the top talks of AIE NYC! (Sonar is both a sponsor and super relevant for the aie nyc focus on finance) Link How Anthropic Merges 30,000 Code Changes a Day - Manish Kapur, Sonar & Addy Osmani, Anthropic Coding agents are opening PRs faster than anyone can review them. M... youtube.com",
-   "url": "https://nitter.kareem.one/swyx/status/2117558305891746212#m",
-   "ts": 1793700217,
-   "id": "2117558305891746212#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -1219,15 +1229,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2116115476463993042#m",
    "ts": 1793356219,
    "id": "2116115476463993042#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Send your kind feedback to this person Andrew Ambrosino (@ajambrosino) hi all, two things: 1. usage limits are back to being double – your feedback worked 2. we today kicked off an intense sprint to dramatically improve the app simplicity and performance. i will oversee this. more to come. now, send me your complaints — https://nitter.kareem.one/ajambrosino/status/2115855769665147254#m",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2115890336107233347#m",
-   "ts": 1793302542,
-   "id": "2115890336107233347#m"
   },
   {
    "handle": "simonw",
