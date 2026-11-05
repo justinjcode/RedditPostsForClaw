@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-05T00:20:26Z",
+ "generated_at": "2026-11-05T02:13:19Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
-  "selfhosted"
+  "MachineLearning",
+  "programming"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
   {
@@ -25,13 +25,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "OpenFruit a native iOS Compiler for Windows",
-   "url": "https://www.reddit.com/r/programming/comments/1xo3hq8/openfruit_a_native_ios_compiler_for_windows/",
-   "ts": 1793835284,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Ricursive Intelligence Ripple-65B-Preview: New Dense Model!",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xo2arv/ricursive_intelligence_ripple65bpreview_new_dense/",
@@ -43,6 +36,13 @@
    "title": "[P] NKI layer megakernels for GLM-5.3-Flash on AWS Trainium2: where a decode step's time went, and what we changed [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xo0yuq/p_nki_layer_megakernels_for_glm53flash_on_aws/",
    "ts": 1793828875,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Length Is Cheap, Competition Is Not: Attention Predicts Context Rot in Retrieval [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xnzzgn/length_is_cheap_competition_is_not_attention/",
+   "ts": 1793826521,
    "source": "Reddit"
   },
   {
@@ -134,6 +134,13 @@
    "title": "Best Photo Picker: point it at a photo folder and get the best shots back, all on your own hardware (MIT, Docker)",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xnu71s/best_photo_picker_point_it_at_a_photo_folder_and/",
    "ts": 1793813213,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Kimi K3.1 is likely benchmaxxed (with some proof)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnu6y1/kimi_k31_is_likely_benchmaxxed_with_some_proof/",
+   "ts": 1793813207,
    "source": "Reddit"
   },
   {
@@ -270,13 +277,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Introducing Hy4 (open weights soon)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnhzbz/introducing_hy4_open_weights_soon/",
-   "ts": 1793776990,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Visa Situation for NeurIPS Sydney Attendees [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xnh0uh/visa_situation_for_neurips_sydney_attendees_d/",
@@ -375,6 +375,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "programming",
+   "title": "A Decade of Kill Bugs – Alan Grow",
+   "url": "https://www.reddit.com/r/programming/comments/1xmgayd/a_decade_of_kill_bugs_alan_grow/",
+   "ts": 1793670897,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "MachineLearning",
    "title": "ICLR 2027 review results [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xm8vik/iclr_2027_review_results_d/",
@@ -386,13 +393,6 @@
    "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xm89ef/sparks_of_weightspace_programming_llms_can/",
    "ts": 1793650706,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Couldn't reproduce a published paper's numbers with its own code and settings. How do I present this? [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xm64of/couldnt_reproduce_a_published_papers_numbers_with/",
-   "ts": 1793646024,
    "source": "Reddit"
   },
   {
