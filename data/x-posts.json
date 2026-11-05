@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-05T14:26:48Z",
+ "generated_at": "2026-11-05T14:35:52Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +10,9 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 178,
  "items": [
   {
@@ -40,6 +41,15 @@
    "url": "https://nitter.kareem.one/GaoYingshi/status/2118303573822030250#m",
    "ts": 1793877902,
    "id": "2118303573822030250#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "In hindsight, it was a mistake for SpaceX to send them thousands of free Starlink dishes and millions of dollars a month in free service at the beginning of the war. What started as internet access for civilians became the backbone for autonomous killing drones. And now if they don’t support military use, they get skewered for it in the press. Open Source Intel (@Osint613) Ukrainian President Zelensky on Elon Musk: \"Having so much power concentrated in the hands of a very rich person is dangerous. Concentrating power in the hands of one person who doesn't have much money is also dangerous. That is the whole point of the separation of powers: making sure that everything is not concentrated in the hands of one person.\" — https://nitter.kareem.one/Osint613/status/2118226071967396200#m",
+   "url": "https://nitter.kareem.one/wholemars/status/2118301931852738730#m",
+   "ts": 1793877511,
+   "id": "2118301931852738730#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -409,15 +419,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2117996293188718856#m",
    "ts": 1793804641,
    "id": "2117996293188718856#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Free new dish for all early Starlink customers Sawyer Merritt (@SawyerMerritt) Starlink is formally rolling out free dish upgrades for its earliest customers. “Eligible customers who were among the first to connect with Starlink, and who are still using a first-generation kit can receive a new Standard kit at no cost. Customers will be provided with a free mount, and they can opt in for free installation. If you are eligible for this upgrade, you will receive an invitation by email.” More info: starlink.com/support/article… — https://nitter.kareem.one/SawyerMerritt/status/2117745806996340890#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2117995905525907769#m",
-   "ts": 1793804548,
-   "id": "2117995905525907769#m"
   },
   {
    "handle": "elonmusk",
