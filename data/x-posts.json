@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-05T23:43:07Z",
+ "generated_at": "2026-11-05T23:53:48Z",
  "accounts_ok": [
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,10 +10,20 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Haha, no way! Okay, proof of a previous statement I made: tiktok.com/t/ZTPeKg1oa/ (Better if I warm up but I got excited and just wanted to make it fast.) Link TikTok · Max Kanat-Alexander tiktok.com",
+   "url": "https://nitter.kareem.one/mkanat/status/2118483674769625305#m",
+   "ts": 1793920842,
+   "id": "2118483674769625305#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -482,15 +491,6 @@
    "url": "https://nitter.kareem.one/ZinkLu2/status/2118197358601379910#m",
    "ts": 1793852579,
    "id": "2118197358601379910#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "有幸来听到 Ryo 的讲座，短短不到半小时却受益匪浅，",
-   "url": "https://nitter.kareem.one/vanillaCitron/status/2118197075343216656#m",
-   "ts": 1793852511,
-   "id": "2118197075343216656#m"
   },
   {
    "handle": "swyx",
