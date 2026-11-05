@@ -1,20 +1,28 @@
 {
- "generated_at": "2026-11-05T18:39:15Z",
+ "generated_at": "2026-11-05T18:46:54Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "My chat with @swyx on software factories is live. We walk through the full factory stack: inv.kareem.one/watch?v=LL0YmIyB… Link ⚡️ The 2026 Software Factory Standard — Zach Lloyd, Warp.dev Software factories at Warp: founder and CEO Zach Lloyd walks swyx t... youtube.com",
+   "url": "https://nitter.kareem.one/zachlloydtweets/status/2118410609234772114#m",
+   "ts": 1793903422,
+   "id": "2118410609234772114#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -230,15 +238,6 @@
    "url": "https://nitter.kareem.one/ameliax111/status/2118338475271528762#m",
    "ts": 1793886223,
    "id": "2118338475271528762#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "@swyx you must wonder how you looked like in front of hull house of AI engineers in China! Great opening from Mengying @StandupPartners , golden words from @ryolu_ and such an amazing gaming demos from @MinakoOikawa Day 1 @aiDotEngineer",
-   "url": "https://nitter.kareem.one/Ninggao88/status/2118320016366133433#m",
-   "ts": 1793881823,
-   "id": "2118320016366133433#m"
   },
   {
    "handle": "TheRundownAI",
