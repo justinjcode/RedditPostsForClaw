@@ -1,18 +1,17 @@
 {
- "generated_at": "2026-11-05T12:24:32Z",
+ "generated_at": "2026-11-05T12:36:05Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
   {
@@ -32,6 +31,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2118304989961453754#m",
    "ts": 1793878240,
    "id": "2118304989961453754#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "我初中时，我爷爷奶奶动不动就打电话叫我去他们那吃“韭菜肉馅饺子” 当时我很不耐烦，大概率去得很晚 现在想来，老爷子老太太可能主要是【老人孤单，想看看我】，“找个什么理由把他叫来呢？”，“记得他爱吃韭菜馅饺子，那就包饺子吧”，忙活好一阵，煮好了后，打电话给他 结果电话那边一脸不耐烦🙂 𝗠𝗿𝗬𝗘𝗘 (@HelloMrYEE) 晚上吃个东北名菜，韭菜馅儿饺子 — https://nitter.kareem.one/HelloMrYEE/status/2118277739656687818#m",
+   "url": "https://nitter.kareem.one/NovaIntrovert/status/2118286639843934686#m",
+   "ts": 1793873865,
+   "id": "2118286639843934686#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -1076,15 +1084,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2117283124833055196#m",
    "ts": 1793634608,
    "id": "2117283124833055196#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Talked with researchers at Chinese AI labs. I came back thinking the gap between US and Chinese labs is getting wider. 1/openai and anthropic are already in RSI territory. You can feel the speed-up from the outside. Chinese models aren't strong enough to get there yet. Most of the \"RSI\" I heard about is automating steps researchers used to do by hand. 2/Everyone there is now obsessed with data, mostly because distillation got a lot harder. So labs are going all in on synthetic and expert data. 3/After GPT-6 Astra, everyone is looking at robotics. Robot companies are already plugging Astra into their hardware. Almost nobody is seriously doing AI for science though. 4/One more thing from this weekend. DeepSeek open-sourced a research prototype of a coding agent.The line in their README I keep thinking about: \"take as little human attention as possible.\" The model gap isn't closing soon, so they're thinking hard about how little you should have to babysit the agent.",
-   "url": "https://nitter.kareem.one/hannahhaina/status/2117281419479404775#m",
-   "ts": 1793634202,
-   "id": "2117281419479404775#m"
   },
   {
    "handle": "TheRundownAI",
