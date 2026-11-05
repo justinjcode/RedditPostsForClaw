@@ -1,20 +1,55 @@
 {
- "generated_at": "2026-11-05T16:10:22Z",
+ "generated_at": "2026-11-05T18:11:23Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
   {
    "subreddit": "LocalLLaMA",
-   "title": "Dream come true: I trained 48 in-browser 24 kHz TTS specialists for Classical Sanskrit, English & 10 Indic languages (21.7 MB iSTFTNet / 27.9 MB HiFi-GAN, 538ms phone WASM)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xolsyu/dream_come_true_i_trained_48_inbrowser_24_khz_tts/",
-   "ts": 1793893121,
+   "title": "Can Opus weight-space-edit Qwen3.8-27B to refuse less? Yes",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoo730/can_opus_weightspaceedit_qwen3827b_to_refuse_less/",
+   "ts": 1793898649,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "[Paper] SpecOPD: Branch-Parallel On-Policy Distillation for Speculative Decoding - By Qwen",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoo0pp/paper_specopd_branchparallel_onpolicy/",
+   "ts": 1793898238,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Wake on Lan at Immich/Audiobookshelf Connect",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xonmrn/wake_on_lan_at_immichaudiobookshelf_connect/",
+   "ts": 1793897366,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "[GUIDE] Qwen3.8 Flash-Next on a single RTX 5080 + 64GB RAM: >250 tok/s tg and 5700 tok/s prefill in real agent coding sessions (Basalt + new Unsloth UD-IQ3_XXS + Lamina drafter),+ how it compares to llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xomy0i/guide_qwen38_flashnext_on_a_single_rtx_5080_64gb/",
+   "ts": 1793895795,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "How I built a ’90s-style adventure game on top of my Hugo blog",
+   "url": "https://www.reddit.com/r/programming/comments/1xomwik/how_i_built_a_90sstyle_adventure_game_on_top_of/",
+   "ts": 1793895700,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "[Paper] FireFlash : An Open Recipe for Long-Horizon Agentic RL Achieving the Performance-Cost Pareto Frontier",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xomst7/paper_fireflash_an_open_recipe_for_longhorizon/",
+   "ts": 1793895462,
    "source": "Reddit"
   },
   {
@@ -88,13 +123,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Not every GitHub Actions outage is out of your control",
-   "url": "https://www.reddit.com/r/programming/comments/1xoim8i/not_every_github_actions_outage_is_out_of_your/",
-   "ts": 1793885242,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "An open-source project just ranked #1 on EnterpriseRAG-Bench, ahead of the listed systems from OpenAI, Google, Microsoft and Amazon",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoiaye/an_opensource_project_just_ranked_1_on/",
@@ -113,13 +141,6 @@
    "title": "Do not ask \"Is A a B?\": Inheritance and the Is-A Trap",
    "url": "https://www.reddit.com/r/programming/comments/1xohfz9/do_not_ask_is_a_a_b_inheritance_and_the_isa_trap/",
    "ts": 1793881819,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "My first experience with agentic AI",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xohbd3/my_first_experience_with_agentic_ai/",
-   "ts": 1793881416,
    "source": "Reddit"
   },
   {
@@ -144,24 +165,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Verifying data from untrusted peers: how Hypercore's Merkle proofs work (one block in a million costs ~1 KB)",
-   "url": "https://www.reddit.com/r/programming/comments/1xoguip/verifying_data_from_untrusted_peers_how/",
-   "ts": 1793879999,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Quantization livestream with goats of inference",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoglot/quantization_livestream_with_goats_of_inference/",
    "ts": 1793879170,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Applying DDD with Jakarta EE: Strategic and Tactical Design with Jakarta Data",
-   "url": "https://www.reddit.com/r/programming/comments/1xogagh/applying_ddd_with_jakarta_ee_strategic_and/",
-   "ts": 1793878091,
    "source": "Reddit"
   },
   {
@@ -222,13 +229,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "baidu/ERNIE-5.5-Flash-Base · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xobtwx/baiduernie55flashbase_hugging_face/",
-   "ts": 1793860848,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "CCORE GLB-3D-Coder 4B final model and full weights are out",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xobe4h/ccore_glb3dcoder_4b_final_model_and_full_weights/",
    "ts": 1793859249,
@@ -260,13 +260,6 @@
    "title": "What is now considered a “reasonable” publication rate (papers/year) for a PhD student to be considered “productive”? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xo7q89/what_is_now_considered_a_reasonable_publication/",
    "ts": 1793847315,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Cryptominer in my Plausible anayltics container",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xo7agf/cryptominer_in_my_plausible_anayltics_container/",
-   "ts": 1793846016,
    "source": "Reddit"
   },
   {
@@ -333,13 +326,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "My gift to the mods:",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnr6zd/my_gift_to_the_mods/",
-   "ts": 1793806337,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Git, From the Inside (interactive explainer)",
    "url": "https://www.reddit.com/r/programming/comments/1xnqotw/git_from_the_inside_interactive_explainer/",
@@ -393,6 +379,20 @@
    "title": "Visa Situation for NeurIPS Sydney Attendees [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xnh0uh/visa_situation_for_neurips_sydney_attendees_d/",
    "ts": 1793773494,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Postgres 19 REPACK: Built-In Online Table Bloat Cleanup",
+   "url": "https://www.reddit.com/r/programming/comments/1xn9jr2/postgres_19_repack_builtin_online_table_bloat/",
+   "ts": 1793750798,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Can GROUP BY still be optimized after all these years?",
+   "url": "https://www.reddit.com/r/programming/comments/1xmxnwu/can_group_by_still_be_optimized_after_all_these/",
+   "ts": 1793723487,
    "source": "Reddit"
   },
   {
