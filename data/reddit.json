@@ -1,15 +1,50 @@
 {
- "generated_at": "2026-11-05T18:11:23Z",
+ "generated_at": "2026-11-05T20:09:18Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
+  "MachineLearning",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "MachineLearning",
+   "title": "The Ultimate MoE Training Handbook: training Mixture-of-Experts models with Megatron-LM, setting by setting [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xorgq0/the_ultimate_moe_training_handbook_training/",
+   "ts": 1793906031,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "The Ultimate MoE Training Handbook: training Mixture-of-Experts models with Megatron-LM, setting by setting.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xor5nr/the_ultimate_moe_training_handbook_training/",
+   "ts": 1793905313,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Looking for Emergency Reviewers [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xoqca2/looking_for_emergency_reviewers_r/",
+   "ts": 1793903463,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "DeepSeek-V4.1-Flash-1017 on one RTX 3090: Big updates to the Delta Inference Engine v0.93. Same 41 tok/s at 192GB/IQ2 at better quality, usable from 64 GB RAM, first token ~40% sooner, new Unsloth quants at full speed, EXL3, basic multi-GPU, public CI and more",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoq4vq/deepseekv41flash1017_on_one_rtx_3090_big_updates/",
+   "ts": 1793903002,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "I animated how a language model picks the next token, with real probabilities from Qwen2.5-0.5B: softmax, greedy vs sampling, temperature, top-k, top-p (7 min video) [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xopogt/i_animated_how_a_language_model_picks_the_next/",
+   "ts": 1793901955,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Can Opus weight-space-edit Qwen3.8-27B to refuse less? Yes",
@@ -22,6 +57,13 @@
    "title": "[Paper] SpecOPD: Branch-Parallel On-Policy Distillation for Speculative Decoding - By Qwen",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoo0pp/paper_specopd_branchparallel_onpolicy/",
    "ts": 1793898238,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "trainlint: static checks for ML bugs that don't crash (fit-before-split, eval mode, logits losses) [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xonrvy/trainlint_static_checks_for_ml_bugs_that_dont/",
+   "ts": 1793897696,
    "source": "Reddit"
   },
   {
@@ -159,13 +201,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "Rather Qwen4-27b at 1M ctx than a big MOE at 128k",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoh2s7/rather_qwen427b_at_1m_ctx_than_a_big_moe_at_128k/",
-   "ts": 1793880664,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "Quantization livestream with goats of inference",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoglot/quantization_livestream_with_goats_of_inference/",
    "ts": 1793879170,
@@ -207,13 +242,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "NextExplorer for iOS has now its native app on macOS",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xocyb1/nextexplorer_for_ios_has_now_its_native_app_on/",
-   "ts": 1793865220,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Publication expectations for ML PhDs at top-10 US schools / top ML groups? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xoc358/publication_expectations_for_ml_phds_at_top10_us/",
@@ -242,13 +270,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "Anyone else tired of how expensive agent evaluations are? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xo8hlk/anyone_else_tired_of_how_expensive_agent/",
-   "ts": 1793849581,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "LZAV 7.1: Improved compression ratio and speed. Achieved complete C/C++ pointer arithmetic compliance. Fast Data Compression Algorithm (inline C/C++).",
    "url": "https://www.reddit.com/r/programming/comments/1xo82gs/lzav_71_improved_compression_ratio_and_speed/",
@@ -260,6 +281,13 @@
    "title": "What is now considered a “reasonable” publication rate (papers/year) for a PhD student to be considered “productive”? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xo7q89/what_is_now_considered_a_reasonable_publication/",
    "ts": 1793847315,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Cryptominer in my Plausible anayltics container",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xo7agf/cryptominer_in_my_plausible_anayltics_container/",
+   "ts": 1793846016,
    "source": "Reddit"
   },
   {
@@ -299,13 +327,6 @@
   },
   {
    "subreddit": "MachineLearning",
-   "title": "Do looped transformers save HBM traffic? Profiling weight reuse in Huginn on a B200 [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xnskvt/do_looped_transformers_save_hbm_traffic_profiling/",
-   "ts": 1793809572,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
    "title": "Why can't conferences just reasonably reduce the cap on number of submissions? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xnscvr/why_cant_conferences_just_reasonably_reduce_the/",
    "ts": 1793809059,
@@ -316,13 +337,6 @@
    "title": "Im on a mission to create the best self hosted reading client alternative to Kindle and Apple Books",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xnrt3j/im_on_a_mission_to_create_the_best_self_hosted/",
    "ts": 1793807787,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Kimi-K3.1-Pro is now open-weights",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnrhvb/kimik31pro_is_now_openweights/",
-   "ts": 1793807048,
    "source": "Reddit"
   },
   {
@@ -361,24 +375,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "Hydrogen-1.0: open-weight scientific model beats GPT-6 Astra on FSR with 72% lower estimated output cost [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xnjhdd/hydrogen10_openweight_scientific_model_beats_gpt6/",
-   "ts": 1793782829,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "the lost malloc()",
    "url": "https://www.reddit.com/r/programming/comments/1xni70o/the_lost_malloc/",
    "ts": 1793777817,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Visa Situation for NeurIPS Sydney Attendees [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xnh0uh/visa_situation_for_neurips_sydney_attendees_d/",
-   "ts": 1793773494,
    "source": "Reddit"
   },
   {
