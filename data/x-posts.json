@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-05T00:42:38Z",
+ "generated_at": "2026-11-05T00:54:18Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "ZichenWanghere",
+  "TheRundownAI",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
-  "@swyx: all instances failed",
-  "@bcherny: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 178,
  "items": [
@@ -23,6 +23,15 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118138764161913278#m",
    "ts": 1793838609,
    "id": "2118138764161913278#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "i actually respect breadth in an economy that only respects b2b saas competitor: we solved coding oai: here’s sora competitor: we solved alignment oai: here’s scarlett johannson’s voice competitor: we are giving tokens and vms away for free to recapture mainstream attention oai: heres dancing cats OpenAI (@OpenAI) Images, upgraded—introducing ChatGPT Images 2.6. Now with GIFs and reference images. Plus, two new models are coming to the API with 50% faster image generation. Video — https://nitter.kareem.one/OpenAI/status/2118124944928432327#m",
+   "url": "https://nitter.kareem.one/swyx/status/2118138737419067758#m",
+   "ts": 1793838602,
+   "id": "2118138737419067758#m"
   },
   {
    "handle": "thsottiaux",
@@ -1067,15 +1076,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2117217859508007009#m",
    "ts": 1793619048,
    "id": "2117217859508007009#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Estos días han empezado a subir a YouTube las charlas de @aiDotEngineer AI Engineer, la conferencia de IA más importante ahora mismo en el panorama mundial. Empresas contando cómo incorporan y escalan IA. Realmente SoTA. He seleccionado las 10 más relevantes. Va hilo 🧵 con todas. Son todas bastante crema :chefkiss Like, RT y guárdatelo para poder verlas luego. 👇",
-   "url": "https://nitter.kareem.one/borjaperfra/status/2117193535661203864#m",
-   "ts": 1793613249,
-   "id": "2117193535661203864#m"
   },
   {
    "handle": "ZichenWanghere",
