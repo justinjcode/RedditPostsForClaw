@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-05T16:21:17Z",
+ "generated_at": "2026-11-05T16:34:26Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "True X Freeze (@XFreeze) Starlink is becoming a GAME CHANGER for airlines, driving higher customer satisfaction, stronger loyalty and even influencing which airline passengers choose to fly with And the numbers are absolutely extraordinary: • United Airlines — Customers are choosing United specifically because of Starlink, with the airline seeing opportunities to turn them into long-term loyal passengers • Alaska/Hawaiian — Guest satisfaction is 20% higher on Starlink-equipped flights, while nearly 75% of non-members using the onboard portal signed up for Atmos Rewards • Virgin Atlantic — Onboard connectivity satisfaction has increased by more than 40 points, with Starlink also helping attract new Flying Club members • airBaltic — Net Promoter Scores are approximately 9 points higher on Starlink-equipped flights • ZIPAIR — Passenger revenue grew 12.3% YoY, with JAL highlighting fleetwide Starlink connectivity alongside flexible pricing Starlink has become a real competitive advantage, improving the passenger experience, strengthening customer loyalty, and giving people another reason to choose which airline they fly with The future of in-flight connectivity is becoming a major part of how airlines compete — https://nitter.kareem.one/XFreeze/status/2118378758147297681#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2118379126004535334#m",
+   "ts": 1793895915,
+   "id": "2118379126004535334#m"
+  },
   {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
@@ -49,6 +59,15 @@
    "url": "https://nitter.kareem.one/RushDoshi/status/2118364403506511900#m",
    "ts": 1793892405,
    "id": "2118364403506511900#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "For a long time I’ve talked about Agent Experience. Many think AX is the new DX, but that misses the bigger picture. We’re moving to an agent-first world, where agents are the primary users of all software. AX isn’t just the new DX. It’s the new UX. innovationendeavors.com/insi… Link AX is not the new DX, it’s the new UX Over the past year, I've watched infrastructure start the transition from Developer Experience to Agent Experience. It meant strong tailwinds for infrastructure... innovationendeavors.com",
+   "url": "https://nitter.kareem.one/auchenberg/status/2118330248135582163#m",
+   "ts": 1793884262,
+   "id": "2118330248135582163#m"
   },
   {
    "handle": "TheRundownAI",
@@ -459,15 +478,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "At last there will be one network with good signal everywhere! Starlink (@Starlink) Starlink Mobile is building the first fully-integrated US nationwide satellite and terrestrial network that will keep people connected on their phones no matter where they are. Our 5G base stations will leverage @Qualcomm chips to accelerate deployment, starting in 2027 🛰️📱 — https://nitter.kareem.one/Starlink/status/2117973275414532165#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2117996293188718856#m",
-   "ts": 1793804641,
-   "id": "2117996293188718856#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "BREAKING: The Government of Canada’s Starlink contract has grown to nearly C$29 million, more than 12 times its original value. 🇨🇦 Official government records show: • Original contract value: C$2.26 million • Updated total value: C$28.95 million • Increase: approximately C$26.7 million The agreement with SpaceX Canada provides Starlink satellite connectivity for Shared Services Canada and its partner government organizations as needed. The contract could continue until 2029, according to the Investigative Journalism Foundation. Starlink continues to support the communications needs of Canada’s federal government. Video",
    "url": "https://nitter.kareem.one/cb_doge/status/2117984987765236007#m",
    "ts": 1793801945,
@@ -733,15 +743,6 @@
    "url": "https://nitter.kareem.one/michaelkamon/status/2117683721834775038#m",
    "ts": 1793730118,
    "id": "2117683721834775038#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "As part of the most insane AIE lineup to end 2026, we're also excited to announce our final track theme: *Raising your Ambition* featuring @jxnlco , @trq212 , @jarredsumner , @sqs , @mitsuhiko , @dexhorthy , @BuiltByJustin (StrongDM Dark Factory) and a special keynote from @echelon in his first big appearance since cloning the entire Adobe suite last month... and talking about how and what's next! gathering 1000 of the top agentic engineers in person in SF and livestreamed to 2M MAU online on youtube. join here: aie.codes <- see you in SF! AI.Engineer 🔜 Shanghai & SF CODE (@aiDotEngineer) We're excited to announce our AI Engineer Code Summit speaker lineup! → ai.engineer/code VP Gemini Post-Training Lead, @GoogleDeepMind CEO, @e2b CTO, @ExaAILabs CEO, @warpdotdev CEO, @aviator_co_ CEO, @fivetran CTO, @Lovable CTO, @iamovercut CTO, @earendilworks (Pi) CEO, @diffusionio CPO, @cognition CTO, @GoodfireAI MTS, @AnthropicAI CTO, @composio GPM, @Cloudflare MTS, @databricks CEO, @AmpCode Co-Founder, @gimletlabs CEO, @mixedbreadai CEO, @humanlayer_dev Head of AI, @MonacoGTM Lecturer, @UCBerkeley Principal Engineer, @spacexai CEO, @TypeSafeAI (Jev) Founder, Bun at Anthropic VP Product, @reflection_ai Research Lead, Reflection AI Staff Software Engineer, @SonarSource Principal Software Engineer, @tryramp Senior Engineering Manager, @netflix Forward Deployed Engineer, @baseten Also joining us: @kevinhou22 — Google DeepMind Antigravity @Steve_Yegge — Creator of Beads & Gas Town @lucasmeij",
-   "url": "https://nitter.kareem.one/swyx/status/2117679157035602065#m",
-   "ts": 1793729030,
-   "id": "2117679157035602065#m"
   },
   {
    "handle": "TheRundownAI",
