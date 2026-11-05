@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-05T11:43:42Z",
+ "generated_at": "2026-11-05T11:53:13Z",
  "accounts_ok": [
+  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,28 @@
  ],
  "errors": [
   "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: therundownai.beehiiv.com/p/a… Link AI agents can now make your phone calls Grok can now make phone calls for you, handling hold times and small talk. Here's what AI phone agents mean for everyday users and what's next. therundownai.beehiiv.com",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2118304994872955101#m",
+   "ts": 1793878241,
+   "id": "2118304994872955101#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in AI today: -SpaceXSI’s Grok Bot starts making phone calls -Nate’s Notebook: Make AI sketch before it builds - Which free AI tool should you actually use? - Midterm voters turn on data centers, AI",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2118304989961453754#m",
+   "ts": 1793878240,
+   "id": "2118304989961453754#m"
+  },
   {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
@@ -1211,24 +1229,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2116176082864906570#m",
    "ts": 1793370669,
    "id": "2116176082864906570#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in tech today: - Binance loses $6.3B in record hack - Reddit locks out logged-out readers - Meta brings self-harm alerts to Facebook - Amazon rolls out five Alexa+ devices",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2116176078192492768#m",
-   "ts": 1793370668,
-   "id": "2116176078192492768#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: therundownai.beehiiv.com/p/i… Link Inside the spy plot around Nvidia’s CEO A New York Times report says US intelligence flagged an alleged Chinese asset with close ties to Nvidia CEO Jensen Huang, yet the White House chose not to act. therundownai.beehiiv.com",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2116115476463993042#m",
-   "ts": 1793356219,
-   "id": "2116115476463993042#m"
   },
   {
    "handle": "simonw",
