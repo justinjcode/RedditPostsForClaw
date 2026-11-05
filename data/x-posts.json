@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-11-05T16:07:11Z",
+ "generated_at": "2026-11-05T16:21:17Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "Participated in this very stimulating debate in London. Doha Debates (@DohaDebates) This week's episode of the Doha Debates Podcast asks: Does global power lie with governments or corporations? Featuring Antara Halder, Sophie Scott-Brown @HuiyaoWang and @MarkJLittlewood 00:00 Intro 01:25 Governments vs. corporations: Who has more power? 09:01 “Corporations are far more powerful.” 17:58 “Capitalism is like a self-destructive, almost suicidal baby.” 38:29 Does China offer an alternative governmental and economic model? 49:45 Civil society’s role: Holding government and corporations accountable 1:04:42 How does China balance corporate growth with statecraft? 1:14:29 Do the interests of tech companies align with public interest? 1:19:22 Can global cooperation solve our biggest challenges? 1:25:10 “A lot of the problems that we have are problems without passports.” 1:30:27 The message of populist movements 1:44:30 Social media, algorithms and public responsibility 1:49:15 Is digital disinformation undermining democracy? 2:12:00 Closing thoughts Video — https://nitter.kareem.one/DohaDebates/status/2117980191817683058#m",
+   "url": "https://nitter.kareem.one/HuiyaoWang/status/2118371814879715734#m",
+   "ts": 1793894172,
+   "id": "2118371814879715734#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -32,6 +40,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2118365598459527286#m",
    "ts": 1793892690,
    "id": "2118365598459527286#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "I've heard from many in Beijing that they like Trump's accommodating China policy. But this quote is quite striking: \"The Chinese are very realistic that a new president might be very different (from Trump),\" said Shen Weizhong, a former Chinese Foreign Ministry official. \"But if we ​can have two more years of stability, that's already a good thing for China ... The more time we have, the better prepared we might be towards ⁠a final showdown on Taiwan or maybe another trade war,\" added Shen, who now works for Beijing-based think tank Global Governance Institution. Reuters China (@ReutersChina) The midterm drubbing of Donald Trump's Republicans may strengthen China's hand in trade talks with Washington, but Beijing is unlikely to revel in the misfortunes of a US president whose successor could prove less accommodating. reuters.com/world/china/trum… Link Trump's political humbling signals short-term gain, long-term pain for China The midterm drubbing of Donald Trump's Republicans may strengthen China's hand in trade talks with Washington, but Beijing is ​unlikely to revel in the misfortunes of a US president whose successor... reuters.com — https://nitter.kareem.one/ReutersChina/status/2118259560855056885#m",
+   "url": "https://nitter.kareem.one/RushDoshi/status/2118364403506511900#m",
+   "ts": 1793892405,
+   "id": "2118364403506511900#m"
   },
   {
    "handle": "TheRundownAI",
@@ -320,6 +337,15 @@
    "url": "https://nitter.kareem.one/ClaudeDevs/status/2118063143167693011#m",
    "ts": 1793820579,
    "id": "2118063143167693011#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "I've been meaning to read Robert L. Suettingers excellent book on Hu Yaobang for a long time and I'm glad I finally got around to it. \"The Conscience of the Party\" is an insightful retelling of the life of a decent man in a system that did not reward decency and innovation.",
+   "url": "https://nitter.kareem.one/chris__pc/status/2118058129137319975#m",
+   "ts": 1793819384,
+   "id": "2118058129137319975#m"
   },
   {
    "handle": "TheRundownAI",
@@ -817,15 +843,6 @@
    "id": "2117580181766373562#m"
   },
   {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "我妈说我给仓库猫吃太多， 我睁大眼睛说，“仓库猫运动量大……” “你就像溺爱小孩的家长。” 我涨红了脸，额上的青筋条条绽出，争辩道：“仓库猫运动量大，它们每天跑来跑去消耗大啊” 接连便是难懂的话，什么“仓库猫不胖”，什么“都消耗了”之类，引得众人都哄笑起来：仓库充满了快活的空气。",
-   "url": "https://nitter.kareem.one/BadDogEgg/status/2117554380463579169#m",
-   "ts": 1793699281,
-   "id": "2117554380463579169#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -842,15 +859,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2117412956950638872#m",
    "ts": 1793665563,
    "id": "2117412956950638872#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "\"Intense fury followed by: let's get on with business.\" Kevin Rudd on Trump and the PM's White House meeting in October last year.",
-   "url": "https://nitter.kareem.one/stephendziedzic/status/2117412541081293262#m",
-   "ts": 1793665464,
-   "id": "2117412541081293262#m"
   },
   {
    "handle": "realDonaldTrump",
@@ -1445,15 +1453,6 @@
    "url": "https://nitter.kareem.one/alexbward/status/2113329634448421148#m",
    "ts": 1792692023,
    "id": "2113329634448421148#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "After nine wonderful years at CNN, I’ve decided to leave for an opportunity that I couldn’t pass up. I’m grateful for the experiences, friendships and support from fabulous colleagues during my CNN years. Exciting news to share very soon!",
-   "url": "https://nitter.kareem.one/biannagolodryga/status/2113254988621218057#m",
-   "ts": 1792674226,
-   "id": "2113254988621218057#m"
   },
   {
    "handle": "simonw",
