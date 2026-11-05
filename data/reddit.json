@@ -1,15 +1,64 @@
 {
- "generated_at": "2026-11-05T14:09:27Z",
+ "generated_at": "2026-11-05T16:10:22Z",
  "count": 60,
  "subreddits_ok": [
+  "LocalLLaMA",
   "MachineLearning",
-  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Dream come true: I trained 48 in-browser 24 kHz TTS specialists for Classical Sanskrit, English & 10 Indic languages (21.7 MB iSTFTNet / 27.9 MB HiFi-GAN, 538ms phone WASM)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xolsyu/dream_come_true_i_trained_48_inbrowser_24_khz_tts/",
+   "ts": 1793893121,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Looking for the holy grail of notes",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xolo0h/looking_for_the_holy_grail_of_notes/",
+   "ts": 1793892792,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Industry to academia [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xol3vf/industry_to_academia_d/",
+   "ts": 1793891482,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "How do you keep Docker Swarm releases consistent across images, configs and database migrations?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xokp3s/how_do_you_keep_docker_swarm_releases_consistent/",
+   "ts": 1793890544,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "NVIDIA RTX PRO 5500 Blackwell appears at $17,999 MSRP, higher than RTX PRO 6000 at $16,000 MSRP set some months ago by NVIDIA - VideoCardz",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xojryw/nvidia_rtx_pro_5500_blackwell_appears_at_17999/",
+   "ts": 1793888266,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "openssh on musl (eg. alpine) accepts any password > 256 characters for accounts with login disabled",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xojnsm/openssh_on_musl_eg_alpine_accepts_any_password/",
+   "ts": 1793887979,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Getting editable layers out of Qwen-Image 2.1, a model that only edits: what works, what still fails (local, open source) Kokon",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoji3b/getting_editable_layers_out_of_qwenimage_21_a/",
+   "ts": 1793887587,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "System Design - Apache Kafka Basics",
@@ -46,10 +95,17 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "I built an annotation-based Kubernetes operator for Uptime Kuma — no CRDs",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xohtqf/i_built_an_annotationbased_kubernetes_operator/",
-   "ts": 1793883004,
+   "subreddit": "LocalLLaMA",
+   "title": "An open-source project just ranked #1 on EnterpriseRAG-Bench, ahead of the listed systems from OpenAI, Google, Microsoft and Amazon",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoiaye/an_opensource_project_just_ranked_1_on/",
+   "ts": 1793884369,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Best approach for demand forecasting across 40 locations? Separate models or one global model? [p]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xohxyv/best_approach_for_demand_forecasting_across_40/",
+   "ts": 1793883351,
    "source": "Reddit"
   },
   {
@@ -57,6 +113,13 @@
    "title": "Do not ask \"Is A a B?\": Inheritance and the Is-A Trap",
    "url": "https://www.reddit.com/r/programming/comments/1xohfz9/do_not_ask_is_a_a_b_inheritance_and_the_isa_trap/",
    "ts": 1793881819,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "My first experience with agentic AI",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xohbd3/my_first_experience_with_agentic_ai/",
+   "ts": 1793881416,
    "source": "Reddit"
   },
   {
@@ -71,6 +134,13 @@
    "title": "Wireguard on router Vs Tailscale",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xoh5zn/wireguard_on_router_vs_tailscale/",
    "ts": 1793880949,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Rather Qwen4-27b at 1M ctx than a big MOE at 128k",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoh2s7/rather_qwen427b_at_1m_ctx_than_a_big_moe_at_128k/",
+   "ts": 1793880664,
    "source": "Reddit"
   },
   {
@@ -123,13 +193,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Anything beat Qwen 3.8 27B yet?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoe1wc/anything_beat_qwen_38_27b_yet/",
-   "ts": 1793869620,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "APT CVE-2026-109518 (root via packages that fail signature checks): Ubuntu says to update with -o Acquire::Retries=0",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xodzj7/apt_cve2026109518_root_via_packages_that_fail/",
@@ -169,13 +232,6 @@
    "title": "CCORE GLB-3D-Coder 4B final model and full weights are out",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xobe4h/ccore_glb3dcoder_4b_final_model_and_full_weights/",
    "ts": 1793859249,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "What are vector embeddings? An interactive guide",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xo9vl3/what_are_vector_embeddings_an_interactive_guide/",
-   "ts": 1793853990,
    "source": "Reddit"
   },
   {
@@ -228,13 +284,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "What are you looking forward to in Qwen 4?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xo3ikc/what_are_you_looking_forward_to_in_qwen_4/",
-   "ts": 1793835349,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "How we halved DNS build delay and cut memory use by 85%",
    "url": "https://www.reddit.com/r/programming/comments/1xnzyh6/how_we_halved_dns_build_delay_and_cut_memory_use/",
@@ -246,20 +295,6 @@
    "title": "Deepseek alone accounted for 53% of all (27 trillion) tokens on Openrouter yesterday. Open-weights labs totaling over 75% now",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnz8ct/deepseek_alone_accounted_for_53_of_all_27/",
    "ts": 1793824768,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "ricursiveAI/Ripple-65B-Preview · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnx3cs/ricursiveairipple65bpreview_hugging_face/",
-   "ts": 1793819776,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Unsloth Qwen3.8-Flash-Next GGUFs V3.1 Update (November 4th 2026)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnuva2/unsloth_qwen38flashnext_ggufs_v31_update_november/",
-   "ts": 1793814693,
    "source": "Reddit"
   },
   {
@@ -305,13 +340,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "I am big enough to admit that this is me",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnqxlq/i_am_big_enough_to_admit_that_this_is_me/",
-   "ts": 1793805715,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Git, From the Inside (interactive explainer)",
    "url": "https://www.reddit.com/r/programming/comments/1xnqotw/git_from_the_inside_interactive_explainer/",
@@ -323,13 +351,6 @@
    "title": "Shlemiel the Painter Is Back: How Zig’s libc Rewrite Made SQLite 12,000× Slower",
    "url": "https://www.reddit.com/r/programming/comments/1xnq1xx/shlemiel_the_painter_is_back_how_zigs_libc/",
    "ts": 1793803618,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Jumped into the rabbit hole with both feet a few weeks ago - thoroughly enjoying myself!",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xnpwnx/jumped_into_the_rabbit_hole_with_both_feet_a_few/",
-   "ts": 1793803252,
    "source": "Reddit"
   },
   {
@@ -375,31 +396,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "PSA: Immich Machine Learning has Microsoft Telemetry enabled by default, here's how to disable it",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xnbujt/psa_immich_machine_learning_has_microsoft/",
-   "ts": 1793757279,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "A new, open-weights 278M PII detection model and reference benchmark [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xn2lro/a_new_openweights_278m_pii_detection_model_and/",
-   "ts": 1793734194,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "We’re the product team at Reflection, the lab behind Beam — Ask Us Anything!",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmwryg/were_the_product_team_at_reflection_the_lab/",
    "ts": 1793721560,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "We turned 10 years of ML papers into one page per topic: benchmark records, what got tried, what reviewers expect [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xmk8rx/we_turned_10_years_of_ml_papers_into_one_page_per/",
-   "ts": 1793682558,
    "source": "Reddit"
   },
   {
