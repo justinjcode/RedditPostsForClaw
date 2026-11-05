@@ -1,15 +1,22 @@
 {
- "generated_at": "2026-11-05T08:12:14Z",
+ "generated_at": "2026-11-05T10:10:20Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
   "MachineLearning",
-  "selfhosted"
+  "programming"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Qwen3.8-27B has become unuseable recently",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoeeyf/qwen3827b_has_become_unuseable_recently/",
+   "ts": 1793871070,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "NextExplorer for iOS has now its native app on macOS",
@@ -120,13 +127,6 @@
    "title": "What are you looking forward to in Qwen 4?",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xo3ikc/what_are_you_looking_forward_to_in_qwen_4/",
    "ts": 1793835349,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Ricursive Intelligence Ripple-65B-Preview: New Dense Model!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xo2arv/ricursive_intelligence_ripple65bpreview_new_dense/",
-   "ts": 1793832168,
    "source": "Reddit"
   },
   {
