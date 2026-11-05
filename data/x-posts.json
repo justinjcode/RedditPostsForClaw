@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-11-05T15:34:44Z",
+ "generated_at": "2026-11-05T15:44:02Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -9,12 +11,27 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: robotnews.therundown.ai/p/ag… Link Agility’s $2.5B humanoid hits Nasdaq PLUS: Apple’s first robot faces another delay robotnews.therundown.ai",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2118365603798946002#m",
+   "ts": 1793892691,
+   "id": "2118365603798946002#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in robotics today: - Agility takes Digit to Wall Street - Apple’s $1K robot faces another delay - China blocks SoftBank’s $5.4B robot takeover - Xiaomi humanoids log eight factory hours",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2118365598459527286#m",
+   "ts": 1793892690,
+   "id": "2118365598459527286#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -1123,15 +1140,6 @@
    "id": "2117217864562114973#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in AI today: - Data centers hit the ballot as OpenAI plots a rebrand - The Rundown Roundtable: Our AI use cases - Make AI artwork you can actually edit - Google’s space data center sends home a haiku",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2117217859508007009#m",
-   "ts": 1793619048,
-   "id": "2117217859508007009#m"
-  },
-  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -1220,15 +1228,6 @@
    "url": "https://nitter.kareem.one/bcherny/status/2116222842413142111#m",
    "ts": 1793381817,
    "id": "2116222842413142111#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: tech.therundown.ai/p/binance… Link Binance hit by crypto’s biggest heist ever PLUS: No account, no Reddit tech.therundown.ai",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2116176082864906570#m",
-   "ts": 1793370669,
-   "id": "2116176082864906570#m"
   },
   {
    "handle": "simonw",
