@@ -1,20 +1,38 @@
 {
- "generated_at": "2026-11-05T19:54:02Z",
+ "generated_at": "2026-11-05T20:06:53Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed"
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Interesting Gavin Baker (@GavinSBaker) The governor-elect of Texas, Gina Hinojosa, has explicitly said that all currently permitted datacenters in Texas will be allowed to finish construction. This essentially covers all of the 2027 and likely well into 2028. She is going to pass laws that ensure that all *newly* permitted datacenters going forward for delivery in 2028/2029 will pay taxes, commit to no increase in power prices for consumers, don’t impact water availability for people, be constructed with union labor and give “Texans a seat at the table.” Sounds reasonable. She doesn’t want to lose a lot of good blue collar jobs and property taxes for small towns in rural Texas. Datacenter commentary starts at 6:30 in this interview. Also attaching her official campaign position from her website in the next post. Sidenote: After watching a bunch of her speeches and interviews, I do think she is a political talent and probably has a future in national politics. inv.kareem.one/D-T6H3b8ZeE?is=mEWu… Link Abbott, Paxton Visit Abilene & Hinojosa Makes Her Case for Governor I Big Country Politics Texas politics takes center stage as Governor Greg Abbott and Attor... youtube.com — https://nitter.kareem.one/GavinSBaker/status/2118420042283102604#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2118431051253239889#m",
+   "ts": 1793908295,
+   "id": "2118431051253239889#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Had coffee with a right-leaning friend who works as a general contractor. He said his daily life was mostly the same between the last two years of the Biden term and the first two years of the Trump term, with one exception: it now costs $230 to fill his truck with diesel.",
+   "url": "https://nitter.kareem.one/christopherrufo/status/2118427196033548626#m",
+   "ts": 1793907376,
+   "id": "2118427196033548626#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -32,6 +50,15 @@
    "url": "https://nitter.kareem.one/KanekoaTheGreat/status/2118417820434497681#m",
    "ts": 1793905141,
    "id": "2118417820434497681#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Riley Trettel (Energy & Data Center Development at SpaceX) in yesterdays Cochise Data Center meeting. He claims the project will deliver up to: - 40% off residential power bills for Sulphur Springs members, for the life of the project - $53 million a year to the SSVEC Foundation, for education and the community - $190 million a year in extra capital for Sulphur Springs, for projects or back to members - $200 million a year for AEPCO and its members. About $100 million of that for Sulphur Springs - $3.6 billion in new power lines, paid by SpaceX and given to the co-op. The co-op takes on no debt - $30 to $100 million a year in new property tax, and a 20% cut in everyone else's county property taxes - $250 million, one time, in sales tax. He said it could pay off the jail bond and fund the sheriff, fire districts, and the hospital - $50 billion invested in the project - 1,000 permanent jobs and 5,000 construction jobs - No industrial water. Water for staff and maintenance about equal to 20–30 homes a year - No gas turbines and no power plant on the site. The computers buy power from the co-op grid - Dark-sky lighting, pointed at the ground - Cooling equipment more than 1,500 feet from any neighboring property line or public road This project is clearly extremely positive for the area. Video Robin (@xdNiBoR) The next SpaceX datacenter will be in Cochise Arizona. ~6 GW spread over 9 buildings. > No industrial water use. > No gas turbines and no on-site power generation. > ~3 mile",
+   "url": "https://nitter.kareem.one/xdNiBoR/status/2118412345789579392#m",
+   "ts": 1793903836,
+   "id": "2118412345789579392#m"
   },
   {
    "handle": "swyx",
@@ -104,6 +131,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2118401069697134954#m",
    "ts": 1793901147,
    "id": "2118401069697134954#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "In Iain M. Banks's books, the Culture solves envy—a crux of humanity—by letting every citizen experience what they have not yet via tremendous compute (a world where citizens have no token limit). Citizens quickly realize envy is pointless, as different life experiences mix good and bad; the grass of others is not any greener.",
+   "url": "https://nitter.kareem.one/yunta_tsai/status/2118400877027635609#m",
+   "ts": 1793901101,
+   "id": "2118400877027635609#m"
   },
   {
    "handle": "swyx",
@@ -358,15 +394,6 @@
    "id": "2118250631165300747#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Everyone is using Grok @Bot Min-Liang Tan (@minliangtan) Been using Grok Bot and it's pretty amazing. Got my team to hack together a GrokPuck (Grok Bot in your pocket). Swipe the screen, the bot changes. What do you guys think? Video — https://nitter.kareem.one/minliangtan/status/2118213415944724730#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118250472373129319#m",
-   "ts": 1793865242,
-   "id": "2118250472373129319#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -374,15 +401,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118248900381536740#m",
    "ts": 1793864867,
    "id": "2118248900381536740#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "It’s a Brave New World Congresswoman Yassamin Ansari (@RepYassAnsari) Top of the Democratic agenda on day 1 needs to be a pause on advanced AI development, regulation of this out of control industry, and a ban on artificial superintelligence. — https://nitter.kareem.one/RepYassAnsari/status/2118054336077127797#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118248670915404057#m",
-   "ts": 1793864812,
-   "id": "2118248670915404057#m"
   },
   {
    "handle": "swyx",
@@ -401,15 +419,6 @@
    "url": "https://nitter.kareem.one/vincent_koc/status/2118220970037268747#m",
    "ts": 1793858208,
    "id": "2118220970037268747#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Try Grok @Bot ! Shubham Saboo (@Saboo_Shubham_) I have moved everything from OpenClaw, Hermes and Muse to just Grok Bot now. Muse had a moment for a while. But Grok @bot is coming out as a clear winner for personal agents (UI/UX/features - everything on point). And the most impressive thing the speed of shipping to keep grok bot relevant. Amazing work @poteto , @mattyp and team! Video — https://nitter.kareem.one/Saboo_Shubham_/status/2118055599036588312#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118214299391057973#m",
-   "ts": 1793856618,
-   "id": "2118214299391057973#m"
   },
   {
    "handle": "swyx",
@@ -511,6 +520,15 @@
    "id": "2118113693355606206#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Scientists from across the globe are calling on MIT to review its decision to terminate the tenure of David Sabatini after a jury verdict vindicated the ousted scientist and rebuked #MeToo era claims from a former colleague. trib.al/i0W69kW Link Scientists urge MIT to review Sabatini tenure after recent jury verdict vindicating the biologist -... The group said Sabatini’s departure from the university “carried a level of unfairness that did not meet basic standards all institutions should afford their faculty.” bostonglobe.com",
+   "url": "https://nitter.kareem.one/BostonGlobe/status/2118100797040783750#m",
+   "ts": 1793829557,
+   "id": "2118100797040783750#m"
+  },
+  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -527,15 +545,6 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2118086262104228162#m",
    "ts": 1793826091,
    "id": "2118086262104228162#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Bot has this bias for action that makes it feel like the most fearless coworker you’ve ever worked with. So much work is needless friction, bot finds the path of least resistance and grinds through tasks until they’re complete. Feels like a new era of productivity. Grok Bot (@bot) Grok Bot can now make phone calls. Video — https://nitter.kareem.one/bot/status/2118043939592942052#m",
-   "url": "https://nitter.kareem.one/Baconbrix/status/2118064051771310169#m",
-   "ts": 1793820796,
-   "id": "2118064051771310169#m"
   },
   {
    "handle": "bcherny",
@@ -770,15 +779,6 @@
    "url": "https://nitter.kareem.one/bcherny/status/2117693181651542387#m",
    "ts": 1793732373,
    "id": "2117693181651542387#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "How much usage does a Grok Bot phone call take? So I checked. My bot just called an EV charger installer for a quote. 85 seconds on the phone. Usage before: 5.8% Usage after: 6.0% That's 0.2% for a real call I didn't have to make myself.",
-   "url": "https://nitter.kareem.one/Texas_Twins_Dad/status/2117691954578538798#m",
-   "ts": 1793732081,
-   "id": "2117691954578538798#m"
   },
   {
    "handle": "Lingling_Wei",
