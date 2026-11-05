@@ -1,19 +1,38 @@
 {
- "generated_at": "2026-11-05T00:14:43Z",
+ "generated_at": "2026-11-05T00:42:38Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
-  "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@simonw: all instances failed",
+  "@swyx: all instances failed",
+  "@bcherny: all instances failed",
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 178,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "CatGPT",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2118138764161913278#m",
+   "ts": 1793838609,
+   "id": "2118138764161913278#m"
+  },
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Welcome Cat. Stoked to be building together soon. cat (@_catwu) Some news: I’m joining OpenAI to lead product management for Core Products! I have a lot of respect for OpenAI for showing the world that scaling works, for bringing AI to over a billion people, and for believing great products are core to the mission. I’m excited to work with @thsottiaux , an incredible PM team, and everyone across OpenAI. Together, we’ll build agents that have your back and your team’s, and keep you in control, so you get more time for the people and work you love. Lots to learn, and lots to build. Please keep your feedback coming! — https://nitter.kareem.one/_catwu/status/2118137612577968402#m",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2118138648214585591#m",
+   "ts": 1793838581,
+   "id": "2118138648214585591#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -1266,15 +1285,6 @@
    "id": "2115622002581188681#m"
   },
   {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year, but we're going to proceed carefully here and take our time. We'll have more to share soon. Angel 🌼 (@Angaisb_) ChatGPT is unifying Chat and Work I wonder how that changes usage limits — https://nitter.kareem.one/Angaisb_/status/2115565560603824452#m",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2115588390414581916#m",
-   "ts": 1793230552,
-   "id": "2115588390414581916#m"
-  },
-  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -1300,15 +1310,6 @@
    "url": "https://nitter.kareem.one/bcherny/status/2115491259381072269#m",
    "ts": 1793207394,
    "id": "2115491259381072269#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Pretty wild that this site got 3M views. Tibo (@thsottiaux) poteto.com has landed — https://nitter.kareem.one/thsottiaux/status/2115297093879472332#m",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2115473170279080149#m",
-   "ts": 1793203082,
-   "id": "2115473170279080149#m"
   },
   {
    "handle": "simonw",
