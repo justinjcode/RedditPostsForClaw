@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-11-05T22:34:42Z",
+ "generated_at": "2026-11-05T22:43:39Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "If I count well, that's more than 500M images per day.",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2118470016127598724#m",
+   "ts": 1793917585,
+   "id": "2118470016127598724#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -1229,15 +1238,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2116936031866077423#m",
    "ts": 1793551855,
    "id": "2116936031866077423#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "I love my dog, I have it on speed dial, arranged my haircut yesterday",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2116935821534380166#m",
-   "ts": 1793551805,
-   "id": "2116935821534380166#m"
   },
   {
    "handle": "Lingling_Wei",
