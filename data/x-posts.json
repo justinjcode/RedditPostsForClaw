@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-05T22:23:49Z",
+ "generated_at": "2026-11-05T22:34:42Z",
  "accounts_ok": [
-  "TheRundownAI",
-  "ZichenWanghere",
+  "Lingling_Wei",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,10 +10,20 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed"
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Wild stat. We are now generate more than 4B images per week across ChatGPT and the API, up from the more than 3B per week only 8 weeks ago. OpenAI (@OpenAI) Images, upgraded—introducing ChatGPT Images 2.6. Now with GIFs and reference images. Plus, two new models are coming to the API with 50% faster image generation. Video — https://nitter.kareem.one/OpenAI/status/2118124944928432327#m",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2118469621011677521#m",
+   "ts": 1793917491,
+   "id": "2118469621011677521#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -1229,15 +1238,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2116935821534380166#m",
    "ts": 1793551805,
    "id": "2116935821534380166#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Dot still autocorrects to dog and that makes many texts I receive hilarious",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2116935650511585696#m",
-   "ts": 1793551764,
-   "id": "2116935650511585696#m"
   },
   {
    "handle": "Lingling_Wei",
