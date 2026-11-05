@@ -1,9 +1,6 @@
 {
- "generated_at": "2026-11-05T08:08:44Z",
+ "generated_at": "2026-11-05T08:23:10Z",
  "accounts_ok": [
-  "TheRundownAI",
-  "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -11,7 +8,10 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed"
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 178,
  "items": [
@@ -271,6 +271,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "A big step for 5G networks. @SpaceX selected @Qualcomm #Dragonwing to accelerate @Starlink Mobile's nationwide 5G network, advancing 5G today with an opportunity to lay the foundation for AI-native #6G in the years ahead. Excited to build Starlink Mobile with you & team @michaelnicollsx . Video",
+   "url": "https://nitter.kareem.one/durga_malladi/status/2118038626705829969#m",
+   "ts": 1793814734,
+   "id": "2118038626705829969#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "Try Grok @Bot . It’s like hiring an amazing assistant! Texas Twins Dad (@Texas_Twins_Dad) New Grok Bot feature I just discovered on a call. My bot called my car insurance today to ask why my renewal went up 14% with zero accidents. Mid-call, the rep asked a question. The bot didn't hang up. It didn't make me take over the call. A question card popped up in my chat. I typed the answer, and the bot kept the call going on its own. It's like passing a note to my assistant while they're still on the phone. Grok Bot is like hiring my personal assistant! — https://nitter.kareem.one/Texas_Twins_Dad/status/2117723394330460528#m",
    "url": "https://nitter.kareem.one/elonmusk/status/2118036744662880439#m",
    "ts": 1793814285,
@@ -356,15 +365,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2117995905525907769#m",
    "ts": 1793804548,
    "id": "2117995905525907769#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok @Bot will research purchase ideas, bring back a selection, order them, track the purchases and return anything you don’t want Andrew Milich (@milichab) Buying things with @bot just got better — https://nitter.kareem.one/milichab/status/2117736578395295970#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2117995339320070525#m",
-   "ts": 1793804414,
-   "id": "2117995339320070525#m"
   },
   {
    "handle": "elonmusk",
