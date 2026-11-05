@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-05T13:07:03Z",
+ "generated_at": "2026-11-05T13:17:32Z",
  "accounts_ok": [
+  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@simonw: all instances failed",
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 178,
  "items": [
@@ -32,6 +32,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2118304989961453754#m",
    "ts": 1793878240,
    "id": "2118304989961453754#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "Wang Yongli, former Bank of China VP, argues that licensing stablecoins is what will eventually hollow them out, and China should stay out of the race and finish building the digital yuan instead fredgao.com/p/former-bank-of… Link Former Bank of China VP on How to View US Stablecoin Legislation Wang Yongli argues that licensing stablecoins is what will eventually hollow them out, and China should stay out of the race and finish building the digital yuan instead fredgao.com",
+   "url": "https://nitter.kareem.one/GaoYingshi/status/2118303573822030250#m",
+   "ts": 1793877902,
+   "id": "2118303573822030250#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -1058,15 +1067,6 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2117301887682940962#m",
    "ts": 1793639082,
    "id": "2117301887682940962#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "卧槽！不知该惊喜还是惊吓！监控里看到我家咪咪唱着小曲拖着猫窝晒太阳了！！ Video Community note: 视频中猫的叫声是流行 meme 音频，已被配用于多段不同猫视频，并非该监控原声。猫拖窝行为真实存在，但此呈现具误导性。 inv.kareem.one/shorts/DiblJ0e… newsweek.com/seen-it-all-ca…",
-   "url": "https://nitter.kareem.one/PicCrow/status/2117290170949275949#m",
-   "ts": 1793636288,
-   "id": "2117290170949275949#m"
   },
   {
    "handle": "thsottiaux",
