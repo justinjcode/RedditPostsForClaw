@@ -1,19 +1,29 @@
 {
- "generated_at": "2026-11-05T01:25:51Z",
+ "generated_at": "2026-11-05T01:35:48Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@bcherny: all instances failed",
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "i'm still processing. what an insane run. $0 to $100B ARR in 2.5 years. Latent.Space: AI News & Views (@latentspacepod) hey @TBPN you dropped this but we gotchu — https://nitter.kareem.one/latentspacepod/status/2118151813555945505#m",
+   "url": "https://nitter.kareem.one/swyx/status/2118152585911869634#m",
+   "ts": 1793841904,
+   "id": "2118152585911869634#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -967,15 +977,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2117337139633607167#m",
    "ts": 1793647486,
    "id": "2117337139633607167#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "i think the @CompleteSkeptic and @typesafeai followup is going to melt on twitter inv.kareem.one/watch?v=cJ0EOzey… looking frward to attend. Link Jev CEO: I made ChatGPT, now I'm building what's next Diogo Almeida, a GPT-4 co author formerly at OpenAI and now CEO of ... youtube.com",
-   "url": "https://nitter.kareem.one/swyx/status/2117331535007531009#m",
-   "ts": 1793646150,
-   "id": "2117331535007531009#m"
   },
   {
    "handle": "TheRundownAI",
