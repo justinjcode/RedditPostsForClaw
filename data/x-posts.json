@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-05T00:54:18Z",
+ "generated_at": "2026-11-05T01:07:48Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "bcherny",
   "elonmusk",
@@ -10,7 +11,6 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
  "count": 178,
@@ -41,6 +41,15 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118138648214585591#m",
    "ts": 1793838581,
    "id": "2118138648214585591#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "GPU, CPU, file system... I put BabyAGI in Qwen 👶 meet babyagi-inside: a bounded agent loop, compiled into the weights of Qwen3.5-2B. nothing runs outside the model the agent still sucks, but the loop works! built on and uses @thevixhal 's qwenfs, shout out to @divagr1925 's qwenputer more 👇 Video",
+   "url": "https://nitter.kareem.one/yoheinakajima/status/2118134446947971336#m",
+   "ts": 1793837579,
+   "id": "2118134446947971336#m"
   },
   {
    "handle": "swyx",
@@ -952,15 +961,6 @@
    "id": "2117331535007531009#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "after 3 years of building from nothing, we are now serving 2M monthly unique engineers on aie youtube. (76% not subscribed lol. idk if it matters but pls subscribe! we need to keep up momentum to cross 1M subs roughly around aie.codes it looks like) swyx (@swyx) In Jan this year I called my content strategy shot: \"Scaling without Slop\". It's finally starting to work. It took us 3 years to reach our first 100k on youtube. It only took 1.2 months for the next 100k. Similar other metrics on AEO/SEO/subscriber traction and have a lot of New Media ideas that I'm excited to pursue. officially giving notice of the next phase of Latent Space, AINews, and what the rest of swyx inc has been cooking below — https://nitter.kareem.one/swyx/status/2103361254433993165#m",
-   "url": "https://nitter.kareem.one/swyx/status/2117321973080760644#m",
-   "ts": 1793643870,
-   "id": "2117321973080760644#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -1312,9 +1312,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
