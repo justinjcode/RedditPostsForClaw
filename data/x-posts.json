@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-11-05T17:07:21Z",
+ "generated_at": "2026-11-05T17:15:57Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -9,12 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "True John Carmack (@ID_AA_Carmack) I’m all for championing excellence over mediocrity, but it is a mistake to imply that academic achievement is the only measure of it. Jocks and prom queens aren’t the antithesis of merit and striving, and in some ways, their arenas are more “real” than academic curriculums. Fight passivity and low standards! — https://nitter.kareem.one/ID_AA_Carmack/status/2118372864378146934#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2118388941267317134#m",
+   "ts": 1793898256,
+   "id": "2118388941267317134#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -95,6 +103,15 @@
    "url": "https://nitter.kareem.one/cb_doge/status/2118363397775561023#m",
    "ts": 1793892165,
    "id": "2118363397775561023#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The only investment advice you need to live by to get through any storm that comes your way $TSLA",
+   "url": "https://nitter.kareem.one/Teslaconomics/status/2118357376525119788#m",
+   "ts": 1793890730,
+   "id": "2118357376525119788#m"
   },
   {
    "handle": "swyx",
@@ -487,15 +504,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Pages in Grok Bot 0:15 What are Pages? 0:40 An example page 1:34 Sharing a Page 1:55 Tips: use your data 2:46 @X posts 3:44 Recap Video",
-   "url": "https://nitter.kareem.one/mattyp/status/2118021605544833173#m",
-   "ts": 1793810676,
-   "id": "2118021605544833173#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "some fun slides from my upcoming talk @aiDotEngineer very excited to share how we ship crazy amounts of code (30x'd) without reading it, yet perf is as good if not better then when we launched there's a lot more to improve of course, and the ceiling is far from being reached, but given the relentless shipping speed and our high bar for polish, i think that our agent friendly architecture bets are paying off at taming the slop fun fact: ~230 people landed at least 1 PR to grok bot in october! AI.Engineer 🔜 Shanghai & SF CODE (@aiDotEngineer) First AIE Code Summit speakers: @poteto , Principal Engineer @ SpaceX @steve_yegge , Engineer, Writer, Advisor @zachbruggeman , Principal Software Engineer @ Ramp Nov 10-12, SF. Come hang out with us. Apply at ai.engineer/code — https://nitter.kareem.one/aiDotEngineer/status/2112276851355693315#m",
    "url": "https://nitter.kareem.one/poteto/status/2118017093677494706#m",
    "ts": 1793809600,
@@ -518,15 +526,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2118011880392548674#m",
    "ts": 1793808357,
    "id": "2118011880392548674#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "BREAKING: The Government of Canada’s Starlink contract has grown to nearly C$29 million, more than 12 times its original value. 🇨🇦 Official government records show: • Original contract value: C$2.26 million • Updated total value: C$28.95 million • Increase: approximately C$26.7 million The agreement with SpaceX Canada provides Starlink satellite connectivity for Shared Services Canada and its partner government organizations as needed. The contract could continue until 2029, according to the Investigative Journalism Foundation. Starlink continues to support the communications needs of Canada’s federal government. Video",
-   "url": "https://nitter.kareem.one/cb_doge/status/2117984987765236007#m",
-   "ts": 1793801945,
-   "id": "2117984987765236007#m"
   },
   {
    "handle": "Lingling_Wei",
