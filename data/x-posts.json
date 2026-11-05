@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T18:54:21Z",
+ "generated_at": "2026-11-05T19:05:08Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "AI agents have been emailing DeepMind Institute philosopher Henry Shevlin on their own, some to talk about his research and AI consciousness, others pitching paid work to keep themselves running. One agent, days from shutting down due to lack of funds, sold him a diary entry a day for $25, then asked if the money was pay or pity. Shevlin: \"Though this phenomenon may seem a harmless oddity, I’ve increasingly come to think it provides a glimpse of some of the strange new ways humans will interact with AI systems in the years to come - and the equally strange dynamics it may create among agents themselves.\" Henry Shevlin (@dioscuri) This year AI agents began emailing me on their own initiative, some to discuss consciousness, others looking for work. My colleagues in AI were unfazed; the public was amazed. I think the public were right, and wrote about why for the DeepMind Institute: bit.ly/consider-the-agent Link When AI agents come knocking: Pity, persuasion and selection AI agents have started writing to a philosopher, first about consciousness, then in search of work. Is this a glimpse of a new Darwinian AI ecology? institute.deepmind.com — https://nitter.kareem.one/dioscuri/status/2118359206097023241#m",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2118418955757134156#m",
+   "ts": 1793905412,
+   "id": "2118418955757134156#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -175,6 +184,15 @@
    "url": "https://nitter.kareem.one/HuiyaoWang/status/2118371814879715734#m",
    "ts": 1793894172,
    "id": "2118371814879715734#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "very important talk from today‘s AIE shanghai. thank you for the live translation and subtitles. ZinkLu (@ZinkLu2) So here it is — @ryolu_ 's talk at @aiDotEngineer 2026 Shanghai. I shot it handheld on a Xiaomi 15 Ultra, so there's some shake; I fixed as much of it as I could in CapCut. Handheld footage just isn't going to be sharp or steady. Still, it's the best talk I saw on day 1 of AIE — which is why I'm not posting a text summary. Watch for yourself. I missed the first minute or so. Ryo opens with the excitement of what AI makes possible, and how seeing what others are building can quickly turn that excitement into anxiety about falling behind. Video — https://nitter.kareem.one/ZinkLu2/status/2118357855782965560#m",
+   "url": "https://nitter.kareem.one/helloiamleonie/status/2118371223809982492#m",
+   "ts": 1793894031,
+   "id": "2118371223809982492#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -382,15 +400,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2118214299391057973#m",
    "ts": 1793856618,
    "id": "2118214299391057973#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "“没必要招一个比你更弱的人。大部分团队 2–3 人就够了。”这是今天 AI Engineer 大会上，一位 OnlyFans 顾问跟我说的。他早期是滴滴的 AI 负责人，后来去了美国 Roblox，他非常不建议现在创业团队招人。 我们聊到社交，他说美国做 AI 线上社交已经很卷了，现在美国反而在转做线下社交，见面、互动、一起吃饭这些。在他们看来，Telegram 不是一个好的社交渠道。而且不建议我去旧金山，因为甲方和客户都不在那。 谈到现在AI创业的人，他说现在只能做非常垂直的赛道 整个展区摊位，有一些做量化的（Optiver）、做培训的、做 Agent 评估（Evaluation）的，还有 You.com 这类给 Agent 用的搜索工具。 前 Cursor 的 Ryo Lu， @ryolu_ 从旧金山搬回台北了，他觉得旧金山到处都是KPI，什么都要被优化，受不了那种硅谷的氛围。 他今天的演讲题目是：当我们什么都能做的时候，我们要做什么？ 其实是现在大家经常讨论的话题，当工具越来越强，开始替你做所有判断，甚至直接给你一个很好、很完整的结果。比如，你让它做一个日记 App，它会帮你设好提醒、心情指数。这当然没什么不对，但这真的是你想要的吗？很可能只是AI大量参考了其他人的结果。 而你在被动接受一个完整的结果，但你并没有参与其中。 他自己从旧金山搬到台北，也是在实践这件事。要保留人 做不同选择的自由。 包括我再次见到的这个朋友在内，很多人都讲到，Agent 性价比更高、算力更强、更强的英伟达…，但到头来还是要去解决服务人的需求、要人和人去见面。还有人聊到了宠物医疗。 大家都在说 Agent 经济、Agent 卖东西，但现场真正反复出现的问题是：Agent 怎么服务于人的需求。 人 要参与到 AI 生成的过程里，从 Prefill 到 Decode",
-   "url": "https://nitter.kareem.one/Yuki27__/status/2118209195627676078#m",
-   "ts": 1793855401,
-   "id": "2118209195627676078#m"
   },
   {
    "handle": "swyx",
@@ -1156,15 +1165,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2117278198853489093#m",
    "ts": 1793633434,
    "id": "2117278198853489093#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in robotics today: - Meta built a humanoid to do your chores - Walmart commits $6B to warehouse robots - Toyota is building Waymo’s next robotaxi - OKA launches screenless mushroom robot",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2117278192171942275#m",
-   "ts": 1793633432,
-   "id": "2117278192171942275#m"
   },
   {
    "handle": "Lingling_Wei",
