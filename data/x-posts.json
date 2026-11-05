@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-05T20:43:36Z",
+ "generated_at": "2026-11-05T20:53:11Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 178,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Come push the frontier of fluffiness samir (@_samirism) we've assembled a team of some of the most talented people in the persistent agent space - to make dots incredible dm me if you are interested in joining 👀 — https://nitter.kareem.one/_samirism/status/2118077964936163717#m",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2118444105969926407#m",
+   "ts": 1793911408,
+   "id": "2118444105969926407#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1239,15 +1249,6 @@
    "id": "2116867234849321041#m"
   },
   {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Banked 1/2",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2116692529970311254#m",
-   "ts": 1793493800,
-   "id": "2116692529970311254#m"
-  },
-  {
    "handle": "bcherny",
    "name": "Boris Cherny",
    "author": "@bcherny",
@@ -1329,9 +1330,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
