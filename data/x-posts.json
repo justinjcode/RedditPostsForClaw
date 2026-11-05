@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-05T22:43:39Z",
+ "generated_at": "2026-11-05T22:53:29Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,27 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Generating*",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2118473288368406582#m",
+   "ts": 1793918365,
+   "id": "2118473288368406582#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "[non tech, non work post] Some of you know I have a side gig singing Broadway musicals. Proud to announce we're back next week (right after AIE CODE)! bow.show Nov 14 3pm/7pm shows left (Nov 13 sold out) ft. our favorite songs from: - Tick Tick Boom - Hamilton - Grease - Rent - The Greatest Showman - Hadestown - Dear Evan Hansen - The Prom - Company - Kinky Boots - The Lightning Thief - Heathers - Next to Normal If you ever wanted to hear me and my friends sing live with full cast, choreo, costume, and live band (millions of views reposted by the official @HamiltonMusical channel) join us next saturday! k bye Video Video swyx (@swyx) late night low TAM tweet: did a Broadway solo song for the first time in ~18 years! only fumbled lyrics once! Video — https://nitter.kareem.one/swyx/status/2043217991589102027#m",
+   "url": "https://nitter.kareem.one/swyx/status/2118472770002792902#m",
+   "ts": 1793918242,
+   "id": "2118472770002792902#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -392,15 +409,6 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2118280765679284645#m",
    "ts": 1793872464,
    "id": "2118280765679284645#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "在 aie 上演“解救”大斌行动，哈哈哈[破涕为笑]",
-   "url": "https://nitter.kareem.one/ameliax111/status/2118265218283589925#m",
-   "ts": 1793868758,
-   "id": "2118265218283589925#m"
   },
   {
    "handle": "swyx",
@@ -1231,15 +1239,6 @@
    "id": "2116936205623611781#m"
   },
   {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "My dog sent you the meeting notes from yesterday, did you see them?",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2116936031866077423#m",
-   "ts": 1793551855,
-   "id": "2116936031866077423#m"
-  },
-  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -1330,9 +1329,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
