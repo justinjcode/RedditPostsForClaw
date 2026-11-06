@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-06T09:07:44Z",
+ "generated_at": "2026-11-06T09:18:29Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
   {
@@ -32,6 +31,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2118628232002158682#m",
    "ts": 1793955307,
    "id": "2118628232002158682#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Terafab is the largest building in human history Starship is the largest and most powerful flying object in human history Elon Musk (@elonmusk) Terafab is moving fast — https://nitter.kareem.one/elonmusk/status/2118620772268990966#m",
+   "url": "https://nitter.kareem.one/ArthurMacwaters/status/2118624369874448477#m",
+   "ts": 1793954386,
+   "id": "2118624369874448477#m"
   },
   {
    "handle": "elonmusk",
@@ -158,15 +166,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2118589412011622728#m",
    "ts": 1793946051,
    "id": "2118589412011622728#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Yup DogeDesigner (@cb_doge) ELON MUSK: “The stock market is a very strange thing. It's kind of like Warren Buffett's sort of analogy, is the stock market's like having someone stand at the edge of your house and yell prices to buy or sell your house every day. And sometimes they take their meds and sometimes they don't. So sometimes the person yelling the price of your house is having a good day and sometimes it's having a bad day. But it's still the same house. You're like, it's literally still the same house. So Tesla stock goes up and it goes down, but actually it's still the same company. It's just people's perception of the future. I guess it's just very emotional.” Video — https://nitter.kareem.one/cb_doge/status/2118568201164632506#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118589343061491737#m",
-   "ts": 1793946035,
-   "id": "2118589343061491737#m"
   },
   {
    "handle": "swyx",
