@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T19:33:55Z",
+ "generated_at": "2026-11-06T19:43:36Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -12,8 +12,26 @@
   "thsottiaux"
  ],
  "errors": [],
- "count": 178,
+ "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Armies that win have the general at the front lines. Nobody wants to bleed for the prince in the palace. KanekoaTheGreat (@KanekoaTheGreat) Ron Baron asked Elon Musk how many CEOs live on site in an Airstream and work hands-on with everyone. MUSK: “Airstreams are actually pretty nice... It’s parked right next to the power plant.” “We built this power plant that’s producing over a gigawatt... in about a year, as opposed to normally about five years.” “There is no upstairs.” He walks the entire site up to five times a day. He’s pulled power cables “the size of an anaconda,” run fiber, wired switches, and worked on the power plant software. “I try to do at least a little bit of everything, so that I’m not numb to the pain of the people who are actually doing it.” “It’s not as though I’m sitting in an office and somebody has to come to me. I’m walking the floor, asking them questions actively.” There’s a reason SpaceX is winning the compute race. Video — https://nitter.kareem.one/KanekoaTheGreat/status/2118778153711935662#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2118789067571954105#m",
+   "ts": 1793993653,
+   "id": "2118789067571954105#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "~100 lasers per satellite, each operating above 10 Tb/s, with over 100k satellites should be able to outcompete undersea cables. Speed of light in space is ~40% faster than cable and the path is direct, instead of following the outline of land masses. Sawyer Merritt (@SawyerMerritt) Elon just teased SpaceX's next-gen V4 @Starlink satellites: \"Starlink version 4 will have 10x the capability of V3 (which itself is 10x better than V2), especially with the long-distance laser links. Our next-gen laser links will be 10-terabits per second. 100x better. And we'll put 10 of them on.\" Video — https://nitter.kareem.one/SawyerMerritt/status/2118783107189076137#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2118788513365954734#m",
+   "ts": 1793993521,
+   "id": "2118788513365954734#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -31,6 +49,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2118786343958675697#m",
    "ts": 1793993004,
    "id": "2118786343958675697#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Elon Musk just revealed an absolutely insane revenue trajectory for SpaceX: on track to exceed $100 billion annualized in December, a best guess of over $500 billion by December next year, and a trillion is no longer out of the question \"I think, just to comment on a few of those things, so we are tracking to have an annual rate of revenue, that is in excess of $100 billion in December. Obviously, December's pretty close, so I have good insight into that, so unless there's some natural disaster or something, we will meet that target. And then based on the plans that we have next year, it seems quite likely that our annual recurring revenue in December of next year will exceed 500 billion. Now, this is not a promise, this is what I think will happen, this is my best guess. Just want to distinguish between this is a promise to do something versus what I think will occur. What I think will occur is an ARR in December of next year of 500 billion, and I simply said, a trillion is not out of the question, meaning it was previously out of the question and it is no longer out of the question, it's maybe 2% or something likelihood But it's interesting that it's not 0%, that's the interesting part. And the probability is increasing with time” Video",
+   "url": "https://nitter.kareem.one/XFreeze/status/2118783624325791849#m",
+   "ts": 1793992355,
+   "id": "2118783624325791849#m"
   },
   {
    "handle": "elonmusk",
@@ -213,15 +240,6 @@
    "id": "2118732296446673209#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "SpaceX will attempt to catch both the Super Heavy booster and Starship on the upcoming flight. If both are successful, it will mark the first time that all parts of an orbital rocket return to Earth intact. This is the critical breakthrough needed to make life multiplanetary. SpaceX (@SpaceX) More than a dozen flight tests and years of development, with countless hours worked by SpaceX engineers and technicians, all come down to this: the first orbital Starship launch carrying advanced Starlink satellites bound for space. Watch “Go For Orbit” and experience the moments behind flying the most ambitious Starship mission yet Video — https://nitter.kareem.one/SpaceX/status/2118719281038770389#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118732082843435305#m",
-   "ts": 1793980067,
-   "id": "2118732082843435305#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -294,15 +312,6 @@
    "id": "2118688066651214236#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "BREAKING: Indian government sources say Starlink is welcome in India. 🇮🇳 “Customer is the king,” one official told ANI today. India welcomes competition in satellite internet, and customers will choose their provider based on price, value and quality. Yesterday brought good news for Starlink Direct to Cell too. TRAI proposed letting Indian mobile operators use their existing spectrum to connect phones directly to satellites. If adopted, the proposal could give Starlink a path to bring Direct to Cell to India through a local telecom partner, helping people stay connected where cell towers don’t reach. Video",
-   "url": "https://nitter.kareem.one/cb_doge/status/2118682924791050343#m",
-   "ts": 1793968347,
-   "id": "2118682924791050343#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -310,24 +319,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2118642061515936142#m",
    "ts": 1793958604,
    "id": "2118642061515936142#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Yes X Freeze (@XFreeze) Elon Musk predicts space will become the lowest-cost place to run superintelligence within just 2–3 years “I think the case is a no-brainer for building solar-powered AI data centers in space” Solar panels facing the Sun and radiators pointed away from it can provide an incredibly efficient power and cooling system “The net effect is that the lowest cost place to put AI will be space. And that'll be true within two years, maybe three at the latest” Video — https://nitter.kareem.one/XFreeze/status/2118447208542662763#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118638089677803638#m",
-   "ts": 1793957657,
-   "id": "2118638089677803638#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Starlink enables education in remote areas X Freeze (@XFreeze) Starlink is bringing internet access to remote classrooms in Indonesia Katingan’s local government is distributing Starlink kits to preschools, elementary schools and junior high schools across areas where traditional internet remains weak or unavailable In 2026, Katingan received 287 Starlink units in total Of those, 174 were allocated to education including PAUD, elementary schools, junior high schools and regional education coordinators For teachers and students, that means access to digital learning materials, online references and school services that were much harder to reach before A single Starlink connection opens up an entire classroom to the world — https://nitter.kareem.one/XFreeze/status/2118631742529769490#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118637614068912548#m",
-   "ts": 1793957544,
-   "id": "2118637614068912548#m"
   },
   {
    "handle": "elonmusk",
