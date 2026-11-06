@@ -1,15 +1,36 @@
 {
- "generated_at": "2026-11-06T10:09:37Z",
+ "generated_at": "2026-11-06T12:12:29Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
+  "MachineLearning",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "Carquet · Parquet at the speed of C",
+   "url": "https://www.reddit.com/r/programming/comments/1xpak4s/carquet_parquet_at_the_speed_of_c/",
+   "ts": 1793964664,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Programming for Wizards",
+   "url": "https://www.reddit.com/r/programming/comments/1xp9ilr/programming_for_wizards/",
+   "ts": 1793960784,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "How do you build visibility through open source contributions?[D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xp90lz/how_do_you_build_visibility_through_open_source/",
+   "ts": 1793958915,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "[BREAKING] Qwen4 will be",
@@ -85,13 +106,6 @@
    "title": "Are there any good alternatives to discord?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xp0f0g/are_there_any_good_alternatives_to_discord/",
    "ts": 1793929021,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "more people should build browsers",
-   "url": "https://www.reddit.com/r/programming/comments/1xozu64/more_people_should_build_browsers/",
-   "ts": 1793927324,
    "source": "Reddit"
   },
   {
@@ -218,13 +232,6 @@
    "title": "DeepSeek-V4.1-Flash-1017 on one RTX 3090: Big updates to the Delta Inference Engine v0.93. Same 41 tok/s at 192GB/IQ2 at better quality, usable from 64 GB RAM, first token ~40% sooner, new Unsloth quants at full speed, EXL3, basic multi-GPU, public CI and more",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoq4vq/deepseekv41flash1017_on_one_rtx_3090_big_updates/",
    "ts": 1793903002,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "I animated how a language model picks the next token, with real probabilities from Qwen2.5-0.5B: softmax, greedy vs sampling, temperature, top-k, top-p (7 min video) [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xopogt/i_animated_how_a_language_model_picks_the_next/",
-   "ts": 1793901955,
    "source": "Reddit"
   },
   {
@@ -372,13 +379,6 @@
    "title": "ICLR 2027 Reviews Discussion [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
    "ts": 1793845079,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "How we halved DNS build delay and cut memory use by 85%",
-   "url": "https://www.reddit.com/r/programming/comments/1xnzyh6/how_we_halved_dns_build_delay_and_cut_memory_use/",
-   "ts": 1793826459,
    "source": "Reddit"
   },
   {
