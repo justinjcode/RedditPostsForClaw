@@ -1,15 +1,64 @@
 {
- "generated_at": "2026-11-06T08:11:29Z",
+ "generated_at": "2026-11-06T10:09:37Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "[BREAKING] Qwen4 will be",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp8tad/breaking_qwen4_will_be/",
+   "ts": 1793958113,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "I want to give my unused iPad (9th Generation with A19) a new purpose",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xp8jzk/i_want_to_give_my_unused_ipad_9th_generation_with/",
+   "ts": 1793957069,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Following the 2026 U.S. elections, how do you think potential regulations on AI would affect local AI software?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp8e3y/following_the_2026_us_elections_how_do_you_think/",
+   "ts": 1793956412,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Go 1.27: encoding/json/v2, Stricter Defaults, and Finally [] for Nil Slices · cekrem.github.io",
+   "url": "https://www.reddit.com/r/programming/comments/1xp8b96/go_127_encodingjsonv2_stricter_defaults_and/",
+   "ts": 1793956105,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Asking questions to a 0.5b model is hillarious",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp8as6/asking_questions_to_a_05b_model_is_hillarious/",
+   "ts": 1793956057,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Low the disk I/O of Bunkerweb",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xp86iv/low_the_disk_io_of_bunkerweb/",
+   "ts": 1793955610,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "How software got here: 60 milestones from 1945 to 2025, each with its original source (interactive timeline)",
+   "url": "https://www.reddit.com/r/programming/comments/1xp7rf0/how_software_got_here_60_milestones_from_1945_to/",
+   "ts": 1793953899,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Lightweight self-hosted ImprovMX alternative",
@@ -179,31 +228,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "[Paper] SpecOPD: Branch-Parallel On-Policy Distillation for Speculative Decoding - By Qwen",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoo0pp/paper_specopd_branchparallel_onpolicy/",
-   "ts": 1793898238,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "trainlint: static checks for ML bugs that don't crash (fit-before-split, eval mode, logits losses) [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xonrvy/trainlint_static_checks_for_ml_bugs_that_dont/",
    "ts": 1793897696,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Wake on Lan at Immich/Audiobookshelf Connect",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xonmrn/wake_on_lan_at_immichaudiobookshelf_connect/",
-   "ts": 1793897366,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "[Paper] FireFlash : An Open Recipe for Long-Horizon Agentic RL Achieving the Performance-Cost Pareto Frontier",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xomst7/paper_fireflash_an_open_recipe_for_longhorizon/",
-   "ts": 1793895462,
    "source": "Reddit"
   },
   {
@@ -288,13 +316,6 @@
    "title": "A Look at Datastar",
    "url": "https://www.reddit.com/r/programming/comments/1xofjis/a_look_at_datastar/",
    "ts": 1793875425,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "withoutBG v4: self-hosted background removal with a Docker app and brush fixes",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xoel60/withoutbg_v4_selfhosted_background_removal_with_a/",
-   "ts": 1793871772,
    "source": "Reddit"
   },
   {
@@ -386,27 +407,6 @@
    "title": "A message to top tier conferences [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xnkbeu/a_message_to_top_tier_conferences_d/",
    "ts": 1793786150,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "A Maintainer's Advice on Contributing to Open Source in 2026",
-   "url": "https://www.reddit.com/r/programming/comments/1xnjvkx/a_maintainers_advice_on_contributing_to_open/",
-   "ts": 1793784389,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "the lost malloc()",
-   "url": "https://www.reddit.com/r/programming/comments/1xni70o/the_lost_malloc/",
-   "ts": 1793777817,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "We’re the product team at Reflection, the lab behind Beam — Ask Us Anything!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmwryg/were_the_product_team_at_reflection_the_lab/",
-   "ts": 1793721560,
    "source": "Reddit"
   },
   {
