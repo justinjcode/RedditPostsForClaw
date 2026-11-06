@@ -1,18 +1,17 @@
 {
- "generated_at": "2026-11-06T23:13:55Z",
+ "generated_at": "2026-11-06T23:23:14Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
   {
@@ -59,6 +58,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2118826964916298088#m",
    "ts": 1794002688,
    "id": "2118826964916298088#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "BREAKING: Starlink now helps connect 500+ locomotives and railcars for Rumo, Brazil’s largest freight rail operator. 🇧🇷 Autotrac’s system switches between 4G and Starlink so trains can stay in touch with the control center in real time, even where there’s no cell signal.",
+   "url": "https://nitter.kareem.one/cb_doge/status/2118822261088190714#m",
+   "ts": 1794001567,
+   "id": "2118822261088190714#m"
   },
   {
    "handle": "elonmusk",
@@ -302,15 +310,6 @@
    "url": "https://nitter.kareem.one/XFreeze/status/2118738155654513112#m",
    "ts": 1793981515,
    "id": "2118738155654513112#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Exactly 😂 Tesla has no government contracts and President Trump ended federal incentives for electric vehicles. SpaceX contracts with the government are BOTH the best product AND the lowest price! Moreover government revenue will be less than 10% of SpaceX revenue this quarter and less then 5% a year from now. Happy to cancel any that the government doesn’t want. Just say the word! Warren Redlich - Chasing Dreams 🇺🇸 (@WR4NYGov) Elon please send this January 1: Dear Senate & House Democrats, Many of you criticize my companies receiving federal contracts. I hereby offer to cancel. Please publish a list of each contract to cancel with any required agency consent, and we will cancel promptly. Sincerely, Elon Musk — https://nitter.kareem.one/WR4NYGov/status/2118718688748777545#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118737725964837353#m",
-   "ts": 1793981412,
-   "id": "2118737725964837353#m"
   },
   {
    "handle": "TheRundownAI",
