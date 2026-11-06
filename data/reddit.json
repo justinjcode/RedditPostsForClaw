@@ -1,15 +1,43 @@
 {
- "generated_at": "2026-11-06T14:10:22Z",
+ "generated_at": "2026-11-06T16:09:27Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "MachineLearning",
+   "title": "ICLR27: Reviewer says my paper is too close to the same paper that I previously had in a workshop. [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xpf4t6/iclr27_reviewer_says_my_paper_is_too_close_to_the/",
+   "ts": 1793977758,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "What's missing or annoying in your setup?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xpexdx/whats_missing_or_annoying_in_your_setup/",
+   "ts": 1793977267,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "ICLR 2027 Review Scores [N]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xpedgc/iclr_2027_review_scores_n/",
+   "ts": 1793975861,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Looking for a true 1:1 complete GitHub backup solution (LFS, releases, wikis, issues/PRs) across multiple accounts — storage is not an issue",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xpe5l8/looking_for_a_true_11_complete_github_backup/",
+   "ts": 1793975300,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Linum-AI/pjit-21k · Hugging Face - A Text-to-Image Model Trained for $21K",
@@ -32,6 +60,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "programming",
+   "title": "100% GPU Utilization, 39% of Rated FP16",
+   "url": "https://www.reddit.com/r/programming/comments/1xpc2ro/100_gpu_utilization_39_of_rated_fp16/",
+   "ts": 1793969627,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "LocalLLaMA",
    "title": "Qwen - the becoming begins",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpbjzi/qwen_the_becoming_begins/",
@@ -43,6 +78,13 @@
    "title": "Qwen 4 is stealth announced",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpbjku/qwen_4_is_stealth_announced/",
    "ts": 1793967977,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Unity3D for .NET Developers: How to get started",
+   "url": "https://www.reddit.com/r/programming/comments/1xpbd2s/unity3d_for_net_developers_how_to_get_started/",
+   "ts": 1793967406,
    "source": "Reddit"
   },
   {
@@ -78,13 +120,6 @@
    "title": "Latest Open-Source Labs are gutting away cybersecurity and reverse-engineering capabilities",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp9jt1/latest_opensource_labs_are_gutting_away/",
    "ts": 1793960917,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Programming for Wizards",
-   "url": "https://www.reddit.com/r/programming/comments/1xp9ilr/programming_for_wizards/",
-   "ts": 1793960784,
    "source": "Reddit"
   },
   {
@@ -166,23 +201,9 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Redundant DC power supply for rack",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xp0uym/redundant_dc_power_supply_for_rack/",
-   "ts": 1793930336,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "Are there any good alternatives to discord?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xp0f0g/are_there_any_good_alternatives_to_discord/",
    "ts": 1793929021,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Git at any scale",
-   "url": "https://www.reddit.com/r/programming/comments/1xozofg/git_at_any_scale/",
-   "ts": 1793926858,
    "source": "Reddit"
   },
   {
@@ -190,13 +211,6 @@
    "title": "Anyone ever try the Syncthing equivalent of VPNs, Anywherelan?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xozg3r/anyone_ever_try_the_syncthing_equivalent_of_vpns/",
    "ts": 1793926197,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "ICLR Review [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xozcd8/iclr_review_d/",
-   "ts": 1793925882,
    "source": "Reddit"
   },
   {
@@ -375,13 +389,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Went a bit nuts with homepage for my homelab",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xo70xx/went_a_bit_nuts_with_homepage_for_my_homelab/",
-   "ts": 1793845239,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "ICLR 2027 Reviews Discussion [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
@@ -414,13 +421,6 @@
    "title": "[D] Self-Promotion Thread",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xlmffv/d_selfpromotion_thread/",
    "ts": 1793589307,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xjyo89/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-   "ts": 1793413821,
    "source": "Reddit"
   },
   {
