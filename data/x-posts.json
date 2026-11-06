@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-06T13:43:56Z",
+ "generated_at": "2026-11-06T13:54:16Z",
  "accounts_ok": [
   "TheRundownAI",
-  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 178,
  "items": [
@@ -23,15 +23,6 @@
    "url": "https://nitter.kareem.one/cb_doge/status/2118682924791050343#m",
    "ts": 1793968347,
    "id": "2118682924791050343#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "this is agi wtf (in @ryolu_ 's original footage i was given, BOTH sides of the screen were in Chinese. what u see below is Astra's rerender swapping English translation matching font and lighting and animations. MATCHING THE FUCKING LIGHTING.) swyx (@swyx) guys guys Video — https://nitter.kareem.one/swyx/status/2118663321398448389#m",
-   "url": "https://nitter.kareem.one/swyx/status/2118663921448169741#m",
-   "ts": 1793963816,
-   "id": "2118663921448169741#m"
   },
   {
    "handle": "swyx",
@@ -446,6 +437,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2118401431338446927#m",
    "ts": 1793901233,
    "id": "2118401431338446927#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Ameliayu 余一 (@ameliax111) manus firsthand club01 期 和朋友们的久违聚会，披萨啤酒闲聊，看 AI host 翻车 o(^▽^)o （迟到了最好吃的披萨） — https://nitter.kareem.one/ameliax111/status/2118338475271528762#m",
+   "url": "https://nitter.kareem.one/swyx/status/2118401389655417334#m",
+   "ts": 1793901223,
+   "id": "2118401389655417334#m"
   },
   {
    "handle": "TheRundownAI",
