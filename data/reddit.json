@@ -1,15 +1,64 @@
 {
- "generated_at": "2026-11-06T16:09:27Z",
+ "generated_at": "2026-11-06T18:12:26Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Odograph: A self-hosted mileage tracker that calculates IRS deductions for business travel.",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xpipiz/odograph_a_selfhosted_mileage_tracker_that/",
+   "ts": 1793986128,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "AMA: How we trained a SOTA Decision model, got top 3 on OpenRouter & top on 5 ArtificalAnalysis: full playbook - arch, datasets, training, evals, inference",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xphq4u/ama_how_we_trained_a_sota_decision_model_got_top/",
+   "ts": 1793983898,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Ripple 65B Preview vs Qwen 3.8 27B vs Qwen 3.8 Flash Next",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xphi5w/ripple_65b_preview_vs_qwen_38_27b_vs_qwen_38/",
+   "ts": 1793983388,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Seerr Help",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xphgvi/seerr_help/",
+   "ts": 1793983301,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Coincidence, right?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpgsb3/coincidence_right/",
+   "ts": 1793981713,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Oc-e-Non-v1: A language model that gets to the f*cking point",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpfhpm/ocenonv1_a_language_model_that_gets_to_the_fcking/",
+   "ts": 1793978617,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Qwen Developers on X: \"Qwhen? Qsoon! For our friends outside China, the Chinese text in the poster comes from",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpf8qy/qwen_developers_on_x_qwhen_qsoon_for_our_friends/",
+   "ts": 1793978027,
+   "source": "Reddit"
+  },
   {
    "subreddit": "MachineLearning",
    "title": "ICLR27: Reviewer says my paper is too close to the same paper that I previously had in a workshop. [D]",
@@ -22,6 +71,13 @@
    "title": "What's missing or annoying in your setup?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xpexdx/whats_missing_or_annoying_in_your_setup/",
    "ts": 1793977267,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Harness Adapters: LoRA adapter for your model per task per harness",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpeee1/harness_adapters_lora_adapter_for_your_model_per/",
+   "ts": 1793975926,
    "source": "Reddit"
   },
   {
@@ -40,9 +96,9 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "Linum-AI/pjit-21k · Hugging Face - A Text-to-Image Model Trained for $21K",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpcpws/linumaipjit21k_hugging_face_a_texttoimage_model/",
-   "ts": 1793971498,
+   "title": "A 0.1B model just killed 8B embedding models... I tried it out.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpdk0i/a_01b_model_just_killed_8b_embedding_models_i/",
+   "ts": 1793973757,
    "source": "Reddit"
   },
   {
@@ -74,13 +130,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Qwen 4 is stealth announced",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpbjku/qwen_4_is_stealth_announced/",
-   "ts": 1793967977,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Unity3D for .NET Developers: How to get started",
    "url": "https://www.reddit.com/r/programming/comments/1xpbd2s/unity3d_for_net_developers_how_to_get_started/",
@@ -99,20 +148,6 @@
    "title": "I need some guidance after a six month hiatus [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xpb6kb/i_need_some_guidance_after_a_six_month_hiatus_r/",
    "ts": 1793966802,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Carquet · Parquet at the speed of C",
-   "url": "https://www.reddit.com/r/programming/comments/1xpak4s/carquet_parquet_at_the_speed_of_c/",
-   "ts": 1793964664,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "My setup for 2x 5060TI",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp9v5s/my_setup_for_2x_5060ti/",
-   "ts": 1793962126,
    "source": "Reddit"
   },
   {
@@ -137,13 +172,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "CyberTiel35BA3B working on Blender Rigging via MCP. 8GB VRAM, 16GB RAM. llama.cpp.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp8sjd/cybertiel35ba3b_working_on_blender_rigging_via/",
-   "ts": 1793958031,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "I want to give my unused iPad (9th Generation with A19) a new purpose",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xp8jzk/i_want_to_give_my_unused_ipad_9th_generation_with/",
@@ -162,13 +190,6 @@
    "title": "Asking questions to a 0.5b model is hillarious",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp8as6/asking_questions_to_a_05b_model_is_hillarious/",
    "ts": 1793956057,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Low the disk I/O of Bunkerweb",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xp86iv/low_the_disk_io_of_bunkerweb/",
-   "ts": 1793955610,
    "source": "Reddit"
   },
   {
@@ -211,13 +232,6 @@
    "title": "Anyone ever try the Syncthing equivalent of VPNs, Anywherelan?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xozg3r/anyone_ever_try_the_syncthing_equivalent_of_vpns/",
    "ts": 1793926197,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "CCORE GLB-3D-Coder dataset is here: 3,918 rendered and tested examples across 40 domains",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xozbe6/ccore_glb3dcoder_dataset_is_here_3918_rendered/",
-   "ts": 1793925805,
    "source": "Reddit"
   },
   {
@@ -284,13 +298,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "DeepSeek-V4.1-Flash-1017 on one RTX 3090: Big updates to the Delta Inference Engine v0.93. Same 41 tok/s at 192GB/IQ2 at better quality, usable from 64 GB RAM, first token ~40% sooner, new Unsloth quants at full speed, EXL3, basic multi-GPU, public CI and more",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoq4vq/deepseekv41flash1017_on_one_rtx_3090_big_updates/",
-   "ts": 1793903002,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "trainlint: static checks for ML bugs that don't crash (fit-before-split, eval mode, logits losses) [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xonrvy/trainlint_static_checks_for_ml_bugs_that_dont/",
@@ -354,20 +361,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Qwen3.8-27B has become unuseable recently",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoeeyf/qwen3827b_has_become_unuseable_recently/",
-   "ts": 1793871070,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "APT CVE-2026-109518 (root via packages that fail signature checks): Ubuntu says to update with -o Acquire::Retries=0",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xodzj7/apt_cve2026109518_root_via_packages_that_fail/",
-   "ts": 1793869356,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Publication expectations for ML PhDs at top-10 US schools / top ML groups? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xoc358/publication_expectations_for_ml_phds_at_top10_us/",
@@ -393,6 +386,13 @@
    "title": "ICLR 2027 Reviews Discussion [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
    "ts": 1793845079,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "How we halved DNS build delay and cut memory use by 85%",
+   "url": "https://www.reddit.com/r/programming/comments/1xnzyh6/how_we_halved_dns_build_delay_and_cut_memory_use/",
+   "ts": 1793826459,
    "source": "Reddit"
   },
   {
