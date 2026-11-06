@@ -1,19 +1,29 @@
 {
- "generated_at": "2026-11-06T23:33:52Z",
+ "generated_at": "2026-11-06T23:43:33Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@bcherny: all instances failed"
+ ],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "This is maybe the most fun podcast I’ve done",
+   "url": "https://nitter.kareem.one/aditabrm/status/2118846657790095454#m",
+   "ts": 1794007384,
+   "id": "2118846657790095454#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -463,15 +473,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2118538896434999759#m",
    "ts": 1793934008,
    "id": "2118538896434999759#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": ". @chlassner teaching the room world model !== humans “world” at @aiDotEngineer SH. Agents/models see the world in action space, i love talks like this that demystify complex ideas.",
-   "url": "https://nitter.kareem.one/vincent_koc/status/2118527211011809684#m",
-   "ts": 1793931222,
-   "id": "2118527211011809684#m"
   },
   {
    "handle": "thsottiaux",
