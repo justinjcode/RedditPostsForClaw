@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T08:22:13Z",
+ "generated_at": "2026-11-06T08:34:03Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Terafab is moving fast Herbert Ong (@herbertong) Tesla's chip effort is moving at Tesla speed, not semiconductor speed. Elon says TeraFab is going well, and @FutureAZA watched the related Fab Lab at Giga Texas go from bare ground to steel in days. Brian saw the site still lit and dusty at midnight, with work continuing around the clock. A Korean supplier executive says early-morning US questions get answers within 30 minutes to an hour. Tesla is treating chip development as a manufacturing race, not a conventional vendor-managed project. $TSLA Video — https://nitter.kareem.one/herbertong/status/2118522505648628207#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2118620772268990966#m",
+   "ts": 1793953528,
+   "id": "2118620772268990966#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -283,15 +292,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2118480792221622661#m",
    "ts": 1793920154,
    "id": "2118480792221622661#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "This is a bigger deal than people might think! 100% process waste water recycling means ZERO liquid discharge. Our waste water treatment facility is not just advanced but unique in automotive industry! This is a key sustainability commitment to the region we are operating in! Tesla Manufacturing (@gigafactories) 2 years of 100% process wastewater recycling at Giga Berlin – putting 465 million liters back in production — https://nitter.kareem.one/gigafactories/status/2118381463389307149#m",
-   "url": "https://nitter.kareem.one/AndrThie/status/2118476679593312316#m",
-   "ts": 1793919174,
-   "id": "2118476679593312316#m"
   },
   {
    "handle": "thsottiaux",
@@ -1329,9 +1329,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
