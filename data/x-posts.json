@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-06T09:53:37Z",
+ "generated_at": "2026-11-06T10:06:38Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "ok this is just ridiculous Thinking Machines (@thinkymachines) Introducing Inkling 2 Small. Scoring 31 on the AA Intelligence Index, it's a big jump over its predecessor. Inkling 2 Small is available for fine-tuning and inference on Tinker today, with full weight release planned soon. thinkingmachines.ai/news/ink… Link Introducing Inkling 2 Small Today we are introducing the second generation of Inkling models with the release of Inkling 2 Small. thinkingmachines.ai — https://nitter.kareem.one/thinkymachines/status/2118489527362912566#m",
+   "url": "https://nitter.kareem.one/swyx/status/2118642061515936142#m",
+   "ts": 1793958604,
+   "id": "2118642061515936142#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -428,15 +436,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2118401389655417334#m",
    "ts": 1793901223,
    "id": "2118401389655417334#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Jinyan Su (@SuJinyan6) I went to Shanghai to attend AI Engineer Shanghai 2026 hosted by @swyx , I really like @ryolu_ ‘s talk about what he thought and care about in the age of AI. Some of the words he said really resonated with me, ”when AI can almost do anything for us, do we still know want we to do?” Many of his principles are similar to what I feel about life and research, where everything comes down to simplicity and freedom. Although I don’t know anything about real design, the spirit is the same, whether it is to write a math proof, design a research experiments to get to a conclusion or designing a system( @GenAI_is_real probably have much to say about that). Those who still have standard for quality and beauty rather than chasing the AI speed and AI quantify (that most people are chasing) is our last fort that distinguishes us with AI. — https://nitter.kareem.one/SuJinyan6/status/2118246809957277730#m",
-   "url": "https://nitter.kareem.one/swyx/status/2118401333317484934#m",
-   "ts": 1793901210,
-   "id": "2118401333317484934#m"
   },
   {
    "handle": "TheRundownAI",
