@@ -1,20 +1,38 @@
 {
- "generated_at": "2026-11-06T09:34:54Z",
+ "generated_at": "2026-11-06T09:43:56Z",
  "accounts_ok": [
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
+  "@simonw: all instances failed",
+  "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Yes X Freeze (@XFreeze) Elon Musk predicts space will become the lowest-cost place to run superintelligence within just 2–3 years “I think the case is a no-brainer for building solar-powered AI data centers in space” Solar panels facing the Sun and radiators pointed away from it can provide an incredibly efficient power and cooling system “The net effect is that the lowest cost place to put AI will be space. And that'll be true within two years, maybe three at the latest” Video — https://nitter.kareem.one/XFreeze/status/2118447208542662763#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2118638089677803638#m",
+   "ts": 1793957657,
+   "id": "2118638089677803638#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starlink enables education in remote areas X Freeze (@XFreeze) Starlink is bringing internet access to remote classrooms in Indonesia Katingan’s local government is distributing Starlink kits to preschools, elementary schools and junior high schools across areas where traditional internet remains weak or unavailable In 2026, Katingan received 287 Starlink units in total Of those, 174 were allocated to education including PAUD, elementary schools, junior high schools and regional education coordinators For teachers and students, that means access to digital learning materials, online references and school services that were much harder to reach before A single Starlink connection opens up an entire classroom to the world — https://nitter.kareem.one/XFreeze/status/2118631742529769490#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2118637614068912548#m",
+   "ts": 1793957544,
+   "id": "2118637614068912548#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -149,15 +167,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2118591262890848688#m",
    "ts": 1793946493,
    "id": "2118591262890848688#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I just can’t help thinking of topiaries whenever someone mentions “hedge” fund 😂",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118590026548461642#m",
-   "ts": 1793946198,
-   "id": "2118590026548461642#m"
   },
   {
    "handle": "swyx",
@@ -518,15 +527,6 @@
    "url": "https://nitter.kareem.one/GaoYingshi/status/2118303573822030250#m",
    "ts": 1793877902,
    "id": "2118303573822030250#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon Musk started his first company, Zip2, in a $500 a month office that doubled as his home. The cheapest apartment he could find cost $800 a month, so he slept on a pullout couch and showered at the YMCA down the road. Video",
-   "url": "https://nitter.kareem.one/cb_doge/status/2118287658002858495#m",
-   "ts": 1793874108,
-   "id": "2118287658002858495#m"
   },
   {
    "handle": "ZichenWanghere",
