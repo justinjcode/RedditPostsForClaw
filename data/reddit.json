@@ -1,15 +1,36 @@
 {
- "generated_at": "2026-11-05T22:09:18Z",
+ "generated_at": "2026-11-06T00:20:29Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
-  "programming"
+  "programming",
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Spaceship has locked my account and entire domain portfolio in Spaceship AND Namecheap over a 1.7k balance that THEY created.",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xoy5iu/spaceship_has_locked_my_account_and_entire_domain/",
+   "ts": 1793922655,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "New Project Megathread - Week of 05 Nov 2026",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xox23i/new_project_megathread_week_of_05_nov_2026/",
+   "ts": 1793919684,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "TradeTally - Stock Trading Journal v2.15.1",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xowka6/tradetally_stock_trading_journal_v2151/",
+   "ts": 1793918371,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Maybe we'll get cheap RAM for Christmas after all!",
@@ -40,9 +61,23 @@
   },
   {
    "subreddit": "LocalLLaMA",
+   "title": "Lawyer with too many GPUs, part 4: DeepSeek-V4.1-Flash on eight V100s from 2018. 200+ tok/s on code, ~110 on legal writing, 2,200 tok/s prefill at 128K, 524K context, every weight in VRAM",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoubyo/lawyer_with_too_many_gpus_part_4_deepseekv41flash/",
+   "ts": 1793912874,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
    "title": "Strata for all Qwen models from little to big",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xottw2/strata_for_all_qwen_models_from_little_to_big/",
    "ts": 1793911650,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "[LivPhotos] Immich/Google Photos alternative for low end systems",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xot9uz/livphotos_immichgoogle_photos_alternative_for_low/",
+   "ts": 1793910314,
    "source": "Reddit"
   },
   {
@@ -144,13 +179,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "How do you keep Docker Swarm releases consistent across images, configs and database migrations?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xokp3s/how_do_you_keep_docker_swarm_releases_consistent/",
-   "ts": 1793890544,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "NVIDIA RTX PRO 5500 Blackwell appears at $17,999 MSRP, higher than RTX PRO 6000 at $16,000 MSRP set some months ago by NVIDIA - VideoCardz",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xojryw/nvidia_rtx_pro_5500_blackwell_appears_at_17999/",
@@ -162,13 +190,6 @@
    "title": "openssh on musl (eg. alpine) accepts any password > 256 characters for accounts with login disabled",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xojnsm/openssh_on_musl_eg_alpine_accepts_any_password/",
    "ts": 1793887979,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Getting editable layers out of Qwen-Image 2.1, a model that only edits: what works, what still fails (local, open source) Kokon",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoji3b/getting_editable_layers_out_of_qwenimage_21_a/",
-   "ts": 1793887587,
    "source": "Reddit"
   },
   {
@@ -306,13 +327,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Cryptominer in my Plausible anayltics container",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xo7agf/cryptominer_in_my_plausible_anayltics_container/",
-   "ts": 1793846016,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "Went a bit nuts with homepage for my homelab",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xo70xx/went_a_bit_nuts_with_homepage_for_my_homelab/",
    "ts": 1793845239,
@@ -344,13 +358,6 @@
    "title": "Why can't conferences just reasonably reduce the cap on number of submissions? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xnscvr/why_cant_conferences_just_reasonably_reduce_the/",
    "ts": 1793809059,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Im on a mission to create the best self hosted reading client alternative to Kindle and Apple Books",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xnrt3j/im_on_a_mission_to_create_the_best_self_hosted/",
-   "ts": 1793807787,
    "source": "Reddit"
   },
   {
@@ -414,13 +421,6 @@
    "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xjyo89/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
    "ts": 1793413821,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "New Project Megathread - Week of 29 Oct 2026",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xiz2ik/new_project_megathread_week_of_29_oct_2026/",
-   "ts": 1793314869,
    "source": "Reddit"
   },
   {
