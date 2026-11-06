@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-11-06T15:34:29Z",
+ "generated_at": "2026-11-06T15:43:38Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -10,11 +11,27 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: tech.therundown.ai/p/big-tec… Link Big Tech sues to save the feed PLUS: Cybertruck out, Cybercab in tech.therundown.ai",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2118728792440979688#m",
+   "ts": 1793979282,
+   "id": "2118728792440979688#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in tech today: - Meta, Google, TikTok sue California - Musk clears Cybertruck off Giga Texas - Google drops $17B on Wyoming data center - Sony revives its Walkman headphones",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2118728787659522165#m",
+   "ts": 1793979281,
+   "id": "2118728787659522165#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1168,15 +1185,6 @@
    "id": "2117337139633607167#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "OpenAI says it wants ChatGPT handling your life admin, so it built LifeVal, a test of real chores picked using studies of how people spend their time and a 3,995-person poll. GPT-6 Astra hit 100% on 10 of the 16 tasks in its results table. A few, with its \"best recorded\" score on each: - Finding a match for a lost engagement ring: 100% - Quitting email lists: 100% - Texas food-aid paperwork: 98.7% - Diet plan for a diabetic parent: 90.4% - Checking LSAT answers: 88.7% Its average across the whole test is 80.6%. Video",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2117316324166651979#m",
-   "ts": 1793642524,
-   "id": "2117316324166651979#m"
-  },
-  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -1211,15 +1219,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2117283124833055196#m",
    "ts": 1793634608,
    "id": "2117283124833055196#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: robotnews.therundown.ai/p/me… Link Meta builds its first humanoid robot PLUS: Walmart goes full-Amazon on robots robotnews.therundown.ai",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2117278198853489093#m",
-   "ts": 1793633434,
-   "id": "2117278198853489093#m"
   },
   {
    "handle": "Lingling_Wei",
