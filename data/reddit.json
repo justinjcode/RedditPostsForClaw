@@ -1,20 +1,48 @@
 {
- "generated_at": "2026-11-06T00:20:29Z",
+ "generated_at": "2026-11-06T02:12:42Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
+  "MachineLearning",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
   {
    "subreddit": "selfhosted",
-   "title": "Spaceship has locked my account and entire domain portfolio in Spaceship AND Namecheap over a 1.7k balance that THEY created.",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xoy5iu/spaceship_has_locked_my_account_and_entire_domain/",
-   "ts": 1793922655,
+   "title": "Are there any good alternatives to discord?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xp0f0g/are_there_any_good_alternatives_to_discord/",
+   "ts": 1793929021,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "more people should build browsers",
+   "url": "https://www.reddit.com/r/programming/comments/1xozu64/more_people_should_build_browsers/",
+   "ts": 1793927324,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Git at any scale",
+   "url": "https://www.reddit.com/r/programming/comments/1xozofg/git_at_any_scale/",
+   "ts": 1793926858,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Anyone ever try the Syncthing equivalent of VPNs, Anywherelan?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xozg3r/anyone_ever_try_the_syncthing_equivalent_of_vpns/",
+   "ts": 1793926197,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "ICLR Review [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xozcd8/iclr_review_d/",
+   "ts": 1793925882,
    "source": "Reddit"
   },
   {
@@ -50,6 +78,13 @@
    "title": "Building iOS apps on Windows: running Apple’s Mach-O macro plugins on an ARM64 CPU emulator",
    "url": "https://www.reddit.com/r/programming/comments/1xovbpf/building_ios_apps_on_windows_running_apples_macho/",
    "ts": 1793915239,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Empirical Evaluation of Sparse Predictive Hierarchies (SPH) & Non-Backprop Learning on Chess (Lc0 Baseline) Negative Result [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xov58r/empirical_evaluation_of_sparse_predictive/",
+   "ts": 1793914801,
    "source": "Reddit"
   },
   {
@@ -162,20 +197,6 @@
    "title": "[Paper] FireFlash : An Open Recipe for Long-Horizon Agentic RL Achieving the Performance-Cost Pareto Frontier",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xomst7/paper_fireflash_an_open_recipe_for_longhorizon/",
    "ts": 1793895462,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Looking for the holy grail of notes",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xolo0h/looking_for_the_holy_grail_of_notes/",
-   "ts": 1793892792,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Industry to academia [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xol3vf/industry_to_academia_d/",
-   "ts": 1793891482,
    "source": "Reddit"
   },
   {
@@ -305,13 +326,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "I submitted my AACL paper as a long paper, but it’s listed as a short paper. [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xo8vd3/i_submitted_my_aacl_paper_as_a_long_paper_but_its/",
-   "ts": 1793850746,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "LZAV 7.1: Improved compression ratio and speed. Achieved complete C/C++ pointer arithmetic compliance. Fast Data Compression Algorithm (inline C/C++).",
    "url": "https://www.reddit.com/r/programming/comments/1xo82gs/lzav_71_improved_compression_ratio_and_speed/",
@@ -362,23 +376,9 @@
   },
   {
    "subreddit": "programming",
-   "title": "Git, From the Inside (interactive explainer)",
-   "url": "https://www.reddit.com/r/programming/comments/1xnqotw/git_from_the_inside_interactive_explainer/",
-   "ts": 1793805148,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
    "title": "Shlemiel the Painter Is Back: How Zig’s libc Rewrite Made SQLite 12,000× Slower",
    "url": "https://www.reddit.com/r/programming/comments/1xnq1xx/shlemiel_the_painter_is_back_how_zigs_libc/",
    "ts": 1793803618,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "DuckDB.NET 1.5.6.1: Appending Dates Up to 27× Faster",
-   "url": "https://www.reddit.com/r/programming/comments/1xnmntq/duckdbnet_1561_appending_dates_up_to_27_faster/",
-   "ts": 1793794392,
    "source": "Reddit"
   },
   {
