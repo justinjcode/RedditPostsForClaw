@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T22:23:45Z",
+ "generated_at": "2026-11-06T22:33:57Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -7,14 +7,40 @@
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@simonw: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "recap video AI.Engineer 🔜 Shanghai & SF CODE (@aiDotEngineer) 衷心感谢, AIE 上海！ ❤️👨‍💻🇨🇳 everyone congratulate @StandupPartners on hosting the first EVER AI Engineer in China! Video — https://nitter.kareem.one/aiDotEngineer/status/2118831109396193635#m",
+   "url": "https://nitter.kareem.one/swyx/status/2118831214308262043#m",
+   "ts": 1794003702,
+   "id": "2118831214308262043#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "衷心感谢, AIE 上海！ ❤️👨‍💻🇨🇳 everyone congratulate @StandupPartners on hosting the first EVER AI Engineer in China! Video swyx (@swyx) absolutely tearing up seeing AIE Shanghai kick off and SUCH INCREDIBLE EXECUTION from @StandupPartners . the first AIE in China is actually happening!!! and its a packed room and a hot schedule featuring @ryolu_ , @Microsoft , @MiniMax_AI , @theworldlabs , @HeyGen , @ExaAILabs , @openclaw , @StepFun_ai , @liquidai , @youdotcom , @DynaRobotics , @baseten , @Meta , @OptiverGlobal , @ManusAI and more. not livestreamed because Reasons but you can bet we'll be posting up some videos and takes — https://nitter.kareem.one/swyx/status/2118246851136909731#m",
+   "url": "https://nitter.kareem.one/aiDotEngineer/status/2118831109396193635#m",
+   "ts": 1794003677,
+   "id": "2118831109396193635#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "unironically, @allenpark cooked inv.kareem.one/watch?v=KgqWyVVH… Link Cooking with Reducto’s CEO: Why PDFs Still Break AI — Adit Abraham Why do PDFs still break AI? Reducto co-founder and CEO Adit Abraham... youtube.com",
+   "url": "https://nitter.kareem.one/swyx/status/2118829491904708834#m",
+   "ts": 1794003291,
+   "id": "2118829491904708834#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -439,24 +465,6 @@
    "id": "2118527211011809684#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "we'll take some LPs but honestly more interested in building up my 2027 take on aigrant.com/ we'll use AIE HQ as base for portcos Link AI Grant It's time for AI-native products! aigrant.com",
-   "url": "https://nitter.kareem.one/swyx/status/2118523041290596631#m",
-   "ts": 1793930227,
-   "id": "2118523041290596631#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "uhh so this is how i found out that i'm not only no longer a Sequoia Scout, my main partner (and boardmember since @Temporalio ) is also gone. no email from sequoia yet about anything in the past month. no response to my texts from any partner. I literally left my previous partnership to join Sequoia because I respected what they have built and thought they represent the epitomy of what being long term partners could be in Silicon Valley and I wanted to be closer to that from the inside rather than read about it in @colossusmag hagiographies. disappointed. i respect the new direction but the collateral damage is high. on the plus side, i think i am done being a scout. @mariadlzollo and I are going to raise a small side fund, by founders for founders. we are seeking a compute partner (possible GP, or just sponsor/in-kind-investor), and a researcher GP. pls enquire within - dm or text if you have me, else business@latent.space Sriram Mani (@followthemani) Scoop: Sequoia forced out three US-based partners in its recent overhaul. Bogomil Balkansky, Jess Lee and Stephanie Zhan, were pushed out in recent weeks. Regarding Sequoia's Europe exit, my sources were surprised they didn't do it sooner More in story with @cityofthetown — https://nitter.kareem.one/followthemani/status/2118423968088728041#m",
-   "url": "https://nitter.kareem.one/swyx/status/2118512013228077063#m",
-   "ts": 1793927598,
-   "id": "2118512013228077063#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -626,15 +634,6 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2118280765679284645#m",
    "ts": 1793872464,
    "id": "2118280765679284645#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Giving out stickers + shirts at our booth at @aiDotEngineer China. Come say hi! 👋🏼🇨🇳 @daytonaio",
-   "url": "https://nitter.kareem.one/joshuacirjak/status/2118259913764049202#m",
-   "ts": 1793867493,
-   "id": "2118259913764049202#m"
   },
   {
    "handle": "thsottiaux",
