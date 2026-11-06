@@ -1,9 +1,7 @@
 {
- "generated_at": "2026-11-06T03:07:28Z",
+ "generated_at": "2026-11-06T03:19:00Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +9,21 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "ok guys pitchforks down pls we chatted and i learned a lot about why i had been missing context and communication - not a sequoia wide thing, just a small gap i got caught in. also the quoted tweet has impt inaccuracies/incomplete info i can’t share nitterk.kareem.one/sonyatweetybird/status… but basically treat it as unrelated to the broader sequoia restructuring that was announced this week Sonya Huang 🐥 (@sonyatweetybird) DMing you @swyx there’s some important context i’ll share live. appreciate you and sorry we disappointed you. — https://nitter.kareem.one/sonyatweetybird/status/2118525644753809583#m",
+   "url": "https://nitter.kareem.one/swyx/status/2118538896434999759#m",
+   "ts": 1793934008,
+   "id": "2118538896434999759#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -508,15 +518,6 @@
    "url": "https://nitter.kareem.one/ZinkLu2/status/2118197358601379910#m",
    "ts": 1793852579,
    "id": "2118197358601379910#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "✅",
-   "url": "https://nitter.kareem.one/zanweiguo/status/2118179977019662815#m",
-   "ts": 1793848435,
-   "id": "2118179977019662815#m"
   },
   {
    "handle": "elonmusk",
