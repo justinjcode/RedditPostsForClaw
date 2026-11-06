@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T02:52:58Z",
+ "generated_at": "2026-11-06T03:07:28Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": ". @chlassner teaching the room world model !== humans “world” at @aiDotEngineer SH. Agents/models see the world in action space, i love talks like this that demystify complex ideas.",
+   "url": "https://nitter.kareem.one/vincent_koc/status/2118527211011809684#m",
+   "ts": 1793931222,
+   "id": "2118527211011809684#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -499,15 +508,6 @@
    "url": "https://nitter.kareem.one/ZinkLu2/status/2118197358601379910#m",
    "ts": 1793852579,
    "id": "2118197358601379910#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "AIE @ Shanghai! Happy to attend an event at Shanghai with @aiDotEngineer . This always night quality conference is as great as promised and can’t wait to talk to speakers at Expo 😜",
-   "url": "https://nitter.kareem.one/YijinBao73718/status/2118195151151808614#m",
-   "ts": 1793852052,
-   "id": "2118195151151808614#m"
   },
   {
    "handle": "swyx",
