@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-11-06T03:19:00Z",
+ "generated_at": "2026-11-06T03:27:49Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "for those who want a GREAT scout experience i cannot recommend highly enough @brittwalker_ who has been thru thick and thin with me and is honestly sharper than me on many things, always learn lots talking to her Andrew Reed (@andrew__reed) I still like working with CRV — https://nitter.kareem.one/andrew__reed/status/2118461875520467220#m",
+   "url": "https://nitter.kareem.one/swyx/status/2118542845556691411#m",
+   "ts": 1793934949,
+   "id": "2118542845556691411#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -509,15 +518,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118248900381536740#m",
    "ts": 1793864867,
    "id": "2118248900381536740#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "@ryolu_ 在 AIE 的分享真的是一股清流啊，真的是广告里面播了一集电视剧的感觉。 反正我已经录下来了回头传上来让大家品品。",
-   "url": "https://nitter.kareem.one/ZinkLu2/status/2118197358601379910#m",
-   "ts": 1793852579,
-   "id": "2118197358601379910#m"
   },
   {
    "handle": "elonmusk",
