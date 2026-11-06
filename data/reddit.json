@@ -1,15 +1,22 @@
 {
- "generated_at": "2026-11-06T06:15:22Z",
+ "generated_at": "2026-11-06T08:11:29Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Lightweight self-hosted ImprovMX alternative",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xp6edz/lightweight_selfhosted_improvmx_alternative/",
+   "ts": 1793948499,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Flexprice or Lago for self-hosted usage billing? Which would you trust?",
@@ -71,13 +78,6 @@
    "title": "New Project Megathread - Week of 05 Nov 2026",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xox23i/new_project_megathread_week_of_05_nov_2026/",
    "ts": 1793919684,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "TradeTally - Stock Trading Journal v2.15.1",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xowka6/tradetally_stock_trading_journal_v2151/",
-   "ts": 1793918371,
    "source": "Reddit"
   },
   {
@@ -207,6 +207,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "selfhosted",
+   "title": "Looking for the holy grail of notes",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xolo0h/looking_for_the_holy_grail_of_notes/",
+   "ts": 1793892792,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "LocalLLaMA",
    "title": "NVIDIA RTX PRO 5500 Blackwell appears at $17,999 MSRP, higher than RTX PRO 6000 at $16,000 MSRP set some months ago by NVIDIA - VideoCardz",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xojryw/nvidia_rtx_pro_5500_blackwell_appears_at_17999/",
@@ -239,13 +246,6 @@
    "title": "FareBot: a self-hosted Telegram bot that tracks Google Flights prices and alerts you when they drop",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xojehe/farebot_a_selfhosted_telegram_bot_that_tracks/",
    "ts": 1793887341,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "14 self-hostable apps report usage to their vendor unless you turn it off. Here's the switch for each",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xoiyrn/14_selfhostable_apps_report_usage_to_their_vendor/",
-   "ts": 1793886192,
    "source": "Reddit"
   },
   {
