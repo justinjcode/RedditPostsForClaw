@@ -1,15 +1,22 @@
 {
- "generated_at": "2026-11-06T04:10:38Z",
+ "generated_at": "2026-11-06T06:15:22Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
+  "MachineLearning",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Flexprice or Lago for self-hosted usage billing? Which would you trust?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xp403w/flexprice_or_lago_for_selfhosted_usage_billing/",
+   "ts": 1793940080,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Introducing Inkling 2 Small",
@@ -120,13 +127,6 @@
    "title": "Strata for all Qwen models from little to big",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xottw2/strata_for_all_qwen_models_from_little_to_big/",
    "ts": 1793911650,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Looking for an out-of-the-box monitoring tool for my Ubuntu server",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xot0il/looking_for_an_outofthebox_monitoring_tool_for_my/",
-   "ts": 1793909687,
    "source": "Reddit"
   },
   {
