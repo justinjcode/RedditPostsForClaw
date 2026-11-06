@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-06T07:54:08Z",
+ "generated_at": "2026-11-06T08:08:23Z",
  "accounts_ok": [
-  "Lingling_Wei",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +10,20 @@
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed",
+  "@Lingling_Wei: all instances failed",
   "@TheRundownAI: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Cybertruck was an incredible technology development platform and lives on through Cybercab. Thanks to everyone who contributed to making the future looking like the future As well to the community of owners whose adventures I've enjoyed and will continue to follow ❤️ Elon Musk (@elonmusk) Tesla will be winding down production of the Cybertruck at Gigafactory Texas around the middle of next year to make room for increased Cybercab production — https://nitter.kareem.one/elonmusk/status/2118591788701421573#m",
+   "url": "https://nitter.kareem.one/wmorrill3/status/2118598887258644883#m",
+   "ts": 1793948311,
+   "id": "2118598887258644883#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -167,15 +176,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118569235953893573#m",
    "ts": 1793941241,
    "id": "2118569235953893573#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "(The rules of English need to change to put spaces between the em dashes, as they presently too much resemble a hyphenated word, rather than a parenthetical phrase. Also, “—“ is an unpleasantly long a line. The en dash, “–“, is a better length.)",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118560985678234094#m",
-   "ts": 1793939274,
-   "id": "2118560985678234094#m"
   },
   {
    "handle": "elonmusk",
@@ -1330,9 +1330,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
