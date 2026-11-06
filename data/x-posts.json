@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-11-06T16:25:59Z",
+ "generated_at": "2026-11-06T16:34:34Z",
  "accounts_ok": [
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,28 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Tesla self-driving gives mobility to seniors DogeDesigner (@cb_doge) Larry is 98 years old, and he bought a Tesla Model Y because of Full Self-Driving. His first car was a 1931 Ford Model A. After 80 years behind the wheel, he says driving with Tesla FSD feels more relaxing. He even took his Model Y on a road trip to Colorado and called the drive “a breeze.” For older drivers, that extra help can take some of the stress out of a busy drive across town. It can also make it easier to say yes to a weekend with the grandkids. I love that Tesla is building technology that can help people stay independent as they get older. Being able to tell your family “I’ll come see you this weekend” and make the trip on your own schedule means a lot. ♥️ Video — https://nitter.kareem.one/cb_doge/status/2118738267730518396#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2118739371939803498#m",
+   "ts": 1793981805,
+   "id": "2118739371939803498#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Tesla remains South Korea's #1 best-selling imported car brand for the NINTH consecutive month 🇰🇷 October 2026 registrations: • Tesla: 9,165 • Mercedes-Benz: 6,744 • BMW: 5,633 Tesla outsold Mercedes-Benz by 2,421 vehicles and BMW by 3,532 And the Model Y Premium dominated the imported-model rankings with 5,501 registrations on its own Tesla's October sales more than DOUBLED year-over-year, surging 110.7% Once, German luxury brands dominated South Korea's imported car market Now Tesla is leading it",
+   "url": "https://nitter.kareem.one/XFreeze/status/2118738155654513112#m",
+   "ts": 1793981515,
+   "id": "2118738155654513112#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -118,6 +136,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "The Godfathers of Superintelligence It all began right here, and now they're taking Superintelligence into orbit, to an entirely new level",
+   "url": "https://nitter.kareem.one/XFreeze/status/2118688066651214236#m",
+   "ts": 1793969573,
+   "id": "2118688066651214236#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "BREAKING: Indian government sources say Starlink is welcome in India. 🇮🇳 “Customer is the king,” one official told ANI today. India welcomes competition in satellite internet, and customers will choose their provider based on price, value and quality. Yesterday brought good news for Starlink Direct to Cell too. TRAI proposed letting Indian mobile operators use their existing spectrum to connect phones directly to satellites. If adopted, the proposal could give Starlink a path to bring Direct to Cell to India through a local telecom partner, helping people stay connected where cell towers don’t reach. Video",
    "url": "https://nitter.kareem.one/cb_doge/status/2118682924791050343#m",
    "ts": 1793968347,
@@ -203,24 +230,6 @@
    "url": "https://nitter.kareem.one/battleangelviv/status/2118600603459002520#m",
    "ts": 1793948720,
    "id": "2118600603459002520#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Cybertruck was an incredible technology development platform and lives on through Cybercab. Thanks to everyone who contributed to making the future looking like the future As well to the community of owners whose adventures I've enjoyed and will continue to follow ❤️ Elon Musk (@elonmusk) Tesla will be winding down production of the Cybertruck at Gigafactory Texas around the middle of next year to make room for increased Cybercab production — https://nitter.kareem.one/elonmusk/status/2118591788701421573#m",
-   "url": "https://nitter.kareem.one/wmorrill3/status/2118598887258644883#m",
-   "ts": 1793948311,
-   "id": "2118598887258644883#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon Musk on the set of Star Wars: The Mandalorian in 2019.",
-   "url": "https://nitter.kareem.one/cb_doge/status/2118597315229569169#m",
-   "ts": 1793947936,
-   "id": "2118597315229569169#m"
   },
   {
    "handle": "swyx",
@@ -392,15 +401,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118469621011677521#m",
    "ts": 1793917491,
    "id": "2118469621011677521#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "good morning from japan all! just woke up, let’s see how the market is doing!",
-   "url": "https://nitter.kareem.one/BillyM2k/status/2118453212542099848#m",
-   "ts": 1793913579,
-   "id": "2118453212542099848#m"
   },
   {
    "handle": "thsottiaux",
