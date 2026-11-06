@@ -1,20 +1,28 @@
 {
- "generated_at": "2026-11-06T23:43:33Z",
+ "generated_at": "2026-11-06T23:53:28Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Good breakdown of the interview with Ron Baron DogeDesigner (@cb_doge) Here’s the full interview of @elonmusk with Ron Baron 0:13 - Exciting times ahead 0:21 - First principles and TerraFab 2:18 - Chip fabs geopolitical risk 5:51 - Terawatt scale ambition 6:14 - Trillion dollar phased build 7:36 - Why others don’t improve 7:49 - Austin research fab iteration 10:49 - Culture of speed and ideas 13:48 - Walking the floor hands-on 15:39 - Data centers pitchforks 16:44 - OpenAI origins Anthropic 18:09 - Building data centers fast 20:01 - Revenue exploding Jose meme 23:16 - Model Y best in China 23:28 - China ownership exception 24:50 - ARR to five hundred billion 27:45 - Digital AI economy boost 28:21 - Robotics five times productivity 30:10 - Rent robots not sell 30:41 - Memphis community benefits 32:55 - Data centers in space 33:35 - StarMind and space power 36:26 - Cost to orbit history 36:52 - Falcon nine reusability limits 39:09 - Hourly launches Starship size 40:25 - Chopsticks and heat shield 44:30 - Starship unlocks Starlink 46:49 - Agentic traffic thousand times 48:09 - Starlink V3 bandwidth explosion 51:26 - Spectrum and telcos 52:43 - Satellite replacement cycle 53:17 - Laser links hundred times 53:55 - Competing with China power 55:37 - Space intelligence advantage 57:19 - Demand from superintelligence 58:02 - Universal high income future 1:00:43 - Legacy contribution Video — https://nitter.kareem.one/cb_doge/status/2118803735573070329#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2118850719944212645#m",
+   "ts": 1794008352,
+   "id": "2118850719944212645#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -106,6 +114,15 @@
    "id": "2118810958730862759#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Here’s the full interview of @elonmusk with Ron Baron 0:13 - Exciting times ahead 0:21 - First principles and TerraFab 2:18 - Chip fabs geopolitical risk 5:51 - Terawatt scale ambition 6:14 - Trillion dollar phased build 7:36 - Why others don’t improve 7:49 - Austin research fab iteration 10:49 - Culture of speed and ideas 13:48 - Walking the floor hands-on 15:39 - Data centers pitchforks 16:44 - OpenAI origins Anthropic 18:09 - Building data centers fast 20:01 - Revenue exploding Jose meme 23:16 - Model Y best in China 23:28 - China ownership exception 24:50 - ARR to five hundred billion 27:45 - Digital AI economy boost 28:21 - Robotics five times productivity 30:10 - Rent robots not sell 30:41 - Memphis community benefits 32:55 - Data centers in space 33:35 - StarMind and space power 36:26 - Cost to orbit history 36:52 - Falcon nine reusability limits 39:09 - Hourly launches Starship size 40:25 - Chopsticks and heat shield 44:30 - Starship unlocks Starlink 46:49 - Agentic traffic thousand times 48:09 - Starlink V3 bandwidth explosion 51:26 - Spectrum and telcos 52:43 - Satellite replacement cycle 53:17 - Laser links hundred times 53:55 - Competing with China power 55:37 - Space intelligence advantage 57:19 - Demand from superintelligence 58:02 - Universal high income future 1:00:43 - Legacy contribution Video",
+   "url": "https://nitter.kareem.one/cb_doge/status/2118803735573070329#m",
+   "ts": 1793997150,
+   "id": "2118803735573070329#m"
+  },
+  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -131,6 +148,15 @@
    "url": "https://nitter.kareem.one/KanekoaTheGreat/status/2118794459836268646#m",
    "ts": 1793994939,
    "id": "2118794459836268646#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "We may succeed at this attempt, we may also fail, but the likelihood of success in the near term is high. Then we will optimize -> accelerate. Elon Musk (@elonmusk) SpaceX will attempt to catch both the Super Heavy booster and Starship on the upcoming flight. If both are successful, it will mark the first time that all parts of an orbital rocket return to Earth intact. This is the critical breakthrough needed to make life multiplanetary. — https://nitter.kareem.one/elonmusk/status/2118732082843435305#m",
+   "url": "https://nitter.kareem.one/edwards345/status/2118791889633804493#m",
+   "ts": 1793994326,
+   "id": "2118791889633804493#m"
   },
   {
    "handle": "elonmusk",
@@ -313,24 +339,6 @@
    "id": "2118740366878724328#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Tesla self-driving gives mobility to seniors DogeDesigner (@cb_doge) Larry is 98 years old, and he bought a Tesla Model Y because of Full Self-Driving. His first car was a 1931 Ford Model A. After 80 years behind the wheel, he says driving with Tesla FSD feels more relaxing. He even took his Model Y on a road trip to Colorado and called the drive “a breeze.” For older drivers, that extra help can take some of the stress out of a busy drive across town. It can also make it easier to say yes to a weekend with the grandkids. I love that Tesla is building technology that can help people stay independent as they get older. Being able to tell your family “I’ll come see you this weekend” and make the trip on your own schedule means a lot. ♥️ Video — https://nitter.kareem.one/cb_doge/status/2118738267730518396#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118739371939803498#m",
-   "ts": 1793981805,
-   "id": "2118739371939803498#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Tesla remains South Korea's #1 best-selling imported car brand for the NINTH consecutive month 🇰🇷 October 2026 registrations: • Tesla: 9,165 • Mercedes-Benz: 6,744 • BMW: 5,633 Tesla outsold Mercedes-Benz by 2,421 vehicles and BMW by 3,532 And the Model Y Premium dominated the imported-model rankings with 5,501 registrations on its own Tesla's October sales more than DOUBLED year-over-year, surging 110.7% Once, German luxury brands dominated South Korea's imported car market Now Tesla is leading it",
-   "url": "https://nitter.kareem.one/XFreeze/status/2118738155654513112#m",
-   "ts": 1793981515,
-   "id": "2118738155654513112#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -383,15 +391,6 @@
    "url": "https://nitter.kareem.one/uspolitics1111/status/2118690421119295643#m",
    "ts": 1793970134,
    "id": "2118690421119295643#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The Godfathers of Superintelligence It all began right here, and now they're taking Superintelligence into orbit, to an entirely new level",
-   "url": "https://nitter.kareem.one/XFreeze/status/2118688066651214236#m",
-   "ts": 1793969573,
-   "id": "2118688066651214236#m"
   },
   {
    "handle": "swyx",
