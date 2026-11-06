@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-06T06:33:27Z",
+ "generated_at": "2026-11-06T06:44:55Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,36 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Image",
+   "url": "https://nitter.kareem.one/elonmusk/status/2118592599363817491#m",
+   "ts": 1793946811,
+   "id": "2118592599363817491#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Tesla will be winding down production of the Cybertruck at Gigafactory Texas around the middle of next year to make room for increased Cybercab production",
+   "url": "https://nitter.kareem.one/elonmusk/status/2118591788701421573#m",
+   "ts": 1793946618,
+   "id": "2118591788701421573#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Not bad James Stephenson (@ICannot_Enough) 🚨 Tesla is outselling the next twelve EV makers combined in California… $TSLA @elonmusk — https://nitter.kareem.one/ICannot_Enough/status/2118519889241444406#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2118591262890848688#m",
+   "ts": 1793946493,
+   "id": "2118591262890848688#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -95,6 +121,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2118560985678234094#m",
    "ts": 1793939274,
    "id": "2118560985678234094#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Truly amazing what having a real stake in the future does to people. Smirkley (@Smirkley) Young men with kids voted to the right of men without kids by 40 points. Young women with kids voted to the right of women without kids by 35 points — https://nitter.kareem.one/Smirkley/status/2118356806720266556#m",
+   "url": "https://nitter.kareem.one/xenocosmography/status/2118553775241843111#m",
+   "ts": 1793937555,
+   "id": "2118553775241843111#m"
   },
   {
    "handle": "swyx",
@@ -367,15 +402,6 @@
    "id": "2118400877027635609#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Interesting Smirkley (@Smirkley) Here is a quadrant chart using CNN’s exit poll. It shows what issues hurt Republicans, by how many voters called each issue crucial and how they voted. Cost of living (49%, D+34), corruption (55%, D+28), & Iran (34%, D+46) made people vote D. Only immigration (36%, R+15) helped Rs. — https://nitter.kareem.one/Smirkley/status/2118200971050233952#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118400203158163638#m",
-   "ts": 1793900941,
-   "id": "2118400203158163638#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -383,33 +409,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2118395629466513761#m",
    "ts": 1793899850,
    "id": "2118395629466513761#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "True vittorio (@IterIntellectus) slavery was basically universal throughout human history. every race practiced it, every race was enslaved what's extraordinary about Britain is that it abolished slavery and then sent its navy across the world to stop the slave trade somehow we turned one of the civilizations that helped end this almost universal evil into the villain instead of showing gratitude — https://nitter.kareem.one/IterIntellectus/status/2118377319035257175#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118392015226544617#m",
-   "ts": 1793898988,
-   "id": "2118392015226544617#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Banks arguably has the best vision for the future Yun-Ta Tsai (@yunta_tsai) In Ian Banks' Culture books, the Culture is a civilization of compute abundance. Each General System Vehicle is a loose sandbox environment practicing different ideologies, and citizens freely move between ships to experience different lifestyles. Want communal life? There's a ship. Ultra-orthodox religion? Another. Beach chilling? One famous for its beaches. With enormous compute, you don't need to trade off who decides the trajectories. Just launch another docker station for another rollout. In that world, your autonomy is backed by the compute. — https://nitter.kareem.one/yunta_tsai/status/2118033835074183455#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118390792490541103#m",
-   "ts": 1793898697,
-   "id": "2118390792490541103#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "True John Carmack (@ID_AA_Carmack) I’m all for championing excellence over mediocrity, but it is a mistake to imply that academic achievement is the only measure of it. Jocks and prom queens aren’t the antithesis of merit and striving, and in some ways, their arenas are more “real” than academic curriculums. Fight passivity and low standards! — https://nitter.kareem.one/ID_AA_Carmack/status/2118372864378146934#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118388941267317134#m",
-   "ts": 1793898256,
-   "id": "2118388941267317134#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -469,15 +468,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "The only investment advice you need to live by to get through any storm that comes your way $TSLA",
-   "url": "https://nitter.kareem.one/Teslaconomics/status/2118357376525119788#m",
-   "ts": 1793890730,
-   "id": "2118357376525119788#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "So for my YouTube channel, having @bot take charge of ad integrations is beginning to pay off. For months I was getting nowhere with advertisers, but my agent is reaching out to potential partners, vetting cold emails, and responding to appropriate ones. This will have a very meaningful impact on my channel's earnings potential over the next months. This is no longer just playing around with a new toy: it is changing my business model and could make me an order of magnitude more money for my channel.",
    "url": "https://nitter.kareem.one/DrKnowItAll16/status/2118341564262973607#m",
    "ts": 1793886960,
@@ -509,6 +499,15 @@
    "url": "https://nitter.kareem.one/GaoYingshi/status/2118303573822030250#m",
    "ts": 1793877902,
    "id": "2118303573822030250#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Elon Musk started his first company, Zip2, in a $500 a month office that doubled as his home. The cheapest apartment he could find cost $800 a month, so he slept on a pullout couch and showered at the YMCA down the road. Video",
+   "url": "https://nitter.kareem.one/cb_doge/status/2118287658002858495#m",
+   "ts": 1793874108,
+   "id": "2118287658002858495#m"
   },
   {
    "handle": "ZichenWanghere",
