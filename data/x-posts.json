@@ -1,9 +1,7 @@
 {
- "generated_at": "2026-11-06T01:52:59Z",
+ "generated_at": "2026-11-06T02:08:51Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +9,21 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "we'll take some LPs but honestly more interested in building up my 2027 take on aigrant.com/ we'll use AIE HQ as base for portcos Link AI Grant It's time for AI-native products! aigrant.com",
+   "url": "https://nitter.kareem.one/swyx/status/2118523041290596631#m",
+   "ts": 1793930227,
+   "id": "2118523041290596631#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -508,15 +518,6 @@
    "url": "https://nitter.kareem.one/zanweiguo/status/2118179977019662815#m",
    "ts": 1793848435,
    "id": "2118179977019662815#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "在AIE上领到自家物料了， 喜欢 @ryolu_ 的分享：当我们什么都能做时，还知道自己想要什么吗？ 让创意回归感受和生活",
-   "url": "https://nitter.kareem.one/Ni_luvya/status/2118177969000825152#m",
-   "ts": 1793847956,
-   "id": "2118177969000825152#m"
   },
   {
    "handle": "elonmusk",
