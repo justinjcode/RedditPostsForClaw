@@ -1,19 +1,29 @@
 {
- "generated_at": "2026-11-06T17:43:02Z",
+ "generated_at": "2026-11-06T17:53:14Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@bcherny: all instances failed"
+ ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "SpaceX revenue this quarter alone will be substantially higher than NASA’s entire annual budget! DogeDesigner (@cb_doge) Many people claim SpaceX is subsidized by NASA, but that is false. NASA provided ~5% of SpaceX revenue. SpaceX earned its contracts by offering the best product at the lowest price, & it is the only astronaut transport option that meets NASA safety standards. — https://nitter.kareem.one/cb_doge/status/2118750838315499793#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2118761981037723848#m",
+   "ts": 1793987195,
+   "id": "2118761981037723848#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -31,6 +41,15 @@
    "url": "https://nitter.kareem.one/Ninggao88/status/2118757104223932762#m",
    "ts": 1793986032,
    "id": "2118757104223932762#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "There must be some people who subscribe to The Times and The Sunday Times and are surprised to discover that it's a 240-year-old broadsheet newspaper",
+   "url": "https://nitter.kareem.one/Birdyword/status/2118740366878724328#m",
+   "ts": 1793982042,
+   "id": "2118740366878724328#m"
   },
   {
    "handle": "elonmusk",
@@ -153,6 +172,15 @@
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
+   "text": "This is indeed happening. Singapore's Ministry of Education recently started enforcing a policy that no (non-SGean) nationality should exceed 30% of grad students in SG unis. The only group exceeding is Chinese nationals (>60% in many depts). 紫云 (@dviolettchan) 听朋友说，NUS 这两年已经不怎么招中国 PhD 学生了，这算是一个时代的结束吗……？ 话说这应该不是谣传吧？ — https://nitter.kareem.one/dviolettchan/status/2118428951550861371#m",
+   "url": "https://nitter.kareem.one/xuanalogue/status/2118716240332197976#m",
+   "ts": 1793976290,
+   "id": "2118716240332197976#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
    "text": "He is such a breath of fresh air. Video",
    "url": "https://nitter.kareem.one/uspolitics1111/status/2118690421119295643#m",
    "ts": 1793970134,
@@ -238,15 +266,6 @@
    "url": "https://nitter.kareem.one/ArthurMacwaters/status/2118624369874448477#m",
    "ts": 1793954386,
    "id": "2118624369874448477#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Terafab is moving fast Herbert Ong (@herbertong) Tesla's chip effort is moving at Tesla speed, not semiconductor speed. Elon says TeraFab is going well, and @FutureAZA watched the related Fab Lab at Giga Texas go from bare ground to steel in days. Brian saw the site still lit and dusty at midnight, with work continuing around the clock. A Korean supplier executive says early-morning US questions get answers within 30 minutes to an hour. Tesla is treating chip development as a manufacturing race, not a conventional vendor-managed project. $TSLA Video — https://nitter.kareem.one/herbertong/status/2118522505648628207#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118620772268990966#m",
-   "ts": 1793953528,
-   "id": "2118620772268990966#m"
   },
   {
    "handle": "elonmusk",
@@ -445,6 +464,15 @@
    "url": "https://nitter.kareem.one/ElxMapping/status/2118439274404347991#m",
    "ts": 1793910256,
    "id": "2118439274404347991#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "Rubio considering leaving the admin bloomberg.com/news/articles/… Link Rubio Considers Leaving Administration After GOP’s Midterm Loss Secretary of State Marco Rubio is weighing whether to leave the Trump administration, people familiar with the matter said, as he considers his next moves following Republicans’ midterm elections... bloomberg.com",
+   "url": "https://nitter.kareem.one/TheStalwart/status/2118429586526556452#m",
+   "ts": 1793907946,
+   "id": "2118429586526556452#m"
   },
   {
    "handle": "TheRundownAI",
@@ -825,15 +853,6 @@
    "id": "2117742166768525422#m"
   },
   {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "烟抽多了咳得就跟要死了一样",
-   "url": "https://nitter.kareem.one/ZichenWanghere/status/2117741980860235930#m",
-   "ts": 1793744008,
-   "id": "2117741980860235930#m"
-  },
-  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -859,15 +878,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2117709084652867996#m",
    "ts": 1793736165,
    "id": "2117709084652867996#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "过了五年我才发现，原来我养了一只和我一样有分离焦虑的狗，出去半个月，把狗狗寄养在朋友那，她说店里只要来人，狗狗逛一圈再进门，她就会躲在桌下，之前她也这样，只是我一直都以为她是害怕陌生人身上淅淅沥沥的塑料雨衣声，直到朋友告诉我，在听到我的声音后她会立马跑出来，好像我又陪在她身边一样",
-   "url": "https://nitter.kareem.one/OrangePENNY_/status/2117698006375895129#m",
-   "ts": 1793733524,
-   "id": "2117698006375895129#m"
   },
   {
    "handle": "bcherny",
@@ -931,15 +941,6 @@
    "url": "https://nitter.kareem.one/davidsirota/status/2117637099725951185#m",
    "ts": 1793719003,
    "id": "2117637099725951185#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Americans don't use WhatsApp because of a decision Apple made in 2013. We only know about it because the emails came out in court, and the whole thing came down to keeping your kids off Android. It started with Eddy Cue, the guy who runs Apple's services. That April he emailed the team saying Apple really needed to put iMessage on Android. Google was reportedly trying to buy WhatsApp for $1 billion at the time, and Cue's pitch was that Apple already had the best messaging app, so why not make it the one the whole world used. Craig Federighi, Apple's software chief, shut it down. He asked how Apple was supposed to get Android users to leave WhatsApp when they didn't even have iPhone friends. So back in 2013, the guy running iPhone software was basically admitting WhatsApp already owned everybody who didn't have an iPhone. Then he got to what he was actually worried about. iMessage on Android would remove \"an obstacle to iPhone families giving their kids Android phones.\" Phil Schiller, Apple's longtime marketing boss, backed him up in another email thread in 2016, writing that putting iMessage on Android would hurt Apple more than help it. None of this was public until Epic sued Apple and the emails got pulled into evidence in 2021. Now look at what that does to WhatsApp. The entire reason WhatsApp exists is that it works on any phone, so it wins wherever group chats are a mix of iPhones and Androids. Apple went the other direction on purpose. For years, every Android user in a",
-   "url": "https://nitter.kareem.one/aakashgupta/status/2117613517125857752#m",
-   "ts": 1793713380,
-   "id": "2117613517125857752#m"
   },
   {
    "handle": "Lingling_Wei",
