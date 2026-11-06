@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T22:06:28Z",
+ "generated_at": "2026-11-06T22:14:58Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,24 @@
  "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "our cooking show (yes, cooking show) is back!!! @aditabrm reveals the entire recipe of @reductoai pdf processing and also steak sandwich making at the end we address the serious allegations leveled by @barsisyphus more elite food journalism coming on inv.kareem.one/@latentspacepod Latent.Space (@latentspacepod) In this episode, @reductoai co-founder and CEO @aditabrm joins @allenpark to make steak sandwiches with burrata, torched peaches, and chimichurri and talk about why PDFs still break AI: how frontier models silently drop rows, why 99% accuracy can still fall short in production, what Reducto learned processing a billion pages a month, and what it would take for office work to have its Claude Code moment. 00:00 Cold Open 00:13 Meet Adit Abraham and the Viral Steak Tweet 00:57 From Remembrall to Reducto: YC and the Pivot 01:57 Why PDFs Are Still Hard for AI 03:35 What AI Agents Need to Do With Documents 04:19 Model Routing for Tricky Pages and Tables 05:29 Build vs. Buy: When to Train Your Own Models 07:00 Deep Extract, Frontier Models, and Missing Rows 08:20 Why Everyone Wins Their Own Benchmark 09:29 Reducto R1: Accuracy, Cost, and a Billion Pages a Month 10:57 When 99% Accuracy Isn’t Enough 13:05 Continuous Evals and Production Failures 16:49 How Reducto Uses AI Agents Internally 18:28 Hiring With AI and the Eight-Hour Onsite 20:17 Early Hires and What Obsession Looks Like 23:17 Blowtorching Peaches 24:24 Scaling From a Small Team to Series B 27:34 Competition and the ",
+   "url": "https://nitter.kareem.one/swyx/status/2118829142607278366#m",
+   "ts": 1794003208,
+   "id": "2118829142607278366#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Beautiful quote Owen Lewis (@is_OwenLewis) \"For all but a vanishingly brief instant near the dawn of history, the word 'ship' will mean 'spaceship.'\" –Arthur C. Clarke — https://nitter.kareem.one/is_OwenLewis/status/2118738312181801445#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2118826964916298088#m",
+   "ts": 1794002688,
+   "id": "2118826964916298088#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -267,15 +285,6 @@
    "id": "2118737725964837353#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "We are living in SpaceX century If they successfully catch booster **and** ship in a week, we are officially in a different era as a species Elon Musk (@elonmusk) SpaceX will attempt to catch both the Super Heavy booster and Starship on the upcoming flight. If both are successful, it will mark the first time that all parts of an orbital rocket return to Earth intact. This is the critical breakthrough needed to make life multiplanetary. — https://nitter.kareem.one/elonmusk/status/2118732082843435305#m",
-   "url": "https://nitter.kareem.one/ArthurMacwaters/status/2118735000988418139#m",
-   "ts": 1793980763,
-   "id": "2118735000988418139#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -445,15 +454,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2118512013228077063#m",
    "ts": 1793927598,
    "id": "2118512013228077063#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Haha, no way! Okay, proof of a previous statement I made: tiktok.com/t/ZTPeKg1oa/ (Better if I warm up but I got excited and just wanted to make it fast.) Link TikTok · Max Kanat-Alexander tiktok.com",
-   "url": "https://nitter.kareem.one/mkanat/status/2118483674769625305#m",
-   "ts": 1793920842,
-   "id": "2118483674769625305#m"
   },
   {
    "handle": "thsottiaux",
