@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-06T20:24:45Z",
+ "generated_at": "2026-11-06T20:34:46Z",
  "accounts_ok": [
-  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
+  "@simonw: all instances failed",
   "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@TheRundownAI: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "More things to come, join our Cyber at the Frontier livestream on November 12, 10am PT: openai.com/cyber-at-the-fron… Link Cyber at the Frontier Join for the next era of cyber defense. openai.com",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2118802895604994463#m",
+   "ts": 1793996950,
+   "id": "2118802895604994463#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1202,15 +1211,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2117283355427495983#m",
    "ts": 1793634663,
    "id": "2117283355427495983#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Fellow resetters, heads up that we're working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future. Terra brings speed and a nice personality upgrade, and will help us bring dots to more people.",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2117283124833055196#m",
-   "ts": 1793634608,
-   "id": "2117283124833055196#m"
   },
   {
    "handle": "Lingling_Wei",
