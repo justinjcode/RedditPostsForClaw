@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T05:53:12Z",
+ "generated_at": "2026-11-06T06:10:54Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Covered the future of AI on VHS tape. Slide left to see the camera 📹 @daytonaio Video",
+   "url": "https://nitter.kareem.one/joshuacirjak/status/2118580275697639695#m",
+   "ts": 1793943873,
+   "id": "2118580275697639695#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -310,15 +319,6 @@
    "url": "https://nitter.kareem.one/yunta_tsai/status/2118400877027635609#m",
    "ts": 1793901101,
    "id": "2118400877027635609#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "we're recording an AAv5 pod with @_micah_h and @grmcameron today and this reminds me why you basically need @ArtificialAnlys AA-* rebuilds of every single eval because you -CANNOT- trust labs not to intentionally or accidentally benchmaxx, you need a few trusted third parties to basically redo the entire eval in spirit but not in letter, to have a quick sniff test that model claims hold up under minor perturbations (eg starting from \"randomizing order in multiple choice questions\" to coming up with completely new problems that superficially look different but actually test the same underlying logic and reasoning steps). not enough people are reading bench traces like this 👇 and the systematic way to catch this benchmaxxing is basically to have altbenches for everything Joachim Schaeffer (@JSchaeff3r) Kimi K3.1 recalls instructions it was never given on Terminal Bench. They match the hidden tests. K3.1 while solving: \"Instructions likely distilled pitfalls from previous agents.\" 🤯 When we edit a task to contradict them, K3.1 refuses the new instructions and fails. Other models follow the edit. Is it terminal(ly) benchmaxxed? 🧵 — https://nitter.kareem.one/JSchaeff3r/status/2117613618065793160#m",
-   "url": "https://nitter.kareem.one/swyx/status/2118400768957202439#m",
-   "ts": 1793901075,
-   "id": "2118400768957202439#m"
   },
   {
    "handle": "elonmusk",
