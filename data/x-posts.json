@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T11:06:37Z",
+ "generated_at": "2026-11-06T11:15:32Z",
  "accounts_ok": [
   "TheRundownAI",
   "ZichenWanghere",
@@ -7,14 +7,23 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
   "@Lingling_Wei: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "aie shanghai is making me push my generative media model usage to new heights.. ZinkLu (@ZinkLu2) So here it is — @ryolu_ 's talk at @aiDotEngineer 2026 Shanghai. I shot it handheld on a Xiaomi 15 Ultra, so there's some shake; I fixed as much of it as I could in CapCut. Handheld footage just isn't going to be sharp or steady. Still, it's the best talk I saw on day 1 of AIE — which is why I'm not posting a text summary. Watch for yourself. I missed the first minute or so. Ryo opens with the excitement of what AI makes possible, and how seeing what others are building can quickly turn that excitement into anxiety about falling behind. Video — https://nitter.kareem.one/ZinkLu2/status/2118357855782965560#m",
+   "url": "https://nitter.kareem.one/swyx/status/2118658648365052385#m",
+   "ts": 1793962559,
+   "id": "2118658648365052385#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -428,15 +437,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2118401431338446927#m",
    "ts": 1793901233,
    "id": "2118401431338446927#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Ameliayu 余一 (@ameliax111) manus firsthand club01 期 和朋友们的久违聚会，披萨啤酒闲聊，看 AI host 翻车 o(^▽^)o （迟到了最好吃的披萨） — https://nitter.kareem.one/ameliax111/status/2118338475271528762#m",
-   "url": "https://nitter.kareem.one/swyx/status/2118401389655417334#m",
-   "ts": 1793901223,
-   "id": "2118401389655417334#m"
   },
   {
    "handle": "TheRundownAI",
@@ -1330,9 +1330,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
