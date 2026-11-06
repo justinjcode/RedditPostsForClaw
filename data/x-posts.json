@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-06T08:53:17Z",
+ "generated_at": "2026-11-06T09:07:44Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "bcherny",
   "elonmusk",
@@ -10,7 +11,6 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
  "count": 178,
@@ -19,10 +19,37 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "Seldon, Psychohistory X Freeze (@XFreeze) Elon Musk on the life cycle of civilizations: “You do tend to see the same patterns… civilizations go through a life cycle like an organism Just like a human: zygote, fetus, baby, toddler, teenager… eventually it gets old and dies The civilizations go through a life cycle No civilization will last forever” The only question is how long we can delay the inevitable Video — https://nitter.kareem.one/XFreeze/status/2118626440778244164#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2118629153390158000#m",
+   "ts": 1793955527,
+   "id": "2118629153390158000#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "What is love? (Baby don’t hurt me)",
+   "url": "https://nitter.kareem.one/elonmusk/status/2118628232002158682#m",
+   "ts": 1793955307,
+   "id": "2118628232002158682#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "Terafab is moving fast Herbert Ong (@herbertong) Tesla's chip effort is moving at Tesla speed, not semiconductor speed. Elon says TeraFab is going well, and @FutureAZA watched the related Fab Lab at Giga Texas go from bare ground to steel in days. Brian saw the site still lit and dusty at midnight, with work continuing around the clock. A Korean supplier executive says early-morning US questions get answers within 30 minutes to an hour. Tesla is treating chip development as a manufacturing race, not a conventional vendor-managed project. $TSLA Video — https://nitter.kareem.one/herbertong/status/2118522505648628207#m",
    "url": "https://nitter.kareem.one/elonmusk/status/2118620772268990966#m",
    "ts": 1793953528,
    "id": "2118620772268990966#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The most special product that ever got to exist. Changed my life in so many ways. I love you @cybertruck , forever. PS: chihiro is destined to meet her Haku",
+   "url": "https://nitter.kareem.one/battleangelviv/status/2118600603459002520#m",
+   "ts": 1793948720,
+   "id": "2118600603459002520#m"
   },
   {
    "handle": "elonmusk",
@@ -142,24 +169,6 @@
    "id": "2118589343061491737#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "🇰🇷 Tesla Korea 🇰🇷 DogeDesigner (@cb_doge) BREAKING: Tesla beats Mercedes-Benz and BMW to stay No. 1 in South Korea’s imported car market for the 9th straight month. 🇰🇷 October registrations surged 110.7% year over year to 9,165. Model Y Premium led all imports.🥇 Video — https://nitter.kareem.one/cb_doge/status/2118337547999039779#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118588019230056525#m",
-   "ts": 1793945719,
-   "id": "2118588019230056525#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "This is exactly in line with how I've always thought. In fact, I hate the em-dash (even before AI over-use), and I've always used the single-dash with spaces instead of it. Elon Musk (@elonmusk) (The rules of English need to change to put spaces between the em dashes, as they presently too much resemble a hyphenated word, rather than a parenthetical phrase. Also, “—“ is an unpleasantly long a line. The en dash, “–“, is a better length.) — https://nitter.kareem.one/elonmusk/status/2118560985678234094#m",
-   "url": "https://nitter.kareem.one/yishan/status/2118586674867540293#m",
-   "ts": 1793945399,
-   "id": "2118586674867540293#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -248,15 +257,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2118523041290596631#m",
    "ts": 1793930227,
    "id": "2118523041290596631#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon Musk on why Starship has to be fully reusable: \"Nobody's ever made a fully reusable orbital rocket.\" \"That's really the critical breakthrough necessary for life to become multiplanetary.\" \"For us to become a true spacefaring civilization, we have to achieve full and rapid reusability.\" \"I call it rapidly reusable reliable rockets.\" Full and rapid reuse is the whole point. @elonmusk Credit: Everyday Astronaut, First Look Inside SpaceX Starfactory (2024) Video",
-   "url": "https://nitter.kareem.one/teslaownersSV/status/2118518108721906039#m",
-   "ts": 1793929051,
-   "id": "2118518108721906039#m"
   },
   {
    "handle": "swyx",
