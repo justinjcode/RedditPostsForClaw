@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T12:43:47Z",
+ "generated_at": "2026-11-06T12:54:08Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -7,14 +7,22 @@
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@simonw: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "BREAKING: Indian government sources say Starlink is welcome in India. 🇮🇳 “Customer is the king,” one official told ANI today. India welcomes competition in satellite internet, and customers will choose their provider based on price, value and quality. Yesterday brought good news for Starlink Direct to Cell too. TRAI proposed letting Indian mobile operators use their existing spectrum to connect phones directly to satellites. If adopted, the proposal could give Starlink a path to bring Direct to Cell to India through a local telecom partner, helping people stay connected where cell towers don’t reach. Video",
+   "url": "https://nitter.kareem.one/cb_doge/status/2118682924791050343#m",
+   "ts": 1793968347,
+   "id": "2118682924791050343#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -232,15 +240,6 @@
    "id": "2118569235953893573#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Truly amazing what having a real stake in the future does to people. Smirkley (@Smirkley) Young men with kids voted to the right of men without kids by 40 points. Young women with kids voted to the right of women without kids by 35 points — https://nitter.kareem.one/Smirkley/status/2118356806720266556#m",
-   "url": "https://nitter.kareem.one/xenocosmography/status/2118553775241843111#m",
-   "ts": 1793937555,
-   "id": "2118553775241843111#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -383,6 +382,15 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118444105969926407#m",
    "ts": 1793911408,
    "id": "2118444105969926407#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "It's not hard to see why James Talarico pulled off a landslide as a Democrat in Texas. Just look at his campaign materials. S-tier operation. Video",
+   "url": "https://nitter.kareem.one/ElxMapping/status/2118439274404347991#m",
+   "ts": 1793910256,
+   "id": "2118439274404347991#m"
   },
   {
    "handle": "TheRundownAI",
@@ -923,15 +931,6 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2117608870910513633#m",
    "ts": 1793712272,
    "id": "2117608870910513633#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Chinese trade expert Cui Fan warns Beijing will respond \"swiftly\" if EU moves forward with kill switch plans, despite the recent agreement on hybrid vehicles. He says China has exercised considerable restraint, but has prepared a range of countermeasures.",
-   "url": "https://nitter.kareem.one/fbermingham/status/2117606998166425862#m",
-   "ts": 1793711826,
-   "id": "2117606998166425862#m"
   },
   {
    "handle": "TheRundownAI",
