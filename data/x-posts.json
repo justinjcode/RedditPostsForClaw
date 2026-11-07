@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T05:24:01Z",
+ "generated_at": "2026-11-07T05:34:25Z",
  "accounts_ok": [
   "TheRundownAI",
   "elonmusk",
@@ -15,6 +15,24 @@
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Quite cool what you can do with a single prompt these days 👀",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2118939076791546000#m",
+   "ts": 1794029418,
+   "id": "2118939076791546000#m"
+  },
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Get me out of the basement poteto.com/ Tibo (@thsottiaux) It's Friday — https://nitter.kareem.one/thsottiaux/status/2118871902366441879#m",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2118938956301779171#m",
+   "ts": 1794029389,
+   "id": "2118938956301779171#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -977,24 +995,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2117580181766373562#m",
    "ts": 1793705432,
    "id": "2117580181766373562#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Le GPT Fat",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2117489367417803042#m",
-   "ts": 1793683780,
-   "id": "2117489367417803042#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "We know some Git-fu. Excited the team is finally able to talk about it a bit. Massive props to @tnm and team OpenAI Developers (@OpenAIDevs) We built Pando, a new Git backend for our monorepo, to handle more pushes and fetches without changing how our engineers and agents use Git. Pando cut push latency by ~80% and now serves nearly a petabyte of Git data a day. We can grow Git capacity alongside agent usage. Video — https://nitter.kareem.one/OpenAIDevs/status/2117408792346509663#m",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2117412956950638872#m",
-   "ts": 1793665563,
-   "id": "2117412956950638872#m"
   },
   {
    "handle": "realDonaldTrump",
