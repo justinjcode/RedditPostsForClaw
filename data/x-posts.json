@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T23:23:40Z",
+ "generated_at": "2026-11-07T23:33:59Z",
  "accounts_ok": [
   "Lingling_Wei",
   "bcherny",
@@ -15,6 +15,24 @@
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "aie.codes Link AI Engineer Code Summit 2026: AI Engineering Conference, Nov 10-12, San Francisco The application-only AI Engineer Code Summit brings together leading coding-agent builders and AI engineers in San Francisco, November 10-12, 2026. ai.engineer",
+   "url": "https://nitter.kareem.one/swyx/status/2119210618976944259#m",
+   "ts": 1794094159,
+   "id": "2119210618976944259#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "just arrived… best swag game in the business. u guys are in for a treat next week AI.Engineer 🔜 CODE (@aiDotEngineer) First AIE Code Summit speakers: @poteto , Principal Engineer @ SpaceX @steve_yegge , Engineer, Writer, Advisor @zachbruggeman , Principal Software Engineer @ Ramp Nov 10-12, SF. Come hang out with us. Apply at ai.engineer/code — https://nitter.kareem.one/aiDotEngineer/status/2112276851355693315#m",
+   "url": "https://nitter.kareem.one/swyx/status/2119210582654210255#m",
+   "ts": 1794094150,
+   "id": "2119210582654210255#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -428,24 +446,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2118764938198212841#m",
    "ts": 1793987900,
    "id": "2118764938198212841#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "ajfisher (@ajfisher) At AI engineer in Shanghai the next couple of days. Home of some very large screens!! #AIEngineering — https://nitter.kareem.one/ajfisher/status/2118155752426852723#m",
-   "url": "https://nitter.kareem.one/swyx/status/2118764850721833147#m",
-   "ts": 1793987879,
-   "id": "2118764850721833147#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Xudong Han (@Xudong07452910) 非常感谢 Ronny @Ronny_MiniMax 在 AI Engineer 大会上的精彩分享！ 我印象最深的是这句话: Harness Engineering 正在成为一门实验科学。AI 正在让工程回归科学方法的本质：提出假设、设计实验、观察结果，再通过验证不断迭代。 大家可以多关注 Ronny 老师，他经常会发一些前沿的技术Blog，非常值得阅读，大会上很多的观点都来自于他之前的Blog。 — https://nitter.kareem.one/Xudong07452910/status/2118638162004017161#m",
-   "url": "https://nitter.kareem.one/swyx/status/2118764812301967604#m",
-   "ts": 1793987870,
-   "id": "2118764812301967604#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -1330,9 +1330,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
