@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T08:18:55Z",
+ "generated_at": "2026-11-07T08:26:28Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -247,15 +247,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118802895604994463#m",
    "ts": 1793996950,
    "id": "2118802895604994463#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon Musk on the next Starship flight: “You’ll really want to watch this one. This one’s cool It’s the largest flying object ever made And it’s the highest thrust object ever made by humans of any kind whatsoever” Starship will weigh over 5,000 tons at liftoff, then the Super Heavy booster comes back from space just minutes later “Success is not always guaranteed, but excitement is” Video",
-   "url": "https://nitter.kareem.one/XFreeze/status/2118791290930532617#m",
-   "ts": 1793994183,
-   "id": "2118791290930532617#m"
   },
   {
    "handle": "swyx",
@@ -1320,9 +1311,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
@@ -1606,6 +1597,15 @@
    "url": "https://nitter.kareem.one/felixrieseberg/status/2110023283169247623#m",
    "ts": 1791903727,
    "id": "2110023283169247623#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Not quite betting the company, but going balls to the wall for autonomy is a blindingly obvious move. Everything else is like variations on a horse carriage.",
+   "url": "https://nitter.kareem.one/elonmusk/status/1780376546148327690#m",
+   "ts": 1713309821,
+   "id": "1780376546148327690#m"
   }
  ]
 }
