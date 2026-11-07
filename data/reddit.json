@@ -1,15 +1,120 @@
 {
- "generated_at": "2026-11-06T18:12:26Z",
+ "generated_at": "2026-11-07T00:19:22Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
-  "selfhosted"
+  "MachineLearning",
+  "programming"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "MachineLearning",
+   "title": "ICLR 2027's new 1–4 scale: a 2, 2, 3 is better than it feels [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xps7xu/iclr_2027s_new_14_scale_a_2_2_3_is_better_than_it/",
+   "ts": 1794009815,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Six Pallets of NVIDIA Hardware Worth $11.4 Million Stolen on the Way to Texas",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpqx1p/six_pallets_of_nvidia_hardware_worth_114_million/",
+   "ts": 1794006201,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "I'm going to try to turn a 4B model into a genuinely useful coding agent that can compete with much larger models",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xppw37/im_going_to_try_to_turn_a_4b_model_into_a/",
+   "ts": 1794003478,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Some GPU prices are dropping",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xppbrr/some_gpu_prices_are_dropping/",
+   "ts": 1794002059,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "We are in the golden age of Local LLM",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xppbht/we_are_in_the_golden_age_of_local_llm/",
+   "ts": 1794002041,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Looking to connect with people working on Embodied AI, Humanoid Robotics & Cognitive Architectures. [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xpp7z5/looking_to_connect_with_people_working_on/",
+   "ts": 1794001796,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "What exactly is the relationship between ML academia and industry/big tech nowadays (2026)? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xponb2/what_exactly_is_the_relationship_between_ml/",
+   "ts": 1794000349,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Higgs Realtime Duplex: a 45B MoE full-duplex model that listens, watches and talks at once, and thinks, calls tools and delegates in the background [N]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xpn5pv/higgs_realtime_duplex_a_45b_moe_fullduplex_model/",
+   "ts": 1793996633,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "CASP-DREAM TAP Challenge: TCR + peptide-MHC activation prediction with unseen test peptides [N]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xpn4gp/caspdream_tap_challenge_tcr_peptidemhc_activation/",
+   "ts": 1793996545,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "We are cooked. My QFN 3.8 NVFP4 just drew a dog freehand in MS Paint (using new Open WebUI 0.13.0 and Open Terminal 0.17.2)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpmvf2/we_are_cooked_my_qfn_38_nvfp4_just_drew_a_dog/",
+   "ts": 1793995927,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "NousResearch/Arete-27B · Hugging Face (Qwen finetune)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpmj33/nousresearcharete27b_hugging_face_qwen_finetune/",
+   "ts": 1793995127,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Mirage: A 22 MB visual-language model that runs scene descriptions + object detection + OCR + segmentation + spatial relations analysis + extractions + decisions, in a single pass.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpm8mw/mirage_a_22_mb_visuallanguage_model_that_runs/",
+   "ts": 1793994401,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "bartowski/XingChen-AGI_Xing4.0-29B-A4B-GGUF · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xplkdu/bartowskixingchenagi_xing4029ba4bgguf_hugging_face/",
+   "ts": 1793992764,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Muir: Linear Attention with Sensitivity-Allocated Gating and Matched-Filter Readout (Google Research, 10M tokens in 25MB state) [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xplbuu/muir_linear_attention_with_sensitivityallocated/",
+   "ts": 1793992208,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Lamplight - Lessons Learned from Building a Local-First Harness",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpkqo2/lamplight_lessons_learned_from_building_a/",
+   "ts": 1793990841,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Odograph: A self-hosted mileage tracker that calculates IRS deductions for business travel.",
@@ -25,13 +130,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Ripple 65B Preview vs Qwen 3.8 27B vs Qwen 3.8 Flash Next",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xphi5w/ripple_65b_preview_vs_qwen_38_27b_vs_qwen_38/",
-   "ts": 1793983388,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Seerr Help",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xphgvi/seerr_help/",
@@ -40,23 +138,9 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "Coincidence, right?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpgsb3/coincidence_right/",
-   "ts": 1793981713,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "Oc-e-Non-v1: A language model that gets to the f*cking point",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpfhpm/ocenonv1_a_language_model_that_gets_to_the_fcking/",
    "ts": 1793978617,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Qwen Developers on X: \"Qwhen? Qsoon! For our friends outside China, the Chinese text in the poster comes from",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpf8qy/qwen_developers_on_x_qwhen_qsoon_for_our_friends/",
-   "ts": 1793978027,
    "source": "Reddit"
   },
   {
@@ -71,13 +155,6 @@
    "title": "What's missing or annoying in your setup?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xpexdx/whats_missing_or_annoying_in_your_setup/",
    "ts": 1793977267,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Harness Adapters: LoRA adapter for your model per task per harness",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpeee1/harness_adapters_lora_adapter_for_your_model_per/",
-   "ts": 1793975926,
    "source": "Reddit"
   },
   {
@@ -102,13 +179,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Good news bad news…",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpcl6w/good_news_bad_news/",
-   "ts": 1793971117,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "ICLR 2027 Reviews are out [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xpc9sh/iclr_2027_reviews_are_out_d/",
@@ -120,13 +190,6 @@
    "title": "100% GPU Utilization, 39% of Rated FP16",
    "url": "https://www.reddit.com/r/programming/comments/1xpc2ro/100_gpu_utilization_39_of_rated_fp16/",
    "ts": 1793969627,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Qwen - the becoming begins",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpbjzi/qwen_the_becoming_begins/",
-   "ts": 1793968014,
    "source": "Reddit"
   },
   {
@@ -162,13 +225,6 @@
    "title": "How do you build visibility through open source contributions?[D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xp90lz/how_do_you_build_visibility_through_open_source/",
    "ts": 1793958915,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "pi + strata + qwen 3.8 flash next q4 k xl --> funny stuff in logs",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp8ys0/pi_strata_qwen_38_flash_next_q4_k_xl_funny_stuff/",
-   "ts": 1793958715,
    "source": "Reddit"
   },
   {
@@ -214,13 +270,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Introducing Inkling 2 Small",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp32od/introducing_inkling_2_small/",
-   "ts": 1793937026,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Are there any good alternatives to discord?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xp0f0g/are_there_any_good_alternatives_to_discord/",
@@ -250,23 +299,9 @@
   },
   {
    "subreddit": "programming",
-   "title": "A Boolean PII Flag Is Not Enough",
-   "url": "https://www.reddit.com/r/programming/comments/1xovn5d/a_boolean_pii_flag_is_not_enough/",
-   "ts": 1793916018,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
    "title": "Building iOS apps on Windows: running Apple’s Mach-O macro plugins on an ARM64 CPU emulator",
    "url": "https://www.reddit.com/r/programming/comments/1xovbpf/building_ios_apps_on_windows_running_apples_macho/",
    "ts": 1793915239,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Empirical Evaluation of Sparse Predictive Hierarchies (SPH) & Non-Backprop Learning on Chess (Lc0 Baseline) Negative Result [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xov58r/empirical_evaluation_of_sparse_predictive/",
-   "ts": 1793914801,
    "source": "Reddit"
   },
   {
@@ -274,13 +309,6 @@
    "title": "Modern Java at Stripe: Language upgrades as a service",
    "url": "https://www.reddit.com/r/programming/comments/1xov21m/modern_java_at_stripe_language_upgrades_as_a/",
    "ts": 1793914589,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Z.ai chief scientist Jie Tang just revealed the training pipeline behind the upcoming GLM-5.5 (32B, 122B, and 256B)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xossr5/zai_chief_scientist_jie_tang_just_revealed_the/",
-   "ts": 1793909175,
    "source": "Reddit"
   },
   {
@@ -295,13 +323,6 @@
    "title": "Looking for Emergency Reviewers [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xoqca2/looking_for_emergency_reviewers_r/",
    "ts": 1793903463,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "trainlint: static checks for ML bugs that don't crash (fit-before-split, eval mode, logits losses) [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xonrvy/trainlint_static_checks_for_ml_bugs_that_dont/",
-   "ts": 1793897696,
    "source": "Reddit"
   },
   {
@@ -347,13 +368,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "DialFork: a benchmark for procedural hallucination in conversational agents [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xofjrn/dialfork_a_benchmark_for_procedural_hallucination/",
-   "ts": 1793875455,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "A Look at Datastar",
    "url": "https://www.reddit.com/r/programming/comments/1xofjis/a_look_at_datastar/",
@@ -361,24 +375,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "Publication expectations for ML PhDs at top-10 US schools / top ML groups? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xoc358/publication_expectations_for_ml_phds_at_top10_us/",
-   "ts": 1793861808,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "LZAV 7.1: Improved compression ratio and speed. Achieved complete C/C++ pointer arithmetic compliance. Fast Data Compression Algorithm (inline C/C++).",
    "url": "https://www.reddit.com/r/programming/comments/1xo82gs/lzav_71_improved_compression_ratio_and_speed/",
    "ts": 1793848323,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "What is now considered a “reasonable” publication rate (papers/year) for a PhD student to be considered “productive”? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xo7q89/what_is_now_considered_a_reasonable_publication/",
-   "ts": 1793847315,
    "source": "Reddit"
   },
   {
@@ -410,10 +410,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "A message to top tier conferences [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xnkbeu/a_message_to_top_tier_conferences_d/",
-   "ts": 1793786150,
+   "subreddit": "programming",
+   "title": "A Maintainer's Advice on Contributing to Open Source in 2026",
+   "url": "https://www.reddit.com/r/programming/comments/1xnjvkx/a_maintainers_advice_on_contributing_to_open/",
+   "ts": 1793784389,
    "source": "Reddit"
   },
   {
