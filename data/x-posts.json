@@ -1,20 +1,28 @@
 {
- "generated_at": "2026-11-07T01:12:50Z",
+ "generated_at": "2026-11-07T01:23:37Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed",
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starship is the most powerful moving object of any kind made by humans Video",
+   "url": "https://nitter.kareem.one/elonmusk/status/2118875601654436061#m",
+   "ts": 1794014284,
+   "id": "2118875601654436061#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -23,6 +31,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2118872598058860671#m",
    "ts": 1794013568,
    "id": "2118872598058860671#m"
+  },
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "It's Friday",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2118871902366441879#m",
+   "ts": 1794013402,
+   "id": "2118871902366441879#m"
   },
   {
    "handle": "elonmusk",
@@ -230,15 +247,6 @@
    "url": "https://nitter.kareem.one/XFreeze/status/2118789834940784716#m",
    "ts": 1793993836,
    "id": "2118789834940784716#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon Musk just revealed an absolutely insane revenue trajectory for SpaceX: on track to exceed $100 billion annualized in December, a best guess of over $500 billion by December next year, and a trillion is no longer out of the question \"I think, just to comment on a few of those things, so we are tracking to have an annual rate of revenue, that is in excess of $100 billion in December. Obviously, December's pretty close, so I have good insight into that, so unless there's some natural disaster or something, we will meet that target. And then based on the plans that we have next year, it seems quite likely that our annual recurring revenue in December of next year will exceed 500 billion. Now, this is not a promise, this is what I think will happen, this is my best guess. Just want to distinguish between this is a promise to do something versus what I think will occur. What I think will occur is an ARR in December of next year of 500 billion, and I simply said, a trillion is not out of the question, meaning it was previously out of the question and it is no longer out of the question, it's maybe 2% or something likelihood But it's interesting that it's not 0%, that's the interesting part. And the probability is increasing with time” Video",
-   "url": "https://nitter.kareem.one/XFreeze/status/2118783624325791849#m",
-   "ts": 1793992355,
-   "id": "2118783624325791849#m"
   },
   {
    "handle": "elonmusk",
@@ -1211,15 +1219,6 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2117301887682940962#m",
    "ts": 1793639082,
    "id": "2117301887682940962#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Your dot will choose the best model for the task, drawing on different models for different parts of the work.",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2117283355427495983#m",
-   "ts": 1793634663,
-   "id": "2117283355427495983#m"
   },
   {
    "handle": "Lingling_Wei",
