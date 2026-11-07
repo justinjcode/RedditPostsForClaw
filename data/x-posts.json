@@ -1,19 +1,38 @@
 {
- "generated_at": "2026-11-06T23:53:28Z",
+ "generated_at": "2026-11-07T00:13:26Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@simonw: all instances failed",
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Terafab.ai Link Terafab Tesla, SpaceX, and xAI are launching the most epic chip-building effort ever - combining logic, memory and advanced packaging under one roof. A future among the stars. terafab.ai",
+   "url": "https://nitter.kareem.one/elonmusk/status/2118854622907674904#m",
+   "ts": 1794009283,
+   "id": "2118854622907674904#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "If you want to iterate fast with radically new chip designs, join the Terafab project! X Freeze (@XFreeze) Elon Musk just revealed that Tesla is building a research chip fab at Gigafactory Texas that could reduce semiconductor development cycles from one year to just one month That's a potential 12 TIMES increase in the speed of chip development Tesla is building two semiconductor facilities in Texas with distinct purposes: • Giga Texas, Austin — A research fab for experimenting with new chip designs, fabrication techniques and manufacturing processes • Terafab, Grimes County — A massive production facility where successful breakthroughs will be scaled into high-volume chip manufacturing The research fab aims to bring the entire chip development process under one roof: • Logic fabrication • Memory fabrication • Lithography • Advanced packaging • Chip testing Instead of relying on lengthy development cycles spread across multiple facilities, Tesla is working toward designing, manufacturing and testing complete chips in approximately ONE MONTH That means potentially 12 development cycles in the time it traditionally takes to complete one Tesla is building the ability to develop its own chips, manufacture them and continuously improve them at a pace the semiconductor industry has rarely seen Video — https://nitter.kareem.one/XFreeze/status/2118799563565998548#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2118854441063600539#m",
+   "ts": 1794009239,
+   "id": "2118854441063600539#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -162,6 +181,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "Elon Musk on the next Starship flight: “You’ll really want to watch this one. This one’s cool It’s the largest flying object ever made And it’s the highest thrust object ever made by humans of any kind whatsoever” Starship will weigh over 5,000 tons at liftoff, then the Super Heavy booster comes back from space just minutes later “Success is not always guaranteed, but excitement is” Video",
+   "url": "https://nitter.kareem.one/XFreeze/status/2118791290930532617#m",
+   "ts": 1793994183,
+   "id": "2118791290930532617#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "Elon Musk just confirmed that SpaceX is preparing to attempt the FIRST-EVER tower catch of a Starship upper stage with Ship 42 in about ONE WEEK SpaceX has already achieved multiple precise, controlled soft landings of Starship in the ocean Elon revealed that these landings were so accurate that if a catch tower had been positioned at those locations, Starship would have been caught But bringing a massive spacecraft back to the actual launch tower requires an entirely different level of confidence SpaceX has been working to ensure the ship is reliable enough to return without damaging the tower or putting people at risk from falling debris And SpaceX reached that point Ship 42 is being prepared for the first attempt to catch a Starship upper stage with the launch tower And there's another interesting detail Elon highlighted that 42 is a special number, making Ship 42 a fitting vehicle for this historic attempt This is the breakthrough Starship needs to achieve FULL AND RAPID REUSABILITY For the first time ever, SpaceX is preparing to bring the entire Starship rocket back for recovery using its launch tower Video",
    "url": "https://nitter.kareem.one/XFreeze/status/2118789834940784716#m",
    "ts": 1793993836,
@@ -198,28 +226,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Pulling massive power cables is a great workout and far more productive than lifting weights 🏋️‍♀️ Sawyer Merritt (@SawyerMerritt) Elon Musk in new interview on @spacexai 's data center site in Memphis: \"I insist on doing some of the work myself manually. I've pulled power cables the size of an anaconda. I've done the fiber optic cabling; I try to do at least a little bit of everything so I'm not numb to the pain of the people who are actually doing it. It's not as though I'm sitting in an office and someone has to come to me. I'm walking the floor asking them questions actively.\" (via 33rd Annual Baron Investment Conference today in NYC) Video — https://nitter.kareem.one/SawyerMerritt/status/2118772623286870459#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118786343958675697#m",
-   "ts": 1793993004,
-   "id": "2118786343958675697#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Elon Musk just revealed an absolutely insane revenue trajectory for SpaceX: on track to exceed $100 billion annualized in December, a best guess of over $500 billion by December next year, and a trillion is no longer out of the question \"I think, just to comment on a few of those things, so we are tracking to have an annual rate of revenue, that is in excess of $100 billion in December. Obviously, December's pretty close, so I have good insight into that, so unless there's some natural disaster or something, we will meet that target. And then based on the plans that we have next year, it seems quite likely that our annual recurring revenue in December of next year will exceed 500 billion. Now, this is not a promise, this is what I think will happen, this is my best guess. Just want to distinguish between this is a promise to do something versus what I think will occur. What I think will occur is an ARR in December of next year of 500 billion, and I simply said, a trillion is not out of the question, meaning it was previously out of the question and it is no longer out of the question, it's maybe 2% or something likelihood But it's interesting that it's not 0%, that's the interesting part. And the probability is increasing with time” Video",
    "url": "https://nitter.kareem.one/XFreeze/status/2118783624325791849#m",
    "ts": 1793992355,
    "id": "2118783624325791849#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon today on @SpaceX 's upcoming Starship Flight 15, which will attempt to catch both the Super Heavy Booster and Starship's upper stage: \"You really want to watch this one. This one's cool. It's the largest flying object ever made. And then the giant thing comes back. Excitement is guaranteed.\" Video below on what the ship catch will look like: Video Video",
-   "url": "https://nitter.kareem.one/SawyerMerritt/status/2118780450512527793#m",
-   "ts": 1793991599,
-   "id": "2118780450512527793#m"
   },
   {
    "handle": "elonmusk",
@@ -306,10 +316,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "SpaceX revenue this quarter alone will be substantially higher than NASA’s entire annual budget! DogeDesigner (@cb_doge) Many people claim SpaceX is subsidized by NASA, but that is false. NASA provided ~5% of SpaceX revenue. SpaceX earned its contracts by offering the best product at the lowest price, & it is the only astronaut transport option that meets NASA safety standards. — https://nitter.kareem.one/cb_doge/status/2118750838315499793#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118761981037723848#m",
-   "ts": 1793987195,
-   "id": "2118761981037723848#m"
+   "text": "This project would be an incredible benefit to the people of my home state. Robin (@xdNiBoR) The next SpaceX datacenter will be in Cochise Arizona. ~6 GW spread over 9 buildings. > No industrial water use. > No gas turbines and no on-site power generation. > ~3 miles away from the nearest homes — https://nitter.kareem.one/xdNiBoR/status/2118409376767864888#m",
+   "url": "https://nitter.kareem.one/BurnhamDC/status/2118763171502772554#m",
+   "ts": 1793987479,
+   "id": "2118763171502772554#m"
   },
   {
    "handle": "swyx",
@@ -364,15 +374,6 @@
    "url": "https://nitter.kareem.one/NovaIntrovert/status/2118722770918130175#m",
    "ts": 1793977847,
    "id": "2118722770918130175#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Launching in Argentina later this month Tesla Latinoamérica (@Tesla_LatAm) Llegamos a Argentina el 20 de Noviembre Video — https://nitter.kareem.one/Tesla_LatAm/status/2118674774440435905#m",
-   "url": "https://nitter.kareem.one/Tesla/status/2118720752379899907#m",
-   "ts": 1793977365,
-   "id": "2118720752379899907#m"
   },
   {
    "handle": "ZichenWanghere",
