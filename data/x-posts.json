@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-11-07T17:34:55Z",
+ "generated_at": "2026-11-07T17:43:25Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -9,9 +11,7 @@
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@swyx: all instances failed"
  ],
  "count": 178,
  "items": [
@@ -104,6 +104,15 @@
    "url": "https://nitter.kareem.one/jianfeinan/status/2119073025488543973#m",
    "ts": 1794061354,
    "id": "2119073025488543973#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "今年来了上海、找了工作、举家搬迁 一直都很不顺利 我被电动车撞了做手术 我妈摔了一跤胸椎骨折 我生日那天提了离职、 我妈也今天出了院 妈妈明天就回兰州了 好像突然给了今年紧凑的一年 突然划上了一个句点 祝我们家所有人以及看到了这条帖子的朋友们 平安喜乐、万事胜意",
+   "url": "https://nitter.kareem.one/xiangyuli/status/2119065294081863705#m",
+   "ts": 1794059511,
+   "id": "2119065294081863705#m"
   },
   {
    "handle": "swyx",
@@ -496,6 +505,15 @@
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
+   "text": "Read the full article here, or find the highlights in the thread below. carbonbrief.org/analysis-chi… Link Analysis: China’s quarterly CO2 falls 3% in largest drop since Covid - Carbon Brief China’s carbon dioxide (CO2) emissions fell by 3.1% in the third quarter of 2026, as the Hormuz crisis continued to hit oil demand and coal use also dropped. carbonbrief.org",
+   "url": "https://nitter.kareem.one/laurimyllyvirta/status/2118565173187264900#m",
+   "ts": 1793940272,
+   "id": "2118565173187264900#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
    "text": "I'd like to offer a candid assessment of the state of China's economy. My assessment may seem somewhat paradoxical: China's economy is one of the world's strongest and most successful but also, in some ways, in bad shape. China's economic transformation over the years has involved a tremendous development of productive capabilities. There isn't much China cannot manufacture. From the perspective of technological and economic development — as well as improving the material lives of its people — China's economic trajectory has been, and continues to be, a success. The same can be said of the leverage and power China commands in the global economy. It is arguably the only individual economy that has strong leverage in trade negotiations with the US, and it is playing an huge role in reshaping the global economic order due to its sheer economic power. This is primarily thanks to its dominance in global manufacturing and international trade. At the same time, some important economic indicators are pointing in a negative direction. The three most important ones, in my view, are the property slump, youth unemployment, and deflationary pressures. I'm not mentioning slowing GDP growth because it is still quite impressive by international standards — it's just that it's lower than the standard we've set for China. A lot of these economic problems are linked through low levels of consumption. This is, to some degree, tied to the model of development China pursued. In order to raise inve",
    "url": "https://nitter.kareem.one/haugejostein/status/2118541398328987735#m",
    "ts": 1793934604,
@@ -763,15 +781,6 @@
    "id": "2118099869235630081#m"
   },
   {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "做了个梦，刚醒的时候还能想起来，结果醒了十分钟就想不起来了",
-   "url": "https://nitter.kareem.one/ZichenWanghere/status/2118086262104228162#m",
-   "ts": 1793826091,
-   "id": "2118086262104228162#m"
-  },
-  {
    "handle": "bcherny",
    "name": "Boris Cherny",
    "author": "@bcherny",
@@ -797,15 +806,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2118057565607367147#m",
    "ts": 1793819249,
    "id": "2118057565607367147#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "what Bertrand Russell once described as an \"unbearable pity for the suffering of mankind.\"",
-   "url": "https://nitter.kareem.one/ZichenWanghere/status/2118029981477703979#m",
-   "ts": 1793812673,
-   "id": "2118029981477703979#m"
   },
   {
    "handle": "thsottiaux",
