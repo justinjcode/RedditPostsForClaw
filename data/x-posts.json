@@ -1,19 +1,29 @@
 {
- "generated_at": "2026-11-07T20:23:18Z",
+ "generated_at": "2026-11-07T20:33:53Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
-  "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@realDonaldTrump: all instances failed",
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "never ever forget Capitano Jacko (@CapitanoJacko) — https://nitter.kareem.one/CapitanoJacko/status/2119080872377004404#m",
+   "url": "https://nitter.kareem.one/swyx/status/2119164641301696891#m",
+   "ts": 1794083197,
+   "id": "2119164641301696891#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -175,6 +185,15 @@
    "url": "https://nitter.kareem.one/SawyerMerritt/status/2119097866123624773#m",
    "ts": 1794067276,
    "id": "2119097866123624773#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "I can watch this show ALL DAY. Latent.Space (@latentspacepod) In this episode, @reductoai co-founder and CEO @aditabrm joins @allenpark to make steak sandwiches with burrata, torched peaches, and chimichurri and talk about why PDFs still break AI: how frontier models silently drop rows, why 99% accuracy can still fall short in production, what Reducto learned processing a billion pages a month, and what it would take for office work to have its Claude Code moment. 00:00 Cold Open 00:13 Meet Adit Abraham and the Viral Steak Tweet 00:57 From Remembrall to Reducto: YC and the Pivot 01:57 Why PDFs Are Still Hard for AI 03:35 What AI Agents Need to Do With Documents 04:19 Model Routing for Tricky Pages and Tables 05:29 Build vs. Buy: When to Train Your Own Models 07:00 Deep Extract, Frontier Models, and Missing Rows 08:20 Why Everyone Wins Their Own Benchmark 09:29 Reducto R1: Accuracy, Cost, and a Billion Pages a Month 10:57 When 99% Accuracy Isn’t Enough 13:05 Continuous Evals and Production Failures 16:49 How Reducto Uses AI Agents Internally 18:28 Hiring With AI and the Eight-Hour Onsite 20:17 Early Hires and What Obsession Looks Like 23:17 Blowtorching Peaches 24:24 Scaling From a Small Team to Series B 27:34 Competition and the Data Flywheel 30:52 What Better Parsing Unlocks for Customers 32:11 Finding a Cofounder at MIT 34:34 The Anthropic Hackathon, Long-Term Memory, and RAG 38:49 From Reading PDFs to Redlining Contracts 43:19 A Claude Code Moment for Office Work 46:13 Wha",
+   "url": "https://nitter.kareem.one/JenniferHli/status/2119096038778933269#m",
+   "ts": 1794066841,
+   "id": "2119096038778933269#m"
   },
   {
    "handle": "elonmusk",
@@ -438,33 +457,6 @@
    "id": "2118764812301967604#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "洋子Olivia (@knowyourself518) 最近在上海听到很好的分享，就是 @ryolu_ 在 @aiDotEngineer 2026 上海的演讲。 Ryo 这场分享像一篇散文诗，舒服、人文、有审美，不愧是 AIE 开始前大家最期待的 speaker。AI 时代真的会放大设计师、品牌咨询这类审美突出的工种，他开场谈到了 AI 带来的可能性所激发的兴奋，以及看到别人在构建什么时，这种兴奋如何迅速转化为对落后的焦虑。 他有个暴论很戳我：AI 时代最夺人眼球的，反而是那些最反 AI 的设计。 当 AI native 泛滥到磨破观众耳朵，当 AI 工具塞满机场、公交 banner，那些最手工、最长期主义、最 humanized 的东西，才最抓人心。 这次活动见到了Optiver、Manus、Langfuse，这几家线下活动几乎没怎么见过。现场外国人含量爆棚，大家都在聊 Agent、Infra、Harness、Observability、Evals…有种穿越硅谷的感觉🤣全员大agentic时代 现在很多项目融资 BP 里都在强化 AI 叙事拿钱，但真正认真做项目的人会拿这笔大钱去弱化 AI 存在感、改善人类生活，把时间还给人，最后让硅基生物的出现抵消碳基生物在办公楼里不见天日的劳作。 “我想要的不是一个替我过完人生的工具，而是在它帮助下，我能更清楚地感觉、自由地探索、更有能力关心这个世界。你和其他人一起做出原本做不出来的东西，慢慢找回原本的自己。” 他说的一句话让我强烈共鸣：“当 AI 几乎能为我们做任何事情时，我们还能知道自己想做什么吗？” 他的原则归结为简单和自由。 我的感受是最后那些仍坚持质量和美感、不追 AI 速度和数量的人，是我们与 AI 区分开的最后堡垒。 — https://nitter.kareem.one/knowyourself518/status/2118524080840405235#m",
-   "url": "https://nitter.kareem.one/swyx/status/2118764770040144082#m",
-   "ts": 1793987860,
-   "id": "2118764770040144082#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Yuki (@Yuki27__) 今天杨滢的演讲是上午讲得最好的，我在门口抓到她 合影一张😬 她说美妆这个行业成本很高。中国美妆和个护一年的 GMV 就有1.1 万亿，但品牌得要把 50%–60% 的钱花在营销上。你花 100 块买护肤品，有 50 块以上是渠道和营销费。KOL 的大多是收了钱推广，不一定客观。 为什么呢？品牌方说“这东西让你皮肤更好”，客户根本没法验证，只能先付钱买来试。以至于所有的交易成本，其实都是消费者提前付掉的。品牌要买广告、找 KOL、请皮肤科专家背书，用钱换信任。 对产品来说也是一样。就算你产品做得再好也没用，没人知道。没有曝光就没有销量，没有销量就没有口碑，只能继续花钱买广告。 所以为什么美妆有这么多中间环节，这也是最值得 AI 去解决的问题。 她的PPT上写：谁能降低交易成本，谁就拿走利润。 她说很多投资人建议她做 AI 测肤：拍张照，分析肤质，推荐产品。但照片受光线、环境、角度影响很大，判断其实并不准。她的比喻是，这就像连手动挡都还没开明白，就想直接上自动驾驶。 美妆里大量的专业判断、配方和供应链经验、消费者的真实反馈，都还没被数字化，通用大模型根本不知道。她的演讲题目就是：AGI is Decoding. Encoding is the Moat. 模型越来越会理解信息，但谁能把行业知识先编码成 AI 能用的数据和规则，谁才有护城河。 另外一场制造业的分享，讲的道理类似。 海普智联的朱世辉说，AI 真进了工厂才发现：设备用了几十年，接口不统一，数据取不出来；订单在 ERP，工单在 MES，批次信息还写在纸卡上；一线工人一半以上超过 40 岁，很多关键判断根本没有记录，只在老师傅脑子里。 他们把 703 条业务流程全部梳理出来，用本体（Ontology）的方式入库，约三成由 AI 起草。他们的总结是：意义不在省工时，而是组织第一次能读懂自己怎么运转。 他最后一句我特别喜欢！ “护城河不在模型里，在那些没有 API 的地方。” 美妆的专业知识、工厂老师傅的经验，这些一直存在于现实世界，从没被数字化，也不是调一个 API 就能拿到的。模型越来越难拉开差距，真正的机会可能就在这里。 — https://nitter.kareem.one/Yuki27__/status/2118718703399481701#m",
-   "url": "https://nitter.kareem.one/swyx/status/2118764731276444066#m",
-   "ts": 1793987851,
-   "id": "2118764731276444066#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Without all our lovely and amazing volunteers and my team, we couldn’t make this happen! Mengying you are the best, and already look forward to the 2nd AIE China! Where should we take next time? @aiDotEngineer @StandupPartners @swyx",
-   "url": "https://nitter.kareem.one/Ninggao88/status/2118757104223932762#m",
-   "ts": 1793986032,
-   "id": "2118757104223932762#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -517,6 +509,15 @@
    "url": "https://nitter.kareem.one/uspolitics1111/status/2118690421119295643#m",
    "ts": 1793970134,
    "id": "2118690421119295643#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Da Vinci’s to-do list btw Linda (@TorontoLinda) Men will really have a to-do list that has “pick up drycleaning” and “see Machu Picchu” as consecutive items. No priority ranking, no chronological sections. “Water plants” immediately followed by “learn Chinese” — https://nitter.kareem.one/TorontoLinda/status/2118330460803575938#m",
+   "url": "https://nitter.kareem.one/jose_goncalves_/status/2118631455027044626#m",
+   "ts": 1793956075,
+   "id": "2118631455027044626#m"
   },
   {
    "handle": "thsottiaux",
