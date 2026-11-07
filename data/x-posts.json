@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-07T07:53:34Z",
+ "generated_at": "2026-11-07T08:07:56Z",
  "accounts_ok": [
-  "TheRundownAI",
-  "ZichenWanghere",
+  "Lingling_Wei",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +10,8 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed"
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -196,15 +196,6 @@
    "id": "2118854622907674904#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "If you want to iterate fast with radically new chip designs, join the Terafab project! X Freeze (@XFreeze) Elon Musk just revealed that Tesla is building a research chip fab at Gigafactory Texas that could reduce semiconductor development cycles from one year to just one month That's a potential 12 TIMES increase in the speed of chip development Tesla is building two semiconductor facilities in Texas with distinct purposes: • Giga Texas, Austin — A research fab for experimenting with new chip designs, fabrication techniques and manufacturing processes • Terafab, Grimes County — A massive production facility where successful breakthroughs will be scaled into high-volume chip manufacturing The research fab aims to bring the entire chip development process under one roof: • Logic fabrication • Memory fabrication • Lithography • Advanced packaging • Chip testing Instead of relying on lengthy development cycles spread across multiple facilities, Tesla is working toward designing, manufacturing and testing complete chips in approximately ONE MONTH That means potentially 12 development cycles in the time it traditionally takes to complete one Tesla is building the ability to develop its own chips, manufacture them and continuously improve them at a pace the semiconductor industry has rarely seen Video — https://nitter.kareem.one/XFreeze/status/2118799563565998548#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118854441063600539#m",
-   "ts": 1794009239,
-   "id": "2118854441063600539#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -343,10 +334,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "This project would be an incredible benefit to the people of my home state. Robin (@xdNiBoR) The next SpaceX datacenter will be in Cochise Arizona. ~6 GW spread over 9 buildings. > No industrial water use. > No gas turbines and no on-site power generation. > ~3 miles away from the nearest homes — https://nitter.kareem.one/xdNiBoR/status/2118409376767864888#m",
-   "url": "https://nitter.kareem.one/BurnhamDC/status/2118763171502772554#m",
-   "ts": 1793987479,
-   "id": "2118763171502772554#m"
+   "text": "If you’re right wing and you can’t admit liberals (not communists) are way better at art and design and boutique coffee shops and restaurants, you’re not living in reality. If you’re left wing and you can’t admit conservatives are way better at running cities and businesses and police departments, you’re not living in reality. You step inside a beautiful coffee shop in the PNW and think “man, these liberals are great at this stuff…conservatives should take notes.” Then the moment you step outside and trip over a homeless drug zombie shooting up fentanyl on the sidewalk, you think “man these liberals are terrible at this stuff…they should really take notes from conservatives” Communists make disgusting anti-beauty art, but classical liberals aren’t like that. Put the libs in charge of the coffee shops, put the conservatives in charge of city hall. This is how you get a city that is beautiful, clean, and functional. If you can’t accept that, you need to check your tribalism. We are never getting rid of each other, so figure out how we strike a balance or else the communists swoop in and take everything from us while we quarrel over stupid bullshit…which is exactly what’s happening now. Spencer Pratt (@spencerpratt) Conservatives make society functional. Liberals make society beautiful. We really do need each other. — https://nitter.kareem.one/spencerpratt/status/2118738403919568925#m",
+   "url": "https://nitter.kareem.one/spencerpratt/status/2118762477060251823#m",
+   "ts": 1793987313,
+   "id": "2118762477060251823#m"
   },
   {
    "handle": "swyx",
@@ -536,6 +527,15 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118469621011677521#m",
    "ts": 1793917491,
    "id": "2118469621011677521#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Gavin Baker owned 15% of Nvidia and 10% of Tesla before either was worth $2 billion. He’s 50. And he just admitted Claude Code was too hard for him, so he switched to Grok Bot. “I glued together all this stuff with Claude Code and, you know, I’m sure it was user error on my part. 50 years old. I’m doing my best.” Then he tried Grok Bot. “Grok Bot is the most impactful AI product to me and to the firm that we’ve had yet.” “It just makes it so easy. I think I’m up to like 17 Grok Bots, and every day I think of a new one to add.” And it’s not a toy for him. It’s how he runs money: “For the more professional use cases, Grok Bot has just been transformative for me.” “So much of investing is making sure that the right information gets to the right person at the right time, and Grok Bot is so good at that.” One of the best tech investors alive runs his firm on 17 AI agents. And he’s adding a new one every day. Video stark0xbt (@stark0xbt) Article The Age of Elon in Receipts: What 15 Blue-Chip Fund Managers Have Said About Musk in 2026 Opening: The Quote That Named a Decade In October 2026, Gavin Baker — the man who owned 15% of Nvidia under a $1B market cap and 10% of Tesla sub-$2B — sat down for a podcast and said one phrase that — https://nitter.kareem.one/stark0xbt/status/2110060506782253061#m",
+   "url": "https://nitter.kareem.one/stark0xbt/status/2118452360066355485#m",
+   "ts": 1793913376,
+   "id": "2118452360066355485#m"
   },
   {
    "handle": "thsottiaux",
@@ -1321,9 +1321,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
