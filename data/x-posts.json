@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-07T06:53:04Z",
+ "generated_at": "2026-11-07T07:06:34Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -248,15 +248,6 @@
    "url": "https://nitter.kareem.one/kylej_sullivan/status/2118823303498383697#m",
    "ts": 1794001816,
    "id": "2118823303498383697#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Here’s the full interview of @elonmusk with Ron Baron 0:13 - Exciting times ahead 0:21 - First principles and TerraFab 2:18 - Chip fabs geopolitical risk 5:51 - Terawatt scale ambition 6:14 - Trillion dollar phased build 7:36 - Why others don’t improve 7:49 - Austin research fab iteration 10:49 - Culture of speed and ideas 13:48 - Walking the floor hands-on 15:39 - Data centers pitchforks 16:44 - OpenAI origins Anthropic 18:09 - Building data centers fast 20:01 - Revenue exploding Jose meme 23:16 - Model Y best in China 23:28 - China ownership exception 24:50 - ARR to five hundred billion 27:45 - Digital AI economy boost 28:21 - Robotics five times productivity 30:10 - Rent robots not sell 30:41 - Memphis community benefits 32:55 - Data centers in space 33:35 - StarMind and space power 36:26 - Cost to orbit history 36:52 - Falcon nine reusability limits 39:09 - Hourly launches Starship size 40:25 - Chopsticks and heat shield 44:30 - Starship unlocks Starlink 46:49 - Agentic traffic thousand times 48:09 - Starlink V3 bandwidth explosion 51:26 - Spectrum and telcos 52:43 - Satellite replacement cycle 53:17 - Laser links hundred times 53:55 - Competing with China power 55:37 - Space intelligence advantage 57:19 - Demand from superintelligence 58:02 - Universal high income future 1:00:43 - Legacy contribution Video",
-   "url": "https://nitter.kareem.one/cb_doge/status/2118803735573070329#m",
-   "ts": 1793997150,
-   "id": "2118803735573070329#m"
   },
   {
    "handle": "thsottiaux",
@@ -554,6 +545,15 @@
    "url": "https://nitter.kareem.one/ElxMapping/status/2118439274404347991#m",
    "ts": 1793910256,
    "id": "2118439274404347991#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "“They put a pump in the anus of a 12 year old girl to expand it so multiple men could rape her and your country covered that up and then told me Tommy was the bad guy.” Tim Pool pushes back on Piers Morgan demonizing Elon Musk’s defense of Tommy Robinson for exposing the UK police’s grooming gang coverup. Video",
+   "url": "https://nitter.kareem.one/DTruthsQ/status/2118434538762432752#m",
+   "ts": 1793909127,
+   "id": "2118434538762432752#m"
   },
   {
    "handle": "ZichenWanghere",
