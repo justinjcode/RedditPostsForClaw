@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T05:06:50Z",
+ "generated_at": "2026-11-07T05:16:01Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "5 years ago Elon Musk (@elonmusk) And ship will be caught by Mechazilla too. As with booster, no landing legs. Those are only needed for moon & Mars until there is local infrastructure. — https://nitter.kareem.one/elonmusk/status/1426199109585756163#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2118935230182805688#m",
+   "ts": 1794028501,
+   "id": "2118935230182805688#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -202,15 +211,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2118829142607278366#m",
    "ts": 1794003208,
    "id": "2118829142607278366#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Beautiful quote Owen Lewis (@is_OwenLewis) \"For all but a vanishingly brief instant near the dawn of history, the word 'ship' will mean 'spaceship.'\" –Arthur C. Clarke — https://nitter.kareem.one/is_OwenLewis/status/2118738312181801445#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118826964916298088#m",
-   "ts": 1794002688,
-   "id": "2118826964916298088#m"
   },
   {
    "handle": "ZichenWanghere",
