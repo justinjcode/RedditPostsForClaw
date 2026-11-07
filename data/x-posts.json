@@ -1,20 +1,37 @@
 {
- "generated_at": "2026-11-07T00:13:26Z",
+ "generated_at": "2026-11-07T00:41:24Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@simonw: all instances failed",
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "All systems are looking good, and weather is favorable for liftoff. Propellant load is about to begin for Falcon 9’s launch of the USSF-432 mission from California → spacex.com/launches/ussf432",
+   "url": "https://nitter.kareem.one/SpaceX/status/2118857663106707757#m",
+   "ts": 1794010008,
+   "id": "2118857663106707757#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "“Donald, if you're watching here, we'll put your name on it. You get to be the American president who finally guaranteed health care for every single American.” @mehdirhasan asks Dr. @AbdulElSayed what he’d do on his first day in office. His answer? Trumpcare for All. Video",
+   "url": "https://nitter.kareem.one/zeteo_news/status/2118855959422607404#m",
+   "ts": 1794009601,
+   "id": "2118855959422607404#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -212,15 +229,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2118788513365954734#m",
    "ts": 1793993521,
    "id": "2118788513365954734#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "🇦🇷 🇦🇷 Tesla Argentina!! 🇦🇷 🇦🇷 Tesla Latinoamérica (@Tesla_LatAm) Llegamos a Argentina el 20 de Noviembre Video — https://nitter.kareem.one/Tesla_LatAm/status/2118674774440435905#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118787365426893002#m",
-   "ts": 1793993247,
-   "id": "2118787365426893002#m"
   },
   {
    "handle": "elonmusk",
@@ -851,15 +859,6 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2117744823298048080#m",
    "ts": 1793744686,
    "id": "2117744823298048080#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "is it how it is taught in journalism school or written in AP stylebook now Zichen Wang (@ZichenWanghere) \"defensive strikes\" \"limited strikes\" — https://nitter.kareem.one/ZichenWanghere/status/2117461253262369188#m",
-   "url": "https://nitter.kareem.one/ZichenWanghere/status/2117742487356018738#m",
-   "ts": 1793744129,
-   "id": "2117742487356018738#m"
   },
   {
    "handle": "Lingling_Wei",
