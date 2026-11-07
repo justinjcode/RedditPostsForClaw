@@ -1,20 +1,56 @@
 {
- "generated_at": "2026-11-07T16:53:22Z",
+ "generated_at": "2026-11-07T17:05:22Z",
  "accounts_ok": [
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
-  "@swyx: all instances failed",
   "@Lingling_Wei: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Catching a giant rocket falling from space SpaceX (@SpaceX) Starship is preparing for catch Flight 15 is targeting to launch as early as Friday, November 13, pending regulatory approval → spacex.com/launches/starship… Video — https://nitter.kareem.one/SpaceX/status/2119093662957060389#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2119111269718364631#m",
+   "ts": 1794070472,
+   "id": "2119111269718364631#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "come see it at aie.codes next week Link AI Engineer Code Summit 2026: AI Engineering Conference, Nov 10-12, San Francisco The application-only AI Engineer Code Summit brings together leading coding-agent builders and AI engineers in San Francisco, November 10-12, 2026. ai.engineer",
+   "url": "https://nitter.kareem.one/swyx/status/2119108787726643400#m",
+   "ts": 1794069880,
+   "id": "2119108787726643400#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "SpaceX just released a detailed blog post explaining how Starship will return to Starbase for its first tower-catch attempt on Flight 15 and it is going to be the first full recovery of an orbital launch system The mission brings together both sides of Starship’s future: delivering a major payload to orbit and bringing the entire launch system home for reuse. Super Heavy will return minutes after liftoff, while Starship will deploy 26 Starlink V3 satellites, fly a mission of more than 22 hours, then make its way back through the atmosphere toward the tower at Starbase, provided it passes the required vehicle-health checks The update walks through the orbital safety checks, heatshield inspections, alternative splashdown locations, the precise approach over northern Mexico and southern Texas, and the final sequence of bellyflop, engine ignition, flip and catch Flight 15 is targeting launch as early as Friday, November 13, pending regulatory approval. The 75-minute launch window opens at 4:45 p.m. CT. Here is the full plan, from liftoff to bringing both stages home 1. LAUNCH AND THE BOOSTER’S RETURN Super Heavy will lift Starship from Starbase before the vehicles separate through hot-staging: Starship ignites its engines while still attached, then continues toward space as the booster turns back. The booster will perform its boostback burn, descend toward Starbase and begin its landing burn roughly six minutes after liftoff. The catch is planned for approximately 6 minutes 35 se",
+   "url": "https://nitter.kareem.one/XFreeze/status/2119105020423799051#m",
+   "ts": 1794068982,
+   "id": "2119105020423799051#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "10k kids born today, 10k new 530A accts auto created by @USTreasury w $1000 in the S&P 500 compounding for 18 yrs. 10k kids born tomorrow, 10k new accounts. And the day after. Forever. 🇺🇸💰🚀 Video",
+   "url": "https://nitter.kareem.one/altcap/status/2119085865309999174#m",
+   "ts": 1794064415,
+   "id": "2119085865309999174#m"
+  },
   {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
@@ -131,33 +167,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2118884500201787770#m",
    "ts": 1794016406,
    "id": "2118884500201787770#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Super intelligence leads to abundance Fireside Alpha (@firesidealpha) SpaceX’s Arizona data center, per a county supervisor: “We could be reducing property taxes across the board in Cochise County, the entire county, by 20%” Frank Antenori, whose district includes the site, brought up the county’s tax math during a live Q&A: “Here’s just something to just chew on. Arizona has an expenditure limit requirement that is placed on counties. If we exceed that expenditure, we have to rebate back to the taxpayers a certain amount.” “So, if we’re receiving revenue in from SpaceX, by law, we have to offset that to the taxpayers. We have the potential to reduce, based on the projected revenue they’re creating, as much as 20%.” “Let me just say it again. We could be reducing property taxes across the board in Cochise County, the entire county, by 20% to offset for the revenue here, because we can’t spend all that money. So, we have to give that money back to the taxpayers. The law says we have to.” “So, you could see a potential significant impact to local property taxes. What that is, I don’t know. We’re going to have to do the math on it. But the law, if we have this large increase in property tax revenue, we have to balance those rates. So that will reduce dramatically the property tax burden of every resident in the county.” “The construction sales tax, which also is the TPT, the transaction privilege tax, the retail tax, and the jail excise tax. So that will be part of the construct",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118881284743483488#m",
-   "ts": 1794015639,
-   "id": "2118881284743483488#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "It is so tempting to make a 500 ton thrust Raptor 4 in place of the 250 ton Raptor 3 for the outer ring of the Starship booster",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118880932014997910#m",
-   "ts": 1794015555,
-   "id": "2118880932014997910#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "5 years ago Tesla Owners Silicon Valley (@teslaownersSV) Elon called catching rockets with giant chopstick arms “bananas” years before SpaceX pulled it off. “We’re talking about catching the largest flying object ever made on a giant tower with chopstick arms. It’s like Karate Kid with the fly, but much bigger.” Elon Musk, Lex Fridman Podcast #252, December 2021. Video — https://nitter.kareem.one/teslaownersSV/status/2118871003258564860#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118876612544561449#m",
-   "ts": 1794014525,
-   "id": "2118876612544561449#m"
   },
   {
    "handle": "thsottiaux",
@@ -455,15 +464,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2118642061515936142#m",
    "ts": 1793958604,
    "id": "2118642061515936142#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Some of the takes I get from chatting with people at @aiDotEngineer 1. what is still still important nowdays is human interaction that need us to be face to face. P.S. I am glad this has become a larger range of mutual understanding now, last year, when I emphasize this, a lot of people still don't care and only cares about higher intelligence) 2. People are become more aware of the importance of building their personal social media. P.S. From my own observation, I also saw much more cases in Oct, where PhD students or those who used to not use social media start to \"cold-start\" their twitter or rednote with \"ask me anything\" style intro to get enough attention. In that case, it would also be much harder to know where to put our attention to. It would also be important to know how to filter those noise when everyone is trying to create some ripples. 3. AI will replace our jobs and no body knows what to do, the only thing we can do is to do things that makes us feel happy right now and wait for the time to come. (Many people think that having AI makes their life better but at the same time, AI will take their jobs. There are also people think that AI makes them think more about their lives. Personally, I have many opinions on all the above points a few month ago, if any one is interesting. Welcome to discuss or ask in the thread so that I would be able to know what to share when I write my next long article.",
-   "url": "https://nitter.kareem.one/SuJinyan6/status/2118571351439188260#m",
-   "ts": 1793941745,
-   "id": "2118571351439188260#m"
   },
   {
    "handle": "thsottiaux",
