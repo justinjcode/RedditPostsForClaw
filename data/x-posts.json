@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-07T06:35:26Z",
+ "generated_at": "2026-11-07T06:43:33Z",
  "accounts_ok": [
   "TheRundownAI",
-  "bcherny",
+  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@simonw: all instances failed",
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Cyber Stefan Esser (@i0n1c) I guess now that @openai has name dropped @calif_io as an early adopter I can tell you GPT-6 Cyber is out of this world. It is lightyears ahead of everything I used. — https://nitter.kareem.one/i0n1c/status/2118409855119880354#m",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2118953362725159104#m",
+   "ts": 1794032824,
+   "id": "2118953362725159104#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -244,15 +253,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "BREAKING: Starlink now helps connect 500+ locomotives and railcars for Rumo, Brazil’s largest freight rail operator. 🇧🇷 Autotrac’s system switches between 4G and Starlink so trains can stay in touch with the control center in real time, even where there’s no cell signal.",
-   "url": "https://nitter.kareem.one/cb_doge/status/2118822261088190714#m",
-   "ts": 1794001567,
-   "id": "2118822261088190714#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Here’s the full interview of @elonmusk with Ron Baron 0:13 - Exciting times ahead 0:21 - First principles and TerraFab 2:18 - Chip fabs geopolitical risk 5:51 - Terawatt scale ambition 6:14 - Trillion dollar phased build 7:36 - Why others don’t improve 7:49 - Austin research fab iteration 10:49 - Culture of speed and ideas 13:48 - Walking the floor hands-on 15:39 - Data centers pitchforks 16:44 - OpenAI origins Anthropic 18:09 - Building data centers fast 20:01 - Revenue exploding Jose meme 23:16 - Model Y best in China 23:28 - China ownership exception 24:50 - ARR to five hundred billion 27:45 - Digital AI economy boost 28:21 - Robotics five times productivity 30:10 - Rent robots not sell 30:41 - Memphis community benefits 32:55 - Data centers in space 33:35 - StarMind and space power 36:26 - Cost to orbit history 36:52 - Falcon nine reusability limits 39:09 - Hourly launches Starship size 40:25 - Chopsticks and heat shield 44:30 - Starship unlocks Starlink 46:49 - Agentic traffic thousand times 48:09 - Starlink V3 bandwidth explosion 51:26 - Spectrum and telcos 52:43 - Satellite replacement cycle 53:17 - Laser links hundred times 53:55 - Competing with China power 55:37 - Space intelligence advantage 57:19 - Demand from superintelligence 58:02 - Universal high income future 1:00:43 - Legacy contribution Video",
    "url": "https://nitter.kareem.one/cb_doge/status/2118803735573070329#m",
    "ts": 1793997150,
@@ -383,6 +383,15 @@
    "url": "https://nitter.kareem.one/Birdyword/status/2118740366878724328#m",
    "ts": 1793982042,
    "id": "2118740366878724328#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "When computers and robots advance enough, legacy governance will look awkwardly quaint. If they can build almost everything, why can't residents submit proposals, vote on them, and have them built? Instead of years of theater, projects can be completed in days. Want a high-speed railway? It costs X joules and hours to construct and Y joules per day to operate, with options A, B, and C. The full blueprint is attached for verification. No endless fake tax-raising campaign to fund something that does not exist. You pay with the electricity bill. No additional income or property taxes. Obviously, places with cheap electricity would have more build-out than places that don’t. Once started, every agent can access the real-time status. It may seem like fantasy, but the technology is almost there.",
+   "url": "https://nitter.kareem.one/yunta_tsai/status/2118735799953101194#m",
+   "ts": 1793980953,
+   "id": "2118735799953101194#m"
   },
   {
    "handle": "TheRundownAI",
@@ -860,15 +869,6 @@
    "url": "https://nitter.kareem.one/liwei7194211781/status/2117812040073170971#m",
    "ts": 1793760712,
    "id": "2117812040073170971#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Things will change again and again and again. We’re still very early and agents today are incredible, and yet so frustrating still. Can’t wait to crack things to get that flow state back. Long journey ahead.",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2117746467058405665#m",
-   "ts": 1793745078,
-   "id": "2117746467058405665#m"
   },
   {
    "handle": "ZichenWanghere",
