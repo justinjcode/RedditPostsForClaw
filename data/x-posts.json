@@ -1,20 +1,47 @@
 {
- "generated_at": "2026-11-07T18:17:17Z",
+ "generated_at": "2026-11-07T18:25:06Z",
  "accounts_ok": [
+  "TheRundownAI",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
  "errors": [
+  "@swyx: all instances failed",
   "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starlink saves lives DogeDesigner (@cb_doge) BREAKING: Earthquake-hit village in Indonesia receives @Starlink to help restore communications The equipment arrived after an Indonesian lawmaker visited Tado village. Starlink can help families get back online, check on loved ones and find out where to get aid. ♥️ Video — https://nitter.kareem.one/cb_doge/status/2119122121112879277#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2119131060806074732#m",
+   "ts": 1794075191,
+   "id": "2119131060806074732#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The Tesla Cybertruck order backlog is currently far more than we can make before dismantling the line for Cybercab expansion around June/July next year. We will add an extra shift to try to get all orders done in time.",
+   "url": "https://nitter.kareem.one/elonmusk/status/2119130949434888330#m",
+   "ts": 1794075164,
+   "id": "2119130949434888330#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "SpaceX has outlined five contingency landing options for Starship Flight 15 as it prepares for the ship’s first tower-catch attempt at Starbase This visualization shows how the mission can change course if the vehicle or tower does not meet the conditions required for a safe return: 1. Indian Ocean — after ascent If the orbital insertion burn is skipped, Starship remains on its suborbital trajectory and reenters over a predetermined area of the Indian Ocean 2. North of Hawaii — early in the mission If the flight needs to end shortly after reaching orbit, Starship returns to a designated area of the Pacific north of Hawaii 3. Off Chile — mid-mission A separate return opportunity allows Starship to land in the eastern Pacific, far off the coast of Chile 4. Gulf offshore — catch contingency If the tower catch is called off before final approach, Starship has an offshore landing option in the Gulf instead of proceeding with the catch 5. North of Hawaii — late in the mission If the planned deorbit burn is skipped, Starship completes another orbit before returning to the Pacific north of Hawaii The objective is to bring Starship home. The flight plan builds in alternatives throughout the journey, with continuous vehicle-health checks determining when to proceed An ambitious mission, backed by carefully planned options from ascent to final approach Video",
+   "url": "https://nitter.kareem.one/XFreeze/status/2119123323225612354#m",
+   "ts": 1794073346,
+   "id": "2119123323225612354#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -140,15 +167,6 @@
    "url": "https://nitter.kareem.one/XFreeze/status/2118987271965966564#m",
    "ts": 1794040909,
    "id": "2118987271965966564#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "True Crémieux (@cremieuxrecueil) Whenever people say the U.S. has a lot of starvation, it's like they're saying they don't realize the poor have obesity issues these days. — https://nitter.kareem.one/cremieuxrecueil/status/2118953104637141072#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118956856978653374#m",
-   "ts": 1794033657,
-   "id": "2118956856978653374#m"
   },
   {
    "handle": "thsottiaux",
@@ -475,15 +493,6 @@
    "id": "2118690421119295643#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Here's some fuel for all the Europoor haters: Germany just told us we'd have to fire one of our 3 founders to qualify for funding. I was in talks with a German state-backed fund of fund managing billions, with one single mandate: invest in German funds to drive innovation and economic growth in the country. They literally told me they like us a lot and are also impressed by our track record and performance so far, and even though not everyone in their team is a fan of our thesis, they believe in it. But they passed for a whole different reason: Because our all-male team of 3 people isn't \"diverse enough\" lol. they literally told me: hire two more female partners (impossible on the economics of a fund our size), or let one of the three of us go to make room for a quota hire. do that, and they'd strongly consider investing. I won't even get into how discriminatory this is toward men in the first place. nobody takes that seriously anyway, and honestly I don't care. but what actually gets me is something bigger: as a German, I have to face the fact that the whole world continuing to laugh at Germany and overall Europe is completely justified. a system that quietly kills the smallest, hungriest teams, the exact ones this money was created to support. and then everyone acts surprised that talent and capital keep leaving the country.",
-   "url": "https://nitter.kareem.one/sjdedic/status/2118688674548265131#m",
-   "ts": 1793969718,
-   "id": "2118688674548265131#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -572,15 +581,6 @@
    "url": "https://nitter.kareem.one/ElxMapping/status/2118439274404347991#m",
    "ts": 1793910256,
    "id": "2118439274404347991#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "“They put a pump in the anus of a 12 year old girl to expand it so multiple men could rape her and your country covered that up and then told me Tommy was the bad guy.” Tim Pool pushes back on Piers Morgan demonizing Elon Musk’s defense of Tommy Robinson for exposing the UK police’s grooming gang coverup. Video",
-   "url": "https://nitter.kareem.one/DTruthsQ/status/2118434538762432752#m",
-   "ts": 1793909127,
-   "id": "2118434538762432752#m"
   },
   {
    "handle": "ZichenWanghere",
