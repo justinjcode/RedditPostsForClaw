@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-07T18:52:56Z",
+ "generated_at": "2026-11-07T19:05:46Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Local AI is back on the menu! incredibly hyped for @TheAhmadOsman 's return to AIE CODE next week. follow him for some exclusive discount code drops Ahmad (@TheAhmadOsman) HOLY SHIT Opus 5.5 made me this video Entire thing built by Claude Code, from choosing quotes and clips to editing cuts, pacing, zooms, music, text overlays, and video & audio upscaling Seriously watch this or bookmark it to for later Video — https://nitter.kareem.one/TheAhmadOsman/status/2119039736002249212#m",
+   "url": "https://nitter.kareem.one/swyx/status/2119140818690974203#m",
+   "ts": 1794077517,
+   "id": "2119140818690974203#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -112,6 +122,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2119108787726643400#m",
    "ts": 1794069880,
    "id": "2119108787726643400#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "A statistic that sounds fake but isn't: Not one single white American man born after 1984 has published a work of literary fiction in The New Yorker. It's not because they stopped writing. It's because The New Yorker has refused to publish them. The publishing industry has blacked out a generation of male writers & then they wonder why boys don't read. Liza Libes (@pensandpoison) About 70% of publishing professionals are women. Because agents and editors tend to select books they personally relate to, an increasing number of male authors are being sidelined in the publishing industry, resulting in an overwhelming number of female protagonists on our shelves—and a dearth of male ones. No wonder young men are no longer reading. — https://nitter.kareem.one/pensandpoison/status/2118799410922656021#m",
+   "url": "https://nitter.kareem.one/politicalmath/status/2119105264569745683#m",
+   "ts": 1794069040,
+   "id": "2119105264569745683#m"
   },
   {
    "handle": "elonmusk",
@@ -306,7 +325,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "衷心感谢, AIE 上海！ ❤️👨‍💻🇨🇳 everyone congratulate @StandupPartners on hosting the first EVER AI Engineer in China! Video swyx (@swyx) absolutely tearing up seeing AIE Shanghai kick off and SUCH INCREDIBLE EXECUTION from @StandupPartners . the first AIE in China is actually happening!!! and its a packed room and a hot schedule featuring @ryolu_ , @Microsoft , @MiniMax_AI , @theworldlabs , @HeyGen , @ExaAILabs , @openclaw , @StepFun_ai , @liquidai , @youdotcom , @DynaRobotics , @baseten , @Meta , @OptiverGlobal , @ManusAI and more. not livestreamed because Reasons but you can bet we'll be posting up some videos and takes — https://nitter.kareem.one/swyx/status/2118246851136909731#m",
+   "text": "衷心感谢, AIE 上海！ ❤️👨‍💻🇨🇳 everyone congratulate @StandupPartners on hosting the first EVER AI Engineer in China! Video swyx 🔜 aie.codes (@swyx) absolutely tearing up seeing AIE Shanghai kick off and SUCH INCREDIBLE EXECUTION from @StandupPartners . the first AIE in China is actually happening!!! and its a packed room and a hot schedule featuring @ryolu_ , @Microsoft , @MiniMax_AI , @theworldlabs , @HeyGen , @ExaAILabs , @openclaw , @StepFun_ai , @liquidai , @youdotcom , @DynaRobotics , @baseten , @Meta , @OptiverGlobal , @ManusAI and more. not livestreamed because Reasons but you can bet we'll be posting up some videos and takes — https://nitter.kareem.one/swyx/status/2118246851136909731#m",
    "url": "https://nitter.kareem.one/aiDotEngineer/status/2118831109396193635#m",
    "ts": 1794003677,
    "id": "2118831109396193635#m"
@@ -427,15 +446,6 @@
    "url": "https://nitter.kareem.one/thejefflutz/status/2118757195877925050#m",
    "ts": 1793986054,
    "id": "2118757195877925050#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "good writing is not dead",
-   "url": "https://nitter.kareem.one/swyx/status/2118757173262180400#m",
-   "ts": 1793986049,
-   "id": "2118757173262180400#m"
   },
   {
    "handle": "swyx",
@@ -1320,9 +1330,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
@@ -1606,15 +1616,6 @@
    "url": "https://nitter.kareem.one/felixrieseberg/status/2110023283169247623#m",
    "ts": 1791903727,
    "id": "2110023283169247623#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Not quite betting the company, but going balls to the wall for autonomy is a blindingly obvious move. Everything else is like variations on a horse carriage.",
-   "url": "https://nitter.kareem.one/elonmusk/status/1780376546148327690#m",
-   "ts": 1713309821,
-   "id": "1780376546148327690#m"
   }
  ]
 }
