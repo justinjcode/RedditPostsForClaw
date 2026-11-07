@@ -1,27 +1,48 @@
 {
- "generated_at": "2026-11-07T04:10:21Z",
+ "generated_at": "2026-11-07T06:12:26Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "My Little Pet Project, Homepage Setup",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xpz0g5/my_little_pet_project_homepage_setup/",
+   "ts": 1794031033,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Two GPUs, multiple models, which ones should get a dedicated card?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xpyyfq/two_gpus_multiple_models_which_ones_should_get_a/",
+   "ts": 1794030829,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Ant Ling introduces Ling-3.2-flash: 560B/25B native multimodal MoE with 1M context [N]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xpye7g/ant_ling_introduces_ling32flash_560b25b_native/",
+   "ts": 1794028878,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Help with Moememos and Memos selfhosted Notes",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xpxsis/help_with_moememos_and_memos_selfhosted_notes/",
+   "ts": 1794026889,
+   "source": "Reddit"
+  },
   {
    "subreddit": "MachineLearning",
    "title": "ICLR27 math and stats paper review experience [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xpvtxt/iclr27_math_and_stats_paper_review_experience_d/",
    "ts": 1794020530,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "VaultWarden or KeePassXC",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xpvrr1/vaultwarden_or_keepassxc/",
-   "ts": 1794020358,
    "source": "Reddit"
   },
   {
@@ -137,13 +158,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Docker network configuration",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xpnina/docker_network_configuration/",
-   "ts": 1793997548,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Higgs Realtime Duplex: a 45B MoE full-duplex model that listens, watches and talks at once, and thinks, calls tools and delegates in the background [N]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xpn5pv/higgs_realtime_duplex_a_45b_moe_fullduplex_model/",
@@ -204,13 +218,6 @@
    "title": "Lamplight - Lessons Learned from Building a Local-First Harness",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpkqo2/lamplight_lessons_learned_from_building_a/",
    "ts": 1793990841,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Odograph: A self-hosted mileage tracker that calculates IRS deductions for business travel.",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xpipiz/odograph_a_selfhosted_mileage_tracker_that/",
-   "ts": 1793986128,
    "source": "Reddit"
   },
   {
@@ -288,13 +295,6 @@
    "title": "Latest Open-Source Labs are gutting away cybersecurity and reverse-engineering capabilities",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp9jt1/latest_opensource_labs_are_gutting_away/",
    "ts": 1793960917,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "How do you build visibility through open source contributions?[D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xp90lz/how_do_you_build_visibility_through_open_source/",
-   "ts": 1793958915,
    "source": "Reddit"
   },
   {
