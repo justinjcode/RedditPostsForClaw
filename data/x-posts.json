@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T01:23:37Z",
+ "generated_at": "2026-11-07T01:35:15Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -7,13 +7,23 @@
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@simonw: all instances failed"
+ ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "5 years ago Tesla Owners Silicon Valley (@teslaownersSV) Elon called catching rockets with giant chopstick arms “bananas” years before SpaceX pulled it off. “We’re talking about catching the largest flying object ever made on a giant tower with chopstick arms. It’s like Karate Kid with the fly, but much bigger.” Elon Musk, Lex Fridman Podcast #252, December 2021. Video — https://nitter.kareem.one/teslaownersSV/status/2118871003258564860#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2118876612544561449#m",
+   "ts": 1794014525,
+   "id": "2118876612544561449#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -211,15 +221,6 @@
    "url": "https://nitter.kareem.one/XFreeze/status/2118797409950339534#m",
    "ts": 1793995642,
    "id": "2118797409950339534#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon Musk tells Ron Baron why SpaceX catches Starship with the launch tower’s “chopsticks” “It’s kind of like Mr. Miyagi in Karate Kid, you know, catching the fly, but just make it bigger.” “The rocket is placed on the launch pad by the tower and then is caught by those same tower arms and placed back on the launch pad when it returns from space.” “You really couldn’t get faster reusability than landing back where you took off.” “This, in principle, would allow us to refly the rocket, the giant booster, the Super Heavy booster, once an hour.” Most rockets are still thrown away after one flight. Starship is being built to fly like an airplane. Video",
-   "url": "https://nitter.kareem.one/KanekoaTheGreat/status/2118794459836268646#m",
-   "ts": 1793994939,
-   "id": "2118794459836268646#m"
   },
   {
    "handle": "elonmusk",
