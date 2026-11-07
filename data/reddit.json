@@ -1,15 +1,36 @@
 {
- "generated_at": "2026-11-07T20:08:26Z",
+ "generated_at": "2026-11-07T22:07:38Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Personal health assistant ?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xqi1iy/personal_health_assistant/",
+   "ts": 1794088613,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Dispatcharr TV Guide Refresh w/o EPG",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xqgilc/dispatcharr_tv_guide_refresh_wo_epg/",
+   "ts": 1794084462,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Combinatorial Optimization with Pointer Networks: Theory, Benchmarks, and Limitations [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xqgg4v/combinatorial_optimization_with_pointer_networks/",
+   "ts": 1794084274,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "homelab improvements/optimizations/replacements?",
@@ -26,6 +47,13 @@
   },
   {
    "subreddit": "selfhosted",
+   "title": "PSA - Immich defaults to a full file checksum integrity check of all images every night",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xqdi7y/psa_immich_defaults_to_a_full_file_checksum/",
+   "ts": 1794076657,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
    "title": "BookOrbit: Removed books and statistics",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xqdgi7/bookorbit_removed_books_and_statistics/",
    "ts": 1794076540,
@@ -36,13 +64,6 @@
    "title": "Use your phone to monitor anything with local models! Demo of my Open Source and 100% local agent (iOS and Android!)",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqd058/use_your_phone_to_monitor_anything_with_local/",
    "ts": 1794075401,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "ELK for AWS Services (Lambda, EC2, AWS IoT Core)",
-   "url": "https://www.reddit.com/r/programming/comments/1xqc9wp/elk_for_aws_services_lambda_ec2_aws_iot_core/",
-   "ts": 1794073572,
    "source": "Reddit"
   },
   {
@@ -120,13 +141,6 @@
    "title": "Obsessive-1.7B: a 1.1 GB web-search subagent",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq4yju/obsessive17b_a_11_gb_websearch_subagent/",
    "ts": 1794053609,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Replycant - self-hosted image storage",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xq4uhp/replycant_selfhosted_image_storage/",
-   "ts": 1794053212,
    "source": "Reddit"
   },
   {
@@ -263,13 +277,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "M1 Pro, 16GB as a homelab or shall I sell it for a mini pc?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xpp27c/m1_pro_16gb_as_a_homelab_or_shall_i_sell_it_for_a/",
-   "ts": 1794001383,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "What exactly is the relationship between ML academia and industry/big tech nowadays (2026)? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xponb2/what_exactly_is_the_relationship_between_ml/",
@@ -298,24 +305,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Seerr Help",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xphgvi/seerr_help/",
-   "ts": 1793983301,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "ICLR 2027 Review Scores [N]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xpedgc/iclr_2027_review_scores_n/",
    "ts": 1793975861,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "ICLR 2027 Reviews are out [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xpc9sh/iclr_2027_reviews_are_out_d/",
-   "ts": 1793970189,
    "source": "Reddit"
   },
   {
@@ -414,6 +407,13 @@
    "title": "Shlemiel the Painter Is Back: How Zig’s libc Rewrite Made SQLite 12,000× Slower",
    "url": "https://www.reddit.com/r/programming/comments/1xnq1xx/shlemiel_the_painter_is_back_how_zigs_libc/",
    "ts": 1793803618,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "A Maintainer's Advice on Contributing to Open Source in 2026",
+   "url": "https://www.reddit.com/r/programming/comments/1xnjvkx/a_maintainers_advice_on_contributing_to_open/",
+   "ts": 1793784389,
    "source": "Reddit"
   },
   {
