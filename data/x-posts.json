@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-07T04:43:45Z",
+ "generated_at": "2026-11-07T04:53:49Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
   {
@@ -172,7 +171,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "recap video AI.Engineer 🔜 Shanghai & SF CODE (@aiDotEngineer) 衷心感谢, AIE 上海！ ❤️👨‍💻🇨🇳 everyone congratulate @StandupPartners on hosting the first EVER AI Engineer in China! Video — https://nitter.kareem.one/aiDotEngineer/status/2118831109396193635#m",
+   "text": "recap video AI.Engineer 🔜 CODE (@aiDotEngineer) 衷心感谢, AIE 上海！ ❤️👨‍💻🇨🇳 everyone congratulate @StandupPartners on hosting the first EVER AI Engineer in China! Video — https://nitter.kareem.one/aiDotEngineer/status/2118831109396193635#m",
    "url": "https://nitter.kareem.one/swyx/status/2118831214308262043#m",
    "ts": 1794003702,
    "id": "2118831214308262043#m"
