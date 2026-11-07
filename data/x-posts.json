@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-07T17:24:22Z",
+ "generated_at": "2026-11-07T17:34:55Z",
  "accounts_ok": [
-  "TheRundownAI",
+  "Lingling_Wei",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@swyx: all instances failed",
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
- "count": 177,
+ "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "True Alan Dail (@alandail) Not only that, Tesla open sources their patents. Competitors are free to copy them. — https://nitter.kareem.one/alandail/status/2119067057643819026#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2119117494992478449#m",
+   "ts": 1794071956,
+   "id": "2119117494992478449#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -59,6 +68,15 @@
    "url": "https://nitter.kareem.one/XFreeze/status/2119105020423799051#m",
    "ts": 1794068982,
    "id": "2119105020423799051#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "SpaceX has just released a new blog about Starship's upcoming 15th flight planned for Nov 13 with more info about what to expect, the significance of this flight, and their approach to safety: \"Starship is preparing to take a major step towards full reusability: bringing the Starship upper stage back to the launch site for a catch by the tower at Starbase. To return Starship to Starbase, the spacecraft must now fly a safe trajectory that will take it over inhabited areas in northern Mexico and southern Texas to reach its launch site for catch. Like previous flight testing and the first successful mission to orbit, Starship’s flight profile for this ambitious mission is being designed with opportunities to safely end the mission early if necessary and will follow strict criteria before committing to the final phases of flight. OUR APPROACH TO A SAFE RETURN: On Flight 15, Starship will initially launch to a passively safe suborbital trajectory. This is the same flight profile used on Starship’s first orbital mission and ensures that any issues encountered during ascent or shortly thereafter will result in Starship reentering over a cleared area of the Indian Ocean. After this initial ascent, flight controllers will assess the health of Starship’s systems before giving a “go” or “no-go” for orbit. If “go”, Starship will then perform an orbital insertion burn with a single Raptor sea-level engine, increasing its speed and achieving orbit around Earth. Once on orbit, Starship will",
+   "url": "https://nitter.kareem.one/SawyerMerritt/status/2119097866123624773#m",
+   "ts": 1794067276,
+   "id": "2119097866123624773#m"
   },
   {
    "handle": "elonmusk",
@@ -154,10 +172,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "5 years ago Elon Musk (@elonmusk) And ship will be caught by Mechazilla too. As with booster, no landing legs. Those are only needed for moon & Mars until there is local infrastructure. — https://nitter.kareem.one/elonmusk/status/1426199109585756163#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118935230182805688#m",
-   "ts": 1794028501,
-   "id": "2118935230182805688#m"
+   "text": "天呐，海底光缆统治世界的时代要结束了，又要见证历史了🤯。。 马斯克首次公布 Starlink V4 的极端参数：性能直接跳涨一百倍，光速天然快了一点四倍且不用绕大陆架，上千万条激光链路正在把地球通信主干搬上深空。 绝大多数人至今依然以为，星链只是给偏远山区、游艇和飞机提供网络补丁的边缘工具。 直到马斯克刚刚在最新的投资人会议上摊开底牌，很多人才第一次看懂 SpaceX 真正的阳谋：把构筑人类现代文明的海底光缆网络，从大洋深处连根拔起，彻底搬到太空。 这里藏着一个极度反直觉的物理常识： 光在太空真空中的传播速度，比在玻璃光纤里整整快了 40%。 更致命的是几何路径的差异。海底光缆必须顺着大陆架和海沟蜿蜒曲折地绕远路，而太空中的卫星激光链路，两点之间永远是沿着大圆航线在真空中直线对穿。这意味着在跨洋超长距离通信上，太空激光的延迟天然比地面光缆更低。 而阻碍这件事过去的唯一瓶颈，是带宽密度。 马斯克这次直接给出了技术迭代的量化终局： 从 V2 到即将落地的 V4 卫星，单星吞吐能力将直接迎来 100 倍的暴力跃升。 在更长期的宏大蓝图里，超过 10 万颗卫星组成的轨道阵列，每颗都将配备大约 100 个传输速率超 10 Tbps 的光学激光器，在地球外围织成一张百 Exabit 级别的无缝高速网状路由。 这已经不是在做卫星宽带了，这是在用火箭把全球互联网的核心骨干网整个重写一遍。 海底光缆容易被地质地震震断、被船锚挂伤，更深陷地缘博弈的物理封锁；而悬在头顶的真空激光网络，既没有折射损耗，也没有无法逾越的地理边界。 人类用了上百年时间，把铜线和光纤一根根沉入海底来连接彼此；而未来的文明动脉，注定要在没有阻力的星空里以光速奔流。 Video AYi (@AYi_AInotes) 马斯克刚刚把全球半导体制造行业最后一点虚伪的遮羞布撕碎了， 老马透露今年全世界除了他以外生产的所有 AI 芯片加起来大概只有二十吉瓦，而他正在秘密推进的超级芯片工厂 TeraFab，终极目标是把年产量直接干到整整一太瓦，也就是明年全球总产量的三十倍。 当大多数科技巨头还在为了抢台积电几万片先进封装配额打破头的时候， 马斯克对 TeraFab 这个名字给出的三重拆解，已经把工业狂人的冷血算盘展现得淋漓尽致，它既谐音代表让人毛骨悚然的恐怖， 也代表扎根于这颗星球的土地，但底层最纯粹的本质就是物理学上的太瓦，一个大到超出人类现行半导体常识的超级怪兽。 按照目前的全球供应链节奏，明年全世界哪怕把吃奶的力气用上，全部 AI 芯片的总功耗产能预计也就只能爬坡到三十五到四十五吉瓦， 在传统半导体代工厂眼里这已经算得上是跨越式的军备竞赛，但放在马斯克以太瓦为单位丈量的物理世界里，整个人类现存的芯片制造体系加在一起，弱小得就像是手工作坊在小打小闹。 这其实彻底挑明了软硬件协同演进的一条绝情铁律，任何把通用人工智能挂在嘴边、却把晶圆制造和先进产能全部寄托给外部代工的软件公司， 本质上都是把自家大厦建在了极其脆弱的流沙上，只要产能杠杆的阀门依然被传统供应链卡在几十吉瓦的窄门里，大模型参数狂飙的尽头就必然是一堵无法逾越的物理高墙。 别再觉得一太瓦的超级工厂只是他在麦克风前的随口狂想了，当一个狠人把工业制造的目标定在超出全世界三十倍的极限位置上，他从一开始就没打算跟现有的玩家在同一个棋盘里抢饭吃，他要做的，是用工业怪兽的绝对吨位，把人类文明推进下一个计算纪元。 Video — https://nitter.kareem.one/AYi_AInotes/status/2118892954349609282#m",
+   "url": "https://nitter.kareem.one/AYi_AInotes/status/2118907113439170814#m",
+   "ts": 1794021797,
+   "id": "2118907113439170814#m"
   },
   {
    "handle": "swyx",
@@ -176,15 +194,6 @@
    "url": "https://nitter.kareem.one/latentspacepod/status/2118897749567607180#m",
    "ts": 1794019565,
    "id": "2118897749567607180#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "It’s time to put all the pieces together, the early tests to see how crazy it was to build a vehicle this size, the suborbital hops to practice subsonic maneuvering, the first real booster, expendable flight tests, trips to the Indian Ocean, and last flight with payload to orbit. We are one step away from the full mission, and that step is the double catch. We will try for the first time on flight 15. I don’t think and of us can promise it will work the first time, but getting here feels like a turning point. I still feel like there’s so much to review (and we will be doing that continuously between now and launch) but when I take a moment to stop and think about it, it is overwhelmingly exciting. This is the rocket that will build a human civilization on another planet. Elon Musk (@elonmusk) SpaceX will attempt to catch both the Super Heavy booster and Starship on the upcoming flight. If both are successful, it will mark the first time that all parts of an orbital rocket return to Earth intact. This is the critical breakthrough needed to make life multiplanetary. — https://nitter.kareem.one/elonmusk/status/2118732082843435305#m",
-   "url": "https://nitter.kareem.one/ShanaDiez/status/2118896809263169862#m",
-   "ts": 1794019341,
-   "id": "2118896809263169862#m"
   },
   {
    "handle": "thsottiaux",
