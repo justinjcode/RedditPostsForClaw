@@ -1,20 +1,48 @@
 {
- "generated_at": "2026-11-07T12:11:24Z",
+ "generated_at": "2026-11-07T14:08:14Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
   {
    "subreddit": "selfhosted",
-   "title": "Anchor v0.18.0: now available on Google Play and iOS TestFlight with a redesign",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xq4vn0/anchor_v0180_now_available_on_google_play_and_ios/",
-   "ts": 1794053329,
+   "title": "Selfhosting + Beers NL Update",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xq6z8j/selfhosting_beers_nl_update/",
+   "ts": 1794059861,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Is there a device that can play blueray discs and can also play jellyfin from my home server?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xq67vo/is_there_a_device_that_can_play_blueray_discs_and/",
+   "ts": 1794057642,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "They'll replace him with someone who opposes open source AI, won't they? ‌",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq66uy/theyll_replace_him_with_someone_who_opposes_open/",
+   "ts": 1794057558,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "TSMC might do in memory compute for us",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq65rl/tsmc_might_do_in_memory_compute_for_us/",
+   "ts": 1794057469,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Obsessive-1.7B: a 1.1 GB web-search subagent",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq4yju/obsessive17b_a_11_gb_websearch_subagent/",
+   "ts": 1794053609,
    "source": "Reddit"
   },
   {
@@ -43,6 +71,13 @@
    "title": "Any good, self-hosted family tracking app?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xq41qk/any_good_selfhosted_family_tracking_app/",
    "ts": 1794050297,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Internals of asyncio",
+   "url": "https://www.reddit.com/r/programming/comments/1xq391t/internals_of_asyncio/",
+   "ts": 1794047199,
    "source": "Reddit"
   },
   {
@@ -99,13 +134,6 @@
    "title": "Ant Ling introduces Ling-3.2-flash: 560B/25B native multimodal MoE with 1M context [N]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xpye7g/ant_ling_introduces_ling32flash_560b25b_native/",
    "ts": 1794028878,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Help with Moememos and Memos selfhosted Notes",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xpxsis/help_with_moememos_and_memos_selfhosted_notes/",
-   "ts": 1794026889,
    "source": "Reddit"
   },
   {
@@ -270,13 +298,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Oc-e-Non-v1: A language model that gets to the f*cking point",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpfhpm/ocenonv1_a_language_model_that_gets_to_the_fcking/",
-   "ts": 1793978617,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "ICLR 2027 Review Scores [N]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xpedgc/iclr_2027_review_scores_n/",
@@ -305,24 +326,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Latest Open-Source Labs are gutting away cybersecurity and reverse-engineering capabilities",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp9jt1/latest_opensource_labs_are_gutting_away/",
-   "ts": 1793960917,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Go 1.27: encoding/json/v2, Stricter Defaults, and Finally [] for Nil Slices · cekrem.github.io",
    "url": "https://www.reddit.com/r/programming/comments/1xp8b96/go_127_encodingjsonv2_stricter_defaults_and/",
    "ts": 1793956105,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Asking questions to a 0.5b model is hillarious",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp8as6/asking_questions_to_a_05b_model_is_hillarious/",
-   "ts": 1793956057,
    "source": "Reddit"
   },
   {
@@ -393,13 +400,6 @@
    "title": "ICLR 2027 Reviews Discussion [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
    "ts": 1793845079,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "How we halved DNS build delay and cut memory use by 85%",
-   "url": "https://www.reddit.com/r/programming/comments/1xnzyh6/how_we_halved_dns_build_delay_and_cut_memory_use/",
-   "ts": 1793826459,
    "source": "Reddit"
   },
   {
