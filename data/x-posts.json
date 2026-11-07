@@ -1,20 +1,38 @@
 {
- "generated_at": "2026-11-07T00:58:24Z",
+ "generated_at": "2026-11-07T01:12:50Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "bcherny",
+  "TheRundownAI",
   "elonmusk",
   "realDonaldTrump",
-  "swyx",
+  "simonw",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@swyx: all instances failed",
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Of course I Still Love You SpaceX (@SpaceX) Falcon 9’s first stage lands on the Of Course I Still Love You droneship Video — https://nitter.kareem.one/SpaceX/status/2118870818021097862#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2118872598058860671#m",
+   "ts": 1794013568,
+   "id": "2118872598058860671#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Watch Falcon 9 launch the USSF-432 mission from pad 4E in California nitterk.kareem.one/i/broadcasts/1kKzDPYrZ… Link SpaceX USSF-432 Mission https://nitter.kareem.one/i/broadcasts/1kKzDPYrZNdJv",
+   "url": "https://nitter.kareem.one/SpaceX/status/2118864998407852102#m",
+   "ts": 1794011756,
+   "id": "2118864998407852102#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -212,24 +230,6 @@
    "url": "https://nitter.kareem.one/XFreeze/status/2118789834940784716#m",
    "ts": 1793993836,
    "id": "2118789834940784716#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Armies that win have the general at the front lines. Nobody wants to bleed for the prince in the palace. KanekoaTheGreat (@KanekoaTheGreat) Ron Baron asked Elon Musk how many CEOs live on site in an Airstream and work hands-on with everyone. MUSK: “Airstreams are actually pretty nice... It’s parked right next to the power plant.” “We built this power plant that’s producing over a gigawatt... in about a year, as opposed to normally about five years.” “There is no upstairs.” He walks the entire site up to five times a day. He’s pulled power cables “the size of an anaconda,” run fiber, wired switches, and worked on the power plant software. “I try to do at least a little bit of everything, so that I’m not numb to the pain of the people who are actually doing it.” “It’s not as though I’m sitting in an office and somebody has to come to me. I’m walking the floor, asking them questions actively.” There’s a reason SpaceX is winning the compute race. Video — https://nitter.kareem.one/KanekoaTheGreat/status/2118778153711935662#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118789067571954105#m",
-   "ts": 1793993653,
-   "id": "2118789067571954105#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "~100 lasers per satellite, each operating above 10 Tb/s, with over 100k satellites should be able to outcompete undersea cables. Speed of light in space is ~40% faster than cable and the path is direct, instead of following the outline of land masses. Sawyer Merritt (@SawyerMerritt) Elon just teased SpaceX's next-gen V4 @Starlink satellites: \"Starlink version 4 will have 10x the capability of V3 (which itself is 10x better than V2), especially with the long-distance laser links. Our next-gen laser links will be 10-terabits per second. 100x better. And we'll put 10 of them on.\" Video — https://nitter.kareem.one/SawyerMerritt/status/2118783107189076137#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118788513365954734#m",
-   "ts": 1793993521,
-   "id": "2118788513365954734#m"
   },
   {
    "handle": "elonmusk",
