@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T08:26:28Z",
+ "generated_at": "2026-11-07T08:34:53Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -7,11 +7,12 @@
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@simonw: all instances failed"
+ ],
  "count": 177,
  "items": [
   {
@@ -49,6 +50,15 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118938956301779171#m",
    "ts": 1794029389,
    "id": "2118938956301779171#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Article AIE Shanghai 2026 大会印象 来源：玉伯参加 AI Engineer Shanghai 2026 大会的一些收获。不代表所有人的观感，仅代表玉伯的视角。 一、Ryo Lu：工具越强，越要留住自己的判断 Ryo Lu 做过 Cursor",
+   "url": "https://nitter.kareem.one/lifesinger/status/2118936739654046143#m",
+   "ts": 1794028861,
+   "id": "2118936739654046143#m"
   },
   {
    "handle": "elonmusk",
@@ -157,24 +167,6 @@
    "url": "https://nitter.kareem.one/CausMoney/status/2118871856388219041#m",
    "ts": 1794013391,
    "id": "2118871856388219041#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Watch Falcon 9 launch the USSF-432 mission from pad 4E in California nitterk.kareem.one/i/broadcasts/1kKzDPYrZ… Link SpaceX USSF-432 Mission https://nitter.kareem.one/i/broadcasts/1kKzDPYrZNdJv",
-   "url": "https://nitter.kareem.one/SpaceX/status/2118864998407852102#m",
-   "ts": 1794011756,
-   "id": "2118864998407852102#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "All systems are looking good, and weather is favorable for liftoff. Propellant load is about to begin for Falcon 9’s launch of the USSF-432 mission from California → spacex.com/launches/ussf432",
-   "url": "https://nitter.kareem.one/SpaceX/status/2118857663106707757#m",
-   "ts": 1794010008,
-   "id": "2118857663106707757#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -321,6 +313,15 @@
    "id": "2118762477060251823#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "There is no fact-based argument for a reduction of data center build out due to an already expected split government midterm result or the state voting initiatives. 1. If a local/state gov doesn’t want to make a deal, the cloud/hyperscaler will move to one who will . This isn’t binary, most locals are making deals. The builds over the next 1-1.5yrs are already permitted. 2. If the US as a whole rejects enough land mass where the demand for AI factories cannot be fulfilled in the US, those AI factories will move offshore repeating the prior 3 decades of globalization and hollowing out of our middle class. It was dumb back then and even dumber now given the geopolitical national security implications of AI sovereignty… @HalftimeReport @TheJudgeCNBC",
+   "url": "https://nitter.kareem.one/thejefflutz/status/2118757195877925050#m",
+   "ts": 1793986054,
+   "id": "2118757195877925050#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -355,6 +356,15 @@
    "url": "https://nitter.kareem.one/yunta_tsai/status/2118735799953101194#m",
    "ts": 1793980953,
    "id": "2118735799953101194#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Tech CEO’s on January 3, 2027",
+   "url": "https://nitter.kareem.one/alifarhat79/status/2118730774182768877#m",
+   "ts": 1793979755,
+   "id": "2118730774182768877#m"
   },
   {
    "handle": "TheRundownAI",
@@ -436,15 +446,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2118589412011622728#m",
    "ts": 1793946051,
    "id": "2118589412011622728#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Covered the future of AI on VHS tape. Slide left to see the camera 📹 @daytonaio Video",
-   "url": "https://nitter.kareem.one/joshuacirjak/status/2118580275697639695#m",
-   "ts": 1793943873,
-   "id": "2118580275697639695#m"
   },
   {
    "handle": "swyx",
