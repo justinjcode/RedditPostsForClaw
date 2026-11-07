@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-07T19:13:00Z",
+ "generated_at": "2026-11-07T19:23:14Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Most people don’t know that the best-selling car in the world is the Tesla Model Y. And the second and third best-selling cars are much cheaper. X Freeze (@XFreeze) Tesla Model Y has been the world’s best-selling passenger vehicle for 3 consecutive years 2023 → #1 2024 → #1 2025 → #1 Model Y alone has surpassed 4 million global sales, while Tesla has now delivered more than 10 million vehicles worldwide Not just the best-selling EV Model Y beat every gas, hybrid and electric passenger vehicle worldwide for three straight years An electric car reaching this scale would have sounded impossible not long ago Now millions of Model Ys are on roads around the world — https://nitter.kareem.one/XFreeze/status/2119144915456417842#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2119146526899396725#m",
+   "ts": 1794078878,
+   "id": "2119146526899396725#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -446,15 +454,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2118764731276444066#m",
    "ts": 1793987851,
    "id": "2118764731276444066#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "There is no fact-based argument for a reduction of data center build out due to an already expected split government midterm result or the state voting initiatives. 1. If a local/state gov doesn’t want to make a deal, the cloud/hyperscaler will move to one who will . This isn’t binary, most locals are making deals. The builds over the next 1-1.5yrs are already permitted. 2. If the US as a whole rejects enough land mass where the demand for AI factories cannot be fulfilled in the US, those AI factories will move offshore repeating the prior 3 decades of globalization and hollowing out of our middle class. It was dumb back then and even dumber now given the geopolitical national security implications of AI sovereignty… @HalftimeReport @TheJudgeCNBC",
-   "url": "https://nitter.kareem.one/thejefflutz/status/2118757195877925050#m",
-   "ts": 1793986054,
-   "id": "2118757195877925050#m"
   },
   {
    "handle": "swyx",
