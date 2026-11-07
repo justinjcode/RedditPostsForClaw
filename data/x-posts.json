@@ -1,20 +1,38 @@
 {
- "generated_at": "2026-11-07T17:13:29Z",
+ "generated_at": "2026-11-07T17:24:22Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "ZichenWanghere",
-  "bcherny",
+  "TheRundownAI",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "they are starting to believe Chrys Bader (@chrysb) ❌ pay mixpanel $20K+ for another year ✅ build in-house mixpanel with agent mixpanel told us they were increasing costs by 17% - the audacity — https://nitter.kareem.one/chrysb/status/2119116104715169861#m",
+   "url": "https://nitter.kareem.one/swyx/status/2119116259921191413#m",
+   "ts": 1794071662,
+   "id": "2119116259921191413#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starship flight maneuvers",
+   "url": "https://nitter.kareem.one/elonmusk/status/2119114815931039992#m",
+   "ts": 1794071318,
+   "id": "2119114815931039992#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -41,6 +59,15 @@
    "url": "https://nitter.kareem.one/XFreeze/status/2119105020423799051#m",
    "ts": 1794068982,
    "id": "2119105020423799051#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "SpaceX has officially announced that it is currently targeting November 13th at 5:45 PM ET for Starship's 15th flight. Flight info: \"This flight is planned to be the first to return both Starship and Super Heavy to the launch site for catch. If successful, this will mark the first full recovery of an orbital launch system and a breakthrough moment in making Starship a reliable, rapidly reusable rocket.\" • Flight will last more than 22 hours, completing approximately 14 orbits around Earth. • Starship will orbit at an altitude of approximately 275 km (171 miles). • First attempt to recover both Super Heavy and Starship at the launch site during the same mission. • First return-to-launch-site and catch attempt for a Super Heavy V3 booster. • Super Heavy will execute launch, ascent, stage separation, boostback burn, and return to Starbase for a tower catch. • Starship will deploy 26 Starlink V3 satellites into orbit before attempting its first return to Starbase and tower catch. • The 26 satellites will provide capacity equivalent to approximately 10 Falcon 9 launches carrying Starlink V2 Mini satellites. • Satellites will deploy antennas and solar arrays, establish radio and laser communications, and raise their orbits using onboard thrusters. • Satellites could begin serving customers within weeks of launch following successful on-orbit checkouts. • Three Starlink V3 satellites will carry cameras to inspect Starship's heatshield and transmit imagery to ground operators. • Star",
+   "url": "https://nitter.kareem.one/SawyerMerritt/status/2119095373620736058#m",
+   "ts": 1794066682,
+   "id": "2119095373620736058#m"
   },
   {
    "handle": "elonmusk",
@@ -158,15 +185,6 @@
    "url": "https://nitter.kareem.one/ShanaDiez/status/2118896809263169862#m",
    "ts": 1794019341,
    "id": "2118896809263169862#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "In the coming years, @Neuralink will enable people to walk and use their hands again Tesla Owners Silicon Valley (@teslaownersSV) Neuralink gave Noland Arbaugh something to wake up for. “I didn’t have anything to wake up for in the morning, and this has changed that for me.” @elonmusk says he’s fairly confident Neuralink could restore full-body functionality at some point in the future—not a capability achieved today. Video — https://nitter.kareem.one/teslaownersSV/status/2118881685521740104#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118884500201787770#m",
-   "ts": 1794016406,
-   "id": "2118884500201787770#m"
   },
   {
    "handle": "thsottiaux",
@@ -430,15 +448,6 @@
    "id": "2118716240332197976#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I'm telling you Grok's speech-to-text literally the best there is I was literally talking to Grok with music blasting right next to my ears. It was so loud that the person next to me could barely hear me talking Yet Grok was transcribing everything incredibly accurately It's gotten so good that I trust it way too much now. I don't even bother checking the text after talking to Grok Bot anymore You can try it it's unbelievably good",
-   "url": "https://nitter.kareem.one/XFreeze/status/2118696586213756935#m",
-   "ts": 1793971604,
-   "id": "2118696586213756935#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -455,15 +464,6 @@
    "url": "https://nitter.kareem.one/sjdedic/status/2118688674548265131#m",
    "ts": 1793969718,
    "id": "2118688674548265131#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "ok this is just ridiculous Thinking Machines (@thinkymachines) Introducing Inkling 2 Small. Scoring 31 on the AA Intelligence Index, it's a big jump over its predecessor. Inkling 2 Small is available for fine-tuning and inference on Tinker today, with full weight release planned soon. thinkingmachines.ai/news/ink… Link Introducing Inkling 2 Small Today we are introducing the second generation of Inkling models with the release of Inkling 2 Small. thinkingmachines.ai — https://nitter.kareem.one/thinkymachines/status/2118489527362912566#m",
-   "url": "https://nitter.kareem.one/swyx/status/2118642061515936142#m",
-   "ts": 1793958604,
-   "id": "2118642061515936142#m"
   },
   {
    "handle": "thsottiaux",
