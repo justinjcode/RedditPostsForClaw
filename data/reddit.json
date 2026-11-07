@@ -1,15 +1,29 @@
 {
- "generated_at": "2026-11-07T06:12:26Z",
+ "generated_at": "2026-11-07T08:10:38Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Why we moved away from NVIDIA MIG and HAMi GPU fractions for multi-model inference on EKS",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xq0eeh/why_we_moved_away_from_nvidia_mig_and_hami_gpu/",
+   "ts": 1794036063,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Feeling like Xmas",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpzfjv/feeling_like_xmas/",
+   "ts": 1794032512,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "My Little Pet Project, Homepage Setup",
@@ -39,10 +53,31 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "Another benchmark has hit the quant war",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpxfob/another_benchmark_has_hit_the_quant_war/",
+   "ts": 1794025699,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Good Luck Getting a Cheap GPU. AMD Is a 'Data Center First Company,' CEO Says",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpx0on/good_luck_getting_a_cheap_gpu_amd_is_a_data/",
+   "ts": 1794024332,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "MachineLearning",
    "title": "ICLR27 math and stats paper review experience [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xpvtxt/iclr27_math_and_stats_paper_review_experience_d/",
    "ts": 1794020530,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "VaultWarden or KeePassXC",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xpvrr1/vaultwarden_or_keepassxc/",
+   "ts": 1794020358,
    "source": "Reddit"
   },
   {
@@ -99,13 +134,6 @@
    "title": "Server setup help/advice",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xpqatz/server_setup_helpadvice/",
    "ts": 1794004542,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Scylla's Band v4, open source TTS with code to run everywhere",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpq3l0/scyllas_band_v4_open_source_tts_with_code_to_run/",
-   "ts": 1794004019,
    "source": "Reddit"
   },
   {
@@ -214,13 +242,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Lamplight - Lessons Learned from Building a Local-First Harness",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpkqo2/lamplight_lessons_learned_from_building_a/",
-   "ts": 1793990841,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Seerr Help",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xphgvi/seerr_help/",
@@ -246,20 +267,6 @@
    "title": "ICLR 2027 Review Scores [N]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xpedgc/iclr_2027_review_scores_n/",
    "ts": 1793975861,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Looking for a true 1:1 complete GitHub backup solution (LFS, releases, wikis, issues/PRs) across multiple accounts — storage is not an issue",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xpe5l8/looking_for_a_true_11_complete_github_backup/",
-   "ts": 1793975300,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "A 0.1B model just killed 8B embedding models... I tried it out.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpdk0i/a_01b_model_just_killed_8b_embedding_models_i/",
-   "ts": 1793973757,
    "source": "Reddit"
   },
   {
@@ -344,13 +351,6 @@
    "title": "Modern Java at Stripe: Language upgrades as a service",
    "url": "https://www.reddit.com/r/programming/comments/1xov21m/modern_java_at_stripe_language_upgrades_as_a/",
    "ts": 1793914589,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "openssh on musl (eg. alpine) accepts any password > 256 characters for accounts with login disabled",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xojnsm/openssh_on_musl_eg_alpine_accepts_any_password/",
-   "ts": 1793887979,
    "source": "Reddit"
   },
   {
