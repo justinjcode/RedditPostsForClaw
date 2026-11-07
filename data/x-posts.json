@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-07T01:53:24Z",
+ "generated_at": "2026-11-07T02:08:26Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed"
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "In the coming years, @Neuralink will enable people to walk and use their hands again Tesla Owners Silicon Valley (@teslaownersSV) Neuralink gave Noland Arbaugh something to wake up for. “I didn’t have anything to wake up for in the morning, and this has changed that for me.” @elonmusk says he’s fairly confident Neuralink could restore full-body functionality at some point in the future—not a capability achieved today. Video — https://nitter.kareem.one/teslaownersSV/status/2118881685521740104#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2118884500201787770#m",
+   "ts": 1794016406,
+   "id": "2118884500201787770#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -226,15 +235,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Elon Musk just revealed that digital superintelligence will increase the entire global economy by 20–30%, adding approximately $25 trillion in economic output And this transformation is going to happen incredibly fast Here's the scale of what's coming: • Global economy: ~$130 TRILLION • Digital superintelligence impact: +20–30% • Potential economic expansion: $25 trillion or more • Humanoid robotics: NOT EVEN INCLUDED in these projections And that's what makes this so extraordinary This is the impact of digital superintelligence alone, before accounting for the enormous productivity gains from humanoid robots operating across factories, businesses and entire industries The combination of digital superintelligence and physical robotics represents an economic transformation on a scale humanity has never experienced And this is only the beginning of what superintelligence will unlock for humanity Video",
-   "url": "https://nitter.kareem.one/XFreeze/status/2118797409950339534#m",
-   "ts": 1793995642,
-   "id": "2118797409950339534#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "We may succeed at this attempt, we may also fail, but the likelihood of success in the near term is high. Then we will optimize -> accelerate. Elon Musk (@elonmusk) SpaceX will attempt to catch both the Super Heavy booster and Starship on the upcoming flight. If both are successful, it will mark the first time that all parts of an orbital rocket return to Earth intact. This is the critical breakthrough needed to make life multiplanetary. — https://nitter.kareem.one/elonmusk/status/2118732082843435305#m",
    "url": "https://nitter.kareem.one/edwards345/status/2118791889633804493#m",
    "ts": 1793994326,
@@ -248,15 +248,6 @@
    "url": "https://nitter.kareem.one/XFreeze/status/2118791290930532617#m",
    "ts": 1793994183,
    "id": "2118791290930532617#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon Musk just confirmed that SpaceX is preparing to attempt the FIRST-EVER tower catch of a Starship upper stage with Ship 42 in about ONE WEEK SpaceX has already achieved multiple precise, controlled soft landings of Starship in the ocean Elon revealed that these landings were so accurate that if a catch tower had been positioned at those locations, Starship would have been caught But bringing a massive spacecraft back to the actual launch tower requires an entirely different level of confidence SpaceX has been working to ensure the ship is reliable enough to return without damaging the tower or putting people at risk from falling debris And SpaceX reached that point Ship 42 is being prepared for the first attempt to catch a Starship upper stage with the launch tower And there's another interesting detail Elon highlighted that 42 is a special number, making Ship 42 a fitting vehicle for this historic attempt This is the breakthrough Starship needs to achieve FULL AND RAPID REUSABILITY For the first time ever, SpaceX is preparing to bring the entire Starship rocket back for recovery using its launch tower Video",
-   "url": "https://nitter.kareem.one/XFreeze/status/2118789834940784716#m",
-   "ts": 1793993836,
-   "id": "2118789834940784716#m"
   },
   {
    "handle": "elonmusk",
@@ -401,6 +392,15 @@
    "url": "https://nitter.kareem.one/xuanalogue/status/2118716240332197976#m",
    "ts": 1793976290,
    "id": "2118716240332197976#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "I'm telling you Grok's speech-to-text literally the best there is I was literally talking to Grok with music blasting right next to my ears. It was so loud that the person next to me could barely hear me talking Yet Grok was transcribing everything incredibly accurately It's gotten so good that I trust it way too much now. I don't even bother checking the text after talking to Grok Bot anymore You can try it it's unbelievably good",
+   "url": "https://nitter.kareem.one/XFreeze/status/2118696586213756935#m",
+   "ts": 1793971604,
+   "id": "2118696586213756935#m"
   },
   {
    "handle": "ZichenWanghere",
