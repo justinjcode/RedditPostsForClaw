@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-07T19:34:32Z",
+ "generated_at": "2026-11-07T19:43:36Z",
  "accounts_ok": [
   "TheRundownAI",
   "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
-  "@swyx: all instances failed",
   "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "There are efficiency improvements coming that will allow for a 40kWh Cybercab pack. We will make this in liquid silver, so the colors are not too monotonous. The biggest thing most people fail to understand is that there are a very limited number of smart, dedicated people! They can only do so many things. If we have to maintain a complex production line, supply chain and allocate engineering for Cybertruck, we can’t use those people or factory space and machinery for scaling Cybercab, which is the vehicle that will PROFOUNDLY transform the world of terrestrial transport!",
+   "url": "https://nitter.kareem.one/elonmusk/status/2119152839813456261#m",
+   "ts": 1794080383,
+   "id": "2119152839813456261#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -383,15 +392,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118802895604994463#m",
    "ts": 1793996950,
    "id": "2118802895604994463#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon Musk is a free speech champion.",
-   "url": "https://nitter.kareem.one/Edison1HQ/status/2118792729476174089#m",
-   "ts": 1793994526,
-   "id": "2118792729476174089#m"
   },
   {
    "handle": "swyx",
