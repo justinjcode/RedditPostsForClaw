@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-07T03:43:55Z",
+ "generated_at": "2026-11-07T03:53:48Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
-  "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed"
+  "@realDonaldTrump: all instances failed",
+  "@Lingling_Wei: all instances failed"
  ],
- "count": 178,
+ "count": 177,
  "items": [
   {
    "handle": "swyx",
@@ -221,15 +221,6 @@
    "url": "https://nitter.kareem.one/cb_doge/status/2118822261088190714#m",
    "ts": 1794001567,
    "id": "2118822261088190714#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "It’s true Sawyer Merritt (@SawyerMerritt) Elon Musk says the lack of popularity for data centers is temporary because of the prosperity that is brought by them: \"The lack of popularity is where there aren't data centers and they think a data center will have a bad effect. Memphis is booming because of @SpaceX . The restaurants are full, the hotels are full, we're paying twice the prevailing wage people were earning before. We've also helped local schools. And the tax revenue the county and city are earnings is tremendous. I think this popularity thing is a temporary concern because there actually is tremendous prosperity that is brought by the data centers. Talk to the people in town and they feel it because their businesses are booming.\" (via 33rd Annual Baron Investment Conference today in NYC) Video — https://nitter.kareem.one/SawyerMerritt/status/2118777339085529409#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118817587203322349#m",
-   "ts": 1794000453,
-   "id": "2118817587203322349#m"
   },
   {
    "handle": "elonmusk",
