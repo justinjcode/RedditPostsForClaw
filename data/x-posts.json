@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-07T06:43:33Z",
+ "generated_at": "2026-11-07T06:53:04Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed"
+  "@simonw: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "True Crémieux (@cremieuxrecueil) Whenever people say the U.S. has a lot of starvation, it's like they're saying they don't realize the poor have obesity issues these days. — https://nitter.kareem.one/cremieuxrecueil/status/2118953104637141072#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2118956856978653374#m",
+   "ts": 1794033657,
+   "id": "2118956856978653374#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -187,15 +196,6 @@
    "id": "2118854441063600539#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Good breakdown of the interview with Ron Baron DogeDesigner (@cb_doge) Here’s the full interview of @elonmusk with Ron Baron 0:13 - Exciting times ahead 0:21 - First principles and TerraFab 2:18 - Chip fabs geopolitical risk 5:51 - Terawatt scale ambition 6:14 - Trillion dollar phased build 7:36 - Why others don’t improve 7:49 - Austin research fab iteration 10:49 - Culture of speed and ideas 13:48 - Walking the floor hands-on 15:39 - Data centers pitchforks 16:44 - OpenAI origins Anthropic 18:09 - Building data centers fast 20:01 - Revenue exploding Jose meme 23:16 - Model Y best in China 23:28 - China ownership exception 24:50 - ARR to five hundred billion 27:45 - Digital AI economy boost 28:21 - Robotics five times productivity 30:10 - Rent robots not sell 30:41 - Memphis community benefits 32:55 - Data centers in space 33:35 - StarMind and space power 36:26 - Cost to orbit history 36:52 - Falcon nine reusability limits 39:09 - Hourly launches Starship size 40:25 - Chopsticks and heat shield 44:30 - Starship unlocks Starlink 46:49 - Agentic traffic thousand times 48:09 - Starlink V3 bandwidth explosion 51:26 - Spectrum and telcos 52:43 - Satellite replacement cycle 53:17 - Laser links hundred times 53:55 - Competing with China power 55:37 - Space intelligence advantage 57:19 - Demand from superintelligence 58:02 - Universal high income future 1:00:43 - Legacy contribution Video — https://nitter.kareem.one/cb_doge/status/2118803735573070329#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118850719944212645#m",
-   "ts": 1794008352,
-   "id": "2118850719944212645#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -266,15 +266,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118802895604994463#m",
    "ts": 1793996950,
    "id": "2118802895604994463#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "We may succeed at this attempt, we may also fail, but the likelihood of success in the near term is high. Then we will optimize -> accelerate. Elon Musk (@elonmusk) SpaceX will attempt to catch both the Super Heavy booster and Starship on the upcoming flight. If both are successful, it will mark the first time that all parts of an orbital rocket return to Earth intact. This is the critical breakthrough needed to make life multiplanetary. — https://nitter.kareem.one/elonmusk/status/2118732082843435305#m",
-   "url": "https://nitter.kareem.one/edwards345/status/2118791889633804493#m",
-   "ts": 1793994326,
-   "id": "2118791889633804493#m"
   },
   {
    "handle": "elonmusk",
@@ -446,6 +437,15 @@
    "url": "https://nitter.kareem.one/uspolitics1111/status/2118690421119295643#m",
    "ts": 1793970134,
    "id": "2118690421119295643#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Here's some fuel for all the Europoor haters: Germany just told us we'd have to fire one of our 3 founders to qualify for funding. I was in talks with a German state-backed fund of fund managing billions, with one single mandate: invest in German funds to drive innovation and economic growth in the country. They literally told me they like us a lot and are also impressed by our track record and performance so far, and even though not everyone in their team is a fan of our thesis, they believe in it. But they passed for a whole different reason: Because our all-male team of 3 people isn't \"diverse enough\" lol. they literally told me: hire two more female partners (impossible on the economics of a fund our size), or let one of the three of us go to make room for a quota hire. do that, and they'd strongly consider investing. I won't even get into how discriminatory this is toward men in the first place. nobody takes that seriously anyway, and honestly I don't care. but what actually gets me is something bigger: as a German, I have to face the fact that the whole world continuing to laugh at Germany and overall Europe is completely justified. a system that quietly kills the smallest, hungriest teams, the exact ones this money was created to support. and then everyone acts surprised that talent and capital keep leaving the country.",
+   "url": "https://nitter.kareem.one/sjdedic/status/2118688674548265131#m",
+   "ts": 1793969718,
+   "id": "2118688674548265131#m"
   },
   {
    "handle": "swyx",
