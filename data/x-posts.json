@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T19:05:46Z",
+ "generated_at": "2026-11-07T19:13:00Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -15,6 +15,15 @@
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Who put your beliefs into your head? It probably wasn’t you. SXSI.com (@SXSIcom) who is prompting you? $CLAUDIA contest entry by @PinelandLabs clip's 2:19 — full video + vote → sxsi.com/s/contest-who-is-pr… Video — https://nitter.kareem.one/SXSIcom/status/2118918964185383075#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2119144684299915299#m",
+   "ts": 1794078439,
+   "id": "2119144684299915299#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -464,15 +473,6 @@
    "url": "https://nitter.kareem.one/Birdyword/status/2118740366878724328#m",
    "ts": 1793982042,
    "id": "2118740366878724328#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Tech CEO’s on January 3, 2027",
-   "url": "https://nitter.kareem.one/alifarhat79/status/2118730774182768877#m",
-   "ts": 1793979755,
-   "id": "2118730774182768877#m"
   },
   {
    "handle": "TheRundownAI",
@@ -1330,9 +1330,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
