@@ -1,15 +1,43 @@
 {
- "generated_at": "2026-11-07T00:19:22Z",
+ "generated_at": "2026-11-07T02:12:21Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
-  "programming"
+  "programming",
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "MachineLearning",
+   "title": "ICLR position paper criticized for lacking experiments and making speculative claims — how to respond? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xpu5g0/iclr_position_paper_criticized_for_lacking/",
+   "ts": 1794015394,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Libghostty 1.0",
+   "url": "https://www.reddit.com/r/programming/comments/1xptemt/libghostty_10/",
+   "ts": 1794013230,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Launched a server explorer for Speedtest Tracker",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xpt8ww/launched_a_server_explorer_for_speedtest_tracker/",
+   "ts": 1794012778,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "ML conferences. What do you think about reviewer comments that ask for additional experiments? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xpsj1p/ml_conferences_what_do_you_think_about_reviewer/",
+   "ts": 1794010667,
+   "source": "Reddit"
+  },
   {
    "subreddit": "MachineLearning",
    "title": "ICLR 2027's new 1–4 scale: a 2, 2, 3 is better than it feels [P]",
@@ -22,6 +50,13 @@
    "title": "Six Pallets of NVIDIA Hardware Worth $11.4 Million Stolen on the Way to Texas",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpqx1p/six_pallets_of_nvidia_hardware_worth_114_million/",
    "ts": 1794006201,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Server setup help/advice",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xpqatz/server_setup_helpadvice/",
+   "ts": 1794004542,
    "source": "Reddit"
   },
   {
@@ -53,10 +88,31 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "selfhosted",
+   "title": "M1 Pro, 16GB as a homelab or shall I sell it for a mini pc?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xpp27c/m1_pro_16gb_as_a_homelab_or_shall_i_sell_it_for_a/",
+   "ts": 1794001383,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "MachineLearning",
    "title": "What exactly is the relationship between ML academia and industry/big tech nowadays (2026)? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xponb2/what_exactly_is_the_relationship_between_ml/",
    "ts": 1794000349,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "WD MyCloud support caught me off guard.",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xpo77q/wd_mycloud_support_caught_me_off_guard/",
+   "ts": 1793999227,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Docker network configuration",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xpnina/docker_network_configuration/",
+   "ts": 1793997548,
    "source": "Reddit"
   },
   {
@@ -109,6 +165,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "selfhosted",
+   "title": "Projects to replace the lost RSS feeds?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xpkrec/projects_to_replace_the_lost_rss_feeds/",
+   "ts": 1793990890,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "LocalLLaMA",
    "title": "Lamplight - Lessons Learned from Building a Local-First Harness",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpkqo2/lamplight_lessons_learned_from_building_a/",
@@ -148,13 +211,6 @@
    "title": "ICLR27: Reviewer says my paper is too close to the same paper that I previously had in a workshop. [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xpf4t6/iclr27_reviewer_says_my_paper_is_too_close_to_the/",
    "ts": 1793977758,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "What's missing or annoying in your setup?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xpexdx/whats_missing_or_annoying_in_your_setup/",
-   "ts": 1793977267,
    "source": "Reddit"
   },
   {
@@ -207,13 +263,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "I need some guidance after a six month hiatus [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xpb6kb/i_need_some_guidance_after_a_six_month_hiatus_r/",
-   "ts": 1793966802,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Latest Open-Source Labs are gutting away cybersecurity and reverse-engineering capabilities",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp9jt1/latest_opensource_labs_are_gutting_away/",
@@ -225,13 +274,6 @@
    "title": "How do you build visibility through open source contributions?[D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xp90lz/how_do_you_build_visibility_through_open_source/",
    "ts": 1793958915,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "I want to give my unused iPad (9th Generation with A19) a new purpose",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xp8jzk/i_want_to_give_my_unused_ipad_9th_generation_with/",
-   "ts": 1793957069,
    "source": "Reddit"
   },
   {
@@ -253,20 +295,6 @@
    "title": "How software got here: 60 milestones from 1945 to 2025, each with its original source (interactive timeline)",
    "url": "https://www.reddit.com/r/programming/comments/1xp7rf0/how_software_got_here_60_milestones_from_1945_to/",
    "ts": 1793953899,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Lightweight self-hosted ImprovMX alternative",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xp6edz/lightweight_selfhosted_improvmx_alternative/",
-   "ts": 1793948499,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Flexprice or Lago for self-hosted usage billing? Which would you trust?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xp403w/flexprice_or_lago_for_selfhosted_usage_billing/",
-   "ts": 1793940080,
    "source": "Reddit"
   },
   {
@@ -319,13 +347,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "Looking for Emergency Reviewers [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xoqca2/looking_for_emergency_reviewers_r/",
-   "ts": 1793903463,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "openssh on musl (eg. alpine) accepts any password > 256 characters for accounts with login disabled",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xojnsm/openssh_on_musl_eg_alpine_accepts_any_password/",
@@ -347,24 +368,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "FareBot: a self-hosted Telegram bot that tracks Google Flights prices and alerts you when they drop",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xojehe/farebot_a_selfhosted_telegram_bot_that_tracks/",
-   "ts": 1793887341,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Do not ask \"Is A a B?\": Inheritance and the Is-A Trap",
    "url": "https://www.reddit.com/r/programming/comments/1xohfz9/do_not_ask_is_a_a_b_inheritance_and_the_isa_trap/",
    "ts": 1793881819,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "changedetection.io - Yearly update :)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xoh9mu/changedetectionio_yearly_update/",
-   "ts": 1793881268,
    "source": "Reddit"
   },
   {
@@ -407,13 +414,6 @@
    "title": "Shlemiel the Painter Is Back: How Zig’s libc Rewrite Made SQLite 12,000× Slower",
    "url": "https://www.reddit.com/r/programming/comments/1xnq1xx/shlemiel_the_painter_is_back_how_zigs_libc/",
    "ts": 1793803618,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "A Maintainer's Advice on Contributing to Open Source in 2026",
-   "url": "https://www.reddit.com/r/programming/comments/1xnjvkx/a_maintainers_advice_on_contributing_to_open/",
-   "ts": 1793784389,
    "source": "Reddit"
   },
   {
