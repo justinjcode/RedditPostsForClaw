@@ -1,19 +1,29 @@
 {
- "generated_at": "2026-11-07T02:44:35Z",
+ "generated_at": "2026-11-07T02:53:22Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@simonw: all instances failed",
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "From our recent Opus 5.5 pod — how Anthropic cracked down on CoT distillation attacks: Video ThePrimeagen (@ThePrimeagen) Dario and team have actively put in fake tool calls to throw off distillers, it would be of NO surprise to see reasoning traces be filled with harmful and downright wrong choices. Every time i read them, I panic because of how dumb opus is acting, but then the output is good. — https://nitter.kareem.one/ThePrimeagen/status/2118740967402652089#m",
+   "url": "https://nitter.kareem.one/latentspacepod/status/2118897749567607180#m",
+   "ts": 1794019565,
+   "id": "2118897749567607180#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -481,15 +491,6 @@
    "url": "https://nitter.kareem.one/haugejostein/status/2118541398328987735#m",
    "ts": 1793934604,
    "id": "2118541398328987735#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "ok guys pitchforks down pls we chatted and i learned a lot about why i had been missing context and communication - not a sequoia wide thing, just a small gap i got caught in. also the quoted tweet has impt inaccuracies/incomplete info i can’t share nitterk.kareem.one/sonyatweetybird/status… but basically treat it as unrelated to the broader sequoia restructuring that was announced this week Sonya Huang 🐥 (@sonyatweetybird) DMing you @swyx there’s some important context i’ll share live. appreciate you and sorry we disappointed you. — https://nitter.kareem.one/sonyatweetybird/status/2118525644753809583#m",
-   "url": "https://nitter.kareem.one/swyx/status/2118538896434999759#m",
-   "ts": 1793934008,
-   "id": "2118538896434999759#m"
   },
   {
    "handle": "thsottiaux",
