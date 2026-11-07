@@ -1,15 +1,29 @@
 {
- "generated_at": "2026-11-07T14:08:14Z",
+ "generated_at": "2026-11-07T18:09:35Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
+  "MachineLearning",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "MachineLearning",
+   "title": "Can I become an ML/AI Engineer with a BS Mathematics and Data Science degree instead of Computer Science? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xqcl2h/can_i_become_an_mlai_engineer_with_a_bs/",
+   "ts": 1794074370,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "ELK for AWS Services (Lambda, EC2, AWS IoT Core)",
+   "url": "https://www.reddit.com/r/programming/comments/1xqc9wp/elk_for_aws_services_lambda_ec2_aws_iot_core/",
+   "ts": 1794073572,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Selfhosting + Beers NL Update",
@@ -57,13 +71,6 @@
    "title": "Does anyone use None reasoning level for anything ever?",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq4pb6/does_anyone_use_none_reasoning_level_for_anything/",
    "ts": 1794052759,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "METR: Anthropic researchers say AI is speeding them up by 12x [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xq4erf/metr_anthropic_researchers_say_ai_is_speeding/",
-   "ts": 1794051680,
    "source": "Reddit"
   },
   {
@@ -306,13 +313,6 @@
   },
   {
    "subreddit": "programming",
-   "title": "100% GPU Utilization, 39% of Rated FP16",
-   "url": "https://www.reddit.com/r/programming/comments/1xpc2ro/100_gpu_utilization_39_of_rated_fp16/",
-   "ts": 1793969627,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
    "title": "Unity3D for .NET Developers: How to get started",
    "url": "https://www.reddit.com/r/programming/comments/1xpbd2s/unity3d_for_net_developers_how_to_get_started/",
    "ts": 1793967406,
@@ -330,13 +330,6 @@
    "title": "Go 1.27: encoding/json/v2, Stricter Defaults, and Finally [] for Nil Slices · cekrem.github.io",
    "url": "https://www.reddit.com/r/programming/comments/1xp8b96/go_127_encodingjsonv2_stricter_defaults_and/",
    "ts": 1793956105,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "How software got here: 60 milestones from 1945 to 2025, each with its original source (interactive timeline)",
-   "url": "https://www.reddit.com/r/programming/comments/1xp7rf0/how_software_got_here_60_milestones_from_1945_to/",
-   "ts": 1793953899,
    "source": "Reddit"
   },
   {
@@ -400,6 +393,13 @@
    "title": "ICLR 2027 Reviews Discussion [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
    "ts": 1793845079,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "How we halved DNS build delay and cut memory use by 85%",
+   "url": "https://www.reddit.com/r/programming/comments/1xnzyh6/how_we_halved_dns_build_delay_and_cut_memory_use/",
+   "ts": 1793826459,
    "source": "Reddit"
   },
   {
