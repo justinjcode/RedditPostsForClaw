@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T01:43:17Z",
+ "generated_at": "2026-11-07T01:53:24Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -7,13 +7,32 @@
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@simonw: all instances failed"
+ ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Super intelligence leads to abundance Fireside Alpha (@firesidealpha) SpaceX’s Arizona data center, per a county supervisor: “We could be reducing property taxes across the board in Cochise County, the entire county, by 20%” Frank Antenori, whose district includes the site, brought up the county’s tax math during a live Q&A: “Here’s just something to just chew on. Arizona has an expenditure limit requirement that is placed on counties. If we exceed that expenditure, we have to rebate back to the taxpayers a certain amount.” “So, if we’re receiving revenue in from SpaceX, by law, we have to offset that to the taxpayers. We have the potential to reduce, based on the projected revenue they’re creating, as much as 20%.” “Let me just say it again. We could be reducing property taxes across the board in Cochise County, the entire county, by 20% to offset for the revenue here, because we can’t spend all that money. So, we have to give that money back to the taxpayers. The law says we have to.” “So, you could see a potential significant impact to local property taxes. What that is, I don’t know. We’re going to have to do the math on it. But the law, if we have this large increase in property tax revenue, we have to balance those rates. So that will reduce dramatically the property tax burden of every resident in the county.” “The construction sales tax, which also is the TPT, the transaction privilege tax, the retail tax, and the jail excise tax. So that will be part of the construct",
+   "url": "https://nitter.kareem.one/elonmusk/status/2118881284743483488#m",
+   "ts": 1794015639,
+   "id": "2118881284743483488#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "It is so tempting to make a 500 ton thrust Raptor 4 in place of the 250 ton Raptor 3 for the outer ring of the Starship booster",
+   "url": "https://nitter.kareem.one/elonmusk/status/2118880932014997910#m",
+   "ts": 1794015555,
+   "id": "2118880932014997910#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -189,15 +208,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Roughly doubling revenue at scale for a large company used to be something special, but super intelligence makes that look slow! KanekoaTheGreat (@KanekoaTheGreat) Elon Musk says Cloudflare is underestimating how much AI agents will take over the internet. MUSK: “Agentic internet traffic already exceeds human traffic... Cloudflare predicted that in five years, agentic AI traffic will be a thousand times more than human traffic. And if anything, I think that is underestimating.” Ron Baron, whose firm is a major SpaceX investor, says he has modeled Starlink at $1 trillion in revenue and a $14–15 trillion valuation within 10 years, and now thinks that’s “really light.” MUSK: “Starlink revenue is growing very rapidly... roughly doubling revenues per year at large scale. I remember when that used to be a big deal.” Every AI agent needs bandwidth and compute. SpaceX is building both. Video — https://nitter.kareem.one/KanekoaTheGreat/status/2118797321991590365#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118810958730862759#m",
-   "ts": 1793998872,
-   "id": "2118810958730862759#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Here’s the full interview of @elonmusk with Ron Baron 0:13 - Exciting times ahead 0:21 - First principles and TerraFab 2:18 - Chip fabs geopolitical risk 5:51 - Terawatt scale ambition 6:14 - Trillion dollar phased build 7:36 - Why others don’t improve 7:49 - Austin research fab iteration 10:49 - Culture of speed and ideas 13:48 - Walking the floor hands-on 15:39 - Data centers pitchforks 16:44 - OpenAI origins Anthropic 18:09 - Building data centers fast 20:01 - Revenue exploding Jose meme 23:16 - Model Y best in China 23:28 - China ownership exception 24:50 - ARR to five hundred billion 27:45 - Digital AI economy boost 28:21 - Robotics five times productivity 30:10 - Rent robots not sell 30:41 - Memphis community benefits 32:55 - Data centers in space 33:35 - StarMind and space power 36:26 - Cost to orbit history 36:52 - Falcon nine reusability limits 39:09 - Hourly launches Starship size 40:25 - Chopsticks and heat shield 44:30 - Starship unlocks Starlink 46:49 - Agentic traffic thousand times 48:09 - Starlink V3 bandwidth explosion 51:26 - Spectrum and telcos 52:43 - Satellite replacement cycle 53:17 - Laser links hundred times 53:55 - Competing with China power 55:37 - Space intelligence advantage 57:19 - Demand from superintelligence 58:02 - Universal high income future 1:00:43 - Legacy contribution Video",
    "url": "https://nitter.kareem.one/cb_doge/status/2118803735573070329#m",
    "ts": 1793997150,
@@ -247,15 +257,6 @@
    "url": "https://nitter.kareem.one/XFreeze/status/2118789834940784716#m",
    "ts": 1793993836,
    "id": "2118789834940784716#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon Musk today: \"The @Tesla Model Y is the best selling EV in China. This is difficult. Think about that for a second. And let me tell you, Chinese car companies are super good.\" (via 33rd Annual Baron Investment Conference today in NYC) Video",
-   "url": "https://nitter.kareem.one/SawyerMerritt/status/2118774106791293031#m",
-   "ts": 1793990086,
-   "id": "2118774106791293031#m"
   },
   {
    "handle": "elonmusk",
