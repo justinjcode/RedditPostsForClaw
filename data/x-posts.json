@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-07T03:26:24Z",
+ "generated_at": "2026-11-07T03:34:27Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "we are committing to weekly coverage of the Anthropic IPO all the way until it does or doesn't happen. Having covered mega-IPOs from $BABA to $TEAM , I get to dust off my equity hedge fund analyst hat with my AI Engineer hat once more, this time with my good friend @jaminball who is challenging @ttunguz for writer-VC-extraordinare of his generation. Latent.Space (@latentspacepod) What are the most important and most misunderstood lessons from the @AnthropicAI S-1? What can we learn about the relative economics of neolabs and neoclouds, and how sustainable is Anthropic's edge over rivals in the most competitive market on earth! Will $ANT even IPO? We asked @jaminball of @AltimeterCap and Clouded Judgement, to walk engineers through the S-1: inv.kareem.one/P735f1xlpL0 What's your % odds on IPO. above $1.5T this year? Link Deep Dive: Anthropic S-1 Myths and Mythos — Jamin Ball, Altimeter Will Anthropic make it from filing an S-1 to trading on Nasdaq? Jam... youtube.com — https://nitter.kareem.one/latentspacepod/status/2118905429535379691#m",
+   "url": "https://nitter.kareem.one/swyx/status/2118905788915982341#m",
+   "ts": 1794021482,
+   "id": "2118905788915982341#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -473,15 +482,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118569235953893573#m",
    "ts": 1793941241,
    "id": "2118569235953893573#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "for those who want a GREAT scout experience i cannot recommend highly enough @brittwalker_ who has been thru thick and thin with me and is honestly sharper than me on many things, always learn lots talking to her Andrew Reed (@andrew__reed) I still like working with CRV — https://nitter.kareem.one/andrew__reed/status/2118461875520467220#m",
-   "url": "https://nitter.kareem.one/swyx/status/2118542845556691411#m",
-   "ts": 1793934949,
-   "id": "2118542845556691411#m"
   },
   {
    "handle": "ZichenWanghere",
