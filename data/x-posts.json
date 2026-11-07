@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-07T17:53:53Z",
+ "generated_at": "2026-11-07T18:06:43Z",
  "accounts_ok": [
+  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,19 @@
  ],
  "errors": [
   "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The most important thing for the Senate to do is to stay in session EVERY DAY until the Democrats take over. Every judge and nominee confirmed, every priority done. Jobs, affordability, accountability. NO DAYS OFF! Video",
+   "url": "https://nitter.kareem.one/SenRickScott/status/2119122035880431703#m",
+   "ts": 1794073039,
+   "id": "2119122035880431703#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -410,15 +419,6 @@
    "url": "https://nitter.kareem.one/Birdyword/status/2118740366878724328#m",
    "ts": 1793982042,
    "id": "2118740366878724328#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "When computers and robots advance enough, legacy governance will look awkwardly quaint. If they can build almost everything, why can't residents submit proposals, vote on them, and have them built? Instead of years of theater, projects can be completed in days. Want a high-speed railway? It costs X joules and hours to construct and Y joules per day to operate, with options A, B, and C. The full blueprint is attached for verification. No endless fake tax-raising campaign to fund something that does not exist. You pay with the electricity bill. No additional income or property taxes. Obviously, places with cheap electricity would have more build-out than places that don’t. Once started, every agent can access the real-time status. It may seem like fantasy, but the technology is almost there.",
-   "url": "https://nitter.kareem.one/yunta_tsai/status/2118735799953101194#m",
-   "ts": 1793980953,
-   "id": "2118735799953101194#m"
   },
   {
    "handle": "elonmusk",
