@@ -1,20 +1,28 @@
 {
- "generated_at": "2026-11-07T15:53:18Z",
+ "generated_at": "2026-11-07T16:07:02Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed",
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "在外面吹到冷风，以后，回来躺在床上好容易犯困呢",
+   "url": "https://nitter.kareem.one/jianfeinan/status/2119073025488543973#m",
+   "ts": 1794061354,
+   "id": "2119073025488543973#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -950,15 +958,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2117640776205181181#m",
    "ts": 1793719879,
    "id": "2117640776205181181#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "In all of my reporting on the 2026 election, my favorite was the crack-of-dawn interview/workout with @AbdulElSayed in his basement. He talked about how MAGA/Hegseth/RFK Jr. have tried to use gym/bro culture in their politics. What a candidate. Video",
-   "url": "https://nitter.kareem.one/davidsirota/status/2117637099725951185#m",
-   "ts": 1793719003,
-   "id": "2117637099725951185#m"
   },
   {
    "handle": "Lingling_Wei",
