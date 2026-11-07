@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-11-07T08:07:56Z",
+ "generated_at": "2026-11-07T08:18:55Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -9,10 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
   {
@@ -185,15 +184,6 @@
    "url": "https://nitter.kareem.one/zeteo_news/status/2118855959422607404#m",
    "ts": 1794009601,
    "id": "2118855959422607404#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Terafab.ai Link Terafab Tesla, SpaceX, and xAI are launching the most epic chip-building effort ever - combining logic, memory and advanced packaging under one roof. A future among the stars. terafab.ai",
-   "url": "https://nitter.kareem.one/elonmusk/status/2118854622907674904#m",
-   "ts": 1794009283,
-   "id": "2118854622907674904#m"
   },
   {
    "handle": "swyx",
@@ -851,6 +841,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2117942506935505343#m",
    "ts": 1793791817,
    "id": "2117942506935505343#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "JUST IN: Google to invest $15 billion in Malaysia data centers",
+   "url": "https://nitter.kareem.one/Kalshi/status/2117932367587504589#m",
+   "ts": 1793789400,
+   "id": "2117932367587504589#m"
   },
   {
    "handle": "thsottiaux",
