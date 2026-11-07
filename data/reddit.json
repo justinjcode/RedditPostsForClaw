@@ -1,20 +1,41 @@
 {
- "generated_at": "2026-11-07T18:09:35Z",
+ "generated_at": "2026-11-07T20:08:26Z",
  "count": 60,
  "subreddits_ok": [
+  "LocalLLaMA",
   "MachineLearning",
-  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
   {
-   "subreddit": "MachineLearning",
-   "title": "Can I become an ML/AI Engineer with a BS Mathematics and Data Science degree instead of Computer Science? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xqcl2h/can_i_become_an_mlai_engineer_with_a_bs/",
-   "ts": 1794074370,
+   "subreddit": "selfhosted",
+   "title": "homelab improvements/optimizations/replacements?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xqex1l/homelab_improvementsoptimizationsreplacements/",
+   "ts": 1794080273,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Elephant: a self-hostable messenger with Signal-Protocol encryption (Go + Postgres, one docker compose)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xqetxd/elephant_a_selfhostable_messenger_with/",
+   "ts": 1794080045,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "BookOrbit: Removed books and statistics",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xqdgi7/bookorbit_removed_books_and_statistics/",
+   "ts": 1794076540,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Use your phone to monitor anything with local models! Demo of my Open Source and 100% local agent (iOS and Android!)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqd058/use_your_phone_to_monitor_anything_with_local/",
+   "ts": 1794075401,
    "source": "Reddit"
   },
   {
@@ -22,6 +43,55 @@
    "title": "ELK for AWS Services (Lambda, EC2, AWS IoT Core)",
    "url": "https://www.reddit.com/r/programming/comments/1xqc9wp/elk_for_aws_services_lambda_ec2_aws_iot_core/",
    "ts": 1794073572,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Also experienced the Qwen3.8-Flash-Next URL issue",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqbjbf/also_experienced_the_qwen38flashnext_url_issue/",
+   "ts": 1794071704,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Effects of KV Cache Quantization on Qwen3.8 27B",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqbesv/effects_of_kv_cache_quantization_on_qwen38_27b/",
+   "ts": 1794071391,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "testing Qoduck (Maybe qwen4) on Qoder",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqafp1/testing_qoduck_maybe_qwen4_on_qoder/",
+   "ts": 1794068932,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "llama_moe_cache: run missed experts on CPU, add tuning script by am17an · Pull Request #30966 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqacka/llama_moe_cache_run_missed_experts_on_cpu_add/",
+   "ts": 1794068706,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "[Paper] DSpine - Draft in Parallel, Condition Through Depth: Adjacent Causal Injection for Speculative Decoding - tencent",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq9hf6/paper_dspine_draft_in_parallel_condition_through/",
+   "ts": 1794066530,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Qwen3.8-Flash-Next Gyro S on a Valve Steam Machine (8 GB AMD GPU, 32 GB RAM): about 18 t/s decode, about 235 t/s prefill, stock SteamOS",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq8s2n/qwen38flashnext_gyro_s_on_a_valve_steam_machine_8/",
+   "ts": 1794064709,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Valet: use local LLMs to manage your homelab (open source)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq7qi4/valet_use_local_llms_to_manage_your_homelab_open/",
+   "ts": 1794061924,
    "source": "Reddit"
   },
   {
@@ -36,13 +106,6 @@
    "title": "Is there a device that can play blueray discs and can also play jellyfin from my home server?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xq67vo/is_there_a_device_that_can_play_blueray_discs_and/",
    "ts": 1794057642,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "They'll replace him with someone who opposes open source AI, won't they? ‌",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq66uy/theyll_replace_him_with_someone_who_opposes_open/",
-   "ts": 1794057558,
    "source": "Reddit"
   },
   {
@@ -102,13 +165,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "[Paper] D3D: Decoupled Diffusion Drafting for Asynchronous Speculative Decoding",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq1y0y/paper_d3d_decoupled_diffusion_drafting_for/",
-   "ts": 1794042023,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Are ICLR 2027 reviews unusually shallow this year, or is it just me? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xq1f1m/are_iclr_2027_reviews_unusually_shallow_this_year/",
@@ -130,24 +186,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Two GPUs, multiple models, which ones should get a dedicated card?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xpyyfq/two_gpus_multiple_models_which_ones_should_get_a/",
-   "ts": 1794030829,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Ant Ling introduces Ling-3.2-flash: 560B/25B native multimodal MoE with 1M context [N]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xpye7g/ant_ling_introduces_ling32flash_560b25b_native/",
    "ts": 1794028878,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Another benchmark has hit the quant war",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpxfob/another_benchmark_has_hit_the_quant_war/",
-   "ts": 1794025699,
    "source": "Reddit"
   },
   {
@@ -221,27 +263,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "I'm going to try to turn a 4B model into a genuinely useful coding agent that can compete with much larger models",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xppw37/im_going_to_try_to_turn_a_4b_model_into_a/",
-   "ts": 1794003478,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Some GPU prices are dropping",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xppbrr/some_gpu_prices_are_dropping/",
-   "ts": 1794002059,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "We are in the golden age of Local LLM",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xppbht/we_are_in_the_golden_age_of_local_llm/",
-   "ts": 1794002041,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "M1 Pro, 16GB as a homelab or shall I sell it for a mini pc?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xpp27c/m1_pro_16gb_as_a_homelab_or_shall_i_sell_it_for_a/",
@@ -256,13 +277,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "WD MyCloud support caught me off guard.",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xpo77q/wd_mycloud_support_caught_me_off_guard/",
-   "ts": 1793999227,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Higgs Realtime Duplex: a 45B MoE full-duplex model that listens, watches and talks at once, and thinks, calls tools and delegates in the background [N]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xpn5pv/higgs_realtime_duplex_a_45b_moe_fullduplex_model/",
@@ -274,20 +288,6 @@
    "title": "We are cooked. My QFN 3.8 NVFP4 just drew a dog freehand in MS Paint (using new Open WebUI 0.13.0 and Open Terminal 0.17.2)",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpmvf2/we_are_cooked_my_qfn_38_nvfp4_just_drew_a_dog/",
    "ts": 1793995927,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "NousResearch/Arete-27B · Hugging Face (Qwen finetune)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpmj33/nousresearcharete27b_hugging_face_qwen_finetune/",
-   "ts": 1793995127,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Mirage: A 22 MB visual-language model that runs scene descriptions + object detection + OCR + segmentation + spatial relations analysis + extractions + decisions, in a single pass.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpm8mw/mirage_a_22_mb_visuallanguage_model_that_runs/",
-   "ts": 1793994401,
    "source": "Reddit"
   },
   {
@@ -312,17 +312,17 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "MachineLearning",
+   "title": "ICLR 2027 Reviews are out [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xpc9sh/iclr_2027_reviews_are_out_d/",
+   "ts": 1793970189,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "programming",
    "title": "Unity3D for .NET Developers: How to get started",
    "url": "https://www.reddit.com/r/programming/comments/1xpbd2s/unity3d_for_net_developers_how_to_get_started/",
    "ts": 1793967406,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Anchor enables share on mobile",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xpbc1k/anchor_enables_share_on_mobile/",
-   "ts": 1793967311,
    "source": "Reddit"
   },
   {
