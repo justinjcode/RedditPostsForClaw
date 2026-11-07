@@ -1,15 +1,36 @@
 {
- "generated_at": "2026-11-07T02:12:21Z",
+ "generated_at": "2026-11-07T04:10:21Z",
  "count": 60,
  "subreddits_ok": [
+  "LocalLLaMA",
   "MachineLearning",
-  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "MachineLearning",
+   "title": "ICLR27 math and stats paper review experience [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xpvtxt/iclr27_math_and_stats_paper_review_experience_d/",
+   "ts": 1794020530,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "VaultWarden or KeePassXC",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xpvrr1/vaultwarden_or_keepassxc/",
+   "ts": 1794020358,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Harness Leaderboard - Kimi Code, Hermes, Pi, Claude Code, Codex, and Others Were Benchmarked Against Terminal Bench 2.1 & Deep SWE 1.1",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpvfx8/harness_leaderboard_kimi_code_hermes_pi_claude/",
+   "ts": 1794019319,
+   "source": "Reddit"
+  },
   {
    "subreddit": "MachineLearning",
    "title": "ICLR position paper criticized for lacking experiments and making speculative claims — how to respond? [D]",
@@ -57,6 +78,13 @@
    "title": "Server setup help/advice",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xpqatz/server_setup_helpadvice/",
    "ts": 1794004542,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Scylla's Band v4, open source TTS with code to run everywhere",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpq3l0/scyllas_band_v4_open_source_tts_with_code_to_run/",
+   "ts": 1794004019,
    "source": "Reddit"
   },
   {
@@ -186,13 +214,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "AMA: How we trained a SOTA Decision model, got top 3 on OpenRouter & top on 5 ArtificalAnalysis: full playbook - arch, datasets, training, evals, inference",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xphq4u/ama_how_we_trained_a_sota_decision_model_got_top/",
-   "ts": 1793983898,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Seerr Help",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xphgvi/seerr_help/",
@@ -306,23 +327,9 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Anyone ever try the Syncthing equivalent of VPNs, Anywherelan?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xozg3r/anyone_ever_try_the_syncthing_equivalent_of_vpns/",
-   "ts": 1793926197,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "New Project Megathread - Week of 05 Nov 2026",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xox23i/new_project_megathread_week_of_05_nov_2026/",
    "ts": 1793919684,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Maybe we'll get cheap RAM for Christmas after all!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xovnaa/maybe_well_get_cheap_ram_for_christmas_after_all/",
-   "ts": 1793916025,
    "source": "Reddit"
   },
   {
@@ -337,13 +344,6 @@
    "title": "Modern Java at Stripe: Language upgrades as a service",
    "url": "https://www.reddit.com/r/programming/comments/1xov21m/modern_java_at_stripe_language_upgrades_as_a/",
    "ts": 1793914589,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "The Ultimate MoE Training Handbook: training Mixture-of-Experts models with Megatron-LM, setting by setting [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xorgq0/the_ultimate_moe_training_handbook_training/",
-   "ts": 1793906031,
    "source": "Reddit"
   },
   {
