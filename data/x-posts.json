@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-08T13:14:25Z",
+ "generated_at": "2026-11-08T13:23:50Z",
  "accounts_ok": [
+  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
   "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok Bot fixes for improved token efficiency and smarter behavior are underway",
+   "url": "https://nitter.kareem.one/elonmusk/status/2119419126045454531#m",
+   "ts": 1794143871,
+   "id": "2119419126045454531#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -239,15 +248,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2119130949434888330#m",
    "ts": 1794075164,
    "id": "2119130949434888330#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "SpaceX has outlined five contingency landing options for Starship Flight 15 as it prepares for the ship’s first tower-catch attempt at Starbase This visualization shows how the mission can change course if the vehicle or tower does not meet the conditions required for a safe return: 1. Indian Ocean — after ascent If the orbital insertion burn is skipped, Starship remains on its suborbital trajectory and reenters over a predetermined area of the Indian Ocean 2. North of Hawaii — early in the mission If the flight needs to end shortly after reaching orbit, Starship returns to a designated area of the Pacific north of Hawaii 3. Off Chile — mid-mission A separate return opportunity allows Starship to land in the eastern Pacific, far off the coast of Chile 4. Gulf offshore — catch contingency If the tower catch is called off before final approach, Starship has an offshore landing option in the Gulf instead of proceeding with the catch 5. North of Hawaii — late in the mission If the planned deorbit burn is skipped, Starship completes another orbit before returning to the Pacific north of Hawaii The objective is to bring Starship home. The flight plan builds in alternatives throughout the journey, with continuous vehicle-health checks determining when to proceed An ambitious mission, backed by carefully planned options from ascent to final approach Video",
-   "url": "https://nitter.kareem.one/XFreeze/status/2119123323225612354#m",
-   "ts": 1794073346,
-   "id": "2119123323225612354#m"
   },
   {
    "handle": "elonmusk",
