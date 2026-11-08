@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-08T13:43:46Z",
+ "generated_at": "2026-11-08T13:53:14Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "TheRundownAI",
-  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
-  "@swyx: all instances failed",
-  "@bcherny: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "my fave $ant discussion so far. still thinking about it inv.kareem.one/watch?v=P735f1xl… Link Deep Dive: Anthropic S-1 Myths and Mythos — Jamin Ball, Altimeter Will Anthropic make it from filing an S-1 to trading on Nasdaq? Jam... youtube.com",
+   "url": "https://nitter.kareem.one/swyx/status/2119427047437242624#m",
+   "ts": 1794145759,
+   "id": "2119427047437242624#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -491,15 +500,6 @@
    "url": "https://nitter.kareem.one/anabology/status/2118787265912856803#m",
    "ts": 1793993224,
    "id": "2118787265912856803#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "zanwei.guo (@zanweiguo) ✅ — https://nitter.kareem.one/zanweiguo/status/2118179977019662815#m",
-   "url": "https://nitter.kareem.one/swyx/status/2118765012588400715#m",
-   "ts": 1793987918,
-   "id": "2118765012588400715#m"
   },
   {
    "handle": "ZichenWanghere",
