@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-08T18:24:30Z",
- "accounts_ok": [],
+ "generated_at": "2026-11-08T18:34:38Z",
+ "accounts_ok": [
+  "elonmusk"
+ ],
  "errors": [
-  "@elonmusk: all instances failed",
   "@realDonaldTrump: all instances failed",
   "@thsottiaux: all instances failed",
   "@simonw: all instances failed",
