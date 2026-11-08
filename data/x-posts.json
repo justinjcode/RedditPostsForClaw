@@ -1,18 +1,17 @@
 {
- "generated_at": "2026-11-08T03:45:47Z",
+ "generated_at": "2026-11-08T03:53:02Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
   {
@@ -68,6 +67,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2119164641301696891#m",
    "ts": 1794083197,
    "id": "2119164641301696891#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "Apparently there’s a lady named Dana White who is an DoD public affairs assistant and I guarantee you someone recommended her to Trump and he thought they meant UFC Dana White and nobody is allowed to correct him lol",
+   "url": "https://nitter.kareem.one/FanSince09/status/2119154247145312338#m",
+   "ts": 1794080719,
+   "id": "2119154247145312338#m"
   },
   {
    "handle": "elonmusk",
@@ -878,15 +886,6 @@
    "url": "https://nitter.kareem.one/ChineseWSJ/status/2117825431130779956#m",
    "ts": 1793763904,
    "id": "2117825431130779956#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "跟我老婆简直一模一样 跟你们家的那位一样吗 Video",
-   "url": "https://nitter.kareem.one/liwei7194211781/status/2117812040073170971#m",
-   "ts": 1793760712,
-   "id": "2117812040073170971#m"
   },
   {
    "handle": "Lingling_Wei",
