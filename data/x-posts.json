@@ -1,17 +1,18 @@
 {
- "generated_at": "2026-11-08T12:53:31Z",
+ "generated_at": "2026-11-08T13:05:52Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "TheRundownAI",
-  "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 178,
  "items": [
   {
@@ -31,6 +32,15 @@
    "url": "https://nitter.kareem.one/NovaIntrovert/status/2119309891798274163#m",
    "ts": 1794117827,
    "id": "2119309891798274163#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "If one of y'all makes a Starlink ad with a Claudia cameo that wins this contest... I will personally give you $5000 in @XMoney Starlink (@Starlink) Imagine. Create. Share. Dream up a Starlink ad with Grok @Imagine . Post on @X for the opportunity to be featured by Starlink during the big game. Learn more → starlink.com/imagine Video — https://nitter.kareem.one/Starlink/status/2118831607650136119#m",
+   "url": "https://nitter.kareem.one/anabology/status/2119308146053116250#m",
+   "ts": 1794117411,
+   "id": "2119308146053116250#m"
   },
   {
    "handle": "elonmusk",
@@ -243,19 +253,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "The most important thing for the Senate to do is to stay in session EVERY DAY until the Democrats take over. Every judge and nominee confirmed, every priority done. Jobs, affordability, accountability. NO DAYS OFF! Video",
-   "url": "https://nitter.kareem.one/SenRickScott/status/2119122035880431703#m",
-   "ts": 1794073039,
-   "id": "2119122035880431703#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "True Alan Dail (@alandail) Not only that, Tesla open sources their patents. Competitors are free to copy them. — https://nitter.kareem.one/alandail/status/2119067057643819026#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2119117494992478449#m",
-   "ts": 1794071956,
-   "id": "2119117494992478449#m"
+   "text": "Super Heavy’s Raptor engines lifting the booster off the pad. Filmed with a high-speed camera so you can see the detail in slow motion. Video",
+   "url": "https://nitter.kareem.one/teslaownersSV/status/2119120008211292352#m",
+   "ts": 1794072555,
+   "id": "2119120008211292352#m"
   },
   {
    "handle": "swyx",
