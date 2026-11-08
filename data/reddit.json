@@ -1,15 +1,43 @@
 {
- "generated_at": "2026-11-08T06:12:28Z",
+ "generated_at": "2026-11-08T08:10:35Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "What happened to ShareX?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xqsx4k/what_happened_to_sharex/",
+   "ts": 1794123727,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Profiles for Simplicity and Guarantees - Bjarne Stroustrup",
+   "url": "https://www.reddit.com/r/programming/comments/1xqs5vb/profiles_for_simplicity_and_guarantees_bjarne/",
+   "ts": 1794120813,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "OpenClaw Retrospective",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqs2sh/openclaw_retrospective/",
+   "ts": 1794120476,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Anybody tried Apex 35B and Axion 35B?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqrqn6/anybody_tried_apex_35b_and_axion_35b/",
+   "ts": 1794119177,
+   "source": "Reddit"
+  },
   {
    "subreddit": "MachineLearning",
    "title": "ICLR 2027 Rebuttal response [D]",
@@ -43,13 +71,6 @@
    "title": "GRFNet, PyTorch model for multichannel time-series classification [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xqqj67/grfnet_pytorch_model_for_multichannel_timeseries/",
    "ts": 1794114791,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "I wonder if this metaverse app can keep it",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xqqiev/i_wonder_if_this_metaverse_app_can_keep_it/",
-   "ts": 1794114716,
    "source": "Reddit"
   },
   {
@@ -221,13 +242,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Does anyone use None reasoning level for anything ever?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq4pb6/does_anyone_use_none_reasoning_level_for_anything/",
-   "ts": 1794052759,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Any good, self-hosted family tracking app?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xq41qk/any_good_selfhosted_family_tracking_app/",
@@ -333,13 +347,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "We are cooked. My QFN 3.8 NVFP4 just drew a dog freehand in MS Paint (using new Open WebUI 0.13.0 and Open Terminal 0.17.2)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpmvf2/we_are_cooked_my_qfn_38_nvfp4_just_drew_a_dog/",
-   "ts": 1793995927,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "ICLR 2027 Review Scores [N]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xpedgc/iclr_2027_review_scores_n/",
@@ -407,13 +414,6 @@
    "title": "ICLR 2027 Reviews Discussion [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
    "ts": 1793845079,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "C++26 disapproved by the ISO National Bodies",
-   "url": "https://www.reddit.com/r/programming/comments/1xnucc3/c26_disapproved_by_the_iso_national_bodies/",
-   "ts": 1793813530,
    "source": "Reddit"
   },
   {
