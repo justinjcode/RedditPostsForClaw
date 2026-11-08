@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-08T16:33:57Z",
+ "generated_at": "2026-11-08T16:43:47Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
-  "bcherny",
+  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "thsottiaux"
+  "swyx"
  ],
  "errors": [
-  "@swyx: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@thsottiaux: all instances failed",
+  "@bcherny: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Larry Page has made many accurate predictions and this is one of them Hosun Chung (@hosun_chung) Larry Page reportedly has a number for how much computing will end up in space: five nines. As in 99.999%. @patrick_oshag heard it secondhand: \"Someone asked Larry Page how much of compute will be orbital, and he said five-nines.\" @martin_casado 's reason it might happen: \"It's just basically regulatory.\" He thinks there are 500 proposed bills to stop data center building in the US, Texas included. From @InvestLikeBest . Video — https://nitter.kareem.one/hosun_chung/status/2119198237047590971#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2119469436092760547#m",
+   "ts": 1794155866,
+   "id": "2119469436092760547#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -302,15 +311,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2119108787726643400#m",
    "ts": 1794069880,
    "id": "2119108787726643400#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "A statistic that sounds fake but isn't: Not one single white American man born after 1984 has published a work of literary fiction in The New Yorker. It's not because they stopped writing. It's because The New Yorker has refused to publish them. The publishing industry has blacked out a generation of male writers & then they wonder why boys don't read. Liza Libes (@pensandpoison) About 70% of publishing professionals are women. Because agents and editors tend to select books they personally relate to, an increasing number of male authors are being sidelined in the publishing industry, resulting in an overwhelming number of female protagonists on our shelves—and a dearth of male ones. No wonder young men are no longer reading. — https://nitter.kareem.one/pensandpoison/status/2118799410922656021#m",
-   "url": "https://nitter.kareem.one/politicalmath/status/2119105264569745683#m",
-   "ts": 1794069040,
-   "id": "2119105264569745683#m"
   },
   {
    "handle": "swyx",
