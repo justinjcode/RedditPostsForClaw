@@ -1,20 +1,76 @@
 {
- "generated_at": "2026-11-08T04:10:12Z",
+ "generated_at": "2026-11-08T06:12:28Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "MachineLearning",
+   "title": "ICLR 2027 Rebuttal response [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xqqryx/iclr_2027_rebuttal_response_d/",
+   "ts": 1794115645,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Advice needed regarding classical ML conference submission [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xqqrof/advice_needed_regarding_classical_ml_conference/",
+   "ts": 1794115617,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Quantum Optimization – Solve QUBO on D-Wave Quantum Annealer",
+   "url": "https://www.reddit.com/r/programming/comments/1xqqoz3/quantum_optimization_solve_qubo_on_dwave_quantum/",
+   "ts": 1794115358,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "File and Metadata management",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xqqmy3/file_and_metadata_management/",
+   "ts": 1794115160,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "GRFNet, PyTorch model for multichannel time-series classification [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xqqj67/grfnet_pytorch_model_for_multichannel_timeseries/",
+   "ts": 1794114791,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "I wonder if this metaverse app can keep it",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xqqiev/i_wonder_if_this_metaverse_app_can_keep_it/",
+   "ts": 1794114716,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Objects, attributes, maps, oh my!",
+   "url": "https://www.reddit.com/r/programming/comments/1xqq13j/objects_attributes_maps_oh_my/",
+   "ts": 1794113055,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Questions About Connecting Two Homelabs",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xqpcix/questions_about_connecting_two_homelabs/",
    "ts": 1794110728,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "A quick look at zero-knowledge proofs",
+   "url": "https://www.reddit.com/r/programming/comments/1xqp9wx/a_quick_look_at_zeroknowledge_proofs/",
+   "ts": 1794110475,
    "source": "Reddit"
   },
   {
@@ -53,6 +109,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "selfhosted",
+   "title": "Personal health assistant ?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xqi1iy/personal_health_assistant/",
+   "ts": 1794088613,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "LocalLLaMA",
    "title": "Crowd-v1 - The collaborative LLM",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqh8hk/crowdv1_the_collaborative_llm/",
@@ -67,13 +130,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "Combinatorial Optimization with Pointer Networks: Theory, Benchmarks, and Limitations [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xqgg4v/combinatorial_optimization_with_pointer_networks/",
-   "ts": 1794084274,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "homelab improvements/optimizations/replacements?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xqex1l/homelab_improvementsoptimizationsreplacements/",
@@ -85,13 +141,6 @@
    "title": "PSA - Immich defaults to a full file checksum integrity check of all images every night",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xqdi7y/psa_immich_defaults_to_a_full_file_checksum/",
    "ts": 1794076657,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "BookOrbit: Removed books and statistics",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xqdgi7/bookorbit_removed_books_and_statistics/",
-   "ts": 1794076540,
    "source": "Reddit"
   },
   {
@@ -194,13 +243,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Transcode freeze issues with Intel Arc A310",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xq2lkf/transcode_freeze_issues_with_intel_arc_a310/",
-   "ts": 1794044609,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "Gmail replacement - cautious with newer projects",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xq247w/gmail_replacement_cautious_with_newer_projects/",
    "ts": 1794042691,
@@ -257,13 +299,6 @@
   },
   {
    "subreddit": "MachineLearning",
-   "title": "ICLR position paper criticized for lacking experiments and making speculative claims — how to respond? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xpu5g0/iclr_position_paper_criticized_for_lacking/",
-   "ts": 1794015394,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
    "title": "The most scathing reviewer 2 review I have ever read",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xpu1eq/the_most_scathing_reviewer_2_review_i_have_ever/",
    "ts": 1794015053,
@@ -274,13 +309,6 @@
    "title": "Libghostty 1.0",
    "url": "https://www.reddit.com/r/programming/comments/1xptemt/libghostty_10/",
    "ts": 1794013230,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "ML conferences. What do you think about reviewer comments that ask for additional experiments? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xpsj1p/ml_conferences_what_do_you_think_about_reviewer/",
-   "ts": 1794010667,
    "source": "Reddit"
   },
   {
@@ -312,13 +340,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Projects to replace the lost RSS feeds?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xpkrec/projects_to_replace_the_lost_rss_feeds/",
-   "ts": 1793990890,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "ICLR 2027 Review Scores [N]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xpedgc/iclr_2027_review_scores_n/",
@@ -344,13 +365,6 @@
    "title": "New Project Megathread - Week of 05 Nov 2026",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xox23i/new_project_megathread_week_of_05_nov_2026/",
    "ts": 1793919684,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Building iOS apps on Windows: running Apple’s Mach-O macro plugins on an ARM64 CPU emulator",
-   "url": "https://www.reddit.com/r/programming/comments/1xovbpf/building_ios_apps_on_windows_running_apples_macho/",
-   "ts": 1793915239,
    "source": "Reddit"
   },
   {
@@ -389,13 +403,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "LZAV 7.1: Improved compression ratio and speed. Achieved complete C/C++ pointer arithmetic compliance. Fast Data Compression Algorithm (inline C/C++).",
-   "url": "https://www.reddit.com/r/programming/comments/1xo82gs/lzav_71_improved_compression_ratio_and_speed/",
-   "ts": 1793848323,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "ICLR 2027 Reviews Discussion [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
@@ -407,13 +414,6 @@
    "title": "C++26 disapproved by the ISO National Bodies",
    "url": "https://www.reddit.com/r/programming/comments/1xnucc3/c26_disapproved_by_the_iso_national_bodies/",
    "ts": 1793813530,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Shlemiel the Painter Is Back: How Zig’s libc Rewrite Made SQLite 12,000× Slower",
-   "url": "https://www.reddit.com/r/programming/comments/1xnq1xx/shlemiel_the_painter_is_back_how_zigs_libc/",
-   "ts": 1793803618,
    "source": "Reddit"
   },
   {
