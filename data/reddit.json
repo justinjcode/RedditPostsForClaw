@@ -1,20 +1,83 @@
 {
- "generated_at": "2026-11-08T08:10:35Z",
+ "generated_at": "2026-11-08T12:11:24Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
+  "MachineLearning",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "\"Ram Altman\" Is Now a Linux Script That Emails Sam Altman Daily to Report How Much Unused RAM Is in Your PC",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqwn5n/ram_altman_is_now_a_linux_script_that_emails_sam/",
+   "ts": 1794138541,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "GitHub as VPN auth-provider",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xqw6jq/github_as_vpn_authprovider/",
+   "ts": 1794136741,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "NeurIPS SlidesLive [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xqw2n9/neurips_slideslive_d/",
+   "ts": 1794136325,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "IaC for selfhosted server?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xqw0r1/iac_for_selfhosted_server/",
+   "ts": 1794136118,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Proposed Unraid/TrueNAS Build for 4K Automotive Video Workflow (Bedroom Setup / £1,500 Budget)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xqvrsu/proposed_unraidtruenas_build_for_4k_automotive/",
+   "ts": 1794135165,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Huggingface - WOW.. 2 ZeroGPU Spaces for all free accounts?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqvhua/huggingface_wow_2_zerogpu_spaces_for_all_free/",
+   "ts": 1794134050,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Learning RL From Scratch: The What, Why and How of Double DQNs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqu5bz/learning_rl_from_scratch_the_what_why_and_how_of/",
+   "ts": 1794128620,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "How do you handle secrets across your self-hosted stuff?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xqu3fa/how_do_you_handle_secrets_across_your_selfhosted/",
+   "ts": 1794128432,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "What happened to ShareX?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xqsx4k/what_happened_to_sharex/",
    "ts": 1794123727,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "What if diffusion models generates Neural Network weights? Gen AI generate Gen AI [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xqsl8d/what_if_diffusion_models_generates_neural_network/",
+   "ts": 1794122437,
    "source": "Reddit"
   },
   {
@@ -29,6 +92,20 @@
    "title": "OpenClaw Retrospective",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqs2sh/openclaw_retrospective/",
    "ts": 1794120476,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "3321 ICLR, should I rebuttal? [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xqrv2a/3321_iclr_should_i_rebuttal_r/",
+   "ts": 1794119644,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Locally trained VLA model with minimal attention based vision encoder. [p]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xqrtcz/locally_trained_vla_model_with_minimal_attention/",
+   "ts": 1794119468,
    "source": "Reddit"
   },
   {
@@ -130,24 +207,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Personal health assistant ?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xqi1iy/personal_health_assistant/",
-   "ts": 1794088613,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Crowd-v1 - The collaborative LLM",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqh8hk/crowdv1_the_collaborative_llm/",
    "ts": 1794086380,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Dispatcharr TV Guide Refresh w/o EPG",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xqgilc/dispatcharr_tv_guide_refresh_wo_epg/",
-   "ts": 1794084462,
    "source": "Reddit"
   },
   {
@@ -200,20 +263,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "[Paper] DSpine - Draft in Parallel, Condition Through Depth: Adjacent Causal Injection for Speculative Decoding - tencent",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq9hf6/paper_dspine_draft_in_parallel_condition_through/",
-   "ts": 1794066530,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Valet: use local LLMs to manage your homelab (open source)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq7qi4/valet_use_local_llms_to_manage_your_homelab_open/",
-   "ts": 1794061924,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Selfhosting + Beers NL Update",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xq6z8j/selfhosting_beers_nl_update/",
@@ -225,20 +274,6 @@
    "title": "Is there a device that can play blueray discs and can also play jellyfin from my home server?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xq67vo/is_there_a_device_that_can_play_blueray_discs_and/",
    "ts": 1794057642,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Obsessive-1.7B: a 1.1 GB web-search subagent",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq4yju/obsessive17b_a_11_gb_websearch_subagent/",
-   "ts": 1794053609,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Replycant - self-hosted image storage",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xq4uhp/replycant_selfhosted_image_storage/",
-   "ts": 1794053212,
    "source": "Reddit"
   },
   {
@@ -277,20 +312,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "ICLR27: Received a review that seems to be for an entirely different paper. Has anyone experienced this? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xpzqjy/iclr27_received_a_review_that_seems_to_be_for_an/",
-   "ts": 1794033614,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Ant Ling introduces Ling-3.2-flash: 560B/25B native multimodal MoE with 1M context [N]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xpye7g/ant_ling_introduces_ling32flash_560b25b_native/",
-   "ts": 1794028878,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Good Luck Getting a Cheap GPU. AMD Is a 'Data Center First Company,' CEO Says",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpx0on/good_luck_getting_a_cheap_gpu_amd_is_a_data/",
@@ -302,13 +323,6 @@
    "title": "ICLR27 math and stats paper review experience [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xpvtxt/iclr27_math_and_stats_paper_review_experience_d/",
    "ts": 1794020530,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "VaultWarden or KeePassXC",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xpvrr1/vaultwarden_or_keepassxc/",
-   "ts": 1794020358,
    "source": "Reddit"
   },
   {
@@ -327,23 +341,9 @@
   },
   {
    "subreddit": "MachineLearning",
-   "title": "ICLR 2027's new 1–4 scale: a 2, 2, 3 is better than it feels [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xps7xu/iclr_2027s_new_14_scale_a_2_2_3_is_better_than_it/",
-   "ts": 1794009815,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
    "title": "What exactly is the relationship between ML academia and industry/big tech nowadays (2026)? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xponb2/what_exactly_is_the_relationship_between_ml/",
    "ts": 1794000349,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Higgs Realtime Duplex: a 45B MoE full-duplex model that listens, watches and talks at once, and thinks, calls tools and delegates in the background [N]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xpn5pv/higgs_realtime_duplex_a_45b_moe_fullduplex_model/",
-   "ts": 1793996633,
    "source": "Reddit"
   },
   {
