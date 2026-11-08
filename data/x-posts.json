@@ -1,19 +1,29 @@
 {
- "generated_at": "2026-11-08T13:33:52Z",
+ "generated_at": "2026-11-08T13:43:46Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
-  "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@simonw: all instances failed",
+  "@swyx: all instances failed",
+  "@bcherny: all instances failed"
+ ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Many such stories Andy L (@AndyL5cc) 笑死，一个朋友嫌每月 200 美元的 AI 订阅太贵。🤣 转头花了十几万，买了 2 台 Mac Studio，专门部署开源大模型。 昨天跟我吐槽： “折腾半天，发现还没每月 200 美元的闭源模型好用……” 本来想省点订阅费，结果直接把未来十几年的会员费一次性交了。🤡 — https://nitter.kareem.one/AndyL5cc/status/2119247317975060982#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2119425068979937378#m",
+   "ts": 1794145288,
+   "id": "2119425068979937378#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -238,15 +248,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2119135865662300669#m",
    "ts": 1794076336,
    "id": "2119135865662300669#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Starlink saves lives DogeDesigner (@cb_doge) BREAKING: Earthquake-hit village in Indonesia receives @Starlink to help restore communications The equipment arrived after an Indonesian lawmaker visited Tado village. Starlink can help families get back online, check on loved ones and find out where to get aid. ♥️ Video — https://nitter.kareem.one/cb_doge/status/2119122121112879277#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2119131060806074732#m",
-   "ts": 1794075191,
-   "id": "2119131060806074732#m"
   },
   {
    "handle": "elonmusk",
