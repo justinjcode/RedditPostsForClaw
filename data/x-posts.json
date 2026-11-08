@@ -1,19 +1,29 @@
 {
- "generated_at": "2026-11-08T22:06:29Z",
- "accounts_ok": [],
+ "generated_at": "2026-11-08T22:14:31Z",
+ "accounts_ok": [
+  "TheRundownAI",
+  "ZichenWanghere",
+  "elonmusk",
+  "simonw",
+  "swyx",
+  "thsottiaux"
+ ],
  "errors": [
-  "@elonmusk: all instances failed",
   "@realDonaldTrump: all instances failed",
-  "@thsottiaux: all instances failed",
-  "@simonw: all instances failed",
-  "@swyx: all instances failed",
   "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "and a special pod! Latent.Space (@latentspacepod) What do you assign when a coding agent can one-shot last year’s homework? @mihail_eric now has his Stanford CS146S students open a PR on an open-source project and explain their choices to the maintainer who decides whether to merge it. inv.kareem.one/dpY7YzZo4kE To celebrate @aiDotEngineer reaching a million YouTube subscribers, we asked Mihail to walk us through his syllabus, then show us what he actually uses as Head of AI at @MonacoGTM . His team buys code review, builds its own agent workspaces, and gives its on-call agent enough access to investigate a failure and open a PR. “You buy to learn, and you build to keep.” Link [One Million AI Engineer Special] How Stanford Teaches AI-Native... [One Million AI Engineer Special] We’re celebrating one million sub... youtube.com — https://nitter.kareem.one/latentspacepod/status/2119550367222653193#m",
+   "url": "https://nitter.kareem.one/swyx/status/2119550477629379009#m",
+   "ts": 1794175187,
+   "id": "2119550477629379009#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -436,15 +446,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118938956301779171#m",
    "ts": 1794029389,
    "id": "2118938956301779171#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Article AIE Shanghai 2026 大会印象 来源：玉伯参加 AI Engineer Shanghai 2026 大会的一些收获。不代表所有人的观感，仅代表玉伯的视角。 一、Ryo Lu：工具越强，越要留住自己的判断 Ryo Lu 做过 Cursor",
-   "url": "https://nitter.kareem.one/lifesinger/status/2118936739654046143#m",
-   "ts": 1794028861,
-   "id": "2118936739654046143#m"
   },
   {
    "handle": "thsottiaux",
