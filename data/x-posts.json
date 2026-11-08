@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-08T05:16:00Z",
+ "generated_at": "2026-11-08T05:24:11Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
+  "@simonw: all instances failed",
   "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed",
   "@TheRundownAI: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus. ✅ Pro 100 = 10X ✅ Pro 200 = 20X ✅ Pro 500 = 50X, access to ultrafast",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2119296267545419987#m",
+   "ts": 1794114579,
+   "id": "2119296267545419987#m"
+  },
   {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
@@ -869,15 +878,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2117942506935505343#m",
    "ts": 1793791817,
    "id": "2117942506935505343#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "ChatBLT Tibo (@thsottiaux) Le GPT Fat — https://nitter.kareem.one/thsottiaux/status/2117489367417803042#m",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2117888243119304945#m",
-   "ts": 1793778880,
-   "id": "2117888243119304945#m"
   },
   {
    "handle": "Lingling_Wei",
