@@ -1,6 +1,9 @@
 {
- "generated_at": "2026-11-08T13:53:14Z",
+ "generated_at": "2026-11-08T14:05:30Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -8,13 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "occasional reminder that cursor is slaying it esp post acquisition (prob one of the best that elon has ever done, better than twitter itself) and twitter vibes are a funhouse mirror of actual reality that you can now basically look up in SEC audited financials cursor ended 2025 arr 1B arr btw. enterprise growing 300% QoQ Nick Khami (@skeptrune) dead? — https://nitter.kareem.one/skeptrune/status/2119328244721967242#m",
+   "url": "https://nitter.kareem.one/swyx/status/2119429305512165838#m",
+   "ts": 1794146298,
+   "id": "2119429305512165838#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -464,15 +472,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2118829491904708834#m",
    "ts": 1794003291,
    "id": "2118829491904708834#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "our cooking show (yes, cooking show) is back!!! @aditabrm reveals the entire recipe of @reductoai pdf processing and also steak sandwich making at the end we address the serious allegations leveled by @barsisyphus more elite food journalism coming on inv.kareem.one/@latentspacepod Latent.Space (@latentspacepod) In this episode, @reductoai co-founder and CEO @aditabrm joins @allenpark to make steak sandwiches with burrata, torched peaches, and chimichurri and talk about why PDFs still break AI: how frontier models silently drop rows, why 99% accuracy can still fall short in production, what Reducto learned processing a billion pages a month, and what it would take for office work to have its Claude Code moment. 00:00 Cold Open 00:13 Meet Adit Abraham and the Viral Steak Tweet 00:57 From Remembrall to Reducto: YC and the Pivot 01:57 Why PDFs Are Still Hard for AI 03:35 What AI Agents Need to Do With Documents 04:19 Model Routing for Tricky Pages and Tables 05:29 Build vs. Buy: When to Train Your Own Models 07:00 Deep Extract, Frontier Models, and Missing Rows 08:20 Why Everyone Wins Their Own Benchmark 09:29 Reducto R1: Accuracy, Cost, and a Billion Pages a Month 10:57 When 99% Accuracy Isn’t Enough 13:05 Continuous Evals and Production Failures 16:49 How Reducto Uses AI Agents Internally 18:28 Hiring With AI and the Eight-Hour Onsite 20:17 Early Hires and What Obsession Looks Like 23:17 Blowtorching Peaches 24:24 Scaling From a Small Team to Series B 27:34 Competition and the ",
-   "url": "https://nitter.kareem.one/swyx/status/2118829142607278366#m",
-   "ts": 1794003208,
-   "id": "2118829142607278366#m"
   },
   {
    "handle": "ZichenWanghere",
