@@ -1,20 +1,38 @@
 {
- "generated_at": "2026-11-08T15:23:45Z",
+ "generated_at": "2026-11-08T15:33:55Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
  "errors": [
+  "@swyx: all instances failed",
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Shame, shame, shame on Chappelle Benny Johnson (@bennyjohnson) When Dave Chappelle was attacked on stage, Charlie stood up for him. After Charlie was murdered in an act of political violence himself, Chappelle is joking about it. — https://nitter.kareem.one/bennyjohnson/status/2119439465097691511#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2119450646143537211#m",
+   "ts": 1794151386,
+   "id": "2119450646143537211#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starlink saves lives DogeDesigner (@cb_doge) Starlink helped save five people stranded in Kazakhstan’s snowy mountains. ♥️ Their SUV broke down about 15 km from the village of Kystau Kurchum. There was no mobile network they could use. Starlink got their call for help through and kept them in touch with rescuers, who used the connection to find them. Crews drove about 100 km in an all-terrain vehicle and brought all five safely back to the village. For people stranded far from help, Starlink can be lifesaving technology. Video — https://nitter.kareem.one/cb_doge/status/2119430733525815742#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2119450198007337418#m",
+   "ts": 1794151279,
+   "id": "2119450198007337418#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -262,15 +280,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Interesting DogeDesigner (@cb_doge) BREAKING: Google’s parent Alphabet added another 3.85 million shares of SpaceX in Q3, its latest SEC filing shows. Alphabet held 555 million shares worth $83.7 billion as of Sept. 30. SpaceX alone made up nearly 95% of its reported stock portfolio. Google first put $900 million into SpaceX in January 2015. By the end of Q3, the stake was worth about 93 times Google’s original investment. — https://nitter.kareem.one/cb_doge/status/2119087204446400776#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2119135865662300669#m",
-   "ts": 1794076336,
-   "id": "2119135865662300669#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Super Heavy’s Raptor engines lifting the booster off the pad. Filmed with a high-speed camera so you can see the detail in slow motion. Video",
    "url": "https://nitter.kareem.one/teslaownersSV/status/2119120008211292352#m",
    "ts": 1794072555,
@@ -338,15 +347,6 @@
    "url": "https://nitter.kareem.one/EvaFox/status/2119063349186970048#m",
    "ts": 1794059047,
    "id": "2119063349186970048#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "🚨 What happened to the California EV market? $7,500 new EV federal tax credit expired Who lost EV market share? Models people only bought for the tax credit Who gained EV market share? Tesla: up 1,020 basis points",
-   "url": "https://nitter.kareem.one/ICannot_Enough/status/2119061570995065335#m",
-   "ts": 1794058623,
-   "id": "2119061570995065335#m"
   },
   {
    "handle": "swyx",
