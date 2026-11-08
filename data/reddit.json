@@ -1,15 +1,57 @@
 {
- "generated_at": "2026-11-08T14:07:36Z",
+ "generated_at": "2026-11-08T16:09:18Z",
  "count": 60,
  "subreddits_ok": [
+  "LocalLLaMA",
   "MachineLearning",
-  "programming",
-  "selfhosted"
+  "programming"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "I ran Qwen3.5-0.8B in pure Assembly",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr18t3/i_ran_qwen3508b_in_pure_assembly/",
+   "ts": 1794152357,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "I fine-tuned Qwen3.5-0.8B to turn plain English into bash. What I learnt",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr0ykk/i_finetuned_qwen3508b_to_turn_plain_english_into/",
+   "ts": 1794151591,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Has anyone used tensortorrent?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr0mqz/has_anyone_used_tensortorrent/",
+   "ts": 1794150710,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "\"Does censorship exist in [country]?\", according to various LLMs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr09nq/does_censorship_exist_in_country_according_to/",
+   "ts": 1794149767,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr01bj/users_have_started_buying_rtx_5060_ti_16gb/",
+   "ts": 1794149122,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Proposal: uncensoring LoRAs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqzt4r/proposal_uncensoring_loras/",
+   "ts": 1794148489,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "The Day After Code Is Already Here. This Is What You Need to Know to Survive.",
@@ -46,17 +88,17 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "2x256gb M5U: current status",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqxqvw/2x256gb_m5u_current_status/",
+   "ts": 1794142379,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
    "title": "I built a self-hosted FastAPI gateway to control LLM API spending",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xqxi7w/i_built_a_selfhosted_fastapi_gateway_to_control/",
    "ts": 1794141574,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "\"Ram Altman\" Is Now a Linux Script That Emails Sam Altman Daily to Report How Much Unused RAM Is in Your PC",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqwn5n/ram_altman_is_now_a_linux_script_that_emails_sam/",
-   "ts": 1794138541,
    "source": "Reddit"
   },
   {
@@ -106,13 +148,6 @@
    "title": "Introducing Project Steadfast",
    "url": "https://www.reddit.com/r/programming/comments/1xqu801/introducing_project_steadfast/",
    "ts": 1794128923,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Learning RL From Scratch: The What, Why and How of Double DQNs",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqu5bz/learning_rl_from_scratch_the_what_why_and_how_of/",
-   "ts": 1794128620,
    "source": "Reddit"
   },
   {
@@ -169,13 +204,6 @@
    "title": "Locally trained VLA model with minimal attention based vision encoder. [p]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xqrtcz/locally_trained_vla_model_with_minimal_attention/",
    "ts": 1794119468,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Anybody tried Apex 35B and Axion 35B?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqrqn6/anybody_tried_apex_35b_and_axion_35b/",
-   "ts": 1794119177,
    "source": "Reddit"
   },
   {
@@ -256,6 +284,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "MachineLearning",
+   "title": "NeurIPS 2026 Camera-Ready Deadline Extended? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xqk48t/neurips_2026_cameraready_deadline_extended_d/",
+   "ts": 1794094459,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "LocalLLaMA",
    "title": "Anyone running local AI on 16GB vram?",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqjenw/anyone_running_local_ai_on_16gb_vram/",
@@ -267,13 +302,6 @@
    "title": "The Stylome bot is useless spam and should be removed",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqinb7/the_stylome_bot_is_useless_spam_and_should_be/",
    "ts": 1794090254,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Crowd-v1 - The collaborative LLM",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqh8hk/crowdv1_the_collaborative_llm/",
-   "ts": 1794086380,
    "source": "Reddit"
   },
   {
@@ -292,23 +320,9 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "Also experienced the Qwen3.8-Flash-Next URL issue",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqbjbf/also_experienced_the_qwen38flashnext_url_issue/",
-   "ts": 1794071704,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "Effects of KV Cache Quantization on Qwen3.8 27B",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqbesv/effects_of_kv_cache_quantization_on_qwen38_27b/",
    "ts": 1794071391,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "testing Qoduck (Maybe qwen4) on Qoder",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqafp1/testing_qoduck_maybe_qwen4_on_qoder/",
-   "ts": 1794068932,
    "source": "Reddit"
   },
   {
@@ -344,20 +358,6 @@
    "title": "Try my dang hardest to come up with novel research ideas, but everything feels clunky [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xq06wu/try_my_dang_hardest_to_come_up_with_novel/",
    "ts": 1794035281,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Good Luck Getting a Cheap GPU. AMD Is a 'Data Center First Company,' CEO Says",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpx0on/good_luck_getting_a_cheap_gpu_amd_is_a_data/",
-   "ts": 1794024332,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "ICLR27 math and stats paper review experience [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xpvtxt/iclr27_math_and_stats_paper_review_experience_d/",
-   "ts": 1794020530,
    "source": "Reddit"
   },
   {
