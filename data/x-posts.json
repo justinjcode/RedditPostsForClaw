@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-08T23:46:03Z",
+ "generated_at": "2026-11-08T23:54:37Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "bcherny",
   "elonmusk",
@@ -10,11 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "I agree Shaun Maguire (@shaunmmaguire) 1) Jensen is one of the greatest entrepreneurs of this generation 2) he did something incredibly dumb 3) it was bad for America 4) but my guess is there was no bad intention 5) two mistakes don’t make a right, and I believe Jensen is irreplaceable for America’s AI leadership — https://nitter.kareem.one/shaunmmaguire/status/2119560017624158265#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2119578315619254275#m",
+   "ts": 1794181824,
+   "id": "2119578315619254275#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1222,15 +1231,6 @@
    "id": "2117260304522395653#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Announcing a contest! 💸💸 I'll give $420.69 in @XMoney to someone who makes the best Claudia music video by Friday, 10pm EST USA! $69.42 for runner up To make it easy: use the Claudia MCP at claudia.gallery",
-   "url": "https://nitter.kareem.one/anabology/status/2117090131207410074#m",
-   "ts": 1793588595,
-   "id": "2117090131207410074#m"
-  },
-  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -1330,9 +1330,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
