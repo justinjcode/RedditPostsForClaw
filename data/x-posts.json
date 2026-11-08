@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-08T17:43:12Z",
+ "generated_at": "2026-11-08T17:54:01Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "bcherny",
+  "TheRundownAI",
+  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
-  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@simonw: all instances failed",
+  "@swyx: all instances failed",
+  "@bcherny: all instances failed"
  ],
  "count": 178,
  "items": [
@@ -262,10 +262,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "There are efficiency improvements coming that will allow for a 40kWh Cybercab pack. We will make this in liquid silver, so the colors are not too monotonous. The biggest thing most people fail to understand is that there are a very limited number of smart, dedicated people! They can only do so many things. If we have to maintain a complex production line, supply chain and allocate engineering for Cybertruck, we can’t use those people or factory space and machinery for scaling Cybercab, which is the vehicle that will PROFOUNDLY transform the world of terrestrial transport!",
-   "url": "https://nitter.kareem.one/elonmusk/status/2119152839813456261#m",
-   "ts": 1794080383,
-   "id": "2119152839813456261#m"
+   "text": "Uhh… you mean the kids who were found innocent??? Mediaite (@Mediaite) FLASHBACK: Unearthed Video of Stephen Miller Defending Duke Lacrosse Players Accused of Rape mediaite.com/media/news/flas… Link Stephen Miller Defends Duke Lacrosse Team to Nancy Grace A video shared on social media shows a young Stephen Miller defending the members of the Duke lacrosse team who were falsely accused of rape. mediaite.com Community note: Stephen Miller advocated for the presumption of innocence of the Duke lacrosse players in 2006 amid rape accusations. The players were exonerated in 2007; the accuser later admitted fabricating the allegations. dukechronicle.com/article/stephe… cnn.com/2024/12/14/us/… dukechronicle.com/article/2024/1… — https://nitter.kareem.one/Mediaite/status/2118798387747107227#m",
+   "url": "https://nitter.kareem.one/CarlHigbie/status/2119148067442282988#m",
+   "ts": 1794079245,
+   "id": "2119148067442282988#m"
   },
   {
    "handle": "elonmusk",
