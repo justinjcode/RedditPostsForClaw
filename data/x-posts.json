@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-11-08T13:23:50Z",
+ "generated_at": "2026-11-08T13:33:52Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -9,12 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Yup Nic Cruz Patane (@niccruzpatane) Elon Musk said at 100 GW/year of orbital AI compute (@ $10 per watt), @SpaceX would add $1 trillion in annual revenue every year, and at higher pricing it could be $3–5 trillion, stacking each year because the satellites will keep running in space. Bullish on space. 🚀 Video — https://nitter.kareem.one/niccruzpatane/status/2119152965101781174#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2119420033113739525#m",
+   "ts": 1794144087,
+   "id": "2119420033113739525#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -239,15 +247,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2119131060806074732#m",
    "ts": 1794075191,
    "id": "2119131060806074732#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The Tesla Cybertruck order backlog is currently far more than we can make before dismantling the line for Cybercab expansion around June/July next year. We will add an extra shift to try to get all orders done in time.",
-   "url": "https://nitter.kareem.one/elonmusk/status/2119130949434888330#m",
-   "ts": 1794075164,
-   "id": "2119130949434888330#m"
   },
   {
    "handle": "elonmusk",
