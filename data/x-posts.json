@@ -1,17 +1,18 @@
 {
- "generated_at": "2026-11-08T16:15:48Z",
+ "generated_at": "2026-11-08T16:24:03Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@bcherny: all instances failed",
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 178,
  "items": [
   {
@@ -177,6 +178,15 @@
    "id": "2119242830707311005#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "If Russell Brand is going to prison for rape that occurred 20 years ago, why isn’t anyone in the Epstein files going too?",
+   "url": "https://nitter.kareem.one/_rathbone/status/2119239887522255070#m",
+   "ts": 1794101137,
+   "id": "2119239887522255070#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -265,15 +275,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2119140818690974203#m",
    "ts": 1794077517,
    "id": "2119140818690974203#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I want to be José NOBUNAGA🇯🇵🏯 (@japan_nobunaga) Ron Baron is 83. In front of thousands of investors in New York, he looked at Elon Musk and asked the one question an 83-year-old asks. \"How do you want people to think about you?\" For the full hour before, it had been trillion-dollar chip fabs. Starship. Starlink. The business of the richest man alive. Then Baron added, quieter: \"Nobody would work the way you work just to accumulate money.\" Elon paused. \"I'd like the reality to be that I made a significant contribution in the furtherance of civilization.\" One sentence. Civilization. And then, in the same room, he told them about Jose. Jose is the guy in the meme. One man digging a hole in the road. Eight men standing around watching him dig. \"Unless you increase the number of Joses in the country, the amount of work done does not increase.\" \"I aspire to be Jose.\" \"We do actual work.\" This from a man who lives in an Airstream parked next to his power plant in Memphis. Who pulls power cables \"the size of an anaconda\" with his own hands. Asked how he wants history to remember him, he said civilization. Asked who he wants to be, he said the guy with the shovel. The richest man in the world wants to dig. 🇺🇸🚀 Video — https://nitter.kareem.one/japan_nobunaga/status/2118906536189923686#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2119137465323708895#m",
-   "ts": 1794076718,
-   "id": "2119137465323708895#m"
   },
   {
    "handle": "elonmusk",
