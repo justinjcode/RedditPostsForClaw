@@ -1,15 +1,78 @@
 {
- "generated_at": "2026-11-08T16:09:18Z",
+ "generated_at": "2026-11-08T18:09:27Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
-  "programming"
+  "programming",
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Help with setting up dozzle notifications",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xr4aie/help_with_setting_up_dozzle_notifications/",
+   "ts": 1794159999,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "GPT-5.5 dataset across my used 25 billion tokens!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr3ymf/gpt55_dataset_across_my_used_25_billion_tokens/",
+   "ts": 1794159168,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Motion graphics video made with Qwen3.8 Flash Next GSQ RCO IQ3_XXS on strata",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr3qes/motion_graphics_video_made_with_qwen38_flash_next/",
+   "ts": 1794158609,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "The Qwen Flash Next alibaba URL thing happened to me too just now",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr3ifw/the_qwen_flash_next_alibaba_url_thing_happened_to/",
+   "ts": 1794158059,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Rumor: Moonshot Kimi roadmap",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr2t4c/rumor_moonshot_kimi_roadmap/",
+   "ts": 1794156350,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr2rqk/artificial_analysis_multimodal_decision_model/",
+   "ts": 1794156254,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "tencent/Qwen3.8-27B-DSpine-b16 · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr2aaa/tencentqwen3827bdspineb16_hugging_face/",
+   "ts": 1794155028,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "4x Radeon AI PRO R9700 + 2x RTX 3090 on one x16 slot, using a PCIe switch",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr2a6y/4x_radeon_ai_pro_r9700_2x_rtx_3090_on_one_x16/",
+   "ts": 1794155022,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Kavita Adds Kobo Sync Support",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xr1t29/kavita_adds_kobo_sync_support/",
+   "ts": 1794153817,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "I ran Qwen3.5-0.8B in pure Assembly",
@@ -25,10 +88,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Has anyone used tensortorrent?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr0mqz/has_anyone_used_tensortorrent/",
-   "ts": 1794150710,
+   "subreddit": "selfhosted",
+   "title": "Self-hosted door panel: e-paper, intercom integration and Sonos chime",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xr0o09/selfhosted_door_panel_epaper_intercom_integration/",
+   "ts": 1794150806,
    "source": "Reddit"
   },
   {
@@ -50,6 +113,13 @@
    "title": "Proposal: uncensoring LoRAs",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqzt4r/proposal_uncensoring_loras/",
    "ts": 1794148489,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Super Productivity v20: rule-based views, background Nextcloud/WebDAV reminders on Android, and a local MCP endpoint",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xqzeve/super_productivity_v20_rulebased_views_background/",
+   "ts": 1794147373,
    "source": "Reddit"
   },
   {
@@ -81,27 +151,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Board Game Inventory",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xqy2wg/board_game_inventory/",
-   "ts": 1794143440,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "2x256gb M5U: current status",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqxqvw/2x256gb_m5u_current_status/",
-   "ts": 1794142379,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "I built a self-hosted FastAPI gateway to control LLM API spending",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xqxi7w/i_built_a_selfhosted_fastapi_gateway_to_control/",
-   "ts": 1794141574,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "[R] Pre-registered replication of \"Dreaming neural networks\" (Hopfield unlearning, Fachechi et al. 2019) — submitted to ReScience C, code + data + pre-registrations public [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xqw77i/r_preregistered_replication_of_dreaming_neural/",
@@ -127,13 +176,6 @@
    "title": "IaC for selfhosted server?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xqw0r1/iac_for_selfhosted_server/",
    "ts": 1794136118,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Proposed Unraid/TrueNAS Build for 4K Automotive Video Workflow (Bedroom Setup / £1,500 Budget)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xqvrsu/proposed_unraidtruenas_build_for_4k_automotive/",
-   "ts": 1794135165,
    "source": "Reddit"
   },
   {
@@ -249,24 +291,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Questions About Connecting Two Homelabs",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xqpcix/questions_about_connecting_two_homelabs/",
-   "ts": 1794110728,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "A quick look at zero-knowledge proofs",
    "url": "https://www.reddit.com/r/programming/comments/1xqp9wx/a_quick_look_at_zeroknowledge_proofs/",
    "ts": 1794110475,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Saw this benchmark where small changes to coding tasks made a big difference",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqmr2i/saw_this_benchmark_where_small_changes_to_coding/",
-   "ts": 1794102291,
    "source": "Reddit"
   },
   {
@@ -291,20 +319,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Anyone running local AI on 16GB vram?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqjenw/anyone_running_local_ai_on_16gb_vram/",
-   "ts": 1794092419,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "The Stylome bot is useless spam and should be removed",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqinb7/the_stylome_bot_is_useless_spam_and_should_be/",
-   "ts": 1794090254,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "PSA - Immich defaults to a full file checksum integrity check of all images every night",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xqdi7y/psa_immich_defaults_to_a_full_file_checksum/",
@@ -316,20 +330,6 @@
    "title": "Use your phone to monitor anything with local models! Demo of my Open Source and 100% local agent (iOS and Android!)",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqd058/use_your_phone_to_monitor_anything_with_local/",
    "ts": 1794075401,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Effects of KV Cache Quantization on Qwen3.8 27B",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqbesv/effects_of_kv_cache_quantization_on_qwen38_27b/",
-   "ts": 1794071391,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "llama_moe_cache: run missed experts on CPU, add tuning script by am17an · Pull Request #30966 · ggml-org/llama.cpp",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqacka/llama_moe_cache_run_missed_experts_on_cpu_add/",
-   "ts": 1794068706,
    "source": "Reddit"
   },
   {
