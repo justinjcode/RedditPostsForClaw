@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-08T05:43:29Z",
+ "generated_at": "2026-11-08T05:53:18Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "TheRundownAI",
-  "ZichenWanghere",
-  "bcherny",
   "elonmusk",
+  "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@realDonaldTrump: all instances failed",
-  "@simonw: all instances failed"
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Would a Pro 50 make sense? Wdyt? Tibo (@thsottiaux) Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus. ✅ Pro 100 = 10X ✅ Pro 200 = 20X ✅ Pro 500 = 50X, access to ultrafast — https://nitter.kareem.one/thsottiaux/status/2119296267545419987#m",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2119305294291612140#m",
+   "ts": 1794116731,
+   "id": "2119305294291612140#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -23,6 +32,15 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2119296267545419987#m",
    "ts": 1794114579,
    "id": "2119296267545419987#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "BREAKING: The local government of La Serena, Chile, is bringing @Starlink to rural clinics to help them stay connected during emergencies. 🇨🇱 Medical teams can use Starlink to access patient records, arrange referrals through Chile’s Digital Hospital and stay in touch with residents during emergencies, helping patients get care sooner. ♥️ Video",
+   "url": "https://nitter.kareem.one/cb_doge/status/2119293271180734870#m",
+   "ts": 1794113865,
+   "id": "2119293271180734870#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -104,6 +122,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2119146526899396725#m",
    "ts": 1794078878,
    "id": "2119146526899396725#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Why is Russell Brand the only one found guilty when there are entire grooming gangs who have faced zero prosecution?! 🇬🇧",
+   "url": "https://nitter.kareem.one/Jenniferarcuri/status/2119145059668914317#m",
+   "ts": 1794078528,
+   "id": "2119145059668914317#m"
   },
   {
    "handle": "elonmusk",
@@ -226,15 +253,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "SpaceX just released a detailed blog post explaining how Starship will return to Starbase for its first tower-catch attempt on Flight 15 and it is going to be the first full recovery of an orbital launch system The mission brings together both sides of Starship’s future: delivering a major payload to orbit and bringing the entire launch system home for reuse. Super Heavy will return minutes after liftoff, while Starship will deploy 26 Starlink V3 satellites, fly a mission of more than 22 hours, then make its way back through the atmosphere toward the tower at Starbase, provided it passes the required vehicle-health checks The update walks through the orbital safety checks, heatshield inspections, alternative splashdown locations, the precise approach over northern Mexico and southern Texas, and the final sequence of bellyflop, engine ignition, flip and catch Flight 15 is targeting launch as early as Friday, November 13, pending regulatory approval. The 75-minute launch window opens at 4:45 p.m. CT. Here is the full plan, from liftoff to bringing both stages home 1. LAUNCH AND THE BOOSTER’S RETURN Super Heavy will lift Starship from Starbase before the vehicles separate through hot-staging: Starship ignites its engines while still attached, then continues toward space as the booster turns back. The booster will perform its boostback burn, descend toward Starbase and begin its landing burn roughly six minutes after liftoff. The catch is planned for approximately 6 minutes 35 se",
-   "url": "https://nitter.kareem.one/XFreeze/status/2119105020423799051#m",
-   "ts": 1794068982,
-   "id": "2119105020423799051#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "SpaceX has just released a new blog about Starship's upcoming 15th flight planned for Nov 13 with more info about what to expect, the significance of this flight, and their approach to safety: \"Starship is preparing to take a major step towards full reusability: bringing the Starship upper stage back to the launch site for a catch by the tower at Starbase. To return Starship to Starbase, the spacecraft must now fly a safe trajectory that will take it over inhabited areas in northern Mexico and southern Texas to reach its launch site for catch. Like previous flight testing and the first successful mission to orbit, Starship’s flight profile for this ambitious mission is being designed with opportunities to safely end the mission early if necessary and will follow strict criteria before committing to the final phases of flight. OUR APPROACH TO A SAFE RETURN: On Flight 15, Starship will initially launch to a passively safe suborbital trajectory. This is the same flight profile used on Starship’s first orbital mission and ensures that any issues encountered during ascent or shortly thereafter will result in Starship reentering over a cleared area of the Indian Ocean. After this initial ascent, flight controllers will assess the health of Starship’s systems before giving a “go” or “no-go” for orbit. If “go”, Starship will then perform an orbital insertion burn with a single Raptor sea-level engine, increasing its speed and achieving orbit around Earth. Once on orbit, Starship will",
    "url": "https://nitter.kareem.one/SawyerMerritt/status/2119097866123624773#m",
    "ts": 1794067276,
@@ -257,15 +275,6 @@
    "url": "https://nitter.kareem.one/SawyerMerritt/status/2119095373620736058#m",
    "ts": 1794066682,
    "id": "2119095373620736058#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "10k kids born today, 10k new 530A accts auto created by @USTreasury w $1000 in the S&P 500 compounding for 18 yrs. 10k kids born tomorrow, 10k new accounts. And the day after. Forever. 🇺🇸💰🚀 Video",
-   "url": "https://nitter.kareem.one/altcap/status/2119085865309999174#m",
-   "ts": 1794064415,
-   "id": "2119085865309999174#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -833,15 +842,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2118057565607367147#m",
    "ts": 1793819249,
    "id": "2118057565607367147#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Computers have RAM, right? Welcome Pierre. Let’s reinvent everything Pierre (@pierrecomputer) an announcement from the pierre computer company Video — https://nitter.kareem.one/pierrecomputer/status/2117999036175188183#m",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2118024169762029594#m",
-   "ts": 1793811287,
-   "id": "2118024169762029594#m"
   },
   {
    "handle": "TheRundownAI",
