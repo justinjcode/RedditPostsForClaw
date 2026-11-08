@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T21:34:02Z",
+ "generated_at": "2026-11-08T21:43:39Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -8,12 +8,31 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
-  "thsottiaux"
+  "swyx"
  ],
- "errors": [],
+ "errors": [
+  "@thsottiaux: all instances failed"
+ ],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "if youre wondering how, ask their VP of FDE Pauline Brunet (thanks @realbasilchatha for curating this) AI.Engineer 🔜 CODE (@aiDotEngineer) Live now: our entire Forward Deployed Engineering Track from AI Engineer World's Fair! inv.kareem.one/watch?v=1OMHGsUZ… - @EnoReyes , CTO & Co-Founder, Factory - Pauline Brunet, VP of FDE, Cursor - @vasuman , Founder & CEO, Varick Agents - Jia Wu, Deployed Engineering Lead, Cognition - @natalie_meurer , Head of Agent Engineering, Sierra - Sunny Rekhi, FDE CTO, Decagon - @leomehr , Director of Engineering, Ramp - @zkevinbai , Anthropic, ex-Palantir & founding FDE at Rippling - @vinooganesh , CEO & Co-Founder, Kepler — https://nitter.kareem.one/aiDotEngineer/status/2082159947236655311#m",
+   "url": "https://nitter.kareem.one/swyx/status/2119543788192600450#m",
+   "ts": 1794173592,
+   "id": "2119543788192600450#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Let's gooo!!! Big congrats on 1 million! 🎉 My favorite is any debate with @ianlivingstone and @dexhorthy inv.kareem.one/c35YoMdnI78?si=BwFy… Link The Great Loops Debate — Dex Horthy, Geoff Huntley, Ian Livingstone,... Oxford Style Debate: There is, or is not, a delta between the hype ... youtube.com",
+   "url": "https://nitter.kareem.one/vtahowe/status/2119539336823849186#m",
+   "ts": 1794172531,
+   "id": "2119539336823849186#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -427,24 +446,6 @@
    "url": "https://nitter.kareem.one/lifesinger/status/2118936739654046143#m",
    "ts": 1794028861,
    "id": "2118936739654046143#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "we are committing to weekly coverage of the Anthropic IPO all the way until it does or doesn't happen. Having covered mega-IPOs from $BABA to $TEAM , I get to dust off my equity hedge fund analyst hat with my AI Engineer hat once more, this time with my good friend @jaminball who is challenging @ttunguz for writer-VC-extraordinare of his generation. Latent.Space (@latentspacepod) What are the most important and most misunderstood lessons from the @AnthropicAI S-1? What can we learn about the relative economics of neolabs and neoclouds, and how sustainable is Anthropic's edge over rivals in the most competitive market on earth! Will $ANT even IPO? We asked @jaminball of @AltimeterCap and Clouded Judgement, to walk engineers through the S-1: inv.kareem.one/P735f1xlpL0 What's your % odds on IPO. above $1.5T this year? Link Deep Dive: Anthropic S-1 Myths and Mythos — Jamin Ball, Altimeter Will Anthropic make it from filing an S-1 to trading on Nasdaq? Jam... youtube.com — https://nitter.kareem.one/latentspacepod/status/2118905429535379691#m",
-   "url": "https://nitter.kareem.one/swyx/status/2118905788915982341#m",
-   "ts": 1794021482,
-   "id": "2118905788915982341#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "From our recent Opus 5.5 pod — how Anthropic cracked down on CoT distillation attacks: Video ThePrimeagen (@ThePrimeagen) Dario and team have actively put in fake tool calls to throw off distillers, it would be of NO surprise to see reasoning traces be filled with harmful and downright wrong choices. Every time i read them, I panic because of how dumb opus is acting, but then the output is good. — https://nitter.kareem.one/ThePrimeagen/status/2118740967402652089#m",
-   "url": "https://nitter.kareem.one/latentspacepod/status/2118897749567607180#m",
-   "ts": 1794019565,
-   "id": "2118897749567607180#m"
   },
   {
    "handle": "thsottiaux",
