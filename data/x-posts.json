@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-08T22:14:31Z",
+ "generated_at": "2026-11-08T22:27:31Z",
  "accounts_ok": [
   "TheRundownAI",
   "ZichenWanghere",
   "elonmusk",
+  "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@realDonaldTrump: all instances failed",
   "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Interesting Mario Nawfal (@MarioNawfal) 🇺🇸 Thousands march through Times Square under “No Schumer, No Jeffries” signs after Democrats win the House and Senate It's called \"March for Our Democracy\", and it celebrates the midterm results while pressuring the party’s incoming leadership. Progressive groups are calling for contested votes instead of automatically returning Chuck Schumer and Hakeem Jeffries to their posts. The split within the Democratic Party is now openly visible, even before the new Congress takes office. Writer: Lucas Video — https://nitter.kareem.one/MarioNawfal/status/2119180592483127504#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2119554927337017525#m",
+   "ts": 1794176248,
+   "id": "2119554927337017525#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -491,15 +500,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118802895604994463#m",
    "ts": 1793996950,
    "id": "2118802895604994463#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Judging will take place this weekend! Also - make sure your video you submitted is included at sxsi.com . If not, reach out to me or @SXSIcom ! Legitimate community voting there will receive another prize, but that's the list we're also working off of for judging Link SXSI sxsi.com anabology (@anabology) Announcing a contest! 💸💸 I'll give $420.69 in @XMoney to someone who makes the best Claudia music video by Friday, 10pm EST USA! $69.42 for runner up To make it easy: use the Claudia MCP at claudia.gallery — https://nitter.kareem.one/anabology/status/2117090131207410074#m",
-   "url": "https://nitter.kareem.one/anabology/status/2118787265912856803#m",
-   "ts": 1793993224,
-   "id": "2118787265912856803#m"
   },
   {
    "handle": "ZichenWanghere",
