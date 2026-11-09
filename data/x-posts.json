@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-11-09T01:20:34Z",
+ "generated_at": "2026-11-09T01:28:05Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "when we can do anything, do we still know what we want? the full talk from @aiDotEngineer shanghai. every slide handmade in keynote, subs in 中文 and english Video",
+   "url": "https://nitter.kareem.one/ryolu_/status/2119586846657454152#m",
+   "ts": 1794183858,
+   "id": "2119586846657454152#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -428,15 +436,6 @@
    "url": "https://nitter.kareem.one/EvaFox/status/2119063349186970048#m",
    "ts": 1794059047,
    "id": "2119063349186970048#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "just got my test order and was delightfully surprised to find that this client is open source!!!! (v impt for sticking anything in a physical port) very delighted to have a use for this useless SD Card slot and the api is so nice and agent friendly. watch for surprises at @aiDotEngineer ... Peter Kuhar (@pkuhar) Do you have a MacBook Pro? With an SD Card slot? Your slot now has an API. Write to a file, blink the lights. Or let your agent use it to get your attention. More into sidepulse.io/pro LED Animation Format: github.com/inteliwear/sidepu… Video — https://nitter.kareem.one/pkuhar/status/2117444353274843323#m",
-   "url": "https://nitter.kareem.one/swyx/status/2118996445936361933#m",
-   "ts": 1794043096,
-   "id": "2118996445936361933#m"
   },
   {
    "handle": "thsottiaux",
