@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-09T15:27:40Z",
+ "generated_at": "2026-11-09T15:36:47Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Project Crystal Sun Sawyer Merritt (@SawyerMerritt) Tesla has officially started construction of its massive new $10 billion solar manufacturing facility near Houston, Texas! Construction is expected to finish in 2028, with commercial operations starting in Q1 2029. Total direct and indirect economic impact of the project is estimated to generate ~$6.4B in state and local taxes, and increase State of Texas GDP by ~$107 billion. The factory will be a vertically integrated solar manufacturing facility, and it'll include: • Wafer Manufacturing • Ingot Manufacturing • Coating • Metallization and Printing Lines • Cell Testing and QC • Automation and Material Handling • Cleanroom and Production Support • Site Infrastructure • Chemical Storage and Delivery • Utility Infrastructure • Environmental and Safety Systems — https://nitter.kareem.one/SawyerMerritt/status/2119805979583828413#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2119812607117062451#m",
+   "ts": 1794237684,
+   "id": "2119812607117062451#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -22,6 +32,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2119809574563922263#m",
    "ts": 1794236961,
    "id": "2119809574563922263#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starlink helped save a family trapped by snowstorm in a remote area of Argentina. A metre of snow surrounded Rafael Da Silva’s home near Bariloche. The power was out, food and firewood had run out, and his two young daughters were sleeping in sleeping bags to stay warm. Rafael set up a Starlink dish on his vehicle and called for help. That call got rescuers moving. They pushed through the deep snow and brought the family to safety a few hours later. For people stranded far from help, Starlink can be lifesaving technology.",
+   "url": "https://nitter.kareem.one/cb_doge/status/2119802385593970856#m",
+   "ts": 1794235247,
+   "id": "2119802385593970856#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -222,15 +241,6 @@
    "id": "2119586846657454152#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "If Russell Brand is facing prison for rape allegations dating back 20 years, why isn’t anyone named in the Epstein files going to prison?",
-   "url": "https://nitter.kareem.one/DavidWolfe/status/2119564524445450398#m",
-   "ts": 1794178536,
-   "id": "2119564524445450398#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -265,15 +275,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2119524694047293448#m",
    "ts": 1794169040,
    "id": "2119524694047293448#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Dear @DaveChappelle , You're not the \"free speech\" guy. You're the guy who laughed when the free speech guy was m*rdered. Video",
-   "url": "https://nitter.kareem.one/mattvanswol/status/2119524359320584633#m",
-   "ts": 1794168960,
-   "id": "2119524359320584633#m"
   },
   {
    "handle": "swyx",
@@ -315,15 +316,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Did you know? When a British person is murdered or raped by an imported foreigner, there are entire government units set up to silence their grieving families through intimidation and gaslighting. Why? To avoid \"community tensions\".",
-   "url": "https://nitter.kareem.one/NiohBerg/status/2119509187319279802#m",
-   "ts": 1794165343,
-   "id": "2119509187319279802#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Arabs won't be a minority in Arabia Jews won't be a minority in Israel Indians won't be a minority in India Chinese won't be a minority in China Only White Europeans are projected to be the minority in all their countries Objecting to this is \"White supremacy\"",
    "url": "https://nitter.kareem.one/RealTrouble_Man/status/2119461097958744289#m",
    "ts": 1794153878,
@@ -337,6 +329,15 @@
    "url": "https://nitter.kareem.one/BGatesIsaPyscho/status/2119432288408871418#m",
    "ts": 1794147009,
    "id": "2119432288408871418#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starlink helped save five people stranded in Kazakhstan’s snowy mountains. ♥️ Their SUV broke down about 15 km from the village of Kystau Kurchum. There was no mobile network they could use. Starlink got their call for help through and kept them in touch with rescuers, who used the connection to find them. Crews drove about 100 km in an all-terrain vehicle and brought all five safely back to the village. For people stranded far from help, Starlink can be lifesaving technology. Video",
+   "url": "https://nitter.kareem.one/cb_doge/status/2119430733525815742#m",
+   "ts": 1794146638,
+   "id": "2119430733525815742#m"
   },
   {
    "handle": "swyx",
