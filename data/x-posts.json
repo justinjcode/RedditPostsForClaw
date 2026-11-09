@@ -1,6 +1,8 @@
 {
- "generated_at": "2026-11-09T07:30:59Z",
+ "generated_at": "2026-11-09T07:39:50Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -9,12 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The Cybertruck order rate far exceeds our production rate. We will try to make as many as possible before shutting down the line in about 8 months, but will have to return deposits for a lot of people. This is not a case of Cybertruck being unprofitable, as has been misreported by legacy media, but rather that the opportunity cost of the complexity of Cybertruck is vastly outweighed by the value of incremental Cybercab production. jimmah (@jamesdouma) Seriously. It’s incomparable. But cars are going to become robots, their forms and functions will change, and we won’t be coming back to this moment. Get it while you can. — https://nitter.kareem.one/jamesdouma/status/2119460358826176575#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2119691615774146614#m",
+   "ts": 1794208837,
+   "id": "2119691615774146614#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -266,15 +274,6 @@
    "url": "https://nitter.kareem.one/theisabelb/status/2119470468180709574#m",
    "ts": 1794156112,
    "id": "2119470468180709574#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Republicans lost the midterms because of the war and its economic consequences. The good news is that job growth and GDP growth are still strong, and inflation will drop quickly if the war is ended now. Video",
-   "url": "https://nitter.kareem.one/DavidSacks/status/2119468088030884308#m",
-   "ts": 1794155544,
-   "id": "2119468088030884308#m"
   },
   {
    "handle": "swyx",
