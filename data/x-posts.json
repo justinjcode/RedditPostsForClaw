@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T09:45:55Z",
+ "generated_at": "2026-11-09T09:55:15Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -7,11 +7,12 @@
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@simonw: all instances failed"
+ ],
  "count": 178,
  "items": [
   {
@@ -49,6 +50,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2119691615774146614#m",
    "ts": 1794208837,
    "id": "2119691615774146614#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The difference.",
+   "url": "https://nitter.kareem.one/DefiantLs/status/2119687643353301220#m",
+   "ts": 1794207890,
+   "id": "2119687643353301220#m"
   },
   {
    "handle": "elonmusk",
@@ -427,15 +437,6 @@
    "url": "https://nitter.kareem.one/FanSince09/status/2119154247145312338#m",
    "ts": 1794080719,
    "id": "2119154247145312338#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Uhh… you mean the kids who were found innocent??? Mediaite (@Mediaite) FLASHBACK: Unearthed Video of Stephen Miller Defending Duke Lacrosse Players Accused of Rape mediaite.com/media/news/flas… Link Stephen Miller Defends Duke Lacrosse Team to Nancy Grace A video shared on social media shows a young Stephen Miller defending the members of the Duke lacrosse team who were falsely accused of rape. mediaite.com Community note: ⚠️IMPORTANT CONTEXT: Duke Lacrosse Allegations Were a Hoax en.wikipedia.org/wiki/Duke_lacr… espn.com/college-sports… The City of Durham and Duke University were forced to settle law suits from the innocent players, and the DA was charged criminally for misconduct. cnn.com/2014/05/16/jus… — https://nitter.kareem.one/Mediaite/status/2118798387747107227#m",
-   "url": "https://nitter.kareem.one/CarlHigbie/status/2119148067442282988#m",
-   "ts": 1794079245,
-   "id": "2119148067442282988#m"
   },
   {
    "handle": "swyx",
