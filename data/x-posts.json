@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-09T02:26:50Z",
+ "generated_at": "2026-11-09T02:36:18Z",
  "accounts_ok": [
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
-  "@swyx: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Just did a round table review with the Grok @Bot engineering team. Fixes are being implemented overnight and you should notice a dramatic improvement by tomorrow. If not, reply to this post and we will address any remaining issues right away.",
+   "url": "https://nitter.kareem.one/elonmusk/status/2119617455102333206#m",
+   "ts": 1794191156,
+   "id": "2119617455102333206#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -248,15 +257,6 @@
    "url": "https://nitter.kareem.one/anabology/status/2119308146053116250#m",
    "ts": 1794117411,
    "id": "2119308146053116250#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Yes X Freeze (@XFreeze) Elon Musk at the Mars Society in 2006 Long before Starship, the destination was always Mars — https://nitter.kareem.one/XFreeze/status/2119223625396203785#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2119305634688520262#m",
-   "ts": 1794116812,
-   "id": "2119305634688520262#m"
   },
   {
    "handle": "thsottiaux",
