@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-09T15:56:11Z",
+ "generated_at": "2026-11-09T16:09:48Z",
  "accounts_ok": [
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
+  "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starlink is now delivering fast, reliable internet onboard @FlyingBrussels 🛰️✈️",
+   "url": "https://nitter.kareem.one/Starlink/status/2119818965266612643#m",
+   "ts": 1794239200,
+   "id": "2119818965266612643#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -41,6 +50,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2119816076355567903#m",
    "ts": 1794238511,
    "id": "2119816076355567903#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "NEW GROK BOT! Your favorite YouTubes and podcasts now come out as a weekly magazine. 📰 I prefer to have a good read on weekends. I have printed out magazine style summaries of great content from YouTube and Podcasts for decades. I had a massive AI pipeline. Now I have Grok Bot. I built a Grok Bot that watches the channels and shows you love, and every week it turns each new episode into a beautifully written magazine feature. 🎬 YouTube videos and 🎙️ podcasts, all in one issue 📸 Real photos pulled from each video, with captions 💬 Pull quotes word for word from the speakers 📖 A finished EPUB for your Kindle, plus a newsletter in your inbox 🔗 Every story credits and links back to the creator A 3-hour podcast becomes a 10-minute read. A week of uploads becomes one Sunday morning issue. Stop scrolling past what you meant to watch. Read it instead. Any Video Into A Magazine 👇 x.ai/bot/Dky0PJsMVdTE6h_6cN6… Link Any Video Into A Magazine by Brian Turns the YouTube channels and podcasts you follow into a weekly magazine: feature articles with real photos from the videos, word-for-word pull quotes,... x.ai",
+   "url": "https://nitter.kareem.one/BrianRoemmele/status/2119815091092861330#m",
+   "ts": 1794238276,
+   "id": "2119815091092861330#m"
   },
   {
    "handle": "elonmusk",
@@ -149,15 +167,6 @@
    "url": "https://nitter.kareem.one/ProjectConstitu/status/2119746002013786115#m",
    "ts": 1794221804,
    "id": "2119746002013786115#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Insightful uwe boll (@BollFILMS) Article The Lonely Wolf Killer in Polen and the Status Quo of Reality The Shooting Spree in Krakow and the Media’s Interpretation of Reality The shooter in Krakow was a classic \"lone wolf\" perpetrator. He killed his family and subsequently attacked random people on the — https://nitter.kareem.one/BollFILMS/status/2119736520223453329#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2119742268265640376#m",
-   "ts": 1794220914,
-   "id": "2119742268265640376#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -392,15 +401,6 @@
    "url": "https://nitter.kareem.one/hermanntertsch/status/2119359726781600062#m",
    "ts": 1794129709,
    "id": "2119359726781600062#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Turns out the Krakow shooter is a pro-abortion, pro-LGBT leftist extremist who hates Christianity. These people are sick in the head.",
-   "url": "https://nitter.kareem.one/GabeZZOZZ/status/2119316963822600393#m",
-   "ts": 1794119513,
-   "id": "2119316963822600393#m"
   },
   {
    "handle": "ZichenWanghere",
