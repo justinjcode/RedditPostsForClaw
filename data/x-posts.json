@@ -1,17 +1,18 @@
 {
- "generated_at": "2026-11-09T14:45:17Z",
+ "generated_at": "2026-11-09T14:57:09Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@swyx: all instances failed",
+  "@Lingling_Wei: all instances failed",
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 178,
  "items": [
   {
@@ -96,6 +97,15 @@
    "id": "2119730444950479291#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "id for creatine but not voting LMFAOOOO",
+   "url": "https://nitter.kareem.one/cawners/status/2119719950726406552#m",
+   "ts": 1794215593,
+   "id": "2119719950726406552#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -112,15 +122,6 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2119701908663459944#m",
    "ts": 1794211291,
    "id": "2119701908663459944#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The difference.",
-   "url": "https://nitter.kareem.one/DefiantLs/status/2119687643353301220#m",
-   "ts": 1794207890,
-   "id": "2119687643353301220#m"
   },
   {
    "handle": "elonmusk",
