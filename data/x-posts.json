@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-09T18:38:51Z",
+ "generated_at": "2026-11-09T18:47:17Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 178,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "NEW: Meta released Muse Ember, which Mark Zuckerberg says delivers “higher intelligence per dollar than others in its class.” Meta’s chart has it tying Claude Haiku 5.5’s Artificial Analysis Intelligence Index score for roughly one-third the price per task. Pricing: $0.10 per 1M tokens in and $0.50 per 1M out. Meta also used Muse Wonder Full to train it, which it hadn’t done with any earlier release.",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2119861584743018538#m",
+   "ts": 1794249361,
+   "id": "2119861584743018538#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -1003,15 +1013,6 @@
    "url": "https://nitter.kareem.one/michaelkamon/status/2117683721834775038#m",
    "ts": 1793730118,
    "id": "2117683721834775038#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "REPORT: Starting in early 2027, K-12 students will lose Google Search on their school logins if their district blocks Google’s AI completely. Those students will get \"a message from their school that indicates it’s not available.\" Chris Phillips, Google’s education VP, told The New York Times that’s because \"Search and A.I. are deeply integrated.\" Google’s announcement came one day after the Nov. 2 deadline Sens. Richard Blumenthal and Josh Hawley gave the company to answer questions about pushing AI into schools. NYC and LA have already restricted student AI for roughly 1.1M kids, and Fairfax County, Va., built a plug-in to hide Google’s AI summaries.",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2117658214481228117#m",
-   "ts": 1793724037,
-   "id": "2117658214481228117#m"
   },
   {
    "handle": "simonw",
