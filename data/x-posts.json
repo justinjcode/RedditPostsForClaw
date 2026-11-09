@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-09T19:57:44Z",
+ "generated_at": "2026-11-09T20:09:12Z",
  "accounts_ok": [
+  "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -61,6 +61,15 @@
    "id": "2119866760723890571#m"
   },
   {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "SLC 🛫🛬 SFO for @aiDotEngineer and things 👀 Will you be around this week? Hit me up!!",
+   "url": "https://nitter.kareem.one/kentcdodds/status/2119862932377067792#m",
+   "ts": 1794249682,
+   "id": "2119862932377067792#m"
+  },
+  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -95,6 +104,15 @@
    "url": "https://nitter.kareem.one/mihail_eric/status/2119836042270580846#m",
    "ts": 1794243271,
    "id": "2119836042270580846#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "gm Karl 👋 AI.Engineer 🔜 CODE (@aiDotEngineer) AIE CODE starts tomorrow in San Francisco. Nov 10: workshops + talks on agents and software factories. Nov 11-12: conference talks + expo. Coming for workshops? Check that your ticket includes the add-on. Plan your days: ai.engineer/code/schedule Link AI Engineer AI Engineer is the community and conference series for software engineers building with AI. Join thousands of AI engineers at our events worldwide. ai.engineer — https://nitter.kareem.one/aiDotEngineer/status/2119807225904730497#m",
+   "url": "https://nitter.kareem.one/thorwebdev/status/2119827575287754987#m",
+   "ts": 1794241253,
+   "id": "2119827575287754987#m"
   },
   {
    "handle": "swyx",
@@ -448,15 +466,6 @@
    "id": "2119513321468735749#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "One. Million. AI Engineers. thank you. Video",
-   "url": "https://nitter.kareem.one/aiDotEngineer/status/2119512384008319130#m",
-   "ts": 1794166105,
-   "id": "2119512384008319130#m"
-  },
-  {
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
@@ -482,15 +491,6 @@
    "url": "https://nitter.kareem.one/cb_doge/status/2119430733525815742#m",
    "ts": 1794146638,
    "id": "2119430733525815742#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "occasional reminder that cursor is slaying it esp post acquisition (prob one of the best that elon has ever done, better than twitter itself) and twitter vibes are a funhouse mirror of actual reality that you can now basically look up in SEC audited financials cursor ended 2025 arr 1B arr btw. enterprise growing 300% QoQ Nick Khami (@skeptrune) dead? — https://nitter.kareem.one/skeptrune/status/2119328244721967242#m",
-   "url": "https://nitter.kareem.one/swyx/status/2119429305512165838#m",
-   "ts": 1794146298,
-   "id": "2119429305512165838#m"
   },
   {
    "handle": "ZichenWanghere",
