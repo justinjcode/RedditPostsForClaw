@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-09T01:54:21Z",
+ "generated_at": "2026-11-09T02:10:17Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "are you listening anon? will brown (@willcb) 2027 is gonna be about engines — https://nitter.kareem.one/willcb/status/2119250590337470728#m",
+   "url": "https://nitter.kareem.one/swyx/status/2119611058881192187#m",
+   "ts": 1794189631,
+   "id": "2119611058881192187#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -391,15 +401,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2119116259921191413#m",
    "ts": 1794071662,
    "id": "2119116259921191413#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "come see it at aie.codes next week Link AI Engineer Code Summit 2026: AI Engineering Conference, Nov 10-12, San Francisco The application-only AI Engineer Code Summit brings together leading coding-agent builders and AI engineers in San Francisco, November 10-12, 2026. ai.engineer",
-   "url": "https://nitter.kareem.one/swyx/status/2119108787726643400#m",
-   "ts": 1794069880,
-   "id": "2119108787726643400#m"
   },
   {
    "handle": "swyx",
