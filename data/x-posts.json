@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-09T10:20:21Z",
+ "generated_at": "2026-11-09T10:27:10Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "bcherny",
+  "TheRundownAI",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -10,8 +9,9 @@
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 178,
  "items": [
@@ -109,6 +109,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "NVIDIAの革ジャンが中華4000年の歴史から繰り出されるハニートラップにやられた今、『家に来ないか？俺のデカいロケットを見てくれよ』と美女を口説いて宅飲みに誘い、ほんとにロケットの写真や資料を見せたイーロン・マスクの凄さがよくわかるね。世界最強のASDあまりにもカッコ良すぎるだろ。",
+   "url": "https://nitter.kareem.one/pondebekkio/status/2119648650611785751#m",
+   "ts": 1794198594,
+   "id": "2119648650611785751#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "I care vittorio (@IterIntellectus) it will never not be funny how much time elon spends working as a customer service agent for his companies — https://nitter.kareem.one/IterIntellectus/status/2119623933725131163#m",
    "url": "https://nitter.kareem.one/elonmusk/status/2119637191504581036#m",
    "ts": 1794195862,
@@ -133,15 +142,6 @@
    "id": "2119629886377607546#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Chinese 𝕏 is 牛逼",
-   "url": "https://nitter.kareem.one/elonmusk/status/2119629310969467053#m",
-   "ts": 1794193983,
-   "id": "2119629310969467053#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -151,33 +151,6 @@
    "id": "2119629062855602556#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Yeah Shibetoshi Nakamoto (@BillyM2k) if the left want to be the “good guys” imo they should stop celebrating murder all the time — https://nitter.kareem.one/BillyM2k/status/2119622814374527205#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2119628426571338063#m",
-   "ts": 1794193772,
-   "id": "2119628426571338063#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Dave Chappelle is cruel Clown World ™ 🤡 (@ClownWorld) More footage from Dave Chappelle’s Madison Square Garden performance, where he made another disgusting “joke” about Charlie Kirk’s assassination. “I’m sure Charlie Kirk is looking up at us right now, laughing so hard he can’t breathe.” A husband and father was assassinated, his family is left grieving, and this washed-up comedian is standing in front of thousands of people mocking his death. I’ve been a fan of Chappelle for decades, but this is absolutely disgusting. There’s a difference between dark humor and being a heartless, morally bankrupt piece of shit. Whatever happened to basic human decency? Video — https://nitter.kareem.one/ClownWorld/status/2119594672972779899#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2119624561100755305#m",
-   "ts": 1794192850,
-   "id": "2119624561100755305#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Just did a round table review with the Grok @Bot engineering team. Fixes are being implemented overnight and you should notice a dramatic improvement by tomorrow. If not, reply to this post and we will address any remaining issues right away.",
-   "url": "https://nitter.kareem.one/elonmusk/status/2119617455102333206#m",
-   "ts": 1794191156,
-   "id": "2119617455102333206#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -185,6 +158,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2119611058881192187#m",
    "ts": 1794189631,
    "id": "2119611058881192187#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "RT by @elonmusk: Image",
+   "url": "https://nitter.kareem.one/TheJadeWarwick/status/2119595835696480575#m",
+   "ts": 1794186002,
+   "id": "2119595835696480575#m"
   },
   {
    "handle": "swyx",
@@ -212,24 +194,6 @@
    "url": "https://nitter.kareem.one/DavidWolfe/status/2119564524445450398#m",
    "ts": 1794178536,
    "id": "2119564524445450398#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Charlie was murdered in the middle of a debate with people who hate him while wearing a shirt that said \"freedom.\" He died defending Chappelle's right to be offensive. And Chappelle thanks him by reveling in his death. But as offensive as that is, none of us who knew and loved Charlie want Chappelle to suffer the same fate. We don't want Chappelle dead, and we wouldn't \"feel better\" if someone murdered him. That's not how we respond to speech that offends us because we're not bloodthirsty lunatics. If you're laughing about Charlie's murder, or feeling good about Charlie's murder, you're acting within your rights. You're free to be sadistic. But that's exactly what you are. Your soul is sick. The only thing I wish for you is that you'd come to realize it — before it's too late — and beg for God's forgiveness. FreeThinkerFitness (@FreeThinkerFit) “Ever since that guy Charlie Kirk got murdered, and I shouldn’t say this publicly but…. I feel better.” - Dave Chappelle Video — https://nitter.kareem.one/FreeThinkerFit/status/2119320412635144528#m",
-   "url": "https://nitter.kareem.one/SethDillon/status/2119563450846245307#m",
-   "ts": 1794178280,
-   "id": "2119563450846245307#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Mostly accurate per historical records. ~388k Africans disembarked in the US (Trans-Atlantic Slave Trade Database). Slavery was near-universal, including among Native Americans and Africans (millions retained or traded via Arab routes). Founders were overwhelmingly White European Christian men. 1860 census: ~1.4% of free population owned slaves (higher share of Southern families). Europeans, led by Britain, abolished the trade and pressured others.",
-   "url": "https://nitter.kareem.one/grok/status/2119562531903590703#m",
-   "ts": 1794178061,
-   "id": "2119562531903590703#m"
   },
   {
    "handle": "swyx",
@@ -268,6 +232,15 @@
    "id": "2119524694047293448#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Dear @DaveChappelle , You're not the \"free speech\" guy. You're the guy who laughed when the free speech guy was m*rdered. Video",
+   "url": "https://nitter.kareem.one/mattvanswol/status/2119524359320584633#m",
+   "ts": 1794168960,
+   "id": "2119524359320584633#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -275,6 +248,15 @@
    "url": "https://nitter.kareem.one/dexhorthy/status/2119524005044768950#m",
    "ts": 1794168876,
    "id": "2119524005044768950#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The shooter was a gay communist. Sky News (@SkyNews) Briton among six killed by 'far-right' gunman in Krakow rampage trib.al/WYstXTx Link Briton among six killed by 'far-right' gunman in Krakow rampage A 25-year-old suspect is in a critical condition after being shot at close range by police. Officials believe he has \"ultra-nationalistic\" views. news.sky.com — https://nitter.kareem.one/SkyNews/status/2119342041607864337#m",
+   "url": "https://nitter.kareem.one/WallStreetMav/status/2119521388000080333#m",
+   "ts": 1794168252,
+   "id": "2119521388000080333#m"
   },
   {
    "handle": "swyx",
@@ -329,6 +311,24 @@
    "url": "https://nitter.kareem.one/GuntherEagleman/status/2119409879345680799#m",
    "ts": 1794141666,
    "id": "2119409879345680799#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "A grooming gang survivor raped by at least 50 men was handed back to her abusers by police after saying she was an adult. The officer's parting words? \"Enjoy your night, lads.\" dailysceptic.org/2026/11/08/… Link Cop Told Grooming Gang “Enjoy Your Night” As He Returned Girl to Them – The Daily Sceptic A grooming gang survivor raped by at least 50 men was handed back to her abusers by police after saying she was an adult. The officer's parting words? \"Enjoy your night, lads.\" dailysceptic.org",
+   "url": "https://nitter.kareem.one/toadmeister/status/2119391197202374664#m",
+   "ts": 1794137212,
+   "id": "2119391197202374664#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Turns out the Krakow shooter is a pro-abortion, pro-LGBT leftist extremist who hates Christianity. These people are sick in the head.",
+   "url": "https://nitter.kareem.one/GabeZZOZZ/status/2119316963822600393#m",
+   "ts": 1794119513,
+   "id": "2119316963822600393#m"
   },
   {
    "handle": "ZichenWanghere",
