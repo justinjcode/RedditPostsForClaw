@@ -1,20 +1,47 @@
 {
- "generated_at": "2026-11-09T15:46:45Z",
+ "generated_at": "2026-11-09T15:56:11Z",
  "accounts_ok": [
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@simonw: all instances failed",
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok @Bot can do incredible things Albus (@0xAlbus) what the f*ck. Grok Bot just helped me win in court against my ex-wife mid-divorce. her lawyer shows up with photos of me at every bar I went to that month. and tells the judge I'M the one stalking HER custody hearing in 3 weeks Grok Bot said someone's following me. let's prove it it set up an open-source tool called Chasing Your Tail. a Raspberry Pi in my glovebox that logs every phone around you and flags the ones that keep showing up github.com/azmatt/chasing_yo… 8 days later: one phone, 23 times, 9 places my house. my kids' school. my office. my gym. the bar then it checked which Wi-Fi networks that phone remembers: \"Hartley_Investigations\" \"Jenna_Home_5G\" a private investigator. who's been inside my ex-wife's house she hired a PI to follow me and told the court I was following her the logs went to my lawyer as Exhibit C her stalking claim got thrown out. 50/50 custody lawyers don't win custody battles anymore. Grok Bot does prompt + how to turn it into a Grok Bot skill below 👇 Video — https://nitter.kareem.one/0xAlbus/status/2119502015554613344#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2119817540432244779#m",
+   "ts": 1794238860,
+   "id": "2119817540432244779#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: robotnews.therundown.ai/p/am… Link Amazon builds its home robot team PLUS: Zipline nearly triples its valuation robotnews.therundown.ai",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2119816082626126021#m",
+   "ts": 1794238513,
+   "id": "2119816082626126021#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in robotics today: - Amazon takes another shot at the home robot - Zipline hits $21.5B on Walmart deal - Humble Robotics lands $51M for cabless trucks - Spider robot welds ships upside down",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2119816076355567903#m",
+   "ts": 1794238511,
+   "id": "2119816076355567903#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -223,15 +250,6 @@
    "id": "2119611058881192187#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "RT by @elonmusk: Image",
-   "url": "https://nitter.kareem.one/TheJadeWarwick/status/2119595835696480575#m",
-   "ts": 1794186002,
-   "id": "2119595835696480575#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -307,6 +325,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "Hey @grok , how many Europeans were captured and sold into slavery by North African pirates between 1500 and 1800? Number only.",
+   "url": "https://nitter.kareem.one/iAnonPatriot/status/2119507410175820101#m",
+   "ts": 1794164919,
+   "id": "2119507410175820101#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "Musk to Texas Democrats: Our Success Came From Freedom, Not Your Favors Elon Musk just slapped down a Wall Street Journal story claiming Texas Democrats plan to yank the \"white-glove treatment\" for SpaceX and Tesla now that they've flipped the state. He made it plain: the companies thrived here because the government stayed out of the way. \"SpaceX and Tesla have prospered in Texas, because we were not constantly operating under an oppressive and extractive state government,\" Musk wrote. He explained the practical reasons too. Factories need hands-on leadership. \"And I need to be close to the factories, so that I can walk the floor in person. That’s why the first major SpaceX factory was in LA and first major Tesla factory was in SF Bay Area.\" Then California turned hostile. \"As California became increasingly difficult, due to extreme taxes and overregulation, we moved our major domestic expansions and HQ to Texas.\" This is the same pattern that hollowed out California's tech and manufacturing base. High taxes, endless rules, and politicians treating productive companies like piñatas drove the growth elsewhere. Texas offered the opposite: lower burdens, faster permitting, and room to build. Jobs followed. Investment followed. Rockets and cars got built instead of lawsuits. Now the new Democratic leadership is signaling they want to change the deal. They talk about ending special treatment, scrutinizing land deals, slowing data centers, and reviewing incentives. Translation: th",
    "url": "https://nitter.kareem.one/NathanielSami/status/2119469753882566825#m",
    "ts": 1794155941,
@@ -356,15 +383,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2119427047437242624#m",
    "ts": 1794145759,
    "id": "2119427047437242624#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "A grooming gang survivor raped by at least 50 men was handed back to her abusers by police after saying she was an adult. The officer's parting words? \"Enjoy your night, lads.\" dailysceptic.org/2026/11/08/… Link Cop Told Grooming Gang “Enjoy Your Night” As He Returned Girl to Them – The Daily Sceptic A grooming gang survivor raped by at least 50 men was handed back to her abusers by police after saying she was an adult. The officer's parting words? \"Enjoy your night, lads.\" dailysceptic.org",
-   "url": "https://nitter.kareem.one/toadmeister/status/2119391197202374664#m",
-   "ts": 1794137212,
-   "id": "2119391197202374664#m"
   },
   {
    "handle": "elonmusk",
@@ -1006,15 +1024,6 @@
    "id": "2117640781137649686#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in tech today: - Apple says it can’t predict Duo supply fix - TikTok builds a super app, piece by piece - BrainCo aims to build an ‘electronic GLP-1’ - Rivian, Ford scale up 3D-printed car parts",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2117640776205181181#m",
-   "ts": 1793719879,
-   "id": "2117640776205181181#m"
-  },
-  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -1022,15 +1031,6 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2117608870910513633#m",
    "ts": 1793712272,
    "id": "2117608870910513633#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: therundownai.beehiiv.com/p/m… Link MIT shows AI improving AI, no training required Discover how MIT researchers found AI can improve itself without any retraining, hinting at autonomous AI research already possible in today's public models. therundownai.beehiiv.com",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2117580187260895526#m",
-   "ts": 1793705434,
-   "id": "2117580187260895526#m"
   },
   {
    "handle": "realDonaldTrump",
