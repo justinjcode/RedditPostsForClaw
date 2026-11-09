@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-09T22:55:05Z",
+ "generated_at": "2026-11-09T23:10:15Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,10 +10,20 @@
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed"
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "“The Huang affair highlights China’s designs on U.S. chips and holes in U.S. export controls. Closing the holes may be a rare but useful area for bipartisan cooperation.” @WSJopinion wsj.com/opinion/nvidia-gets-… Link Opinion | Nvidia Gets a Chinese Honeypot Lesson Jensen Huang’s affair with an alleged spy has national-security stakes. wsj.com",
+   "url": "https://nitter.kareem.one/Lingling_Wei/status/2119928187270332723#m",
+   "ts": 1794265240,
+   "id": "2119928187270332723#m"
+  },
   {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
@@ -1427,15 +1436,6 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2115048188055019826#m",
    "ts": 1793101758,
    "id": "2115048188055019826#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "Fei-Fei Li ( @DrFeiFei ) reflects on how America gave her the freedom to pursue any opportunity she could work for. Opportunity is not something handed to you, Li argues, but a place that lets you work hard, dream big or small, and seize what you find. The Founding Director of @StanfordHAI and co-founder and CEO of @TheWorldLabs joins Hoover Institution historian Stephen Kotkin on a new episode of Only in America. Watch their full conversation here: plus.hoover.org/plus/researc… Video Hoover Institution (@HooverInst) On a new episode of Only in America, @DrFeiFei Li, the \"Godmother of AI,\" speaks with world-renowned historian and Hoover Senior Fellow Stephen Kotkin about her journey to the frontiers of spatial intelligence. 3:38 - Fei-Fei Li's high school years in New Jersey 6:58 - Li's journey to studying physics at Princeton 11:09 - Li on finding an \"audacious question\" in science 16:19 - Kotkin and Li on curiosity and the immigrant experience 22:01 - Li on the moral responsibilities of scientists 28:12 - Li on co-founding @TheWorldLabs 34:58 - World models as the next frontier of AI 37:08 - Kotkin and Li on civic responsibility and mentorship 42:06 - Fei-Fei Li on America and adapting to the AI revolution Fei-Fei Li, Founding Director of @StanfordHAI , is one of the pioneering researchers in the field of spatial intelligence. A professor of computer science at Stanford University, she invented ImageNet, which is today widely regarded as one of the driving forces behind the",
-   "url": "https://nitter.kareem.one/HooverInst/status/2113738084072488975#m",
-   "ts": 1792789405,
-   "id": "2113738084072488975#m"
   },
   {
    "handle": "simonw",
