@@ -1,18 +1,17 @@
 {
- "generated_at": "2026-11-09T00:48:59Z",
+ "generated_at": "2026-11-09T00:57:55Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@simonw: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
   {
@@ -23,6 +22,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2119578315619254275#m",
    "ts": 1794181824,
    "id": "2119578315619254275#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Charlie was murdered in the middle of a debate with people who hate him while wearing a shirt that said \"freedom.\" He died defending Chappelle's right to be offensive. And Chappelle thanks him by reveling in his death. But as offensive as that is, none of us who knew and loved Charlie want Chappelle to suffer the same fate. We don't want Chappelle dead, and we wouldn't \"feel better\" if someone murdered him. That's not how we respond to speech that offends us because we're not bloodthirsty lunatics. If you're laughing about Charlie's murder, or feeling good about Charlie's murder, you're acting within your rights. You're free to be sadistic. But that's exactly what you are. Your soul is sick. The only thing I wish for you is that you'd come to realize it — before it's too late — and beg for God's forgiveness. FreeThinkerFitness (@FreeThinkerFit) “Ever since that guy Charlie Kirk got murdered, and I shouldn’t say this publicly but…. I feel better.” - Dave Chappelle Video — https://nitter.kareem.one/FreeThinkerFit/status/2119320412635144528#m",
+   "url": "https://nitter.kareem.one/SethDillon/status/2119563450846245307#m",
+   "ts": 1794178280,
+   "id": "2119563450846245307#m"
   },
   {
    "handle": "elonmusk",
@@ -347,15 +355,6 @@
    "url": "https://nitter.kareem.one/CarlHigbie/status/2119148067442282988#m",
    "ts": 1794079245,
    "id": "2119148067442282988#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Why is Russell Brand the only one found guilty when there are entire grooming gangs who have faced zero prosecution?! 🇬🇧",
-   "url": "https://nitter.kareem.one/Jenniferarcuri/status/2119145059668914317#m",
-   "ts": 1794078528,
-   "id": "2119145059668914317#m"
   },
   {
    "handle": "swyx",
