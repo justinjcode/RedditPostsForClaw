@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-09T15:19:42Z",
+ "generated_at": "2026-11-09T15:27:40Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
   {
@@ -23,6 +22,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2119809574563922263#m",
    "ts": 1794236961,
    "id": "2119809574563922263#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "Makes it even more clear that these Chinese measures were direct retaliation for the proposed affiliates rule, which a lot of folks denied at the time. piie.com/blogs/realtime-econ… Link A new export rule escalates US-China tensions On September 29, the Commerce Department’s Bureau of Industry and Security (BIS) issued a rule that has significantly expanded the reach of existing US export controls by targeting subsidiaries of... piie.com Paul Triolo (@pstAsiatech) China extends suspension of new rare earth controls until January @pstAsiatech Of course this was coming, after Commerce FR notice, this drops, exactly as we expected. Anyone doubting this would happen is not following the issue very closely... reuters.com/world/china/chin… Link China extends suspension of new rare earth controls until January China on Monday announced a two-month extension of export-control waivers ​due to expire this month, preserving ‌part of a wide-ranging deal struck after a summit between Presidents Xi Jinping and... reuters.com — https://nitter.kareem.one/pstAsiatech/status/2119791250773586126#m",
+   "url": "https://nitter.kareem.one/ChorzempaMartin/status/2119797177757360553#m",
+   "ts": 1794234005,
+   "id": "2119797177757360553#m"
   },
   {
    "handle": "elonmusk",
@@ -662,15 +670,6 @@
    "url": "https://nitter.kareem.one/laurimyllyvirta/status/2118565173187264900#m",
    "ts": 1793940272,
    "id": "2118565173187264900#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "I'd like to offer a candid assessment of the state of China's economy. My assessment may seem somewhat paradoxical: China's economy is one of the world's strongest and most successful but also, in some ways, in bad shape. China's economic transformation over the years has involved a tremendous development of productive capabilities. There isn't much China cannot manufacture. From the perspective of technological and economic development — as well as improving the material lives of its people — China's economic trajectory has been, and continues to be, a success. The same can be said of the leverage and power China commands in the global economy. It is arguably the only individual economy that has strong leverage in trade negotiations with the US, and it is playing an huge role in reshaping the global economic order due to its sheer economic power. This is primarily thanks to its dominance in global manufacturing and international trade. At the same time, some important economic indicators are pointing in a negative direction. The three most important ones, in my view, are the property slump, youth unemployment, and deflationary pressures. I'm not mentioning slowing GDP growth because it is still quite impressive by international standards — it's just that it's lower than the standard we've set for China. A lot of these economic problems are linked through low levels of consumption. This is, to some degree, tied to the model of development China pursued. In order to raise inve",
-   "url": "https://nitter.kareem.one/haugejostein/status/2118541398328987735#m",
-   "ts": 1793934604,
-   "id": "2118541398328987735#m"
   },
   {
    "handle": "thsottiaux",
