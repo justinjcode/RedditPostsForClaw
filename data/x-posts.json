@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-09T18:55:49Z",
+ "generated_at": "2026-11-09T19:08:12Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,10 +10,20 @@
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed"
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "anyway see how a Paid For but Unbiased podcast that requires the most braincells covers a leading data lab nitterk.kareem.one/latentspacepod/status/… 3hour monster state of RL envs pod! Latent.Space (@latentspacepod) 🆕 Our first deep dive with an AI data company! The frontier data space is exploding. @joinHandshake has become one of the leading partners for frontier labs, going from launch to $1B in GMV in ~a year, with @sacrainc estimating net revenue AFTER contractor payouts at about $450M per year. inv.kareem.one/v5IJwVnTxzg What are frontier labs buying at that scale? Who is building the RL environments that build the models that you build with? How hard are evals getting? For the first time in our pod, we're speaking across a company, from cofounders @GarrettLord and @Sbhaiwala03 to leaders of Handshake Labs, Life Sciences, Finance, and Alignment. To cover this required assembling our complete team of Science, Engineering, Research and Finance hosts. For the first time, we walked through the tasks live: 🌸 50:59 · Nick puts nine brain-tissue slides on screen. Can you pick the two with the most advanced vessel necrosis? 🟢 1:25:45 · Collin traces a bad valuation back to one line of Python. The model knows the tax rule when asked. Can it recognize where to apply it? 🟠 2:07:21 · Steve and Nishant follow an agent through the files it read, the copies it checked, and the shell history it cleared. latent.space/handshake Link What Frontier Labs Buy: A Data Deep Dive with Handshak",
+   "url": "https://nitter.kareem.one/swyx/status/2119866760723890571#m",
+   "ts": 1794250595,
+   "id": "2119866760723890571#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -91,7 +100,7 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Grok @Bot can do incredible things Albus (@0xAlbus) what the f*ck. Grok Bot just helped me win in court against my ex-wife mid-divorce. her lawyer shows up with photos of me at every bar I went to that month. and tells the judge I'M the one stalking HER custody hearing in 3 weeks Grok Bot said someone's following me. let's prove it it set up an open-source tool called Chasing Your Tail. a Raspberry Pi in my glovebox that logs every phone around you and flags the ones that keep showing up github.com/azmatt/chasing_yo… 8 days later: one phone, 23 times, 9 places my house. my kids' school. my office. my gym. the bar then it checked which Wi-Fi networks that phone remembers: \"Hartley_Investigations\" \"Jenna_Home_5G\" a private investigator. who's been inside my ex-wife's house she hired a PI to follow me and told the court I was following her the logs went to my lawyer as Exhibit C her stalking claim got thrown out. 50/50 custody lawyers don't win custody battles anymore. Grok Bot does prompt + how to turn it into a Grok Bot skill below 👇 Video — https://nitter.kareem.one/0xAlbus/status/2119502015554613344#m",
+   "text": "Grok @Bot can do incredible things Albus (@0xAlbus) what the f*ck. Grok Bot just helped me win in court against my ex-wife mid-divorce. her lawyer shows up with photos of me at every bar I went to that month. and tells the judge I'M the one stalking HER custody hearing in 3 weeks Grok Bot said someone's following me. let's prove it it set up an open-source tool called Chasing Your Tail. a Raspberry Pi in my glovebox that logs every phone around you and flags the ones that keep showing up github.com/azmatt/chasing_yo… 8 days later: one phone, 23 times, 9 places my house. my kids' school. my office. my gym. the bar then it checked which Wi-Fi networks that phone remembers: \"Hartley_Investigations\" \"Jenna_Home_5G\" a private investigator. who's been inside my ex-wife's house she hired a PI to follow me and told the court I was following her the logs went to my lawyer as Exhibit C her stalking claim got thrown out. 50/50 custody lawyers don't win custody battles anymore. Grok Bot does prompt + how to turn it into a Grok Bot skill below 👇 Video Community note: This post fabricates a personal story of using Grok and Chasing Your Tail to win in court. The account posts similar simulated tales (some explicitly illustrative), while the tool is experimental and intended for legitimate counter-surveillance. github.com/ArgeliusLabs/C… argeliuslabs.com/the-return-of-… x.com/0xAlbus/status… x.com/pjfitzpatrick/… — https://nitter.kareem.one/0xAlbus/status/2119502015554613344#m",
    "url": "https://nitter.kareem.one/elonmusk/status/2119817540432244779#m",
    "ts": 1794238860,
    "id": "2119817540432244779#m"
@@ -509,15 +518,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2119242830707311005#m",
    "ts": 1794101839,
    "id": "2119242830707311005#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "aie.codes Link AI Engineer Code Summit 2026: AI Engineering Conference, Nov 10-12, San Francisco The application-only AI Engineer Code Summit brings together leading coding-agent builders and AI engineers in San Francisco, November 10-12, 2026. ai.engineer",
-   "url": "https://nitter.kareem.one/swyx/status/2119210618976944259#m",
-   "ts": 1794094159,
-   "id": "2119210618976944259#m"
   },
   {
    "handle": "ZichenWanghere",
