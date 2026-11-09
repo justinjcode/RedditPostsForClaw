@@ -1,19 +1,29 @@
 {
- "generated_at": "2026-11-09T19:36:56Z",
+ "generated_at": "2026-11-09T19:46:35Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "looks like $ANT is back on the menu boys and girls and theythems!! Claude (@claudeai) Introducing Claude Fable 5.2 and Claude Mythos 5.2, designed to tackle the most daunting technical challenges. They’re capable collaborators on ambitious projects in many fields, and show improvements in areas like coding, reasoning, and vision. Video — https://nitter.kareem.one/claudeai/status/2119867114450268322#m",
+   "url": "https://nitter.kareem.one/swyx/status/2119877266134200761#m",
+   "ts": 1794253100,
+   "id": "2119877266134200761#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -526,15 +536,6 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2119259749091008811#m",
    "ts": 1794105872,
    "id": "2119259749091008811#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "How GitHub is rebuilding for Agents 225M developers. 34.3B commits in a year. @github ’s agent era is a full-stack rebuild—and @jayparikh , EVP of CoreAI at Microsoft, is leading it. inv.kareem.one/rSWiNE92xqM Fresh off his GitHub Universe keynote, Jay goes deep on Copilot Fusion: breaking a task across models to improve quality, cost and speed, and how the harness and model orchestration improve together. We also get into the infrastructure behind agent-scale GitHub, carrying one session from phone to desktop, and a question every AI engineer should care about: how do you connect token spending to useful work shipped? Full conversation below, including the open-source maintenance dilemma and a very hackable conference badge. 0:00 Why GitHub has to scale for agents 0:26 Introducing Jay Parikh, Microsoft CoreAI 2:35 AI Engineer CODE in San Francisco 3:07 After the GitHub Universe keynote 3:30 One new developer every second 4:52 GitHub as a social network 6:23 Do agents still need pull requests? 8:03 What counts as code in a repo? 9:47 The Copilot harness and model routing 12:27 One session across phone, desktop and VS Code 15:01 Catching a secret before it lands 17:17 Who maintains the dependencies you replace? 19:10 GitHub in 2027 and the move to Azure 20:51 Token budgets and the value of shipped work 22:36 The programmable Universe badge More on the next generation of coding agents at AI Engineer CODE, Nov 10–12 in San Francisco: ai.engineer/code Link GitHub’s Growth: 225M D",
-   "url": "https://nitter.kareem.one/latentspacepod/status/2119244385867251955#m",
-   "ts": 1794102209,
-   "id": "2119244385867251955#m"
   },
   {
    "handle": "ZichenWanghere",
