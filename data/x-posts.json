@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T04:37:23Z",
+ "generated_at": "2026-11-09T04:45:50Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,24 @@
  "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "... today I learned that Twitter preview cards can't handle HTML tags in post titles!",
+   "url": "https://nitter.kareem.one/simonw/status/2119650830534266885#m",
+   "ts": 1794199113,
+   "id": "2119650830534266885#m"
+  },
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "I've recently started hiding the bulk of my AI-generated GitHub PR descriptions behind a collapsed <details><summary> HTML tag (thankfully supported by GitHub Markdown) and I think it's a useful pattern for making PR slop a little bit less exhausting simonwillison.net/2026/Nov/9… Link Hide your slop PR descriptions behind Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit … simonwillison.net",
+   "url": "https://nitter.kareem.one/simonw/status/2119650353142747181#m",
+   "ts": 1794199000,
+   "id": "2119650353142747181#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -396,7 +414,7 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Uhh… you mean the kids who were found innocent??? Mediaite (@Mediaite) FLASHBACK: Unearthed Video of Stephen Miller Defending Duke Lacrosse Players Accused of Rape mediaite.com/media/news/flas… Link Stephen Miller Defends Duke Lacrosse Team to Nancy Grace A video shared on social media shows a young Stephen Miller defending the members of the Duke lacrosse team who were falsely accused of rape. mediaite.com Community note: Stephen Miller advocated for the presumption of innocence of the Duke lacrosse players in 2006 amid rape accusations. The players were exonerated in 2007; the accuser later admitted fabricating the allegations. dukechronicle.com/article/stephe… cnn.com/2024/12/14/us/… dukechronicle.com/article/2024/1… — https://nitter.kareem.one/Mediaite/status/2118798387747107227#m",
+   "text": "Uhh… you mean the kids who were found innocent??? Mediaite (@Mediaite) FLASHBACK: Unearthed Video of Stephen Miller Defending Duke Lacrosse Players Accused of Rape mediaite.com/media/news/flas… Link Stephen Miller Defends Duke Lacrosse Team to Nancy Grace A video shared on social media shows a young Stephen Miller defending the members of the Duke lacrosse team who were falsely accused of rape. mediaite.com Community note: ⚠️IMPORTANT CONTEXT: Duke Lacrosse Allegations Were a Hoax en.wikipedia.org/wiki/Duke_lacr… espn.com/college-sports… The City of Durham and Duke University were forced to settle law suits from the innocent players, and the DA was charged criminally for misconduct. cnn.com/2014/05/16/jus… — https://nitter.kareem.one/Mediaite/status/2118798387747107227#m",
    "url": "https://nitter.kareem.one/CarlHigbie/status/2119148067442282988#m",
    "ts": 1794079245,
    "id": "2119148067442282988#m"
@@ -1329,9 +1347,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
@@ -1498,24 +1516,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2112944161670488423#m",
    "ts": 1792600119,
    "id": "2112944161670488423#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "OK, that headache bug was really bad! It inspired me to add proper online multiplayer to Battle Drones (via a tiny @flydotio hosted WebSockets relay server) - now you can start an online game and send a link to a friend so they can join you simonwillison.net/2026/Oct/2…",
-   "url": "https://nitter.kareem.one/simonw/status/2112689291570938255#m",
-   "ts": 1792539353,
-   "id": "2112689291570938255#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "Warning if you're going to try this: the audio multiplayer plays a high pitched noise throughout the game - annoying at best, and at worst might give you an actual headache (Natalie: \"why do my teeth hurt?\")",
-   "url": "https://nitter.kareem.one/simonw/status/2112657717227843942#m",
-   "ts": 1792531825,
-   "id": "2112657717227843942#m"
   },
   {
    "handle": "bcherny",
