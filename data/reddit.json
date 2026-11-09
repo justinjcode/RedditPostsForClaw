@@ -1,15 +1,78 @@
 {
- "generated_at": "2026-11-09T00:22:22Z",
+ "generated_at": "2026-11-09T10:10:21Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
-  "programming"
+  "programming",
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Have always been wanting to completely shift to locally-hosted Cloud. Where do I start today?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xrl4rg/have_always_been_wanting_to_completely_shift_to/",
+   "ts": 1794208176,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Amazon applied science intern interview next week - EU based [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xrkiaw/amazon_applied_science_intern_interview_next_week/",
+   "ts": 1794205894,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Tailscale prevents Android phone connection to my home server?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xrjg23/tailscale_prevents_android_phone_connection_to_my/",
+   "ts": 1794202198,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Thunderbolt bridge network between nixos and mac finnicky",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xrj99x/thunderbolt_bridge_network_between_nixos_and_mac/",
+   "ts": 1794201567,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Have MLSys 2027 reviewers received their paper assignments yet? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xrj2ld/have_mlsys_2027_reviewers_received_their_paper/",
+   "ts": 1794200962,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Can coding agents build interactive 3D worlds? Frontier3DBench evaluates 11 configurations across objects, scenes, and worlds [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xrhg3a/can_coding_agents_build_interactive_3d_worlds/",
+   "ts": 1794195681,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Is Oracle Always Free boot volume (10 VPU/GB) actually free?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xrh8r3/is_oracle_always_free_boot_volume_10_vpugb/",
+   "ts": 1794195015,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Anyone using AWS Glacier (or similar) instead of traditional offline backup?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xrh89a/anyone_using_aws_glacier_or_similar_instead_of/",
+   "ts": 1794194971,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "LoRA-conditioned model skips the first line of its output when the caption is short. Any idea why? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xrdn7p/loraconditioned_model_skips_the_first_line_of_its/",
+   "ts": 1794184207,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Joined the 4x R9700 Club | Initial Benchmarks for QFN 3.8 Below",
@@ -25,17 +88,17 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Spectre - A design-by-contract language with an explicit allocator-centric API that outperforms Zig by up to 6x on General Purpose Benchmarks",
-   "url": "https://www.reddit.com/r/programming/comments/1xraxrk/spectre_a_designbycontract_language_with_an/",
-   "ts": 1794176672,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Nous Research Arete-27B GGUF quants",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrarta/nous_research_arete27b_gguf_quants/",
    "ts": 1794176230,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Self Hosting Dashcams?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xrapn3/self_hosting_dashcams/",
+   "ts": 1794176071,
    "source": "Reddit"
   },
   {
@@ -50,6 +113,13 @@
    "title": "Resurrecting 2013 E-Waste: Native CUDA Mamba-1 & PyTorch 2.7.1 on Windows (Kepler–Turing, SM 3.5–7.5)",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr97iz/resurrecting_2013_ewaste_native_cuda_mamba1/",
    "ts": 1794172151,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "AudioSilo - Self hosted audiobooks",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xr8g7s/audiosilo_self_hosted_audiobooks/",
+   "ts": 1794170204,
    "source": "Reddit"
   },
   {
@@ -74,6 +144,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "selfhosted",
+   "title": "Tracearr’s dev and update pace… is it just me?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xr5mhv/tracearrs_dev_and_update_pace_is_it_just_me/",
+   "ts": 1794163267,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "programming",
    "title": "Sem86 - A full-system emulator without hardcoded semantics",
    "url": "https://www.reddit.com/r/programming/comments/1xr4v4f/sem86_a_fullsystem_emulator_without_hardcoded/",
@@ -92,13 +169,6 @@
    "title": "Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier [N]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xr4hkm/artificial_analysis_multimodal_decision_model/",
    "ts": 1794160483,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Help with setting up dozzle notifications",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xr4aie/help_with_setting_up_dozzle_notifications/",
-   "ts": 1794159999,
    "source": "Reddit"
   },
   {
@@ -144,13 +214,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Kavita Adds Kobo Sync Support",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xr1t29/kavita_adds_kobo_sync_support/",
-   "ts": 1794153817,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "I fine-tuned Qwen3.5-0.8B to turn plain English into bash. What I learnt",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr0ykk/i_finetuned_qwen3508b_to_turn_plain_english_into/",
@@ -176,20 +239,6 @@
    "title": "Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI.",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr01bj/users_have_started_buying_rtx_5060_ti_16gb/",
    "ts": 1794149122,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Super Productivity v20: rule-based views, background Nextcloud/WebDAV reminders on Android, and a local MCP endpoint",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xqzeve/super_productivity_v20_rulebased_views_background/",
-   "ts": 1794147373,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "The Day After Code Is Already Here. This Is What You Need to Know to Survive.",
-   "url": "https://www.reddit.com/r/programming/comments/1xqz3rf/the_day_after_code_is_already_here_this_is_what/",
-   "ts": 1794146496,
    "source": "Reddit"
   },
   {
@@ -228,13 +277,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "IaC for selfhosted server?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xqw0r1/iac_for_selfhosted_server/",
-   "ts": 1794136118,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Introducing Project Steadfast",
    "url": "https://www.reddit.com/r/programming/comments/1xqu801/introducing_project_steadfast/",
@@ -246,20 +288,6 @@
    "title": "How do you handle secrets across your self-hosted stuff?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xqu3fa/how_do_you_handle_secrets_across_your_selfhosted/",
    "ts": 1794128432,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "I trained a playable diffusion world model of Pokémon Red, plus a game agent harness on the same System 1/2 split as Krafton's PUBG Ally. Can this be ICLR-workshop worthy? [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xqt0pk/i_trained_a_playable_diffusion_world_model_of/",
-   "ts": 1794124132,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "What happened to ShareX?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xqsx4k/what_happened_to_sharex/",
-   "ts": 1794123727,
    "source": "Reddit"
   },
   {
@@ -284,31 +312,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "Advice needed regarding classical ML conference submission [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xqqrof/advice_needed_regarding_classical_ml_conference/",
-   "ts": 1794115617,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Quantum Optimization – Solve QUBO on D-Wave Quantum Annealer",
    "url": "https://www.reddit.com/r/programming/comments/1xqqoz3/quantum_optimization_solve_qubo_on_dwave_quantum/",
    "ts": 1794115358,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "File and Metadata management",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xqqmy3/file_and_metadata_management/",
-   "ts": 1794115160,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "GRFNet, PyTorch model for multichannel time-series classification [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xqqj67/grfnet_pytorch_model_for_multichannel_timeseries/",
-   "ts": 1794114791,
    "source": "Reddit"
   },
   {
@@ -347,31 +354,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "PSA - Immich defaults to a full file checksum integrity check of all images every night",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xqdi7y/psa_immich_defaults_to_a_full_file_checksum/",
-   "ts": 1794076657,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Selfhosting + Beers NL Update",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xq6z8j/selfhosting_beers_nl_update/",
-   "ts": 1794059861,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Internals of asyncio",
    "url": "https://www.reddit.com/r/programming/comments/1xq391t/internals_of_asyncio/",
    "ts": 1794047199,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Are ICLR 2027 reviews unusually shallow this year, or is it just me? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xq1f1m/are_iclr_2027_reviews_unusually_shallow_this_year/",
-   "ts": 1794039940,
    "source": "Reddit"
   },
   {
@@ -396,10 +382,24 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "programming",
+   "title": "Go 1.27: encoding/json/v2, Stricter Defaults, and Finally [] for Nil Slices · cekrem.github.io",
+   "url": "https://www.reddit.com/r/programming/comments/1xp8b96/go_127_encodingjsonv2_stricter_defaults_and/",
+   "ts": 1793956105,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
    "title": "New Project Megathread - Week of 05 Nov 2026",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xox23i/new_project_megathread_week_of_05_nov_2026/",
    "ts": 1793919684,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Modern Java at Stripe: Language upgrades as a service",
+   "url": "https://www.reddit.com/r/programming/comments/1xov21m/modern_java_at_stripe_language_upgrades_as_a/",
+   "ts": 1793914589,
    "source": "Reddit"
   },
   {
