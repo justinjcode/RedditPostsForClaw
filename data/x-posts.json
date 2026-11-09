@@ -1,18 +1,17 @@
 {
- "generated_at": "2026-11-09T21:38:06Z",
+ "generated_at": "2026-11-09T21:45:51Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
   {
@@ -41,6 +40,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2119878742063641056#m",
    "ts": 1794253452,
    "id": "2119878742063641056#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "i'm happy to share some recent work on safely scaling a team of 1,000 Fable 5.2 agent to tackle ambitious, long-horizon work. the team was able to formalize a proof of Fermat's Last Theorem through coordination within our safety boundaries. read it here: claude.dev/blog/safely-scali…",
+   "url": "https://nitter.kareem.one/RLanceMartin/status/2119875041475379681#m",
+   "ts": 1794252569,
+   "id": "2119875041475379681#m"
   },
   {
    "handle": "TheRundownAI",
@@ -473,15 +481,6 @@
    "url": "https://nitter.kareem.one/dexhorthy/status/2119524005044768950#m",
    "ts": 1794168876,
    "id": "2119524005044768950#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "we're celebrating 1 million AI Engineers all week at aie code. QT with your favorite AIE talk and/or speaker, and why! AI.Engineer 🔜 CODE (@aiDotEngineer) One. Million. AI Engineers. thank you. Video — https://nitter.kareem.one/aiDotEngineer/status/2119512384008319130#m",
-   "url": "https://nitter.kareem.one/swyx/status/2119513321468735749#m",
-   "ts": 1794166329,
-   "id": "2119513321468735749#m"
   },
   {
    "handle": "elonmusk",
