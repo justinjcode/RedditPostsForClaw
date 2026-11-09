@@ -1,20 +1,146 @@
 {
- "generated_at": "2026-11-09T10:10:21Z",
+ "generated_at": "2026-11-09T18:12:17Z",
  "count": 60,
  "subreddits_ok": [
+  "LocalLLaMA",
   "MachineLearning",
-  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "More interesting and unusual Qwen3.5-4B neurons",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrydgx/more_interesting_and_unusual_qwen354b_neurons/",
+   "ts": 1794246415,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "ConceptCountry/qwen-concept-27b · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrxwg1/conceptcountryqwenconcept27b_hugging_face/",
+   "ts": 1794245367,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Any accountants/financial professionals using local LLMs?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrx72d/any_accountantsfinancial_professionals_using/",
+   "ts": 1794243818,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "EACL 2027 Decisions Thread [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xrv8mp/eacl_2027_decisions_thread_r/",
+   "ts": 1794239544,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Anyone else feeling like Qwen4's release happens in slow-motion?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrv2ae/anyone_else_feeling_like_qwen4s_release_happens/",
+   "ts": 1794239169,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Drummer's Orion 26B A4B v1 and v1.1! ... Plus a new project from yours truly.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xruzry/drummers_orion_26b_a4b_v1_and_v11_plus_a_new/",
+   "ts": 1794239008,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Weight-space programming: editing Qwen3.5 into a top decision model",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xruwlf/weightspace_programming_editing_qwen35_into_a_top/",
+   "ts": 1794238806,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Using latent-agent swarms for math discovery and optimization [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xrunu7/using_latentagent_swarms_for_math_discovery_and/",
+   "ts": 1794238250,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "local and remote access with nginx proxy manager",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xru6vx/local_and_remote_access_with_nginx_proxy_manager/",
+   "ts": 1794237158,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Riviamigo - Self hosted Rivian data logging dashboard (new release 2026.11.1)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xrtvw3/riviamigo_self_hosted_rivian_data_logging/",
+   "ts": 1794236462,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "trying to go paperless at home, open source stuff that seems to cover most of it",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xrtrfa/trying_to_go_paperless_at_home_open_source_stuff/",
+   "ts": 1794236181,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Best price/performance hosting setup for a TypeScript/Node.js SaaS? Dev vs Production, VPS vs PaaS",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xrtp6v/best_priceperformance_hosting_setup_for_a/",
+   "ts": 1794236034,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "meituan-longcat/LongCat-2.5 · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrsptp/meituanlongcatlongcat25_hugging_face/",
+   "ts": 1794233657,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "New Gemma Models",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrpcke/new_gemma_models/",
+   "ts": 1794223928,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Looking for a google keep alternative(mostly todo list)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xrp42g/looking_for_a_google_keep_alternativemostly_todo/",
+   "ts": 1794223086,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Dawarich 1.22.0 — Alternative to Google Timeline, OwnTracks and Life360",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xrourj/dawarich_1220_alternative_to_google_timeline/",
+   "ts": 1794222183,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "I tried to reproduce “lost in the middle” on current models and actually couldn’t do that! [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xrn7lo/i_tried_to_reproduce_lost_in_the_middle_on/",
+   "ts": 1794216130,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Have always been wanting to completely shift to locally-hosted Cloud. Where do I start today?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xrl4rg/have_always_been_wanting_to_completely_shift_to/",
    "ts": 1794208176,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "L11 N8147 is a neuron that will make Qwen-3.5-4B get things confidently wrong while being weirdly snarky... But also makes it write interesting poetry",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrkomn/l11_n8147_is_a_neuron_that_will_make_qwen354b_get/",
+   "ts": 1794206527,
    "source": "Reddit"
   },
   {
@@ -29,13 +155,6 @@
    "title": "Tailscale prevents Android phone connection to my home server?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xrjg23/tailscale_prevents_android_phone_connection_to_my/",
    "ts": 1794202198,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Thunderbolt bridge network between nixos and mac finnicky",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xrj99x/thunderbolt_bridge_network_between_nixos_and_mac/",
-   "ts": 1794201567,
    "source": "Reddit"
   },
   {
@@ -54,16 +173,16 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Is Oracle Always Free boot volume (10 VPU/GB) actually free?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xrh8r3/is_oracle_always_free_boot_volume_10_vpugb/",
-   "ts": 1794195015,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "Anyone using AWS Glacier (or similar) instead of traditional offline backup?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xrh89a/anyone_using_aws_glacier_or_similar_instead_of/",
    "ts": 1794194971,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Github Repo: Torchlens - Inspect, visualize and intervene on any operation in any neural network.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrh5iz/github_repo_torchlens_inspect_visualize_and/",
+   "ts": 1794194732,
    "source": "Reddit"
   },
   {
@@ -88,31 +207,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Nous Research Arete-27B GGUF quants",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrarta/nous_research_arete27b_gguf_quants/",
-   "ts": 1794176230,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Self Hosting Dashcams?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xrapn3/self_hosting_dashcams/",
-   "ts": 1794176071,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Continual retention across 6 streams [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xr9d9y/continual_retention_across_6_streams_r/",
    "ts": 1794172567,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Resurrecting 2013 E-Waste: Native CUDA Mamba-1 & PyTorch 2.7.1 on Windows (Kepler–Turing, SM 3.5–7.5)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr97iz/resurrecting_2013_ewaste_native_cuda_mamba1/",
-   "ts": 1794172151,
    "source": "Reddit"
   },
   {
@@ -124,30 +222,9 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "Intel Arc Pro B70 32GB ($1,299) vs NVIDIA RTX 5090 ($6,500+) on Qwen3.8-27B: about 1/2 speed gen (1/3 speed prefill) for 1/5 price, after best setup",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr78s5/intel_arc_pro_b70_32gb_1299_vs_nvidia_rtx_5090/",
-   "ts": 1794167209,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Kimi-K3.1-Pro-Coder (2.8T) | 1.77 TB -> 775 GB (-56%) | 36.8 TPS (Batch) / 10.8 TPS on 1x Blackwell | 96.7% on both AIME 2025 and LiveCodeBench",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr777l/kimik31procoder_28t_177_tb_775_gb_56_368_tps/",
-   "ts": 1794167103,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation: This will completely change everything!",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr6krp/nextconcept_modeling_fast_parallel_coarsetofine/",
    "ts": 1794165579,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Tracearr’s dev and update pace… is it just me?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xr5mhv/tracearrs_dev_and_update_pace_is_it_just_me/",
-   "ts": 1794163267,
    "source": "Reddit"
   },
   {
@@ -155,13 +232,6 @@
    "title": "Sem86 - A full-system emulator without hardcoded semantics",
    "url": "https://www.reddit.com/r/programming/comments/1xr4v4f/sem86_a_fullsystem_emulator_without_hardcoded/",
    "ts": 1794161393,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "What are people finding local models actually useful for?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr4iv0/what_are_people_finding_local_models_actually/",
-   "ts": 1794160573,
    "source": "Reddit"
   },
   {
@@ -183,41 +253,6 @@
    "title": "GPT-5.5 dataset across my used 25 billion tokens!",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr3ymf/gpt55_dataset_across_my_used_25_billion_tokens/",
    "ts": 1794159168,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Motion graphics video made with Qwen3.8 Flash Next GSQ RCO IQ3_XXS on strata",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr3qes/motion_graphics_video_made_with_qwen38_flash_next/",
-   "ts": 1794158609,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "The Qwen Flash Next alibaba URL thing happened to me too just now",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr3ifw/the_qwen_flash_next_alibaba_url_thing_happened_to/",
-   "ts": 1794158059,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "tencent/Qwen3.8-27B-DSpine-b16 · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr2aaa/tencentqwen3827bdspineb16_hugging_face/",
-   "ts": 1794155028,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "4x Radeon AI PRO R9700 + 2x RTX 3090 on one x16 slot, using a PCIe switch",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr2a6y/4x_radeon_ai_pro_r9700_2x_rtx_3090_on_one_x16/",
-   "ts": 1794155022,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "I fine-tuned Qwen3.5-0.8B to turn plain English into bash. What I learnt",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr0ykk/i_finetuned_qwen3508b_to_turn_plain_english_into/",
-   "ts": 1794151591,
    "source": "Reddit"
   },
   {
@@ -250,13 +285,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Domain structure, *.home.example.com or *.example.com",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xqylfx/domain_structure_homeexamplecom_or_examplecom/",
-   "ts": 1794145009,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "FileRun canceled my lifetime license after I requested a receipt",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xqyhfz/filerun_canceled_my_lifetime_license_after_i/",
    "ts": 1794144686,
@@ -284,13 +312,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "How do you handle secrets across your self-hosted stuff?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xqu3fa/how_do_you_handle_secrets_across_your_selfhosted/",
-   "ts": 1794128432,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "What if diffusion models generates Neural Network weights? Gen AI generate Gen AI [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xqsl8d/what_if_diffusion_models_generates_neural_network/",
@@ -302,13 +323,6 @@
    "title": "Profiles for Simplicity and Guarantees - Bjarne Stroustrup",
    "url": "https://www.reddit.com/r/programming/comments/1xqs5vb/profiles_for_simplicity_and_guarantees_bjarne/",
    "ts": 1794120813,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Locally trained VLA model with minimal attention based vision encoder. [p]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xqrtcz/locally_trained_vla_model_with_minimal_attention/",
-   "ts": 1794119468,
    "source": "Reddit"
   },
   {
@@ -347,24 +361,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "NeurIPS 2026 Camera-Ready Deadline Extended? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xqk48t/neurips_2026_cameraready_deadline_extended_d/",
-   "ts": 1794094459,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Internals of asyncio",
    "url": "https://www.reddit.com/r/programming/comments/1xq391t/internals_of_asyncio/",
    "ts": 1794047199,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Try my dang hardest to come up with novel research ideas, but everything feels clunky [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xq06wu/try_my_dang_hardest_to_come_up_with_novel/",
-   "ts": 1794035281,
    "source": "Reddit"
   },
   {
