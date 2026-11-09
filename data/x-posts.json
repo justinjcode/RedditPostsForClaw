@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-09T14:19:52Z",
+ "generated_at": "2026-11-09T14:28:31Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +10,38 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "BREAKING: Brussels Airlines just released a new footage of @Starlink being installed on its aircraft. Flight SN2257 to Copenhagen was its first flight with Starlink today. The airline even sent its press release over Starlink at 12,000 meters. Video",
+   "url": "https://nitter.kareem.one/cb_doge/status/2119779356113580221#m",
+   "ts": 1794229756,
+   "id": "2119779356113580221#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "\"Whole World Repeating A Lie\": EU Lawmaker Challenges \"Far-Right\" MSM Narrative For Polish Gunman zerohedge.com/political/whol… Link \"Whole World Repeating A Lie\": EU Lawmaker Challenges \"Far-Right\" MSM Narrative For Polish Gunman \"The Kraków killer was so far-right that he demonstrated in favor of opening all borders and welcoming all foreigners who wanted to enter Poland.\" zerohedge.com",
+   "url": "https://nitter.kareem.one/zerohedge/status/2119778393621237976#m",
+   "ts": 1794229527,
+   "id": "2119778393621237976#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Another great month for the Grok app. 🚀 • 93,386,567 monthly active users • 12,731,752 downloads Both numbers climbed in October, according to Similarweb’s worldwide data for iPhone and Android. Video",
+   "url": "https://nitter.kareem.one/cb_doge/status/2119762211044544945#m",
+   "ts": 1794225669,
+   "id": "2119762211044544945#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -31,6 +59,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2119754460012384458#m",
    "ts": 1794223821,
    "id": "2119754460012384458#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "‼️Someone Who Was ACTUALLY In The Room At Dave Chappelle’s Show Has Now Released The FULL Context Of What Was Said About Charlie Kirk. 😱 In the footage and breakdown, Chappelle states that ever since Charlie was murdered he has felt better, adds that he knows Charlie is looking up at the audience from hell, and then goes into a rant calling Charlie racist based on a heavily clipped comment about black pilots as well as calls @RealCandaceO a \"Scooby Doo Ass Bitch\" who will not let the case go. This was not presented as a setup or a punchline. It was stated plainly, with no bit attached, in front of a crowd that had already had their phones locked in pouches. The person who recorded it notes how awkward the room became and confirms that many people walked out mid-set. Dave Chappelle even got angry and made the comment that \"This Crowd Sucks\" The breakdown includes Charlie’s original full comments on the pilot remark so viewers can hear the actual argument instead of the shortened version that has circulated. Be sure to watch the OP's FULL video linked down below for their perspective. 👇 From: @amirxodom FOLLOW Him Video Project Constitution (@ProjectConstitu) ‼️Dave Chappelle Must Be Canceled After Saying He Feels Better Since Charlie Kirk Was Murdered😡 Dave Chappelle stood on stage at Madison Square Garden and told the audience“Ever since that guy Charlie Kirk got murdered, and I shouldn’t say this publicly but…. I feel better.” - Dave Chappelle Those words are not edgy. They ",
+   "url": "https://nitter.kareem.one/ProjectConstitu/status/2119746002013786115#m",
+   "ts": 1794221804,
+   "id": "2119746002013786115#m"
   },
   {
    "handle": "elonmusk",
@@ -81,15 +118,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "The Cybertruck order rate far exceeds our production rate. We will try to make as many as possible before shutting down the line in about 8 months, but will have to return deposits for a lot of people. This is not a case of Cybertruck being unprofitable, as has been misreported by legacy media, but rather that the opportunity cost of the complexity of Cybertruck is vastly outweighed by the value of incremental Cybercab production. jimmah (@jamesdouma) Seriously. It’s incomparable. But cars are going to become robots, their forms and functions will change, and we won’t be coming back to this moment. Get it while you can. — https://nitter.kareem.one/jamesdouma/status/2119460358826176575#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2119691615774146614#m",
-   "ts": 1794208837,
-   "id": "2119691615774146614#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "The difference.",
    "url": "https://nitter.kareem.one/DefiantLs/status/2119687643353301220#m",
    "ts": 1794207890,
@@ -99,37 +127,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Starlink connected a remote village in Fiji to the world. 🇫🇯 For the first time, families in Naigani Village on Batiki Island have reliable internet. That makes it easier to call relatives off the island, find information and use services online. Video",
-   "url": "https://nitter.kareem.one/cb_doge/status/2119685184820056238#m",
-   "ts": 1794207304,
-   "id": "2119685184820056238#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Robotaxi available in San Antonio starting tomorrow, 5am",
-   "url": "https://nitter.kareem.one/robotaxi/status/2119678179963187564#m",
-   "ts": 1794205634,
-   "id": "2119678179963187564#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Hey @grok why are Polish officials and UK media calling the shooter \"far right\" when there has been zero evidence that he was \"far right\"?",
    "url": "https://nitter.kareem.one/TheGNPE/status/2119662721419694220#m",
    "ts": 1794201948,
    "id": "2119662721419694220#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon Musk explains one of the most terrifying existential threats humanity faces: a massive comet striking Earth and potentially wiping out civilization “Earth does not currently have any ability to stop asteroids. Now with Starship, we then have some ability to stop an asteroid actually, technically, a comet would be the real danger Because there are billions, if not more than billions, maybe trillions of objects that are in the outer solar system, with very long-period comets An example that most people are probably aware of is Halley’s Comet. It’s slightly under once per century that Halley’s Comet comes by. Many comets have very long periods that we simply don’t know exist And for example, the comet Shoemaker-Levy when that hit Jupiter, it made a hole in Jupiter the size of Earth. So if that did hit Earth, game over \"Everything’s dead\" So there’s always some risk of such a thing occurring, and the probable lifespan of life is just much greater if we’re a multi-planet and ultimately multi-stellar civilization” Video",
-   "url": "https://nitter.kareem.one/XFreeze/status/2119659029089931643#m",
-   "ts": 1794201068,
-   "id": "2119659029089931643#m"
   },
   {
    "handle": "simonw",
@@ -157,6 +158,15 @@
    "url": "https://nitter.kareem.one/pondebekkio/status/2119648650611785751#m",
    "ts": 1794198594,
    "id": "2119648650611785751#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Dave Chappelle didn't joke about Charlie's murder. He celebrated it.",
+   "url": "https://nitter.kareem.one/kangminlee/status/2119635572780114303#m",
+   "ts": 1794195476,
+   "id": "2119635572780114303#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -193,15 +203,6 @@
    "url": "https://nitter.kareem.one/ryolu_/status/2119586846657454152#m",
    "ts": 1794183858,
    "id": "2119586846657454152#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The US Government spent billions building electric vehicle. They built 400 over five years. How many did @ElonMusk 's @Tesla build in the same timeframe? 35,000! And activists want government to take more of his money? Video",
-   "url": "https://nitter.kareem.one/JohnStossel/status/2119570662180466875#m",
-   "ts": 1794180000,
-   "id": "2119570662180466875#m"
   },
   {
    "handle": "elonmusk",
@@ -312,6 +313,15 @@
    "id": "2119461097958744289#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "BBC posted this Headline ‘Far Right Shooting’ it received if 1 million impressions However in the comments - you can see the Shooter was a Far Left Radical in favour of Communism The BBC are pure propaganda & misinformation",
+   "url": "https://nitter.kareem.one/BGatesIsaPyscho/status/2119432288408871418#m",
+   "ts": 1794147009,
+   "id": "2119432288408871418#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -328,15 +338,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2119427047437242624#m",
    "ts": 1794145759,
    "id": "2119427047437242624#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The UK went after Russell Brand but not migrant rape gangs. Why.",
-   "url": "https://nitter.kareem.one/GuntherEagleman/status/2119409879345680799#m",
-   "ts": 1794141666,
-   "id": "2119409879345680799#m"
   },
   {
    "handle": "elonmusk",
@@ -1347,9 +1348,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
