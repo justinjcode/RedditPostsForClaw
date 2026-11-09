@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-11-09T02:55:05Z",
+ "generated_at": "2026-11-09T03:10:59Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Dave Chappelle is cruel Clown World ™ 🤡 (@ClownWorld) More footage from Dave Chappelle’s Madison Square Garden performance, where he made another disgusting “joke” about Charlie Kirk’s assassination. “I’m sure Charlie Kirk is looking up at us right now, laughing so hard he can’t breathe.” A husband and father was assassinated, his family is left grieving, and this washed-up comedian is standing in front of thousands of people mocking his death. I’ve been a fan of Chappelle for decades, but this is absolutely disgusting. There’s a difference between dark humor and being a heartless, morally bankrupt piece of shit. Whatever happened to basic human decency? Video — https://nitter.kareem.one/ClownWorld/status/2119594672972779899#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2119624561100755305#m",
+   "ts": 1794192850,
+   "id": "2119624561100755305#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -428,15 +436,6 @@
    "url": "https://nitter.kareem.one/xiangyuli/status/2119065294081863705#m",
    "ts": 1794059511,
    "id": "2119065294081863705#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "When Elon Musk talks about abundance, I think about people having more room to breathe because the things they need become less expensive to provide. That is the possibility I find compelling in Terafab. Its planned chips are meant to support AI and robots, and if those systems help us produce goods and deliver services more efficiently, the benefits could reach far beyond the technology industry, into the cost of everyday life. For me, that is what makes a chip factory worth caring about. The meaningful version of abundance is not simply having more impressive machines, but building a future in which meeting ordinary needs puts less pressure on ordinary people. Video",
-   "url": "https://nitter.kareem.one/EvaFox/status/2119063349186970048#m",
-   "ts": 1794059047,
-   "id": "2119063349186970048#m"
   },
   {
    "handle": "thsottiaux",
@@ -1330,9 +1329,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
