@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-09T19:16:22Z",
+ "generated_at": "2026-11-09T19:26:54Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,36 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
- "count": 178,
+ "errors": [],
+ "count": 177,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "RELEASED: Anthropic's Claude Fable 5.2 has arrived. Big upgrades over the previous Fable, with a smaller jump over Opus 5.5 across most benchmarks. Largest gains in knowledge work, agentic search, coding, and cybersecurity.",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2119873116427915761#m",
+   "ts": 1794252110,
+   "id": "2119873116427915761#m"
+  },
+  {
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
+   "text": "We wanted to do more for the people who’ve been with us the longest. So with Fable 5.2, the longer you’ve been subscribed, the more Fable resets you get. Claude (@claudeai) Introducing Claude Fable 5.2 and Claude Mythos 5.2, designed to tackle the most daunting technical challenges. They’re capable collaborators on ambitious projects in many fields, and show improvements in areas like coding, reasoning, and vision. Video — https://nitter.kareem.one/claudeai/status/2119867114450268322#m",
+   "url": "https://nitter.kareem.one/bcherny/status/2119873095129550880#m",
+   "ts": 1794252105,
+   "id": "2119873095129550880#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "ok i was signed in to wrong account to tweet this but yes - if you're looking to get a start with technical writing/speaking/tweeting/blogging, the new Creator associate program is made for you... ... just like I got started in my own technical writing journey 10 years ago. AI.Engineer 🔜 CODE (@aiDotEngineer) ok excited to launch a New Media program close to my heart: the AIE Creator Associate Program!!! With my podcast doing well and the AIE channel crossing 1m subs, I find myself getting asked the same questions from everyone - where do I get started? Trade Offer: - sign up to ai.engineer/associates - We receive: your tweets/blog/video/photo/podcast coverage of 2-3 sessions - Qualified applicants receive: ticket and chance of RT/inclusion in the official recap of AIE 2026 Little known fact: -I- started my own creator journey when @jessleenyc sponsored this exact program at a similar conference 10 years ago! my first blog -> more blogs -> my first talk -> more talks -> podcast -> more podcast -> AIE and Latent Space today Tomorrow's keynotes and workshops are particularly hype and need creator coverage. Join us in SF tomorrow. Apply now! — https://nitter.kareem.one/aiDotEngineer/status/2119870664975024464#m",
+   "url": "https://nitter.kareem.one/swyx/status/2119870982609608810#m",
+   "ts": 1794251602,
+   "id": "2119870982609608810#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -100,7 +126,7 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Grok @Bot can do incredible things Albus (@0xAlbus) what the f*ck. Grok Bot just helped me win in court against my ex-wife mid-divorce. her lawyer shows up with photos of me at every bar I went to that month. and tells the judge I'M the one stalking HER custody hearing in 3 weeks Grok Bot said someone's following me. let's prove it it set up an open-source tool called Chasing Your Tail. a Raspberry Pi in my glovebox that logs every phone around you and flags the ones that keep showing up github.com/azmatt/chasing_yo… 8 days later: one phone, 23 times, 9 places my house. my kids' school. my office. my gym. the bar then it checked which Wi-Fi networks that phone remembers: \"Hartley_Investigations\" \"Jenna_Home_5G\" a private investigator. who's been inside my ex-wife's house she hired a PI to follow me and told the court I was following her the logs went to my lawyer as Exhibit C her stalking claim got thrown out. 50/50 custody lawyers don't win custody battles anymore. Grok Bot does prompt + how to turn it into a Grok Bot skill below 👇 Video Community note: This post fabricates a personal story of using Grok and Chasing Your Tail to win in court. The account posts similar simulated tales (some explicitly illustrative), while the tool is experimental and intended for legitimate counter-surveillance. github.com/ArgeliusLabs/C… argeliuslabs.com/the-return-of-… x.com/0xAlbus/status… x.com/pjfitzpatrick/… — https://nitter.kareem.one/0xAlbus/status/2119502015554613344#m",
+   "text": "Grok @Bot can do incredible things Community note: The quoted story is fictional. @0xAlbus posts multiple similar fabricated first-person \"Grok Bot\" anecdotes with sample prompts. x.com/0xAlbus/status… x.com/0xAlbus/status… x.com/0xAlbus/status… x.com/ToddWitteles/s… Albus (@0xAlbus) what the f*ck. Grok Bot just helped me win in court against my ex-wife mid-divorce. her lawyer shows up with photos of me at every bar I went to that month. and tells the judge I'M the one stalking HER custody hearing in 3 weeks Grok Bot said someone's following me. let's prove it it set up an open-source tool called Chasing Your Tail. a Raspberry Pi in my glovebox that logs every phone around you and flags the ones that keep showing up github.com/azmatt/chasing_yo… 8 days later: one phone, 23 times, 9 places my house. my kids' school. my office. my gym. the bar then it checked which Wi-Fi networks that phone remembers: \"Hartley_Investigations\" \"Jenna_Home_5G\" a private investigator. who's been inside my ex-wife's house she hired a PI to follow me and told the court I was following her the logs went to my lawyer as Exhibit C her stalking claim got thrown out. 50/50 custody lawyers don't win custody battles anymore. Grok Bot does prompt + how to turn it into a Grok Bot skill below 👇 Video Community note: This post fabricates a personal story of using Grok and Chasing Your Tail to win in court. The account posts similar simulated tales (some explicitly illustrative), while the tool is experimental ",
    "url": "https://nitter.kareem.one/elonmusk/status/2119817540432244779#m",
    "ts": 1794238860,
    "id": "2119817540432244779#m"
@@ -509,15 +535,6 @@
    "url": "https://nitter.kareem.one/latentspacepod/status/2119244385867251955#m",
    "ts": 1794102209,
    "id": "2119244385867251955#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "sticker game inspired by @dexhorthy @CompleteSkeptic et al swyx 🔜 aie.codes (@swyx) just arrived… best swag game in the business. u guys are in for a treat next week — https://nitter.kareem.one/swyx/status/2119210582654210255#m",
-   "url": "https://nitter.kareem.one/swyx/status/2119242830707311005#m",
-   "ts": 1794101839,
-   "id": "2119242830707311005#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -986,15 +1003,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2117723912867811714#m",
    "ts": 1793739700,
    "id": "2117723912867811714#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "NEW: OpenAI set out to build a gadget \"without any direct human edits,\" and in less than a week GPT-6 Astra handled the case, circuit board and software alongside two staffers. An unreleased OpenAI model also beat Astra on a hardware design test, 0.875 to 0.594. Video",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2117709084652867996#m",
-   "ts": 1793736165,
-   "id": "2117709084652867996#m"
   },
   {
    "handle": "bcherny",
@@ -1585,28 +1593,10 @@
    "handle": "bcherny",
    "name": "Boris Cherny",
    "author": "@bcherny",
-   "text": "We've been working hard on making the Claude Code desktop app great for running lots of sessions side by side. It's now much quicker to start sessions, easier to split work across a few, and you can always see what each of them is doing. Here’s what's new: Video",
-   "url": "https://nitter.kareem.one/ClaudeDevs/status/2110445844675838148#m",
-   "ts": 1792004474,
-   "id": "2110445844675838148#m"
-  },
-  {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
    "text": "What did @AnthropicAI do with his latest Claude Desktop update? I feel like there was a major system prompt/harness upgrade here. Opus 5.5 feels like it's Opus 5.8 now. cc @trq212 what did y'all do?",
    "url": "https://nitter.kareem.one/ChadMoran/status/2110442227604566348#m",
    "ts": 1792003611,
    "id": "2110442227604566348#m"
-  },
-  {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
-   "text": "New on our Engineering blog: Creating in-house source control. In May, we merged around 2,500 code changes per day. In September, we merged more than 30,000 per day. As a result, we became bottlenecked by developer infrastructure built for human (rather than agent) scale. Here, we share how we built a new version control system—and fully migrated our monorepo from git—in five months: anthropic.com/engineering/re… Link Redesigning source control at Anthropic As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months. anthropic.com",
-   "url": "https://nitter.kareem.one/AnthropicAI/status/2110047081414987957#m",
-   "ts": 1791909401,
-   "id": "2110047081414987957#m"
   },
   {
    "handle": "bcherny",
