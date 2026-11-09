@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-09T13:55:39Z",
+ "generated_at": "2026-11-09T14:10:06Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +11,7 @@
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed"
+  "@TheRundownAI: all instances failed"
  ],
  "count": 178,
  "items": [
@@ -41,6 +41,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2119742268265640376#m",
    "ts": 1794220914,
    "id": "2119742268265640376#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "Broadcasting this evening at 8pm (Beijing Time): inv.kareem.one/161OQr27iAA . CCG is committed to broadcasting and transcribing our events so the conversation can extend well beyond the room. Link Roundtable: 25th Anniversary of China’s Accession to the WTO with... On November 7, 2026, the Center for China and Globalization (CCG) h... youtube.com Center for China and Globalization (@CCG_org) On November 7, CCG held a roundtable themed \"The 25th Anniversary of China's Accession to the @wto and the Future of the Global Trading System\". Pascal Lamy, Arancha Gonzalez Laya, and Huang Rengang delivered speeches. Ambassadors of Fiji and Türkiye to China attended. — https://nitter.kareem.one/CCG_org/status/2119609483634860145#m",
+   "url": "https://nitter.kareem.one/CCG_org/status/2119730444950479291#m",
+   "ts": 1794218095,
+   "id": "2119730444950479291#m"
   },
   {
    "handle": "swyx",
@@ -743,15 +752,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2118395629466513761#m",
    "ts": 1793899850,
    "id": "2118395629466513761#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Participated in this very stimulating debate in London. Doha Debates (@DohaDebates) This week's episode of the Doha Debates Podcast asks: Does global power lie with governments or corporations? Featuring Antara Halder, Sophie Scott-Brown @HuiyaoWang and @MarkJLittlewood 00:00 Intro 01:25 Governments vs. corporations: Who has more power? 09:01 “Corporations are far more powerful.” 17:58 “Capitalism is like a self-destructive, almost suicidal baby.” 38:29 Does China offer an alternative governmental and economic model? 49:45 Civil society’s role: Holding government and corporations accountable 1:04:42 How does China balance corporate growth with statecraft? 1:14:29 Do the interests of tech companies align with public interest? 1:19:22 Can global cooperation solve our biggest challenges? 1:25:10 “A lot of the problems that we have are problems without passports.” 1:30:27 The message of populist movements 1:44:30 Social media, algorithms and public responsibility 1:49:15 Is digital disinformation undermining democracy? 2:12:00 Closing thoughts Video — https://nitter.kareem.one/DohaDebates/status/2117980191817683058#m",
-   "url": "https://nitter.kareem.one/HuiyaoWang/status/2118371814879715734#m",
-   "ts": 1793894172,
-   "id": "2118371814879715734#m"
   },
   {
    "handle": "Lingling_Wei",
