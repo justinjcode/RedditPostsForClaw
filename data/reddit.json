@@ -1,15 +1,85 @@
 {
- "generated_at": "2026-11-09T18:12:17Z",
+ "generated_at": "2026-11-09T22:08:31Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache",
+   "url": "https://www.reddit.com/r/programming/comments/1xs558h/how_we_saved_100_terabytes_of_memory_by/",
+   "ts": 1794261614,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Alarm.com doorbell cam flash",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xs547u/alarmcom_doorbell_cam_flash/",
+   "ts": 1794261552,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Forecasting new power outages per county, hourly, 2 h ahead: 2.4× the PR-AUC of NWS warnings + SPC outlook on a held-out year [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xs4hq8/forecasting_new_power_outages_per_county_hourly_2/",
+   "ts": 1794260078,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "IMPS: Self-hosted photo inventory for storage boxes, with printable QR labels",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xs1w9j/imps_selfhosted_photo_inventory_for_storage_boxes/",
+   "ts": 1794254137,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Decoupling a Python quantum physics solver from a JavaFX 3D UI via gRPC to achieve 60 FPS in molecular dynamics",
+   "url": "https://www.reddit.com/r/programming/comments/1xs1t51/decoupling_a_python_quantum_physics_solver_from_a/",
+   "ts": 1794253936,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Latent prediction beats reconstruction for tactile pretraining on dexterous manipulation tasks[R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xs05uo/latent_prediction_beats_reconstruction_for/",
+   "ts": 1794250325,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Facing file Extraction problem during Bayesian Optimization[P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xrzzfu/facing_file_extraction_problem_during_bayesian/",
+   "ts": 1794249928,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "The ENIAC in Context: 80 Years of Computing History",
+   "url": "https://www.reddit.com/r/programming/comments/1xrzu9t/the_eniac_in_context_80_years_of_computing_history/",
+   "ts": 1794249612,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "What's currently the best Music Discovery system yall are using with Navidrome?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xrzjyr/whats_currently_the_best_music_discovery_system/",
+   "ts": 1794248981,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Twindex: exact, replayable proofs that your data can't tell two parameter sets apart (ODEs, PDEs, PINNs) [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xryhhg/twindex_exact_replayable_proofs_that_your_data/",
+   "ts": 1794246657,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "More interesting and unusual Qwen3.5-4B neurons",
@@ -29,6 +99,13 @@
    "title": "Any accountants/financial professionals using local LLMs?",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrx72d/any_accountantsfinancial_professionals_using/",
    "ts": 1794243818,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "A Matrix Multiplication Algorithm Rooted In Graph Theory",
+   "url": "https://www.reddit.com/r/programming/comments/1xrwyq8/a_matrix_multiplication_algorithm_rooted_in_graph/",
+   "ts": 1794243333,
    "source": "Reddit"
   },
   {
@@ -68,13 +145,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "local and remote access with nginx proxy manager",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xru6vx/local_and_remote_access_with_nginx_proxy_manager/",
-   "ts": 1794237158,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "Riviamigo - Self hosted Rivian data logging dashboard (new release 2026.11.1)",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xrtvw3/riviamigo_self_hosted_rivian_data_logging/",
    "ts": 1794236462,
@@ -102,17 +172,17 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "programming",
+   "title": "C# 15: Union Types, Closed Hierarchies, and the One Value™ That Isn't Any of Them · cekrem.github.io",
+   "url": "https://www.reddit.com/r/programming/comments/1xrrmk7/c_15_union_types_closed_hierarchies_and_the_one/",
+   "ts": 1794230836,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "LocalLLaMA",
    "title": "New Gemma Models",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrpcke/new_gemma_models/",
    "ts": 1794223928,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Looking for a google keep alternative(mostly todo list)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xrp42g/looking_for_a_google_keep_alternativemostly_todo/",
-   "ts": 1794223086,
    "source": "Reddit"
   },
   {
@@ -207,13 +277,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "Continual retention across 6 streams [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xr9d9y/continual_retention_across_6_streams_r/",
-   "ts": 1794172567,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "AudioSilo - Self hosted audiobooks",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xr8g7s/audiosilo_self_hosted_audiobooks/",
@@ -232,13 +295,6 @@
    "title": "Sem86 - A full-system emulator without hardcoded semantics",
    "url": "https://www.reddit.com/r/programming/comments/1xr4v4f/sem86_a_fullsystem_emulator_without_hardcoded/",
    "ts": 1794161393,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier [N]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xr4hkm/artificial_analysis_multimodal_decision_model/",
-   "ts": 1794160483,
    "source": "Reddit"
   },
   {
@@ -291,20 +347,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "GitHub as VPN auth-provider",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xqw6jq/github_as_vpn_authprovider/",
-   "ts": 1794136741,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "NeurIPS SlidesLive [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xqw2n9/neurips_slideslive_d/",
-   "ts": 1794136325,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Introducing Project Steadfast",
    "url": "https://www.reddit.com/r/programming/comments/1xqu801/introducing_project_steadfast/",
@@ -327,13 +369,6 @@
   },
   {
    "subreddit": "programming",
-   "title": "Quantum Optimization – Solve QUBO on D-Wave Quantum Annealer",
-   "url": "https://www.reddit.com/r/programming/comments/1xqqoz3/quantum_optimization_solve_qubo_on_dwave_quantum/",
-   "ts": 1794115358,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
    "title": "Objects, attributes, maps, oh my!",
    "url": "https://www.reddit.com/r/programming/comments/1xqq13j/objects_attributes_maps_oh_my/",
    "ts": 1794113055,
@@ -344,13 +379,6 @@
    "title": "A quick look at zero-knowledge proofs",
    "url": "https://www.reddit.com/r/programming/comments/1xqp9wx/a_quick_look_at_zeroknowledge_proofs/",
    "ts": 1794110475,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Should You Learn Java in 2026?",
-   "url": "https://www.reddit.com/r/programming/comments/1xqlw7z/should_you_learn_java_in_2026/",
-   "ts": 1794099658,
    "source": "Reddit"
   },
   {
@@ -368,13 +396,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "The most scathing reviewer 2 review I have ever read",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xpu1eq/the_most_scathing_reviewer_2_review_i_have_ever/",
-   "ts": 1794015053,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Libghostty 1.0",
    "url": "https://www.reddit.com/r/programming/comments/1xptemt/libghostty_10/",
@@ -382,31 +403,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Go 1.27: encoding/json/v2, Stricter Defaults, and Finally [] for Nil Slices · cekrem.github.io",
-   "url": "https://www.reddit.com/r/programming/comments/1xp8b96/go_127_encodingjsonv2_stricter_defaults_and/",
-   "ts": 1793956105,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "New Project Megathread - Week of 05 Nov 2026",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xox23i/new_project_megathread_week_of_05_nov_2026/",
    "ts": 1793919684,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Modern Java at Stripe: Language upgrades as a service",
-   "url": "https://www.reddit.com/r/programming/comments/1xov21m/modern_java_at_stripe_language_upgrades_as_a/",
-   "ts": 1793914589,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "openssh on musl linux has been letting people into password-less accounts since 2016",
-   "url": "https://www.reddit.com/r/programming/comments/1xojg3s/openssh_on_musl_linux_has_been_letting_people/",
-   "ts": 1793887450,
    "source": "Reddit"
   },
   {
