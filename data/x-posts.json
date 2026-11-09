@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-09T03:25:09Z",
+ "generated_at": "2026-11-09T03:39:02Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,28 @@
  ],
  "errors": [
   "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Excited to be working with @Qualcomm on breakthrough technologies for 5G & beyond DogeDesigner (@cb_doge) Qualcomm CEO Cristiano Amon on partnership with @SpaceX “We're very excited. It's going to be one of the largest 5G deployments in the United States. It's a great step on U.S. technology leadership. SpaceX is going to be building their base stations. We provide the silicon for the radio. It's going to be an AI native architecture. It's going to bring a lot of innovation.” Video — https://nitter.kareem.one/cb_doge/status/2119576261031043136#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2119629886377607546#m",
+   "ts": 1794194120,
+   "id": "2119629886377607546#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Chinese 𝕏 is 牛逼",
+   "url": "https://nitter.kareem.one/elonmusk/status/2119629310969467053#m",
+   "ts": 1794193983,
+   "id": "2119629310969467053#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -250,15 +268,6 @@
    "id": "2119419126045454531#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Interesting 0xMarioNawfal (@RoundtableSpace) DeepMind CEO Demis Hassabis: \"One person who really understands AI will outperform an entire startup team In 5 years, the people who build with AI will run whole companies with a tenth of the headcount\" Video — https://nitter.kareem.one/RoundtableSpace/status/2119093769991774480#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2119406464372789396#m",
-   "ts": 1794140852,
-   "id": "2119406464372789396#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -266,15 +275,6 @@
    "url": "https://nitter.kareem.one/NovaIntrovert/status/2119309891798274163#m",
    "ts": 1794117827,
    "id": "2119309891798274163#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "If one of y'all makes a Starlink ad with a Claudia cameo that wins this contest... I will personally give you $5000 in @XMoney Starlink (@Starlink) Imagine. Create. Share. Dream up a Starlink ad with Grok @Imagine . Post on @X for the opportunity to be featured by Starlink during the big game. Learn more → starlink.com/imagine Video — https://nitter.kareem.one/Starlink/status/2118831607650136119#m",
-   "url": "https://nitter.kareem.one/anabology/status/2119308146053116250#m",
-   "ts": 1794117411,
-   "id": "2119308146053116250#m"
   },
   {
    "handle": "thsottiaux",
@@ -293,6 +293,15 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2119296267545419987#m",
    "ts": 1794114579,
    "id": "2119296267545419987#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Russell Brand’s ex-girlfriend Samantha Pressdee has fiercely spoken out against the verdict. She stated the following: \"A wife is without her husband. Three children are without their Dad. Yet everyone thinks the real victim in this is a drunk groupie who was cheating on her boyfriend. Someone who has anonymity for life and will probably get a financial payout. “If this drunk groupie thought he was a predator, why would she stand by and watch him sleep with 1000s more women? Didn't she care about those women? \"It's not true that women in the comedy industry warned each other about Russell. No one warned me, and it could not have been more obvious that I was connected to him. Just because I am a woman doesn't mean I should 'believe all women'. \"I would be more likely to believe women who report criminals to the POLICE. Not the media, decades later. I believe in the right to a fair trial. Convince me it was fair!\" She also slammed Georgina Bailey who claimed to be Brand’s ex-lover and had urged him to “tell the truth.” \"She was a groupie too,” Samantha revealed. “The kind of women throwing themselves at Brand back then often sold kiss-and-tell [stories] that were mostly made up. \"Russell paid for Georgina to go to rehab. Ballie has made a career out of sleeping with him. She's not his ex-girlfriend. At the time, she was in a burlesque troupe called 'The Satanic Sluts'.\" At the moment, we are being led to believe that Russell Brand is guilty beyond reasonable doubt. There is no ",
+   "url": "https://nitter.kareem.one/adamgolding/status/2119292198709543352#m",
+   "ts": 1794113609,
+   "id": "2119292198709543352#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -392,15 +401,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2119140818690974203#m",
    "ts": 1794077517,
    "id": "2119140818690974203#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Super Heavy’s Raptor engines lifting the booster off the pad. Filmed with a high-speed camera so you can see the detail in slow motion. Video",
-   "url": "https://nitter.kareem.one/teslaownersSV/status/2119120008211292352#m",
-   "ts": 1794072555,
-   "id": "2119120008211292352#m"
   },
   {
    "handle": "swyx",
