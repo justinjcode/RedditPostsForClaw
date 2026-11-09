@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-11-09T08:56:27Z",
+ "generated_at": "2026-11-09T09:10:54Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -9,10 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
   {
@@ -442,19 +441,19 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "Local AI is back on the menu! incredibly hyped for @TheAhmadOsman 's return to AIE CODE next week. follow him for some exclusive discount code drops Ahmad (@TheAhmadOsman) HOLY SHIT Opus 5.5 made me this video Entire thing built by Claude Code, from choosing quotes and clips to editing cuts, pacing, zooms, music, text overlays, and video & audio upscaling Seriously watch this or bookmark it to for later Video — https://nitter.kareem.one/TheAhmadOsman/status/2119039736002249212#m",
-   "url": "https://nitter.kareem.one/swyx/status/2119140818690974203#m",
-   "ts": 1794077517,
-   "id": "2119140818690974203#m"
+   "text": "I can watch this show ALL DAY. Latent.Space (@latentspacepod) In this episode, @reductoai co-founder and CEO @aditabrm joins @allenpark to make steak sandwiches with burrata, torched peaches, and chimichurri and talk about why PDFs still break AI: how frontier models silently drop rows, why 99% accuracy can still fall short in production, what Reducto learned processing a billion pages a month, and what it would take for office work to have its Claude Code moment. 00:00 Cold Open 00:13 Meet Adit Abraham and the Viral Steak Tweet 00:57 From Remembrall to Reducto: YC and the Pivot 01:57 Why PDFs Are Still Hard for AI 03:35 What AI Agents Need to Do With Documents 04:19 Model Routing for Tricky Pages and Tables 05:29 Build vs. Buy: When to Train Your Own Models 07:00 Deep Extract, Frontier Models, and Missing Rows 08:20 Why Everyone Wins Their Own Benchmark 09:29 Reducto R1: Accuracy, Cost, and a Billion Pages a Month 10:57 When 99% Accuracy Isn’t Enough 13:05 Continuous Evals and Production Failures 16:49 How Reducto Uses AI Agents Internally 18:28 Hiring With AI and the Eight-Hour Onsite 20:17 Early Hires and What Obsession Looks Like 23:17 Blowtorching Peaches 24:24 Scaling From a Small Team to Series B 27:34 Competition and the Data Flywheel 30:52 What Better Parsing Unlocks for Customers 32:11 Finding a Cofounder at MIT 34:34 The Anthropic Hackathon, Long-Term Memory, and RAG 38:49 From Reading PDFs to Redlining Contracts 43:19 A Claude Code Moment for Office Work 46:13 Wha",
+   "url": "https://nitter.kareem.one/JenniferHli/status/2119096038778933269#m",
+   "ts": 1794066841,
+   "id": "2119096038778933269#m"
   },
   {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "I can watch this show ALL DAY. Latent.Space (@latentspacepod) In this episode, @reductoai co-founder and CEO @aditabrm joins @allenpark to make steak sandwiches with burrata, torched peaches, and chimichurri and talk about why PDFs still break AI: how frontier models silently drop rows, why 99% accuracy can still fall short in production, what Reducto learned processing a billion pages a month, and what it would take for office work to have its Claude Code moment. 00:00 Cold Open 00:13 Meet Adit Abraham and the Viral Steak Tweet 00:57 From Remembrall to Reducto: YC and the Pivot 01:57 Why PDFs Are Still Hard for AI 03:35 What AI Agents Need to Do With Documents 04:19 Model Routing for Tricky Pages and Tables 05:29 Build vs. Buy: When to Train Your Own Models 07:00 Deep Extract, Frontier Models, and Missing Rows 08:20 Why Everyone Wins Their Own Benchmark 09:29 Reducto R1: Accuracy, Cost, and a Billion Pages a Month 10:57 When 99% Accuracy Isn’t Enough 13:05 Continuous Evals and Production Failures 16:49 How Reducto Uses AI Agents Internally 18:28 Hiring With AI and the Eight-Hour Onsite 20:17 Early Hires and What Obsession Looks Like 23:17 Blowtorching Peaches 24:24 Scaling From a Small Team to Series B 27:34 Competition and the Data Flywheel 30:52 What Better Parsing Unlocks for Customers 32:11 Finding a Cofounder at MIT 34:34 The Anthropic Hackathon, Long-Term Memory, and RAG 38:49 From Reading PDFs to Redlining Contracts 43:19 A Claude Code Moment for Office Work 46:13 Wha",
-   "url": "https://nitter.kareem.one/JenniferHli/status/2119096038778933269#m",
-   "ts": 1794066841,
-   "id": "2119096038778933269#m"
+   "text": "my vocal synth models the vocal tract as a network of branching acoustic tubes, unlike vocaloid which stitches together and pitch-shifts phoneme recordings. still working on improving naturalness by tuning it against recordings of real singers, but I'm already impressed at how cool it sounds! Video Jameson Hodge (@jamesonhodge) I only make serious software Video — https://nitter.kareem.one/jamesonhodge/status/2118733265372860826#m",
+   "url": "https://nitter.kareem.one/jamesonhodge/status/2119085825509954042#m",
+   "ts": 1794064406,
+   "id": "2119085825509954042#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -1348,9 +1347,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
