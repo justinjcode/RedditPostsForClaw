@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-09T15:09:45Z",
+ "generated_at": "2026-11-09T15:19:42Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "bcherny",
   "elonmusk",
@@ -10,11 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "starting a thread of all the ways in which gmail sucks for the eventual day i vibecode a total replacement Angie Jones (@techgirl1908) Whenever I feel bad about a page I designed, I go to this link to make me feel better mail.google.com/mail#setting… — https://nitter.kareem.one/techgirl1908/status/1407822934102745089#m",
+   "url": "https://nitter.kareem.one/swyx/status/2119809574563922263#m",
+   "ts": 1794236961,
+   "id": "2119809574563922263#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -464,15 +473,6 @@
    "url": "https://nitter.kareem.one/FanSince09/status/2119154247145312338#m",
    "ts": 1794080719,
    "id": "2119154247145312338#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "I can watch this show ALL DAY. Latent.Space (@latentspacepod) In this episode, @reductoai co-founder and CEO @aditabrm joins @allenpark to make steak sandwiches with burrata, torched peaches, and chimichurri and talk about why PDFs still break AI: how frontier models silently drop rows, why 99% accuracy can still fall short in production, what Reducto learned processing a billion pages a month, and what it would take for office work to have its Claude Code moment. 00:00 Cold Open 00:13 Meet Adit Abraham and the Viral Steak Tweet 00:57 From Remembrall to Reducto: YC and the Pivot 01:57 Why PDFs Are Still Hard for AI 03:35 What AI Agents Need to Do With Documents 04:19 Model Routing for Tricky Pages and Tables 05:29 Build vs. Buy: When to Train Your Own Models 07:00 Deep Extract, Frontier Models, and Missing Rows 08:20 Why Everyone Wins Their Own Benchmark 09:29 Reducto R1: Accuracy, Cost, and a Billion Pages a Month 10:57 When 99% Accuracy Isn’t Enough 13:05 Continuous Evals and Production Failures 16:49 How Reducto Uses AI Agents Internally 18:28 Hiring With AI and the Eight-Hour Onsite 20:17 Early Hires and What Obsession Looks Like 23:17 Blowtorching Peaches 24:24 Scaling From a Small Team to Series B 27:34 Competition and the Data Flywheel 30:52 What Better Parsing Unlocks for Customers 32:11 Finding a Cofounder at MIT 34:34 The Anthropic Hackathon, Long-Term Memory, and RAG 38:49 From Reading PDFs to Redlining Contracts 43:19 A Claude Code Moment for Office Work 46:13 Wha",
-   "url": "https://nitter.kareem.one/JenniferHli/status/2119096038778933269#m",
-   "ts": 1794066841,
-   "id": "2119096038778933269#m"
   },
   {
    "handle": "swyx",
