@@ -1,19 +1,29 @@
 {
- "generated_at": "2026-11-09T03:10:59Z",
+ "generated_at": "2026-11-09T03:25:09Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Yeah Shibetoshi Nakamoto (@BillyM2k) if the left want to be the “good guys” imo they should stop celebrating murder all the time — https://nitter.kareem.one/BillyM2k/status/2119622814374527205#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2119628426571338063#m",
+   "ts": 1794193772,
+   "id": "2119628426571338063#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -346,15 +356,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2119210582654210255#m",
    "ts": 1794094150,
    "id": "2119210582654210255#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "This is how every US launch ever looks like vs SpaceX’s 2030 launch target for Starship (10,000): ApoStructura (@ApoStructura) Every US launch ever — https://nitter.kareem.one/ApoStructura/status/2118801712169304459#m",
-   "url": "https://nitter.kareem.one/ApoStructura/status/2119167754955612456#m",
-   "ts": 1794083939,
-   "id": "2119167754955612456#m"
   },
   {
    "handle": "swyx",
