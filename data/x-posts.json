@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-09T22:38:05Z",
+ "generated_at": "2026-11-09T22:45:59Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "bcherny",
   "elonmusk",
@@ -10,11 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Jensen Huang’s singular stature as Nvidia’s key man has become a major risk for the company. Insightful reporting by @AmrithRamkumar wsj.com/tech/jensen-huang-do… via @WSJ Link Jensen Huang Doesn’t Believe in Succession Planning. It’s Become a Big Risk for Nvidia. The board of directors has launched an investigation into reports that the CEO was targeted by a Chinese spy. wsj.com",
+   "url": "https://nitter.kareem.one/Lingling_Wei/status/2119911587654103412#m",
+   "ts": 1794261283,
+   "id": "2119911587654103412#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -23,6 +32,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2119909709197279420#m",
    "ts": 1794260835,
    "id": "2119909709197279420#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Read this 👇 Julian Gewirtz (@JulianGewirtz) Jensen Huang reportedly instructed his team at Nvidia \"never to think about\" planning for a Taiwan contingency. Despite the fact that their business is reliant on TSMC. The Jensen-Megaspeed mess really puts these incredible — and barely-noticed — details from Stephen Witt's The Thinking Machine in a new light: Huang refuses to consider the impact on his global business if China were to blockade or invade Taiwan, despite the regular threats emanating from Beijing to do just that. “To my great surprise, Nvidia had done no contingency planning for this eventuality,” Witt writes. He quotes Deb Shoquist, Nvidia’s executive vice-president of operations: “If something happens to Taiwan and TSMC, the ramifications are so large it’s almost like asking me what I’d do if California fell into the ocean.” Huang had instructed her “never to think about this question.” —from my @nybooks essay earlier this year on Nvidia and American policy toward China: nybooks.com/articles/2026/02… —more thoughts from me today: juliangewirtz.substack.com/p… Link When the Chips Are Down | Julian Gewirtz President Trump’s reversal of a ban on sales of advanced semiconductors to China undercut the strategic logic behind years of American policy that was meant to keep the US ahead in the race to... nybooks.com — https://nitter.kareem.one/JulianGewirtz/status/2119907759365956004#m",
+   "url": "https://nitter.kareem.one/Lingling_Wei/status/2119908819555823882#m",
+   "ts": 1794260623,
+   "id": "2119908819555823882#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -1447,15 +1465,6 @@
    "id": "2113691493823369246#m"
   },
   {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "The Illusion of Wealth Preservation in China The recent bloodbath in Hong Kong’s stock market brings back memories of my journey to learn how to preserve wealth for my son. The lesson to be learnt from Beijing’s latest tax crackdown? No amount of planning can protect a family fortune within the CCP’s reach. My new essay, The Illusion of Wealth Preservation in China: desmondshum.substack.com/p/t…",
-   "url": "https://nitter.kareem.one/DesmondShum/status/2113639609938690237#m",
-   "ts": 1792765927,
-   "id": "2113639609938690237#m"
-  },
-  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -1463,15 +1472,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2113633667583287786#m",
    "ts": 1792764510,
    "id": "2113633667583287786#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "Treasury just published new proposed Outbound Investment regulations, which would represent a significant expansion of the existing program. This is just a proposed rule, and it deserves a thorough review, but some initial reactions: 1. The rule would prohibit most private investment in any Chinese firm that develops an “SI system,” including any product that operates using an SI system. It defines “SI system” extremely broadly, such that it likely captures the vast majority of Chinese software products. As a result, the proposed rule likely would prohibit most private investment in Chinese software firms, as well as Chinese firms that build products that incorporate AI (i.e., the entire Chinese robotics and drone industry, and undoubtedly many others). 2. The rule adds biotech as a covered sector and would prohibit most private investment in the vast majority of the sector. It would ban private investment in Chinese companies that use biological systems to modify, enhance, produce, or control any pharmaceutical compound, to include both small and large molecules. This likely captures most Chinese firms engaged in biologic drug manufacturing or drug discovery. Biotech and biomanufacturing are areas where U.S. investment has massively fueled China’s capabilities, which are rapidly approaching--and in some cases surpassing--those of the United States. The scope of this rule signals that the administration sees this as a massive national security concern. 3. The rule does not ma",
-   "url": "https://nitter.kareem.one/ChrisRMcGuire/status/2113417246890680469#m",
-   "ts": 1792712911,
-   "id": "2113417246890680469#m"
   },
   {
    "handle": "simonw",
