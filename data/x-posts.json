@@ -1,20 +1,28 @@
 {
- "generated_at": "2026-11-09T07:56:37Z",
+ "generated_at": "2026-11-09T08:11:55Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@simonw: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "过犹不及的道理是一点都不懂啊",
+   "url": "https://nitter.kareem.one/ZichenWanghere/status/2119701908663459944#m",
+   "ts": 1794211291,
+   "id": "2119701908663459944#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -415,7 +423,7 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Uhh… you mean the kids who were found innocent??? Mediaite (@Mediaite) FLASHBACK: Unearthed Video of Stephen Miller Defending Duke Lacrosse Players Accused of Rape mediaite.com/media/news/flas… Link Stephen Miller Defends Duke Lacrosse Team to Nancy Grace A video shared on social media shows a young Stephen Miller defending the members of the Duke lacrosse team who were falsely accused of rape. mediaite.com Community note: Stephen Miller advocated for the presumption of innocence of the Duke lacrosse players in 2006 amid rape accusations. The players were exonerated in 2007; the accuser later admitted fabricating the allegations. dukechronicle.com/article/stephe… cnn.com/2024/12/14/us/… dukechronicle.com/article/2024/1… — https://nitter.kareem.one/Mediaite/status/2118798387747107227#m",
+   "text": "Uhh… you mean the kids who were found innocent??? Mediaite (@Mediaite) FLASHBACK: Unearthed Video of Stephen Miller Defending Duke Lacrosse Players Accused of Rape mediaite.com/media/news/flas… Link Stephen Miller Defends Duke Lacrosse Team to Nancy Grace A video shared on social media shows a young Stephen Miller defending the members of the Duke lacrosse team who were falsely accused of rape. mediaite.com Community note: ⚠️IMPORTANT CONTEXT: Duke Lacrosse Allegations Were a Hoax en.wikipedia.org/wiki/Duke_lacr… espn.com/college-sports… The City of Durham and Duke University were forced to settle law suits from the innocent players, and the DA was charged criminally for misconduct. cnn.com/2014/05/16/jus… — https://nitter.kareem.one/Mediaite/status/2118798387747107227#m",
    "url": "https://nitter.kareem.one/CarlHigbie/status/2119148067442282988#m",
    "ts": 1794079245,
    "id": "2119148067442282988#m"
@@ -752,15 +760,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2118365598459527286#m",
    "ts": 1793892690,
    "id": "2118365598459527286#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "I've heard from many in Beijing that they like Trump's accommodating China policy. But this quote is quite striking: \"The Chinese are very realistic that a new president might be very different (from Trump),\" said Shen Weizhong, a former Chinese Foreign Ministry official. \"But if we ​can have two more years of stability, that's already a good thing for China ... The more time we have, the better prepared we might be towards ⁠a final showdown on Taiwan or maybe another trade war,\" added Shen, who now works for Beijing-based think tank Global Governance Institution. Reuters China (@ReutersChina) The midterm drubbing of Donald Trump's Republicans may strengthen China's hand in trade talks with Washington, but Beijing is unlikely to revel in the misfortunes of a US president whose successor could prove less accommodating. reuters.com/world/china/trum… Link Trump's political humbling signals short-term gain, long-term pain for China The midterm drubbing of Donald Trump's Republicans may strengthen China's hand in trade talks with Washington, but Beijing is ​unlikely to revel in the misfortunes of a US president whose successor... reuters.com — https://nitter.kareem.one/ReutersChina/status/2118259560855056885#m",
-   "url": "https://nitter.kareem.one/RushDoshi/status/2118364403506511900#m",
-   "ts": 1793892405,
-   "id": "2118364403506511900#m"
   },
   {
    "handle": "TheRundownAI",
