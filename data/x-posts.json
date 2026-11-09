@@ -1,20 +1,56 @@
 {
- "generated_at": "2026-11-09T16:09:48Z",
+ "generated_at": "2026-11-09T16:23:15Z",
  "accounts_ok": [
-  "TheRundownAI",
-  "ZichenWanghere",
+  "Lingling_Wei",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed"
+  "@simonw: all instances failed",
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "btw i have all my investments/equity/advising disclosed swyx.io/portfolio and we have only recently opened up for sponsorships so there was literally nothing to be bought and paid for + we have contractual editorial independence (detials ask business @ latent.space Link Advising and Investing Devtools startup advising and investing by Shawn @swyx Wang. swyx.io",
+   "url": "https://nitter.kareem.one/swyx/status/2119824433426878643#m",
+   "ts": 1794240504,
+   "id": "2119824433426878643#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "someone made this a few weeks ago and it keeps getting sent to me and idk how i feel about @latentspacepod being smart but mid",
+   "url": "https://nitter.kareem.one/swyx/status/2119824420059697455#m",
+   "ts": 1794240500,
+   "id": "2119824420059697455#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Elon has nearly 160,000 direct employees throughout his companies and supports almost 870,000 jobs. Over five years, based on conservative estimates, @elonmusk ’s companies have injected $338 billion into the US economy. @Tesla makes the first and second most American made cars. @SpaceX made the first fully reusable rocket and the world’s largest satellite internet constellation. As Axios says: his “companies are central to America's technological and military power.” In the end, the only people the Democrats will hurt are the American people. Axios (@axios) Elon Musk's empire braces for Democratic crackdown axios.com/2026/11/09/elon-mu… Link Elon Musk's empire braces for Democratic crackdown The world's richest man faces challenges spanning from the halls of Congress to Wall Street and Texas. axios.com — https://nitter.kareem.one/axios/status/2119739781315756513#m",
+   "url": "https://nitter.kareem.one/KatieMiller/status/2119823094663835711#m",
+   "ts": 1794240184,
+   "id": "2119823094663835711#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "No DNA. No CCTV. No forensic evidence. Just witness testimony. 10 years and 6 months. This is not justice. This is a corrupt 2 tier system making an example of a man who spoke out against them. The same system that protected the perpetrators of the grooming gangs, ignored the victims and arrest innocent citizens for posting their opinions online. Video",
+   "url": "https://nitter.kareem.one/TheJadeWarwick/status/2119822336337592584#m",
+   "ts": 1794240004,
+   "id": "2119822336337592584#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -109,10 +145,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "BREAKING: Brussels Airlines just released a new footage of @Starlink being installed on its aircraft. Flight SN2257 to Copenhagen was its first flight with Starlink today. The airline even sent its press release over Starlink at 12,000 meters. Video",
-   "url": "https://nitter.kareem.one/cb_doge/status/2119779356113580221#m",
-   "ts": 1794229756,
-   "id": "2119779356113580221#m"
+   "text": "I responded to hundreds of you and will continue to monitor comments I’ll be using @bot to get aggregate feedback to the team of course, aggregate feedback is no substitute for talking to users. I will continue to talk with you all. Every response comes from me! matt palmer (@mattyp) Improvements to token efficiency & behavior in Grok Bot are underway Many of you have built important workflows on @bot - we want to keep supporting you Please reply with feedback on this post. I will read it all Thank you sincerely for your support — https://nitter.kareem.one/mattyp/status/2119474599708827957#m",
+   "url": "https://nitter.kareem.one/mattyp/status/2119789494723649662#m",
+   "ts": 1794232173,
+   "id": "2119789494723649662#m"
   },
   {
    "handle": "elonmusk",
@@ -122,6 +158,15 @@
    "url": "https://nitter.kareem.one/zerohedge/status/2119778393621237976#m",
    "ts": 1794229527,
    "id": "2119778393621237976#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Ron Baron describes Elon Musk as \"the biggest job creator in the\" US and a \"once in a lifetime person.\" Baron points out that Musk has the ability to build businesses at a scale and cost that almost nobody else can match. He also notes the scale of Musk's businesses and projects like Terafab as examples of how he is pushing American industry forward. Video",
+   "url": "https://nitter.kareem.one/ResisttheMS/status/2119777525757022584#m",
+   "ts": 1794229320,
+   "id": "2119777525757022584#m"
   },
   {
    "handle": "elonmusk",
@@ -205,15 +250,6 @@
    "id": "2119701908663459944#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Hey @grok why are Polish officials and UK media calling the shooter \"far right\" when there has been zero evidence that he was \"far right\"?",
-   "url": "https://nitter.kareem.one/TheGNPE/status/2119662721419694220#m",
-   "ts": 1794201948,
-   "id": "2119662721419694220#m"
-  },
-  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -266,6 +302,15 @@
    "url": "https://nitter.kareem.one/ryolu_/status/2119586846657454152#m",
    "ts": 1794183858,
    "id": "2119586846657454152#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "A battery cost $600 per kilowatt-hour. The materials it’s made of, according to Elon Musk, cost about $80. REPORTER: Where does that gap come from? ELON MUSK: Most people reason by analogy. They say batteries will always be expensive because they’ve always been expensive. That’s pretty dumb. REPORTER: Why? ELON MUSK: If you applied that reasoning to anything new, you’d never get to the new thing. You can’t say, “Horses are great, we’re used to them, and there’s no gasoline to buy, so nobody will ever want a car.” And people did say that. REPORTER: So how should you reason? ELON MUSK: From first principles, not by analogy. Normally we do something because it’s like something that was done before, or because other people are doing it. REPORTER: What are first principles? ELON MUSK: The physics way of looking at the world. You boil things down to the most fundamental truths and reason up from there. REPORTER: Why doesn’t everyone do that? ELON MUSK: Because it takes a lot more mental energy. REPORTER: Can you give an example? ELON MUSK: Batteries. Historically it’s $600 per kilowatt-hour, and they say it won’t get much better. I ask something else: what is it made of? REPORTER: And what is it made of? ELON MUSK: Cobalt, nickel, aluminum, carbon, some polymers for separation, and a sealed can. REPORTER: And what does that cost? ELON MUSK: At London Metal Exchange prices it comes to something like $80 per kilowatt-hour. REPORTER: So that’s almost eight times less. What do you do w",
+   "url": "https://nitter.kareem.one/0xMiraxq/status/2119559301060509801#m",
+   "ts": 1794177291,
+   "id": "2119559301060509801#m"
   },
   {
    "handle": "swyx",
@@ -352,24 +397,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Arabs won't be a minority in Arabia Jews won't be a minority in Israel Indians won't be a minority in India Chinese won't be a minority in China Only White Europeans are projected to be the minority in all their countries Objecting to this is \"White supremacy\"",
-   "url": "https://nitter.kareem.one/RealTrouble_Man/status/2119461097958744289#m",
-   "ts": 1794153878,
-   "id": "2119461097958744289#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "BBC posted this Headline ‘Far Right Shooting’ it received if 1 million impressions However in the comments - you can see the Shooter was a Far Left Radical in favour of Communism The BBC are pure propaganda & misinformation",
-   "url": "https://nitter.kareem.one/BGatesIsaPyscho/status/2119432288408871418#m",
-   "ts": 1794147009,
-   "id": "2119432288408871418#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Starlink helped save five people stranded in Kazakhstan’s snowy mountains. ♥️ Their SUV broke down about 15 km from the village of Kystau Kurchum. There was no mobile network they could use. Starlink got their call for help through and kept them in touch with rescuers, who used the connection to find them. Crews drove about 100 km in an all-terrain vehicle and brought all five safely back to the village. For people stranded far from help, Starlink can be lifesaving technology. Video",
    "url": "https://nitter.kareem.one/cb_doge/status/2119430733525815742#m",
    "ts": 1794146638,
@@ -392,15 +419,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2119427047437242624#m",
    "ts": 1794145759,
    "id": "2119427047437242624#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "El gobierno de Donald Tusk ordenó borrar de inmediato el facebook del asesino que mató ayer a seis personas e hirió a 15 en la plaza mayor de Cracovia después de asesinar a su familia en casa. Porque el facebook destruye todos sus intentos de ayer de presentarlo como \"ultraderechista\" y sugerir cercanía a las fuerzas patriotas, conservadoras y patriotas que, lideradas por el jefe de Estado Karol Nawrocki, forman la resistencia a los intentos de golpe de Estado del gobierno de Tusk apoyado por la Comisión Europea y el gobierno de Alemania. Donald Tusk miente, una vez más. Como mentiroso alcanza casi las cotas de Pedro Sánchez otro protegido de Von der Leyen. Ya lo de matar a su propia familia y después indiscriminadamente a compatriotas le pega poco a un ultraderechista polaco por extremista que sea. Pero lo que descarta definitivamente que sea derechista es su facebook. Allí se presenta con estética de ambigüedad sexual, bandera gay, confirma la afición a disfrazarse y a pintarse las uñas de que hablan quienes le conocían y ridiculiza al santo Papa Juan Pablo II.",
-   "url": "https://nitter.kareem.one/hermanntertsch/status/2119359726781600062#m",
-   "ts": 1794129709,
-   "id": "2119359726781600062#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -482,15 +500,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2119210582654210255#m",
    "ts": 1794094150,
    "id": "2119210582654210255#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "never ever forget Capitano Jacko (@CapitanoJacko) — https://nitter.kareem.one/CapitanoJacko/status/2119080872377004404#m",
-   "url": "https://nitter.kareem.one/swyx/status/2119164641301696891#m",
-   "ts": 1794083197,
-   "id": "2119164641301696891#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -653,15 +662,6 @@
    "url": "https://nitter.kareem.one/uspolitics1111/status/2118690421119295643#m",
    "ts": 1793970134,
    "id": "2118690421119295643#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Da Vinci’s to-do list btw Linda (@TorontoLinda) Men will really have a to-do list that has “pick up drycleaning” and “see Machu Picchu” as consecutive items. No priority ranking, no chronological sections. “Water plants” immediately followed by “learn Chinese” — https://nitter.kareem.one/TorontoLinda/status/2118330460803575938#m",
-   "url": "https://nitter.kareem.one/jose_goncalves_/status/2118631455027044626#m",
-   "ts": 1793956075,
-   "id": "2118631455027044626#m"
   },
   {
    "handle": "thsottiaux",
