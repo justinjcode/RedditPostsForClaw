@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-09T17:17:43Z",
+ "generated_at": "2026-11-09T17:28:06Z",
  "accounts_ok": [
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,10 +10,20 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "LAUNCHED: ByteDance is rolling out Seedream 5.5, a new image model it says can edit the same picture 100 times in a row without losing tiny details. In ByteDance’s own testing, experts picked it over GPT Image 2.5 Sunburst and Nano Banana 2.1 on getting text right and on realism from a prompt. It can also make images with see-through backgrounds. Video",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2119841916376281432#m",
+   "ts": 1794244672,
+   "id": "2119841916376281432#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -1015,15 +1024,6 @@
    "id": "2117655816581071203#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: tech.therundown.ai/p/apple-c… Link Apple can't build enough iPhone Duos PLUS: TikTok builds its super app tech.therundown.ai",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2117640781137649686#m",
-   "ts": 1793719880,
-   "id": "2117640781137649686#m"
-  },
-  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -1348,9 +1348,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
