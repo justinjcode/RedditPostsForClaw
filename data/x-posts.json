@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-09T21:08:46Z",
+ "generated_at": "2026-11-09T21:15:56Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Scoop: The Trump administration is pushing back against Beijing’s demand that a proposed summit between Trump, Putin and Xi follow a tightly scripted format, with each leader reading prepared statements and no room for real discussion. The administration is pushing for a format that would allow more exchange among the three leaders instead of scripted monologues on the sidelines of APEC summit next Wednesday and Thursday. wsj.com/world/china/u-s-balk… via @WSJ Link Exclusive | U.S. Balks at China’s Demand for Tightly Scripted Trump-Xi-Putin Summit Trump has said he wants to talk about arms control, a subject long taboo for China. wsj.com",
+   "url": "https://nitter.kareem.one/Lingling_Wei/status/2119895354795511965#m",
+   "ts": 1794257412,
+   "id": "2119895354795511965#m"
+  },
   {
    "handle": "bcherny",
    "name": "Boris Cherny",
@@ -1366,9 +1374,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
@@ -1454,15 +1462,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2113633667583287786#m",
    "ts": 1792764510,
    "id": "2113633667583287786#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "A great primer on China's coming \"election year.\" Well done, @damienics carnegieendowment.org/china/… Link The Spring and Autumn of Chinese Politics China’s political future will be shaped between now and next October. As the Communist Party enters its intense “campaign season” to prepare for a major political transition in 2027, reading Beijin... carnegieendowment.org",
-   "url": "https://nitter.kareem.one/dennisw5/status/2113547660498288930#m",
-   "ts": 1792744004,
-   "id": "2113547660498288930#m"
   },
   {
    "handle": "Lingling_Wei",
