@@ -1,9 +1,6 @@
 {
- "generated_at": "2026-11-09T06:57:18Z",
+ "generated_at": "2026-11-09T07:11:14Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +8,11 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 178,
  "items": [
   {
@@ -144,6 +145,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "The US Government spent billions building electric vehicle. They built 400 over five years. How many did @ElonMusk 's @Tesla build in the same timeframe? 35,000! And activists want government to take more of his money? Video",
+   "url": "https://nitter.kareem.one/JohnStossel/status/2119570662180466875#m",
+   "ts": 1794180000,
+   "id": "2119570662180466875#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "Charlie was murdered in the middle of a debate with people who hate him while wearing a shirt that said \"freedom.\" He died defending Chappelle's right to be offensive. And Chappelle thanks him by reveling in his death. But as offensive as that is, none of us who knew and loved Charlie want Chappelle to suffer the same fate. We don't want Chappelle dead, and we wouldn't \"feel better\" if someone murdered him. That's not how we respond to speech that offends us because we're not bloodthirsty lunatics. If you're laughing about Charlie's murder, or feeling good about Charlie's murder, you're acting within your rights. You're free to be sadistic. But that's exactly what you are. Your soul is sick. The only thing I wish for you is that you'd come to realize it — before it's too late — and beg for God's forgiveness. FreeThinkerFitness (@FreeThinkerFit) “Ever since that guy Charlie Kirk got murdered, and I shouldn’t say this publicly but…. I feel better.” - Dave Chappelle Video — https://nitter.kareem.one/FreeThinkerFit/status/2119320412635144528#m",
    "url": "https://nitter.kareem.one/SethDillon/status/2119563450846245307#m",
    "ts": 1794178280,
@@ -265,15 +275,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2119450646143537211#m",
    "ts": 1794151386,
    "id": "2119450646143537211#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Starlink saves lives DogeDesigner (@cb_doge) Starlink helped save five people stranded in Kazakhstan’s snowy mountains. ♥️ Their SUV broke down about 15 km from the village of Kystau Kurchum. There was no mobile network they could use. Starlink got their call for help through and kept them in touch with rescuers, who used the connection to find them. Crews drove about 100 km in an all-terrain vehicle and brought all five safely back to the village. For people stranded far from help, Starlink can be lifesaving technology. Video — https://nitter.kareem.one/cb_doge/status/2119430733525815742#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2119450198007337418#m",
-   "ts": 1794151279,
-   "id": "2119450198007337418#m"
   },
   {
    "handle": "swyx",
@@ -414,7 +415,7 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Uhh… you mean the kids who were found innocent??? Mediaite (@Mediaite) FLASHBACK: Unearthed Video of Stephen Miller Defending Duke Lacrosse Players Accused of Rape mediaite.com/media/news/flas… Link Stephen Miller Defends Duke Lacrosse Team to Nancy Grace A video shared on social media shows a young Stephen Miller defending the members of the Duke lacrosse team who were falsely accused of rape. mediaite.com Community note: ⚠️IMPORTANT CONTEXT: Duke Lacrosse Allegations Were a Hoax en.wikipedia.org/wiki/Duke_lacr… espn.com/college-sports… The City of Durham and Duke University were forced to settle law suits from the innocent players, and the DA was charged criminally for misconduct. cnn.com/2014/05/16/jus… — https://nitter.kareem.one/Mediaite/status/2118798387747107227#m",
+   "text": "Uhh… you mean the kids who were found innocent??? Mediaite (@Mediaite) FLASHBACK: Unearthed Video of Stephen Miller Defending Duke Lacrosse Players Accused of Rape mediaite.com/media/news/flas… Link Stephen Miller Defends Duke Lacrosse Team to Nancy Grace A video shared on social media shows a young Stephen Miller defending the members of the Duke lacrosse team who were falsely accused of rape. mediaite.com Community note: Stephen Miller advocated for the presumption of innocence of the Duke lacrosse players in 2006 amid rape accusations. The players were exonerated in 2007; the accuser later admitted fabricating the allegations. dukechronicle.com/article/stephe… cnn.com/2024/12/14/us/… dukechronicle.com/article/2024/1… — https://nitter.kareem.one/Mediaite/status/2118798387747107227#m",
    "url": "https://nitter.kareem.one/CarlHigbie/status/2119148067442282988#m",
    "ts": 1794079245,
    "id": "2119148067442282988#m"
@@ -1347,9 +1348,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
