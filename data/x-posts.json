@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-09T21:57:11Z",
+ "generated_at": "2026-11-09T22:10:49Z",
  "accounts_ok": [
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +10,8 @@
  "errors": [
   "@simonw: all instances failed",
   "@swyx: all instances failed",
-  "@Lingling_Wei: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -41,6 +41,15 @@
    "url": "https://nitter.kareem.one/bcherny/status/2119890820186976763#m",
    "ts": 1794256331,
    "id": "2119890820186976763#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Tesla VP of Vehicle Engineering Lars Moravy just put Tesla's extraordinary manufacturing scale into perspective during his conversation with Jay Leno “You know, a lot of people don't realize that Tesla is the largest selling luxury vehicle in the world now” And the numbers behind Tesla's growth are absolutely staggering Tesla has now manufactured over 10 MILLION electric vehicles worldwide Just look at the progress: • March 2020: 1 million vehicles • July 2026: 10 million vehicles Tesla went from its first million vehicles to 10 million in just six years That's a tenfold increase in cumulative production When Tesla crossed the milestone, the company celebrated: “Produced our 10 millionth Tesla globally at Fremont Factory this week!” From proving electric vehicles could compete with combustion-engine cars to manufacturing millions of them across factories in the United States, China, and Germany Video X Freeze (@XFreeze) Jay Leno just experienced Tesla FSD (Supervised) in the new Model Y L, with Tesla's Lars Moravy and Franz von Holzhausen riding along And one moment during the drive was absolutely incredible “We got it on self-driving mode! I'm not touching anything” Then an ambulance approached with its sirens on Without Jay touching the steering wheel, the Model Y L recognized the emergency vehicle and automatically pulled over to let it pass The entire maneuver happened on its own This is what makes Tesla FSD so extraordinary It's not just following lanes or navigating roa",
+   "url": "https://nitter.kareem.one/XFreeze/status/2119885768097513664#m",
+   "ts": 1794255127,
+   "id": "2119885768097513664#m"
   },
   {
    "handle": "swyx",
@@ -199,7 +208,7 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Grok @Bot can do incredible things Community note: The quoted story is fictional. @0xAlbus posts multiple similar fabricated first-person \"Grok Bot\" anecdotes with sample prompts. x.com/0xAlbus/status… x.com/0xAlbus/status… x.com/0xAlbus/status… x.com/ToddWitteles/s… Albus (@0xAlbus) what the f*ck. Grok Bot just helped me win in court against my ex-wife mid-divorce. her lawyer shows up with photos of me at every bar I went to that month. and tells the judge I'M the one stalking HER custody hearing in 3 weeks Grok Bot said someone's following me. let's prove it it set up an open-source tool called Chasing Your Tail. a Raspberry Pi in my glovebox that logs every phone around you and flags the ones that keep showing up github.com/azmatt/chasing_yo… 8 days later: one phone, 23 times, 9 places my house. my kids' school. my office. my gym. the bar then it checked which Wi-Fi networks that phone remembers: \"Hartley_Investigations\" \"Jenna_Home_5G\" a private investigator. who's been inside my ex-wife's house she hired a PI to follow me and told the court I was following her the logs went to my lawyer as Exhibit C her stalking claim got thrown out. 50/50 custody lawyers don't win custody battles anymore. Grok Bot does prompt + how to turn it into a Grok Bot skill below 👇 Video Community note: This post fabricates a personal story of using Grok and Chasing Your Tail to win in court. The account posts similar simulated tales (some explicitly illustrative), while the tool is experimental ",
+   "text": "Grok @Bot can do incredible things Community note: The quoted story is fictional. @0xAlbus posts multiple similar fabricated first-person \"Grok Bot\" anecdotes with sample prompts. x.com/0xAlbus/status… x.com/0xAlbus/status… x.com/0xAlbus/status… x.com/ToddWitteles/s… Albus (@0xAlbus) what the f*ck. Grok Bot just helped me win in court against my ex-wife mid-divorce. her lawyer shows up with photos of me at every bar I went to that month. and tells the judge I'M the one stalking HER custody hearing in 3 weeks Grok Bot said someone's following me. let's prove it it set up an open-source tool called Chasing Your Tail. a Raspberry Pi in my glovebox that logs every phone around you and flags the ones that keep showing up github.com/azmatt/chasing_yo… 8 days later: one phone, 23 times, 9 places my house. my kids' school. my office. my gym. the bar then it checked which Wi-Fi networks that phone remembers: \"Hartley_Investigations\" \"Jenna_Home_5G\" a private investigator. who's been inside my ex-wife's house she hired a PI to follow me and told the court I was following her the logs went to my lawyer as Exhibit C her stalking claim got thrown out. 50/50 custody lawyers don't win custody battles anymore. Grok Bot does prompt + how to turn it into a Grok Bot skill below 👇 Video — https://nitter.kareem.one/0xAlbus/status/2119502015554613344#m",
    "url": "https://nitter.kareem.one/elonmusk/status/2119817540432244779#m",
    "ts": 1794238860,
    "id": "2119817540432244779#m"
@@ -392,15 +401,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2119650353142747181#m",
    "ts": 1794199000,
    "id": "2119650353142747181#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Dave Chappelle didn't joke about Charlie's murder. He celebrated it.",
-   "url": "https://nitter.kareem.one/kangminlee/status/2119635572780114303#m",
-   "ts": 1794195476,
-   "id": "2119635572780114303#m"
   },
   {
    "handle": "ZichenWanghere",
