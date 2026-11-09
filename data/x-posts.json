@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-09T19:46:35Z",
+ "generated_at": "2026-11-09T19:57:44Z",
  "accounts_ok": [
-  "TheRundownAI",
   "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
+  "@simonw: all instances failed",
   "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -19,10 +19,10 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "looks like $ANT is back on the menu boys and girls and theythems!! Claude (@claudeai) Introducing Claude Fable 5.2 and Claude Mythos 5.2, designed to tackle the most daunting technical challenges. They’re capable collaborators on ambitious projects in many fields, and show improvements in areas like coding, reasoning, and vision. Video — https://nitter.kareem.one/claudeai/status/2119867114450268322#m",
-   "url": "https://nitter.kareem.one/swyx/status/2119877266134200761#m",
-   "ts": 1794253100,
-   "id": "2119877266134200761#m"
+   "text": "btw by complete coincidence the $ANT IPO roadshow across wall street started today. they had this in the chamber and its also nice that it came after Astra, Argon and Carbon… Claude (@claudeai) Introducing Claude Fable 5.2 and Claude Mythos 5.2, designed to tackle the most daunting technical challenges. They’re capable collaborators on ambitious projects in many fields, and show improvements in areas like coding, reasoning, and vision. Video — https://nitter.kareem.one/claudeai/status/2119867114450268322#m",
+   "url": "https://nitter.kareem.one/swyx/status/2119878742063641056#m",
+   "ts": 1794253452,
+   "id": "2119878742063641056#m"
   },
   {
    "handle": "TheRundownAI",
@@ -77,6 +77,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2119841916376281432#m",
    "ts": 1794244672,
    "id": "2119841916376281432#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "excited to be speaking at @aiDotEngineer this wednesday at 10:10am PT! i will be talking about how the grok @bot team shipped 11,000 PRs last month without compromising on code quality hope to see you there: ai.engineer/code/2026/schedu… AI.Engineer 🔜 CODE (@aiDotEngineer) First AIE Code Summit speakers: @poteto , Principal Engineer @ SpaceX @steve_yegge , Engineer, Writer, Advisor @zachbruggeman , Principal Software Engineer @ Ramp Nov 10-12, SF. Come hang out with us. Apply at ai.engineer/code — https://nitter.kareem.one/aiDotEngineer/status/2112276851355693315#m",
+   "url": "https://nitter.kareem.one/poteto/status/2119841446308221152#m",
+   "ts": 1794244560,
+   "id": "2119841446308221152#m"
   },
   {
    "handle": "swyx",
@@ -482,15 +491,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2119429305512165838#m",
    "ts": 1794146298,
    "id": "2119429305512165838#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "my fave $ant discussion so far. still thinking about it inv.kareem.one/watch?v=P735f1xl… Link Deep Dive: Anthropic S-1 Myths and Mythos — Jamin Ball, Altimeter Will Anthropic make it from filing an S-1 to trading on Nasdaq? Jam... youtube.com",
-   "url": "https://nitter.kareem.one/swyx/status/2119427047437242624#m",
-   "ts": 1794145759,
-   "id": "2119427047437242624#m"
   },
   {
    "handle": "ZichenWanghere",
