@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-09T20:37:47Z",
+ "generated_at": "2026-11-09T20:45:51Z",
  "accounts_ok": [
   "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
   "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
+   "text": "Pro users get one reset, and Max, Ultra, and Team Premium get up to three, depending on how long you've subscribed: support.claude.com/en/articl… Link Claude Fable 5.2 launch offers | Claude Help Center support.claude.com",
+   "url": "https://nitter.kareem.one/bcherny/status/2119890820186976763#m",
+   "ts": 1794256331,
+   "id": "2119890820186976763#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -1589,15 +1598,6 @@
    "url": "https://nitter.kareem.one/bunjavascript/status/2110692261508079721#m",
    "ts": 1792063224,
    "id": "2110692261508079721#m"
-  },
-  {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
-   "text": "What did @AnthropicAI do with his latest Claude Desktop update? I feel like there was a major system prompt/harness upgrade here. Opus 5.5 feels like it's Opus 5.8 now. cc @trq212 what did y'all do?",
-   "url": "https://nitter.kareem.one/ChadMoran/status/2110442227604566348#m",
-   "ts": 1792003611,
-   "id": "2110442227604566348#m"
   },
   {
    "handle": "bcherny",
