@@ -1,15 +1,106 @@
 {
- "generated_at": "2026-11-10T00:19:40Z",
+ "generated_at": "2026-11-10T10:10:14Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
-  "selfhosted"
+  "MachineLearning",
+  "programming"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "A faster way to calculate the date of Easter",
+   "url": "https://www.reddit.com/r/programming/comments/1xsiojn/a_faster_way_to_calculate_the_date_of_easter/",
+   "ts": 1794303402,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "How do you guys use ai to come up with research ideas/loops to test them? Any tips? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xsh5uh/how_do_you_guys_use_ai_to_come_up_with_research/",
+   "ts": 1794297415,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "feat: external PLE file loading by pwilkin · Pull Request #31185 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsgpby/feat_external_ple_file_loading_by_pwilkin_pull/",
+   "ts": 1794295602,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Haiku 5.5 sped up Duktape 2.0 more than the maintainers' 2.2.0 release did",
+   "url": "https://www.reddit.com/r/programming/comments/1xsg8z5/haiku_55_sped_up_duktape_20_more_than_the/",
+   "ts": 1794293931,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Haiku 5.5 sped up Duktape 2.0 more than the maintainers' 2.2.0 release did",
+   "url": "https://www.reddit.com/r/programming/comments/1xsg53h/haiku_55_sped_up_duktape_20_more_than_the/",
+   "ts": 1794293522,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Prediction: more enthusiasts will get custom quantisations build by opus and Asta for their hardware and precision needs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsg2cu/prediction_more_enthusiasts_will_get_custom/",
+   "ts": 1794293243,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Decoding REXPaint Files in Odin",
+   "url": "https://www.reddit.com/r/programming/comments/1xse6zb/decoding_rexpaint_files_in_odin/",
+   "ts": 1794286779,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "These names are wild, but I love them/New Model: DavidAU Qwen3.8-40B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsde08/these_names_are_wild_but_i_love_themnew_model/",
+   "ts": 1794284177,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Qwen3.8-Flash-Next: Have you tried swapping the ngrams as per their latest version?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsbmbx/qwen38flashnext_have_you_tried_swapping_the/",
+   "ts": 1794278815,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Multiverse Computing's Comet 60B (A12B) GGUFs with the MTP head",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsbc2r/multiverse_computings_comet_60b_a12b_ggufs_with/",
+   "ts": 1794277972,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Did we ever really get to the bottom of why BatchNorm works? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xsasyf/did_we_ever_really_get_to_the_bottom_of_why/",
+   "ts": 1794276424,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "How we reduced core unit boot time from hours to minutes",
+   "url": "https://www.reddit.com/r/programming/comments/1xs9ou9/how_we_reduced_core_unit_boot_time_from_hours_to/",
+   "ts": 1794273195,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "I made a 400M model for NPC judgement calls in games (Apache-2.0, ~0.1s on a 3060 Ti)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs9nux/i_made_a_400m_model_for_npc_judgement_calls_in/",
+   "ts": 1794273118,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "How to mess around with neurons... a short guide",
@@ -22,6 +113,20 @@
    "title": "Migrating from Proton & Google, what should I self-host next?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xs7z7z/migrating_from_proton_google_what_should_i/",
    "ts": 1794268609,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Same prompt, DeepSeek V4.1 Flash vs Qwen 3.8 FN: 94 tok/s vs 350 tok/s",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs7ffm/same_prompt_deepseek_v41_flash_vs_qwen_38_fn_94/",
+   "ts": 1794267151,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Has Anyone Here Ever Built An Image Generator From Scratch? [N]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xs78e3/has_anyone_here_ever_built_an_image_generator/",
+   "ts": 1794266636,
    "source": "Reddit"
   },
   {
@@ -39,24 +144,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache",
-   "url": "https://www.reddit.com/r/programming/comments/1xs558h/how_we_saved_100_terabytes_of_memory_by/",
-   "ts": 1794261614,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Alarm.com doorbell cam flash",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xs547u/alarmcom_doorbell_cam_flash/",
    "ts": 1794261552,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Dialectic, Requirements, and Verifiable tests will drastically increase your model's code output quality",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs4kit/dialectic_requirements_and_verifiable_tests_will/",
-   "ts": 1794260253,
    "source": "Reddit"
   },
   {
@@ -92,13 +183,6 @@
    "title": "IMPS: Self-hosted photo inventory for storage boxes, with printable QR labels",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xs1w9j/imps_selfhosted_photo_inventory_for_storage_boxes/",
    "ts": 1794254137,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Decoupling a Python quantum physics solver from a JavaFX 3D UI via gRPC to achieve 60 FPS in molecular dynamics",
-   "url": "https://www.reddit.com/r/programming/comments/1xs1t51/decoupling_a_python_quantum_physics_solver_from_a/",
-   "ts": 1794253936,
    "source": "Reddit"
   },
   {
@@ -151,13 +235,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "I fine-tuned a 2B decision model to play Doom on my Mac in 43 minutes (open source, MLX)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xryvbg/i_finetuned_a_2b_decision_model_to_play_doom_on/",
-   "ts": 1794247491,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Twindex: exact, replayable proofs that your data can't tell two parameter sets apart (ODEs, PDEs, PINNs) [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xryhhg/twindex_exact_replayable_proofs_that_your_data/",
@@ -172,13 +249,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "ConceptCountry/qwen-concept-27b · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrxwg1/conceptcountryqwenconcept27b_hugging_face/",
-   "ts": 1794245367,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "A Matrix Multiplication Algorithm Rooted In Graph Theory",
    "url": "https://www.reddit.com/r/programming/comments/1xrwyq8/a_matrix_multiplication_algorithm_rooted_in_graph/",
@@ -190,20 +260,6 @@
    "title": "EACL 2027 Decisions Thread [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xrv8mp/eacl_2027_decisions_thread_r/",
    "ts": 1794239544,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Drummer's Orion 26B A4B v1 and v1.1! ... Plus a new project from yours truly.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xruzry/drummers_orion_26b_a4b_v1_and_v11_plus_a_new/",
-   "ts": 1794239008,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Weight-space programming: editing Qwen3.5 into a top decision model",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xruwlf/weightspace_programming_editing_qwen35_into_a_top/",
-   "ts": 1794238806,
    "source": "Reddit"
   },
   {
@@ -235,13 +291,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "meituan-longcat/LongCat-2.5 · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrsptp/meituanlongcatlongcat25_hugging_face/",
-   "ts": 1794233657,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "C# 15: Union Types, Closed Hierarchies, and the One Value™ That Isn't Any of Them · cekrem.github.io",
    "url": "https://www.reddit.com/r/programming/comments/1xrrmk7/c_15_union_types_closed_hierarchies_and_the_one/",
@@ -263,24 +312,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "L11 N8147 is a neuron that will make Qwen-3.5-4B get things confidently wrong while being weirdly snarky... But also makes it write interesting poetry",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrkomn/l11_n8147_is_a_neuron_that_will_make_qwen354b_get/",
-   "ts": 1794206527,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Amazon applied science intern interview next week - EU based [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xrkiaw/amazon_applied_science_intern_interview_next_week/",
    "ts": 1794205894,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Have MLSys 2027 reviewers received their paper assignments yet? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xrj2ld/have_mlsys_2027_reviewers_received_their_paper/",
-   "ts": 1794200962,
    "source": "Reddit"
   },
   {
@@ -295,13 +330,6 @@
    "title": "Anyone using AWS Glacier (or similar) instead of traditional offline backup?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xrh89a/anyone_using_aws_glacier_or_similar_instead_of/",
    "ts": 1794194971,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "LoRA-conditioned model skips the first line of its output when the caption is short. Any idea why? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xrdn7p/loraconditioned_model_skips_the_first_line_of_its/",
-   "ts": 1794184207,
    "source": "Reddit"
   },
   {
@@ -348,20 +376,6 @@
   },
   {
    "subreddit": "programming",
-   "title": "Introducing Project Steadfast",
-   "url": "https://www.reddit.com/r/programming/comments/1xqu801/introducing_project_steadfast/",
-   "ts": 1794128923,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "What if diffusion models generates Neural Network weights? Gen AI generate Gen AI [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xqsl8d/what_if_diffusion_models_generates_neural_network/",
-   "ts": 1794122437,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
    "title": "Profiles for Simplicity and Guarantees - Bjarne Stroustrup",
    "url": "https://www.reddit.com/r/programming/comments/1xqs5vb/profiles_for_simplicity_and_guarantees_bjarne/",
    "ts": 1794120813,
@@ -386,20 +400,6 @@
    "title": "Unified Grid: How We Re-Architected Slack for Our Largest Customers",
    "url": "https://www.reddit.com/r/programming/comments/1xqklmx/unified_grid_how_we_rearchitected_slack_for_our/",
    "ts": 1794095885,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Internals of asyncio",
-   "url": "https://www.reddit.com/r/programming/comments/1xq391t/internals_of_asyncio/",
-   "ts": 1794047199,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Libghostty 1.0",
-   "url": "https://www.reddit.com/r/programming/comments/1xptemt/libghostty_10/",
-   "ts": 1794013230,
    "source": "Reddit"
   },
   {
