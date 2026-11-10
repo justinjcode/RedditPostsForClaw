@@ -1,9 +1,6 @@
 {
- "generated_at": "2026-11-10T13:56:26Z",
+ "generated_at": "2026-11-10T14:11:33Z",
  "accounts_ok": [
-  "TheRundownAI",
-  "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -11,9 +8,12 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed"
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
- "count": 177,
+ "count": 176,
  "items": [
   {
    "handle": "TheRundownAI",
@@ -617,15 +617,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2119550477629379009#m",
    "ts": 1794175187,
    "id": "2119550477629379009#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "if youre wondering how, ask their VP of FDE Pauline Brunet (thanks @realbasilchatha for curating this) AI.Engineer 🔜 CODE (@aiDotEngineer) Live now: our entire Forward Deployed Engineering Track from AI Engineer World's Fair! inv.kareem.one/watch?v=1OMHGsUZ… - @EnoReyes , CTO & Co-Founder, Factory - Pauline Brunet, VP of FDE, Cursor - @vasuman , Founder & CEO, Varick Agents - Jia Wu, Deployed Engineering Lead, Cognition - @natalie_meurer , Head of Agent Engineering, Sierra - Sunny Rekhi, FDE CTO, Decagon - @leomehr , Director of Engineering, Ramp - @zkevinbai , Anthropic, ex-Palantir & founding FDE at Rippling - @vinooganesh , CEO & Co-Founder, Kepler — https://nitter.kareem.one/aiDotEngineer/status/2082159947236655311#m",
-   "url": "https://nitter.kareem.one/swyx/status/2119543788192600450#m",
-   "ts": 1794173592,
-   "id": "2119543788192600450#m"
   },
   {
    "handle": "ZichenWanghere",
