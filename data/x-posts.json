@@ -1,18 +1,17 @@
 {
- "generated_at": "2026-11-10T02:56:14Z",
+ "generated_at": "2026-11-10T03:10:14Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
   {
@@ -122,6 +121,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2119878742063641056#m",
    "ts": 1794253452,
    "id": "2119878742063641056#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "BREAKING: Starlink brings high-speed internet to 196 locations in Vietnam where mobile coverage is weak or unavailable 🇻🇳 Vietnam’s Ministry of Science and Technology says 154 villages and 42 public facilities were connected by Nov. 1. The rollout is part of a pledge to provide 1,000 kits to schools, hospitals and rural communities. At Nặm Tốc preschool, there’s no mobile signal and the nearest cell tower is 9 km away. With Starlink, teachers can now bring online learning materials into the classroom for their 10 students and reach parents in an emergency. Video",
+   "url": "https://nitter.kareem.one/cb_doge/status/2119876821542150551#m",
+   "ts": 1794252994,
+   "id": "2119876821542150551#m"
   },
   {
    "handle": "swyx",
@@ -356,15 +364,6 @@
    "url": "https://nitter.kareem.one/ResisttheMS/status/2119777525757022584#m",
    "ts": 1794229320,
    "id": "2119777525757022584#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Another great month for the Grok app. 🚀 • 93,386,567 monthly active users • 12,731,752 downloads Both numbers climbed in October, according to Similarweb’s worldwide data for iPhone and Android. Video",
-   "url": "https://nitter.kareem.one/cb_doge/status/2119762211044544945#m",
-   "ts": 1794225669,
-   "id": "2119762211044544945#m"
   },
   {
    "handle": "TheRundownAI",
