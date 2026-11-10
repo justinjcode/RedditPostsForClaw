@@ -1,15 +1,43 @@
 {
- "generated_at": "2026-11-09T22:08:31Z",
+ "generated_at": "2026-11-10T00:19:40Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "How to mess around with neurons... a short guide",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs81f3/how_to_mess_around_with_neurons_a_short_guide/",
+   "ts": 1794268777,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Migrating from Proton & Google, what should I self-host next?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xs7z7z/migrating_from_proton_google_what_should_i/",
+   "ts": 1794268609,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "For folks who moved a homelab from ESXi to Proxmox, what do you miss?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xs6yt2/for_folks_who_moved_a_homelab_from_esxi_to/",
+   "ts": 1794265962,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Is ArtificialAnalysis biased against open weight models?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs5pkl/is_artificialanalysis_biased_against_open_weight/",
+   "ts": 1794262955,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache",
@@ -25,10 +53,38 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "Dialectic, Requirements, and Verifiable tests will drastically increase your model's code output quality",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs4kit/dialectic_requirements_and_verifiable_tests_will/",
+   "ts": 1794260253,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "MachineLearning",
    "title": "Forecasting new power outages per county, hourly, 2 h ahead: 2.4× the PR-AUC of NWS warnings + SPC outlook on a held-out year [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xs4hq8/forecasting_new_power_outages_per_county_hourly_2/",
    "ts": 1794260078,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Omni Voice is the fastest and best voice clone TTS out there. I've tested them all.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs46nh/omni_voice_is_the_fastest_and_best_voice_clone/",
+   "ts": 1794259348,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Got another good reminder why local matters today",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs3y17/got_another_good_reminder_why_local_matters_today/",
+   "ts": 1794258790,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Qwen 3.8 FN getting stressed from messing up",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs2okh/qwen_38_fn_getting_stressed_from_messing_up/",
+   "ts": 1794255897,
    "source": "Reddit"
   },
   {
@@ -43,6 +99,27 @@
    "title": "Decoupling a Python quantum physics solver from a JavaFX 3D UI via gRPC to achieve 60 FPS in molecular dynamics",
    "url": "https://www.reddit.com/r/programming/comments/1xs1t51/decoupling_a_python_quantum_physics_solver_from_a/",
    "ts": 1794253936,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Best Backup Strategy for My Home Server?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xs1ry3/best_backup_strategy_for_my_home_server/",
+   "ts": 1794253860,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Muse Ember: Zuck promised to open source muse spark 1.2 but continues to release to more closed models",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs0qmx/muse_ember_zuck_promised_to_open_source_muse/",
+   "ts": 1794251599,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "From the finest minds of our age to the dumbest monkeys on the planet",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs0izk/from_the_finest_minds_of_our_age_to_the_dumbest/",
+   "ts": 1794251136,
    "source": "Reddit"
   },
   {
@@ -74,6 +151,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "I fine-tuned a 2B decision model to play Doom on my Mac in 43 minutes (open source, MLX)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xryvbg/i_finetuned_a_2b_decision_model_to_play_doom_on/",
+   "ts": 1794247491,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "MachineLearning",
    "title": "Twindex: exact, replayable proofs that your data can't tell two parameter sets apart (ODEs, PDEs, PINNs) [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xryhhg/twindex_exact_replayable_proofs_that_your_data/",
@@ -95,13 +179,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Any accountants/financial professionals using local LLMs?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrx72d/any_accountantsfinancial_professionals_using/",
-   "ts": 1794243818,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "A Matrix Multiplication Algorithm Rooted In Graph Theory",
    "url": "https://www.reddit.com/r/programming/comments/1xrwyq8/a_matrix_multiplication_algorithm_rooted_in_graph/",
@@ -113,13 +190,6 @@
    "title": "EACL 2027 Decisions Thread [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xrv8mp/eacl_2027_decisions_thread_r/",
    "ts": 1794239544,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Anyone else feeling like Qwen4's release happens in slow-motion?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrv2ae/anyone_else_feeling_like_qwen4s_release_happens/",
-   "ts": 1794239169,
    "source": "Reddit"
   },
   {
@@ -179,13 +249,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "New Gemma Models",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrpcke/new_gemma_models/",
-   "ts": 1794223928,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Dawarich 1.22.0 — Alternative to Google Timeline, OwnTracks and Life360",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xrourj/dawarich_1220_alternative_to_google_timeline/",
@@ -200,13 +263,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Have always been wanting to completely shift to locally-hosted Cloud. Where do I start today?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xrl4rg/have_always_been_wanting_to_completely_shift_to/",
-   "ts": 1794208176,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "L11 N8147 is a neuron that will make Qwen-3.5-4B get things confidently wrong while being weirdly snarky... But also makes it write interesting poetry",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrkomn/l11_n8147_is_a_neuron_that_will_make_qwen354b_get/",
@@ -218,13 +274,6 @@
    "title": "Amazon applied science intern interview next week - EU based [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xrkiaw/amazon_applied_science_intern_interview_next_week/",
    "ts": 1794205894,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Tailscale prevents Android phone connection to my home server?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xrjg23/tailscale_prevents_android_phone_connection_to_my/",
-   "ts": 1794202198,
    "source": "Reddit"
   },
   {
@@ -249,24 +298,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Github Repo: Torchlens - Inspect, visualize and intervene on any operation in any neural network.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrh5iz/github_repo_torchlens_inspect_visualize_and/",
-   "ts": 1794194732,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "LoRA-conditioned model skips the first line of its output when the caption is short. Any idea why? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xrdn7p/loraconditioned_model_skips_the_first_line_of_its/",
    "ts": 1794184207,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Joined the 4x R9700 Club | Initial Benchmarks for QFN 3.8 Below",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrcia4/joined_the_4x_r9700_club_initial_benchmarks_for/",
-   "ts": 1794181005,
    "source": "Reddit"
   },
   {
@@ -284,13 +319,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation: This will completely change everything!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr6krp/nextconcept_modeling_fast_parallel_coarsetofine/",
-   "ts": 1794165579,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Sem86 - A full-system emulator without hardcoded semantics",
    "url": "https://www.reddit.com/r/programming/comments/1xr4v4f/sem86_a_fullsystem_emulator_without_hardcoded/",
@@ -302,34 +330,6 @@
    "title": "I merged attention and MLP processing into a single gated Transformer block. GAP [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xr47tw/i_merged_attention_and_mlp_processing_into_a/",
    "ts": 1794159806,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "GPT-5.5 dataset across my used 25 billion tokens!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr3ymf/gpt55_dataset_across_my_used_25_billion_tokens/",
-   "ts": 1794159168,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Self-hosted door panel: e-paper, intercom integration and Sonos chime",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xr0o09/selfhosted_door_panel_epaper_intercom_integration/",
-   "ts": 1794150806,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "\"Does censorship exist in [country]?\", according to various LLMs",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr09nq/does_censorship_exist_in_country_according_to/",
-   "ts": 1794149767,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr01bj/users_have_started_buying_rtx_5060_ti_16gb/",
-   "ts": 1794149122,
    "source": "Reddit"
   },
   {
