@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T22:35:26.543Z",
+ "updated_at": "2026-11-10T22:34:52.060Z",
  "collection": "TOP_FREE",
  "country": "us",
  "apps": [
@@ -8,420 +8,420 @@
    "appId": "com.facebook.aura",
    "title": "Muse from Meta",
    "developer": "Meta Platforms, Inc.",
-   "score": 4.746749
+   "score": 4.7478714
   },
   {
    "rank": 2,
    "appId": "com.openai.chatgpt",
    "title": "ChatGPT",
    "developer": "OpenAI",
-   "score": 4.778875
+   "score": 4.778971
   },
   {
    "rank": 3,
-   "appId": "com.dealseekorg.dealseek",
-   "title": "DealSeek: Coupons & Discounts",
-   "developer": "DealSeek LLC",
-   "score": 4.824494
-  },
-  {
-   "rank": 4,
    "appId": "com.ss.android.ugc.tiktok.pro",
    "title": "TikTok Pro - Events",
    "developer": "TikTok Pte. Ltd.",
-   "score": 4.5207686
+   "score": 4.5355463
+  },
+  {
+   "rank": 4,
+   "appId": "com.dealseekorg.dealseek",
+   "title": "DealSeek: Coupons & Discounts",
+   "developer": "DealSeek LLC",
+   "score": 4.835139
   },
   {
    "rank": 5,
    "appId": "com.zhiliaoapp.musically",
    "title": "TikTok - Videos, Shop & LIVE",
    "developer": "TikTok Pte. Ltd.",
-   "score": 3.9527366
+   "score": 3.9528453
   },
   {
    "rank": 6,
    "appId": "com.whatsapp",
    "title": "WhatsApp",
    "developer": "WhatsApp LLC",
-   "score": 4.6239324
+   "score": 4.62387
   },
   {
    "rank": 7,
    "appId": "com.eet.settings.launcher",
    "title": "Settings Home",
    "developer": "Utility Apps Home",
-   "score": 4.3194103
+   "score": 4.3138685
   },
   {
    "rank": 8,
    "appId": "com.ss.android.ttmd.video",
    "title": "PineDrama - Short Dramas",
    "developer": "TikTok Pte. Ltd.",
-   "score": 4.7287784
+   "score": 4.734344
   },
   {
    "rank": 9,
-   "appId": "com.freereels.app",
-   "title": "FreeReels - Dramas & Reels",
-   "developer": "SKYWORK AI PTE.LTD.",
-   "score": 4.737805
-  },
-  {
-   "rank": 10,
    "appId": "fr.vinted",
    "title": "Vinted: Shop & sell pre-loved",
    "developer": "Vinted",
-   "score": 4.468509
+   "score": 4.4544716
+  },
+  {
+   "rank": 10,
+   "appId": "com.freereels.app",
+   "title": "FreeReels - Dramas & Reels",
+   "developer": "SKYWORK AI PTE.LTD.",
+   "score": 4.739892
   },
   {
    "rank": 11,
    "appId": "com.gowish.app",
    "title": "GoWish - Your Digital Wishlist",
    "developer": "Ønskeskyen ApS",
-   "score": 3.2317784
+   "score": 3.2441862
   },
   {
    "rank": 12,
-   "appId": "com.facebook.katana",
-   "title": "Facebook",
-   "developer": "Meta Platforms, Inc.",
-   "score": 4.5582166
+   "appId": "io.playout",
+   "title": "Playout: Earn Money",
+   "developer": "Loyalty Gaming",
+   "score": 4.491624
   },
   {
    "rank": 13,
-   "appId": "com.einnovation.temu",
-   "title": "Temu: Shop Like a Billionaire",
-   "developer": "Temu",
-   "score": 4.4532495
+   "appId": "com.facebook.katana",
+   "title": "Facebook",
+   "developer": "Meta Platforms, Inc.",
+   "score": 4.558235
   },
   {
    "rank": 14,
-   "appId": "com.instagram.android",
-   "title": "Instagram",
-   "developer": "Instagram",
-   "score": 3.9848015
+   "appId": "com.einnovation.temu",
+   "title": "Temu: Shop Like a Billionaire",
+   "developer": "Temu",
+   "score": 4.4529037
   },
   {
    "rank": 15,
    "appId": "com.alibaba.aliexpresshd",
    "title": "AliExpress - Shopping App",
    "developer": "Alibaba Mobile",
-   "score": 4.239612
+   "score": 4.238686
   },
   {
    "rank": 16,
-   "appId": "com.twitter.android",
-   "title": "X",
-   "developer": "X Corp.",
-   "score": 4.8042617
+   "appId": "com.instagram.android",
+   "title": "Instagram",
+   "developer": "Instagram",
+   "score": 3.9847324
   },
   {
    "rank": 17,
-   "appId": "com.tiktok.lite.go",
-   "title": "TikTok Lite - Faster TikTok",
-   "developer": "TikTok Pte. Ltd.",
-   "score": 4.25
-  },
-  {
-   "rank": 18,
-   "appId": "com.squareup.cash",
-   "title": "Cash App",
-   "developer": "Block, Inc.",
-   "score": 4.7076683
-  },
-  {
-   "rank": 19,
-   "appId": "com.storymatrix.drama",
-   "title": "DramaBox - Stream Drama Shorts",
-   "developer": "STORYMATRIX",
-   "score": 4.5422516
-  },
-  {
-   "rank": 20,
-   "appId": "com.kalshi.mobile",
-   "title": "Kalshi: Trade Sports & Events",
-   "developer": "KalshiEX LLC",
-   "score": 4.7067304
-  },
-  {
-   "rank": 21,
-   "appId": "io.playout",
-   "title": "Playout: Earn Money",
-   "developer": "Loyalty Gaming",
-   "score": 4.5339074
-  },
-  {
-   "rank": 22,
-   "appId": "com.netshort.abroad",
-   "title": "NetShort - Popular Dramas & TV",
-   "developer": "NETSTORY PTE. LTD.",
-   "score": 4.6107383
-  },
-  {
-   "rank": 23,
-   "appId": "com.peacocktv.peacockandroid",
-   "title": "Peacock TV: Stream TV & Movies",
-   "developer": "Peacock TV LLC",
-   "score": 4.596748
-  },
-  {
-   "rank": 24,
-   "appId": "com.lemon.lvoverseas",
-   "title": "CapCut - Video Editor",
-   "developer": "Bytedance Pte. Ltd.",
-   "score": 3.5469012
-  },
-  {
-   "rank": 25,
-   "appId": "com.anthropic.claude",
-   "title": "Claude by Anthropic",
-   "developer": "Anthropic PBC",
-   "score": 4.5415053
-  },
-  {
-   "rank": 26,
-   "appId": "com.facebook.orca",
-   "title": "Messenger",
-   "developer": "Meta Platforms, Inc.",
-   "score": 4.7126527
-  },
-  {
-   "rank": 27,
-   "appId": "com.drama.free",
-   "title": "FreeDrama: Short Drama & Reels",
-   "developer": "Kuku Technologies Limited",
-   "score": 4.5501146
-  },
-  {
-   "rank": 28,
    "appId": "com.walmart.android",
    "title": "Walmart: Shopping & Savings",
    "developer": "Walmart",
-   "score": 4.7022753
+   "score": 4.7022314
+  },
+  {
+   "rank": 18,
+   "appId": "com.twitter.android",
+   "title": "X",
+   "developer": "X Corp.",
+   "score": 4.8043385
+  },
+  {
+   "rank": 19,
+   "appId": "com.tiktok.lite.go",
+   "title": "TikTok Lite - Faster TikTok",
+   "developer": "TikTok Pte. Ltd.",
+   "score": 4.250923
+  },
+  {
+   "rank": 20,
+   "appId": "com.newleaf.app.android.victor",
+   "title": "ReelShort - Stream Drama & TV",
+   "developer": "NewLeaf Publishing",
+   "score": 3.7661695
+  },
+  {
+   "rank": 21,
+   "appId": "com.storymatrix.drama",
+   "title": "DramaBox - Stream Drama Shorts",
+   "developer": "STORYMATRIX",
+   "score": 4.5415416
+  },
+  {
+   "rank": 22,
+   "appId": "com.squareup.cash",
+   "title": "Cash App",
+   "developer": "Block, Inc.",
+   "score": 4.707406
+  },
+  {
+   "rank": 23,
+   "appId": "com.anthropic.claude",
+   "title": "Claude by Anthropic",
+   "developer": "Anthropic PBC",
+   "score": 4.5438666
+  },
+  {
+   "rank": 24,
+   "appId": "com.netshort.abroad",
+   "title": "NetShort - Popular Dramas & TV",
+   "developer": "NETSTORY PTE. LTD.",
+   "score": 4.6077375
+  },
+  {
+   "rank": 25,
+   "appId": "com.kalshi.mobile",
+   "title": "Kalshi: Trade Sports & Events",
+   "developer": "KalshiEX LLC",
+   "score": 4.704098
+  },
+  {
+   "rank": 26,
+   "appId": "com.lemon.lvoverseas",
+   "title": "CapCut - Video Editor",
+   "developer": "Bytedance Pte. Ltd.",
+   "score": 3.546697
+  },
+  {
+   "rank": 27,
+   "appId": "com.facebook.orca",
+   "title": "Messenger",
+   "developer": "Meta Platforms, Inc.",
+   "score": 4.712697
+  },
+  {
+   "rank": 28,
+   "appId": "com.drama.free",
+   "title": "FreeDrama: Short Drama & Reels",
+   "developer": "Kuku Technologies Limited",
+   "score": 4.5696783
   },
   {
    "rank": 29,
    "appId": "com.wake.box.ryan",
    "title": "WakeBox",
    "developer": "BLYTHEWOOD NY LLC",
-   "score": 4.4693875
+   "score": 4.447458
   },
   {
    "rank": 30,
-   "appId": "com.newleaf.app.android.victor",
-   "title": "ReelShort - Stream Drama & TV",
-   "developer": "NewLeaf Publishing",
-   "score": 3.7690535
+   "appId": "com.tubitv",
+   "title": "Tubi: Free Movies & Live TV",
+   "developer": "Tubi TV",
+   "score": 4.854687
   },
   {
    "rank": 31,
    "appId": "com.snapchat.android",
    "title": "Snapchat",
    "developer": "Snap Inc",
-   "score": 4.1677747
+   "score": 4.1677127
   },
   {
    "rank": 32,
-   "appId": "com.tubitv",
-   "title": "Tubi: Free Movies & Live TV",
-   "developer": "Tubi TV",
-   "score": 4.854632
-  },
-  {
-   "rank": 33,
    "appId": "org.telegram.messenger",
    "title": "Telegram",
    "developer": "Telegram FZ-LLC",
-   "score": 3.8136196
+   "score": 3.8145394
   },
   {
-   "rank": 34,
+   "rank": 33,
    "appId": "com.enflick.android.TextNow",
    "title": "TextNow: Call + Text Unlimited",
    "developer": "TextNow, Inc.",
-   "score": 4.607804
+   "score": 4.607852
+  },
+  {
+   "rank": 34,
+   "appId": "com.peacocktv.peacockandroid",
+   "title": "Peacock TV: Stream TV & Movies",
+   "developer": "Peacock TV LLC",
+   "score": 4.596803
   },
   {
    "rank": 35,
    "appId": "com.whatnot_mobile",
    "title": "Whatnot: Shop, Sell, Connect",
    "developer": "Whatnot Inc.",
-   "score": 4.7420564
+   "score": 4.7420673
   },
   {
    "rank": 36,
-   "appId": "com.freecash.app2",
-   "title": "Freecash: Earn Money",
-   "developer": "Freecash",
-   "score": 4.5678167
+   "appId": "com.onefinance.one",
+   "title": "OnePay – Mobile Banking",
+   "developer": "ONE Finance, Inc.",
+   "score": 4.7568564
   },
   {
    "rank": 37,
-   "appId": "com.og.app.android",
-   "title": "OG.com: Rip Cards,Trade Events",
-   "developer": "OG Markets Limited",
-   "score": 4.546729
+   "appId": "com.phone.junkclear.phoerg",
+   "title": "Phone Junk Files Clear",
+   "developer": "DingBAng",
+   "score": 3.79
   },
   {
    "rank": 38,
-   "appId": "com.konylabs.capitalone",
-   "title": "Capital One Mobile",
-   "developer": "Capital One Services, LLC",
-   "score": 4.5238867
+   "appId": "com.og.app.android",
+   "title": "OG.com: Rip Cards,Trade Events",
+   "developer": "OG Markets Limited",
+   "score": 4.516129
   },
   {
    "rank": 39,
-   "appId": "com.life360.android.safetymapd",
-   "title": "Life360: Family Safety & GPS",
-   "developer": "Life360",
-   "score": 4.766414
+   "appId": "com.freecash.app2",
+   "title": "Freecash: Earn Money",
+   "developer": "Freecash",
+   "score": 4.562562
   },
   {
    "rank": 40,
-   "appId": "com.dd.doordash",
-   "title": "DoorDash: Food, Grocery, More",
-   "developer": "DoorDash",
-   "score": 4.658595
+   "appId": "com.konylabs.capitalone",
+   "title": "Capital One Mobile",
+   "developer": "Capital One Services, LLC",
+   "score": 4.523468
   },
   {
    "rank": 41,
    "appId": "com.scatterlab.messenger",
    "title": "zeta: AI Chat, Story, Play",
    "developer": "Scatter Lab, Inc.",
-   "score": 4.456328
+   "score": 4.447565
   },
   {
    "rank": 42,
-   "appId": "com.discord",
-   "title": "Discord - Talk, Play, Hang Out",
-   "developer": "Discord Inc.",
-   "score": 4.2831473
+   "appId": "com.shopify.arrive",
+   "title": "Shop: Track, Pay, Discover",
+   "developer": "Shopify Inc.",
+   "score": 4.432198
   },
   {
    "rank": 43,
-   "appId": "com.netflix.mediaclient",
-   "title": "Netflix",
-   "developer": "Netflix, Inc.",
-   "score": 4.8049064
+   "appId": "com.life360.android.safetymapd",
+   "title": "Life360: Family Safety & GPS",
+   "developer": "Life360",
+   "score": 4.7664194
   },
   {
    "rank": 44,
    "appId": "com.paypal.android.p2pmobile",
    "title": "PayPal - Pay, Send, Save",
    "developer": "PayPal Mobile",
-   "score": 4.191266
+   "score": 4.1905427
   },
   {
    "rank": 45,
-   "appId": "com.shopify.arrive",
-   "title": "Shop: Track, Pay, Discover",
-   "developer": "Shopify Inc.",
-   "score": 4.4322014
+   "appId": "com.discord",
+   "title": "Discord - Talk, Play, Hang Out",
+   "developer": "Discord Inc.",
+   "score": 4.283252
   },
   {
    "rank": 46,
-   "appId": "com.phone.junkclear.phoerg",
-   "title": "Phone Junk Files Clear",
-   "developer": "DingBAng",
-   "score": 3.94
+   "appId": "com.mcdonalds.app",
+   "title": "McDonald's",
+   "developer": "McDonalds USA, LLC",
+   "score": 3.954122
   },
   {
    "rank": 47,
    "appId": "com.pinterest",
    "title": "Pinterest",
    "developer": "Pinterest",
-   "score": 4.2301116
+   "score": 4.228812
   },
   {
    "rank": 48,
-   "appId": "com.mcdonalds.app",
-   "title": "McDonald's",
-   "developer": "McDonalds USA, LLC",
-   "score": 3.9544995
-  },
-  {
-   "rank": 49,
-   "appId": "com.spotify.music",
-   "title": "Spotify: Music and Podcasts",
-   "developer": "Spotify AB",
-   "score": 4.348578
-  },
-  {
-   "rank": 50,
    "appId": "com.amazon.mShop.android.shopping",
    "title": "Amazon Shopping",
    "developer": "Amazon Mobile LLC",
-   "score": 4.3905077
+   "score": 4.3906126
   },
   {
-   "rank": 51,
-   "appId": "com.onefinance.one",
-   "title": "OnePay – Mobile Banking",
-   "developer": "ONE Finance, Inc.",
-   "score": 4.7572975
+   "rank": 49,
+   "appId": "com.netflix.mediaclient",
+   "title": "Netflix",
+   "developer": "Netflix, Inc.",
+   "score": 4.8053074
   },
   {
-   "rank": 52,
-   "appId": "com.zzkko",
-   "title": "SHEIN-Shopping Online",
-   "developer": "Roadget Business PTE. LTD.",
-   "score": 4.7537174
-  },
-  {
-   "rank": 53,
-   "appId": "com.depop",
-   "title": "Depop - Buy & Sell Clothes",
-   "developer": "Depop",
-   "score": 4.761457
-  },
-  {
-   "rank": 54,
-   "appId": "com.disney.disneyplus",
-   "title": "Disney+",
-   "developer": "Disney",
-   "score": 4.3659205
-  },
-  {
-   "rank": 55,
-   "appId": "com.venmo",
-   "title": "Venmo",
-   "developer": "PayPal Mobile",
-   "score": 3.982764
-  },
-  {
-   "rank": 56,
+   "rank": 50,
    "appId": "com.blink.drama.player",
    "title": "BlinkDrama: Short Dramas & TV",
    "developer": "Atlas Ventures Culture & Technology Limited",
-   "score": 4.4934535
+   "score": 4.4981585
   },
   {
-   "rank": 57,
+   "rank": 51,
+   "appId": "com.spotify.music",
+   "title": "Spotify: Music and Podcasts",
+   "developer": "Spotify AB",
+   "score": 4.3485456
+  },
+  {
+   "rank": 52,
+   "appId": "com.dd.doordash",
+   "title": "DoorDash: Food, Grocery, More",
+   "developer": "DoorDash",
+   "score": 4.6585484
+  },
+  {
+   "rank": 53,
+   "appId": "com.indeed.android.jobsearch",
+   "title": "Indeed Job Search",
+   "developer": "Indeed Jobs",
+   "score": 4.6964045
+  },
+  {
+   "rank": 54,
+   "appId": "com.luvasadistro.phoneclean.storage",
+   "title": "Phone Clean Fix",
+   "developer": "Luvasa Distro",
+   "score": 4.23
+  },
+  {
+   "rank": 55,
+   "appId": "com.zzkko",
+   "title": "SHEIN-Shopping Online",
+   "developer": "Roadget Business PTE. LTD.",
+   "score": 4.7529054
+  },
+  {
+   "rank": 56,
    "appId": "com.reddit.frontpage",
    "title": "Reddit",
    "developer": "reddit Inc.",
-   "score": 4.555484
+   "score": 4.5552163
+  },
+  {
+   "rank": 57,
+   "appId": "com.depop",
+   "title": "Depop - Buy & Sell Clothes",
+   "developer": "Depop",
+   "score": 4.763209
   },
   {
    "rank": 58,
-   "appId": "com.tmobile.tuesdays",
-   "title": "T-Life",
-   "developer": "T-Mobile USA",
-   "score": 4.6056457
+   "appId": "com.storage.androidcleaner",
+   "title": "Cleanup: Phone Storage Cleaner",
+   "developer": "Codeway Technologies",
+   "score": 4.414841
   },
   {
    "rank": 59,
-   "appId": "com.google.android.apps.youtube.unplugged",
-   "title": "YouTube TV: Live TV & more",
-   "developer": "Google LLC",
-   "score": 3.7772257
+   "appId": "com.azure.authenticator",
+   "title": "Microsoft Authenticator",
+   "developer": "Microsoft Corporation",
+   "score": 4.631536
   },
   {
    "rank": 60,
-   "appId": "com.govauctions",
-   "title": "GovAuctions.com - Shop Surplus",
-   "developer": "Auctions LLC",
-   "score": 4.809873
+   "appId": "com.google.android.apps.youtube.unplugged",
+   "title": "YouTube TV: Live TV & more",
+   "developer": "Google LLC",
+   "score": 3.7779424
   }
  ]
 }
