@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-10T16:37:34Z",
+ "generated_at": "2026-11-10T16:46:36Z",
  "accounts_ok": [
   "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
   "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
@@ -23,6 +23,24 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2120190153495027741#m",
    "ts": 1794327698,
    "id": "2120190153495027741#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "ai.engineer/associates for new creator associates Link Associate Application | AI Engineer Code Summit 2026 Apply to be an Associate at AI Engineer Code Summit 2026. Help our team run the event for a few shifts and receive full access to the conference. ai.engineer",
+   "url": "https://nitter.kareem.one/swyx/status/2120187893465718878#m",
+   "ts": 1794327159,
+   "id": "2120187893465718878#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "last call for creator associates covering/livetweeting aie code! also if you’re here - the talks and workshops start in an hour! see aie.sc for the schedule (im in my domainmaxxing era) Video swyx @aiDotEngineer CODE (@swyx) ok i was signed in to wrong account to tweet this but yes - if you're looking to get a start with technical writing/speaking/tweeting/blogging, the new Creator associate program is made for you... ... just like I got started in my own technical writing journey 10 years ago. — https://nitter.kareem.one/swyx/status/2119870982609608810#m",
+   "url": "https://nitter.kareem.one/swyx/status/2120187167901372559#m",
+   "ts": 1794326986,
+   "id": "2120187167901372559#m"
   },
   {
    "handle": "TheRundownAI",
@@ -313,6 +331,15 @@
    "id": "2119895354795511965#m"
   },
   {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "I think about these two tweets all the time",
+   "url": "https://nitter.kareem.one/prd_008/status/2119894036316398055#m",
+   "ts": 1794257098,
+   "id": "2119894036316398055#m"
+  },
+  {
    "handle": "bcherny",
    "name": "Boris Cherny",
    "author": "@bcherny",
@@ -397,7 +424,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "ok i was signed in to wrong account to tweet this but yes - if you're looking to get a start with technical writing/speaking/tweeting/blogging, the new Creator associate program is made for you... ... just like I got started in my own technical writing journey 10 years ago. AI.Engineer 🔜 CODE (@aiDotEngineer) ok excited to launch a New Media program close to my heart: the AIE Creator Associate Program!!! With my podcast doing well and the AIE channel crossing 1m subs, I find myself getting asked the same questions from everyone - where do I get started? Trade Offer: - sign up to ai.engineer/associates - We receive: your tweets/blog/video/photo/podcast coverage of 2-3 sessions - Qualified applicants receive: ticket and chance of RT/inclusion in the official recap of AIE 2026 Little known fact: -I- started my own creator journey when @jessleenyc sponsored this exact program at a similar conference 10 years ago! my first blog -> more blogs -> my first talk -> more talks -> podcast -> more podcast -> AIE and Latent Space today Tomorrow's keynotes and workshops are particularly hype and need creator coverage. Join us in SF tomorrow. Apply now! — https://nitter.kareem.one/aiDotEngineer/status/2119870664975024464#m",
+   "text": "ok i was signed in to wrong account to tweet this but yes - if you're looking to get a start with technical writing/speaking/tweeting/blogging, the new Creator associate program is made for you... ... just like I got started in my own technical writing journey 10 years ago. AI.Engineer @ CODE (@aiDotEngineer) ok excited to launch a New Media program close to my heart: the AIE Creator Associate Program!!! With my podcast doing well and the AIE channel crossing 1m subs, I find myself getting asked the same questions from everyone - where do I get started? Trade Offer: - sign up to ai.engineer/associates - We receive: your tweets/blog/video/photo/podcast coverage of 2-3 sessions - Qualified applicants receive: ticket and chance of RT/inclusion in the official recap of AIE 2026 Little known fact: -I- started my own creator journey when @jessleenyc sponsored this exact program at a similar conference 10 years ago! my first blog -> more blogs -> my first talk -> more talks -> podcast -> more podcast -> AIE and Latent Space today Tomorrow's keynotes and workshops are particularly hype and need creator coverage. Join us in SF tomorrow. Apply now! — https://nitter.kareem.one/aiDotEngineer/status/2119870664975024464#m",
    "url": "https://nitter.kareem.one/swyx/status/2119870982609608810#m",
    "ts": 1794251602,
    "id": "2119870982609608810#m"
@@ -457,6 +484,15 @@
    "id": "2119844488298234326#m"
   },
   {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "I am grateful to @swyx , @SydneyScouts , @vibhusapra , and the rest of the @aiDotEngineer + @latentspacepod crew for giving me the chance to share my thoughts at the recent AIE New York conference: Link to the full presetation below: inv.kareem.one/watch?v=AYFcmnQr… Link AI Agents Will Upend Investing Even More Than Coding - Frank Long,... Frank Long of Coatue, a technology investment firm across public an... youtube.com",
+   "url": "https://nitter.kareem.one/fyxlong/status/2119841965206655021#m",
+   "ts": 1794244683,
+   "id": "2119841965206655021#m"
+  },
+  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -469,7 +505,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "excited to be speaking at @aiDotEngineer this wednesday at 10:10am PT! i will be talking about how the grok @bot team shipped 11,000 PRs last month without compromising on code quality hope to see you there: ai.engineer/code/2026/schedu… AI.Engineer 🔜 CODE (@aiDotEngineer) First AIE Code Summit speakers: @poteto , Principal Engineer @ SpaceX @steve_yegge , Engineer, Writer, Advisor @zachbruggeman , Principal Software Engineer @ Ramp Nov 10-12, SF. Come hang out with us. Apply at ai.engineer/code — https://nitter.kareem.one/aiDotEngineer/status/2112276851355693315#m",
+   "text": "excited to be speaking at @aiDotEngineer this wednesday at 10:10am PT! i will be talking about how the grok @bot team shipped 11,000 PRs last month without compromising on code quality hope to see you there: ai.engineer/code/2026/schedu… AI.Engineer @ CODE (@aiDotEngineer) First AIE Code Summit speakers: @poteto , Principal Engineer @ SpaceX @steve_yegge , Engineer, Writer, Advisor @zachbruggeman , Principal Software Engineer @ Ramp Nov 10-12, SF. Come hang out with us. Apply at ai.engineer/code — https://nitter.kareem.one/aiDotEngineer/status/2112276851355693315#m",
    "url": "https://nitter.kareem.one/poteto/status/2119841446308221152#m",
    "ts": 1794244560,
    "id": "2119841446308221152#m"
@@ -487,7 +523,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "gm Karl 👋 AI.Engineer 🔜 CODE (@aiDotEngineer) AIE CODE starts tomorrow in San Francisco. Nov 10: workshops + talks on agents and software factories. Nov 11-12: conference talks + expo. Coming for workshops? Check that your ticket includes the add-on. Plan your days: ai.engineer/code/schedule Link AI Engineer AI Engineer is the community and conference series for software engineers building with AI. Join thousands of AI engineers at our events worldwide. ai.engineer — https://nitter.kareem.one/aiDotEngineer/status/2119807225904730497#m",
+   "text": "gm Karl 👋 AI.Engineer @ CODE (@aiDotEngineer) AIE CODE starts tomorrow in San Francisco. Nov 10: workshops + talks on agents and software factories. Nov 11-12: conference talks + expo. Coming for workshops? Check that your ticket includes the add-on. Plan your days: ai.engineer/code/schedule Link AI Engineer AI Engineer is the community and conference series for software engineers building with AI. Join thousands of AI engineers at our events worldwide. ai.engineer — https://nitter.kareem.one/aiDotEngineer/status/2119807225904730497#m",
    "url": "https://nitter.kareem.one/thorwebdev/status/2119827575287754987#m",
    "ts": 1794241253,
    "id": "2119827575287754987#m"
@@ -583,15 +619,6 @@
    "id": "2119730444950479291#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "good read on why humans, like llms, get a lot more powerful when given a scratchpad. Murat Demirbas (Distributolog) (@muratdemirbas) [new blog post] Writing as a thinking tool muratbuffalo.blogspot.com/20… — https://nitter.kareem.one/muratdemirbas/status/2118982783397941544#m",
-   "url": "https://nitter.kareem.one/swyx/status/2119711420912939220#m",
-   "ts": 1794213559,
-   "id": "2119711420912939220#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -628,24 +655,6 @@
    "id": "2119629062855602556#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "are you listening anon? will brown (@willcb) 2027 is gonna be about engines — https://nitter.kareem.one/willcb/status/2119250590337470728#m",
-   "url": "https://nitter.kareem.one/swyx/status/2119611058881192187#m",
-   "ts": 1794189631,
-   "id": "2119611058881192187#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "when we can do anything, do we still know what we want? the full talk from @aiDotEngineer shanghai. every slide handmade in keynote, subs in 中文 and english Video",
-   "url": "https://nitter.kareem.one/ryolu_/status/2119586846657454152#m",
-   "ts": 1794183858,
-   "id": "2119586846657454152#m"
-  },
-  {
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
@@ -653,15 +662,6 @@
    "url": "https://nitter.kareem.one/0xMiraxq/status/2119559301060509801#m",
    "ts": 1794177291,
    "id": "2119559301060509801#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "and a special pod! Latent.Space (@latentspacepod) What do you assign when a coding agent can one-shot last year’s homework? @mihail_eric now has his Stanford CS146S students open a PR on an open-source project and explain their choices to the maintainer who decides whether to merge it. inv.kareem.one/dpY7YzZo4kE To celebrate @aiDotEngineer reaching a million YouTube subscribers, we asked Mihail to walk us through his syllabus, then show us what he actually uses as Head of AI at @MonacoGTM . His team buys code review, builds its own agent workspaces, and gives its on-call agent enough access to investigate a failure and open a PR. “You buy to learn, and you build to keep.” Link [One Million AI Engineer Special] How Stanford Teaches AI-Native... [One Million AI Engineer Special] We’re celebrating one million sub... youtube.com — https://nitter.kareem.one/latentspacepod/status/2119550367222653193#m",
-   "url": "https://nitter.kareem.one/swyx/status/2119550477629379009#m",
-   "ts": 1794175187,
-   "id": "2119550477629379009#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -1429,9 +1429,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
