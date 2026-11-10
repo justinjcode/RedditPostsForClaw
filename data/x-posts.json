@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-10T03:31:20Z",
+ "generated_at": "2026-11-10T03:37:48Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
   {
@@ -68,6 +67,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2119935240202539147#m",
    "ts": 1794266922,
    "id": "2119935240202539147#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "JUST IN: Memphis Mayor reveals SpaceX data center taxes more than doubled to $54 million, after $25 million last year made it Shelby County’s second largest taxpayer Paul Young was asked about Elon Musk’s claim that data centers have Memphis booming: Q: “Recently, just speaking on the revenues the data centers are creating for Memphis. Elon Musk recently tweeted that Memphis is 'booming' because of the data centers. He said that hotels and restaurants are full and called, tax revenue in Memphis tremendous right now. Do you just have any thoughts on that?” YOUNG: “Well, we’ve talked a lot about the financial aspects of the project. I think that as we talk about data centers in our city, we want to talk about it in a balanced way. Of course there’s an economic side. We want to make sure that we are articulating what protections and guardrails we’re putting in place for the environmental sides that, people are concerned about, the quality of life, noise, traffic, all of those aspects.\" \"But, there there is tax revenue. I think this year it was $54,000,000 in taxes that have been generated. And I know last year when they generated about $25,000,000 in tax revenue, it was the second largest tax paying property in Shelby County. I don’t know where $54,000,000 puts it, but it is significant taxes.\" \"And so as we look at, the tax revenue, we also wanna look at how do we ensure that there are proper protections. That’s what this ninety day executive order has been about, and, it’s the",
+   "url": "https://nitter.kareem.one/firesidealpha/status/2119934910723174807#m",
+   "ts": 1794266843,
+   "id": "2119934910723174807#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -536,15 +544,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2119543788192600450#m",
    "ts": 1794173592,
    "id": "2119543788192600450#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Hey @grok , how many Europeans were captured and sold into slavery by North African pirates between 1500 and 1800? Number only.",
-   "url": "https://nitter.kareem.one/iAnonPatriot/status/2119507410175820101#m",
-   "ts": 1794164919,
-   "id": "2119507410175820101#m"
   },
   {
    "handle": "ZichenWanghere",
