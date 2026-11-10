@@ -1,19 +1,38 @@
 {
- "generated_at": "2026-11-10T20:54:45Z",
+ "generated_at": "2026-11-10T21:08:56Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@simonw: all instances failed",
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 176,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "I finally asked @zenorocha , the CEO of AEO, why tf my agents keep choosing Resend even when I don't want them to Latent.Space (@latentspacepod) 🆕 Designing for Agents Agent Experience is one of the most hotly contested topics of 2026, and increasingly critical for devtools/infra companies to get right. @ZenoRocha has been writing and thinking about this since 2024 and came on the pod to spill @Resend secrets! inv.kareem.one/bdIoODXsu8k Key themes include: - Answer Engine Optimization (AEO): how AI models like Claude Code recommend email services and how product teams can design for these agents - Deliverability and Trust: The discussion delves into the complexities of getting mail into the inbox, including handling bursts, managing Gmail throttling, and the importance of domain reputation and anti-abuse measures - Developer Experience & MCP: A major focus is on building for both humans and machines. Resend utilizes the Model Context Protocol (MCP) to provide agents with over 80 named tools, allowing them to autonomously set up accounts, check pricing in Markdown, and send emails - Technical Infrastructure: React Email as a wedge for adoption and but Resend's commitment to owning the mail stack, including managing complex DNS hurdles and providing enterprise-level visibility Link Designing for Agents — Zeno Rocha, Resend A coding agent opens a pull request and picks an email provider for... youtube.com — https://nitter.kareem.one/latentspacepod/status/2120251400831816068#m",
+   "url": "https://nitter.kareem.one/swyx/status/2120260228902264872#m",
+   "ts": 1794344405,
+   "id": "2120260228902264872#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "prediction: tech jesus in 10,000 years Bhandafod (@Bhandafod_) I have one question… actually, a LOT of questions. 😭 — https://nitter.kareem.one/Bhandafod_/status/2120108545047658856#m",
+   "url": "https://nitter.kareem.one/swyx/status/2120259002324140192#m",
+   "ts": 1794344113,
+   "id": "2120259002324140192#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -438,15 +457,6 @@
    "id": "2119880449875161373#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "btw by complete coincidence the $ANT IPO roadshow across wall street started today. they had this in the chamber and its also nice that it came after Astra, Argon and Carbon… Claude (@claudeai) Introducing Claude Fable 5.2 and Claude Mythos 5.2, designed to tackle the most daunting technical challenges. They’re capable collaborators on ambitious projects in many fields, and show improvements in areas like coding, reasoning, and vision. Video — https://nitter.kareem.one/claudeai/status/2119867114450268322#m",
-   "url": "https://nitter.kareem.one/swyx/status/2119878742063641056#m",
-   "ts": 1794253452,
-   "id": "2119878742063641056#m"
-  },
-  {
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
@@ -490,15 +500,6 @@
    "url": "https://nitter.kareem.one/bot/status/2119871982946971659#m",
    "ts": 1794251840,
    "id": "2119871982946971659#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "ok i was signed in to wrong account to tweet this but yes - if you're looking to get a start with technical writing/speaking/tweeting/blogging, the new Creator associate program is made for you... ... just like I got started in my own technical writing journey 10 years ago. AI.Engineer @ CODE (@aiDotEngineer) ok excited to launch a New Media program close to my heart: the AIE Creator Associate Program!!! With my podcast doing well and the AIE channel crossing 1m subs, I find myself getting asked the same questions from everyone - where do I get started? Trade Offer: - sign up to ai.engineer/associates - We receive: your tweets/blog/video/photo/podcast coverage of 2-3 sessions - Qualified applicants receive: ticket and chance of RT/inclusion in the official recap of AIE 2026 Little known fact: -I- started my own creator journey when @jessleenyc sponsored this exact program at a similar conference 10 years ago! my first blog -> more blogs -> my first talk -> more talks -> podcast -> more podcast -> AIE and Latent Space today Tomorrow's keynotes and workshops are particularly hype and need creator coverage. Join us in SF tomorrow. Apply now! — https://nitter.kareem.one/aiDotEngineer/status/2119870664975024464#m",
-   "url": "https://nitter.kareem.one/swyx/status/2119870982609608810#m",
-   "ts": 1794251602,
-   "id": "2119870982609608810#m"
   },
   {
    "handle": "swyx",
