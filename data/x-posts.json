@@ -1,9 +1,6 @@
 {
- "generated_at": "2026-11-10T03:10:14Z",
+ "generated_at": "2026-11-10T03:23:45Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +8,40 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "signups ai.engineer/code/2026/associ… for new media creators Link Associate Application | AI Engineer Code Summit 2026 Apply to be an Associate at AI Engineer Code Summit 2026. Help our team run the event for a few shifts and receive full access to the conference. ai.engineer",
+   "url": "https://nitter.kareem.one/swyx/status/2119990961459921395#m",
+   "ts": 1794280207,
+   "id": "2119990961459921395#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok Sawyer Merritt (@SawyerMerritt) SpaceX VP of Launch @TurkeyBeaver says Grok is now helping them identify foreign object debris in aerospace parts, and that Grok (99.9%) is better at it than humans (94%). \"We’ve automated being able to detect FOD. We’ll have an inspector go in and borescope a tube, and we find that humans are about 94% perfect (at) finding a piece of it. Grok analyzing the same video is 99.9% perfect.\" Full article: arstechnica.com/space/2026/1… — https://nitter.kareem.one/SawyerMerritt/status/2119857279361073655#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2119989523748905221#m",
+   "ts": 1794279864,
+   "id": "2119989523748905221#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The most entertaining outcome is the most likely, especially if ironic jimmah (@jamesdouma) One irony maximizing outcome that I’m not looking forward to is Anthropic proving to the world that their fears are justified by building the super-intelligence that they fear. — https://nitter.kareem.one/jamesdouma/status/2119985655157755945#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2119989362725396589#m",
+   "ts": 1794279826,
+   "id": "2119989362725396589#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -49,6 +77,15 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2119928187270332723#m",
    "ts": 1794265240,
    "id": "2119928187270332723#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Most people assume SpaceX began because Elon Musk wanted to build rockets, but the original idea was smaller. Around 2001 he looked for the date of NASA's Mars mission, discovered there were no plans to send people at all, and came up with Mars Oasis, a little greenhouse with seeds in dehydrated gel that would land on Mars and send back an image of green plants against red soil, just to get people excited about space again and help NASA get a bigger budget. Then he realized the real obstacle was the cost of rockets: \"I was wrong… there actually was plenty of will if people thought there was a way. So then I decided, okay, well, I need to work on the way.\" SpaceX was born to serve the dream of exploration, not to compete with it 🩵 Video",
+   "url": "https://nitter.kareem.one/EvaFox/status/2119916944245629157#m",
+   "ts": 1794262560,
+   "id": "2119916944245629157#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -159,6 +196,15 @@
    "id": "2119873095129550880#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "We've reset weekly limits for all Grok Bot users. Enjoy!",
+   "url": "https://nitter.kareem.one/bot/status/2119871982946971659#m",
+   "ts": 1794251840,
+   "id": "2119871982946971659#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -193,6 +239,33 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2119861584743018538#m",
    "ts": 1794249361,
    "id": "2119861584743018538#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "UK judge gives Russel Brand 10 years 6 months for “rape”. No forensic evidence. No DNA. No CCTV. Same country and system: Gave Hadush Gerberslasie Kebatu 12 months in prison for offences including sexual assault of a 14-year-old girl, sexual assault of an adult woman, attempted sexual assault, inciting a child to engage in sexual activity and harassment.",
+   "url": "https://nitter.kareem.one/TheJadeWarwick/status/2119850292166476238#m",
+   "ts": 1794246669,
+   "id": "2119850292166476238#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Jay Leno just tried @Tesla 's FSD (Supervised) for the first time. The Model Y L pulled over by itself when an ambulance with its sirens on drove by. \"We got it on self-driving mode! I'm not touching anything.\" Jay finally tried FSD! haha (via new episode of Jay Leno's Garage) Video",
+   "url": "https://nitter.kareem.one/SawyerMerritt/status/2119849526760747146#m",
+   "ts": 1794246486,
+   "id": "2119849526760747146#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The UK “justice system” is an utter joke. Beyond parody. Total dishonor. Jonatan Pallesen (@jonatanpallesen) Fuck this. Russell Brand gets 10 years based solely on the word of his accusers. Meanwhile there are countless Muslim grooming gang child rapists who got off free despite far stronger evidence. For example Ahmed who got off free for child rape because the witnesses were deemed not credible, even though his DNA was found on her underwear. Or offender J, a Muslim child rapist who participated in a 24-hour long gang-rape of a 12-year-old girl they had abducted in Oldham. He was named as a participant by one of his co-rapists, as well as by his wife, but never received a sentence due to lack of forensic evidence. — https://nitter.kareem.one/jonatanpallesen/status/2119816545534665040#m",
+   "url": "https://nitter.kareem.one/JTLonsdale/status/2119844488298234326#m",
+   "ts": 1794245285,
+   "id": "2119844488298234326#m"
   },
   {
    "handle": "TheRundownAI",
@@ -303,15 +376,6 @@
    "id": "2119815091092861330#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Project Crystal Sun Sawyer Merritt (@SawyerMerritt) Tesla has officially started construction of its massive new $10 billion solar manufacturing facility near Houston, Texas! Construction is expected to finish in 2028, with commercial operations starting in Q1 2029. Total direct and indirect economic impact of the project is estimated to generate ~$6.4B in state and local taxes, and increase State of Texas GDP by ~$107 billion. The factory will be a vertically integrated solar manufacturing facility, and it'll include: • Wafer Manufacturing • Ingot Manufacturing • Coating • Metallization and Printing Lines • Cell Testing and QC • Automation and Material Handling • Cleanroom and Production Support • Site Infrastructure • Chemical Storage and Delivery • Utility Infrastructure • Environmental and Safety Systems — https://nitter.kareem.one/SawyerMerritt/status/2119805979583828413#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2119812607117062451#m",
-   "ts": 1794237684,
-   "id": "2119812607117062451#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -324,19 +388,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "California national election margin before 𝙫𝙨 after amnesty and mass immigration: 🔴 1968: R +3.1 🔴 1972: R +13.5 🔴 1976: R +1.8 🔴 1980: R +16.2 🔴 1984: R +16.2 🔴 1988: R +3.6 🔵 1992: D +13.4 🔵 1996: D +12.9 🔵 2000: D +11.8 🔵 2004: D +10.0 🔵 2008: D +24.1 🔵 2012: D +23.1 🔵 2016: D +30.1 🔵 2020: D +29.2 🔵 2024: D +20.1 You can literally spot the tipping point",
-   "url": "https://nitter.kareem.one/EndWokeness/status/2119807076310331745#m",
-   "ts": 1794236365,
-   "id": "2119807076310331745#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Starlink helped save a family trapped by snowstorm in a remote area of Argentina. A metre of snow surrounded Rafael Da Silva’s home near Bariloche. The power was out, food and firewood had run out, and his two young daughters were sleeping in sleeping bags to stay warm. Rafael set up a Starlink dish on his vehicle and called for help. That call got rescuers moving. They pushed through the deep snow and brought the family to safety a few hours later. For people stranded far from help, Starlink can be lifesaving technology.",
-   "url": "https://nitter.kareem.one/cb_doge/status/2119802385593970856#m",
-   "ts": 1794235247,
-   "id": "2119802385593970856#m"
+   "text": "The Germans are learning what mass immigration really means. \"Wir schaffen das\"",
+   "url": "https://nitter.kareem.one/ricwe123/status/2119807494776078407#m",
+   "ts": 1794236465,
+   "id": "2119807494776078407#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -384,24 +439,6 @@
    "id": "2119754460012384458#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Bigger Austin service area now live",
-   "url": "https://nitter.kareem.one/robotaxi/status/2119746828191027346#m",
-   "ts": 1794222001,
-   "id": "2119746828191027346#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "‼️Someone Who Was ACTUALLY In The Room At Dave Chappelle’s Show Has Now Released The FULL Context Of What Was Said About Charlie Kirk. 😱 In the footage and breakdown, Chappelle states that ever since Charlie was murdered he has felt better, adds that he knows Charlie is looking up at the audience from hell, and then goes into a rant calling Charlie racist based on a heavily clipped comment about black pilots as well as calls @RealCandaceO a \"Scooby Doo Ass Bitch\" who will not let the case go. This was not presented as a setup or a punchline. It was stated plainly, with no bit attached, in front of a crowd that had already had their phones locked in pouches. The person who recorded it notes how awkward the room became and confirms that many people walked out mid-set. Dave Chappelle even got angry and made the comment that \"This Crowd Sucks\" The breakdown includes Charlie’s original full comments on the pilot remark so viewers can hear the actual argument instead of the shortened version that has circulated. Be sure to watch the OP's FULL video linked down below for their perspective. 👇 From: @amirxodom FOLLOW Him Video Project Constitution (@ProjectConstitu) ‼️Dave Chappelle Must Be Canceled After Saying He Feels Better Since Charlie Kirk Was Murdered😡 Dave Chappelle stood on stage at Madison Square Garden and told the audience“Ever since that guy Charlie Kirk got murdered, and I shouldn’t say this publicly but…. I feel better.” - Dave Chappelle Those words are not edgy. They ",
-   "url": "https://nitter.kareem.one/ProjectConstitu/status/2119746002013786115#m",
-   "ts": 1794221804,
-   "id": "2119746002013786115#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -409,15 +446,6 @@
    "url": "https://nitter.kareem.one/CCG_org/status/2119730444950479291#m",
    "ts": 1794218095,
    "id": "2119730444950479291#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "id for creatine but not voting LMFAOOOO",
-   "url": "https://nitter.kareem.one/cawners/status/2119719950726406552#m",
-   "ts": 1794215593,
-   "id": "2119719950726406552#m"
   },
   {
    "handle": "swyx",
@@ -510,15 +538,6 @@
    "id": "2119543788192600450#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Let's gooo!!! Big congrats on 1 million! 🎉 My favorite is any debate with @ianlivingstone and @dexhorthy inv.kareem.one/c35YoMdnI78?si=BwFy… Link The Great Loops Debate — Dex Horthy, Geoff Huntley, Ian Livingstone,... Oxford Style Debate: There is, or is not, a delta between the hype ... youtube.com",
-   "url": "https://nitter.kareem.one/vtahowe/status/2119539336823849186#m",
-   "ts": 1794172531,
-   "id": "2119539336823849186#m"
-  },
-  {
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
@@ -526,24 +545,6 @@
    "url": "https://nitter.kareem.one/iAnonPatriot/status/2119507410175820101#m",
    "ts": 1794164919,
    "id": "2119507410175820101#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Musk to Texas Democrats: Our Success Came From Freedom, Not Your Favors Elon Musk just slapped down a Wall Street Journal story claiming Texas Democrats plan to yank the \"white-glove treatment\" for SpaceX and Tesla now that they've flipped the state. He made it plain: the companies thrived here because the government stayed out of the way. \"SpaceX and Tesla have prospered in Texas, because we were not constantly operating under an oppressive and extractive state government,\" Musk wrote. He explained the practical reasons too. Factories need hands-on leadership. \"And I need to be close to the factories, so that I can walk the floor in person. That’s why the first major SpaceX factory was in LA and first major Tesla factory was in SF Bay Area.\" Then California turned hostile. \"As California became increasingly difficult, due to extreme taxes and overregulation, we moved our major domestic expansions and HQ to Texas.\" This is the same pattern that hollowed out California's tech and manufacturing base. High taxes, endless rules, and politicians treating productive companies like piñatas drove the growth elsewhere. Texas offered the opposite: lower burdens, faster permitting, and room to build. Jobs followed. Investment followed. Rockets and cars got built instead of lawsuits. Now the new Democratic leadership is signaling they want to change the deal. They talk about ending special treatment, scrutinizing land deals, slowing data centers, and reviewing incentives. Translation: th",
-   "url": "https://nitter.kareem.one/NathanielSami/status/2119469753882566825#m",
-   "ts": 1794155941,
-   "id": "2119469753882566825#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Starlink helped save five people stranded in Kazakhstan’s snowy mountains. ♥️ Their SUV broke down about 15 km from the village of Kystau Kurchum. There was no mobile network they could use. Starlink got their call for help through and kept them in touch with rescuers, who used the connection to find them. Crews drove about 100 km in an all-terrain vehicle and brought all five safely back to the village. For people stranded far from help, Starlink can be lifesaving technology. Video",
-   "url": "https://nitter.kareem.one/cb_doge/status/2119430733525815742#m",
-   "ts": 1794146638,
-   "id": "2119430733525815742#m"
   },
   {
    "handle": "ZichenWanghere",
