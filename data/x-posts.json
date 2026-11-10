@@ -1,20 +1,47 @@
 {
- "generated_at": "2026-11-10T10:38:53Z",
+ "generated_at": "2026-11-10T10:46:11Z",
  "accounts_ok": [
+  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
   "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Turns out that the Starlink software, built for managing the movement of vast amounts of data through space and to the ground, is also very well suited to training super intelligence",
+   "url": "https://nitter.kareem.one/elonmusk/status/2120102767624880364#m",
+   "ts": 1794306864,
+   "id": "2120102767624880364#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Elon Musk just revealed something huge about Grok's new SI training and inference infrastructure The engineering behind Starlink is now helping power the development of Grok SpaceXSI has completely rewritten Grok's reinforcement learning and inference software from scratch, replacing JAX and SGLang with its own system built primarily in C, with a little C++ And the most important part is where this engineering expertise comes from The new stack is built on the incredible work of the engineers who created Starlink's incredibly complex satellite network Elon explained: \"At SpaceX, we write our own headers and calculate our own time (includes leap seconds). Not many people will know what this means, but those that do will appreciate it.\" Here's why that's significant SpaceX engineers build and control critical parts of their software themselves, even down to the code interfaces and precise time calculations needed for satellite operations This gives them much tighter control over how their systems operate, reducing unnecessary software dependencies and allowing them to optimize performance and reliability Now that same engineering philosophy is being applied to Grok Elon Musk (@elonmusk) At SpaceX, we write our own headers and calculate our own time (includes leap seconds). Not many people will know what this means, but those that do will appreciate it. The new Grok AI/SI training and inference stack is derived from incredible of work done by amazing engineers to create Starlink",
+   "url": "https://nitter.kareem.one/XFreeze/status/2120101086988222653#m",
+   "ts": 1794306463,
+   "id": "2120101086988222653#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Elon Musk just revealed a massive update on Grok 4.8, and SpaceXSI has completely rebuilt its reinforcement learning and inference infrastructure from scratch The engineering team has abandoned JAX and SGLang, rewriting the entire RL and inference stack in C/C++ Here’s where Grok 4.8 stands: • Pre-training is complete • Major cleanup of supervised fine-tuning data • Reinforcement learning now underway • Evaluation scores are starting to climb • Soft rollout to Grok Bot users planned for later this week And Elon also gave another imp update about Grok 4.8: “Grok 4.8 will bear no resemblance to 4.7 (thankfully)” He also explained why the development took longer than expected: “It is not yet incredible, but, this time, the foundations are built right, so I expect it to evolve to be something special” This is a fundamental engineering overhaul, not just another model upgrade SpaceXSI has rewritten the underlying infrastructure to build a much stronger foundation for Grok’s future development. And the first Grok Bot users are expected to get their hands on it this week Elon Musk (@elonmusk) We have dumped JAX/SGLang and rewritten the entire RL and inference stack from scratch in C/C++, which took some extra time. Training (aka pre-training) is done. Lot of cleanup was needed on the SFT data to get that mostly right. Now, 4.8 is in RL and the evals are starting to climb. We will do a soft rollout to Bot users later this week and see how it goes. Grok 4.8 will bear no resemblance to",
+   "url": "https://nitter.kareem.one/XFreeze/status/2120094479797686513#m",
+   "ts": 1794304888,
+   "id": "2120094479797686513#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -385,15 +412,6 @@
    "id": "2119824420059697455#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon has nearly 160,000 direct employees throughout his companies and supports almost 870,000 jobs. Over five years, based on conservative estimates, @elonmusk ’s companies have injected $338 billion into the US economy. @Tesla makes the first and second most American made cars. @SpaceX made the first fully reusable rocket and the world’s largest satellite internet constellation. As Axios says: his “companies are central to America's technological and military power.” In the end, the only people the Democrats will hurt are the American people. Axios (@axios) Elon Musk's empire braces for Democratic crackdown axios.com/2026/11/09/elon-mu… Link Elon Musk's empire braces for Democratic crackdown The world's richest man faces challenges spanning from the halls of Congress to Wall Street and Texas. axios.com — https://nitter.kareem.one/axios/status/2119739781315756513#m",
-   "url": "https://nitter.kareem.one/KatieMiller/status/2119823094663835711#m",
-   "ts": 1794240184,
-   "id": "2119823094663835711#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -437,24 +455,6 @@
    "url": "https://nitter.kareem.one/ChorzempaMartin/status/2119797177757360553#m",
    "ts": 1794234005,
    "id": "2119797177757360553#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I responded to hundreds of you and will continue to monitor comments I’ll be using @bot to get aggregate feedback to the team of course, aggregate feedback is no substitute for talking to users. I will continue to talk with you all. Every response comes from me! matt palmer (@mattyp) Improvements to token efficiency & behavior in Grok Bot are underway Many of you have built important workflows on @bot - we want to keep supporting you Please reply with feedback on this post. I will read it all Thank you sincerely for your support — https://nitter.kareem.one/mattyp/status/2119474599708827957#m",
-   "url": "https://nitter.kareem.one/mattyp/status/2119789494723649662#m",
-   "ts": 1794232173,
-   "id": "2119789494723649662#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Ron Baron describes Elon Musk as \"the biggest job creator in the\" US and a \"once in a lifetime person.\" Baron points out that Musk has the ability to build businesses at a scale and cost that almost nobody else can match. He also notes the scale of Musk's businesses and projects like Terafab as examples of how he is pushing American industry forward. Video",
-   "url": "https://nitter.kareem.one/ResisttheMS/status/2119777525757022584#m",
-   "ts": 1794229320,
-   "id": "2119777525757022584#m"
   },
   {
    "handle": "TheRundownAI",
