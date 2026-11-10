@@ -1,18 +1,17 @@
 {
- "generated_at": "2026-11-10T22:18:30Z",
+ "generated_at": "2026-11-10T22:25:48Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed",
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
   {
@@ -32,6 +31,15 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2120266880963473789#m",
    "ts": 1794345991,
    "id": "2120266880963473789#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "🚨 BREAKING: The FCC accepts SpaceX's application to acquire nationwide 800 MHz spectrum Verizon, AT&T and T-Mobile all told SpaceX \"NO\" when it asked to use their networks. SpaceX is building its own: This deal with Grain Management secures 546 paired licenses covering ~100% of the U.S. population, on 800 MHz low band that penetrates straight through walls and already works with almost every smartphone. Once it closes, SpaceX will hold up to 89 MHz of spectrum in every market it touches. Elon Musk: \"This is the last critical piece of the spectrum puzzle needed for SpaceX to provide complete phone coverage in America.\" ITS HAPPENING",
+   "url": "https://nitter.kareem.one/ns123abc/status/2120264216896753767#m",
+   "ts": 1794345356,
+   "id": "2120264216896753767#m"
   },
   {
    "handle": "swyx",
@@ -500,15 +508,6 @@
    "url": "https://nitter.kareem.one/GarrettLord/status/2119880449875161373#m",
    "ts": 1794253859,
    "id": "2119880449875161373#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "BREAKING: Starlink brings high-speed internet to 196 locations in Vietnam where mobile coverage is weak or unavailable 🇻🇳 Vietnam’s Ministry of Science and Technology says 154 villages and 42 public facilities were connected by Nov. 1. The rollout is part of a pledge to provide 1,000 kits to schools, hospitals and rural communities. At Nặm Tốc preschool, there’s no mobile signal and the nearest cell tower is 9 km away. With Starlink, teachers can now bring online learning materials into the classroom for their 10 students and reach parents in an emergency. Video",
-   "url": "https://nitter.kareem.one/cb_doge/status/2119876821542150551#m",
-   "ts": 1794252994,
-   "id": "2119876821542150551#m"
   },
   {
    "handle": "swyx",
@@ -1456,9 +1455,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
