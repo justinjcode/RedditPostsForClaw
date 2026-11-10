@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-10T09:47:54Z",
+ "generated_at": "2026-11-10T10:11:34Z",
  "accounts_ok": [
-  "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -77,6 +77,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2119989362725396589#m",
    "ts": 1794279826,
    "id": "2119989362725396589#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Taking the Shinkansen and all I can think about is how do we not have this between SF and LA... if only you knew how great things could be if we voted out the Decels",
+   "url": "https://nitter.kareem.one/beffjezos/status/2119970837302292728#m",
+   "ts": 1794275409,
+   "id": "2119970837302292728#m"
   },
   {
    "handle": "elonmusk",
@@ -383,15 +392,6 @@
    "url": "https://nitter.kareem.one/KatieMiller/status/2119823094663835711#m",
    "ts": 1794240184,
    "id": "2119823094663835711#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "No DNA. No CCTV. No forensic evidence. Just witness testimony. 10 years and 6 months. This is not justice. This is a corrupt 2 tier system making an example of a man who spoke out against them. The same system that protected the perpetrators of the grooming gangs, ignored the victims and arrest innocent citizens for posting their opinions online. Video",
-   "url": "https://nitter.kareem.one/TheJadeWarwick/status/2119822336337592584#m",
-   "ts": 1794240004,
-   "id": "2119822336337592584#m"
   },
   {
    "handle": "TheRundownAI",
