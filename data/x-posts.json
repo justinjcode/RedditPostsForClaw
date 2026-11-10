@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-10T18:38:14Z",
+ "generated_at": "2026-11-10T18:46:08Z",
  "accounts_ok": [
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,10 +10,20 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "NEW: Anthropic is rolling out a wave of work tools inside Claude, including Whiteboards, Sheets, Meetings, and more. - Meetings (Team and Enterprise): Claude joins Google Meet calls and starts the follow-up work mid-call - Sheets: describe a budget or tracker and Claude builds the spreadsheet + built-in formulas - Whiteboards: Claude sorts a team brainstorm into a shared board with deadlines, then converts it to slides or a written doc - Data (now out of beta): company numbers turned into dashboards, written reports and narrated videos - Connectors: work in Adobe, Atlassian and Box apps without switching tabs Video",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2120224576663896305#m",
+   "ts": 1794335905,
+   "id": "2120224576663896305#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -970,15 +979,6 @@
    "id": "2118304994872955101#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in AI today: -SpaceXSI’s Grok Bot starts making phone calls -Nate’s Notebook: Make AI sketch before it builds - Which free AI tool should you actually use? - Midterm voters turn on data centers, AI",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2118304989961453754#m",
-   "ts": 1793878240,
-   "id": "2118304989961453754#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -1429,9 +1429,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
