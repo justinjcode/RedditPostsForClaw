@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-10T15:26:43Z",
+ "generated_at": "2026-11-10T15:37:48Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "bcherny",
   "elonmusk",
@@ -10,11 +11,28 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: tech.therundown.ai/p/huang-s… Link Huang's bad week just got a lot worse PLUS: Park your car with your Uber app tech.therundown.ai",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2120177863181717802#m",
+   "ts": 1794324768,
+   "id": "2120177863181717802#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in tech today: - Huang spy scandal gets a $7.5B problem - Uber starts selling parking spots - The FAA finally ejects the floppy disk - SpaceX alums build $749 seawater-to-drinking-water kit",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2120177857942978655#m",
+   "ts": 1794324766,
+   "id": "2120177857942978655#m"
+  },
   {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
@@ -1033,15 +1051,6 @@
    "id": "2118057565607367147#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "RESULTS: Data center opponents have won 38 of the 39 local ballot measures fully counted from Tuesday, in unofficial results. The one exception: Harwood, North Dakota. They’re also ahead in all 6 with partial counts, with one Maine town still yet to report.",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2118011880392548674#m",
-   "ts": 1793808357,
-   "id": "2118011880392548674#m"
-  },
-  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -1049,15 +1058,6 @@
    "url": "https://nitter.kareem.one/AaronBack/status/2117975680038408418#m",
    "ts": 1793799726,
    "id": "2117975680038408418#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: therundownai.beehiiv.com/p/a… Link Apple cracks the door open to Siri AI Apple opens Siri AI to all developers after years of Apple Intelligence delays. Could third-party apps finally make the iPhone feel built for the AI era? therundownai.beehiiv.com",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2117942512249720983#m",
-   "ts": 1793791819,
-   "id": "2117942512249720983#m"
   },
   {
    "handle": "Lingling_Wei",
