@@ -1,9 +1,7 @@
 {
- "generated_at": "2026-11-10T20:26:03Z",
+ "generated_at": "2026-11-10T20:37:37Z",
  "accounts_ok": [
   "TheRundownAI",
-  "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -11,7 +9,9 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed"
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 176,
  "items": [
@@ -23,6 +23,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2120241063193706960#m",
    "ts": 1794339836,
    "id": "2120241063193706960#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "SpaceX is making moves to become the first AI carrier $SPCX • Current cell towers are still mostly “dumb” radios. The Qualcomm deal is about making them AI-native. • Edge inference at the tower, like an updated Akamai for AI • Starlink Direct-to-Cell and V3 satellites alongside the terrestrial build Qualcomm’s CEO said the SpaceX agreement is finalized — not an engagement. SpaceX will build the base stations. Qualcomm supplies the silicon and the RAN accelerator for a terrestrial network he called one of the largest 5G deployments in the United States, with an AI-native architecture. Video",
+   "url": "https://nitter.kareem.one/nextbigfuture/status/2120233719491612940#m",
+   "ts": 1794338085,
+   "id": "2120233719491612940#m"
   },
   {
    "handle": "TheRundownAI",
@@ -401,15 +410,6 @@
    "url": "https://nitter.kareem.one/bcherny/status/2119890820186976763#m",
    "ts": 1794256331,
    "id": "2119890820186976763#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Tesla VP of Vehicle Engineering Lars Moravy just put Tesla's extraordinary manufacturing scale into perspective during his conversation with Jay Leno “You know, a lot of people don't realize that Tesla is the largest selling luxury vehicle in the world now” And the numbers behind Tesla's growth are absolutely staggering Tesla has now manufactured over 10 MILLION electric vehicles worldwide Just look at the progress: • March 2020: 1 million vehicles • July 2026: 10 million vehicles Tesla went from its first million vehicles to 10 million in just six years That's a tenfold increase in cumulative production When Tesla crossed the milestone, the company celebrated: “Produced our 10 millionth Tesla globally at Fremont Factory this week!” From proving electric vehicles could compete with combustion-engine cars to manufacturing millions of them across factories in the United States, China, and Germany Video X Freeze (@XFreeze) Jay Leno just experienced Tesla FSD (Supervised) in the new Model Y L, with Tesla's Lars Moravy and Franz von Holzhausen riding along And one moment during the drive was absolutely incredible “We got it on self-driving mode! I'm not touching anything” Then an ambulance approached with its sirens on Without Jay touching the steering wheel, the Model Y L recognized the emergency vehicle and automatically pulled over to let it pass The entire maneuver happened on its own This is what makes Tesla FSD so extraordinary It's not just following lanes or navigating roa",
-   "url": "https://nitter.kareem.one/XFreeze/status/2119885768097513664#m",
-   "ts": 1794255127,
-   "id": "2119885768097513664#m"
   },
   {
    "handle": "swyx",
