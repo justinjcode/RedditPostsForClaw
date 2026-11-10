@@ -1,20 +1,62 @@
 {
- "generated_at": "2026-11-10T10:10:14Z",
+ "generated_at": "2026-11-10T12:12:21Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
   "MachineLearning",
-  "programming"
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "xiangjuntang/JoVox-64 · Hugging Face - Image-to-3D",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xskr0m/xiangjuntangjovox64_hugging_face_imageto3d/",
+   "ts": 1794310911,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Decision model to edit LLM weight directly - No training",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xski9d/decision_model_to_edit_llm_weight_directly_no/",
+   "ts": 1794310064,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "KVARK Sparkle 1.1 (27B): better document Q&A, and it knows when the answer isn't there (Apache 2.0)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xskb49/kvark_sparkle_11_27b_better_document_qa_and_it/",
+   "ts": 1794309354,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Fable 5.2 not only has guardrails against AI acceleration, its capabilities were capped in training too",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsjfwo/fable_52_not_only_has_guardrails_against_ai/",
+   "ts": 1794306232,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Establishing \"normal\" limits for alerting",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xsj9nc/establishing_normal_limits_for_alerting/",
+   "ts": 1794305601,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "A faster way to calculate the date of Easter",
    "url": "https://www.reddit.com/r/programming/comments/1xsiojn/a_faster_way_to_calculate_the_date_of_easter/",
    "ts": 1794303402,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "n8n queueing every afternoon since I added AI steps. More cores, faster cores, or queue mode?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xsihpc/n8n_queueing_every_afternoon_since_i_added_ai/",
+   "ts": 1794302656,
    "source": "Reddit"
   },
   {
@@ -32,6 +74,20 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "selfhosted",
+   "title": "Whats the best iphone app for ssh server monitoring",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xsgdz7/whats_the_best_iphone_app_for_ssh_server/",
+   "ts": 1794294433,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Looking for a reliable self-hosted chat server for a student management app",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xsgc16/looking_for_a_reliable_selfhosted_chat_server_for/",
+   "ts": 1794294233,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "programming",
    "title": "Haiku 5.5 sped up Duktape 2.0 more than the maintainers' 2.2.0 release did",
    "url": "https://www.reddit.com/r/programming/comments/1xsg8z5/haiku_55_sped_up_duktape_20_more_than_the/",
@@ -46,10 +102,17 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Prediction: more enthusiasts will get custom quantisations build by opus and Asta for their hardware and precision needs",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsg2cu/prediction_more_enthusiasts_will_get_custom/",
-   "ts": 1794293243,
+   "subreddit": "selfhosted",
+   "title": "Anchor Notes: a self-hosted Google Keep alternative, now with a full redesign, highlights and a slash menu",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xsf0kh/anchor_notes_a_selfhosted_google_keep_alternative/",
+   "ts": 1794289512,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Soft-Serve (Git Server) is dead, recommended alternatives?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xsev6o/softserve_git_server_is_dead_recommended/",
+   "ts": 1794288997,
    "source": "Reddit"
   },
   {
@@ -57,13 +120,6 @@
    "title": "Decoding REXPaint Files in Odin",
    "url": "https://www.reddit.com/r/programming/comments/1xse6zb/decoding_rexpaint_files_in_odin/",
    "ts": 1794286779,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "These names are wild, but I love them/New Model: DavidAU Qwen3.8-40B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsde08/these_names_are_wild_but_i_love_themnew_model/",
-   "ts": 1794284177,
    "source": "Reddit"
   },
   {
@@ -96,13 +152,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "I made a 400M model for NPC judgement calls in games (Apache-2.0, ~0.1s on a 3060 Ti)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs9nux/i_made_a_400m_model_for_npc_judgement_calls_in/",
-   "ts": 1794273118,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "How to mess around with neurons... a short guide",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs81f3/how_to_mess_around_with_neurons_a_short_guide/",
    "ts": 1794268777,
@@ -130,13 +179,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "For folks who moved a homelab from ESXi to Proxmox, what do you miss?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xs6yt2/for_folks_who_moved_a_homelab_from_esxi_to/",
-   "ts": 1794265962,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Is ArtificialAnalysis biased against open weight models?",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs5pkl/is_artificialanalysis_biased_against_open_weight/",
@@ -144,24 +186,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Alarm.com doorbell cam flash",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xs547u/alarmcom_doorbell_cam_flash/",
-   "ts": 1794261552,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Forecasting new power outages per county, hourly, 2 h ahead: 2.4× the PR-AUC of NWS warnings + SPC outlook on a held-out year [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xs4hq8/forecasting_new_power_outages_per_county_hourly_2/",
    "ts": 1794260078,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Omni Voice is the fastest and best voice clone TTS out there. I've tested them all.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs46nh/omni_voice_is_the_fastest_and_best_voice_clone/",
-   "ts": 1794259348,
    "source": "Reddit"
   },
   {
@@ -183,13 +211,6 @@
    "title": "IMPS: Self-hosted photo inventory for storage boxes, with printable QR labels",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xs1w9j/imps_selfhosted_photo_inventory_for_storage_boxes/",
    "ts": 1794254137,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Best Backup Strategy for My Home Server?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xs1ry3/best_backup_strategy_for_my_home_server/",
-   "ts": 1794253860,
    "source": "Reddit"
   },
   {
@@ -284,13 +305,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Best price/performance hosting setup for a TypeScript/Node.js SaaS? Dev vs Production, VPS vs PaaS",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xrtp6v/best_priceperformance_hosting_setup_for_a/",
-   "ts": 1794236034,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "C# 15: Union Types, Closed Hierarchies, and the One Value™ That Isn't Any of Them · cekrem.github.io",
    "url": "https://www.reddit.com/r/programming/comments/1xrrmk7/c_15_union_types_closed_hierarchies_and_the_one/",
@@ -326,24 +340,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Anyone using AWS Glacier (or similar) instead of traditional offline backup?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xrh89a/anyone_using_aws_glacier_or_similar_instead_of/",
-   "ts": 1794194971,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "C64 Demo Effect Explained: The Bumpmapped Rain in Lunatico",
    "url": "https://www.reddit.com/r/programming/comments/1xrbciy/c64_demo_effect_explained_the_bumpmapped_rain_in/",
    "ts": 1794177785,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "AudioSilo - Self hosted audiobooks",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xr8g7s/audiosilo_self_hosted_audiobooks/",
-   "ts": 1794170204,
    "source": "Reddit"
   },
   {
