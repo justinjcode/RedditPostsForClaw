@@ -1,20 +1,28 @@
 {
- "generated_at": "2026-11-10T23:38:28Z",
+ "generated_at": "2026-11-10T23:45:39Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Huge AI announcements from OpenAI, Anthropic, Meta, and Google in the past 48 hours. Here's everything going on in AI right now: 1. The authors of AI 2027 just moved their timelines up. They now expect AI on par with the best human AI researchers to arrive in 2027, after METR estimated Anthropic is improving about 2x as fast thanks to AI. Daniel Kokotajlo gives it a 50-50 chance by May 2027 and says he's \"scared, sad, and angry.\" 2. Anthropic opened the investor pitch for its IPO, with shares likely trading as soon as Thursday next week. An updated filing also says it has now crossed its own safety line for AI-driven progress. 3. OpenAI launched Businesses in ChatGPT, a beta hub where brands can set up AI agents for shoppers, claim a verified profile, and track how often ChatGPT mentions them. Paid ads can point users to those agents too. This is like the start of SEO for chatbots. 4. Anthropic rolled out Claude Sheets and Whiteboards in beta, made Claude Data generally available, and announced Claude Meetings, an assistant that sits in on your video calls. Add those to Slides, Design, and Docs. Seems like Claude is slowly rebuilding the entire office suite. 5. Anthropic also released Claude Fable 5.2 and Mythos 5.2 yesterday, with Fable debuting at #1 on Artificial Analysis' Intelligence Index, 5 points ahead of Google's Gemini 4 Carbon. It's also 20% cheaper and up to 30% faster than 5.1. Google lost the top spot before Carbon even shipped (!) 6. Meta released Muse Ember, i",
+   "url": "https://nitter.kareem.one/rowancheung/status/2120299193868615981#m",
+   "ts": 1794353695,
+   "id": "2120299193868615981#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -1013,15 +1021,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2118365598459527286#m",
    "ts": 1793892690,
    "id": "2118365598459527286#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: therundownai.beehiiv.com/p/a… Link AI agents can now make your phone calls Grok can now make phone calls for you, handling hold times and small talk. Here's what AI phone agents mean for everyday users and what's next. therundownai.beehiiv.com",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2118304994872955101#m",
-   "ts": 1793878241,
-   "id": "2118304994872955101#m"
   },
   {
    "handle": "thsottiaux",
