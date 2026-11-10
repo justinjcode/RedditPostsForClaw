@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T16:57:26Z",
+ "generated_at": "2026-11-10T17:10:17Z",
  "accounts_ok": [
   "TheRundownAI",
   "elonmusk",
@@ -1099,7 +1099,7 @@
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
-   "text": "There's a buzzy new paper about GPT-6 Astra being able to directly interpret model weights (prompts full of floating point numbers) - I tried it with Qwen 3.8 27B on my laptop and found that, after 45+ minutes, that model could achieve the same thing simonwillison.net/2026/Nov/3… Link Qwen 3.8 27B on my laptop can interpret model weights, too Yesterday’s hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper found … simonwillison.net",
+   "text": "There's a buzzy new paper about GPT-6 Astra being able to directly interpret model weights (prompts full of floating point numbers) - I tried it with Qwen 3.8 27B on my laptop and found that, after 45+ minutes, that model could achieve the same thing simonwillison.net/2026/Nov/3… Link Qwen 3.8 27B on my laptop can interpret model weights, too Yesterday’s hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2117655816581071203#m",
    "ts": 1793723465,
    "id": "2117655816581071203#m"
