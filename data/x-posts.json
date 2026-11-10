@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-10T21:38:05Z",
+ "generated_at": "2026-11-10T21:45:49Z",
  "accounts_ok": [
-  "bcherny",
+  "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@bcherny: all instances failed"
  ],
  "count": 176,
  "items": [
@@ -43,6 +43,24 @@
    "id": "2120260228902264872#m"
   },
   {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "The Gemini 4 Carbon pelican is still pretty cute",
+   "url": "https://nitter.kareem.one/simonw/status/2120259652093112614#m",
+   "ts": 1794344268,
+   "id": "2120259652093112614#m"
+  },
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "For comparison, here's what I got for the same prompt against Claude Fable 5.2 yesterday simonwillison.net/2026/Nov/1… Video",
+   "url": "https://nitter.kareem.one/simonw/status/2120259268364718331#m",
+   "ts": 1794344176,
+   "id": "2120259268364718331#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -50,6 +68,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2120259002324140192#m",
    "ts": 1794344113,
    "id": "2120259002324140192#m"
+  },
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "Gemini 4 Carbon is good at pelican SVGs, but that's nothing new for Gemini \"Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and stomps around manhattan and queens and Brooklyn, use openstreetmap mapping data\" simonwillison.net/2026/Nov/1… Video",
+   "url": "https://nitter.kareem.one/simonw/status/2120258951594037732#m",
+   "ts": 1794344101,
+   "id": "2120258951594037732#m"
   },
   {
    "handle": "swyx",
@@ -1474,24 +1501,6 @@
    "id": "2113691493823369246#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "Given the current vulnerability apocalypse, is there anyone left who thinks holding assets in cryptocurrency - where mistaken transactions are irreversible - is still a good idea?",
-   "url": "https://nitter.kareem.one/simonw/status/2113633667583287786#m",
-   "ts": 1792764510,
-   "id": "2113633667583287786#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "Spotted a familiar creature at 00:45s in this new music video for FREEDOM by De Staad inv.kareem.one/watch?v=hKO4pQtI… Video",
-   "url": "https://nitter.kareem.one/simonw/status/2113356466770121166#m",
-   "ts": 1792698420,
-   "id": "2113356466770121166#m"
-  },
-  {
    "handle": "bcherny",
    "name": "Boris Cherny",
    "author": "@bcherny",
@@ -1499,15 +1508,6 @@
    "url": "https://nitter.kareem.one/bcherny/status/2113333859907747871#m",
    "ts": 1792693030,
    "id": "2113333859907747871#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "So basically, today PHP got two critical bugs that let anyone run code on your server without even logging in, which is bad, and then the details leaked before the patch was even out, which is worse, and it works on WordPress and MediaWiki and Magento and Joomla and Laravel, and Censys says like 1.5 million servers are running a version with no fix, so the NSA was like \"take your system offline,\" and the FBI was like \"take your system offline,\" and CISA and the UK and CERT-EU were all like \"take your system offline,\" and then the Prime Minister of Japan, the actual Prime Minister, posted at 5:55 in the morning telling 48.8 million people to take their system offline, so everyone took their system offline, like the Dutch cybersecurity agency took its own website offline, and the Dutch parliament went offline, and the Port of Rotterdam went offline, and Finland and France and Denmark started pulling government sites, and Wikipedia went down, and Archive.org went down, and Asana and GOG and Something Awful went down, and the University of Vienna's webmail went down for some reason, and that's just PHP. Because GitLab also dropped a CVSS 10.0, which is the highest score they give out, for a bug that's been there since 2014, so that's every self-hosted GitLab for twelve years, and then LiteLLM 1.107.0 got hijacked and shipped a credential stealer and a remote access trojan in every single wheel and the Docker images, including latest, and you didn't even have to import it, just in",
-   "url": "https://nitter.kareem.one/fiveoutofnine/status/2113045722744717360#m",
-   "ts": 1792624333,
-   "id": "2113045722744717360#m"
   },
   {
    "handle": "bcherny",
