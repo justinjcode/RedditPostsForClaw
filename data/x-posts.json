@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T01:56:15Z",
+ "generated_at": "2026-11-10T02:10:13Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Memphis Mayor Paul Young confirming @elonmusk ’s statement that Memphis is booming because of the data centers: “This year was $54 million in taxes generated. Last year about $25 million — it was the second-largest taxpaying property in Shelby County.” Video Elon Musk (@elonmusk) It’s true — https://nitter.kareem.one/elonmusk/status/2118817587203322349#m",
+   "url": "https://nitter.kareem.one/KatieMiller/status/2119964121860821488#m",
+   "ts": 1794273808,
+   "id": "2119964121860821488#m"
+  },
   {
    "handle": "simonw",
    "name": "Simon Willison",
@@ -445,15 +454,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2119650353142747181#m",
    "ts": 1794199000,
    "id": "2119650353142747181#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Dave Chappelle didn't joke about Charlie's murder. He celebrated it.",
-   "url": "https://nitter.kareem.one/kangminlee/status/2119635572780114303#m",
-   "ts": 1794195476,
-   "id": "2119635572780114303#m"
   },
   {
    "handle": "ZichenWanghere",
