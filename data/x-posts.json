@@ -1,20 +1,38 @@
 {
- "generated_at": "2026-11-10T11:27:25Z",
+ "generated_at": "2026-11-10T11:37:49Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@simonw: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: therundownai.beehiiv.com/p/a… Link Anthropic says ‘pacing, not pausing’ with Fable 5.2 Anthropic's \"pacing, not pausing\" approach arrives with Fable 5.2: cheaper, faster, and top-ranked. Plus, see how Claude cleans up a messy Excel report. therundownai.beehiiv.com",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2120116834951102916#m",
+   "ts": 1794310217,
+   "id": "2120116834951102916#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in AI today: - Anthropic’s Fable 5.2 leads the frontier with a price cut - Meta undercuts Anthropic, OpenAI on the cost of agents - Clean up a messy Excel report with Claude - Google adds two more AI chips to its Nvidia fight",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2120116829750219023#m",
+   "ts": 1794310216,
+   "id": "2120116829750219023#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1042,15 +1060,6 @@
    "id": "2117942512249720983#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in AI today: - Apple lets any app plug into Siri AI - Google won’t give schools Search without AI - Turn one product photo into three studio shots - CrowdStrike’s ‘kill switch’ to stop rogue AI agents",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2117942506935505343#m",
-   "ts": 1793791817,
-   "id": "2117942506935505343#m"
-  },
-  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -1067,15 +1076,6 @@
    "url": "https://nitter.kareem.one/gerardtbaker/status/2117734798932521209#m",
    "ts": 1793742296,
    "id": "2117734798932521209#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Google provides a clarification to this morning's AI / Google search drama: The Rundown AI (@TheRundownAI) REPORT: Starting in early 2027, K-12 students will lose Google Search on their school logins if their district blocks Google’s AI completely. Those students will get \"a message from their school that indicates it’s not available.\" Chris Phillips, Google’s education VP, told The New York Times that’s because \"Search and A.I. are deeply integrated.\" Google’s announcement came one day after the Nov. 2 deadline Sens. Richard Blumenthal and Josh Hawley gave the company to answer questions about pushing AI into schools. NYC and LA have already restricted student AI for roughly 1.1M kids, and Fairfax County, Va., built a plug-in to hide Google’s AI summaries. — https://nitter.kareem.one/TheRundownAI/status/2117658214481228117#m",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2117723912867811714#m",
-   "ts": 1793739700,
-   "id": "2117723912867811714#m"
   },
   {
    "handle": "bcherny",
