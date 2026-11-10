@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-10T03:37:48Z",
+ "generated_at": "2026-11-10T03:46:20Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,7 +10,9 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 177,
  "items": [
   {
@@ -121,6 +122,15 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2119908819555823882#m",
    "ts": 1794260623,
    "id": "2119908819555823882#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": ". @MegynKelly on the absolute double standard in the Russell Brand sentencing: “If you needed any further proof that this is a political WITCH HUNT against Russell Brand, the judge just gave it to us.” Download: podcasts.apple.com/us/podcas… Video",
+   "url": "https://nitter.kareem.one/MegynKellyShow/status/2119904682269429965#m",
+   "ts": 1794259636,
+   "id": "2119904682269429965#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -373,15 +383,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2119816076355567903#m",
    "ts": 1794238511,
    "id": "2119816076355567903#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "NEW GROK BOT! Your favorite YouTubes and podcasts now come out as a weekly magazine. 📰 I prefer to have a good read on weekends. I have printed out magazine style summaries of great content from YouTube and Podcasts for decades. I had a massive AI pipeline. Now I have Grok Bot. I built a Grok Bot that watches the channels and shows you love, and every week it turns each new episode into a beautifully written magazine feature. 🎬 YouTube videos and 🎙️ podcasts, all in one issue 📸 Real photos pulled from each video, with captions 💬 Pull quotes word for word from the speakers 📖 A finished EPUB for your Kindle, plus a newsletter in your inbox 🔗 Every story credits and links back to the creator A 3-hour podcast becomes a 10-minute read. A week of uploads becomes one Sunday morning issue. Stop scrolling past what you meant to watch. Read it instead. Any Video Into A Magazine 👇 x.ai/bot/Dky0PJsMVdTE6h_6cN6… Link Any Video Into A Magazine by Brian Turns the YouTube channels and podcasts you follow into a weekly magazine: feature articles with real photos from the videos, word-for-word pull quotes,... x.ai",
-   "url": "https://nitter.kareem.one/BrianRoemmele/status/2119815091092861330#m",
-   "ts": 1794238276,
-   "id": "2119815091092861330#m"
   },
   {
    "handle": "swyx",
