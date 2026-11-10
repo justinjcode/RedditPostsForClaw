@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-10T20:37:37Z",
+ "generated_at": "2026-11-10T20:45:23Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@simonw: all instances failed"
  ],
  "count": 176,
  "items": [
@@ -41,6 +41,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2120224576663896305#m",
    "ts": 1794335905,
    "id": "2120224576663896305#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Here is SpaceX's new @Starlink Mini 2 with quick-swap battery. You can get up to 4.5 hours of use on a single charge. This means you can get internet in the middle of nowhere and not have to plug anything in. Video Sawyer Merritt (@SawyerMerritt) SpaceX has just officially unveiled its next-generation @Starlink Mini 2, which now comes with a built-in battery for the first time. • Up to 4.5 hours of connectivity on a single charge with the quick-swap battery (or plug in USB-C). • Weight: 3.53 Ibs (1.6 kg) including battery and kickstand • Dimensions: 10.35 × 12.36 × 0.91 inches (263 × 314 × 23.1 mm) • Field of view: 55° • Wi-Fi: Wi-Fi 6 • Environmental rating: IP67 • Wi-Fi coverage: Up to 1,800 sq ft (167 m2) • Battery: Removable, rechargeable 71 Wh battery • Battery weight: 1.08 Ibs (490g) • Battery attachment: Quick-release mechanism • Charging: USB-C, 60W • Battery power output: USB-C, up to 60W • Power button: Built-in physical power button • Battery indicators: LED status lights • Kickstand: Integrated, foldable kickstand • Tripod mount: Standard 1/4\"-20 camera thread • Charger: Included 60W USB-C wall charger • Cable: Included 3-meter (10-foot) USB-C to USB-C cable Starlink is now taking preorders in the U.S.: starlink.com/mini-2 — https://nitter.kareem.one/SawyerMerritt/status/2120208552652345450#m",
+   "url": "https://nitter.kareem.one/SawyerMerritt/status/2120210080041963910#m",
+   "ts": 1794332449,
+   "id": "2120210080041963910#m"
   },
   {
    "handle": "swyx",
@@ -302,15 +311,6 @@
    "url": "https://nitter.kareem.one/beffjezos/status/2119970837302292728#m",
    "ts": 1794275409,
    "id": "2119970837302292728#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Memphis Mayor Paul Young confirming @elonmusk ’s statement that Memphis is booming because of the data centers: “This year was $54 million in taxes generated. Last year about $25 million — it was the second-largest taxpaying property in Shelby County.” Video Elon Musk (@elonmusk) It’s true — https://nitter.kareem.one/elonmusk/status/2118817587203322349#m",
-   "url": "https://nitter.kareem.one/KatieMiller/status/2119964121860821488#m",
-   "ts": 1794273808,
-   "id": "2119964121860821488#m"
   },
   {
    "handle": "simonw",
