@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-10T12:46:21Z",
+ "generated_at": "2026-11-10T12:56:08Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "bcherny",
+  "TheRundownAI",
+  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -32,6 +32,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2120116829750219023#m",
    "ts": 1794310216,
    "id": "2120116829750219023#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "The line between being funny and being offensive is very blurry.",
+   "url": "https://nitter.kareem.one/ZilanQian/status/2120108077005390090#m",
+   "ts": 1794308129,
+   "id": "2120108077005390090#m"
   },
   {
    "handle": "elonmusk",
@@ -70,6 +79,15 @@
    "id": "2120072587883560986#m"
   },
   {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "这样的老师一毕业就得找他去撸串拜把子",
+   "url": "https://nitter.kareem.one/pietehao/status/2120043276036186617#m",
+   "ts": 1794292680,
+   "id": "2120043276036186617#m"
+  },
+  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -95,6 +113,24 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2120021043876106429#m",
    "ts": 1794287379,
    "id": "2120021043876106429#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "马上就能回家了 Video",
+   "url": "https://nitter.kareem.one/BadDogEgg/status/2120019341039091909#m",
+   "ts": 1794286973,
+   "id": "2120019341039091909#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "马上就能回家了 Video",
+   "url": "https://nitter.kareem.one/BadDogEgg/status/2120019222117986678#m",
+   "ts": 1794286945,
+   "id": "2120019222117986678#m"
   },
   {
    "handle": "swyx",
@@ -772,33 +808,6 @@
    "id": "2118728787659522165#m"
   },
   {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "傍晚看到我窗台已经没米了🥺 夜色中又往窗外撒了些玉米碎、小米、白高粱 好冷啊啊啊！东北冬季可真不是闹着玩的😱 明早鸟们醒来后飞到我窗台，看到米米应该会很惊喜很开心吧😆 中国东北某些地区的深冬很严酷，也不知道那些鸟是咋活下来的🥺 这点米应该会让鸟们的生活稍微不那么艰难一点点☺️？",
-   "url": "https://nitter.kareem.one/NovaIntrovert/status/2118722770918130175#m",
-   "ts": 1793977847,
-   "id": "2118722770918130175#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "This is indeed happening. Singapore's Ministry of Education recently started enforcing a policy that no (non-SGean) nationality should exceed 30% of grad students in SG unis. The only group exceeding is Chinese nationals (>60% in many depts). 紫云 (@dviolettchan) 听朋友说，NUS 这两年已经不怎么招中国 PhD 学生了，这算是一个时代的结束吗……？ 话说这应该不是谣传吧？ — https://nitter.kareem.one/dviolettchan/status/2118428951550861371#m",
-   "url": "https://nitter.kareem.one/xuanalogue/status/2118716240332197976#m",
-   "ts": 1793976290,
-   "id": "2118716240332197976#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "He is such a breath of fresh air. Video",
-   "url": "https://nitter.kareem.one/uspolitics1111/status/2118690421119295643#m",
-   "ts": 1793970134,
-   "id": "2118690421119295643#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -860,24 +869,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118444105969926407#m",
    "ts": 1793911408,
    "id": "2118444105969926407#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "It's not hard to see why James Talarico pulled off a landslide as a Democrat in Texas. Just look at his campaign materials. S-tier operation. Video",
-   "url": "https://nitter.kareem.one/ElxMapping/status/2118439274404347991#m",
-   "ts": 1793910256,
-   "id": "2118439274404347991#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Rubio considering leaving the admin bloomberg.com/news/articles/… Link Rubio Considers Leaving Administration After GOP’s Midterm Loss Secretary of State Marco Rubio is weighing whether to leave the Trump administration, people familiar with the matter said, as he considers his next moves following Republicans’ midterm elections... bloomberg.com",
-   "url": "https://nitter.kareem.one/TheStalwart/status/2118429586526556452#m",
-   "ts": 1793907946,
-   "id": "2118429586526556452#m"
   },
   {
    "handle": "TheRundownAI",
@@ -1607,6 +1598,15 @@
    "url": "https://nitter.kareem.one/felixrieseberg/status/2110023283169247623#m",
    "ts": 1791903727,
    "id": "2110023283169247623#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "不要美化那条没走过的路",
+   "url": "https://nitter.kareem.one/BadDogEgg/status/2019862075728883808#m",
+   "ts": 1770407620,
+   "id": "2019862075728883808#m"
   }
  ]
 }
