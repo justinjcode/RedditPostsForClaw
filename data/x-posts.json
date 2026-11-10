@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-11-10T20:20:07Z",
+ "generated_at": "2026-11-10T20:26:03Z",
  "accounts_ok": [
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,8 +11,7 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 176,
  "items": [
@@ -59,6 +59,15 @@
    "url": "https://nitter.kareem.one/kentcdodds/status/2120195574934990901#m",
    "ts": 1794328991,
    "id": "2120195574934990901#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "CLAUDIA, Ship 42, Starbase. Do you copy? No tower has ever caught a ship coming back from orbit. Starship Flight 15 will try, no earlier than Nov 13. Good luck, @SpaceX @elonmusk 🚀 🎬 SLOPCORE music video AI Slop SI Video",
+   "url": "https://nitter.kareem.one/NURM_Dima/status/2120192013848965285#m",
+   "ts": 1794328142,
+   "id": "2120192013848965285#m"
   },
   {
    "handle": "TheRundownAI",
@@ -347,15 +356,6 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2119911587654103412#m",
    "ts": 1794261283,
    "id": "2119911587654103412#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Gwynne is great Tesla Owners Silicon Valley (@teslaownersSV) \"That's the man ( @elonmusk I've worked for for 24 years. I love him.\" Gwynne Shotwell Video — https://nitter.kareem.one/teslaownersSV/status/2119859960217743791#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2119909709197279420#m",
-   "ts": 1794260835,
-   "id": "2119909709197279420#m"
   },
   {
    "handle": "Lingling_Wei",
