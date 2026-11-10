@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-10T17:38:01Z",
+ "generated_at": "2026-11-10T17:45:43Z",
  "accounts_ok": [
+  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,37 @@
  ],
  "errors": [
   "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "not kidding. scenes from the speaker rehearsal session last night. @lucasmeijer , @FabianHedin , @BuiltByJustin , and @kentcdodds made memorable splashes!! follow @aiDotEngineer for live tweeting dex (@dexhorthy) if you are at @aiDotEngineer today DO NOT miss @lucasmeijer ‘s workshop today it is an full hour of straight gold - pragmatic, tasteful tricks, prompts, workflows, and general advice — https://nitter.kareem.one/dexhorthy/status/2120201184317517903#m",
+   "url": "https://nitter.kareem.one/swyx/status/2120208862221684809#m",
+   "ts": 1794332158,
+   "id": "2120208862221684809#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "if you are at @aiDotEngineer today DO NOT miss @lucasmeijer ‘s workshop today it is an full hour of straight gold - pragmatic, tasteful tricks, prompts, workflows, and general advice",
+   "url": "https://nitter.kareem.one/dexhorthy/status/2120201184317517903#m",
+   "ts": 1794330328,
+   "id": "2120201184317517903#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "This is where I'm talking about turning your codebase on autopilot. See you at @aiDotEngineer at 11:40!",
+   "url": "https://nitter.kareem.one/kentcdodds/status/2120195574934990901#m",
+   "ts": 1794328991,
+   "id": "2120195574934990901#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -547,15 +574,6 @@
    "id": "2119824433426878643#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "someone made this a few weeks ago and it keeps getting sent to me and idk how i feel about @latentspacepod being smart but mid",
-   "url": "https://nitter.kareem.one/swyx/status/2119824420059697455#m",
-   "ts": 1794240500,
-   "id": "2119824420059697455#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -572,15 +590,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2119816076355567903#m",
    "ts": 1794238511,
    "id": "2119816076355567903#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "starting a thread of all the ways in which gmail sucks for the eventual day i vibecode a total replacement Angie Jones (@techgirl1908) Whenever I feel bad about a page I designed, I go to this link to make me feel better mail.google.com/mail#setting… — https://nitter.kareem.one/techgirl1908/status/1407822934102745089#m",
-   "url": "https://nitter.kareem.one/swyx/status/2119809574563922263#m",
-   "ts": 1794236961,
-   "id": "2119809574563922263#m"
   },
   {
    "handle": "elonmusk",
@@ -716,15 +725,6 @@
    "url": "https://nitter.kareem.one/FanSince09/status/2119154247145312338#m",
    "ts": 1794080719,
    "id": "2119154247145312338#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "my vocal synth models the vocal tract as a network of branching acoustic tubes, unlike vocaloid which stitches together and pitch-shifts phoneme recordings. still working on improving naturalness by tuning it against recordings of real singers, but I'm already impressed at how cool it sounds! Video Jameson Hodge (@jamesonhodge) I only make serious software Video — https://nitter.kareem.one/jamesonhodge/status/2118733265372860826#m",
-   "url": "https://nitter.kareem.one/jamesonhodge/status/2119085825509954042#m",
-   "ts": 1794064406,
-   "id": "2119085825509954042#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -1429,9 +1429,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
