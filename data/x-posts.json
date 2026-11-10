@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-10T05:09:52Z",
+ "generated_at": "2026-11-10T05:20:14Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Dots can now control many machines in addition to its own little cloud computer that we provide by default. OpenAI Developers (@OpenAIDevs) You can now connect multiple local computers to the same dot and choose which one it uses for a task. It can build and test your app on a dedicated machine while you keep coding on your laptop. Video — https://nitter.kareem.one/OpenAIDevs/status/2119883176726409645#m",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2120021043876106429#m",
+   "ts": 1794287379,
+   "id": "2120021043876106429#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -950,15 +958,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118138764161913278#m",
    "ts": 1793838609,
    "id": "2118138764161913278#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Welcome Cat. Stoked to be building together soon. cat (@_catwu) Some news: I’m joining OpenAI to lead product management for Core Products! I have a lot of respect for OpenAI for showing the world that scaling works, for bringing AI to over a billion people, and for believing great products are core to the mission. I’m excited to work with @thsottiaux , an incredible PM team, and everyone across OpenAI. Together, we’ll build agents that have your back and your team’s, and keep you in control, so you get more time for the people and work you love. Lots to learn, and lots to build. Please keep your feedback coming! — https://nitter.kareem.one/_catwu/status/2118137612577968402#m",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2118138648214585591#m",
-   "ts": 1793838581,
-   "id": "2118138648214585591#m"
   },
   {
    "handle": "Lingling_Wei",
