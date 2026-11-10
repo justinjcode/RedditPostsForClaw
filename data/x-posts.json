@@ -1,19 +1,29 @@
 {
- "generated_at": "2026-11-10T19:45:19Z",
+ "generated_at": "2026-11-10T19:55:11Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@bcherny: all instances failed",
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 176,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "\"If you're coding locally, stop. You really need to be coding with a cloud agent.\" notes of @adamwathan and @ScottWu46 in this one Ryan Carson (@ryancarson) My @aiDotEngineer talk is live. This is how we build with agents at @HelloUntangle inv.kareem.one/BTtyguoPvBU?si=m_vQ… Been great iterating fast on this with @DaleSpoonemore and @DevinAI Link How One Founder Manages 20 AI Coding Agents at Once - Ryan Carson, Untangle Ryan Carson, founder and CEO of Untangle and a four-time founder, s... youtube.com — https://nitter.kareem.one/ryancarson/status/2120236734021587038#m",
+   "url": "https://nitter.kareem.one/swyx/status/2120241063193706960#m",
+   "ts": 1794339836,
+   "id": "2120241063193706960#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -571,15 +581,6 @@
    "url": "https://nitter.kareem.one/thorwebdev/status/2119827575287754987#m",
    "ts": 1794241253,
    "id": "2119827575287754987#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "btw i have all my investments/equity/advising disclosed swyx.io/portfolio and we have only recently opened up for sponsorships so there was literally nothing to be bought and paid for + we have contractual editorial independence (detials ask business @ latent.space Link Advising and Investing Devtools startup advising and investing by Shawn @swyx Wang. swyx.io",
-   "url": "https://nitter.kareem.one/swyx/status/2119824433426878643#m",
-   "ts": 1794240504,
-   "id": "2119824433426878643#m"
   },
   {
    "handle": "TheRundownAI",
