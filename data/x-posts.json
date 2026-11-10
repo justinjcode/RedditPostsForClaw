@@ -1,20 +1,38 @@
 {
- "generated_at": "2026-11-10T00:16:51Z",
+ "generated_at": "2026-11-10T00:43:39Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed"
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "There is a mysterious intermittent beep coming from somewhere in your room of unopened boxes. Do you: 1. Open boxes methodically until you find it 2. Vibe code software to triangulate it using two laptops, two iPads and a phone all listening at once simonwillison.net/2026/Nov/9… Link Locating the source of a mysterious beep with Claude Our house has a box room, full of boxes that we still haven’t unpacked from our last move. A couple of weeks ago something in that room started intermittently beeping. … simonwillison.net",
+   "url": "https://nitter.kareem.one/simonw/status/2119945524514328631#m",
+   "ts": 1794269374,
+   "id": "2119945524514328631#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "bro just proved fermat's last theorem AS A DEMO for the fable 5.2 launch and casually told me he's got something bigger planned for his aie code talk lol anthropic u guys are wildin Lance Martin (@RLanceMartin) i'm happy to share some recent work on safely scaling a team of 1,000 Fable 5.2 agent to tackle ambitious, long-horizon work. the team was able to formalize a proof of Fermat's Last Theorem through coordination within our safety boundaries. read it here: claude.dev/blog/safely-scali… — https://nitter.kareem.one/RLanceMartin/status/2119875041475379681#m",
+   "url": "https://nitter.kareem.one/swyx/status/2119935240202539147#m",
+   "ts": 1794266922,
+   "id": "2119935240202539147#m"
+  },
   {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
@@ -500,15 +518,6 @@
    "url": "https://nitter.kareem.one/vtahowe/status/2119539336823849186#m",
    "ts": 1794172531,
    "id": "2119539336823849186#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "working on something fun w/ @swyx and @aiDotEngineer team - i like to think at least some of y'all have very good taste. Please share your thoughts: (obvs i bias toward code but this is important broadly!) What does slop mean to you? Either in terms of code slop or more generally Why does slop happen? Why is slop worth fighting? What happens if we don't prevent slop? What happens if we do? How can we fight and prevent slop?",
-   "url": "https://nitter.kareem.one/dexhorthy/status/2119524005044768950#m",
-   "ts": 1794168876,
-   "id": "2119524005044768950#m"
   },
   {
    "handle": "elonmusk",
@@ -1526,15 +1535,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2112944299906347425#m",
    "ts": 1792600152,
    "id": "2112944299906347425#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "There's a French fork of Battle Drones with new models and music (and a cinematic intro video) and it is SO cool! menufactory43.github.io/pana… Here's the old v.s. new Goliath model meff (@Meffysto69) Merci @simonw ! 🎩 I forked Battle Drones into Panache: a French Belle Époque RTS, with dirigibles, steam tractors, clockwork soldiers in képis and Gargantua, a walking steam fortress. Fully in French, built with Claude Code. github.com/menufactory43/pan… Link GitHub - menufactory43/panache: Panache — RTS Belle Époque pour mobile (adaptation française de... Panache — RTS Belle Époque pour mobile (adaptation française de Battle Drones) - menufactory43/panache github.com — https://nitter.kareem.one/Meffysto69/status/2112908755654365220#m",
-   "url": "https://nitter.kareem.one/simonw/status/2112944161670488423#m",
-   "ts": 1792600119,
-   "id": "2112944161670488423#m"
   },
   {
    "handle": "bcherny",
