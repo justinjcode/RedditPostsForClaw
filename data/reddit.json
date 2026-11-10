@@ -1,27 +1,69 @@
 {
- "generated_at": "2026-11-10T14:09:34Z",
+ "generated_at": "2026-11-10T16:10:25Z",
  "count": 60,
  "subreddits_ok": [
+  "LocalLLaMA",
   "MachineLearning",
-  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
   {
    "subreddit": "selfhosted",
-   "title": "A few self hosted projects i stumbled across lately",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xsnr0t/a_few_self_hosted_projects_i_stumbled_across/",
-   "ts": 1794319542,
+   "title": "Container Onion Service: a rootless container that proxies a website as a hidden service on the Tor network (AGPLv3)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xsqg8g/container_onion_service_a_rootless_container_that/",
+   "ts": 1794326032,
    "source": "Reddit"
   },
   {
    "subreddit": "selfhosted",
-   "title": "Homelab-Nexus",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xsnotf/homelabnexus/",
-   "ts": 1794319384,
+   "title": "trying to get our family photos off the phones and off icloud, open source stuff that seems to cover most of it",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xspo33/trying_to_get_our_family_photos_off_the_phones/",
+   "ts": 1794324222,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "MiniMaxAI/MiniMax-H3-Image · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsp3xt/minimaxaiminimaxh3image_hugging_face/",
+   "ts": 1794322912,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "We tested Qwen3.6 27B, Qwen3.8 27B and GLM-5.3 Flash on real tasks in Elixir, OCaml, Haskell and 10 other less common languages",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsorsx/we_tested_qwen36_27b_qwen38_27b_and_glm53_flash/",
+   "ts": 1794322105,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "My 0.8B fine-tune proofreads Spanish at 138 ms per sentence on a CPU",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsocrj/my_08b_finetune_proofreads_spanish_at_138_ms_per/",
+   "ts": 1794321064,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "adventists-ai/Sophon-Realtime-v1 · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xso32l/adventistsaisophonrealtimev1_hugging_face/",
+   "ts": 1794320401,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "MiniMax H3-Image Released, an Open-Weight Image Model built on H3",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xso1ie/minimax_h3image_released_an_openweight_image/",
+   "ts": 1794320288,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "I finally did an Immich restore drill. Here's the short checklist I'll actually follow next time",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xsntxt/i_finally_did_an_immich_restore_drill_heres_the/",
+   "ts": 1794319759,
    "source": "Reddit"
   },
   {
@@ -32,6 +74,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "selfhosted",
+   "title": "Is port forwarding safe for minecraft?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xsmyyn/is_port_forwarding_safe_for_minecraft/",
+   "ts": 1794317504,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "MachineLearning",
    "title": "Introducing Usul - an easier way to express your NN using maths? [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xsmmfm/introducing_usul_an_easier_way_to_express_your_nn/",
@@ -39,10 +88,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Flare: self-hosted OpenTelemetry logs/traces/metrics in one docker compose (MIT)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xslldi/flare_selfhosted_opentelemetry_logstracesmetrics/",
-   "ts": 1794313559,
+   "subreddit": "LocalLLaMA",
+   "title": "Nobody wondering why the US takes Nvidia CEO affair public?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsljn6/nobody_wondering_why_the_us_takes_nvidia_ceo/",
+   "ts": 1794313413,
    "source": "Reddit"
   },
   {
@@ -50,6 +99,20 @@
    "title": "Fable 5.2 just doubled the best Remote Labor Index score [N]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xsldgu/fable_52_just_doubled_the_best_remote_labor_index/",
    "ts": 1794312881,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Strata after heavy optimizations",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsl8w7/strata_after_heavy_optimizations/",
+   "ts": 1794312492,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "[Paper] Exploring Weight-Space Programming: Capabilities, Generalization, and Limitations",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsl4qt/paper_exploring_weightspace_programming/",
+   "ts": 1794312139,
    "source": "Reddit"
   },
   {
@@ -82,13 +145,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "KVARK Sparkle 1.1 (27B): better document Q&A, and it knows when the answer isn't there (Apache 2.0)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xskb49/kvark_sparkle_11_27b_better_document_qa_and_it/",
-   "ts": 1794309354,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "Fable 5.2 not only has guardrails against AI acceleration, its capabilities were capped in training too",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsjfwo/fable_52_not_only_has_guardrails_against_ai/",
    "ts": 1794306232,
@@ -106,13 +162,6 @@
    "title": "A faster way to calculate the date of Easter",
    "url": "https://www.reddit.com/r/programming/comments/1xsiojn/a_faster_way_to_calculate_the_date_of_easter/",
    "ts": 1794303402,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "feat: external PLE file loading by pwilkin · Pull Request #31185 · ggml-org/llama.cpp",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsgpby/feat_external_ple_file_loading_by_pwilkin_pull/",
-   "ts": 1794295602,
    "source": "Reddit"
   },
   {
@@ -151,20 +200,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Qwen3.8-Flash-Next: Have you tried swapping the ngrams as per their latest version?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsbmbx/qwen38flashnext_have_you_tried_swapping_the/",
-   "ts": 1794278815,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Multiverse Computing's Comet 60B (A12B) GGUFs with the MTP head",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsbc2r/multiverse_computings_comet_60b_a12b_ggufs_with/",
-   "ts": 1794277972,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Did we ever really get to the bottom of why BatchNorm works? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xsasyf/did_we_ever_really_get_to_the_bottom_of_why/",
@@ -176,13 +211,6 @@
    "title": "How we reduced core unit boot time from hours to minutes",
    "url": "https://www.reddit.com/r/programming/comments/1xs9ou9/how_we_reduced_core_unit_boot_time_from_hours_to/",
    "ts": 1794273195,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "How to mess around with neurons... a short guide",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs81f3/how_to_mess_around_with_neurons_a_short_guide/",
-   "ts": 1794268777,
    "source": "Reddit"
   },
   {
@@ -225,34 +253,6 @@
    "title": "Got another good reminder why local matters today",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs3y17/got_another_good_reminder_why_local_matters_today/",
    "ts": 1794258790,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Qwen 3.8 FN getting stressed from messing up",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs2okh/qwen_38_fn_getting_stressed_from_messing_up/",
-   "ts": 1794255897,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "IMPS: Self-hosted photo inventory for storage boxes, with printable QR labels",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xs1w9j/imps_selfhosted_photo_inventory_for_storage_boxes/",
-   "ts": 1794254137,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Muse Ember: Zuck promised to open source muse spark 1.2 but continues to release to more closed models",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs0qmx/muse_ember_zuck_promised_to_open_source_muse/",
-   "ts": 1794251599,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "From the finest minds of our age to the dumbest monkeys on the planet",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs0izk/from_the_finest_minds_of_our_age_to_the_dumbest/",
-   "ts": 1794251136,
    "source": "Reddit"
   },
   {
