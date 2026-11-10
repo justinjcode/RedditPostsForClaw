@@ -1,9 +1,6 @@
 {
- "generated_at": "2026-11-10T17:25:42Z",
+ "generated_at": "2026-11-10T17:38:01Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +8,11 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 176,
  "items": [
   {
@@ -58,6 +59,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2120177857942978655#m",
    "ts": 1794324766,
    "id": "2120177857942978655#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "🚨The EU's Digital Services Act threatens freedom of speech GLOBALLY. What they say: the DSA prevents the spread of \"illegal content\" and mitigates \"systemic risks to civic discourse\". What actually happens: the EU controls online narratives by forcing the world's largest platforms to censor content that the Commission and a network of nonaccountable individuals and NGOs deem unacceptable. ⚠️The DSA does not protect democracy. It undermines the free exchange of ideas and information on which democracy depends. Find out more in our video 👇 Video",
+   "url": "https://nitter.kareem.one/ADFIntl/status/2120171456411717968#m",
+   "ts": 1794323240,
+   "id": "2120171456411717968#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -652,15 +662,6 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2119629062855602556#m",
    "ts": 1794193924,
    "id": "2119629062855602556#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "A battery cost $600 per kilowatt-hour. The materials it’s made of, according to Elon Musk, cost about $80. REPORTER: Where does that gap come from? ELON MUSK: Most people reason by analogy. They say batteries will always be expensive because they’ve always been expensive. That’s pretty dumb. REPORTER: Why? ELON MUSK: If you applied that reasoning to anything new, you’d never get to the new thing. You can’t say, “Horses are great, we’re used to them, and there’s no gasoline to buy, so nobody will ever want a car.” And people did say that. REPORTER: So how should you reason? ELON MUSK: From first principles, not by analogy. Normally we do something because it’s like something that was done before, or because other people are doing it. REPORTER: What are first principles? ELON MUSK: The physics way of looking at the world. You boil things down to the most fundamental truths and reason up from there. REPORTER: Why doesn’t everyone do that? ELON MUSK: Because it takes a lot more mental energy. REPORTER: Can you give an example? ELON MUSK: Batteries. Historically it’s $600 per kilowatt-hour, and they say it won’t get much better. I ask something else: what is it made of? REPORTER: And what is it made of? ELON MUSK: Cobalt, nickel, aluminum, carbon, some polymers for separation, and a sealed can. REPORTER: And what does that cost? ELON MUSK: At London Metal Exchange prices it comes to something like $80 per kilowatt-hour. REPORTER: So that’s almost eight times less. What do you do w",
-   "url": "https://nitter.kareem.one/0xMiraxq/status/2119559301060509801#m",
-   "ts": 1794177291,
-   "id": "2119559301060509801#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -1428,9 +1429,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
