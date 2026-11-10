@@ -1,20 +1,37 @@
 {
- "generated_at": "2026-11-10T14:57:29Z",
+ "generated_at": "2026-11-10T15:08:14Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "One alarming dynamic in U.S./China relationship is the absence of moderating voices on the Chinese side. There are only “America hawks” in the Chinese system, Matt Turpin of @HooverInst told me—“no ‘America doves.’” That’s even more pronounced under Xi’s consolidation of power, where the internal incentive is always to be tougher on the U.S., never softer. Read more in today’s WSJ China newsletter wsj.com/world/china/beijing-… Link Beijing Sees a Weakened Trump. It Risks Getting a Tougher Negotiator. Plus, Nvidia CEO Jensen Huang apologizes to employees and family, and Hong Kong activist Joshua Wong gets more prison time on foreign-collusion charges. | WSJ China for Nov. 10 wsj.com",
+   "url": "https://nitter.kareem.one/Lingling_Wei/status/2120162487265886518#m",
+   "ts": 1794321102,
+   "id": "2120162487265886518#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Beijing Sees a Weakened Trump. It Risks Getting a Tougher Negotiator. @Lingling_Wei wsj.com/world/china/beijing-… wsj.com/world/china/beijing-… Link Beijing Sees a Weakened Trump. It Risks Getting a Tougher Negotiator. Plus, Nvidia CEO Jensen Huang apologizes to employees and family, and Hong Kong activist Joshua Wong gets more prison time on foreign-collusion charges. | WSJ China for Nov. 10 wsj.com",
+   "url": "https://nitter.kareem.one/JChengWSJ/status/2120147410131546572#m",
+   "ts": 1794317507,
+   "id": "2120147410131546572#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -1420,15 +1437,6 @@
    "id": "2115444742595260551#m"
   },
   {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "China’s Car Industry Is Wowing the World—but Crashing at Home: Domestic sales have plunged, but the state-supported sector’s needed shakeout hasn’t begun; ‘so many competitors’ @StephenWilmot @NorthropKatrina wsj.com/business/autos/china… wsj.com/business/autos/china… Link China’s Car Industry Is Wowing the World—but Crashing at Home Domestic sales have plunged, but the state-supported sector’s needed shakeout hasn’t begun. “There’s a lot of sorting that’s going to happen,” said GM CEO Mary Barra. wsj.com",
-   "url": "https://nitter.kareem.one/JChengWSJ/status/2115353122067329302#m",
-   "ts": 1793174460,
-   "id": "2115353122067329302#m"
-  },
-  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -1436,15 +1444,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2115128326922883517#m",
    "ts": 1793120864,
    "id": "2115128326922883517#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "Trump is open to a three-party meeting with Putin and Xi. But there is a hitch: China, the prospective host, hasn’t issued an invitation. The obstacle is a fundamental disagreement over what the three leaders would discuss. wsj.com/world/china/xi-wants… Link Xi Wants to Play Peacemaker. Trump Has Other Ideas for a Historic Summit. Plus, Xinjiang goes from blacklisted to global trade hub, Xi’s purges echo Stalin’s, and Kim Jong Un makes a surprise trip to China.|WSJ China for Oct. 27 wsj.com",
-   "url": "https://nitter.kareem.one/Lingling_Wei/status/2115048188055019826#m",
-   "ts": 1793101758,
-   "id": "2115048188055019826#m"
   },
   {
    "handle": "simonw",
