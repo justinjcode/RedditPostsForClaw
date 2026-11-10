@@ -1,15 +1,71 @@
 {
- "generated_at": "2026-11-10T12:12:21Z",
+ "generated_at": "2026-11-10T14:09:34Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "A few self hosted projects i stumbled across lately",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xsnr0t/a_few_self_hosted_projects_i_stumbled_across/",
+   "ts": 1794319542,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Homelab-Nexus",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xsnotf/homelabnexus/",
+   "ts": 1794319384,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "PhotoPrism: How to getting phone photos onto the NAS?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xsn3ki/photoprism_how_to_getting_phone_photos_onto_the/",
+   "ts": 1794317846,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Introducing Usul - an easier way to express your NN using maths? [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xsmmfm/introducing_usul_an_easier_way_to_express_your_nn/",
+   "ts": 1794316551,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Flare: self-hosted OpenTelemetry logs/traces/metrics in one docker compose (MIT)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xslldi/flare_selfhosted_opentelemetry_logstracesmetrics/",
+   "ts": 1794313559,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Fable 5.2 just doubled the best Remote Labor Index score [N]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xsldgu/fable_52_just_doubled_the_best_remote_labor_index/",
+   "ts": 1794312881,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Let Over Lambda book is now free to read online",
+   "url": "https://www.reddit.com/r/programming/comments/1xskt8m/let_over_lambda_book_is_now_free_to_read_online/",
+   "ts": 1794311122,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Microservices can work for low-latency workloads",
+   "url": "https://www.reddit.com/r/programming/comments/1xskt6g/microservices_can_work_for_lowlatency_workloads/",
+   "ts": 1794311116,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "xiangjuntang/JoVox-64 · Hugging Face - Image-to-3D",
@@ -53,20 +109,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "n8n queueing every afternoon since I added AI steps. More cores, faster cores, or queue mode?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xsihpc/n8n_queueing_every_afternoon_since_i_added_ai/",
-   "ts": 1794302656,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "How do you guys use ai to come up with research ideas/loops to test them? Any tips? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xsh5uh/how_do_you_guys_use_ai_to_come_up_with_research/",
-   "ts": 1794297415,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "feat: external PLE file loading by pwilkin · Pull Request #31185 · ggml-org/llama.cpp",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsgpby/feat_external_ple_file_loading_by_pwilkin_pull/",
@@ -95,24 +137,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Haiku 5.5 sped up Duktape 2.0 more than the maintainers' 2.2.0 release did",
-   "url": "https://www.reddit.com/r/programming/comments/1xsg53h/haiku_55_sped_up_duktape_20_more_than_the/",
-   "ts": 1794293522,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Anchor Notes: a self-hosted Google Keep alternative, now with a full redesign, highlights and a slash menu",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xsf0kh/anchor_notes_a_selfhosted_google_keep_alternative/",
    "ts": 1794289512,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Soft-Serve (Git Server) is dead, recommended alternatives?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xsev6o/softserve_git_server_is_dead_recommended/",
-   "ts": 1794288997,
    "source": "Reddit"
   },
   {
@@ -298,13 +326,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "trying to go paperless at home, open source stuff that seems to cover most of it",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xrtrfa/trying_to_go_paperless_at_home_open_source_stuff/",
-   "ts": 1794236181,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "C# 15: Union Types, Closed Hierarchies, and the One Value™ That Isn't Any of Them · cekrem.github.io",
    "url": "https://www.reddit.com/r/programming/comments/1xrrmk7/c_15_union_types_closed_hierarchies_and_the_one/",
@@ -354,24 +375,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "I merged attention and MLP processing into a single gated Transformer block. GAP [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xr47tw/i_merged_attention_and_mlp_processing_into_a/",
-   "ts": 1794159806,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Micron - a Pascal/Oberon-derived systems language with the power of C",
    "url": "https://www.reddit.com/r/programming/comments/1xqyx52/micron_a_pascaloberonderived_systems_language/",
    "ts": 1794145978,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "FileRun canceled my lifetime license after I requested a receipt",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xqyhfz/filerun_canceled_my_lifetime_license_after_i/",
-   "ts": 1794144686,
    "source": "Reddit"
   },
   {
@@ -386,13 +393,6 @@
    "title": "Objects, attributes, maps, oh my!",
    "url": "https://www.reddit.com/r/programming/comments/1xqq13j/objects_attributes_maps_oh_my/",
    "ts": 1794113055,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "A quick look at zero-knowledge proofs",
-   "url": "https://www.reddit.com/r/programming/comments/1xqp9wx/a_quick_look_at_zeroknowledge_proofs/",
-   "ts": 1794110475,
    "source": "Reddit"
   },
   {
