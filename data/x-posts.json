@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-10T21:28:04Z",
+ "generated_at": "2026-11-10T21:38:05Z",
  "accounts_ok": [
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "swyx",
@@ -8,13 +9,30 @@
  ],
  "errors": [
   "@simonw: all instances failed",
-  "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed",
   "@TheRundownAI: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "How many of you have a small business? OpenAI (@OpenAI) Now in beta: Businesses in ChatGPT. Claim your business, manage your information, and get insights on how people engage with you. Eligible businesses can also build a Business Agent to answer customers’ questions and help them explore what you offer. openai.com/index/introducing… Video — https://nitter.kareem.one/OpenAI/status/2120216592395174382#m",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2120267268517249036#m",
+   "ts": 1794346084,
+   "id": "2120267268517249036#m"
+  },
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Labs innovating together ftw Claude (@claudeai) Also new: with interactive connectors, you can now open the full version of a tool inside Claude. Work in Adobe, Atlassian, and Box beside your conversation. Make changes yourself, or ask Claude to make them with you. Rolling out on web and desktop. Video — https://nitter.kareem.one/claudeai/status/2120206375137484875#m",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2120266880963473789#m",
+   "ts": 1794345991,
+   "id": "2120266880963473789#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -1004,24 +1022,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118146834325733453#m",
    "ts": 1793840533,
    "id": "2118146834325733453#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "We’ve assembled a world class cyber team and I’m excited for us to share more about our work over the weeks and months. OpenAI (@OpenAI) Our security researchers built an autonomous cyber vulnerability discovery, exploitation, and patching pipeline. In a single run with an upcoming cyber model, it validated and generated patches for 948 local privilege escalation vulnerabilities in the Linux kernel at a total API cost of $1.2 million. — https://nitter.kareem.one/OpenAI/status/2118119451401048497#m",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2118146794362405231#m",
-   "ts": 1793840523,
-   "id": "2118146794362405231#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "CatGPT",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2118138764161913278#m",
-   "ts": 1793838609,
-   "id": "2118138764161913278#m"
   },
   {
    "handle": "Lingling_Wei",
