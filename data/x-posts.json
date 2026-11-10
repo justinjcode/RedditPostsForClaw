@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-10T16:11:23Z",
+ "generated_at": "2026-11-10T16:22:06Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
+  "bcherny",
+  "elonmusk",
   "realDonaldTrump",
-  "simonw",
-  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@elonmusk: all instances failed",
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed"
+  "@simonw: all instances failed",
+  "@swyx: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "RELEASED: Gemini 4 Carbon, Google’s top model, is now live for Google AI Ultra subscribers and for paying developers via the Gemini API. Video",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2120190153495027741#m",
+   "ts": 1794327698,
+   "id": "2120190153495027741#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -1040,15 +1049,6 @@
    "url": "https://nitter.kareem.one/chris__pc/status/2118058129137319975#m",
    "ts": 1793819384,
    "id": "2118058129137319975#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "NEW: Grok Bot now has the ability to place phone calls for users. Calls are limited to the U.S. for now, with Washington and Illinois blocked. Once a user approves a call, Grok Bot can wait on hold, press through automated menus, and talk to whoever picks up. The user can follow along on a live transcript and gets a summary after. Video",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2118057565607367147#m",
-   "ts": 1793819249,
-   "id": "2118057565607367147#m"
   },
   {
    "handle": "Lingling_Wei",
