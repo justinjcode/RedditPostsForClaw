@@ -1,15 +1,106 @@
 {
- "generated_at": "2026-11-10T16:10:25Z",
+ "generated_at": "2026-11-10T22:09:21Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
   "MachineLearning",
-  "selfhosted"
+  "programming"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Apple has new Mac app coming to make running local AI models easy",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xszbe7/apple_has_new_mac_app_coming_to_make_running/",
+   "ts": 1794346236,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "My AI is lazier than me",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsytlk/my_ai_is_lazier_than_me/",
+   "ts": 1794345065,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xswmb7/the_surprising_effectiveness_of_deleting_weights/",
+   "ts": 1794339897,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "A Chromium Bug Caused by a 25-Hour Day",
+   "url": "https://www.reddit.com/r/programming/comments/1xsvulu/a_chromium_bug_caused_by_a_25hour_day/",
+   "ts": 1794338119,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Benchmarking iOS builds on Apple silicon: newer chips beat extra cores",
+   "url": "https://www.reddit.com/r/programming/comments/1xsuvp3/benchmarking_ios_builds_on_apple_silicon_newer/",
+   "ts": 1794335912,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "I have trained 15+ models on my own blood sugar & metabonet dataset [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xsussb/i_have_trained_15_models_on_my_own_blood_sugar/",
+   "ts": 1794335732,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Announcing .NET 11",
+   "url": "https://www.reddit.com/r/programming/comments/1xstxzv/announcing_net_11/",
+   "ts": 1794333869,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "AMD EPYC 9686F Linux benchmarks: 96 Zen 6 cores at up to 5.3GHz",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsswud/amd_epyc_9686f_linux_benchmarks_96_zen_6_cores_at/",
+   "ts": 1794331533,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "I trained a 348M-active MoE on ~11B tokens. It scores 85.5% vs Qwen2.5-1.5B's 53.3% on shuffled fact chains. GGUF + eval set — please try to break it.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xssj9q/i_trained_a_348mactive_moe_on_11b_tokens_it/",
+   "ts": 1794330680,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "speakleash/Bielik-11B-v3.1-Instruct · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsrg0l/speakleashbielik11bv31instruct_hugging_face/",
+   "ts": 1794328255,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "I benchmarked TimesFM 3.0, Chronos-2 and Toto 2.0 on market time series. None beat simple baseline. [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xsqztt/i_benchmarked_timesfm_30_chronos2_and_toto_20_on/",
+   "ts": 1794327256,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "TTS bench - 91 open TTS models and 28 paid TTS APIs on the same prompts",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsqv86/tts_bench_91_open_tts_models_and_28_paid_tts_apis/",
+   "ts": 1794326965,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Why OpenSSH Accepts a Password It Shouldn’t | Patch Notes",
+   "url": "https://www.reddit.com/r/programming/comments/1xsqsrb/why_openssh_accepts_a_password_it_shouldnt_patch/",
+   "ts": 1794326811,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Container Onion Service: a rootless container that proxies a website as a hidden service on the Tor network (AGPLv3)",
@@ -36,20 +127,6 @@
    "title": "We tested Qwen3.6 27B, Qwen3.8 27B and GLM-5.3 Flash on real tasks in Elixir, OCaml, Haskell and 10 other less common languages",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsorsx/we_tested_qwen36_27b_qwen38_27b_and_glm53_flash/",
    "ts": 1794322105,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "My 0.8B fine-tune proofreads Spanish at 138 ms per sentence on a CPU",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsocrj/my_08b_finetune_proofreads_spanish_at_138_ms_per/",
-   "ts": 1794321064,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "adventists-ai/Sophon-Realtime-v1 · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xso32l/adventistsaisophonrealtimev1_hugging_face/",
-   "ts": 1794320401,
    "source": "Reddit"
   },
   {
@@ -95,24 +172,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "Fable 5.2 just doubled the best Remote Labor Index score [N]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xsldgu/fable_52_just_doubled_the_best_remote_labor_index/",
-   "ts": 1794312881,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Strata after heavy optimizations",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsl8w7/strata_after_heavy_optimizations/",
    "ts": 1794312492,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "[Paper] Exploring Weight-Space Programming: Capabilities, Generalization, and Limitations",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsl4qt/paper_exploring_weightspace_programming/",
-   "ts": 1794312139,
    "source": "Reddit"
   },
   {
@@ -221,13 +284,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Same prompt, DeepSeek V4.1 Flash vs Qwen 3.8 FN: 94 tok/s vs 350 tok/s",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs7ffm/same_prompt_deepseek_v41_flash_vs_qwen_38_fn_94/",
-   "ts": 1794267151,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Has Anyone Here Ever Built An Image Generator From Scratch? [N]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xs78e3/has_anyone_here_ever_built_an_image_generator/",
@@ -235,24 +291,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Is ArtificialAnalysis biased against open weight models?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs5pkl/is_artificialanalysis_biased_against_open_weight/",
-   "ts": 1794262955,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Forecasting new power outages per county, hourly, 2 h ahead: 2.4× the PR-AUC of NWS warnings + SPC outlook on a held-out year [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xs4hq8/forecasting_new_power_outages_per_county_hourly_2/",
    "ts": 1794260078,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Got another good reminder why local matters today",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs3y17/got_another_good_reminder_why_local_matters_today/",
-   "ts": 1794258790,
    "source": "Reddit"
   },
   {
@@ -288,13 +330,6 @@
    "title": "Twindex: exact, replayable proofs that your data can't tell two parameter sets apart (ODEs, PDEs, PINNs) [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xryhhg/twindex_exact_replayable_proofs_that_your_data/",
    "ts": 1794246657,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "More interesting and unusual Qwen3.5-4B neurons",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrydgx/more_interesting_and_unusual_qwen354b_neurons/",
-   "ts": 1794246415,
    "source": "Reddit"
   },
   {
@@ -354,13 +389,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "Can coding agents build interactive 3D worlds? Frontier3DBench evaluates 11 configurations across objects, scenes, and worlds [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xrhg3a/can_coding_agents_build_interactive_3d_worlds/",
-   "ts": 1794195681,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "C64 Demo Effect Explained: The Bumpmapped Rain in Lunatico",
    "url": "https://www.reddit.com/r/programming/comments/1xrbciy/c64_demo_effect_explained_the_bumpmapped_rain_in/",
@@ -372,34 +400,6 @@
    "title": "Sem86 - A full-system emulator without hardcoded semantics",
    "url": "https://www.reddit.com/r/programming/comments/1xr4v4f/sem86_a_fullsystem_emulator_without_hardcoded/",
    "ts": 1794161393,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Micron - a Pascal/Oberon-derived systems language with the power of C",
-   "url": "https://www.reddit.com/r/programming/comments/1xqyx52/micron_a_pascaloberonderived_systems_language/",
-   "ts": 1794145978,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Profiles for Simplicity and Guarantees - Bjarne Stroustrup",
-   "url": "https://www.reddit.com/r/programming/comments/1xqs5vb/profiles_for_simplicity_and_guarantees_bjarne/",
-   "ts": 1794120813,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Objects, attributes, maps, oh my!",
-   "url": "https://www.reddit.com/r/programming/comments/1xqq13j/objects_attributes_maps_oh_my/",
-   "ts": 1794113055,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Unified Grid: How We Re-Architected Slack for Our Largest Customers",
-   "url": "https://www.reddit.com/r/programming/comments/1xqklmx/unified_grid_how_we_rearchitected_slack_for_our/",
-   "ts": 1794095885,
    "source": "Reddit"
   },
   {
