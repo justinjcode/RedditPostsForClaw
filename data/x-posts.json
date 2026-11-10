@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T20:45:23Z",
+ "generated_at": "2026-11-10T20:54:45Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -7,14 +7,22 @@
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@simonw: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "🆕 Designing for Agents Agent Experience is one of the most hotly contested topics of 2026, and increasingly critical for devtools/infra companies to get right. @ZenoRocha has been writing and thinking about this since 2024 and came on the pod to spill @Resend secrets! inv.kareem.one/bdIoODXsu8k Key themes include: - Answer Engine Optimization (AEO): how AI models like Claude Code recommend email services and how product teams can design for these agents - Deliverability and Trust: The discussion delves into the complexities of getting mail into the inbox, including handling bursts, managing Gmail throttling, and the importance of domain reputation and anti-abuse measures - Developer Experience & MCP: A major focus is on building for both humans and machines. Resend utilizes the Model Context Protocol (MCP) to provide agents with over 80 named tools, allowing them to autonomously set up accounts, check pricing in Markdown, and send emails - Technical Infrastructure: React Email as a wedge for adoption and but Resend's commitment to owning the mail stack, including managing complex DNS hurdles and providing enterprise-level visibility Link Designing for Agents — Zeno Rocha, Resend A coding agent opens a pull request and picks an email provider for... youtube.com",
+   "url": "https://nitter.kareem.one/latentspacepod/status/2120251400831816068#m",
+   "ts": 1794342300,
+   "id": "2120251400831816068#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -41,6 +49,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2120224576663896305#m",
    "ts": 1794335905,
    "id": "2120224576663896305#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "packed house for @ross_cefalu ‘s walk through of my favorite new @factory feature - Workstreams - letting an orchestrator manage a swarm of agents + scheduled automations and integrations to do massive, long horizon stuff (Also cool - workstreams is the product substrate we’re landing a ton of cool ideas from @humanlayer_dev into in the next few weeks, and it’s crazy how accidentally aligned me and @0xblacklight were with @EnoReyes and @matanSF )",
+   "url": "https://nitter.kareem.one/dexhorthy/status/2120220674543476800#m",
+   "ts": 1794334975,
+   "id": "2120220674543476800#m"
   },
   {
    "handle": "elonmusk",
@@ -487,15 +504,6 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "anyway see how a Paid For but Unbiased podcast that requires the most braincells covers a leading data lab nitterk.kareem.one/latentspacepod/status/… 3hour monster state of RL envs pod! Latent.Space (@latentspacepod) 🆕 Our first deep dive with an AI data company! The frontier data space is exploding. @joinHandshake has become one of the leading partners for frontier labs, going from launch to $1B in GMV in ~a year, with @sacrainc estimating net revenue AFTER contractor payouts at about $450M per year. inv.kareem.one/v5IJwVnTxzg What are frontier labs buying at that scale? Who is building the RL environments that build the models that you build with? How hard are evals getting? For the first time in our pod, we're speaking across a company, from cofounders @GarrettLord and @Sbhaiwala03 to leaders of Handshake Labs, Life Sciences, Finance, and Alignment. To cover this required assembling our complete team of Science, Engineering, Research and Finance hosts. For the first time, we walked through the tasks live: 🌸 50:59 · Nick puts nine brain-tissue slides on screen. Can you pick the two with the most advanced vessel necrosis? 🟢 1:25:45 · Collin traces a bad valuation back to one line of Python. The model knows the tax rule when asked. Can it recognize where to apply it? 🟠 2:07:21 · Steve and Nishant follow an agent through the files it read, the copies it checked, and the shell history it cleared. latent.space/handshake Link What Frontier Labs Buy: A Data Deep Dive with Handshak",
-   "url": "https://nitter.kareem.one/swyx/status/2119866760723890571#m",
-   "ts": 1794250595,
-   "id": "2119866760723890571#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
    "text": "SLC 🛫🛬 SFO for @aiDotEngineer and things 👀 Will you be around this week? Hit me up!!",
    "url": "https://nitter.kareem.one/kentcdodds/status/2119862932377067792#m",
    "ts": 1794249682,
@@ -563,15 +571,6 @@
    "url": "https://nitter.kareem.one/poteto/status/2119841446308221152#m",
    "ts": 1794244560,
    "id": "2119841446308221152#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "What do you teach computer science students when an agent can one-shot all of their homework? I sat down with @swyx on @latentspacepod to walk through how I'm answering that in my Stanford course 𝗧𝗵𝗲 𝗠𝗼𝗱𝗲𝗿𝗻 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿, and how the same ideas show up day to day at @MonacoGTM . Last year all students were just using tab complete. This year when I surveyed them, every one was regularly using autonomous agents. Exercises that once taught the workflow were starting to feel one-shotable. So the curriculum shifted toward judgment: 𝗕𝘂𝗶𝗹𝗱 𝘁𝗵𝗲 𝗵𝗮𝗿𝗻𝗲𝘀𝘀: students write a small coding agent from scratch (about 200 lines), then intercept the harness of a state of the art coding agent and read the system, plan, and compaction prompts. To effectively use and build agents you need to understand the loop they run in. 𝗟𝗲𝗮𝗿𝗻 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝘁𝗮𝘀𝘁𝗲 𝗯𝘆 𝘀𝗵𝗶𝗽𝗽𝗶𝗻𝗴 𝘁𝗼 𝗿𝗲𝗮𝗹 𝘄𝗼𝗿𝗹𝗱 𝗰𝗼𝗱𝗲𝗯𝗮𝘀𝗲𝘀: part of the homework is contributing to open-source projects. Maintainers review the patch and help students build mental models of good software. An agent can draft the change but getting it accepted still requires appropriate context, architecture, and intent within a complex codebase 𝗨𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱 𝘁𝗵𝗲 𝗰𝗵𝗮𝗻𝗴𝗲: before implementation, research an unfamiliar repo, propose a few approaches, and choose one. After the agent writes code, quiz yourself on the diff until you can defend it without reopening the file. At Monaco, that judgment is most of the job. When agents can build almost anything, the hard call is what's wor",
-   "url": "https://nitter.kareem.one/mihail_eric/status/2119836042270580846#m",
-   "ts": 1794243271,
-   "id": "2119836042270580846#m"
   },
   {
    "handle": "swyx",
