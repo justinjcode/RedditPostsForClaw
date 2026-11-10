@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-10T09:09:56Z",
+ "generated_at": "2026-11-10T09:22:13Z",
  "accounts_ok": [
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
-  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@simonw: all instances failed",
+  "@swyx: all instances failed",
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "In February 2004 Elon Musk wrote the check that put Tesla Motors on the road: $6.5 million of a $7.5 million Series A, plus the chairman's seat. He led the next round in February 2005. He co-led the $40 million round in May 2006 that brought in Larry Page and Sergey Brin. That August he published The Secret Tesla Motors Master Plan on the company blog, a sports car to pay for an affordable car, and so on down to the mass market. He pushed for the Roadster's carbon fiber body. By January 2009, Bloomberg reported, he had put $70 million of his own money into the company. CNBC still wrote this on September 10, 2018: \"Though Musk didn't found Tesla, his DNA is very much a part of the company.\" Read the very next sentence of the same article: \"He was one of its original investors and chairman of the board in 2004 before becoming CEO in 2008.\" Original investor. Chairman in 2004. CNBC typed both facts and still filed him under \"didn't found.\" That question had been settled nine years earlier, in court and in writing. In 2009 Martin Eberhard sued, and one of the things he asked a San Mateo County judge for was a declaration that he and Marc Tarpenning were the only two founders. In July the judge struck that request. In September the case was settled and Tesla named five co-founders: Eberhard, Tarpenning, Elon Musk, JB Straubel and Ian Wright. Eberhard's own statement that day: \"As a co-founder of the company, Elon's contributions to Tesla have been extraordinary.\" The man who went ",
+   "url": "https://nitter.kareem.one/TheCaptainEli/status/2120072587883560986#m",
+   "ts": 1794299668,
+   "id": "2120072587883560986#m"
+  },
   {
    "handle": "simonw",
    "name": "Simon Willison",
@@ -383,15 +392,6 @@
    "url": "https://nitter.kareem.one/TheJadeWarwick/status/2119822336337592584#m",
    "ts": 1794240004,
    "id": "2119822336337592584#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Starlink is now delivering fast, reliable internet onboard @FlyingBrussels 🛰️✈️",
-   "url": "https://nitter.kareem.one/Starlink/status/2119818965266612643#m",
-   "ts": 1794239200,
-   "id": "2119818965266612643#m"
   },
   {
    "handle": "TheRundownAI",
