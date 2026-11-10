@@ -1,20 +1,38 @@
 {
- "generated_at": "2026-11-10T05:46:45Z",
+ "generated_at": "2026-11-10T05:55:12Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
-  "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "Something I enjoy about these prompting guides is that it's VERY clear from reading them that Anthropic are just as surprised by the idiosyncrasies of their new models as we are",
+   "url": "https://nitter.kareem.one/simonw/status/2120029567616458900#m",
+   "ts": 1794289411,
+   "id": "2120029567616458900#m"
+  },
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "When Anthropic release a new model it's always worth taking a look at their updated prompting guide - here's an entertaining tip to make Fable 5.2 less likely to be cautious in how it improves existing code: tell it \"This codebase is yours\" platform.claude.com/docs/en/…",
+   "url": "https://nitter.kareem.one/simonw/status/2120029347948220500#m",
+   "ts": 1794289359,
+   "id": "2120029347948220500#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -1504,15 +1522,6 @@
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
-   "text": "As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins.",
-   "url": "https://nitter.kareem.one/mitsuhiko/status/2113207589978636646#m",
-   "ts": 1792662925,
-   "id": "2113207589978636646#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
    "text": "So basically, today PHP got two critical bugs that let anyone run code on your server without even logging in, which is bad, and then the details leaked before the patch was even out, which is worse, and it works on WordPress and MediaWiki and Magento and Joomla and Laravel, and Censys says like 1.5 million servers are running a version with no fix, so the NSA was like \"take your system offline,\" and the FBI was like \"take your system offline,\" and CISA and the UK and CERT-EU were all like \"take your system offline,\" and then the Prime Minister of Japan, the actual Prime Minister, posted at 5:55 in the morning telling 48.8 million people to take their system offline, so everyone took their system offline, like the Dutch cybersecurity agency took its own website offline, and the Dutch parliament went offline, and the Port of Rotterdam went offline, and Finland and France and Denmark started pulling government sites, and Wikipedia went down, and Archive.org went down, and Asana and GOG and Something Awful went down, and the University of Vienna's webmail went down for some reason, and that's just PHP. Because GitLab also dropped a CVSS 10.0, which is the highest score they give out, for a bug that's been there since 2014, so that's every self-hosted GitLab for twelve years, and then LiteLLM 1.107.0 got hijacked and shipped a credential stealer and a remote access trojan in every single wheel and the Docker images, including latest, and you didn't even have to import it, just in",
    "url": "https://nitter.kareem.one/fiveoutofnine/status/2113045722744717360#m",
    "ts": 1792624333,
@@ -1526,15 +1535,6 @@
    "url": "https://nitter.kareem.one/claudeai/status/2112984664256241837#m",
    "ts": 1792609775,
    "id": "2112984664256241837#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "When I slapped an Apache 2.0 License on the code yesterday I did not expect anything this neat to come out of it, and certainly not so fast simonwillison.net/2026/Oct/2… Link Battle Drones—a vibe coded RTS with audio-based multiplayer My latest vibe coded game experiment is a Command & Conquer style RTS (Real Time Strategy) game called Battle Drones (play it here). Unlike my previous experiments, this one is … simonwillison.net",
-   "url": "https://nitter.kareem.one/simonw/status/2112944299906347425#m",
-   "ts": 1792600152,
-   "id": "2112944299906347425#m"
   },
   {
    "handle": "bcherny",
