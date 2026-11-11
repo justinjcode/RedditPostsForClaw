@@ -1,15 +1,57 @@
 {
- "generated_at": "2026-11-11T02:10:25Z",
+ "generated_at": "2026-11-11T04:10:28Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "Regressive JPEGs",
+   "url": "https://www.reddit.com/r/programming/comments/1xt7wkx/regressive_jpegs/",
+   "ts": 1794369660,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "[GLB-3D-Coder] I tried making a 1.7B version for Godot",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt6rc7/glb3dcoder_i_tried_making_a_17b_version_for_godot/",
+   "ts": 1794366189,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Where Does The Experience Come From?",
+   "url": "https://www.reddit.com/r/programming/comments/1xt6lvq/where_does_the_experience_come_from/",
+   "ts": 1794365754,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "How to check if your server uses post-quantum TLS, and enable it on nginx (needs OpenSSL 3.5)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xt5zdk/how_to_check_if_your_server_uses_postquantum_tls/",
+   "ts": 1794363915,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Qwen4 Is Coming — Preview Now Live on Alibaba Token Plan",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt5q27/qwen4_is_coming_preview_now_live_on_alibaba_token/",
+   "ts": 1794363189,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "I built a free app that turns EPUB and PDF books into audiobooks on your own computer locally with State of the art tiny TTS models",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt4bnl/i_built_a_free_app_that_turns_epub_and_pdf_books/",
+   "ts": 1794359160,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Mär: one free, open source iOS player for your self-hosted audiobooks, podcasts, music and radio",
@@ -116,20 +158,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "AMD EPYC 9686F Linux benchmarks: 96 Zen 6 cores at up to 5.3GHz",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsswud/amd_epyc_9686f_linux_benchmarks_96_zen_6_cores_at/",
-   "ts": 1794331533,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "speakleash/Bielik-11B-v3.1-Instruct · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsrg0l/speakleashbielik11bv31instruct_hugging_face/",
-   "ts": 1794328255,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "I benchmarked TimesFM 3.0, Chronos-2 and Toto 2.0 on market time series. None beat simple baseline. [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xsqztt/i_benchmarked_timesfm_30_chronos2_and_toto_20_on/",
@@ -229,13 +257,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "xiangjuntang/JoVox-64 · Hugging Face - Image-to-3D",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xskr0m/xiangjuntangjovox64_hugging_face_imageto3d/",
-   "ts": 1794310911,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "Decision model to edit LLM weight directly - No training",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xski9d/decision_model_to_edit_llm_weight_directly_no/",
    "ts": 1794310064,
@@ -246,13 +267,6 @@
    "title": "Fable 5.2 not only has guardrails against AI acceleration, its capabilities were capped in training too",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsjfwo/fable_52_not_only_has_guardrails_against_ai/",
    "ts": 1794306232,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Establishing \"normal\" limits for alerting",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xsj9nc/establishing_normal_limits_for_alerting/",
-   "ts": 1794305601,
    "source": "Reddit"
   },
   {
@@ -267,13 +281,6 @@
    "title": "Whats the best iphone app for ssh server monitoring",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xsgdz7/whats_the_best_iphone_app_for_ssh_server/",
    "ts": 1794294433,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Haiku 5.5 sped up Duktape 2.0 more than the maintainers' 2.2.0 release did",
-   "url": "https://www.reddit.com/r/programming/comments/1xsg8z5/haiku_55_sped_up_duktape_20_more_than_the/",
-   "ts": 1794293931,
    "source": "Reddit"
   },
   {
@@ -393,13 +400,6 @@
    "title": "C64 Demo Effect Explained: The Bumpmapped Rain in Lunatico",
    "url": "https://www.reddit.com/r/programming/comments/1xrbciy/c64_demo_effect_explained_the_bumpmapped_rain_in/",
    "ts": 1794177785,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Sem86 - A full-system emulator without hardcoded semantics",
-   "url": "https://www.reddit.com/r/programming/comments/1xr4v4f/sem86_a_fullsystem_emulator_without_hardcoded/",
-   "ts": 1794161393,
    "source": "Reddit"
   },
   {
