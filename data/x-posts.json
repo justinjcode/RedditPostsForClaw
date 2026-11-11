@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-11T03:59:33Z",
+ "generated_at": "2026-11-11T04:13:30Z",
  "accounts_ok": [
   "TheRundownAI",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -10,11 +9,30 @@
   "thsottiaux"
  ],
  "errors": [
+  "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Super cool stickers @swyx !!!",
+   "url": "https://nitter.kareem.one/TheTuringPost/status/2120332228060422269#m",
+   "ts": 1794361571,
+   "id": "2120332228060422269#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Hot AGI pilled at @aiDotEngineer ! Say hi if you are here! And if you are not watch all the talks online - content is always incredible",
+   "url": "https://nitter.kareem.one/TheTuringPost/status/2120329613180338336#m",
+   "ts": 1794360948,
+   "id": "2120329613180338336#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -565,15 +583,6 @@
    "id": "2119873095129550880#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "SLC 🛫🛬 SFO for @aiDotEngineer and things 👀 Will you be around this week? Hit me up!!",
-   "url": "https://nitter.kareem.one/kentcdodds/status/2119862932377067792#m",
-   "ts": 1794249682,
-   "id": "2119862932377067792#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -626,15 +635,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2119841916376281432#m",
    "ts": 1794244672,
    "id": "2119841916376281432#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "gm Karl 👋 AI.Engineer @ CODE (@aiDotEngineer) AIE CODE starts tomorrow in San Francisco. Nov 10: workshops + talks on agents and software factories. Nov 11-12: conference talks + expo. Coming for workshops? Check that your ticket includes the add-on. Plan your days: ai.engineer/code/schedule Link AI Engineer AI Engineer is the community and conference series for software engineers building with AI. Join thousands of AI engineers at our events worldwide. ai.engineer — https://nitter.kareem.one/aiDotEngineer/status/2119807225904730497#m",
-   "url": "https://nitter.kareem.one/thorwebdev/status/2119827575287754987#m",
-   "ts": 1794241253,
-   "id": "2119827575287754987#m"
   },
   {
    "handle": "TheRundownAI",
