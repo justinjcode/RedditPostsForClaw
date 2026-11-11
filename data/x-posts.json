@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T08:48:49Z",
+ "generated_at": "2026-11-11T08:56:57Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +11,7 @@
  ],
  "errors": [
   "@swyx: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -97,6 +97,15 @@
    "id": "2120352142603243697#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Taps the sign WSJ Business News (@WSJbusiness) Masayoshi Son’s SoftBank reserved enough gas turbines to generate the power of six Hoover Dams. It cost the company billions of dollars in losses. on.wsj.com/4AkINFX Link Masayoshi Son’s Huge Bet on Electrical Turbines Backfires SoftBank reserved enough gas turbines to generate the power of six Hoover Dams. It cost the company billions of dollars in losses. wsj.com — https://nitter.kareem.one/WSJbusiness/status/2120320733561672164#m",
+   "url": "https://nitter.kareem.one/KatieMiller/status/2120342384445898866#m",
+   "ts": 1794363993,
+   "id": "2120342384445898866#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -140,6 +149,15 @@
    "url": "https://nitter.kareem.one/rowancheung/status/2120299193868615981#m",
    "ts": 1794353695,
    "id": "2120299193868615981#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "29 days from completion of tunneling in Bastrop to initiation of tunneling in San Antonio. Video",
+   "url": "https://nitter.kareem.one/boringcompany/status/2120286900569456800#m",
+   "ts": 1794350764,
+   "id": "2120286900569456800#m"
   },
   {
    "handle": "swyx",
@@ -500,24 +518,6 @@
    "url": "https://nitter.kareem.one/BadDogEgg/status/2120019222117986678#m",
    "ts": 1794286945,
    "id": "2120019222117986678#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok Sawyer Merritt (@SawyerMerritt) SpaceX VP of Launch @TurkeyBeaver says Grok is now helping them identify foreign object debris in aerospace parts, and that Grok (99.9%) is better at it than humans (94%). \"We’ve automated being able to detect FOD. We’ll have an inspector go in and borescope a tube, and we find that humans are about 94% perfect (at) finding a piece of it. Grok analyzing the same video is 99.9% perfect.\" Full article: arstechnica.com/space/2026/1… — https://nitter.kareem.one/SawyerMerritt/status/2119857279361073655#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2119989523748905221#m",
-   "ts": 1794279864,
-   "id": "2119989523748905221#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The most entertaining outcome is the most likely, especially if ironic jimmah (@jamesdouma) One irony maximizing outcome that I’m not looking forward to is Anthropic proving to the world that their fears are justified by building the super-intelligence that they fear. — https://nitter.kareem.one/jamesdouma/status/2119985655157755945#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2119989362725396589#m",
-   "ts": 1794279826,
-   "id": "2119989362725396589#m"
   },
   {
    "handle": "elonmusk",
@@ -1474,9 +1474,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
