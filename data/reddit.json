@@ -1,15 +1,36 @@
 {
- "generated_at": "2026-11-11T20:09:29Z",
+ "generated_at": "2026-11-11T22:09:20Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
-  "selfhosted"
+  "MachineLearning",
+  "programming"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "MachineLearning",
+   "title": "I built an explorer of 2,100+ robotics papers covering 10 years of CoRL; with TLDRs, links to code, project pages, and research trends [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xtul3j/i_built_an_explorer_of_2100_robotics_papers/",
+   "ts": 1794433374,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Rust’s Type System is All You Need",
+   "url": "https://www.reddit.com/r/programming/comments/1xtu6oj/rusts_type_system_is_all_you_need/",
+   "ts": 1794432401,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Have people given up on ICLR reviews? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xtt0px/have_people_given_up_on_iclr_reviews_d/",
+   "ts": 1794429640,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Replicate UGOS",
@@ -29,6 +50,13 @@
    "title": "OS Choice",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xtrd8t/os_choice/",
    "ts": 1794425806,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "US and China \"may\" collaborate on AI. The jokes write themselves",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtqsuu/us_and_china_may_collaborate_on_ai_the_jokes/",
+   "ts": 1794424533,
    "source": "Reddit"
   },
   {
@@ -64,13 +92,6 @@
    "title": "Open-source method (MACaQ) beats Unsloth GGUFs!",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xto0fa/opensource_method_macaq_beats_unsloth_ggufs/",
    "ts": 1794418360,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Every lab assignment in my course ended the same way: Export your notebook as PDF and upload it. Not self promotion this my first project i made [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xtnjhw/every_lab_assignment_in_my_course_ended_the_same/",
-   "ts": 1794417353,
    "source": "Reddit"
   },
   {
@@ -249,13 +270,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Microsoft Research backdoored an AI agent by directly editing fewer than 10 dormant neurons",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt82mz/microsoft_research_backdoored_an_ai_agent_by/",
-   "ts": 1794370184,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Regressive JPEGs",
    "url": "https://www.reddit.com/r/programming/comments/1xt7wkx/regressive_jpegs/",
@@ -386,20 +400,6 @@
    "title": "Using latent-agent swarms for math discovery and optimization [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xrunu7/using_latentagent_swarms_for_math_discovery_and/",
    "ts": 1794238250,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "C# 15: Union Types, Closed Hierarchies, and the One Value™ That Isn't Any of Them · cekrem.github.io",
-   "url": "https://www.reddit.com/r/programming/comments/1xrrmk7/c_15_union_types_closed_hierarchies_and_the_one/",
-   "ts": 1794230836,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Amazon applied science intern interview next week - EU based [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xrkiaw/amazon_applied_science_intern_interview_next_week/",
-   "ts": 1794205894,
    "source": "Reddit"
   },
   {
