@@ -1,20 +1,62 @@
 {
- "generated_at": "2026-11-11T12:12:28Z",
+ "generated_at": "2026-11-11T14:09:34Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
   {
    "subreddit": "selfhosted",
-   "title": "Senlo v0.1.0: the lifecycle editor I promised last time, plus any SMTP server and encrypted credentials",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xtfsos/senlo_v010_the_lifecycle_editor_i_promised_last/",
-   "ts": 1794397892,
+   "title": "Updates to Jellify - a FOSS music player for Jellyfin",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xtia4n/updates_to_jellify_a_foss_music_player_for/",
+   "ts": 1794405165,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Self hosted Glean alternative just ranked #1 on EnterpriseRAG-Bench, ahead of the listed systems from OpenAI, Google, Microsoft and Amazon",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xti468/self_hosted_glean_alternative_just_ranked_1_on/",
+   "ts": 1794404719,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "some vpn for my selfhosted minecraft server because my router broke",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xthgnz/some_vpn_for_my_selfhosted_minecraft_server/",
+   "ts": 1794402943,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Mod ttkciar is harassing this sub",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xthew3/mod_ttkciar_is_harassing_this_sub/",
+   "ts": 1794402812,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Need help with IBM BladeCenter H, Advanced Management Module (AMM)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xtgs3b/need_help_with_ibm_bladecenter_h_advanced/",
+   "ts": 1794400971,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "You can now train your own LLMs with less memory, on your gaming GPUs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtgnh9/you_can_now_train_your_own_llms_with_less_memory/",
+   "ts": 1794400581,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "askmdb: My new project where I fine-tuned Qwen models to build a MongoDB CLI assistant - turn plain-language questions into MongoDB queries",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtfvct/askmdb_my_new_project_where_i_finetuned_qwen/",
+   "ts": 1794398154,
    "source": "Reddit"
   },
   {
@@ -32,13 +74,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "*arr stack and Storage in ProxMox",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xtezdi/arr_stack_and_storage_in_proxmox/",
-   "ts": 1794395023,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Can we talk about the ML research coming from China? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xteym8/can_we_talk_about_the_ml_research_coming_from/",
@@ -46,10 +81,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Do you use your own CA / self-signed certificates for your self-hosted services?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xteqse/do_you_use_your_own_ca_selfsigned_certificates/",
-   "ts": 1794394185,
+   "subreddit": "LocalLLaMA",
+   "title": "Ernie 5.5 Flash will be released in two weeks",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xted8w/ernie_55_flash_will_be_released_in_two_weeks/",
+   "ts": 1794392783,
    "source": "Reddit"
   },
   {
@@ -61,9 +96,9 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "Qwen4-Max Preview is out on API access. No word on weights release yet",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtcrgm/qwen4max_preview_is_out_on_api_access_no_word_on/",
-   "ts": 1794386578,
+   "title": "Asked SenseNova-U1.5-8B-MoT how to make a closed terrarium, and it drew a picture for every step",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtdft2/asked_sensenovau158bmot_how_to_make_a_closed/",
+   "ts": 1794389212,
    "source": "Reddit"
   },
   {
@@ -158,20 +193,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "SSHBorg: SSH/SFTP client for Android and iOS.. and now speaks mosh. GPL-3.0, no account, no telemetry",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xt240p/sshborg_sshsftp_client_for_android_and_ios_and/",
-   "ts": 1794353294,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "What tasks have you moved from cloud models to local models?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt0ah5/what_tasks_have_you_moved_from_cloud_models_to/",
-   "ts": 1794348625,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Apple has new Mac app coming to make running local AI models easy",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xszbe7/apple_has_new_mac_app_coming_to_make_running/",
@@ -257,13 +278,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "MiniMaxAI/MiniMax-H3-Image · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsp3xt/minimaxaiminimaxh3image_hugging_face/",
-   "ts": 1794322912,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "MiniMax H3-Image Released, an Open-Weight Image Model built on H3",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xso1ie/minimax_h3image_released_an_openweight_image/",
    "ts": 1794320288,
@@ -274,13 +288,6 @@
    "title": "Introducing Usul - an easier way to express your NN using maths? [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xsmmfm/introducing_usul_an_easier_way_to_express_your_nn/",
    "ts": 1794316551,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Nobody wondering why the US takes Nvidia CEO affair public?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsljn6/nobody_wondering_why_the_us_takes_nvidia_ceo/",
-   "ts": 1794313413,
    "source": "Reddit"
   },
   {
@@ -295,13 +302,6 @@
    "title": "Microservices can work for low-latency workloads",
    "url": "https://www.reddit.com/r/programming/comments/1xskt6g/microservices_can_work_for_lowlatency_workloads/",
    "ts": 1794311116,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Fable 5.2 not only has guardrails against AI acceleration, its capabilities were capped in training too",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsjfwo/fable_52_not_only_has_guardrails_against_ai/",
-   "ts": 1794306232,
    "source": "Reddit"
   },
   {
