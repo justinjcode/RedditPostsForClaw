@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-11-11T17:11:16Z",
+ "generated_at": "2026-11-11T17:17:25Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -9,12 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "NEW: Google DeepMind released AlphaGenome 2, its upgraded AI model that predicts what a DNA mutation does in one specific kind of cell. What changed from the first AlphaGenome: - Zooms in on one kind of cell, where the original blended a whole tissue together - Catches nearly 2x the mutations that dial a gene up or down - Works on kinds of cells it has never seen, using a small sample from a lab Video",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2120566567453036865#m",
+   "ts": 1794417442,
+   "id": "2120566567453036865#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -1040,15 +1048,6 @@
    "url": "https://nitter.kareem.one/greg_ip/status/2118370296671633741#m",
    "ts": 1793893810,
    "id": "2118370296671633741#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: robotnews.therundown.ai/p/ag… Link Agility’s $2.5B humanoid hits Nasdaq PLUS: Apple’s first robot faces another delay robotnews.therundown.ai",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2118365603798946002#m",
-   "ts": 1793892691,
-   "id": "2118365603798946002#m"
   },
   {
    "handle": "thsottiaux",
