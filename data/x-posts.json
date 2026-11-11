@@ -1,20 +1,47 @@
 {
- "generated_at": "2026-11-11T17:38:49Z",
+ "generated_at": "2026-11-11T17:46:08Z",
  "accounts_ok": [
+  "TheRundownAI",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
-  "@bcherny: all instances failed",
+  "@simonw: all instances failed",
   "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "This is not the smartest move from a profit-maximizing standpoint btw, but there must be some room in this world for sentimentality or what’s the point?",
+   "url": "https://nitter.kareem.one/elonmusk/status/2120570459335131606#m",
+   "ts": 1794418370,
+   "id": "2120570459335131606#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "These awesome ladies are killing it at @aiDotEngineer code! 👩‍💻 IIRC this is the first all female keynote start at AIE? @swyx ? Back to back: @nserrino - 10X inference @lydiahallie - @claudeai best practices @michellechen - Cloudflare being a neolab @poteto - poteto poteto AI.Engineer @ CODE (@aiDotEngineer) The Code Summit livestream starts in 30 minutes. @nserrino ( @gimletlabs ) on 10x faster AI. @lydiahallie ( @AnthropicAI ) on Claude Code best practices. 9 AM PT. Watch free: inv.kareem.one/live/ZZ19zhYnDKY Presented by @GoogleDeepMind . — https://nitter.kareem.one/aiDotEngineer/status/2120554645781463093#m",
+   "url": "https://nitter.kareem.one/altryne/status/2120568343480713360#m",
+   "ts": 1794417865,
+   "id": "2120568343480713360#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "inv.kareem.one/live/ZZ19zhYnDKY Link AI Engineer Code Summit 2026 — Day 1 | November 11 Live from San Francisco, AI Engineer Code Summit 2026 brings togeth... youtube.com",
+   "url": "https://nitter.kareem.one/swyx/status/2120567361355042957#m",
+   "ts": 1794417631,
+   "id": "2120567361355042957#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -403,15 +430,6 @@
    "id": "2120190153495027741#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "ai.engineer/associates for new creator associates Link Associate Application | AI Engineer Code Summit 2026 Apply to be an Associate at AI Engineer Code Summit 2026. Help our team run the event for a few shifts and receive full access to the conference. ai.engineer",
-   "url": "https://nitter.kareem.one/swyx/status/2120187893465718878#m",
-   "ts": 1794327159,
-   "id": "2120187893465718878#m"
-  },
-  {
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
@@ -601,15 +619,6 @@
    "id": "2119945524514328631#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "JUST IN: Memphis Mayor reveals SpaceX data center taxes more than doubled to $54 million, after $25 million last year made it Shelby County’s second largest taxpayer Paul Young was asked about Elon Musk’s claim that data centers have Memphis booming: Q: “Recently, just speaking on the revenues the data centers are creating for Memphis. Elon Musk recently tweeted that Memphis is 'booming' because of the data centers. He said that hotels and restaurants are full and called, tax revenue in Memphis tremendous right now. Do you just have any thoughts on that?” YOUNG: “Well, we’ve talked a lot about the financial aspects of the project. I think that as we talk about data centers in our city, we want to talk about it in a balanced way. Of course there’s an economic side. We want to make sure that we are articulating what protections and guardrails we’re putting in place for the environmental sides that, people are concerned about, the quality of life, noise, traffic, all of those aspects.\" \"But, there there is tax revenue. I think this year it was $54,000,000 in taxes that have been generated. And I know last year when they generated about $25,000,000 in tax revenue, it was the second largest tax paying property in Shelby County. I don’t know where $54,000,000 puts it, but it is significant taxes.\" \"And so as we look at, the tax revenue, we also wanna look at how do we ensure that there are proper protections. That’s what this ninety day executive order has been about, and, it’s the",
-   "url": "https://nitter.kareem.one/firesidealpha/status/2119934910723174807#m",
-   "ts": 1794266843,
-   "id": "2119934910723174807#m"
-  },
-  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -653,15 +662,6 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2119895354795511965#m",
    "ts": 1794257412,
    "id": "2119895354795511965#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "I think about these two tweets all the time",
-   "url": "https://nitter.kareem.one/prd_008/status/2119894036316398055#m",
-   "ts": 1794257098,
-   "id": "2119894036316398055#m"
   },
   {
    "handle": "bcherny",
