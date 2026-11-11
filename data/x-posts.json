@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-11T22:26:34Z",
+ "generated_at": "2026-11-11T22:38:19Z",
  "accounts_ok": [
-  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,10 +10,20 @@
  ],
  "errors": [
   "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "Huh, they've changed the recommended prompt to \"You are the owner and long-term maintainer of this codebase, and its design is up to you.\" Brink (@_brinked) FYI they updated the prompt to: You are the owner and long-term maintainer of this codebase, and its design is up to you. — https://nitter.kareem.one/_brinked/status/2120614827878171084#m",
+   "url": "https://nitter.kareem.one/simonw/status/2120644009618215418#m",
+   "ts": 1794435906,
+   "id": "2120644009618215418#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -1481,15 +1490,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2115128326922883517#m",
    "ts": 1793120864,
    "id": "2115128326922883517#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "More notes on Kimi K3.1 - this one is I big deal, first time an open weights (well, soon-to-be open weights) model has competed this credibly with the current frontier simonwillison.net/2026/Oct/2… Link Introducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\". They're also … simonwillison.net",
-   "url": "https://nitter.kareem.one/simonw/status/2113718487529267593#m",
-   "ts": 1792784733,
-   "id": "2113718487529267593#m"
   },
   {
    "handle": "bcherny",
