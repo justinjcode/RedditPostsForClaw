@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-11T20:21:10Z",
+ "generated_at": "2026-11-11T21:01:05Z",
  "accounts_ok": [
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
   "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed",
   "@TheRundownAI: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "100GW in space is roughly equal to 800GW on Earth. Moreover, solar on Earth must be paired with massive batteries to continue powering compute at night and supplemented with combustion or nuclear power during winter. These are not the same at all.",
+   "url": "https://nitter.kareem.one/elonmusk/status/2120613240707420280#m",
+   "ts": 1794428570,
+   "id": "2120613240707420280#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -563,15 +572,6 @@
    "url": "https://nitter.kareem.one/ZilanQian/status/2120108077005390090#m",
    "ts": 1794308129,
    "id": "2120108077005390090#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon Musk just revealed a massive update on Grok 4.8, and SpaceXSI has completely rebuilt its reinforcement learning and inference infrastructure from scratch The engineering team has abandoned JAX and SGLang, rewriting the entire RL and inference stack in C/C++ Here’s where Grok 4.8 stands: • Pre-training is complete • Major cleanup of supervised fine-tuning data • Reinforcement learning now underway • Evaluation scores are starting to climb • Soft rollout to Grok Bot users planned for later this week And Elon also gave another imp update about Grok 4.8: “Grok 4.8 will bear no resemblance to 4.7 (thankfully)” He also explained why the development took longer than expected: “It is not yet incredible, but, this time, the foundations are built right, so I expect it to evolve to be something special” This is a fundamental engineering overhaul, not just another model upgrade SpaceXSI has rewritten the underlying infrastructure to build a much stronger foundation for Grok’s future development. And the first Grok Bot users are expected to get their hands on it this week Elon Musk (@elonmusk) We have dumped JAX/SGLang and rewritten the entire RL and inference stack from scratch in C/C++, which took some extra time. Training (aka pre-training) is done. Lot of cleanup was needed on the SFT data to get that mostly right. Now, 4.8 is in RL and the evals are starting to climb. We will do a soft rollout to Bot users later this week and see how it goes. Grok 4.8 will bear no resemblance to",
-   "url": "https://nitter.kareem.one/XFreeze/status/2120094479797686513#m",
-   "ts": 1794304888,
-   "id": "2120094479797686513#m"
   },
   {
    "handle": "ZichenWanghere",
