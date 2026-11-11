@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-11T08:56:57Z",
+ "generated_at": "2026-11-11T09:10:35Z",
  "accounts_ok": [
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +10,8 @@
  ],
  "errors": [
   "@swyx: all instances failed",
-  "@Lingling_Wei: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -358,6 +358,15 @@
    "id": "2120187167901372559#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "It seems wrong that ideology and idiot are unrelated words. They’re so perfect together.",
+   "url": "https://nitter.kareem.one/jamesdouma/status/2120181992574918849#m",
+   "ts": 1794325752,
+   "id": "2120181992574918849#m"
+  },
+  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -556,15 +565,6 @@
    "id": "2119928187270332723#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Most people assume SpaceX began because Elon Musk wanted to build rockets, but the original idea was smaller. Around 2001 he looked for the date of NASA's Mars mission, discovered there were no plans to send people at all, and came up with Mars Oasis, a little greenhouse with seeds in dehydrated gel that would land on Mars and send back an image of green plants against red soil, just to get people excited about space again and help NASA get a bigger budget. Then he realized the real obstacle was the cost of rockets: \"I was wrong… there actually was plenty of will if people thought there was a way. So then I decided, okay, well, I need to work on the way.\" SpaceX was born to serve the dream of exploration, not to compete with it 🩵 Video",
-   "url": "https://nitter.kareem.one/EvaFox/status/2119916944245629157#m",
-   "ts": 1794262560,
-   "id": "2119916944245629157#m"
-  },
-  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -644,15 +644,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2119861584743018538#m",
    "ts": 1794249361,
    "id": "2119861584743018538#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "UK judge gives Russel Brand 10 years 6 months for “rape”. No forensic evidence. No DNA. No CCTV. Same country and system: Gave Hadush Gerberslasie Kebatu 12 months in prison for offences including sexual assault of a 14-year-old girl, sexual assault of an adult woman, attempted sexual assault, inciting a child to engage in sexual activity and harassment.",
-   "url": "https://nitter.kareem.one/TheJadeWarwick/status/2119850292166476238#m",
-   "ts": 1794246669,
-   "id": "2119850292166476238#m"
   },
   {
    "handle": "elonmusk",
@@ -1589,6 +1580,15 @@
    "url": "https://nitter.kareem.one/bunjavascript/status/2110692261508079721#m",
    "ts": 1792063224,
    "id": "2110692261508079721#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Elon Musk has a track record of calling hard problems early. In a February 2026 interview, he warned: “Those who have lived in software land don’t realize they’re about to have a hard lesson in hardware.” By late August, SpaceX confirmed it was bringing the casting of gas-turbine blades and vanes in-house — the single biggest bottleneck for new natural-gas power plants needed to feed AI data centers. Musk said the move could bring turbines online up to 18 months faster. Today he put it even more bluntly: SpaceX has “a super cracked team that is outperforming the rest of the world by an order of magnitude in mass to orbit — and even we find it very difficult.” Hardware doesn’t care about demos, funding rounds, or slide decks. The teams that actually build the hard stuff keep winning. What a legend. Video Elon Musk (@elonmusk) It’s not that supercomputer data centers are not in high demand, as they definitely are. However, getting money to build complex hardware systems with massive power, cooling & networking is not the same as doing it. SpaceX has a super cracked team that is outperforming the rest of the world by an order of magnitude in mass to orbit and even we find it very difficult! — https://nitter.kareem.one/elonmusk/status/2110122281603326170#m",
+   "url": "https://nitter.kareem.one/Dogetothemoon/status/2110140249141821578#m",
+   "ts": 1791931614,
+   "id": "2110140249141821578#m"
   },
   {
    "handle": "bcherny",
