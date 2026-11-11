@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T02:22:31Z",
+ "generated_at": "2026-11-11T02:29:17Z",
  "accounts_ok": [
   "TheRundownAI",
   "ZichenWanghere",
@@ -7,10 +7,10 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
   "@Lingling_Wei: all instances failed"
  ],
  "count": 176,
