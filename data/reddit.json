@@ -1,20 +1,62 @@
 {
- "generated_at": "2026-11-11T18:10:16Z",
+ "generated_at": "2026-11-11T20:09:29Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
-  "programming"
+  "programming",
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Replicate UGOS",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xtrsgi/replicate_ugos/",
+   "ts": 1794426782,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "eMudhra's official incident report on how they ended up with private key 4",
+   "url": "https://www.reddit.com/r/programming/comments/1xtrm8s/emudhras_official_incident_report_on_how_they/",
+   "ts": 1794426376,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "OS Choice",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xtrd8t/os_choice/",
+   "ts": 1794425806,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "I'm releasing a Local World Model Ive been building that turns images into interactive videos you control in real time. It works on RTX 3060, 4060 and anything above, linking huggingface",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtpc2v/im_releasing_a_local_world_model_ive_been/",
+   "ts": 1794421257,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Microsoft files a patent application to train AI models on idle consumer GPUs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtowe4/microsoft_files_a_patent_application_to_train_ai/",
+   "ts": 1794420304,
+   "source": "Reddit"
+  },
   {
    "subreddit": "MachineLearning",
    "title": "AI ‘slop’ is a social judgement [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xtour7/ai_slop_is_a_social_judgement_r/",
    "ts": 1794420198,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Media Server Dashboard v2",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xto5xz/media_server_dashboard_v2/",
+   "ts": 1794418701,
    "source": "Reddit"
   },
   {
@@ -81,6 +123,20 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "selfhosted",
+   "title": "How do I get Cloudflare tunnels to work with OpenLiteSpeed",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xtlygl/how_do_i_get_cloudflare_tunnels_to_work_with/",
+   "ts": 1794413873,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Need OS recommendations",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xtkr5f/need_os_recommendations/",
+   "ts": 1794411151,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "programming",
    "title": "Can someone help me with java Junit",
    "url": "https://www.reddit.com/r/programming/comments/1xtk21c/can_someone_help_me_with_java_junit/",
@@ -103,6 +159,20 @@
   },
   {
    "subreddit": "selfhosted",
+   "title": "Praise for goHardDrive warranty service",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xtj3k7/praise_for_goharddrive_warranty_service/",
+   "ts": 1794407194,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Budibase 4.0 - Build Agents, Apps, & Automations on your own infrastructure",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xtiw5v/budibase_40_build_agents_apps_automations_on_your/",
+   "ts": 1794406682,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
    "title": "Updates to Jellify - a FOSS music player for Jellyfin",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xtia4n/updates_to_jellify_a_foss_music_player_for/",
    "ts": 1794405165,
@@ -116,24 +186,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "some vpn for my selfhosted minecraft server because my router broke",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xthgnz/some_vpn_for_my_selfhosted_minecraft_server/",
-   "ts": 1794402943,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Mod ttkciar is harassing this sub",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xthew3/mod_ttkciar_is_harassing_this_sub/",
    "ts": 1794402812,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Need help with IBM BladeCenter H, Advanced Management Module (AMM)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xtgs3b/need_help_with_ibm_bladecenter_h_advanced/",
-   "ts": 1794400971,
    "source": "Reddit"
   },
   {
@@ -144,24 +200,17 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Why We Shouldn't Trust Clocks in Distributed Systems",
-   "url": "https://www.reddit.com/r/programming/comments/1xtfqog/why_we_shouldnt_trust_clocks_in_distributed/",
-   "ts": 1794397705,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Rewindarr: a self-hosted Spotify Wrapped style recap for Plex and Jellyfin",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xtfi4f/rewindarr_a_selfhosted_spotify_wrapped_style/",
-   "ts": 1794396881,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Can we talk about the ML research coming from China? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xteym8/can_we_talk_about_the_ml_research_coming_from/",
    "ts": 1794394958,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Do you use your own CA / self-signed certificates for your self-hosted services?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xteqse/do_you_use_your_own_ca_selfsigned_certificates/",
+   "ts": 1794394185,
    "source": "Reddit"
   },
   {
@@ -180,13 +229,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Looking for alternatives to hetzner storage boxes for backups.",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xtcc4m/looking_for_alternatives_to_hetzner_storage_boxes/",
-   "ts": 1794384958,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "DockTail 1.8: Tailscale Services for your Docker containers, now with custom paths, multiple services per container and no host ports needed",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xtbx7a/docktail_18_tailscale_services_for_your_docker/",
    "ts": 1794383449,
@@ -197,13 +239,6 @@
    "title": "What a self-hosted dashboard looks like on 31.5 inches of colour e-ink",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xtaf06/what_a_selfhosted_dashboard_looks_like_on_315/",
    "ts": 1794377923,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "llama.cpp: Add FP8 KV-cache",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt9o3t/llamacpp_add_fp8_kvcache/",
-   "ts": 1794375379,
    "source": "Reddit"
   },
   {
@@ -228,24 +263,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "[GLB-3D-Coder] I tried making a 1.7B version for Godot",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt6rc7/glb3dcoder_i_tried_making_a_17b_version_for_godot/",
-   "ts": 1794366189,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Why are Anthropic's top researchers cited twice as much as OpenAI's? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xt5xld/why_are_anthropics_top_researchers_cited_twice_as/",
    "ts": 1794363774,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Mär: one free, open source iOS player for your self-hosted audiobooks, podcasts, music and radio",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xt2eyz/mär_one_free_open_source_ios_player_for_your/",
-   "ts": 1794354101,
    "source": "Reddit"
   },
   {
@@ -284,13 +305,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Announcing Linkwarden 2.17 - open-source collaborative bookmark manager to collect, read, annotate, and fully preserve what matters (+20k GitHub stars)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xsuicw/announcing_linkwarden_217_opensource/",
-   "ts": 1794335095,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Announcing .NET 11",
    "url": "https://www.reddit.com/r/programming/comments/1xstxzv/announcing_net_11/",
@@ -302,13 +316,6 @@
    "title": "I benchmarked TimesFM 3.0, Chronos-2 and Toto 2.0 on market time series. None beat simple baseline. [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xsqztt/i_benchmarked_timesfm_30_chronos2_and_toto_20_on/",
    "ts": 1794327256,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Container Onion Service: a rootless container that proxies a website as a hidden service on the Tor network (AGPLv3)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xsqg8g/container_onion_service_a_rootless_container_that/",
-   "ts": 1794326032,
    "source": "Reddit"
   },
   {
@@ -337,13 +344,6 @@
    "title": "A faster way to calculate the date of Easter",
    "url": "https://www.reddit.com/r/programming/comments/1xsiojn/a_faster_way_to_calculate_the_date_of_easter/",
    "ts": 1794303402,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Anchor Notes: a self-hosted Google Keep alternative, now with a full redesign, highlights and a slash menu",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xsf0kh/anchor_notes_a_selfhosted_google_keep_alternative/",
-   "ts": 1794289512,
    "source": "Reddit"
   },
   {
