@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-11T08:25:22Z",
+ "generated_at": "2026-11-11T08:37:45Z",
  "accounts_ok": [
-  "ZichenWanghere",
+  "Lingling_Wei",
+  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "swyx",
+  "simonw",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@swyx: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Portable, lightning-fast Internet that works anywhere on Earth where Starlink is legal! Starlink (@Starlink) Introducing Mini 2, the next-generation portable Starlink. Get up to 4.5 hours of connectivity on a single charge with the quick-swap battery, or plug in with USB-C. With built-in Wi-Fi, all you need is a clear view of the sky to get online in 60 seconds. Preorders are now open by invitation in the US. Be the first to know when it's available → starlink.com/mini-2 Video — https://nitter.kareem.one/Starlink/status/2120206875581186293#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2120432718639145404#m",
+   "ts": 1794385530,
+   "id": "2120432718639145404#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -644,15 +653,6 @@
    "url": "https://nitter.kareem.one/TheJadeWarwick/status/2119850292166476238#m",
    "ts": 1794246669,
    "id": "2119850292166476238#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Jay Leno just tried @Tesla 's FSD (Supervised) for the first time. The Model Y L pulled over by itself when an ambulance with its sirens on drove by. \"We got it on self-driving mode! I'm not touching anything.\" Jay finally tried FSD! haha (via new episode of Jay Leno's Garage) Video",
-   "url": "https://nitter.kareem.one/SawyerMerritt/status/2119849526760747146#m",
-   "ts": 1794246486,
-   "id": "2119849526760747146#m"
   },
   {
    "handle": "elonmusk",
@@ -1474,9 +1474,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
