@@ -1,19 +1,29 @@
 {
- "generated_at": "2026-11-11T10:44:50Z",
+ "generated_at": "2026-11-11T10:58:22Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@simonw: all instances failed",
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "inv.kareem.one/watch?v=ZZ19zhYn… Link AI Engineer Code Summit 2026 — Day 1 | November 11 Live from San Francisco, AI Engineer Code Summit 2026 brings togeth... youtube.com",
+   "url": "https://nitter.kareem.one/swyx/status/2120466878812536971#m",
+   "ts": 1794393674,
+   "id": "2120466878812536971#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -346,15 +356,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2120187893465718878#m",
    "ts": 1794327159,
    "id": "2120187893465718878#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "last call for creator associates covering/livetweeting aie code! also if you’re here - the talks and workshops start in an hour! see aie.sc for the schedule (im in my domainmaxxing era) Video swyx @aiDotEngineer CODE (@swyx) ok i was signed in to wrong account to tweet this but yes - if you're looking to get a start with technical writing/speaking/tweeting/blogging, the new Creator associate program is made for you... ... just like I got started in my own technical writing journey 10 years ago. — https://nitter.kareem.one/swyx/status/2119870982609608810#m",
-   "url": "https://nitter.kareem.one/swyx/status/2120187167901372559#m",
-   "ts": 1794326986,
-   "id": "2120187167901372559#m"
   },
   {
    "handle": "elonmusk",
