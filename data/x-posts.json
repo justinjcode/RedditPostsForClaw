@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-11T16:56:32Z",
+ "generated_at": "2026-11-11T17:11:16Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
+  "@ZichenWanghere: all instances failed",
   "@TheRundownAI: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "livestream starting now!! Video Video AI.Engineer @ CODE (@aiDotEngineer) The Code Summit livestream starts in 30 minutes. @nserrino ( @gimletlabs ) on 10x faster AI. @lydiahallie ( @AnthropicAI ) on Claude Code best practices. 9 AM PT. Watch free: inv.kareem.one/live/ZZ19zhYnDKY Presented by @GoogleDeepMind . — https://nitter.kareem.one/aiDotEngineer/status/2120554645781463093#m",
+   "url": "https://nitter.kareem.one/swyx/status/2120562425015791625#m",
+   "ts": 1794416454,
+   "id": "2120562425015791625#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -671,15 +680,6 @@
    "url": "https://nitter.kareem.one/JTLonsdale/status/2119844488298234326#m",
    "ts": 1794245285,
    "id": "2119844488298234326#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "I am grateful to @swyx , @SydneyScouts , @vibhusapra , and the rest of the @aiDotEngineer + @latentspacepod crew for giving me the chance to share my thoughts at the recent AIE New York conference: Link to the full presetation below: inv.kareem.one/watch?v=AYFcmnQr… Link AI Agents Will Upend Investing Even More Than Coding - Frank Long,... Frank Long of Coatue, a technology investment firm across public an... youtube.com",
-   "url": "https://nitter.kareem.one/fyxlong/status/2119841965206655021#m",
-   "ts": 1794244683,
-   "id": "2119841965206655021#m"
   },
   {
    "handle": "TheRundownAI",
