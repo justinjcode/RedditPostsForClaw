@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-11T00:46:17Z",
+ "generated_at": "2026-11-11T00:56:33Z",
  "accounts_ok": [
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
-  "@swyx: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 176,
  "items": [
@@ -32,6 +32,15 @@
    "url": "https://nitter.kareem.one/rowancheung/status/2120299193868615981#m",
    "ts": 1794353695,
    "id": "2120299193868615981#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Thanks for everyone that showed up to my talk and sorry for the 170 slides 😂 Oana Olteanu (@oanaolt) AI is like working on shifting sands with a bottleneck that moves @TheAhmadOsman — https://nitter.kareem.one/oanaolt/status/2120246100800291261#m",
+   "url": "https://nitter.kareem.one/TheAhmadOsman/status/2120269968101290208#m",
+   "ts": 1794346727,
+   "id": "2120269968101290208#m"
   },
   {
    "handle": "thsottiaux",
@@ -88,15 +97,6 @@
    "id": "2120259268364718331#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "prediction: tech jesus in 10,000 years Bhandafod (@Bhandafod_) I have one question… actually, a LOT of questions. 😭 — https://nitter.kareem.one/Bhandafod_/status/2120108545047658856#m",
-   "url": "https://nitter.kareem.one/swyx/status/2120259002324140192#m",
-   "ts": 1794344113,
-   "id": "2120259002324140192#m"
-  },
-  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -140,6 +140,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2120224576663896305#m",
    "ts": 1794335905,
    "id": "2120224576663896305#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "giving a talk at @aiDotEngineer in a few hours on my current favorite subject: proactive agents! blog/slides coming soon 🤓",
+   "url": "https://nitter.kareem.one/sydneyrunkle/status/2120221842799730981#m",
+   "ts": 1794335253,
+   "id": "2120221842799730981#m"
   },
   {
    "handle": "swyx",
@@ -617,15 +626,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2119841916376281432#m",
    "ts": 1794244672,
    "id": "2119841916376281432#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "excited to be speaking at @aiDotEngineer this wednesday at 10:10am PT! i will be talking about how the grok @bot team shipped 11,000 PRs last month without compromising on code quality hope to see you there: ai.engineer/code/2026/schedu… AI.Engineer @ CODE (@aiDotEngineer) First AIE Code Summit speakers: @poteto , Principal Engineer @ SpaceX @steve_yegge , Engineer, Writer, Advisor @zachbruggeman , Principal Software Engineer @ Ramp Nov 10-12, SF. Come hang out with us. Apply at ai.engineer/code — https://nitter.kareem.one/aiDotEngineer/status/2112276851355693315#m",
-   "url": "https://nitter.kareem.one/poteto/status/2119841446308221152#m",
-   "ts": 1794244560,
-   "id": "2119841446308221152#m"
   },
   {
    "handle": "swyx",
