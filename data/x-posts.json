@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-11T18:56:49Z",
+ "generated_at": "2026-11-11T19:08:08Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +10,29 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Person for scale",
+   "url": "https://nitter.kareem.one/elonmusk/status/2120591950961353125#m",
+   "ts": 1794423494,
+   "id": "2120591950961353125#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starship Super Heavy rocket booster moved to launch pad SpaceX (@SpaceX) Super Heavy moved to the launch pad at Starbase. Booster 22 is the first Super Heavy V3 booster planned to return to the launch site for catch and was used for final catch testing upon arrival, including a suspended squeeze test at catch height — https://nitter.kareem.one/SpaceX/status/2120220290219208884#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2120590521253126183#m",
+   "ts": 1794423153,
+   "id": "2120590521253126183#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -544,24 +563,6 @@
    "url": "https://nitter.kareem.one/ZilanQian/status/2120108077005390090#m",
    "ts": 1794308129,
    "id": "2120108077005390090#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Turns out that the Starlink software, built for managing the movement of vast amounts of data through space and to the ground, is also very well suited to training super intelligence",
-   "url": "https://nitter.kareem.one/elonmusk/status/2120102767624880364#m",
-   "ts": 1794306864,
-   "id": "2120102767624880364#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon Musk just revealed something huge about Grok's new SI training and inference infrastructure The engineering behind Starlink is now helping power the development of Grok SpaceXSI has completely rewritten Grok's reinforcement learning and inference software from scratch, replacing JAX and SGLang with its own system built primarily in C, with a little C++ And the most important part is where this engineering expertise comes from The new stack is built on the incredible work of the engineers who created Starlink's incredibly complex satellite network Elon explained: \"At SpaceX, we write our own headers and calculate our own time (includes leap seconds). Not many people will know what this means, but those that do will appreciate it.\" Here's why that's significant SpaceX engineers build and control critical parts of their software themselves, even down to the code interfaces and precise time calculations needed for satellite operations This gives them much tighter control over how their systems operate, reducing unnecessary software dependencies and allowing them to optimize performance and reliability Now that same engineering philosophy is being applied to Grok Elon Musk (@elonmusk) At SpaceX, we write our own headers and calculate our own time (includes leap seconds). Not many people will know what this means, but those that do will appreciate it. The new Grok AI/SI training and inference stack is derived from incredible of work done by amazing engineers to create Starlink",
-   "url": "https://nitter.kareem.one/XFreeze/status/2120101086988222653#m",
-   "ts": 1794306463,
-   "id": "2120101086988222653#m"
   },
   {
    "handle": "elonmusk",
@@ -1464,9 +1465,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
