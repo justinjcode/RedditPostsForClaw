@@ -1,15 +1,92 @@
 {
- "generated_at": "2026-11-11T06:14:30Z",
+ "generated_at": "2026-11-11T10:09:24Z",
  "count": 60,
  "subreddits_ok": [
+  "LocalLLaMA",
   "MachineLearning",
-  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "NVIDIA reportedly cancels GeForce RTX 5080 24GB launch, brings back 16GB model over GDDR7 costs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtdwps/nvidia_reportedly_cancels_geforce_rtx_5080_24gb/",
+   "ts": 1794391130,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Seeking Research Collaborators and Funding: Investigating Biological Intelligence and Neural Computing [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xtct76/seeking_research_collaborators_and_funding/",
+   "ts": 1794386767,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Qwen4-Max Preview is out on API access. No word on weights release yet",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtcrgm/qwen4max_preview_is_out_on_api_access_no_word_on/",
+   "ts": 1794386578,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "qwen4-max-preview on qwencloud",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtckm8/qwen4maxpreview_on_qwencloud/",
+   "ts": 1794385834,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Looking for alternatives to hetzner storage boxes for backups.",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xtcc4m/looking_for_alternatives_to_hetzner_storage_boxes/",
+   "ts": 1794384958,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "DockTail 1.8: Tailscale Services for your Docker containers, now with custom paths, multiple services per container and no host ports needed",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xtbx7a/docktail_18_tailscale_services_for_your_docker/",
+   "ts": 1794383449,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Zyphra/ZONOS3-Mini · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtb9gw/zyphrazonos3mini_hugging_face/",
+   "ts": 1794380996,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "What a self-hosted dashboard looks like on 31.5 inches of colour e-ink",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xtaf06/what_a_selfhosted_dashboard_looks_like_on_315/",
+   "ts": 1794377923,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "llama.cpp: Add FP8 KV-cache",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt9o3t/llamacpp_add_fp8_kvcache/",
+   "ts": 1794375379,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Would you pick your strongest model to coordinate other agents? Results from WorkflowArena [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xt9hbe/would_you_pick_your_strongest_model_to_coordinate/",
+   "ts": 1794374743,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Microsoft Research backdoored an AI agent by directly editing fewer than 10 dormant neurons",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt82mz/microsoft_research_backdoored_an_ai_agent_by/",
+   "ts": 1794370184,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "Regressive JPEGs",
@@ -32,24 +109,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "How to check if your server uses post-quantum TLS, and enable it on nginx (needs OpenSSL 3.5)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xt5zdk/how_to_check_if_your_server_uses_postquantum_tls/",
-   "ts": 1794363915,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Qwen4 Is Coming — Preview Now Live on Alibaba Token Plan",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt5q27/qwen4_is_coming_preview_now_live_on_alibaba_token/",
-   "ts": 1794363189,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "I built a free app that turns EPUB and PDF books into audiobooks on your own computer locally with State of the art tiny TTS models",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt4bnl/i_built_a_free_app_that_turns_epub_and_pdf_books/",
-   "ts": 1794359160,
+   "subreddit": "MachineLearning",
+   "title": "Why are Anthropic's top researchers cited twice as much as OpenAI's? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xt5xld/why_are_anthropics_top_researchers_cited_twice_as/",
+   "ts": 1794363774,
    "source": "Reddit"
   },
   {
@@ -78,13 +141,6 @@
    "title": "What tasks have you moved from cloud models to local models?",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt0ah5/what_tasks_have_you_moved_from_cloud_models_to/",
    "ts": 1794348625,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "We got custom inference per model per hardware now. How long before we get custom hardware for model?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt059z/we_got_custom_inference_per_model_per_hardware/",
-   "ts": 1794348268,
    "source": "Reddit"
   },
   {
@@ -151,6 +207,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "selfhosted",
+   "title": "Announcing Linkwarden 2.17 - open-source collaborative bookmark manager to collect, read, annotate, and fully preserve what matters (+20k GitHub stars)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xsuicw/announcing_linkwarden_217_opensource/",
+   "ts": 1794335095,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "programming",
    "title": "Announcing .NET 11",
    "url": "https://www.reddit.com/r/programming/comments/1xstxzv/announcing_net_11/",
@@ -179,13 +242,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "trying to get our family photos off the phones and off icloud, open source stuff that seems to cover most of it",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xspo33/trying_to_get_our_family_photos_off_the_phones/",
-   "ts": 1794324222,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "MiniMaxAI/MiniMax-H3-Image · Hugging Face",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsp3xt/minimaxaiminimaxh3image_hugging_face/",
@@ -194,23 +250,9 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "We tested Qwen3.6 27B, Qwen3.8 27B and GLM-5.3 Flash on real tasks in Elixir, OCaml, Haskell and 10 other less common languages",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsorsx/we_tested_qwen36_27b_qwen38_27b_and_glm53_flash/",
-   "ts": 1794322105,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "MiniMax H3-Image Released, an Open-Weight Image Model built on H3",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xso1ie/minimax_h3image_released_an_openweight_image/",
    "ts": 1794320288,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "I finally did an Immich restore drill. Here's the short checklist I'll actually follow next time",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xsntxt/i_finally_did_an_immich_restore_drill_heres_the/",
-   "ts": 1794319759,
    "source": "Reddit"
   },
   {
@@ -235,13 +277,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Strata after heavy optimizations",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsl8w7/strata_after_heavy_optimizations/",
-   "ts": 1794312492,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Let Over Lambda book is now free to read online",
    "url": "https://www.reddit.com/r/programming/comments/1xskt8m/let_over_lambda_book_is_now_free_to_read_online/",
@@ -257,13 +292,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "Decision model to edit LLM weight directly - No training",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xski9d/decision_model_to_edit_llm_weight_directly_no/",
-   "ts": 1794310064,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "Fable 5.2 not only has guardrails against AI acceleration, its capabilities were capped in training too",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsjfwo/fable_52_not_only_has_guardrails_against_ai/",
    "ts": 1794306232,
@@ -274,13 +302,6 @@
    "title": "A faster way to calculate the date of Easter",
    "url": "https://www.reddit.com/r/programming/comments/1xsiojn/a_faster_way_to_calculate_the_date_of_easter/",
    "ts": 1794303402,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Whats the best iphone app for ssh server monitoring",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xsgdz7/whats_the_best_iphone_app_for_ssh_server/",
-   "ts": 1794294433,
    "source": "Reddit"
   },
   {
@@ -313,13 +334,6 @@
   },
   {
    "subreddit": "MachineLearning",
-   "title": "Has Anyone Here Ever Built An Image Generator From Scratch? [N]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xs78e3/has_anyone_here_ever_built_an_image_generator/",
-   "ts": 1794266636,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
    "title": "Forecasting new power outages per county, hourly, 2 h ahead: 2.4× the PR-AUC of NWS warnings + SPC outlook on a held-out year [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xs4hq8/forecasting_new_power_outages_per_county_hourly_2/",
    "ts": 1794260078,
@@ -330,13 +344,6 @@
    "title": "Latent prediction beats reconstruction for tactile pretraining on dexterous manipulation tasks[R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xs05uo/latent_prediction_beats_reconstruction_for/",
    "ts": 1794250325,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Facing file Extraction problem during Bayesian Optimization[P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xrzzfu/facing_file_extraction_problem_during_bayesian/",
-   "ts": 1794249928,
    "source": "Reddit"
   },
   {
@@ -358,13 +365,6 @@
    "title": "A Matrix Multiplication Algorithm Rooted In Graph Theory",
    "url": "https://www.reddit.com/r/programming/comments/1xrwyq8/a_matrix_multiplication_algorithm_rooted_in_graph/",
    "ts": 1794243333,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "EACL 2027 Decisions Thread [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xrv8mp/eacl_2027_decisions_thread_r/",
-   "ts": 1794239544,
    "source": "Reddit"
   },
   {
