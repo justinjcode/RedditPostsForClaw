@@ -1,27 +1,62 @@
 {
- "generated_at": "2026-11-11T10:09:24Z",
+ "generated_at": "2026-11-11T12:12:28Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Senlo v0.1.0: the lifecycle editor I promised last time, plus any SMTP server and encrypted credentials",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xtfsos/senlo_v010_the_lifecycle_editor_i_promised_last/",
+   "ts": 1794397892,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Why We Shouldn't Trust Clocks in Distributed Systems",
+   "url": "https://www.reddit.com/r/programming/comments/1xtfqog/why_we_shouldnt_trust_clocks_in_distributed/",
+   "ts": 1794397705,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Rewindarr: a self-hosted Spotify Wrapped style recap for Plex and Jellyfin",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xtfi4f/rewindarr_a_selfhosted_spotify_wrapped_style/",
+   "ts": 1794396881,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "*arr stack and Storage in ProxMox",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xtezdi/arr_stack_and_storage_in_proxmox/",
+   "ts": 1794395023,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Can we talk about the ML research coming from China? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xteym8/can_we_talk_about_the_ml_research_coming_from/",
+   "ts": 1794394958,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Do you use your own CA / self-signed certificates for your self-hosted services?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xteqse/do_you_use_your_own_ca_selfsigned_certificates/",
+   "ts": 1794394185,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "NVIDIA reportedly cancels GeForce RTX 5080 24GB launch, brings back 16GB model over GDDR7 costs",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtdwps/nvidia_reportedly_cancels_geforce_rtx_5080_24gb/",
    "ts": 1794391130,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Seeking Research Collaborators and Funding: Investigating Biological Intelligence and Neural Computing [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xtct76/seeking_research_collaborators_and_funding/",
-   "ts": 1794386767,
    "source": "Reddit"
   },
   {
@@ -130,24 +165,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Can I plug and play a drive with files on it in a new system with zimaos",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xt0wyb/can_i_plug_and_play_a_drive_with_files_on_it_in_a/",
-   "ts": 1794350193,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "What tasks have you moved from cloud models to local models?",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt0ah5/what_tasks_have_you_moved_from_cloud_models_to/",
    "ts": 1794348625,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "My Android TV / Google TV app for Nextcloud photos and videos is now on Google Play!",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xszx3u/my_android_tv_google_tv_app_for_nextcloud_photos/",
-   "ts": 1794347702,
    "source": "Reddit"
   },
   {
@@ -183,13 +204,6 @@
    "title": "A Chromium Bug Caused by a 25-Hour Day",
    "url": "https://www.reddit.com/r/programming/comments/1xsvulu/a_chromium_bug_caused_by_a_25hour_day/",
    "ts": 1794338119,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "\"Smart\" TV Backlight - self hosted fix?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xsv5sr/smart_tv_backlight_self_hosted_fix/",
-   "ts": 1794336554,
    "source": "Reddit"
   },
   {
@@ -253,13 +267,6 @@
    "title": "MiniMax H3-Image Released, an Open-Weight Image Model built on H3",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xso1ie/minimax_h3image_released_an_openweight_image/",
    "ts": 1794320288,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "PhotoPrism: How to getting phone photos onto the NAS?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xsn3ki/photoprism_how_to_getting_phone_photos_onto_the/",
-   "ts": 1794317846,
    "source": "Reddit"
   },
   {
@@ -393,13 +400,6 @@
    "title": "Amazon applied science intern interview next week - EU based [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xrkiaw/amazon_applied_science_intern_interview_next_week/",
    "ts": 1794205894,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "C64 Demo Effect Explained: The Bumpmapped Rain in Lunatico",
-   "url": "https://www.reddit.com/r/programming/comments/1xrbciy/c64_demo_effect_explained_the_bumpmapped_rain_in/",
-   "ts": 1794177785,
    "source": "Reddit"
   },
   {
