@@ -1,20 +1,38 @@
 {
- "generated_at": "2026-11-11T22:18:43Z",
+ "generated_at": "2026-11-11T22:26:34Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
+  "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "this person is a real former employee that we parted ways with that email domain is not one we use claire vo 🖤 (@clairevo) TIL you can report phishing directly from gmail using the three dot menu warning to other fans of @swyx this email account is trying to fake-book folks on podcasts, likely as a scheduling-link phishing scam. ty friend for fielding my \"this looks sus\" text 😎 — https://nitter.kareem.one/clairevo/status/2120593057037074840#m",
+   "url": "https://nitter.kareem.one/swyx/status/2120640864787841513#m",
+   "ts": 1794435156,
+   "id": "2120640864787841513#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "next on stream - @CompleteSkeptic and @typesafeai take over for Jev Day! swyx @aiDotEngineer CODE (@swyx) standing room only for @poteto ’s keynote — https://nitter.kareem.one/swyx/status/2120582147107078356#m",
+   "url": "https://nitter.kareem.one/swyx/status/2120640558184206508#m",
+   "ts": 1794435083,
+   "id": "2120640558184206508#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -430,15 +448,6 @@
    "id": "2120258951594037732#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "🆕 Designing for Agents Agent Experience is one of the most hotly contested topics of 2026, and increasingly critical for devtools/infra companies to get right. @ZenoRocha has been writing and thinking about this since 2024 and came on the pod to spill @Resend secrets! inv.kareem.one/bdIoODXsu8k Key themes include: - Answer Engine Optimization (AEO): how AI models like Claude Code recommend email services and how product teams can design for these agents - Deliverability and Trust: The discussion delves into the complexities of getting mail into the inbox, including handling bursts, managing Gmail throttling, and the importance of domain reputation and anti-abuse measures - Developer Experience & MCP: A major focus is on building for both humans and machines. Resend utilizes the Model Context Protocol (MCP) to provide agents with over 80 named tools, allowing them to autonomously set up accounts, check pricing in Markdown, and send emails - Technical Infrastructure: React Email as a wedge for adoption and but Resend's commitment to owning the mail stack, including managing complex DNS hurdles and providing enterprise-level visibility Link Designing for Agents — Zeno Rocha, Resend A coding agent opens a pull request and picks an email provider for... youtube.com",
-   "url": "https://nitter.kareem.one/latentspacepod/status/2120251400831816068#m",
-   "ts": 1794342300,
-   "id": "2120251400831816068#m"
-  },
-  {
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
@@ -464,15 +473,6 @@
    "url": "https://nitter.kareem.one/sydneyrunkle/status/2120221842799730981#m",
    "ts": 1794335253,
    "id": "2120221842799730981#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "packed house for @ross_cefalu ‘s walk through of my favorite new @factory feature - Workstreams - letting an orchestrator manage a swarm of agents + scheduled automations and integrations to do massive, long horizon stuff (Also cool - workstreams is the product substrate we’re landing a ton of cool ideas from @humanlayer_dev into in the next few weeks, and it’s crazy how accidentally aligned me and @0xblacklight were with @EnoReyes and @matanSF )",
-   "url": "https://nitter.kareem.one/dexhorthy/status/2120220674543476800#m",
-   "ts": 1794334975,
-   "id": "2120220674543476800#m"
   },
   {
    "handle": "elonmusk",
@@ -1465,9 +1465,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
