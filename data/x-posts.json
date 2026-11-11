@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-10T23:54:52Z",
+ "generated_at": "2026-11-11T00:17:17Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 176,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "SpaceX has ordered 100 GW/year of HJT solar manufacturing equipment from Singulus in Germany. This is for Starmind to create a sentient sun. SpaceX (@SpaceX) We have signed a major supply contract with SINGULUS to create a durable option for advanced solar cell manufacturing to support more than 100 GW of equipment as we accelerate the production of our Starmind satellites in Bastrop, Texas → singulus.com/2026/11/10/spac… Link SINGULUS TECHNOLOGIES Announces Major Supply Contract with SpaceX for Advanced HJT Solar Cell... SINGULUS TECHNOLOGIES to deliver a turnkey heterojunction solar cell production line to SpaceX. First line due in H1 2027, more lines planned. singulus.com — https://nitter.kareem.one/SpaceX/status/2120231065394590007#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2120302471210033426#m",
+   "ts": 1794354477,
+   "id": "2120302471210033426#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -544,15 +554,6 @@
    "url": "https://nitter.kareem.one/bcherny/status/2119873095129550880#m",
    "ts": 1794252105,
    "id": "2119873095129550880#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "We've reset weekly limits for all Grok Bot users. Enjoy!",
-   "url": "https://nitter.kareem.one/bot/status/2119871982946971659#m",
-   "ts": 1794251840,
-   "id": "2119871982946971659#m"
   },
   {
    "handle": "swyx",
