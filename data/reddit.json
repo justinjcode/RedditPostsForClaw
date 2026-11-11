@@ -1,15 +1,64 @@
 {
- "generated_at": "2026-11-10T22:09:21Z",
+ "generated_at": "2026-11-11T00:20:34Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
-  "programming"
+  "programming",
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Spot-Bomb: a free, self-hosted Discord music bot with no premium tier",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xt2zg3/spotbomb_a_free_selfhosted_discord_music_bot_with/",
+   "ts": 1794355533,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Mär: one free, open source iOS player for your self-hosted audiobooks, podcasts, music and radio",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xt2eyz/mär_one_free_open_source_ios_player_for_your/",
+   "ts": 1794354101,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "SSHBorg: SSH/SFTP client for Android and iOS.. and now speaks mosh. GPL-3.0, no account, no telemetry",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xt240p/sshborg_sshsftp_client_for_android_and_ios_and/",
+   "ts": 1794353294,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Can I plug and play a drive with files on it in a new system with zimaos",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xt0wyb/can_i_plug_and_play_a_drive_with_files_on_it_in_a/",
+   "ts": 1794350193,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "What tasks have you moved from cloud models to local models?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt0ah5/what_tasks_have_you_moved_from_cloud_models_to/",
+   "ts": 1794348625,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "We got custom inference per model per hardware now. How long before we get custom hardware for model?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt059z/we_got_custom_inference_per_model_per_hardware/",
+   "ts": 1794348268,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "My Android TV / Google TV app for Nextcloud photos and videos is now on Google Play!",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xszx3u/my_android_tv_google_tv_app_for_nextcloud_photos/",
+   "ts": 1794347702,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Apple has new Mac app coming to make running local AI models easy",
@@ -32,10 +81,24 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "selfhosted",
+   "title": "What cannot be self-hosted?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xswfaz/what_cannot_be_selfhosted/",
+   "ts": 1794339455,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "programming",
    "title": "A Chromium Bug Caused by a 25-Hour Day",
    "url": "https://www.reddit.com/r/programming/comments/1xsvulu/a_chromium_bug_caused_by_a_25hour_day/",
    "ts": 1794338119,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "\"Smart\" TV Backlight - self hosted fix?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xsv5sr/smart_tv_backlight_self_hosted_fix/",
+   "ts": 1794336554,
    "source": "Reddit"
   },
   {
@@ -68,13 +131,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "I trained a 348M-active MoE on ~11B tokens. It scores 85.5% vs Qwen2.5-1.5B's 53.3% on shuffled fact chains. GGUF + eval set — please try to break it.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xssj9q/i_trained_a_348mactive_moe_on_11b_tokens_it/",
-   "ts": 1794330680,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "speakleash/Bielik-11B-v3.1-Instruct · Hugging Face",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsrg0l/speakleashbielik11bv31instruct_hugging_face/",
    "ts": 1794328255,
@@ -85,13 +141,6 @@
    "title": "I benchmarked TimesFM 3.0, Chronos-2 and Toto 2.0 on market time series. None beat simple baseline. [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xsqztt/i_benchmarked_timesfm_30_chronos2_and_toto_20_on/",
    "ts": 1794327256,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "TTS bench - 91 open TTS models and 28 paid TTS APIs on the same prompts",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsqv86/tts_bench_91_open_tts_models_and_28_paid_tts_apis/",
-   "ts": 1794326965,
    "source": "Reddit"
   },
   {
@@ -151,13 +200,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Is port forwarding safe for minecraft?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xsmyyn/is_port_forwarding_safe_for_minecraft/",
-   "ts": 1794317504,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Introducing Usul - an easier way to express your NN using maths? [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xsmmfm/introducing_usul_an_easier_way_to_express_your_nn/",
@@ -214,13 +256,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Establishing \"normal\" limits for alerting",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xsj9nc/establishing_normal_limits_for_alerting/",
-   "ts": 1794305601,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "A faster way to calculate the date of Easter",
    "url": "https://www.reddit.com/r/programming/comments/1xsiojn/a_faster_way_to_calculate_the_date_of_easter/",
@@ -232,13 +267,6 @@
    "title": "Whats the best iphone app for ssh server monitoring",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xsgdz7/whats_the_best_iphone_app_for_ssh_server/",
    "ts": 1794294433,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Looking for a reliable self-hosted chat server for a student management app",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xsgc16/looking_for_a_reliable_selfhosted_chat_server_for/",
-   "ts": 1794294233,
    "source": "Reddit"
   },
   {
@@ -277,13 +305,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Migrating from Proton & Google, what should I self-host next?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xs7z7z/migrating_from_proton_google_what_should_i/",
-   "ts": 1794268609,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Has Anyone Here Ever Built An Image Generator From Scratch? [N]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xs78e3/has_anyone_here_ever_built_an_image_generator/",
@@ -319,13 +340,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "What's currently the best Music Discovery system yall are using with Navidrome?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xrzjyr/whats_currently_the_best_music_discovery_system/",
-   "ts": 1794248981,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Twindex: exact, replayable proofs that your data can't tell two parameter sets apart (ODEs, PDEs, PINNs) [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xryhhg/twindex_exact_replayable_proofs_that_your_data/",
@@ -354,24 +368,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Riviamigo - Self hosted Rivian data logging dashboard (new release 2026.11.1)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xrtvw3/riviamigo_self_hosted_rivian_data_logging/",
-   "ts": 1794236462,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "C# 15: Union Types, Closed Hierarchies, and the One Value™ That Isn't Any of Them · cekrem.github.io",
    "url": "https://www.reddit.com/r/programming/comments/1xrrmk7/c_15_union_types_closed_hierarchies_and_the_one/",
    "ts": 1794230836,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Dawarich 1.22.0 — Alternative to Google Timeline, OwnTracks and Life360",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xrourj/dawarich_1220_alternative_to_google_timeline/",
-   "ts": 1794222183,
    "source": "Reddit"
   },
   {
