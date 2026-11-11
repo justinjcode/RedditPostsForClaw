@@ -1,20 +1,37 @@
 {
- "generated_at": "2026-11-11T04:22:17Z",
+ "generated_at": "2026-11-11T04:28:57Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@simonw: all instances failed",
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "i had a preview of his keynote and you guys don’t know what youre in for in thursday. literally had to agree to embargo to get this talk on board (it is not the full story) tune in to the aie live stream 9am-6pm tmr and thursday!! Dmitry Lyalin (@LyalinDotCom) I can't believe so few of you follow Melvin... He's the VP of post training here in Google DeepMind. He's very active internally making things happen, and a wonderful human who listens to everyone. — https://nitter.kareem.one/LyalinDotCom/status/2120227647196467262#m",
+   "url": "https://nitter.kareem.one/swyx/status/2120372817720197357#m",
+   "ts": 1794371249,
+   "id": "2120372817720197357#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Early vibes at AIE are dope! Excited for tomorrow! As always an incredible group of folks, and knuckleheads @aiDotEngineer",
+   "url": "https://nitter.kareem.one/altryne/status/2120352142603243697#m",
+   "ts": 1794366319,
+   "id": "2120352142603243697#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -545,24 +562,6 @@
    "url": "https://nitter.kareem.one/bcherny/status/2119890820186976763#m",
    "ts": 1794256331,
    "id": "2119890820186976763#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "What does it take to push frontier models forward? @latentspacepod 's first deep dive with an AI data company. Our team walked through our own datasets, life sciences, finance and safety, step by step. Worth your time if you care about progress and alignment of AI. Latent.Space (@latentspacepod) 🆕 Our first deep dive with an AI data company! The frontier data space is exploding. @joinHandshake has become one of the leading partners for frontier labs, going from launch to $1B in GMV in ~a year, with @sacrainc estimating net revenue AFTER contractor payouts at about $450M per year. inv.kareem.one/v5IJwVnTxzg What are frontier labs buying at that scale? Who is building the RL environments that build the models that you build with? How hard are evals getting? For the first time in our pod, we're speaking across a company, from cofounders @GarrettLord and @Sbhaiwala03 to leaders of Handshake Labs, Life Sciences, Finance, and Alignment. To cover this required assembling our complete team of Science, Engineering, Research and Finance hosts. For the first time, we walked through the tasks live: 🌸 50:59 · Nick puts nine brain-tissue slides on screen. Can you pick the two with the most advanced vessel necrosis? 🟢 1:25:45 · Collin traces a bad valuation back to one line of Python. The model knows the tax rule when asked. Can it recognize where to apply it? 🟠 2:07:21 · Steve and Nishant follow an agent through the files it read, the copies it checked, and the shell history it cleared. la",
-   "url": "https://nitter.kareem.one/GarrettLord/status/2119880449875161373#m",
-   "ts": 1794253859,
-   "id": "2119880449875161373#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "i'm happy to share some recent work on safely scaling a team of 1,000 Fable 5.2 agent to tackle ambitious, long-horizon work. the team was able to formalize a proof of Fermat's Last Theorem through coordination within our safety boundaries. read it here: claude.dev/blog/safely-scali…",
-   "url": "https://nitter.kareem.one/RLanceMartin/status/2119875041475379681#m",
-   "ts": 1794252569,
-   "id": "2119875041475379681#m"
   },
   {
    "handle": "TheRundownAI",
