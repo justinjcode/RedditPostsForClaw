@@ -1,15 +1,106 @@
 {
- "generated_at": "2026-11-11T14:09:34Z",
+ "generated_at": "2026-11-11T18:10:16Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
-  "selfhosted"
+  "MachineLearning",
+  "programming"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "MachineLearning",
+   "title": "AI ‘slop’ is a social judgement [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xtour7/ai_slop_is_a_social_judgement_r/",
+   "ts": 1794420198,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Open-source method (MACaQ) beats Unsloth GGUFs!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xto0fa/opensource_method_macaq_beats_unsloth_ggufs/",
+   "ts": 1794418360,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Every lab assignment in my course ended the same way: Export your notebook as PDF and upload it. Not self promotion this my first project i made [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xtnjhw/every_lab_assignment_in_my_course_ended_the_same/",
+   "ts": 1794417353,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Google Search's foundational PageRank patent has expired. What will be the impact of this",
+   "url": "https://www.reddit.com/r/programming/comments/1xtmzs5/google_searchs_foundational_pagerank_patent_has/",
+   "ts": 1794416183,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "I made sandboxed development feel like local development",
+   "url": "https://www.reddit.com/r/programming/comments/1xtmw9l/i_made_sandboxed_development_feel_like_local/",
+   "ts": 1794415965,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Open source self driving is here!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtmeif/open_source_self_driving_is_here/",
+   "ts": 1794414878,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Unsloth Dynamic V3.1 released for Qwen3.8-27B, DeepSeek-V4.1-Flash-1017 and Qwen3.8-Flash-Next",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtmcoe/unsloth_dynamic_v31_released_for_qwen3827b/",
+   "ts": 1794414765,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "KRAFTON/Raon-1-nano · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtmbkn/kraftonraon1nano_hugging_face/",
+   "ts": 1794414698,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Go Turns 17 - The Go Programming Language",
+   "url": "https://www.reddit.com/r/programming/comments/1xtm606/go_turns_17_the_go_programming_language/",
+   "ts": 1794414355,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "New Qwen3.8-27B Unsloth Dynamic V3.1 GGUFs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtlyhe/new_qwen3827b_unsloth_dynamic_v31_ggufs/",
+   "ts": 1794413875,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Can someone help me with java Junit",
+   "url": "https://www.reddit.com/r/programming/comments/1xtk21c/can_someone_help_me_with_java_junit/",
+   "ts": 1794409523,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "[Bi-Weekly Megathread] Project Showcase",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtjze2/biweekly_megathread_project_showcase/",
+   "ts": 1794409341,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "NVIDIA GeForce RTX 5080 24 GB Reportedly Cancelled, 16 GB Model Remains",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtju4x/nvidia_geforce_rtx_5080_24_gb_reportedly/",
+   "ts": 1794409005,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Updates to Jellify - a FOSS music player for Jellyfin",
@@ -53,13 +144,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "askmdb: My new project where I fine-tuned Qwen models to build a MongoDB CLI assistant - turn plain-language questions into MongoDB queries",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtfvct/askmdb_my_new_project_where_i_finetuned_qwen/",
-   "ts": 1794398154,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Why We Shouldn't Trust Clocks in Distributed Systems",
    "url": "https://www.reddit.com/r/programming/comments/1xtfqog/why_we_shouldnt_trust_clocks_in_distributed/",
@@ -95,20 +179,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Asked SenseNova-U1.5-8B-MoT how to make a closed terrarium, and it drew a picture for every step",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtdft2/asked_sensenovau158bmot_how_to_make_a_closed/",
-   "ts": 1794389212,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "qwen4-max-preview on qwencloud",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtckm8/qwen4maxpreview_on_qwencloud/",
-   "ts": 1794385834,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Looking for alternatives to hetzner storage boxes for backups.",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xtcc4m/looking_for_alternatives_to_hetzner_storage_boxes/",
@@ -120,13 +190,6 @@
    "title": "DockTail 1.8: Tailscale Services for your Docker containers, now with custom paths, multiple services per container and no host ports needed",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xtbx7a/docktail_18_tailscale_services_for_your_docker/",
    "ts": 1794383449,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Zyphra/ZONOS3-Mini · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtb9gw/zyphrazonos3mini_hugging_face/",
-   "ts": 1794380996,
    "source": "Reddit"
   },
   {
@@ -172,13 +235,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Where Does The Experience Come From?",
-   "url": "https://www.reddit.com/r/programming/comments/1xt6lvq/where_does_the_experience_come_from/",
-   "ts": 1794365754,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Why are Anthropic's top researchers cited twice as much as OpenAI's? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xt5xld/why_are_anthropics_top_researchers_cited_twice_as/",
@@ -197,20 +253,6 @@
    "title": "Apple has new Mac app coming to make running local AI models easy",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xszbe7/apple_has_new_mac_app_coming_to_make_running/",
    "ts": 1794346236,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "My AI is lazier than me",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsytlk/my_ai_is_lazier_than_me/",
-   "ts": 1794345065,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xswmb7/the_surprising_effectiveness_of_deleting_weights/",
-   "ts": 1794339897,
    "source": "Reddit"
   },
   {
@@ -263,24 +305,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Why OpenSSH Accepts a Password It Shouldn’t | Patch Notes",
-   "url": "https://www.reddit.com/r/programming/comments/1xsqsrb/why_openssh_accepts_a_password_it_shouldnt_patch/",
-   "ts": 1794326811,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Container Onion Service: a rootless container that proxies a website as a hidden service on the Tor network (AGPLv3)",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xsqg8g/container_onion_service_a_rootless_container_that/",
    "ts": 1794326032,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "MiniMax H3-Image Released, an Open-Weight Image Model built on H3",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xso1ie/minimax_h3image_released_an_openweight_image/",
-   "ts": 1794320288,
    "source": "Reddit"
   },
   {
@@ -354,27 +382,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "The ENIAC in Context: 80 Years of Computing History",
-   "url": "https://www.reddit.com/r/programming/comments/1xrzu9t/the_eniac_in_context_80_years_of_computing_history/",
-   "ts": 1794249612,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Twindex: exact, replayable proofs that your data can't tell two parameter sets apart (ODEs, PDEs, PINNs) [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xryhhg/twindex_exact_replayable_proofs_that_your_data/",
-   "ts": 1794246657,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "A Matrix Multiplication Algorithm Rooted In Graph Theory",
-   "url": "https://www.reddit.com/r/programming/comments/1xrwyq8/a_matrix_multiplication_algorithm_rooted_in_graph/",
-   "ts": 1794243333,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Using latent-agent swarms for math discovery and optimization [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xrunu7/using_latentagent_swarms_for_math_discovery_and/",
@@ -386,13 +393,6 @@
    "title": "C# 15: Union Types, Closed Hierarchies, and the One Value™ That Isn't Any of Them · cekrem.github.io",
    "url": "https://www.reddit.com/r/programming/comments/1xrrmk7/c_15_union_types_closed_hierarchies_and_the_one/",
    "ts": 1794230836,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "I tried to reproduce “lost in the middle” on current models and actually couldn’t do that! [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xrn7lo/i_tried_to_reproduce_lost_in_the_middle_on/",
-   "ts": 1794216130,
    "source": "Reddit"
   },
   {
