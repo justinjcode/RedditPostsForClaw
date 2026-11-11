@@ -1,6 +1,9 @@
 {
- "generated_at": "2026-11-11T23:18:01Z",
+ "generated_at": "2026-11-11T23:26:29Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -8,13 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "REPORT: Jensen Huang could soon be out as Nvidia CEO, with the board getting ready to remove him, according to the Wall Street Journal. The report comes hours after The New York Times linked Huang to another affair with a Nvidia vice president who answers to him.",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2120652316801917274#m",
+   "ts": 1794437886,
+   "id": "2120652316801917274#m"
+  },
   {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
@@ -1049,15 +1057,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118402103907655903#m",
    "ts": 1793901394,
    "id": "2118402103907655903#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "NEW: OpenAI released GPT-6 Cyber, an AI built for hunting and exploiting software flaws, and only approved security teams can use it. It shares GPT-6 Astra’s \"Critical\" hacking-risk rating, the top level on OpenAI’s safety scale, but OpenAI says it beats Astra on most hacking tests. OpenAI says it found 81 serious new bugs in Firefox, a browser earlier AI models had already combed through. Video",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2118395629466513761#m",
-   "ts": 1793899850,
-   "id": "2118395629466513761#m"
   },
   {
    "handle": "Lingling_Wei",
