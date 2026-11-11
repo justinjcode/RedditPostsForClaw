@@ -1,20 +1,28 @@
 {
- "generated_at": "2026-11-11T16:37:37Z",
+ "generated_at": "2026-11-11T16:46:03Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "A Google AI researcher (who isn’t an archaeologist) just pointed 48 AI agents at NASA laser scans and found a potential undiscovered Maya site in Mexico. There’s still so much waiting to be discovered in public data by ambitious people + AI models. Pietro Miotti (@PietroMiotti) My AI agents found an unmapped Maya site in Mexico, using LiDAR data from a NASA dataset. 72 hours from a random thought on vacation to a reply from Mexico's national archaeology institute. What a time to be alive… Video Community note: This site is not unknown or unmapped. Per Dr. Sarah Parcak, Dr. Francisco Estrada-Belli of Tulane University identified, researched, and published this site years ago. bsky.app/profile/indyfr… liberalarts.tulane.edu/anthropology/p… — https://nitter.kareem.one/PietroMiotti/status/2120219901814043087#m",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2120552003579330755#m",
+   "ts": 1794413970,
+   "id": "2120552003579330755#m"
+  },
   {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
@@ -1040,15 +1048,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2118365603798946002#m",
    "ts": 1793892691,
    "id": "2118365603798946002#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in robotics today: - Agility takes Digit to Wall Street - Apple’s $1K robot faces another delay - China blocks SoftBank’s $5.4B robot takeover - Xiaomi humanoids log eight factory hours",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2118365598459527286#m",
-   "ts": 1793892690,
-   "id": "2118365598459527286#m"
   },
   {
    "handle": "thsottiaux",
