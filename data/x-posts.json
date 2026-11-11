@@ -1,20 +1,38 @@
 {
- "generated_at": "2026-11-11T18:22:08Z",
+ "generated_at": "2026-11-11T18:29:12Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
-  "@bcherny: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "standing room only for @poteto ’s keynote lauren (@poteto) going live in 10mins! inv.kareem.one/watch?v=ZZ19zhYn… Link AI Engineer Code Summit 2026 — Day 1 | November 11 Live from San Francisco, AI Engineer Code Summit 2026 brings togeth... youtube.com — https://nitter.kareem.one/poteto/status/2120577296277119129#m",
+   "url": "https://nitter.kareem.one/swyx/status/2120582147107078356#m",
+   "ts": 1794421157,
+   "id": "2120582147107078356#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "@swyx amazing episode with @joinHandshake . Really practical behind the scenes look at the data industry and I think there’s a lot of gold in here. Go listen if you have a few mins today share.snipd.com/episode/9bc3… Link What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team Episode from Latent Space: The AI Engineer Podcast share.snipd.com",
+   "url": "https://nitter.kareem.one/DBredvick/status/2120570469157920830#m",
+   "ts": 1794418372,
+   "id": "2120570469157920830#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -392,24 +410,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2120208862221684809#m",
    "ts": 1794332158,
    "id": "2120208862221684809#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "if you are at @aiDotEngineer today DO NOT miss @lucasmeijer ‘s workshop today it is an full hour of straight gold - pragmatic, tasteful tricks, prompts, workflows, and general advice",
-   "url": "https://nitter.kareem.one/dexhorthy/status/2120201184317517903#m",
-   "ts": 1794330328,
-   "id": "2120201184317517903#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "This is where I'm talking about turning your codebase on autopilot. See you at @aiDotEngineer at 11:40!",
-   "url": "https://nitter.kareem.one/kentcdodds/status/2120195574934990901#m",
-   "ts": 1794328991,
-   "id": "2120195574934990901#m"
   },
   {
    "handle": "elonmusk",
