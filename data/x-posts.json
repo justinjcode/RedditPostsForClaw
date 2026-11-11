@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-11-11T22:09:45Z",
+ "generated_at": "2026-11-11T22:18:43Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,8 +11,7 @@
  ],
  "errors": [
   "@simonw: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -199,7 +199,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "inv.kareem.one/watch?v=ZZ19zhYn… Link AI Engineer Code Summit 2026 — Day 1 | November 11 Live from San Francisco, AI Engineer Code Summit 2026 brings togeth... youtube.com",
+   "text": "inv.kareem.one/watch?v=ZZ19zhYn… Link AIE CODE: Google DeepMind, Anthropic, SpaceXSI, TypeSafe, Lovable,... Live from San Francisco, AI Engineer Code Summit 2026 brings togeth... youtube.com",
    "url": "https://nitter.kareem.one/swyx/status/2120466878812536971#m",
    "ts": 1794393674,
    "id": "2120466878812536971#m"
