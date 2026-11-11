@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-11T19:55:34Z",
+ "generated_at": "2026-11-11T20:10:34Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -149,6 +149,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2120562425015791625#m",
    "ts": 1794416454,
    "id": "2120562425015791625#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Come see @NinaLopatina and I at Build Lab @aiDotEngineer Code to one shot a Slack Agent or Web Wpp and compete for prizes (mac mini, GPU, beats headphones) We are also doing talks starting at 1:15pm this afternoon on how our factories that power build lab work, see you there!",
+   "url": "https://nitter.kareem.one/vtahowe/status/2120556274790420635#m",
+   "ts": 1794414988,
+   "id": "2120556274790420635#m"
   },
   {
    "handle": "TheRundownAI",
@@ -361,6 +370,15 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
+   "text": "BTS at @aiDotEngineer with @swyx and @Steve_Yegge - got a preview of his talk and literally gasped at some of the agent stories… catch him tomorrow at 5pm 👀",
+   "url": "https://nitter.kareem.one/meganreyno/status/2120261097945190605#m",
+   "ts": 1794344612,
+   "id": "2120261097945190605#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
    "text": "I finally asked @zenorocha , the CEO of AEO, why tf my agents keep choosing Resend even when I don't want them to Latent.Space (@latentspacepod) 🆕 Designing for Agents Agent Experience is one of the most hotly contested topics of 2026, and increasingly critical for devtools/infra companies to get right. @ZenoRocha has been writing and thinking about this since 2024 and came on the pod to spill @Resend secrets! inv.kareem.one/bdIoODXsu8k Key themes include: - Answer Engine Optimization (AEO): how AI models like Claude Code recommend email services and how product teams can design for these agents - Deliverability and Trust: The discussion delves into the complexities of getting mail into the inbox, including handling bursts, managing Gmail throttling, and the importance of domain reputation and anti-abuse measures - Developer Experience & MCP: A major focus is on building for both humans and machines. Resend utilizes the Model Context Protocol (MCP) to provide agents with over 80 named tools, allowing them to autonomously set up accounts, check pricing in Markdown, and send emails - Technical Infrastructure: React Email as a wedge for adoption and but Resend's commitment to owning the mail stack, including managing complex DNS hurdles and providing enterprise-level visibility Link Designing for Agents — Zeno Rocha, Resend A coding agent opens a pull request and picks an email provider for... youtube.com — https://nitter.kareem.one/latentspacepod/status/2120251400831816068#m",
    "url": "https://nitter.kareem.one/swyx/status/2120260228902264872#m",
    "ts": 1794344405,
@@ -401,15 +419,6 @@
    "url": "https://nitter.kareem.one/latentspacepod/status/2120251400831816068#m",
    "ts": 1794342300,
    "id": "2120251400831816068#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "\"If you're coding locally, stop. You really need to be coding with a cloud agent.\" notes of @adamwathan and @ScottWu46 in this one Ryan Carson (@ryancarson) My @aiDotEngineer talk is live. This is how we build with agents at @HelloUntangle inv.kareem.one/BTtyguoPvBU?si=m_vQ… Been great iterating fast on this with @DaleSpoonemore and @DevinAI Link How One Founder Manages 20 AI Coding Agents at Once - Ryan Carson, Untangle Ryan Carson, founder and CEO of Untangle and a four-time founder, s... youtube.com — https://nitter.kareem.one/ryancarson/status/2120236734021587038#m",
-   "url": "https://nitter.kareem.one/swyx/status/2120241063193706960#m",
-   "ts": 1794339836,
-   "id": "2120241063193706960#m"
   },
   {
    "handle": "elonmusk",
@@ -455,15 +464,6 @@
    "url": "https://nitter.kareem.one/SawyerMerritt/status/2120210080041963910#m",
    "ts": 1794332449,
    "id": "2120210080041963910#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "not kidding. scenes from the speaker rehearsal session last night. @lucasmeijer , @FabianHedin , @BuiltByJustin , and @kentcdodds made memorable splashes!! follow @aiDotEngineer for live tweeting dex (@dexhorthy) if you are at @aiDotEngineer today DO NOT miss @lucasmeijer ‘s workshop today it is an full hour of straight gold - pragmatic, tasteful tricks, prompts, workflows, and general advice — https://nitter.kareem.one/dexhorthy/status/2120201184317517903#m",
-   "url": "https://nitter.kareem.one/swyx/status/2120208862221684809#m",
-   "ts": 1794332158,
-   "id": "2120208862221684809#m"
   },
   {
    "handle": "elonmusk",
