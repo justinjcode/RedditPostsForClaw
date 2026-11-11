@@ -1,6 +1,9 @@
 {
- "generated_at": "2026-11-11T22:38:19Z",
+ "generated_at": "2026-11-11T22:45:48Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -8,13 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Scoop by @RWhelanWSJ @jdawsey1 : Nvidia’s board is preparing to oust CEO Jensen Huang, its founder and chief executive after he had two extramarital affairs, including one with a suspected Chinese spy. wsj.com/business/nvidia-is-p… via @WSJ Link Exclusive | Nvidia is Preparing to Oust CEO Jensen Huang Move follows company investigation into an affair with a Chinese woman alleged to be a spy. wsj.com",
+   "url": "https://nitter.kareem.one/Lingling_Wei/status/2120647465594446121#m",
+   "ts": 1794436730,
+   "id": "2120647465594446121#m"
+  },
   {
    "handle": "simonw",
    "name": "Simon Willison",
@@ -1447,15 +1455,6 @@
    "id": "2115805396753383750#m"
   },
   {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "\"You Can See Everything,\" the genre-bending documentary about convicted Theranos fraudster Elizabeth Holmes, has become a smash hit. Jay Conti, the lead lawyer on WSJ's coverage of the blood-testing company a decade ago, shares what it was like to vet the investigation. Video",
-   "url": "https://nitter.kareem.one/WSJ/status/2115584364306153528#m",
-   "ts": 1793229592,
-   "id": "2115584364306153528#m"
-  },
-  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -1474,9 +1473,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
