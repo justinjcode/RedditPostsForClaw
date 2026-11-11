@@ -1,8 +1,6 @@
 {
- "generated_at": "2026-11-11T06:58:02Z",
+ "generated_at": "2026-11-11T07:12:25Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,9 +9,30 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
- "count": 176,
+ "errors": [
+  "@Lingling_Wei: all instances failed",
+  "@TheRundownAI: all instances failed"
+ ],
+ "count": 177,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2120410480204525936#m",
+   "ts": 1794380228,
+   "id": "2120410480204525936#m"
+  },
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "It’s been a while without resets. Maybe I should come back out of the basement",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2120410006273380750#m",
+   "ts": 1794380115,
+   "id": "2120410006273380750#m"
+  },
   {
    "handle": "simonw",
    "name": "Simon Willison",
@@ -40,6 +59,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2120372817720197357#m",
    "ts": 1794371249,
    "id": "2120372817720197357#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Appreciate everyone who showed up to my talk on Local AI at AIE Code today",
+   "url": "https://nitter.kareem.one/TheAhmadOsman/status/2120366089788076073#m",
+   "ts": 1794369644,
+   "id": "2120366089788076073#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -76,6 +104,15 @@
    "url": "https://nitter.kareem.one/TheTuringPost/status/2120329613180338336#m",
    "ts": 1794360948,
    "id": "2120329613180338336#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Just arrived at @aiDotEngineer and got my headshot taken at the @AnthropicAI booth! In case you can't make it, he's how that feels hahah! Keep a follow I'll be documenting my @aiDotEngineer journey till the live ThursdAI pod live from the floor here! Video",
+   "url": "https://nitter.kareem.one/altryne/status/2120314958902944103#m",
+   "ts": 1794357454,
+   "id": "2120314958902944103#m"
   },
   {
    "handle": "elonmusk",
@@ -454,15 +491,6 @@
    "url": "https://nitter.kareem.one/BadDogEgg/status/2120019222117986678#m",
    "ts": 1794286945,
    "id": "2120019222117986678#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "signups ai.engineer/code/2026/associ… for new media creators Link Associate Application | AI Engineer Code Summit 2026 Apply to be an Associate at AI Engineer Code Summit 2026. Help our team run the event for a few shifts and receive full access to the conference. ai.engineer",
-   "url": "https://nitter.kareem.one/swyx/status/2119990961459921395#m",
-   "ts": 1794280207,
-   "id": "2119990961459921395#m"
   },
   {
    "handle": "elonmusk",
@@ -1039,24 +1067,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118250631165300747#m",
    "ts": 1793865280,
    "id": "2118250631165300747#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Privilege to work alongside so many amazing people who won’t rest until we materialize a better future. claire vo 🖤 (@clairevo) BREAKING: @OpenAI product team is absolutely stacked — https://nitter.kareem.one/clairevo/status/2118151308758941998#m",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2118248900381536740#m",
-   "ts": 1793864867,
-   "id": "2118248900381536740#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Reach out to @clintgibler if you want to work on securing the world.",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2118146834325733453#m",
-   "ts": 1793840533,
-   "id": "2118146834325733453#m"
   },
   {
    "handle": "Lingling_Wei",
