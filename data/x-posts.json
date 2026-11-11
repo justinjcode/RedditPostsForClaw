@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-11T17:17:25Z",
+ "generated_at": "2026-11-11T17:25:50Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,7 +10,9 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 177,
  "items": [
   {
@@ -22,6 +23,24 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2120566567453036865#m",
    "ts": 1794417442,
    "id": "2120566567453036865#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Tesla self-driving now approved in Finland Tesla Europe, Middle East & Africa (@teslaeurope) Now approved in Finland 🇫🇮 Rollout begins soon Video — https://nitter.kareem.one/teslaeurope/status/2120400770952745439#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2120565179276832797#m",
+   "ts": 1794417111,
+   "id": "2120565179276832797#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "In order to work through more of the Cybertruck order backlog, production will be extended through the end of summer 2027",
+   "url": "https://nitter.kareem.one/elonmusk/status/2120565056429814073#m",
+   "ts": 1794417082,
+   "id": "2120565056429814073#m"
   },
   {
    "handle": "swyx",
@@ -681,15 +700,6 @@
    "id": "2119861584743018538#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The UK “justice system” is an utter joke. Beyond parody. Total dishonor. Jonatan Pallesen (@jonatanpallesen) Fuck this. Russell Brand gets 10 years based solely on the word of his accusers. Meanwhile there are countless Muslim grooming gang child rapists who got off free despite far stronger evidence. For example Ahmed who got off free for child rape because the witnesses were deemed not credible, even though his DNA was found on her underwear. Or offender J, a Muslim child rapist who participated in a 24-hour long gang-rape of a 12-year-old girl they had abducted in Oldham. He was named as a participant by one of his co-rapists, as well as by his wife, but never received a sentence due to lack of forensic evidence. — https://nitter.kareem.one/jonatanpallesen/status/2119816545534665040#m",
-   "url": "https://nitter.kareem.one/JTLonsdale/status/2119844488298234326#m",
-   "ts": 1794245285,
-   "id": "2119844488298234326#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -715,15 +725,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2119816076355567903#m",
    "ts": 1794238511,
    "id": "2119816076355567903#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The Germans are learning what mass immigration really means. \"Wir schaffen das\"",
-   "url": "https://nitter.kareem.one/ricwe123/status/2119807494776078407#m",
-   "ts": 1794236465,
-   "id": "2119807494776078407#m"
   },
   {
    "handle": "ZichenWanghere",
