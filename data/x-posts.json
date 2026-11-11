@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-11T05:26:56Z",
+ "generated_at": "2026-11-11T05:36:52Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "Google had a whole lot more fun with Carbon and pelicans on bicycles than I did Sundar Pichai (@sundarpichai) Carbon made a pelican demo so you don't have to 😅 fun test of long-horizon coding and the new /swarm feature in Google @Antigravity . Builder and critic subagents ran iterative loops across Blender and Three.js - checking their own renders to build a playable 3D game of a pelican biking around our Mountain View campus. Video — https://nitter.kareem.one/sundarpichai/status/2120198811297694192#m",
+   "url": "https://nitter.kareem.one/simonw/status/2120387954044735980#m",
+   "ts": 1794374857,
+   "id": "2120387954044735980#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -1490,15 +1498,6 @@
    "url": "https://nitter.kareem.one/ClaudeDevs/status/2113698001889927608#m",
    "ts": 1792779848,
    "id": "2113698001889927608#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "Pretty solid pelican tools.simonwillison.net/mark… Kimi.ai (@Kimi_Moonshot) Introducing Kimi K3.1 Pro: our most capable 3T-class open-weight model. 🔹 1M-token context, 2.8T total / 104B active params (MoE), Multimodal. 🔹 Full-project coding: games in Unreal, Unity & Godot. 🔹 Excels at parametric 3D modeling in Blender & CAD. 🔹 More reliable at finance work: Accurate modeling with hallucination down by 65%. 🔹 Matching the strongest proprietary models across coding, agentic and knowledge benchmarks. Kimi K3.1 Pro and K3.1 Pro Highspeed (2–3× faster) are now live on Kimi.ai , Kimi Work, Kimi Code, and the Kimi API. Open weights by Nov 4, 2026. 🔗 API: platform.kimi.ai 🔗 Tech blog: kimi.ai/blog/kimi-k3-1-pro — https://nitter.kareem.one/Kimi_Moonshot/status/2113680701770068067#m",
-   "url": "https://nitter.kareem.one/simonw/status/2113691493823369246#m",
-   "ts": 1792778297,
-   "id": "2113691493823369246#m"
   },
   {
    "handle": "bcherny",
