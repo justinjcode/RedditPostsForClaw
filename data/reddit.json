@@ -1,22 +1,15 @@
 {
- "generated_at": "2026-11-11T00:20:34Z",
+ "generated_at": "2026-11-11T02:10:25Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
+  "MachineLearning",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
-  {
-   "subreddit": "selfhosted",
-   "title": "Spot-Bomb: a free, self-hosted Discord music bot with no premium tier",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xt2zg3/spotbomb_a_free_selfhosted_discord_music_bot_with/",
-   "ts": 1794355533,
-   "source": "Reddit"
-  },
   {
    "subreddit": "selfhosted",
    "title": "Mär: one free, open source iOS player for your self-hosted audiobooks, podcasts, music and radio",
@@ -253,6 +246,13 @@
    "title": "Fable 5.2 not only has guardrails against AI acceleration, its capabilities were capped in training too",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsjfwo/fable_52_not_only_has_guardrails_against_ai/",
    "ts": 1794306232,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Establishing \"normal\" limits for alerting",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xsj9nc/establishing_normal_limits_for_alerting/",
+   "ts": 1794305601,
    "source": "Reddit"
   },
   {
