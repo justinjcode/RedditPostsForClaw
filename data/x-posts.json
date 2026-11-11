@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T22:45:48Z",
+ "generated_at": "2026-11-11T22:54:18Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -49,6 +49,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2120640558184206508#m",
    "ts": 1794435083,
    "id": "2120640558184206508#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Swyx gave me the “closing keynote” of AIE code, aka everyone is tired or flying out so if you’re not one of those please come to mine tomorrow at 5pm it’s called “the sweet side of the bitter lesson”",
+   "url": "https://nitter.kareem.one/trq212/status/2120620900785820143#m",
+   "ts": 1794430396,
+   "id": "2120620900785820143#m"
   },
   {
    "handle": "elonmusk",
@@ -427,15 +436,6 @@
    "url": "https://nitter.kareem.one/meganreyno/status/2120261097945190605#m",
    "ts": 1794344612,
    "id": "2120261097945190605#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "I finally asked @zenorocha , the CEO of AEO, why tf my agents keep choosing Resend even when I don't want them to Latent.Space (@latentspacepod) 🆕 Designing for Agents Agent Experience is one of the most hotly contested topics of 2026, and increasingly critical for devtools/infra companies to get right. @ZenoRocha has been writing and thinking about this since 2024 and came on the pod to spill @Resend secrets! inv.kareem.one/bdIoODXsu8k Key themes include: - Answer Engine Optimization (AEO): how AI models like Claude Code recommend email services and how product teams can design for these agents - Deliverability and Trust: The discussion delves into the complexities of getting mail into the inbox, including handling bursts, managing Gmail throttling, and the importance of domain reputation and anti-abuse measures - Developer Experience & MCP: A major focus is on building for both humans and machines. Resend utilizes the Model Context Protocol (MCP) to provide agents with over 80 named tools, allowing them to autonomously set up accounts, check pricing in Markdown, and send emails - Technical Infrastructure: React Email as a wedge for adoption and but Resend's commitment to owning the mail stack, including managing complex DNS hurdles and providing enterprise-level visibility Link Designing for Agents — Zeno Rocha, Resend A coding agent opens a pull request and picks an email provider for... youtube.com — https://nitter.kareem.one/latentspacepod/status/2120251400831816068#m",
-   "url": "https://nitter.kareem.one/swyx/status/2120260228902264872#m",
-   "ts": 1794344405,
-   "id": "2120260228902264872#m"
   },
   {
    "handle": "simonw",
