@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-11-11T15:37:41Z",
+ "generated_at": "2026-11-11T15:46:23Z",
  "accounts_ok": [
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,19 @@
  ],
  "errors": [
   "@simonw: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "“I’ll help you push Dad, it’s heavy”. Spotted in Shanghai today 🥺",
+   "url": "https://nitter.kareem.one/EleanorOlcott/status/2120487409695760591#m",
+   "ts": 1794398569,
+   "id": "2120487409695760591#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -896,15 +905,6 @@
    "url": "https://nitter.kareem.one/zeteo_news/status/2118855959422607404#m",
    "ts": 1794009601,
    "id": "2118855959422607404#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Slow pace of China’s REE and CM exports, but no mention of U.S. foot dragging on implementing tariff reductions, or wait for it, the billions of dollars in export licenses sitting on Kessler’s desk. Got it. Rush Doshi (@RushDoshi) Bessent and Greer spoke with He Lifeng. Frustration seems to be growing with the slow pace of the PRC's rare earth minerals and magnet exports. \"Secretary Bessent emphasized the importance of China fully and immediately implementing its commitments made in Busan\" — https://nitter.kareem.one/RushDoshi/status/2118763585870377426#m",
-   "url": "https://nitter.kareem.one/kylej_sullivan/status/2118823303498383697#m",
-   "ts": 1794001816,
-   "id": "2118823303498383697#m"
   },
   {
    "handle": "thsottiaux",
