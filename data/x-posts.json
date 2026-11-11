@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T18:47:02Z",
+ "generated_at": "2026-11-11T18:56:49Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Tesla Megapacks are designed to ensure grid stability, so that you never have a blackout Tesla Megapack (@Tesla_Megapack) Tesla's Controller-Hardware-In-the-Loop (CHIL) is key to bringing Megapack sites online faster CHIL allows us to simulate the entire site in real time before it’s connected to the grid. We can see how the site will respond to faults, frequency changes or if a tree were to fall on a power line. CHIL validated 444 grid-forming Megapacks at Melbourne Renewable Energy Hub before grid connection, delivering 600 MW / 1.6 GWh of storage months ahead of schedule Video — https://nitter.kareem.one/Tesla_Megapack/status/2120320369282437219#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2120589832963711162#m",
+   "ts": 1794422989,
+   "id": "2120589832963711162#m"
+  },
   {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
@@ -36,7 +45,7 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Bernie is the meme MARK SIMONE (@MarkSimoneNY) You might not want to take Bernie too seriously on tech issues. — https://nitter.kareem.one/MarkSimoneNY/status/2118712057088647405#m",
+   "text": "Bernie is the meme MARK SIMONE (@MarkSimoneNY) You might not want to take Bernie too seriously on tech issues. Community note: The shared image is a fabricated Washington Post clipping. Bernie Sanders was mayor of Burlington until 1989, first elected to the House in 1990 and never a senator then; no record exists of him calling to ban the Internet. en.wikipedia.org/wiki/Bernie_Sa… britannica.com/biography/Bern… — https://nitter.kareem.one/MarkSimoneNY/status/2118712057088647405#m",
    "url": "https://nitter.kareem.one/elonmusk/status/2120582866413514912#m",
    "ts": 1794421328,
    "id": "2120582866413514912#m"
@@ -616,15 +625,6 @@
    "url": "https://nitter.kareem.one/BadDogEgg/status/2120019222117986678#m",
    "ts": 1794286945,
    "id": "2120019222117986678#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Taking the Shinkansen and all I can think about is how do we not have this between SF and LA... if only you knew how great things could be if we voted out the Decels",
-   "url": "https://nitter.kareem.one/beffjezos/status/2119970837302292728#m",
-   "ts": 1794275409,
-   "id": "2119970837302292728#m"
   },
   {
    "handle": "simonw",
