@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-11T04:47:21Z",
+ "generated_at": "2026-11-11T04:55:24Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -10,11 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "this is my engines thread Josh Payne (@joshpxyne) The internet is dead. We’ve raised $35M total funding led by Khosla and Hanabi to bring it to life. @coframe is a growth engine for your website/ads/more which tests, personalizes, & learns 24/7. It’s working. Dropbox increased conversion by 158%. Replit, 410%. Cash App, 60%. Video — https://nitter.kareem.one/joshpxyne/status/2120207063624327602#m",
+   "url": "https://nitter.kareem.one/swyx/status/2120376333142569316#m",
+   "ts": 1794372087,
+   "id": "2120376333142569316#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -23,6 +32,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2120372817720197357#m",
    "ts": 1794371249,
    "id": "2120372817720197357#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "Turning a Chinese person's name into a grotesque cocktail of racial stereotypes and sexual innuendo isn't political analysis. It's racism, plain and simple. And this guy calls himself a China expert? He should know better. Deleting the post doesn't erase the racism. It just shows he knew how indefensible it was.",
+   "url": "https://nitter.kareem.one/fengchucheng/status/2120365119397941591#m",
+   "ts": 1794369413,
+   "id": "2120365119397941591#m"
   },
   {
    "handle": "swyx",
@@ -475,15 +493,6 @@
    "id": "2119945524514328631#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "bro just proved fermat's last theorem AS A DEMO for the fable 5.2 launch and casually told me he's got something bigger planned for his aie code talk lol anthropic u guys are wildin Lance Martin (@RLanceMartin) i'm happy to share some recent work on safely scaling a team of 1,000 Fable 5.2 agent to tackle ambitious, long-horizon work. the team was able to formalize a proof of Fermat's Last Theorem through coordination within our safety boundaries. read it here: claude.dev/blog/safely-scali… — https://nitter.kareem.one/RLanceMartin/status/2119875041475379681#m",
-   "url": "https://nitter.kareem.one/swyx/status/2119935240202539147#m",
-   "ts": 1794266922,
-   "id": "2119935240202539147#m"
-  },
-  {
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
@@ -878,15 +887,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118802895604994463#m",
    "ts": 1793996950,
    "id": "2118802895604994463#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "There must be some people who subscribe to The Times and The Sunday Times and are surprised to discover that it's a 240-year-old broadsheet newspaper",
-   "url": "https://nitter.kareem.one/Birdyword/status/2118740366878724328#m",
-   "ts": 1793982042,
-   "id": "2118740366878724328#m"
   },
   {
    "handle": "TheRundownAI",
