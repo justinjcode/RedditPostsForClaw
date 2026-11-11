@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-11-11T18:29:12Z",
+ "generated_at": "2026-11-11T18:37:22Z",
  "accounts_ok": [
-  "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,37 @@
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "要是搁以前我能在这把这些新闻吵翻天 现在我真是毫无兴趣说一点点这些东西",
+   "url": "https://nitter.kareem.one/ZichenWanghere/status/2120586101421470051#m",
+   "ts": 1794422099,
+   "id": "2120586101421470051#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Hire Grok @Bot as a colleague and give it your hardest tasks! Grok Bot (@bot) Introducing Grok Bot 1.0. AI teammates that work alongside your whole team. Share Bots, collaborate with them in Slack and Teams, invite them to meetings, and watch them learn and become more helpful. Video — https://nitter.kareem.one/bot/status/2120582957782200586#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2120584535423565889#m",
+   "ts": 1794421726,
+   "id": "2120584535423565889#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Bernie is the meme MARK SIMONE (@MarkSimoneNY) You might not want to take Bernie too seriously on tech issues. — https://nitter.kareem.one/MarkSimoneNY/status/2118712057088647405#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2120582866413514912#m",
+   "ts": 1794421328,
+   "id": "2120582866413514912#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -538,15 +565,6 @@
    "id": "2120094479797686513#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "In February 2004 Elon Musk wrote the check that put Tesla Motors on the road: $6.5 million of a $7.5 million Series A, plus the chairman's seat. He led the next round in February 2005. He co-led the $40 million round in May 2006 that brought in Larry Page and Sergey Brin. That August he published The Secret Tesla Motors Master Plan on the company blog, a sports car to pay for an affordable car, and so on down to the mass market. He pushed for the Roadster's carbon fiber body. By January 2009, Bloomberg reported, he had put $70 million of his own money into the company. CNBC still wrote this on September 10, 2018: \"Though Musk didn't found Tesla, his DNA is very much a part of the company.\" Read the very next sentence of the same article: \"He was one of its original investors and chairman of the board in 2004 before becoming CEO in 2008.\" Original investor. Chairman in 2004. CNBC typed both facts and still filed him under \"didn't found.\" That question had been settled nine years earlier, in court and in writing. In 2009 Martin Eberhard sued, and one of the things he asked a San Mateo County judge for was a declaration that he and Marc Tarpenning were the only two founders. In July the judge struck that request. In September the case was settled and Tesla named five co-founders: Eberhard, Tarpenning, Elon Musk, JB Straubel and Ian Wright. Eberhard's own statement that day: \"As a co-founder of the company, Elon's contributions to Tesla have been extraordinary.\" The man who went ",
-   "url": "https://nitter.kareem.one/TheCaptainEli/status/2120072587883560986#m",
-   "ts": 1794299668,
-   "id": "2120072587883560986#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -644,15 +662,6 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2119908819555823882#m",
    "ts": 1794260623,
    "id": "2119908819555823882#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": ". @MegynKelly on the absolute double standard in the Russell Brand sentencing: “If you needed any further proof that this is a political WITCH HUNT against Russell Brand, the judge just gave it to us.” Download: podcasts.apple.com/us/podcas… Video",
-   "url": "https://nitter.kareem.one/MegynKellyShow/status/2119904682269429965#m",
-   "ts": 1794259636,
-   "id": "2119904682269429965#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -914,15 +923,6 @@
    "url": "https://nitter.kareem.one/CausMoney/status/2118871856388219041#m",
    "ts": 1794013391,
    "id": "2118871856388219041#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "“Donald, if you're watching here, we'll put your name on it. You get to be the American president who finally guaranteed health care for every single American.” @mehdirhasan asks Dr. @AbdulElSayed what he’d do on his first day in office. His answer? Trumpcare for All. Video",
-   "url": "https://nitter.kareem.one/zeteo_news/status/2118855959422607404#m",
-   "ts": 1794009601,
-   "id": "2118855959422607404#m"
   },
   {
    "handle": "thsottiaux",
