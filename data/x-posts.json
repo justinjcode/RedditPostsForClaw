@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-12T21:57:47Z",
+ "generated_at": "2026-11-12T22:10:34Z",
  "accounts_ok": [
-  "TheRundownAI",
+  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
  "errors": [
+  "@swyx: all instances failed",
   "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@TheRundownAI: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon! ChatGPT (@ChatGPT) Your dot now has… ⚡️ Faster replies 💬 Less jargon 🫡 Better follow-through And, they can now follow your custom instructions. Tell your dot in the thread things like how to behave or which actions need your go-ahead. “always talk in lowercase.” “Show me a draft before sending any emails.” You can also set custom instructions and rules in Customize > Behavior on mobile, or through your dot’s menu on web and desktop. Video — https://nitter.kareem.one/ChatGPT/status/2120970988796170275#m",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2120999993079451919#m",
+   "ts": 1794520779,
+   "id": "2120999993079451919#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -1148,15 +1157,6 @@
    "url": "https://nitter.kareem.one/greg_ip/status/2118370296671633741#m",
    "ts": 1793893810,
    "id": "2118370296671633741#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Follow Samir for dot updates samir (@_samirism) the team has been laser-focused on making dots significantly faster and more reliable. some updates in the latest app release… - you can now reply to your dot inline from a notification on iOS - share anything directly to your dot in iOS - open your dot from the iPhone Action button - faster loading when you tap in from a notification - gmail links deeplink to the exact email inside the gmail app — https://nitter.kareem.one/_samirism/status/2118103057980690771#m",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2118250631165300747#m",
-   "ts": 1793865280,
-   "id": "2118250631165300747#m"
   },
   {
    "handle": "Lingling_Wei",
