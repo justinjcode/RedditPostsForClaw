@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-11-12T01:28:07Z",
+ "generated_at": "2026-11-12T01:37:27Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -9,10 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
   {
@@ -23,6 +22,15 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2120665215151087861#m",
    "ts": 1794440962,
    "id": "2120665215151087861#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "在喧囂裡學會暫停，才能聽見內心真正的聲音。你今天有沒有給自己一點安靜的時間？ In the noise, learn to pause so you can hear the true voice within. Have you given yourself some quiet time today?",
+   "url": "https://nitter.kareem.one/HappyTankcat/status/2120659765223358848#m",
+   "ts": 1794439662,
+   "id": "2120659765223358848#m"
   },
   {
    "handle": "swyx",
@@ -275,6 +283,15 @@
    "url": "https://nitter.kareem.one/EleanorOlcott/status/2120487409695760591#m",
    "ts": 1794398569,
    "id": "2120487409695760591#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "Support Max the Cat, he's been wrongly accused and needs your help.",
+   "url": "https://nitter.kareem.one/Kurokojin/status/2120485753226731544#m",
+   "ts": 1794398174,
+   "id": "2120485753226731544#m"
   },
   {
    "handle": "swyx",
@@ -907,24 +924,6 @@
    "id": "2119154247145312338#m"
   },
   {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "在外面吹到冷风，以后，回来躺在床上好容易犯困呢",
-   "url": "https://nitter.kareem.one/jianfeinan/status/2119073025488543973#m",
-   "ts": 1794061354,
-   "id": "2119073025488543973#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "今年来了上海、找了工作、举家搬迁 一直都很不顺利 我被电动车撞了做手术 我妈摔了一跤胸椎骨折 我生日那天提了离职、 我妈也今天出了院 妈妈明天就回兰州了 好像突然给了今年紧凑的一年 突然划上了一个句点 祝我们家所有人以及看到了这条帖子的朋友们 平安喜乐、万事胜意",
-   "url": "https://nitter.kareem.one/xiangyuli/status/2119065294081863705#m",
-   "ts": 1794059511,
-   "id": "2119065294081863705#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -1474,9 +1473,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
