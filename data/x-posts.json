@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-12T05:37:40Z",
+ "generated_at": "2026-11-12T05:47:57Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "The System One revolution is upon us! At @aiDotEngineer Code Summit today, lead Jev creator Diogo Almeida ( @CompleteSkeptic ) called on developers to automate everything. Also, Glean and others showed how they’re using Jev. latent.space/p/jev-revolutio… Link The Jev Revolution: What Engineers Are Already Building with System One Models — Latent Space At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they’re using Jev. latent.space",
+   "url": "https://nitter.kareem.one/latentspacepod/status/2120748081524470240#m",
+   "ts": 1794460718,
+   "id": "2120748081524470240#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -500,15 +509,6 @@
    "url": "https://nitter.kareem.one/altryne/status/2120352142603243697#m",
    "ts": 1794366319,
    "id": "2120352142603243697#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Super cool stickers @swyx !!!",
-   "url": "https://nitter.kareem.one/TheTuringPost/status/2120332228060422269#m",
-   "ts": 1794361571,
-   "id": "2120332228060422269#m"
   },
   {
    "handle": "swyx",
