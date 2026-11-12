@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-12T14:09:27Z",
+ "generated_at": "2026-11-12T14:22:46Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "ZichenWanghere",
+  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +10,8 @@
   "thsottiaux"
  ],
  "errors": [
-  "@TheRundownAI: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -23,6 +23,15 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2120881523348197843#m",
    "ts": 1794492533,
    "id": "2120881523348197843#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "OFFICIAL: Jensen Huang has resigned as CEO of NVIDIA.",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2120878753652093153#m",
+   "ts": 1794491873,
+   "id": "2120878753652093153#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -1067,15 +1076,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118802895604994463#m",
    "ts": 1793996950,
    "id": "2118802895604994463#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: tech.therundown.ai/p/big-tec… Link Big Tech sues to save the feed PLUS: Cybertruck out, Cybercab in tech.therundown.ai",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2118728792440979688#m",
-   "ts": 1793979282,
-   "id": "2118728792440979688#m"
   },
   {
    "handle": "thsottiaux",
