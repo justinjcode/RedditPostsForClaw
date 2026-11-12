@@ -1,19 +1,29 @@
 {
- "generated_at": "2026-11-12T16:54:45Z",
+ "generated_at": "2026-11-12T17:08:37Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@swyx: all instances failed",
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 176,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "These are the community benefits if @SpaceX builds their planned $50 billion Arizona Supercomputing Campus: • 6,500 jobs (1,000 permanent, 5,500 construction). • Up to $103M annually in new property tax revenue. • 10-40% lower electricity bills projected for local SSVEC residential customers. • Up to $250M in one-time county sales tax revenue. • Up to $460M annually in additional benefits for Arizona electric cooperative members. • $3.6B in grid upgrades funded by SpaceX at no cost to cooperative members. • 24 GWh of battery storage to improve grid stability and reliability. • Additional solar energy to reduce strain on the local grid. • Minimal water usage, with no new wells and zero ongoing industrial water consumption projected. • Aquifer and wildlife protection, including conservation initiatives. • Reduced noise and light pollution through noise mitigation and dark-sky protections. • Support for local schools, infrastructure, businesses, and essential services. Sawyer Merritt (@SawyerMerritt) SpaceX has just unveiled a massive new $50 billion Supercomputing Campus that they want to build in Cochise County, Arizona. All info: • Up to 6 GW across the 9 supercomputing buildings • Construction starts 2027 • Size of each supercomputing building: ~493,000 square feet. • Total supercomputing building space: 4.44 million square feet, excluding support facilities. • SSVEC residential customers are projected to see electricity bill reductions of 10–40%. • Up to 24 GWh of grid-conn",
+   "url": "https://nitter.kareem.one/SawyerMerritt/status/2120921108979351607#m",
+   "ts": 1794501971,
+   "id": "2120921108979351607#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -418,15 +428,6 @@
    "url": "https://nitter.kareem.one/KatieMiller/status/2120617686887801175#m",
    "ts": 1794429630,
    "id": "2120617686887801175#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "100GW in space is roughly equal to 800GW on Earth. Moreover, solar on Earth must be paired with massive batteries to continue powering compute at night and supplemented with combustion or nuclear power during winter. These are not the same at all.",
-   "url": "https://nitter.kareem.one/elonmusk/status/2120613240707420280#m",
-   "ts": 1794428570,
-   "id": "2120613240707420280#m"
   },
   {
    "handle": "elonmusk",
