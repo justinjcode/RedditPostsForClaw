@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-12T01:56:05Z",
+ "generated_at": "2026-11-12T02:11:37Z",
  "accounts_ok": [
-  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
   "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -158,6 +158,15 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2120586101421470051#m",
    "ts": 1794422099,
    "id": "2120586101421470051#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Introducing Grok Bot 1.0. Bots can be shared and are more collaborative and capable than ever. Video",
+   "url": "https://nitter.kareem.one/SpaceXSI/status/2120584928983441826#m",
+   "ts": 1794421820,
+   "id": "2120584928983441826#m"
   },
   {
    "handle": "elonmusk",
@@ -448,6 +457,15 @@
    "id": "2120286900569456800#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok Bot can now join your personal or company tailnets on Tailscale. Use it to securely reach private MCP servers, internal tools, and apps on your network.",
+   "url": "https://nitter.kareem.one/bot/status/2120279511707386263#m",
+   "ts": 1794349003,
+   "id": "2120279511707386263#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -520,15 +538,6 @@
    "id": "2120258951594037732#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "SpaceX is making moves to become the first AI carrier $SPCX • Current cell towers are still mostly “dumb” radios. The Qualcomm deal is about making them AI-native. • Edge inference at the tower, like an updated Akamai for AI • Starlink Direct-to-Cell and V3 satellites alongside the terrestrial build Qualcomm’s CEO said the SpaceX agreement is finalized — not an engagement. SpaceX will build the base stations. Qualcomm supplies the silicon and the RAN accelerator for a terrestrial network he called one of the largest 5G deployments in the United States, with an AI-native architecture. Video",
-   "url": "https://nitter.kareem.one/nextbigfuture/status/2120233719491612940#m",
-   "ts": 1794338085,
-   "id": "2120233719491612940#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -545,15 +554,6 @@
    "url": "https://nitter.kareem.one/SawyerMerritt/status/2120210080041963910#m",
    "ts": 1794332449,
    "id": "2120210080041963910#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "CLAUDIA, Ship 42, Starbase. Do you copy? No tower has ever caught a ship coming back from orbit. Starship Flight 15 will try, no earlier than Nov 13. Good luck, @SpaceX @elonmusk 🚀 🎬 SLOPCORE music video AI Slop SI Video",
-   "url": "https://nitter.kareem.one/NURM_Dima/status/2120192013848965285#m",
-   "ts": 1794328142,
-   "id": "2120192013848965285#m"
   },
   {
    "handle": "TheRundownAI",
