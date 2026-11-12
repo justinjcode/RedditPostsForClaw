@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T23:26:36Z",
+ "generated_at": "2026-11-12T23:37:47Z",
  "accounts_ok": [
   "TheRundownAI",
-  "bcherny",
+  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
   "swyx",
@@ -10,8 +10,8 @@
  ],
  "errors": [
   "@simonw: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 176,
  "items": [
@@ -104,6 +104,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2120941834415325534#m",
    "ts": 1794506913,
    "id": "2120941834415325534#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "This is a message for @realDonaldTrump . Donald, this is on the table. Guarantee healthcare for every American, from cradle to grave.",
+   "url": "https://nitter.kareem.one/AbdulElSayed/status/2120938651358273723#m",
+   "ts": 1794506154,
+   "id": "2120938651358273723#m"
   },
   {
    "handle": "swyx",
@@ -1031,15 +1040,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2119296267545419987#m",
    "ts": 1794114579,
    "id": "2119296267545419987#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Trump breaks down the midterm election results Video",
-   "url": "https://nitter.kareem.one/nbcsnl/status/2119290895933526044#m",
-   "ts": 1794113298,
-   "id": "2119290895933526044#m"
   },
   {
    "handle": "thsottiaux",
