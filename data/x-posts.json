@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T07:45:45Z",
+ "generated_at": "2026-11-12T07:55:11Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -112,6 +112,15 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2120719962893349108#m",
    "ts": 1794454014,
    "id": "2120719962893349108#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "it was so fkin fun giving this talk! Turing Post (Ksenia Se) (@TheTuringPost) “Software is gonna be so fucking back.” . @CompleteSkeptic is full of bangers and you will have to listen to his full talk at @aiDotEngineer , but for now, here is our top-10 of his pearls: 1“We’ve been announcing AGI three months away for two years now.” Meanwhile, go outside San Francisco and a lot of the world looks unchanged. Where the fuck is all the automation? 2“You get Einstein 95% of the time, but Mr. Bean 5% of the time.” And if you can’t tell which is which, how are you supposed to automate anything? 3“I do believe RLHF is part of the problem.” His complaint: we optimized models for assistance, with a human checking the result, and then expected them to reliably do work on their own. 4“The bitterest lesson is doing the right task.” Diogo thinks that compute matters more than algorithms, data matters more than compute, and choosing the right task matters most. You get what you optimize for. 5“I think the world still has LLM Stockholm Syndrome.” We keep designing around the limitations of today’s models. Why is the best we can come up with still the same software, cheaper to write, with a chatbot on the side? 6“What if we can program with common sense, with intention, with human understanding?” Very passionate talk! He suggests: put intelligence into the software’s inner loop. What could we build if understanding intent became a building block we could actually rely on? 7“Real fucking engin",
+   "url": "https://nitter.kareem.one/CompleteSkeptic/status/2120717906443169847#m",
+   "ts": 1794453524,
+   "id": "2120717906443169847#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -508,15 +517,6 @@
    "url": "https://nitter.kareem.one/altryne/status/2120352142603243697#m",
    "ts": 1794366319,
    "id": "2120352142603243697#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Hot AGI pilled at @aiDotEngineer ! Say hi if you are here! And if you are not watch all the talks online - content is always incredible",
-   "url": "https://nitter.kareem.one/TheTuringPost/status/2120329613180338336#m",
-   "ts": 1794360948,
-   "id": "2120329613180338336#m"
   },
   {
    "handle": "swyx",
@@ -1473,9 +1473,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
