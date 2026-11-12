@@ -1,20 +1,38 @@
 {
- "generated_at": "2026-11-12T03:45:37Z",
+ "generated_at": "2026-11-12T03:58:09Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
-  "simonw",
-  "swyx"
+  "elonmusk",
+  "realDonaldTrump",
+  "swyx",
+  "thsottiaux"
  ],
  "errors": [
-  "@elonmusk: all instances failed",
-  "@realDonaldTrump: all instances failed",
-  "@thsottiaux: all instances failed",
-  "@Lingling_Wei: all instances failed"
+  "@simonw: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "The 31-year-old who called out Jensen Huang’s “China problem” six months ago—and shorted Nvidia wsj.com/business/nvidia-shor… via @WSJ Link The 31-Year-Old Trader Who Called Out Jensen Huang’s ‘China Problem’—and Shorted Nvidia For six months, no one really noticed Culper Research’s report. All that changed this week. wsj.com",
+   "url": "https://nitter.kareem.one/Lingling_Wei/status/2120719962893349108#m",
+   "ts": 1794454014,
+   "id": "2120719962893349108#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "After Huang left his first White House meeting of Trump’s second term, a group of advisers huddled to discuss their concerns. “One quipped that Huang would sell chips directly to China’s People’s Liberation Army if the government let him.” wsj.com/politics/national-se… Link Huang’s Coziness With Trump Wasn’t Enough to Save Him From Spying Scandal U.S. officials have repeatedly raised concerns about the Nvidia CEO’s influence with the president and his posture toward China. wsj.com",
+   "url": "https://nitter.kareem.one/VeraMBergen/status/2120704957351686220#m",
+   "ts": 1794450437,
+   "id": "2120704957351686220#m"
+  },
   {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
@@ -23,6 +41,15 @@
    "url": "https://nitter.kareem.one/schwartzbWSJ/status/2120700341196828909#m",
    "ts": 1794449336,
    "id": "2120700341196828909#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Jensen Huang Affair Strains Taiwan’s Devotion to Its Hometown Hero—Taiwan-born celebrity faces a reckoning on an island whose fortunes rose with Nvidia’s success @austinramzy wsj.com/world/asia/the-jense… wsj.com/world/asia/the-jense… Link Jensen Huang Affair Strains Taiwan’s Devotion to Its Hometown Hero The Nvidia CEO’s affair has shaken Taiwan, his birthplace and a cornerstone of the AI chip industry he helped create. wsj.com",
+   "url": "https://nitter.kareem.one/JChengWSJ/status/2120690793178697954#m",
+   "ts": 1794447060,
+   "id": "2120690793178697954#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -131,6 +158,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2120613240707420280#m",
    "ts": 1794428570,
    "id": "2120613240707420280#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Russell Brand's longtime friend and one-time fling @SammiePressdee speaks out to @MegynKelly about the TRUTH: \"I said no, and he was a perfect gentleman about it... Not one single person ever warned me to be careful around Russell Brand. So, I don't buy the 'open secret'...” More: inv.kareem.one/c/MegynKelly/?su… Video",
+   "url": "https://nitter.kareem.one/MegynKellyShow/status/2120613021907112358#m",
+   "ts": 1794428518,
+   "id": "2120613021907112358#m"
   },
   {
    "handle": "elonmusk",
@@ -554,15 +590,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2120224576663896305#m",
    "ts": 1794335905,
    "id": "2120224576663896305#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Here is SpaceX's new @Starlink Mini 2 with quick-swap battery. You can get up to 4.5 hours of use on a single charge. This means you can get internet in the middle of nowhere and not have to plug anything in. Video Sawyer Merritt (@SawyerMerritt) SpaceX has just officially unveiled its next-generation @Starlink Mini 2, which now comes with a built-in battery for the first time. • Up to 4.5 hours of connectivity on a single charge with the quick-swap battery (or plug in USB-C). • Weight: 3.53 Ibs (1.6 kg) including battery and kickstand • Dimensions: 10.35 × 12.36 × 0.91 inches (263 × 314 × 23.1 mm) • Field of view: 55° • Wi-Fi: Wi-Fi 6 • Environmental rating: IP67 • Wi-Fi coverage: Up to 1,800 sq ft (167 m2) • Battery: Removable, rechargeable 71 Wh battery • Battery weight: 1.08 Ibs (490g) • Battery attachment: Quick-release mechanism • Charging: USB-C, 60W • Battery power output: USB-C, up to 60W • Power button: Built-in physical power button • Battery indicators: LED status lights • Kickstand: Integrated, foldable kickstand • Tripod mount: Standard 1/4\"-20 camera thread • Charger: Included 60W USB-C wall charger • Cable: Included 3-meter (10-foot) USB-C to USB-C cable Starlink is now taking preorders in the U.S.: starlink.com/mini-2 — https://nitter.kareem.one/SawyerMerritt/status/2120208552652345450#m",
-   "url": "https://nitter.kareem.one/SawyerMerritt/status/2120210080041963910#m",
-   "ts": 1794332449,
-   "id": "2120210080041963910#m"
   },
   {
    "handle": "TheRundownAI",
@@ -1373,33 +1400,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2117337139633607167#m",
    "ts": 1793647486,
    "id": "2117337139633607167#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "How I discovered my family’s secret history—as part of America’s earliest wave of illegal immigrants. A fascinating essay by @joshchin wsj.com/arts-culture/books/t… via @WSJ Link Essay | The ‘Paper Son’ Gambit My Family Used to Defy American Exclusion Forced by a restrictive immigration policy to live under a forged identity, my grandfather kept a secret that many Chinese-Americans are only now starting to acknowledge. wsj.com",
-   "url": "https://nitter.kareem.one/Lingling_Wei/status/2117304572045631533#m",
-   "ts": 1793639722,
-   "id": "2117304572045631533#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "\"Some hiring managers in China told me the attitude of young job seekers is at fault, describing them as lazy, picky and weak. Some might be. But the jobless numbers suggest there is a bigger economic problem,\" writes @hannahmiao_ wsj.com/world/china/what-i-l… via @WSJ Link What I Learned in ‘Dalifornia,’ China’s Laid-Back Capital of Doing Nothing A trend among China’s youth of fleeing the rat race and doing the bare minimum has prompted concern in Beijing. But most young Chinese do want to work. wsj.com",
-   "url": "https://nitter.kareem.one/Lingling_Wei/status/2117301887682940962#m",
-   "ts": 1793639082,
-   "id": "2117301887682940962#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "The U.S. Once Dominated the World’s Oceans. China’s Xi is Changing That. A colossus in shipbuilding, China is undertaking one of the largest peacetime naval buildups in modern history @NiharikaSM @joshchin wsj.com/world/china/china-xi… wsj.com/world/china/china-xi… Link The U.S. Once Dominated the World’s Oceans. China’s Xi is Changing That. A colossus in shipbuilding, China is undertaking one of the largest peacetime naval buildups in modern history. wsj.com",
-   "url": "https://nitter.kareem.one/JChengWSJ/status/2117089564024050082#m",
-   "ts": 1793588460,
-   "id": "2117089564024050082#m"
   },
   {
    "handle": "bcherny",
