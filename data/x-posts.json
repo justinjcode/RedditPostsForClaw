@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T15:54:19Z",
+ "generated_at": "2026-11-12T16:08:54Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Apple: “Introducing the new Siri” Me: “oh sick, can you turn off all my alarms” new Siri:",
+   "url": "https://nitter.kareem.one/swyx/status/2120908176967237654#m",
+   "ts": 1794498888,
+   "id": "2120908176967237654#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -517,15 +526,6 @@
    "url": "https://nitter.kareem.one/altryne/status/2120568343480713360#m",
    "ts": 1794417865,
    "id": "2120568343480713360#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "inv.kareem.one/live/ZZ19zhYnDKY Link AI Engineer Code Summit 2026 — Day 1 | November 11 Live from San Francisco, AI Engineer Code Summit 2026 brings togeth... youtube.com",
-   "url": "https://nitter.kareem.one/swyx/status/2120567361355042957#m",
-   "ts": 1794417631,
-   "id": "2120567361355042957#m"
   },
   {
    "handle": "TheRundownAI",
