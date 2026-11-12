@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-12T16:40:21Z",
+ "generated_at": "2026-11-12T16:47:09Z",
  "accounts_ok": [
+  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -10,7 +11,6 @@
  "errors": [
   "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
   "@TheRundownAI: all instances failed"
  ],
  "count": 176,
@@ -185,6 +185,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2120758305047904548#m",
    "ts": 1794463156,
    "id": "2120758305047904548#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Shoutout to @simonw who went right after me and was also hilarious and entertaining. Fun night! Justin Anderson (@ruskicanuk) Sienfeld level humor from @Steve_Yegge at @aiDotEngineer today. — https://nitter.kareem.one/ruskicanuk/status/2120691260201832606#m",
+   "url": "https://nitter.kareem.one/Steve_Yegge/status/2120755212726190131#m",
+   "ts": 1794462419,
+   "id": "2120755212726190131#m"
   },
   {
    "handle": "swyx",
@@ -518,15 +527,6 @@
    "url": "https://nitter.kareem.one/DBredvick/status/2120570469157920830#m",
    "ts": 1794418372,
    "id": "2120570469157920830#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "These awesome ladies are killing it at @aiDotEngineer code! 👩‍💻 IIRC this is the first all female keynote start at AIE? @swyx ? Back to back: @nserrino - 10X inference @lydiahallie - @claudeai best practices @michellechen - Cloudflare being a neolab @poteto - poteto poteto AI.Engineer @ CODE (@aiDotEngineer) The Code Summit livestream starts in 30 minutes. @nserrino ( @gimletlabs ) on 10x faster AI. @lydiahallie ( @AnthropicAI ) on Claude Code best practices. 9 AM PT. Watch free: inv.kareem.one/live/ZZ19zhYnDKY Presented by @GoogleDeepMind . — https://nitter.kareem.one/aiDotEngineer/status/2120554645781463093#m",
-   "url": "https://nitter.kareem.one/altryne/status/2120568343480713360#m",
-   "ts": 1794417865,
-   "id": "2120568343480713360#m"
   },
   {
    "handle": "TheRundownAI",
