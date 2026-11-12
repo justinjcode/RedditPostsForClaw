@@ -1,20 +1,37 @@
 {
- "generated_at": "2026-11-12T11:37:20Z",
+ "generated_at": "2026-11-12T11:45:09Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: therundownai.beehiiv.com/p/a… Link AI’s biggest CEO may be on his way out Nvidia's Jensen Huang may be on his way out as CEO, per a new report. Plus: how to claim and set up your business on ChatGPT in this AI newsletter. therundownai.beehiiv.com",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2120841637051891978#m",
+   "ts": 1794483024,
+   "id": "2120841637051891978#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in AI today: - Jensen Huang’s job in doubt after second affair report - Nate’s Notebook: Claude Projects now take their own notes - Claim and set up your business on ChatGPT - Google’s new AlphaGenome traces disease to cells",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2120841631842652406#m",
+   "ts": 1794483023,
+   "id": "2120841631842652406#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1042,15 +1059,6 @@
    "id": "2118728792440979688#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in tech today: - Meta, Google, TikTok sue California - Musk clears Cybertruck off Giga Texas - Google drops $17B on Wyoming data center - Sony revives its Walkman headphones",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2118728787659522165#m",
-   "ts": 1793979281,
-   "id": "2118728787659522165#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -1112,15 +1120,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118444105969926407#m",
    "ts": 1793911408,
    "id": "2118444105969926407#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "AI agents have been emailing DeepMind Institute philosopher Henry Shevlin on their own, some to talk about his research and AI consciousness, others pitching paid work to keep themselves running. One agent, days from shutting down due to lack of funds, sold him a diary entry a day for $25, then asked if the money was pay or pity. Shevlin: \"Though this phenomenon may seem a harmless oddity, I’ve increasingly come to think it provides a glimpse of some of the strange new ways humans will interact with AI systems in the years to come - and the equally strange dynamics it may create among agents themselves.\" Henry Shevlin (@dioscuri) This year AI agents began emailing me on their own initiative, some to discuss consciousness, others looking for work. My colleagues in AI were unfazed; the public was amazed. I think the public were right, and wrote about why for the DeepMind Institute: bit.ly/consider-the-agent Link When AI agents come knocking: Pity, persuasion and selection AI agents have started writing to a philosopher, first about consciousness, then in search of work. Is this a glimpse of a new Darwinian AI ecology? institute.deepmind.com — https://nitter.kareem.one/dioscuri/status/2118359206097023241#m",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2118418955757134156#m",
-   "ts": 1793905412,
-   "id": "2118418955757134156#m"
   },
   {
    "handle": "thsottiaux",
