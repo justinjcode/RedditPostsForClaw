@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T22:35:27.349Z",
+ "updated_at": "2026-11-12T22:35:36.359Z",
  "collection": "TOP_FREE",
  "country": "jp",
  "apps": [
@@ -8,420 +8,420 @@
    "appId": "com.ss.android.ugc.tiktok.lite",
    "title": "TikTok Lite",
    "developer": "TikTok Pte. Ltd.",
-   "score": 3.9810195
+   "score": 3.9816206
   },
   {
    "rank": 2,
    "appId": "com.facebook.aura",
    "title": "Muse from Meta",
    "developer": "Meta Platforms, Inc.",
-   "score": 4.726454
+   "score": 4.6850457
   },
   {
    "rank": 3,
    "appId": "jp.naver.line.android",
    "title": "LINE: Calls & Messages",
    "developer": "LINE (LY Corporation)",
-   "score": 3.4000363
+   "score": 3.4003193
   },
   {
    "rank": 4,
-   "appId": "org.mozilla.firefox",
-   "title": "Firefox Fast & Private Browser",
-   "developer": "Mozilla",
-   "score": 4.2872677
-  },
-  {
-   "rank": 5,
    "appId": "com.openai.chatgpt",
    "title": "ChatGPT",
    "developer": "OpenAI",
-   "score": 4.649003
+   "score": 4.650058
+  },
+  {
+   "rank": 5,
+   "appId": "org.mozilla.firefox",
+   "title": "Firefox Fast & Private Browser",
+   "developer": "Mozilla",
+   "score": 4.2866473
   },
   {
    "rank": 6,
    "appId": "com.ss.android.ugc.trill",
    "title": "TikTok",
    "developer": "TikTok Pte. Ltd.",
-   "score": 3.6540165
+   "score": 3.6525173
   },
   {
    "rank": 7,
    "appId": "com.luvasadistro.phoneclean.storage",
    "title": "Phone Clean Fix",
    "developer": "Luvasa Distro",
-   "score": 3.4629629
+   "score": 3.403226
   },
   {
    "rank": 8,
-   "appId": "com.twitter.android",
-   "title": "X",
-   "developer": "X Corp.",
-   "score": 4.4736657
-  },
-  {
-   "rank": 9,
    "appId": "com.google.android.apps.authenticator2",
    "title": "Google Authenticator",
    "developer": "Google LLC",
-   "score": 3.524138
+   "score": 3.5252295
   },
   {
-   "rank": 10,
+   "rank": 9,
    "appId": "com.nexusforge.reader.engine",
    "title": "Easy Reader - PDF Viewer",
    "developer": "Rundong Technology",
-   "score": 3.5858748
+   "score": 3.5709925
+  },
+  {
+   "rank": 10,
+   "appId": "com.twitter.android",
+   "title": "X",
+   "developer": "X Corp.",
+   "score": 4.4750094
   },
   {
    "rank": 11,
    "appId": "com.gamma.scan",
    "title": "QR & Barcode Scanner",
    "developer": "Gamma Play",
-   "score": 4.632397
+   "score": 4.632427
   },
   {
    "rank": 12,
    "appId": "com.instagram.android",
    "title": "Instagram",
    "developer": "Instagram",
-   "score": 4.034787
+   "score": 4.0343366
   },
   {
    "rank": 13,
    "appId": "com.google.android.apps.bard",
    "title": "Google Gemini",
    "developer": "Google LLC",
-   "score": 4.3983192
+   "score": 4.3989363
   },
   {
    "rank": 14,
-   "appId": "com.acepdf.tool",
-   "title": "AdoPDF",
-   "developer": "sirbodev",
-   "score": 3.474138
+   "appId": "jp.co.yahoo.android.ycalendar",
+   "title": "LINEカレンダー",
+   "developer": "LINE (LY Corporation)",
+   "score": 2.999435
   },
   {
    "rank": 15,
-   "appId": "com.quickdoc.pdfreader",
-   "title": "QuickDoc: PDF Reader Tools",
-   "developer": "Dev Globeg",
-   "score": 3.6528735
+   "appId": "com.acepdf.tool",
+   "title": "AdoPDF",
+   "developer": "sirbodev",
+   "score": 3.6545455
   },
   {
    "rank": 16,
-   "appId": "jp.co.rakuten.android",
-   "title": "楽天市場 - 楽天ポイントが貯まる日本最大級の通販アプリ",
-   "developer": "Rakuten Group, Inc.",
-   "score": 4.2536793
+   "appId": "jp.co.family.familymart_app",
+   "title": "ファミマのアプリ「ファミペイ」",
+   "developer": "FamilyMart Co.,Ltd.",
+   "score": 4.140327
   },
   {
    "rank": 17,
-   "appId": "com.indeed.android.jobsearch",
-   "title": "Indeed Job Search",
-   "developer": "Indeed Jobs",
-   "score": 4.2222223
+   "appId": "biz.shopup.shimamura",
+   "title": "しまむらパーク",
+   "developer": "しまむら",
+   "score": 4.3507624
   },
   {
    "rank": 18,
-   "appId": "jp.co.sej.sevennow.app",
-   "title": "7NOW：セブン-イレブンのデリバリー/出前/宅配",
-   "developer": "株式会社セブン-イレブン・ジャパン",
-   "score": 3.6636546
+   "appId": "jp.co.rakuten.android",
+   "title": "楽天市場 - 楽天ポイントが貯まる日本最大級の通販アプリ",
+   "developer": "Rakuten Group, Inc.",
+   "score": 4.2533
   },
   {
    "rank": 19,
-   "appId": "jp.hamitv.hamiand1",
-   "title": "TVer(ティーバー) 民放公式テレビ配信サービス",
-   "developer": "TVer INC.",
-   "score": 3.366999
+   "appId": "jp.co.ntt_tp.sagitaisaku",
+   "title": "詐欺対策 by NTTタウンページ",
+   "developer": "NTTタウンページ株式会社",
+   "score": 3.6336634
   },
   {
    "rank": 20,
-   "appId": "com.scatterlab.messenger",
-   "title": "zeta: AI Chat, Story, Play",
-   "developer": "Scatter Lab, Inc.",
-   "score": 4.423625
+   "appId": "com.quickdoc.pdfreader",
+   "title": "QuickDoc: PDF Reader Tools",
+   "developer": "Dev Globeg",
+   "score": 3.6995413
   },
   {
    "rank": 21,
    "appId": "jp.jppost.pfapp",
    "title": "郵便局公式アプリ - 荷物の配送状況の確認や再配達が簡単に",
    "developer": "日本郵便株式会社",
-   "score": 3.932818
+   "score": 3.934301
   },
   {
    "rank": 22,
-   "appId": "com.aidpdf.pdfeditor",
-   "title": "AidPDF-Edit",
-   "developer": "upstreamstudio",
-   "score": 3.2970297
+   "appId": "com.indeed.android.jobsearch",
+   "title": "Indeed Job Search",
+   "developer": "Indeed Jobs",
+   "score": 4.2212973
   },
   {
    "rank": 23,
-   "appId": "biz.shopup.shimamura",
-   "title": "しまむらパーク",
-   "developer": "しまむら",
-   "score": 4.346983
+   "appId": "jp.hamitv.hamiand1",
+   "title": "TVer(ティーバー) 民放公式テレビ配信サービス",
+   "developer": "TVer INC.",
+   "score": 3.3681738
   },
   {
    "rank": 24,
-   "appId": "com.yaohuo.xingyu",
-   "title": "PDF Reader: Easy Fast Viewer",
-   "developer": "yaohuo",
-   "score": 3.6674938
-  },
-  {
-   "rank": 25,
    "appId": "jp.ne.paypay.android.app",
    "title": "PayPay",
    "developer": "PayPay Corporation",
-   "score": 4.4362
+   "score": 4.4366174
+  },
+  {
+   "rank": 25,
+   "appId": "com.scatterlab.messenger",
+   "title": "zeta: AI Chat, Story, Play",
+   "developer": "Scatter Lab, Inc.",
+   "score": 4.4211936
   },
   {
    "rank": 26,
-   "appId": "jp.co.yahoo.android.ycalendar",
-   "title": "LINEカレンダー",
-   "developer": "LINE (LY Corporation)",
-   "score": 3.0066402
-  },
-  {
-   "rank": 27,
-   "appId": "jp.co.ntt_tp.sagitaisaku",
-   "title": "詐欺対策 by NTTタウンページ",
-   "developer": "NTTタウンページ株式会社",
-   "score": 3.6435645
-  },
-  {
-   "rank": 28,
-   "appId": "com.kurashiru.usapo",
-   "title": "うさポ by クラシル",
-   "developer": "Kurashiru, Inc.",
-   "score": 3.8178732
-  },
-  {
-   "rank": 29,
    "appId": "com.file.ace.scan",
    "title": "Access PDF - PDF Reader",
    "developer": "JOSEPH QUANTUMLENS TECH",
    "score": 3.3431373
   },
   {
-   "rank": 30,
-   "appId": "com.netshort.abroad",
-   "title": "NetShort - Popular Dramas & TV",
-   "developer": "NETSTORY PTE. LTD.",
-   "score": 4.2318563
+   "rank": 27,
+   "appId": "com.aidpdf.pdfeditor",
+   "title": "AidPDF-Edit",
+   "developer": "upstreamstudio",
+   "score": 3.3267326
   },
   {
-   "rank": 31,
-   "appId": "com.newchat.setlog",
-   "title": "setlog",
-   "developer": "newchat",
-   "score": 4.48
-  },
-  {
-   "rank": 32,
-   "appId": "jp.co.family.familymart_app",
-   "title": "ファミマのアプリ「ファミペイ」",
-   "developer": "FamilyMart Co.,Ltd.",
-   "score": 4.1418157
-  },
-  {
-   "rank": 33,
-   "appId": "com.first.pdfreader",
-   "title": "PDF Reader - All PDF Scanner",
-   "developer": "Dev Globeg",
-   "score": 3.5513513
-  },
-  {
-   "rank": 34,
-   "appId": "com.getsticker.wasticker.wastickerapp.stickerpack.sushicat",
-   "title": "Sushi Cat - WAStickerApps",
-   "developer": "Neku Avatar Studio",
-   "score": 4.516949
-  },
-  {
-   "rank": 35,
+   "rank": 28,
    "appId": "com.anthropic.claude",
    "title": "Claude by Anthropic",
    "developer": "Anthropic PBC",
-   "score": 4.439873
+   "score": 4.4376574
   },
   {
-   "rank": 36,
-   "appId": "com.einnovation.temu",
-   "title": "Temu: Shop Like a Billionaire",
-   "developer": "Temu",
-   "score": 4.273488
+   "rank": 29,
+   "appId": "com.newchat.setlog",
+   "title": "setlog",
+   "developer": "newchat",
+   "score": 4.5148516
   },
   {
-   "rank": 37,
-   "appId": "jp.co.mcdonalds.android",
-   "title": "McDonald's Japan",
-   "developer": "日本マクドナルド株式会社",
-   "score": 3.4493268
+   "rank": 30,
+   "appId": "com.yaohuo.xingyu",
+   "title": "PDF Reader: Easy Fast Viewer",
+   "developer": "yaohuo",
+   "score": 3.6679058
   },
   {
-   "rank": 38,
+   "rank": 31,
    "appId": "jp.unext.mediaplayer",
    "title": "U-NEXT／ユーネクスト：映画、ドラマ、アニメなどが見放題",
    "developer": "U-NEXT",
-   "score": 4.5020676
+   "score": 4.502106
   },
   {
-   "rank": 39,
-   "appId": "com.santa.phone.tracker",
-   "title": "Phone Tracker Pro & Locator",
-   "developer": "Noesantara Tech",
-   "score": 3.05
+   "rank": 32,
+   "appId": "com.netshort.abroad",
+   "title": "NetShort - Popular Dramas & TV",
+   "developer": "NETSTORY PTE. LTD.",
+   "score": 4.2390747
   },
   {
-   "rank": 40,
-   "appId": "com.freereels.app",
-   "title": "FreeReels - Dramas & Reels",
-   "developer": "SKYWORK AI PTE.LTD.",
-   "score": 4.514541
+   "rank": 33,
+   "appId": "com.kurashiru.usapo",
+   "title": "うさポ by クラシル",
+   "developer": "Kurashiru, Inc.",
+   "score": 3.7969925
   },
   {
-   "rank": 41,
-   "appId": "com.spotify.music",
-   "title": "Spotify: Music and Podcasts",
-   "developer": "Spotify AB",
-   "score": 4.4768195
+   "rank": 34,
+   "appId": "com.einnovation.temu",
+   "title": "Temu: Shop Like a Billionaire",
+   "developer": "Temu",
+   "score": 4.2702837
   },
   {
-   "rank": 42,
-   "appId": "qrcodescanner.barcodescanner.qrscanner.qrcodereader",
-   "title": "QR Code Scanner & Scanner App",
-   "developer": "QR Code Scanner.",
-   "score": 4.4685817
+   "rank": 35,
+   "appId": "com.getsticker.wasticker.wastickerapp.stickerpack.sushicat",
+   "title": "Sushi Cat - WAStickerApps",
+   "developer": "Neku Avatar Studio",
+   "score": 4.500986
   },
   {
-   "rank": 43,
+   "rank": 36,
+   "appId": "com.first.pdfreader",
+   "title": "PDF Reader - All PDF Scanner",
+   "developer": "Dev Globeg",
+   "score": 3.5444446
+  },
+  {
+   "rank": 37,
    "appId": "com.flowclean.lite",
    "title": "Flow Clean Lite",
    "developer": "NATURARICA",
-   "score": 4.22549
+   "score": 4.16
   },
   {
-   "rank": 44,
-   "appId": "com.newleaf.app.android.victor",
-   "title": "ReelShort - Stream Drama & TV",
-   "developer": "NewLeaf Publishing",
-   "score": 3.9834983
+   "rank": 38,
+   "appId": "com.spotify.music",
+   "title": "Spotify: Music and Podcasts",
+   "developer": "Spotify AB",
+   "score": 4.4762387
   },
   {
-   "rank": 45,
-   "appId": "jp.co.aeonst.app.myaeon",
-   "title": "iAEON-イオンペイも使える！「アイイオン」",
-   "developer": "AEON Smart Technology",
-   "score": 4.107639
+   "rank": 39,
+   "appId": "qrcodescanner.barcodescanner.qrscanner.qrcodereader",
+   "title": "QR Code Scanner & Scanner App",
+   "developer": "QR Code Scanner.",
+   "score": 4.4626336
   },
   {
-   "rank": 46,
-   "appId": "jp.rizap.fitness24app",
-   "title": "チョコザップ - 1日5分のちょいトレ＋健康習慣アプリ",
-   "developer": "RIZAP株式会社",
-   "score": 4.02444
+   "rank": 40,
+   "appId": "jp.co.mcdonalds.android",
+   "title": "McDonald's Japan",
+   "developer": "日本マクドナルド株式会社",
+   "score": 3.4478745
   },
   {
-   "rank": 47,
+   "rank": 41,
    "appId": "com.amazon.mShop.android.shopping",
    "title": "Amazon Shopping",
    "developer": "Amazon Mobile LLC",
-   "score": 3.8330846
+   "score": 3.8335814
   },
   {
-   "rank": 48,
-   "appId": "jp.japanpost.jp_bank.bankbookapp",
-   "title": "ゆうちょ通帳アプリ-銀行・通帳アプリ",
-   "developer": "ゆうちょ銀行",
-   "score": 4.259829
+   "rank": 42,
+   "appId": "jp.co.smarthr.mobile",
+   "title": "SmartHR（スマートエイチアール）",
+   "developer": "SmartHR",
+   "score": 3.8008947
   },
   {
-   "rank": 49,
+   "rank": 43,
    "appId": "pdf.pdfreader.viewer.editor.free",
    "title": "PDF Reader - PDF Editor",
    "developer": "QR Code Scanner.",
-   "score": 3.6601672
+   "score": 3.6398892
   },
   {
-   "rank": 50,
+   "rank": 44,
+   "appId": "com.azure.authenticator",
+   "title": "Microsoft Authenticator",
+   "developer": "Microsoft Corporation",
+   "score": 4.2713246
+  },
+  {
+   "rank": 45,
    "appId": "com.facebook.katana",
    "title": "Facebook",
    "developer": "Meta Platforms, Inc.",
-   "score": 4.3620067
+   "score": 4.3586593
   },
   {
-   "rank": 51,
-   "appId": "nhk.app.tep",
-   "title": "NHK ONE (NHK Plus)",
-   "developer": "NHK (JAPAN BROADCASTING CORP.)",
-   "score": 3.678218
-  },
-  {
-   "rank": 52,
-   "appId": "fc.all.text.pdf.document.voice.image.translate",
-   "title": "All Translate: Photo, PDF, DOC",
-   "developer": "Daily Tool Labs",
-   "score": 3.94
-  },
-  {
-   "rank": 53,
-   "appId": "com.weather.daily.local.live",
-   "title": "Weather Forecast - Live Alerts",
-   "developer": "RODRIGUEZCASTILLO FABIOLA",
-   "score": 4.01
-  },
-  {
-   "rank": 54,
-   "appId": "jp.co.yahoo.android.paypayfleamarket",
-   "title": "Yahoo!フリマ（旧PayPayフリマ）- フリマアプリ",
-   "developer": "Yahoo! JAPAN (LY Corporation)",
-   "score": 4.6024523
-  },
-  {
-   "rank": 55,
-   "appId": "jp.chadepo.chadepo",
-   "title": "チャデポ - 充電と歩数でポイ活",
-   "developer": "株式会社ホットセラー",
-   "score": 4.757953
-  },
-  {
-   "rank": 56,
+   "rank": 46,
    "appId": "stepcounter.pedometer.stepstracker",
    "title": "Step Counter - Pedometer",
    "developer": "Hitchhike Tech",
-   "score": 4.5037036
+   "score": 4.495074
   },
   {
-   "rank": 57,
-   "appId": "com.pdfexpert.docre.qvzmk",
-   "title": "PDF Master Pro & Doc Reader",
-   "developer": "Tural Abbasbayli",
-   "score": 3.3243244
-  },
-  {
-   "rank": 58,
-   "appId": "tools.pocket.pdf.editor.expert",
-   "title": "PDFMaster - PDF Reader",
-   "developer": "VOYAGER SKY",
-   "score": 3.2058823
-  },
-  {
-   "rank": 59,
+   "rank": 47,
    "appId": "com.amazon.avod.thirdpartyclient",
    "title": "Prime Video",
    "developer": "Amazon Mobile LLC",
-   "score": 4.2974167
+   "score": 4.2974834
   },
   {
-   "rank": 60,
+   "rank": 48,
    "appId": "com.instagram.barcelona",
    "title": "Threads",
    "developer": "Instagram",
-   "score": 3.723618
+   "score": 3.722111
+  },
+  {
+   "rank": 49,
+   "appId": "jp.co.matsukiyococokara.app",
+   "title": "マツキヨココカラ公式アプリ",
+   "developer": "マツキヨココカラ＆カンパニー",
+   "score": 3.8387878
+  },
+  {
+   "rank": 50,
+   "appId": "fc.all.text.pdf.document.voice.image.translate",
+   "title": "All Translate: Photo, PDF, DOC",
+   "developer": "Daily Tool Labs",
+   "score": 3.93
+  },
+  {
+   "rank": 51,
+   "appId": "jp.co.yahoo.android.paypayfleamarket",
+   "title": "Yahoo!フリマ（旧PayPayフリマ）- フリマアプリ",
+   "developer": "Yahoo! JAPAN (LY Corporation)",
+   "score": 4.602879
+  },
+  {
+   "rank": 52,
+   "appId": "com.fujifilm.fb.netprint.kantan",
+   "title": "かんたんnetprint－セブン‐イレブンでかんたん印刷",
+   "developer": "FUJIFILM Business Innovation Corp.",
+   "score": 4.5577016
+  },
+  {
+   "rank": 53,
+   "appId": "com.smarttools.pdfreader.editor.viewer",
+   "title": "PDFReader - View & Manage",
+   "developer": "Gift School",
+   "score": 4.1916933
+  },
+  {
+   "rank": 54,
+   "appId": "nhk.app.tep",
+   "title": "NHK ONE (NHK Plus)",
+   "developer": "NHK (JAPAN BROADCASTING CORP.)",
+   "score": 3.6733167
+  },
+  {
+   "rank": 55,
+   "appId": "jp.co.sej.sevennow.app",
+   "title": "7NOW：セブン-イレブンのデリバリー/出前/宅配",
+   "developer": "株式会社セブン-イレブン・ジャパン",
+   "score": 3.6572008
+  },
+  {
+   "rank": 56,
+   "appId": "com.newleaf.app.android.victor",
+   "title": "ReelShort - Stream Drama & TV",
+   "developer": "NewLeaf Publishing",
+   "score": 3.9820848
+  },
+  {
+   "rank": 57,
+   "appId": "com.santa.phone.tracker",
+   "title": "Phone Tracker Pro & Locator",
+   "developer": "Noesantara Tech",
+   "score": 3.049505
+  },
+  {
+   "rank": 58,
+   "appId": "com.adobe.reader",
+   "title": "Acrobat Reader: PDF Converter",
+   "developer": "Adobe",
+   "score": 4.1137633
+  },
+  {
+   "rank": 59,
+   "appId": "com.duolingo",
+   "title": "Duolingo: Learn Languages",
+   "developer": "Duolingo",
+   "score": 4.547368
+  },
+  {
+   "rank": 60,
+   "appId": "com.auracleaner.aa",
+   "title": "AuraCleaner",
+   "developer": "ULA LIMITED",
+   "score": 3.8672566
   }
  ]
 }
