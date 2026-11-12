@@ -1,8 +1,6 @@
 {
- "generated_at": "2026-11-12T05:55:13Z",
+ "generated_at": "2026-11-12T06:12:53Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,10 +9,21 @@
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Try Grok @Bot GREG ISENBERG (@gregisenberg) grok bot is the BEST AI agent orchestrator right now and THIS is the best setup i’ve EVER seen inv.kareem.one/1cWZ7Ekff6E?si=YkcM… it runs claude code for engineering and paper for design here is the FULL setup and how to copy it: Video — https://nitter.kareem.one/gregisenberg/status/2120594418231398677#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2120758305047904548#m",
+   "ts": 1794463156,
+   "id": "2120758305047904548#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -230,6 +239,15 @@
    "url": "https://nitter.kareem.one/romanugarte_/status/2120598306585989302#m",
    "ts": 1794425009,
    "id": "2120598306585989302#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "grok bot is the BEST AI agent orchestrator right now and THIS is the best setup i’ve EVER seen inv.kareem.one/1cWZ7Ekff6E?si=YkcM… it runs claude code for engineering and paper for design here is the FULL setup and how to copy it: Video Grok Bot (@bot) Introducing Grok Bot 1.0. AI teammates that work alongside your whole team. Share Bots, collaborate with them in Slack and Teams, invite them to meetings, and watch them learn and become more helpful. Video — https://nitter.kareem.one/bot/status/2120582957782200586#m",
+   "url": "https://nitter.kareem.one/gregisenberg/status/2120594418231398677#m",
+   "ts": 1794424082,
+   "id": "2120594418231398677#m"
   },
   {
    "handle": "elonmusk",
@@ -617,15 +635,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2120190153495027741#m",
    "ts": 1794327698,
    "id": "2120190153495027741#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "It seems wrong that ideology and idiot are unrelated words. They’re so perfect together.",
-   "url": "https://nitter.kareem.one/jamesdouma/status/2120181992574918849#m",
-   "ts": 1794325752,
-   "id": "2120181992574918849#m"
   },
   {
    "handle": "TheRundownAI",
@@ -1580,15 +1589,6 @@
    "url": "https://nitter.kareem.one/bunjavascript/status/2110692261508079721#m",
    "ts": 1792063224,
    "id": "2110692261508079721#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon Musk has a track record of calling hard problems early. In a February 2026 interview, he warned: “Those who have lived in software land don’t realize they’re about to have a hard lesson in hardware.” By late August, SpaceX confirmed it was bringing the casting of gas-turbine blades and vanes in-house — the single biggest bottleneck for new natural-gas power plants needed to feed AI data centers. Musk said the move could bring turbines online up to 18 months faster. Today he put it even more bluntly: SpaceX has “a super cracked team that is outperforming the rest of the world by an order of magnitude in mass to orbit — and even we find it very difficult.” Hardware doesn’t care about demos, funding rounds, or slide decks. The teams that actually build the hard stuff keep winning. What a legend. Video Elon Musk (@elonmusk) It’s not that supercomputer data centers are not in high demand, as they definitely are. However, getting money to build complex hardware systems with massive power, cooling & networking is not the same as doing it. SpaceX has a super cracked team that is outperforming the rest of the world by an order of magnitude in mass to orbit and even we find it very difficult! — https://nitter.kareem.one/elonmusk/status/2110122281603326170#m",
-   "url": "https://nitter.kareem.one/Dogetothemoon/status/2110140249141821578#m",
-   "ts": 1791931614,
-   "id": "2110140249141821578#m"
   },
   {
    "handle": "bcherny",
