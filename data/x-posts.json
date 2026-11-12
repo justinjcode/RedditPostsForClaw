@@ -1,20 +1,28 @@
 {
- "generated_at": "2026-11-12T04:30:50Z",
+ "generated_at": "2026-11-12T04:38:33Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "A Mystery Businessman Introduced Jensen Huang to His Paramour—Her Husband: Kang Wei appeared to accept that his wife Alice Huang was in a romantic relationship and spoke openly of her closeness to the Nvidia chief @Lingling_Wei wsj.com/tech/ai/a-mystery-bu… wsj.com/tech/ai/a-mystery-bu… Link A Mystery Businessman Introduced Jensen Huang to His Paramour—Her Husband Kang Wei appeared to accept that his wife Alice Huang was in a romantic relationship and spoke openly of her closeness to the Nvidia chief. wsj.com",
+   "url": "https://nitter.kareem.one/JChengWSJ/status/2120736091489874302#m",
+   "ts": 1794457860,
+   "id": "2120736091489874302#m"
+  },
   {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
@@ -167,6 +175,15 @@
    "url": "https://nitter.kareem.one/MegynKellyShow/status/2120613021907112358#m",
    "ts": 1794428518,
    "id": "2120613021907112358#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Bot 1.0 is out. Our goal for this release was to make Bots a much more useful part of your team. Some new things we're excited about: - Bots can now join Zoom, Google Meet, and more. You can ask Bot questions in meetings and even assign it action items. We have ours taking standup notes every day in our shared Google Doc and doing background research on discussion themes. Soon, you'll be able to talk back and forth with it live in a meeting. - A new interface for managing your Bots. You can see and steer their responsibilities, what they're learning, and their impact. It's impossible to build trust in an AI teammate if it's a black box, so it should proactively flag when it's blocked or confused, take and learn from feedback across the company, and be able to succinctly summarize its contributions. - Better collaboration in Slack and Teams. Bots are more ambiently aware, carry context across conversations, and learn from your team over time. In our Slack, we regularly see threads between members of our team and multiple Bots, handing off work, context, and decisions. Bots should intuit your company's customs and how work gets done, not just execute on the specific tasks they're given. Grok Bot (@bot) Introducing Grok Bot 1.0. AI teammates that work alongside your whole team. Share Bots, collaborate with them in Slack and Teams, invite them to meetings, and watch them learn and become more helpful. Video — https://nitter.kareem.one/bot/status/2120582957782200586#m",
+   "url": "https://nitter.kareem.one/romanugarte_/status/2120598306585989302#m",
+   "ts": 1794425009,
+   "id": "2120598306585989302#m"
   },
   {
    "handle": "elonmusk",
@@ -536,15 +553,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2120266880963473789#m",
    "ts": 1794345991,
    "id": "2120266880963473789#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "🚨 BREAKING: The FCC accepts SpaceX's application to acquire nationwide 800 MHz spectrum Verizon, AT&T and T-Mobile all told SpaceX \"NO\" when it asked to use their networks. SpaceX is building its own: This deal with Grain Management secures 546 paired licenses covering ~100% of the U.S. population, on 800 MHz low band that penetrates straight through walls and already works with almost every smartphone. Once it closes, SpaceX will hold up to 89 MHz of spectrum in every market it touches. Elon Musk: \"This is the last critical piece of the spectrum puzzle needed for SpaceX to provide complete phone coverage in America.\" ITS HAPPENING",
-   "url": "https://nitter.kareem.one/ns123abc/status/2120264216896753767#m",
-   "ts": 1794345356,
-   "id": "2120264216896753767#m"
   },
   {
    "handle": "swyx",
@@ -1204,15 +1212,6 @@
    "id": "2117655816581071203#m"
   },
   {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "This contradiction-wanting foreign capital while reflexively protecting insiders-mirrors a tension at the heart of China’s economic model. It’s the same tension visible in the current stock-market rout, where Beijing is simultaneously trying to stabilize stock prices and tightening its grip on the information environment. wsj.com/world/china/china-st… Link China Stock Market’s Hidden Problem: Foreign Investors Get a Different Truth Plus, China supercharges its navy, economists question GDP figures and a WSJ reporter reveals his family’s immigration secrets. | WSJ China for Nov. 3. wsj.com",
-   "url": "https://nitter.kareem.one/Lingling_Wei/status/2117608870910513633#m",
-   "ts": 1793712272,
-   "id": "2117608870910513633#m"
-  },
-  {
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
    "author": "@realDonaldTrump",
@@ -1474,9 +1473,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
