@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T04:38:33Z",
+ "generated_at": "2026-11-12T04:46:46Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -7,13 +7,23 @@
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@simonw: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "What an incredible first day at AI Engineer Code Summit. Heard some amazing talks! I want to shout out a few of my favorites: @poteto @CompleteSkeptic @Steve_Yegge @simonw Some of the themes: let's be more ambitious. Be intentional with building trust in your agents. Finally got to meet my friend @thecsguy IRL today too. @swyx and team, thank you again for putting on the conference. Can't wait for tomorrow.",
+   "url": "https://nitter.kareem.one/joshdbirdwell/status/2120737357582553132#m",
+   "ts": 1794458162,
+   "id": "2120737357582553132#m"
+  },
   {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
@@ -22,6 +32,15 @@
    "url": "https://nitter.kareem.one/JChengWSJ/status/2120736091489874302#m",
    "ts": 1794457860,
    "id": "2120736091489874302#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "All systems are looking good, and weather is favorable for liftoff. Propellant load is about to begin for Falcon 9’s launch of the USSF-627 mission from California → spacex.com/launches/ussf627",
+   "url": "https://nitter.kareem.one/SpaceX/status/2120725054933635188#m",
+   "ts": 1794455228,
+   "id": "2120725054933635188#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -234,6 +253,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "Thank you to all those who have served, including the veterans we're proud to call members of the SpaceX family. Happy Veterans Day!",
+   "url": "https://nitter.kareem.one/SpaceX/status/2120584703082446863#m",
+   "ts": 1794421766,
+   "id": "2120584703082446863#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "Hire Grok @Bot as a colleague and give it your hardest tasks! Grok Bot (@bot) Introducing Grok Bot 1.0. AI teammates that work alongside your whole team. Share Bots, collaborate with them in Slack and Teams, invite them to meetings, and watch them learn and become more helpful. Video — https://nitter.kareem.one/bot/status/2120582957782200586#m",
    "url": "https://nitter.kareem.one/elonmusk/status/2120584535423565889#m",
    "ts": 1794421726,
@@ -375,15 +403,6 @@
    "id": "2120466878812536971#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Portable, lightning-fast Internet that works anywhere on Earth where Starlink is legal! Starlink (@Starlink) Introducing Mini 2, the next-generation portable Starlink. Get up to 4.5 hours of connectivity on a single charge with the quick-swap battery, or plug in with USB-C. With built-in Wi-Fi, all you need is a clear view of the sky to get online in 60 seconds. Preorders are now open by invitation in the US. Be the first to know when it's available → starlink.com/mini-2 Video — https://nitter.kareem.one/Starlink/status/2120206875581186293#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2120432718639145404#m",
-   "ts": 1794385530,
-   "id": "2120432718639145404#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -492,15 +511,6 @@
    "id": "2120314958902944103#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "SpaceX has ordered 100 GW/year of HJT solar manufacturing equipment from Singulus in Germany. This is for Starmind to create a sentient sun. SpaceX (@SpaceX) We have signed a major supply contract with SINGULUS to create a durable option for advanced solar cell manufacturing to support more than 100 GW of equipment as we accelerate the production of our Starmind satellites in Bastrop, Texas → singulus.com/2026/11/10/spac… Link SINGULUS TECHNOLOGIES Announces Major Supply Contract with SpaceX for Advanced HJT Solar Cell... SINGULUS TECHNOLOGIES to deliver a turnkey heterojunction solar cell production line to SpaceX. First line due in H1 2027, more lines planned. singulus.com — https://nitter.kareem.one/SpaceX/status/2120231065394590007#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2120302471210033426#m",
-   "ts": 1794354477,
-   "id": "2120302471210033426#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -526,15 +536,6 @@
    "url": "https://nitter.kareem.one/bot/status/2120279511707386263#m",
    "ts": 1794349003,
    "id": "2120279511707386263#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Thanks for everyone that showed up to my talk and sorry for the 170 slides 😂 Oana Olteanu (@oanaolt) AI is like working on shifting sands with a bottleneck that moves @TheAhmadOsman — https://nitter.kareem.one/oanaolt/status/2120246100800291261#m",
-   "url": "https://nitter.kareem.one/TheAhmadOsman/status/2120269968101290208#m",
-   "ts": 1794346727,
-   "id": "2120269968101290208#m"
   },
   {
    "handle": "thsottiaux",
