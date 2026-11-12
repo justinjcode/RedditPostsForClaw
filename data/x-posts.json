@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-12T13:54:16Z",
+ "generated_at": "2026-11-12T14:09:27Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,9 +10,38 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "I don't think I ever quote Zhang Weiwei of Fudan but his term “Spiritual Americans” 精神美国人 comes to mind instantly The Economist (@TheEconomist) Nvidia’s co-founder came to believe that he was too important for the normal rules to apply to him. This culture of impunity must end. It has damaged one of America’s great corporate successes and undermined its national security economist.com/leaders/2026/1… Link Jensen Huang must go His should not be the only head to roll economist.com — https://nitter.kareem.one/TheEconomist/status/2120859163467149389#m",
+   "url": "https://nitter.kareem.one/ZichenWanghere/status/2120881523348197843#m",
+   "ts": 1794492533,
+   "id": "2120881523348197843#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "NVIDIA announces CEO transition. Read the release: nvidianews.nvidia.com/news/n… Link NVIDIA Announces CEO Transition NVIDIA (NASDAQ: NVDA) Board of Directors announced today that Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately. nvidianews.nvidia.com",
+   "url": "https://nitter.kareem.one/nvidianewsroom/status/2120876571829662014#m",
+   "ts": 1794491353,
+   "id": "2120876571829662014#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "Nvidia’s co-founder came to believe that he was too important for the normal rules to apply to him. This culture of impunity must end. It has damaged one of America’s great corporate successes and undermined its national security economist.com/leaders/2026/1… Link Jensen Huang must go His should not be the only head to roll economist.com",
+   "url": "https://nitter.kareem.one/TheEconomist/status/2120859163467149389#m",
+   "ts": 1794487202,
+   "id": "2120859163467149389#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -990,15 +1018,6 @@
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
-   "text": "Journalism schools should be outlawed.",
-   "url": "https://nitter.kareem.one/ZichenWanghere/status/2119259749091008811#m",
-   "ts": 1794105872,
-   "id": "2119259749091008811#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
    "text": "Apparently there’s a lady named Dana White who is an DoD public affairs assistant and I guarantee you someone recommended her to Trump and he thought they meant UFC Dana White and nobody is allowed to correct him lol",
    "url": "https://nitter.kareem.one/FanSince09/status/2119154247145312338#m",
    "ts": 1794080719,
@@ -1075,15 +1094,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118569235953893573#m",
    "ts": 1793941241,
    "id": "2118569235953893573#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Read the full article here, or find the highlights in the thread below. carbonbrief.org/analysis-chi… Link Analysis: China’s quarterly CO2 falls 3% in largest drop since Covid - Carbon Brief China’s carbon dioxide (CO2) emissions fell by 3.1% in the third quarter of 2026, as the Hormuz crisis continued to hit oil demand and coal use also dropped. carbonbrief.org",
-   "url": "https://nitter.kareem.one/laurimyllyvirta/status/2118565173187264900#m",
-   "ts": 1793940272,
-   "id": "2118565173187264900#m"
   },
   {
    "handle": "thsottiaux",
@@ -1201,15 +1211,6 @@
    "url": "https://nitter.kareem.one/bcherny/status/2117693181651542387#m",
    "ts": 1793732373,
    "id": "2117693181651542387#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "Come work for the best Middle East team in journalism. We have a new opening for a Farsi-speaking reporter in Dubai to join an Iran reporting team that breaks news about and explains the Islamic Republic to our millions of readers. Apply here. wsj.jobs/dubai-are/mideast-c…",
-   "url": "https://nitter.kareem.one/michaelkamon/status/2117683721834775038#m",
-   "ts": 1793730118,
-   "id": "2117683721834775038#m"
   },
   {
    "handle": "simonw",
