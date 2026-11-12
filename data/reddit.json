@@ -1,15 +1,211 @@
 {
- "generated_at": "2026-11-12T04:10:29Z",
+ "generated_at": "2026-11-12T20:09:25Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
+  "MachineLearning",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Jensen today at Nvidia board meeting",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xumhm3/jensen_today_at_nvidia_board_meeting/",
+   "ts": 1794512388,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Intel Arc Vulkan prefill got a dedicated FA kernel in llama.cpp master",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xumdj4/intel_arc_vulkan_prefill_got_a_dedicated_fa/",
+   "ts": 1794512139,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Creating author burdens to reduce paper submissions is STUPID [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xul9u7/creating_author_burdens_to_reduce_paper/",
+   "ts": 1794509713,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "So this will be true in couple of years?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xukt9t/so_this_will_be_true_in_couple_of_years/",
+   "ts": 1794508697,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "UptimeKuma | Too many False-Positive Notifications",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xukh5f/uptimekuma_too_many_falsepositive_notifications/",
+   "ts": 1794507935,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Does Meta's brain-response model (TRIBE v2) actually recover retinotopy/tonotopy/motion maps? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xuillf/does_metas_brainresponse_model_tribe_v2_actually/",
+   "ts": 1794503806,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "CMP170hx now fully unlockabke and more, full 120 SMs —> Techie uses voltage glitching hack to turn $2,500 Nvidia 8GB cryptomining GPU into a full-fat $20,000 A100 with 80GB of VRAM — hack carefully blows onboard fuses to unlock entire VRAM and shader modules",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuijih/cmp170hx_now_fully_unlockabke_and_more_full_120/",
+   "ts": 1794503683,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "A simple way to keep your self-hosted website accessible during outages",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xui448/a_simple_way_to_keep_your_selfhosted_website/",
+   "ts": 1794502763,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "qwen3.8-flash shows us a glimpse of whats possible for smaller hardware",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xugw1p/qwen38flash_shows_us_a_glimpse_of_whats_possible/",
+   "ts": 1794500012,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "What if NeurIPS, ICML, and ICLR capped accepted papers at 1,000 each? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xugl6c/what_if_neurips_icml_and_iclr_capped_accepted/",
+   "ts": 1794499333,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "How to post an AC-confidential comment on OpenReview for ICLR 2027? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xug0ym/how_to_post_an_acconfidential_comment_on/",
+   "ts": 1794498078,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "trying to block ads and trackers on every device at home, including the smart tv, self hosted dns options",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xufeum/trying_to_block_ads_and_trackers_on_every_device/",
+   "ts": 1794496645,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Mini-ITX NAS",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xuf9mg/miniitx_nas/",
+   "ts": 1794496292,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "CVPR 2027 Author enrollment form [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xue879/cvpr_2027_author_enrollment_form_d/",
+   "ts": 1794493815,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Import Calibre catalogue in BookOrbit",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xudh0j/import_calibre_catalogue_in_bookorbit/",
+   "ts": 1794491989,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Nvidia's Jensen Huang Resigns as CEO, Colette Kress Named Interim",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xudeev/nvidias_jensen_huang_resigns_as_ceo_colette_kress/",
+   "ts": 1794491811,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "UMAP 0.6: new initialization, new optimizers and faster performance [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xudaah/umap_06_new_initialization_new_optimizers_and/",
+   "ts": 1794491518,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Edge0/Edge0-145B-q3k · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuczw4/edge0edge0145bq3k_hugging_face/",
+   "ts": 1794490759,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Results: 2026 Self-Host User Survey (selfh.st)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xucgh8/results_2026_selfhost_user_survey_selfhst/",
+   "ts": 1794489250,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Alleged GeForce RTX 5090 with 96GB listed for sale in China",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xucffq/alleged_geforce_rtx_5090_with_96gb_listed_for/",
+   "ts": 1794489173,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "M720q Tiny as a DIY NAS + homelab: most reliable SATA expansion for 4 drives?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xub8mf/m720q_tiny_as_a_diy_nas_homelab_most_reliable/",
+   "ts": 1794485689,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "After four years of development, are LLMs capable of writing high-quality prose?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xub4s2/after_four_years_of_development_are_llms_capable/",
+   "ts": 1794485352,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Meet the people behind MOSS-Image, plus a few answers from their AMA here",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuad5c/meet_the_people_behind_mossimage_plus_a_few/",
+   "ts": 1794482827,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "KQuant - new quantization technique, 3.7× better quants for Qwen Flash Next 180B, Qwen 27B, 35B, 9B (measured in KL-divergence reduction) (MLX)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu9onk/kquant_new_quantization_technique_37_better/",
+   "ts": 1794480444,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Best iOS EPUB app for Calibre Web",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xu6w3o/best_ios_epub_app_for_calibre_web/",
+   "ts": 1794469929,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "How much does reviewer confidence matter in ICLR decisions? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xu3n5f/how_much_does_reviewer_confidence_matter_in_iclr/",
+   "ts": 1794458574,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "trying to get family music and audiobooks off spotify and audible, open source stuff that seems to cover most of it",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xu3kqm/trying_to_get_family_music_and_audiobooks_off/",
+   "ts": 1794458358,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "The regulation of local AI could/should be viewed as the largest censorship implementation in the history of mankind.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu2mdo/the_regulation_of_local_ai_couldshould_be_viewed/",
+   "ts": 1794455373,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Phylum - Self Hosted Cloud File Storage",
@@ -18,10 +214,17 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Walmart drives",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xu1umh/walmart_drives/",
-   "ts": 1794453024,
+   "subreddit": "MachineLearning",
+   "title": "Missed Presentation [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xu1szu/missed_presentation_d/",
+   "ts": 1794452900,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "I fine-tuned EVA-02 in a week to build a neural video retrieval engine for what CLIP still won't do [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xu1pg4/i_finetuned_eva02_in_a_week_to_build_a_neural/",
+   "ts": 1794452614,
    "source": "Reddit"
   },
   {
@@ -39,31 +242,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "I released Inflect v3: lightweight local TTS in 34M parameters (Apache 2.0)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtzwxf/i_released_inflect_v3_lightweight_local_tts_in/",
-   "ts": 1794447370,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "What would be a reasonable network configuration for hosting semi-publicly (whitelist) and privately",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xtzs92/what_would_be_a_reasonable_network_configuration/",
-   "ts": 1794446996,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "DeepSeek V4.1 Flash 1017 exl3 2.9bpw APEX 2025 benchmark results",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtyxl9/deepseek_v41_flash_1017_exl3_29bpw_apex_2025/",
-   "ts": 1794444608,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Architecture trends: From full to local attention",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtvxtp/architecture_trends_from_full_to_local_attention/",
-   "ts": 1794436689,
+   "subreddit": "MachineLearning",
+   "title": "How to get desk-rejected at NeurIPS/ICML/ICLR [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xu08e7/how_to_get_deskrejected_at_neuripsicmliclr_d/",
+   "ts": 1794448307,
    "source": "Reddit"
   },
   {
@@ -88,24 +270,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "[2610.29162v1] Why is AI-generated language so hard to understand?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtux72/261029162v1_why_is_aigenerated_language_so_hard/",
-   "ts": 1794434189,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
-   "title": "I built an explorer of 2,100+ robotics papers covering 10 years of CoRL; with TLDRs, links to code, project pages, and research trends [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xtul3j/i_built_an_explorer_of_2100_robotics_papers/",
-   "ts": 1794433374,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Own Everything & Be Happy, Ep. 1 | DIY Router Guide",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xttlom/own_everything_be_happy_ep_1_diy_router_guide/",
-   "ts": 1794431035,
+   "title": "How should authors handle a suspected auto-generated review at ICLR? Flag to the AC or just rebut? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xtvipb/how_should_authors_handle_a_suspected/",
+   "ts": 1794435631,
    "source": "Reddit"
   },
   {
@@ -130,41 +298,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "I'm releasing a Local World Model Ive been building that turns images into interactive videos you control in real time. It works on RTX 3060, 4060 and anything above, linking huggingface",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtpc2v/im_releasing_a_local_world_model_ive_been/",
-   "ts": 1794421257,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Microsoft files a patent application to train AI models on idle consumer GPUs",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtowe4/microsoft_files_a_patent_application_to_train_ai/",
-   "ts": 1794420304,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "AI ‘slop’ is a social judgement [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xtour7/ai_slop_is_a_social_judgement_r/",
-   "ts": 1794420198,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Media Server Dashboard v2",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xto5xz/media_server_dashboard_v2/",
-   "ts": 1794418701,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Open-source method (MACaQ) beats Unsloth GGUFs!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xto0fa/opensource_method_macaq_beats_unsloth_ggufs/",
-   "ts": 1794418360,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Google Search's foundational PageRank patent has expired. What will be the impact of this",
    "url": "https://www.reddit.com/r/programming/comments/1xtmzs5/google_searchs_foundational_pagerank_patent_has/",
@@ -179,13 +312,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Open source self driving is here!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtmeif/open_source_self_driving_is_here/",
-   "ts": 1794414878,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Go Turns 17 - The Go Programming Language",
    "url": "https://www.reddit.com/r/programming/comments/1xtm606/go_turns_17_the_go_programming_language/",
@@ -194,44 +320,9 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "New Qwen3.8-27B Unsloth Dynamic V3.1 GGUFs",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtlyhe/new_qwen3827b_unsloth_dynamic_v31_ggufs/",
-   "ts": 1794413875,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "[Bi-Weekly Megathread] Project Showcase",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtjze2/biweekly_megathread_project_showcase/",
    "ts": 1794409341,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Praise for goHardDrive warranty service",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xtj3k7/praise_for_goharddrive_warranty_service/",
-   "ts": 1794407194,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Budibase 4.0 - Build Agents, Apps, & Automations on your own infrastructure",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xtiw5v/budibase_40_build_agents_apps_automations_on_your/",
-   "ts": 1794406682,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Self hosted Glean alternative just ranked #1 on EnterpriseRAG-Bench, ahead of the listed systems from OpenAI, Google, Microsoft and Amazon",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xti468/self_hosted_glean_alternative_just_ranked_1_on/",
-   "ts": 1794404719,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Mod ttkciar is harassing this sub",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xthew3/mod_ttkciar_is_harassing_this_sub/",
-   "ts": 1794402812,
    "source": "Reddit"
   },
   {
@@ -243,44 +334,9 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Do you use your own CA / self-signed certificates for your self-hosted services?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xteqse/do_you_use_your_own_ca_selfsigned_certificates/",
-   "ts": 1794394185,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Ernie 5.5 Flash will be released in two weeks",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xted8w/ernie_55_flash_will_be_released_in_two_weeks/",
-   "ts": 1794392783,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "NVIDIA reportedly cancels GeForce RTX 5080 24GB launch, brings back 16GB model over GDDR7 costs",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtdwps/nvidia_reportedly_cancels_geforce_rtx_5080_24gb/",
-   "ts": 1794391130,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "DockTail 1.8: Tailscale Services for your Docker containers, now with custom paths, multiple services per container and no host ports needed",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xtbx7a/docktail_18_tailscale_services_for_your_docker/",
-   "ts": 1794383449,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "What a self-hosted dashboard looks like on 31.5 inches of colour e-ink",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xtaf06/what_a_selfhosted_dashboard_looks_like_on_315/",
    "ts": 1794377923,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Would you pick your strongest model to coordinate other agents? Results from WorkflowArena [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xt9hbe/would_you_pick_your_strongest_model_to_coordinate/",
-   "ts": 1794374743,
    "source": "Reddit"
   },
   {
@@ -288,13 +344,6 @@
    "title": "Regressive JPEGs",
    "url": "https://www.reddit.com/r/programming/comments/1xt7wkx/regressive_jpegs/",
    "ts": 1794369660,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Why are Anthropic's top researchers cited twice as much as OpenAI's? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xt5xld/why_are_anthropics_top_researchers_cited_twice_as/",
-   "ts": 1794363774,
    "source": "Reddit"
   },
   {
@@ -312,31 +361,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "I have trained 15+ models on my own blood sugar & metabonet dataset [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xsussb/i_have_trained_15_models_on_my_own_blood_sugar/",
-   "ts": 1794335732,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Announcing .NET 11",
    "url": "https://www.reddit.com/r/programming/comments/1xstxzv/announcing_net_11/",
    "ts": 1794333869,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "I benchmarked TimesFM 3.0, Chronos-2 and Toto 2.0 on market time series. None beat simple baseline. [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xsqztt/i_benchmarked_timesfm_30_chronos2_and_toto_20_on/",
-   "ts": 1794327256,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Introducing Usul - an easier way to express your NN using maths? [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xsmmfm/introducing_usul_an_easier_way_to_express_your_nn/",
-   "ts": 1794316551,
    "source": "Reddit"
   },
   {
@@ -368,38 +396,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "Did we ever really get to the bottom of why BatchNorm works? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xsasyf/did_we_ever_really_get_to_the_bottom_of_why/",
-   "ts": 1794276424,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "How we reduced core unit boot time from hours to minutes",
    "url": "https://www.reddit.com/r/programming/comments/1xs9ou9/how_we_reduced_core_unit_boot_time_from_hours_to/",
    "ts": 1794273195,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Forecasting new power outages per county, hourly, 2 h ahead: 2.4× the PR-AUC of NWS warnings + SPC outlook on a held-out year [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xs4hq8/forecasting_new_power_outages_per_county_hourly_2/",
-   "ts": 1794260078,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Latent prediction beats reconstruction for tactile pretraining on dexterous manipulation tasks[R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xs05uo/latent_prediction_beats_reconstruction_for/",
-   "ts": 1794250325,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Using latent-agent swarms for math discovery and optimization [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xrunu7/using_latentagent_swarms_for_math_discovery_and/",
-   "ts": 1794238250,
    "source": "Reddit"
   },
   {
