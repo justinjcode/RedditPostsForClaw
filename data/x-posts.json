@@ -1,20 +1,38 @@
 {
- "generated_at": "2026-11-12T20:38:13Z",
+ "generated_at": "2026-11-12T20:46:18Z",
  "accounts_ok": [
-  "ZichenWanghere",
+  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
   "@Lingling_Wei: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Sometimes I miss being the man behind the curtain at dev conferences (Next.js Conf and Laracon), but attending events with no responsibility is a pure delight Wish I'd had more time to hang at @aiDotEngineer and catch up but had to cut it short (will explain in next tweet) @swyx thank you for creating these and getting cool people there, + @Beccalytics (and many many others) for impeccable execution! I've been hanging out with these folks for years now, fun talking to them about the radical shifts in our careers and industry and also just having friends in faraway places. And of course the people I spoke to the most are the ones I forgot to take pics with 🤦",
+   "url": "https://nitter.kareem.one/theHankTaylor/status/2120979741843050943#m",
+   "ts": 1794515951,
+   "id": "2120979741843050943#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "@swyx and team provide a great experience and many benefits to speaking at @aiDotEngineer . 🙏 The speaker swag/bling is nice too!",
+   "url": "https://nitter.kareem.one/JPoehnelt/status/2120975588559393140#m",
+   "ts": 1794514960,
+   "id": "2120975588559393140#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -412,15 +430,6 @@
    "id": "2120659765223358848#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "“Software is gonna be so fucking back.” . @CompleteSkeptic is full of bangers and you will have to listen to his full talk at @aiDotEngineer , but for now, here is our top-10 of his pearls: 1“We’ve been announcing AGI three months away for two years now.” Meanwhile, go outside San Francisco and a lot of the world looks unchanged. Where the fuck is all the automation? 2“You get Einstein 95% of the time, but Mr. Bean 5% of the time.” And if you can’t tell which is which, how are you supposed to automate anything? 3“I do believe RLHF is part of the problem.” His complaint: we optimized models for assistance, with a human checking the result, and then expected them to reliably do work on their own. 4“The bitterest lesson is doing the right task.” Diogo thinks that compute matters more than algorithms, data matters more than compute, and choosing the right task matters most. You get what you optimize for. 5“I think the world still has LLM Stockholm Syndrome.” We keep designing around the limitations of today’s models. Why is the best we can come up with still the same software, cheaper to write, with a chatbot on the side? 6“What if we can program with common sense, with intention, with human understanding?” Very passionate talk! He suggests: put intelligence into the software’s inner loop. What could we build if understanding intent became a building block we could actually rely on? 7“Real fucking engineering by people who care a lot about the end result.” Break tasks down, build",
-   "url": "https://nitter.kareem.one/TheTuringPost/status/2120657299249533135#m",
-   "ts": 1794439074,
-   "id": "2120657299249533135#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -464,15 +473,6 @@
    "url": "https://nitter.kareem.one/NarutoNolimits/status/2120625963495277052#m",
    "ts": 1794431603,
    "id": "2120625963495277052#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Swyx gave me the “closing keynote” of AIE code, aka everyone is tired or flying out so if you’re not one of those please come to mine tomorrow at 5pm it’s called “the sweet side of the bitter lesson”",
-   "url": "https://nitter.kareem.one/trq212/status/2120620900785820143#m",
-   "ts": 1794430396,
-   "id": "2120620900785820143#m"
   },
   {
    "handle": "elonmusk",
