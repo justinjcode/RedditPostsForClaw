@@ -1,20 +1,37 @@
 {
- "generated_at": "2026-11-12T14:46:55Z",
+ "generated_at": "2026-11-12T14:56:49Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed",
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "advice travis kalanick (@travisk) Had a little time on my hands this morning to do some writing… send along to someone you know who may benefit --- “Practical principles to counter a modern-day coup/psyop/struggle session” 1) Own what you did but fiercely resist accommodating the mob, resist owning half-truths or actions/behaviors you didn’t do. 2) The op is not about your past actions, it’s about your enemies and this event as their opportunity 3) No matter how bad it gets, nothing is as bad as it seems. 4) Find the enemies at the very root of the op and find every creative problem-solving tool at your disposal to neutralize them. 5) People will throw their grandmother under the bus if they believe doing so will protect their reputation. They can become highly useful idiots in the op. Their power and access must be fiercely and quickly cut off. 6) Do not hesitate in cutting off anyone you suspect of disloyalty. 7) Build a team of close and loyal patriots and have one of them run a dedicated, well-resourced war room to put the rebellion to rest. 8) Use your patriots and regular meditation to buoy your psychological resistance to the op. 9) Your enemies aren’t as smart or hard working as you. Outsmart and outwork them as a way of life until the op is over. 10) Think about the op as if it were in the past. What are the difficult things you procrastinated on or avoided that would have stopped the op? Do them. 11) Never be ashamed of the op. Business as usual. Continue on with op",
+   "url": "https://nitter.kareem.one/swyx/status/2120889185779495074#m",
+   "ts": 1794494360,
+   "id": "2120889185779495074#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Jensen is out :/ NVIDIA Newsroom (@nvidianewsroom) NVIDIA announces CEO transition. Read the release: nvidianews.nvidia.com/news/n… Link NVIDIA Announces CEO Transition NVIDIA (NASDAQ: NVDA) Board of Directors announced today that Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately. nvidianews.nvidia.com — https://nitter.kareem.one/nvidianewsroom/status/2120876571829662014#m",
+   "url": "https://nitter.kareem.one/swyx/status/2120888435942760642#m",
+   "ts": 1794494181,
+   "id": "2120888435942760642#m"
+  },
   {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
@@ -415,6 +432,15 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
+   "text": "\"Hi my name is poteto and I shipped 3,000 PR's last month. I also go by Lauren\" lol I predict that this talk is going to blow up, so invest early! Video Alex Volkov (@altryne) These awesome ladies are killing it at @aiDotEngineer code! 👩‍💻 IIRC this is the first all female keynote start at AIE? @swyx ? Back to back: @nserrino - 10X inference @lydiahallie - @claudeai best practices @michellechen - Cloudflare being a neolab @poteto - poteto poteto — https://nitter.kareem.one/altryne/status/2120568343480713360#m",
+   "url": "https://nitter.kareem.one/altryne/status/2120579271249019071#m",
+   "ts": 1794420471,
+   "id": "2120579271249019071#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
    "text": "@swyx amazing episode with @joinHandshake . Really practical behind the scenes look at the data industry and I think there’s a lot of gold in here. Go listen if you have a few mins today share.snipd.com/episode/9bc3… Link What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team Episode from Latent Space: The AI Engineer Podcast share.snipd.com",
    "url": "https://nitter.kareem.one/DBredvick/status/2120570469157920830#m",
    "ts": 1794418372,
@@ -550,24 +576,6 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "this is my engines thread Josh Payne (@joshpxyne) The internet is dead. We’ve raised $35M total funding led by Khosla and Hanabi to bring it to life. @coframe is a growth engine for your website/ads/more which tests, personalizes, & learns 24/7. It’s working. Dropbox increased conversion by 158%. Replit, 410%. Cash App, 60%. Video — https://nitter.kareem.one/joshpxyne/status/2120207063624327602#m",
-   "url": "https://nitter.kareem.one/swyx/status/2120376333142569316#m",
-   "ts": 1794372087,
-   "id": "2120376333142569316#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "i had a preview of his keynote and you guys don’t know what youre in for in thursday. literally had to agree to embargo to get this talk on board (it is not the full story) tune in to the aie live stream 9am-6pm tmr and thursday!! Dmitry Lyalin (@LyalinDotCom) I can't believe so few of you follow Melvin... He's the VP of post training here in Google DeepMind. He's very active internally making things happen, and a wonderful human who listens to everyone. — https://nitter.kareem.one/LyalinDotCom/status/2120227647196467262#m",
-   "url": "https://nitter.kareem.one/swyx/status/2120372817720197357#m",
-   "ts": 1794371249,
-   "id": "2120372817720197357#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
    "text": "Appreciate everyone who showed up to my talk on Local AI at AIE Code today",
    "url": "https://nitter.kareem.one/TheAhmadOsman/status/2120366089788076073#m",
    "ts": 1794369644,
@@ -581,15 +589,6 @@
    "url": "https://nitter.kareem.one/fengchucheng/status/2120365119397941591#m",
    "ts": 1794369413,
    "id": "2120365119397941591#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Early vibes at AIE are dope! Excited for tomorrow! As always an incredible group of folks, and knuckleheads @aiDotEngineer",
-   "url": "https://nitter.kareem.one/altryne/status/2120352142603243697#m",
-   "ts": 1794366319,
-   "id": "2120352142603243697#m"
   },
   {
    "handle": "swyx",
