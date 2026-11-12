@@ -1,9 +1,7 @@
 {
- "generated_at": "2026-11-12T16:08:54Z",
+ "generated_at": "2026-11-12T16:20:56Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +9,21 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 176,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "SpaceX community benefits SpaceX (@SpaceX) SpaceX builds the infrastructure of the future. And we’re committed to making sure the communities where we build share in the benefits → spacex.com/updates#building-… Video — https://nitter.kareem.one/SpaceX/status/2120911599749697879#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2120912138772369758#m",
+   "ts": 1794499833,
+   "id": "2120912138772369758#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -445,15 +455,6 @@
    "url": "https://nitter.kareem.one/gregisenberg/status/2120594418231398677#m",
    "ts": 1794424082,
    "id": "2120594418231398677#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Person for scale",
-   "url": "https://nitter.kareem.one/elonmusk/status/2120591950961353125#m",
-   "ts": 1794423494,
-   "id": "2120591950961353125#m"
   },
   {
    "handle": "ZichenWanghere",
