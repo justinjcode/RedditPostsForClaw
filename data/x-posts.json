@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-12T20:46:18Z",
+ "generated_at": "2026-11-12T20:57:15Z",
  "accounts_ok": [
-  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,10 +10,20 @@
  ],
  "errors": [
   "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "lance starting out his keynote strong with fermat's proof aie code is now aie math Lance Martin (@RLanceMartin) if you are at @aiDotEngineer , come say hi! i'll be giving a talk Thurs (tmrw) 12:30p on two recent articles i worked on: (1) how we scaled a team of 1,000 Fable 5.2 agents to formalize of Fermat's Last Theorem and (2) a few ways to think about memory + dreaming. — https://nitter.kareem.one/RLanceMartin/status/2120636264030646397#m",
+   "url": "https://nitter.kareem.one/swyx/status/2120981552561844593#m",
+   "ts": 1794516382,
+   "id": "2120981552561844593#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -41,6 +50,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2120971665249112530#m",
    "ts": 1794514025,
    "id": "2120971665249112530#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "I always knew @jxnlco is an applied philosopher since I first took his class. Iconic talk today! In a doom and gloom climate, many are searching for answers on how their careers will unfold. If that is you, go watch his talk - the first one on the stream. inv.kareem.one/watch?v=y9JtCCZP… My takeaway is this: make space for exploration and learning. Great pick @swyx , to make this the first talk of the day to set the tone. Link AI Engineer Code Summit 2026 — Day 2 | November 12 Live from San Francisco, AI Engineer Code Summit 2026 brings togeth... youtube.com",
+   "url": "https://nitter.kareem.one/jysmhn/status/2120970400779919385#m",
+   "ts": 1794513723,
+   "id": "2120970400779919385#m"
   },
   {
    "handle": "swyx",
@@ -295,15 +313,6 @@
    "id": "2120755212726190131#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "The System One revolution is upon us! At @aiDotEngineer Code Summit today, lead Jev creator Diogo Almeida ( @CompleteSkeptic ) called on developers to automate everything. Also, Glean and others showed how they’re using Jev. latent.space/p/jev-revolutio… Link The Jev Revolution: What Engineers Are Already Building with System One Models — Latent Space At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they’re using Jev. latent.space",
-   "url": "https://nitter.kareem.one/latentspacepod/status/2120748081524470240#m",
-   "ts": 1794460718,
-   "id": "2120748081524470240#m"
-  },
-  {
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
@@ -320,15 +329,6 @@
    "url": "https://nitter.kareem.one/Hannah_juzi/status/2120742634390249909#m",
    "ts": 1794459420,
    "id": "2120742634390249909#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "What an incredible first day at AI Engineer Code Summit. Heard some amazing talks! I want to shout out a few of my favorites: @poteto @CompleteSkeptic @Steve_Yegge @simonw Some of the themes: let's be more ambitious. Be intentional with building trust in your agents. Finally got to meet my friend @thecsguy IRL today too. @swyx and team, thank you again for putting on the conference. Can't wait for tomorrow.",
-   "url": "https://nitter.kareem.one/joshdbirdwell/status/2120737357582553132#m",
-   "ts": 1794458162,
-   "id": "2120737357582553132#m"
   },
   {
    "handle": "elonmusk",
