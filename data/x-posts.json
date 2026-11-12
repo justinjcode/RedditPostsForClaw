@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-12T21:46:07Z",
+ "generated_at": "2026-11-12T21:57:47Z",
  "accounts_ok": [
-  "bcherny",
+  "TheRundownAI",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -9,9 +9,9 @@
   "thsottiaux"
  ],
  "errors": [
+  "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 176,
  "items": [
@@ -223,15 +223,6 @@
    "id": "2120889185779495074#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Jensen is out :/ NVIDIA Newsroom (@nvidianewsroom) NVIDIA announces CEO transition. Read the release: nvidianews.nvidia.com/news/n… Link NVIDIA Announces CEO Transition NVIDIA (NASDAQ: NVDA) Board of Directors announced today that Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately. nvidianews.nvidia.com — https://nitter.kareem.one/nvidianewsroom/status/2120876571829662014#m",
-   "url": "https://nitter.kareem.one/swyx/status/2120888435942760642#m",
-   "ts": 1794494181,
-   "id": "2120888435942760642#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -383,6 +374,15 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2120719962893349108#m",
    "ts": 1794454014,
    "id": "2120719962893349108#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "it was so fkin fun giving this talk! Turing Post (Ksenia Se) (@TheTuringPost) “Software is gonna be so fucking back.” . @CompleteSkeptic is full of bangers and you will have to listen to his full talk at @aiDotEngineer , but for now, here is our top-10 of his pearls: 1“We’ve been announcing AGI three months away for two years now.” Meanwhile, go outside San Francisco and a lot of the world looks unchanged. Where the fuck is all the automation? 2“You get Einstein 95% of the time, but Mr. Bean 5% of the time.” And if you can’t tell which is which, how are you supposed to automate anything? 3“I do believe RLHF is part of the problem.” His complaint: we optimized models for assistance, with a human checking the result, and then expected them to reliably do work on their own. 4“The bitterest lesson is doing the right task.” Diogo thinks that compute matters more than algorithms, data matters more than compute, and choosing the right task matters most. You get what you optimize for. 5“I think the world still has LLM Stockholm Syndrome.” We keep designing around the limitations of today’s models. Why is the best we can come up with still the same software, cheaper to write, with a chatbot on the side? 6“What if we can program with common sense, with intention, with human understanding?” Very passionate talk! He suggests: put intelligence into the software’s inner loop. What could we build if understanding intent became a building block we could actually rely on? 7“Real fucking engin",
+   "url": "https://nitter.kareem.one/CompleteSkeptic/status/2120717906443169847#m",
+   "ts": 1794453524,
+   "id": "2120717906443169847#m"
   },
   {
    "handle": "Lingling_Wei",
