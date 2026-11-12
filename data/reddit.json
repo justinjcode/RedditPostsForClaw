@@ -1,15 +1,99 @@
 {
- "generated_at": "2026-11-11T22:09:20Z",
+ "generated_at": "2026-11-12T04:10:29Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
-  "programming"
+  "programming",
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Phylum - Self Hosted Cloud File Storage",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xu1y9l/phylum_self_hosted_cloud_file_storage/",
+   "ts": 1794453321,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Walmart drives",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xu1umh/walmart_drives/",
+   "ts": 1794453024,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Someone voltage-glitched a CMP 170HX mining card into a working A100-80G, and it's ~1.18x faster than retail",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu1dkz/someone_voltageglitched_a_cmp_170hx_mining_card/",
+   "ts": 1794451670,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Go 1.27.4 security release: cgo flags and a net/http fix",
+   "url": "https://www.reddit.com/r/programming/comments/1xu0jb5/go_1274_security_release_cgo_flags_and_a_nethttp/",
+   "ts": 1794449186,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "I released Inflect v3: lightweight local TTS in 34M parameters (Apache 2.0)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtzwxf/i_released_inflect_v3_lightweight_local_tts_in/",
+   "ts": 1794447370,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "What would be a reasonable network configuration for hosting semi-publicly (whitelist) and privately",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xtzs92/what_would_be_a_reasonable_network_configuration/",
+   "ts": 1794446996,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "DeepSeek V4.1 Flash 1017 exl3 2.9bpw APEX 2025 benchmark results",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtyxl9/deepseek_v41_flash_1017_exl3_29bpw_apex_2025/",
+   "ts": 1794444608,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Architecture trends: From full to local attention",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtvxtp/architecture_trends_from_full_to_local_attention/",
+   "ts": 1794436689,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Nvidia is Preparing to Oust Nvidia CEO Jensen Huang",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtvsi7/nvidia_is_preparing_to_oust_nvidia_ceo_jensen/",
+   "ts": 1794436316,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "A dashboard my wife is finally interested in",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xtvo3p/a_dashboard_my_wife_is_finally_interested_in/",
+   "ts": 1794436004,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Rust's Type System is All You Need",
+   "url": "https://www.reddit.com/r/programming/comments/1xtvkph/rusts_type_system_is_all_you_need/",
+   "ts": 1794435764,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "[2610.29162v1] Why is AI-generated language so hard to understand?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtux72/261029162v1_why_is_aigenerated_language_so_hard/",
+   "ts": 1794434189,
+   "source": "Reddit"
+  },
   {
    "subreddit": "MachineLearning",
    "title": "I built an explorer of 2,100+ robotics papers covering 10 years of CoRL; with TLDRs, links to code, project pages, and research trends [P]",
@@ -18,10 +102,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Rust’s Type System is All You Need",
-   "url": "https://www.reddit.com/r/programming/comments/1xtu6oj/rusts_type_system_is_all_you_need/",
-   "ts": 1794432401,
+   "subreddit": "selfhosted",
+   "title": "Own Everything & Be Happy, Ep. 1 | DIY Router Guide",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xttlom/own_everything_be_happy_ep_1_diy_router_guide/",
+   "ts": 1794431035,
    "source": "Reddit"
   },
   {
@@ -33,9 +117,9 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Replicate UGOS",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xtrsgi/replicate_ugos/",
-   "ts": 1794426782,
+   "title": "Pi-Dock-Wifi: a Raspberry Pi 5 router with two Wi-Fi cards, Pi-hole and web dashboard",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xtsr4b/pidockwifi_a_raspberry_pi_5_router_with_two_wifi/",
+   "ts": 1794429005,
    "source": "Reddit"
   },
   {
@@ -43,20 +127,6 @@
    "title": "eMudhra's official incident report on how they ended up with private key 4",
    "url": "https://www.reddit.com/r/programming/comments/1xtrm8s/emudhras_official_incident_report_on_how_they/",
    "ts": 1794426376,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "OS Choice",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xtrd8t/os_choice/",
-   "ts": 1794425806,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "US and China \"may\" collaborate on AI. The jokes write themselves",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtqsuu/us_and_china_may_collaborate_on_ai_the_jokes/",
-   "ts": 1794424533,
    "source": "Reddit"
   },
   {
@@ -116,20 +186,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Unsloth Dynamic V3.1 released for Qwen3.8-27B, DeepSeek-V4.1-Flash-1017 and Qwen3.8-Flash-Next",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtmcoe/unsloth_dynamic_v31_released_for_qwen3827b/",
-   "ts": 1794414765,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "KRAFTON/Raon-1-nano · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtmbkn/kraftonraon1nano_hugging_face/",
-   "ts": 1794414698,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Go Turns 17 - The Go Programming Language",
    "url": "https://www.reddit.com/r/programming/comments/1xtm606/go_turns_17_the_go_programming_language/",
@@ -144,38 +200,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "How do I get Cloudflare tunnels to work with OpenLiteSpeed",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xtlygl/how_do_i_get_cloudflare_tunnels_to_work_with/",
-   "ts": 1794413873,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Need OS recommendations",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xtkr5f/need_os_recommendations/",
-   "ts": 1794411151,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Can someone help me with java Junit",
-   "url": "https://www.reddit.com/r/programming/comments/1xtk21c/can_someone_help_me_with_java_junit/",
-   "ts": 1794409523,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "[Bi-Weekly Megathread] Project Showcase",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtjze2/biweekly_megathread_project_showcase/",
    "ts": 1794409341,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "NVIDIA GeForce RTX 5080 24 GB Reportedly Cancelled, 16 GB Model Remains",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtju4x/nvidia_geforce_rtx_5080_24_gb_reportedly/",
-   "ts": 1794409005,
    "source": "Reddit"
   },
   {
@@ -194,13 +222,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Updates to Jellify - a FOSS music player for Jellyfin",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xtia4n/updates_to_jellify_a_foss_music_player_for/",
-   "ts": 1794405165,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "Self hosted Glean alternative just ranked #1 on EnterpriseRAG-Bench, ahead of the listed systems from OpenAI, Google, Microsoft and Amazon",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xti468/self_hosted_glean_alternative_just_ranked_1_on/",
    "ts": 1794404719,
@@ -211,13 +232,6 @@
    "title": "Mod ttkciar is harassing this sub",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xthew3/mod_ttkciar_is_harassing_this_sub/",
    "ts": 1794402812,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "You can now train your own LLMs with less memory, on your gaming GPUs",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtgnh9/you_can_now_train_your_own_llms_with_less_memory/",
-   "ts": 1794400581,
    "source": "Reddit"
   },
   {
@@ -281,20 +295,6 @@
    "title": "Why are Anthropic's top researchers cited twice as much as OpenAI's? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xt5xld/why_are_anthropics_top_researchers_cited_twice_as/",
    "ts": 1794363774,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Apple has new Mac app coming to make running local AI models easy",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xszbe7/apple_has_new_mac_app_coming_to_make_running/",
-   "ts": 1794346236,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "What cannot be self-hosted?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xswfaz/what_cannot_be_selfhosted/",
-   "ts": 1794339455,
    "source": "Reddit"
   },
   {
