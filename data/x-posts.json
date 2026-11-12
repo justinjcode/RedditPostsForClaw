@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-12T15:27:39Z",
+ "generated_at": "2026-11-12T15:36:23Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,45 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: robotnews.therundown.ai/p/am… Link Amazon turns Ring cameras into robots PLUS: SoftBank backs $8.5B German humanoid robotnews.therundown.ai",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2120902012321620475#m",
+   "ts": 1794497418,
+   "id": "2120902012321620475#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in robotics today: - Amazon revives its flying home camera - Germany’s Agile Robots lands $500M - Feds doubt Waymo’s school bus fix - Caltech robot starts building in space",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2120902006575374646#m",
+   "ts": 1794497417,
+   "id": "2120902006575374646#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Talk about Chinese transactional relationships: Alice Huang, the alleged Chinese spy whose affair with Nvidia’s Jensen Huang led to his downfall, was introduced to the Nvidia CEO by her husband. @Lingling_Wei wsj.com/tech/ai/a-mystery-bu… Link A Mystery Businessman Introduced Jensen Huang to His Paramour. It Was Her Husband. Kang Wei appeared to accept that his wife Alice Huang was in a romantic relationship and spoke openly of her closeness to the Nvidia chief. wsj.com",
+   "url": "https://nitter.kareem.one/bobdavis187/status/2120900828756357322#m",
+   "ts": 1794497136,
+   "id": "2120900828756357322#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "NEW: Former Nvidia CEO Jensen Huang's team informed House Republicans on Wednesday that he plans to cooperate with their request to testify behind closed doors after being pressed for answers about his relationship with a woman suspected of being a Chinese spy. Still unclear whether Huang will follow through post his resignation. No word back yet from Huang's team.",
+   "url": "https://nitter.kareem.one/schwartzbWSJ/status/2120892194655543455#m",
+   "ts": 1794495078,
+   "id": "2120892194655543455#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -934,24 +969,6 @@
    "id": "2119797177757360553#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: therundownai.beehiiv.com/p/j… Link Jensen Huang admits affair amid spy claims Nvidia CEO Jensen Huang publicly apologizes amid spy plot allegations as his board launches an investigation. Plus, turn X bookmarks into a research desk. therundownai.beehiiv.com",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2119754466370949277#m",
-   "ts": 1794223822,
-   "id": "2119754466370949277#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in AI today: - Jensen Huang admits affair as Nvidia probes spy claims - The Rundown Roundtable: Our AI use cases - Turn your X bookmarks into a personal research desk - Anthropic’s Claude ‘dreams’ to fix its own memory",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2119754460012384458#m",
-   "ts": 1794223821,
-   "id": "2119754460012384458#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -1184,24 +1201,6 @@
    "url": "https://nitter.kareem.one/chris__pc/status/2118058129137319975#m",
    "ts": 1793819384,
    "id": "2118058129137319975#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "Dow futures up 1000 points",
-   "url": "https://nitter.kareem.one/AaronBack/status/2117975680038408418#m",
-   "ts": 1793799726,
-   "id": "2117975680038408418#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "#中国洞察 本报首席中国记者魏玲灵写道，中国希望吸引外国资本。但一项新研究显示，中国公司并不一定愿意向外国投资者提供与国内股东相同的信息，有意使外国投资者处于信息劣势。 cn.wsj.com/articles/%E4%B8%A… Link 中国股市的隐性风险：外国投资者面临信息不对称 中国希望吸引外国资本。但一项新研究显示，中国公司并不一定愿意向外国投资者提供与国内股东相同的信息，有意使外国投资者处于信息劣势。 cn.wsj.com",
-   "url": "https://nitter.kareem.one/ChineseWSJ/status/2117825431130779956#m",
-   "ts": 1793763904,
-   "id": "2117825431130779956#m"
   },
   {
    "handle": "bcherny",
