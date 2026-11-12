@@ -1,15 +1,29 @@
 {
- "generated_at": "2026-11-12T20:09:25Z",
+ "generated_at": "2026-11-12T22:09:13Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
   "MachineLearning",
-  "selfhosted"
+  "programming"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "Proactive Measures Against Password Breaches and Cookie Hijacking",
+   "url": "https://www.reddit.com/r/programming/comments/1xupnmw/proactive_measures_against_password_breaches_and/",
+   "ts": 1794519802,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "New Model \"Ernie 5.5 Flash Preview\" hits strongly at a low parameter count (280B, 14B Active)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xune1i/new_model_ernie_55_flash_preview_hits_strongly_at/",
+   "ts": 1794514417,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Jensen today at Nvidia board meeting",
@@ -43,6 +57,20 @@
    "title": "UptimeKuma | Too many False-Positive Notifications",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xukh5f/uptimekuma_too_many_falsepositive_notifications/",
    "ts": 1794507935,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "exploit a 22 years old PostgreSQL composite-type vulnerability",
+   "url": "https://www.reddit.com/r/programming/comments/1xuk4d5/exploit_a_22_years_old_postgresql_compositetype/",
+   "ts": 1794507169,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Jensen Huang's mistake was being too pro LocalAI, which was a threat to companies like ClosedAI and Anthropic which are about to go IPO",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xujb7c/jensen_huangs_mistake_was_being_too_pro_localai/",
+   "ts": 1794505389,
    "source": "Reddit"
   },
   {
@@ -95,6 +123,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "programming",
+   "title": "Building Barista: Formal Verification and TLA+",
+   "url": "https://www.reddit.com/r/programming/comments/1xufafk/building_barista_formal_verification_and_tla/",
+   "ts": 1794496345,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
    "title": "Mini-ITX NAS",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xuf9mg/miniitx_nas/",
@@ -130,10 +165,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Edge0/Edge0-145B-q3k · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuczw4/edge0edge0145bq3k_hugging_face/",
-   "ts": 1794490759,
+   "subreddit": "programming",
+   "title": "C3 0.8.6 released: Library fetching, 30% smaller safe-mode binaries, and stricter type rules",
+   "url": "https://www.reddit.com/r/programming/comments/1xuci0t/c3_086_released_library_fetching_30_smaller/",
+   "ts": 1794489369,
    "source": "Reddit"
   },
   {
@@ -179,10 +214,31 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "programming",
+   "title": "Over-the-air updates come to NativePHP apps",
+   "url": "https://www.reddit.com/r/programming/comments/1xu8mlk/overtheair_updates_come_to_nativephp_apps/",
+   "ts": 1794476626,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "This Turkish Letter Keeps Breaking the World's Software - YouTube",
+   "url": "https://www.reddit.com/r/programming/comments/1xu79k2/this_turkish_letter_keeps_breaking_the_worlds/",
+   "ts": 1794471324,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
    "title": "Best iOS EPUB app for Calibre Web",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xu6w3o/best_ios_epub_app_for_calibre_web/",
    "ts": 1794469929,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Lean explained with TypeScript",
+   "url": "https://www.reddit.com/r/programming/comments/1xu6252/lean_explained_with_typescript/",
+   "ts": 1794466841,
    "source": "Reddit"
   },
   {
@@ -225,13 +281,6 @@
    "title": "I fine-tuned EVA-02 in a week to build a neural video retrieval engine for what CLIP still won't do [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xu1pg4/i_finetuned_eva02_in_a_week_to_build_a_neural/",
    "ts": 1794452614,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Someone voltage-glitched a CMP 170HX mining card into a working A100-80G, and it's ~1.18x faster than retail",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu1dkz/someone_voltageglitched_a_cmp_170hx_mining_card/",
-   "ts": 1794451670,
    "source": "Reddit"
   },
   {
@@ -306,13 +355,6 @@
   },
   {
    "subreddit": "programming",
-   "title": "I made sandboxed development feel like local development",
-   "url": "https://www.reddit.com/r/programming/comments/1xtmw9l/i_made_sandboxed_development_feel_like_local/",
-   "ts": 1794415965,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
    "title": "Go Turns 17 - The Go Programming Language",
    "url": "https://www.reddit.com/r/programming/comments/1xtm606/go_turns_17_the_go_programming_language/",
    "ts": 1794414355,
@@ -355,51 +397,9 @@
   },
   {
    "subreddit": "programming",
-   "title": "Benchmarking iOS builds on Apple silicon: newer chips beat extra cores",
-   "url": "https://www.reddit.com/r/programming/comments/1xsuvp3/benchmarking_ios_builds_on_apple_silicon_newer/",
-   "ts": 1794335912,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
    "title": "Announcing .NET 11",
    "url": "https://www.reddit.com/r/programming/comments/1xstxzv/announcing_net_11/",
    "ts": 1794333869,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Let Over Lambda book is now free to read online",
-   "url": "https://www.reddit.com/r/programming/comments/1xskt8m/let_over_lambda_book_is_now_free_to_read_online/",
-   "ts": 1794311122,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Microservices can work for low-latency workloads",
-   "url": "https://www.reddit.com/r/programming/comments/1xskt6g/microservices_can_work_for_lowlatency_workloads/",
-   "ts": 1794311116,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "A faster way to calculate the date of Easter",
-   "url": "https://www.reddit.com/r/programming/comments/1xsiojn/a_faster_way_to_calculate_the_date_of_easter/",
-   "ts": 1794303402,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Decoding REXPaint Files in Odin",
-   "url": "https://www.reddit.com/r/programming/comments/1xse6zb/decoding_rexpaint_files_in_odin/",
-   "ts": 1794286779,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "How we reduced core unit boot time from hours to minutes",
-   "url": "https://www.reddit.com/r/programming/comments/1xs9ou9/how_we_reduced_core_unit_boot_time_from_hours_to/",
-   "ts": 1794273195,
    "source": "Reddit"
   },
   {
