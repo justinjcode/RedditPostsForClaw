@@ -1,6 +1,9 @@
 {
- "generated_at": "2026-11-12T06:12:53Z",
+ "generated_at": "2026-11-12T06:29:06Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -8,13 +11,27 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "11 years ago Bowie (@bowie_HQ) 2015, Colbert: “You’re a billionaire trying to do good things. Superhero or supervillain? You have to choose one.” Elon: shows him a robot snake that plugs itself into your car Colbert: “Is that thing going to attack me in my sleep?” Elon, completely deadpan: “For the prototype, at least, I would recommend not dropping anything when you’re near it.” Ten years later he’s built reusable rockets, humanoid robots and the best-selling EV on the planet, and he’s still the only CEO who can deliver a product safety warning and a punchline in the same sentence. Superhero, obviously. Just one with a very dry sense of humor. @elonmusk Video — https://nitter.kareem.one/bowie_HQ/status/2119820183414153399#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2120761225529168312#m",
+   "ts": 1794463852,
+   "id": "2120761225529168312#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Chill vibes Robotaxi (@robotaxi) Lofi beats to self-drive to Video — https://nitter.kareem.one/robotaxi/status/2120268861669007562#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2120760435813306525#m",
+   "ts": 1794463664,
+   "id": "2120760435813306525#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -322,15 +339,6 @@
    "id": "2120584535423565889#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Bernie is the meme MARK SIMONE (@MarkSimoneNY) You might not want to take Bernie too seriously on tech issues. Community note: The shared image is a fabricated Washington Post clipping. Bernie Sanders was mayor of Burlington until 1989, first elected to the House in 1990 and never a senator then; no record exists of him calling to ban the Internet. en.wikipedia.org/wiki/Bernie_Sa… britannica.com/biography/Bern… — https://nitter.kareem.one/MarkSimoneNY/status/2118712057088647405#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2120582866413514912#m",
-   "ts": 1794421328,
-   "id": "2120582866413514912#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -347,15 +355,6 @@
    "url": "https://nitter.kareem.one/DBredvick/status/2120570469157920830#m",
    "ts": 1794418372,
    "id": "2120570469157920830#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "This is not the smartest move from a profit-maximizing standpoint btw, but there must be some room in this world for sentimentality or what’s the point?",
-   "url": "https://nitter.kareem.one/elonmusk/status/2120570459335131606#m",
-   "ts": 1794418370,
-   "id": "2120570459335131606#m"
   },
   {
    "handle": "swyx",
@@ -385,24 +384,6 @@
    "id": "2120566567453036865#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Tesla self-driving now approved in Finland Tesla Europe, Middle East & Africa (@teslaeurope) Now approved in Finland 🇫🇮 Rollout begins soon Video — https://nitter.kareem.one/teslaeurope/status/2120400770952745439#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2120565179276832797#m",
-   "ts": 1794417111,
-   "id": "2120565179276832797#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "In order to work through more of the Cybertruck order backlog, production will be extended through the end of summer 2027",
-   "url": "https://nitter.kareem.one/elonmusk/status/2120565056429814073#m",
-   "ts": 1794417082,
-   "id": "2120565056429814073#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -424,7 +405,7 @@
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
-   "text": "A Google AI researcher (who isn’t an archaeologist) just pointed 48 AI agents at NASA laser scans and found a potential undiscovered Maya site in Mexico. There’s still so much waiting to be discovered in public data by ambitious people + AI models. Pietro Miotti (@PietroMiotti) My AI agents found an unmapped Maya site in Mexico, using LiDAR data from a NASA dataset. 72 hours from a random thought on vacation to a reply from Mexico's national archaeology institute. What a time to be alive… Video Community note: This site is not unknown or unmapped. Per Dr. Sarah Parcak, Dr. Francisco Estrada-Belli of Tulane University identified, researched, and published this site years ago. bsky.app/profile/indyfr… liberalarts.tulane.edu/anthropology/p… — https://nitter.kareem.one/PietroMiotti/status/2120219901814043087#m",
+   "text": "A Google AI researcher (who isn’t an archaeologist) just pointed 48 AI agents at NASA laser scans and found a potential undiscovered Maya site in Mexico. There’s still so much waiting to be discovered in public data by ambitious people + AI models. Pietro Miotti (@PietroMiotti) My AI agents found an unmapped Maya site in Mexico, using LiDAR data from a NASA dataset. 72 hours from a random thought on vacation to a reply from Mexico's national archaeology institute. What a time to be alive… Video — https://nitter.kareem.one/PietroMiotti/status/2120219901814043087#m",
    "url": "https://nitter.kareem.one/TheRundownAI/status/2120552003579330755#m",
    "ts": 1794413970,
    "id": "2120552003579330755#m"
@@ -446,6 +427,15 @@
    "url": "https://nitter.kareem.one/Kurokojin/status/2120485753226731544#m",
    "ts": 1794398174,
    "id": "2120485753226731544#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "火箭回收成功瞬间，马斯克的反应。 Video",
+   "url": "https://nitter.kareem.one/laobaishare/status/2120467643320897667#m",
+   "ts": 1794393857,
+   "id": "2120467643320897667#m"
   },
   {
    "handle": "swyx",
@@ -563,6 +553,15 @@
    "url": "https://nitter.kareem.one/bot/status/2120279511707386263#m",
    "ts": 1794349003,
    "id": "2120279511707386263#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Lofi beats to self-drive to Video",
+   "url": "https://nitter.kareem.one/robotaxi/status/2120268861669007562#m",
+   "ts": 1794346463,
+   "id": "2120268861669007562#m"
   },
   {
    "handle": "thsottiaux",
