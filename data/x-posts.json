@@ -1,19 +1,29 @@
 {
- "generated_at": "2026-11-12T15:36:23Z",
+ "generated_at": "2026-11-12T15:46:19Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@bcherny: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Kent helped me get started in my second career and it is such an honor to host him as ai engineer evolves into product engineer! def keep an eye out for kody.dev , this category has not yet been created but it is about to get some serious firepower behind it Kent C. Dodds 🐨 (@kentcdodds) Shout-out to my man @swyx . This guy has done so much for our industry. We owe him so much. Thank you for bringing people together with @aiDotEngineer and also for the great personal advice! — https://nitter.kareem.one/kentcdodds/status/2120770778409111712#m",
+   "url": "https://nitter.kareem.one/swyx/status/2120903047941628007#m",
+   "ts": 1794497665,
+   "id": "2120903047941628007#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -393,6 +403,15 @@
    "id": "2120613021907112358#m"
   },
   {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "How to turn slop into gold. Super concrete steps from awesome @poteto on making coding agents trustworthy: 1. Clean up the code your agents learn from. Your codebase is one of their biggest inputs. Agents copy whatever looks like an established pattern, including workarounds, deprecated code, and yesterday’s questionable decisions. Clean those up, or watch them reproduce. 2. Turn corrections into enforceable checks. Every time you correct an agent, ask: can this become a lint rule, a type constraint, a test, or a better API? Put the correction somewhere the system can enforce it. A growing AGENTS.md still requires the agent to follow every instruction. 3. Remove opportunities for predictable mistakes. Her team @spacexai restricts React’s useEffect to framework internals because agents repeatedly misuse it in product code. They also enforce import boundaries between application processes. These constraints eliminate whole categories of mistakes that would otherwise keep coming back in review. 4. Give agents a reliable way to run and inspect the product. Provide debugging tools, reusable CLIs, and a “feature map” describing the application from the user’s perspective. Now “that thing in the left sidebar” has a shared meaning, and each agent can reuse the tools for checking it. 5. Review evidence of behavior. Have agents produce screenshots, videos, and state diagrams. These help you check what the product actually does and how closely that matches your intent. A convincing expl",
+   "url": "https://nitter.kareem.one/TheTuringPost/status/2120607968408531110#m",
+   "ts": 1794427313,
+   "id": "2120607968408531110#m"
+  },
+  {
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
@@ -609,15 +628,6 @@
    "id": "2120381420581568894#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Appreciate everyone who showed up to my talk on Local AI at AIE Code today",
-   "url": "https://nitter.kareem.one/TheAhmadOsman/status/2120366089788076073#m",
-   "ts": 1794369644,
-   "id": "2120366089788076073#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -625,15 +635,6 @@
    "url": "https://nitter.kareem.one/fengchucheng/status/2120365119397941591#m",
    "ts": 1794369413,
    "id": "2120365119397941591#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Just arrived at @aiDotEngineer and got my headshot taken at the @AnthropicAI booth! In case you can't make it, he's how that feels hahah! Keep a follow I'll be documenting my @aiDotEngineer journey till the live ThursdAI pod live from the floor here! Video",
-   "url": "https://nitter.kareem.one/altryne/status/2120314958902944103#m",
-   "ts": 1794357454,
-   "id": "2120314958902944103#m"
   },
   {
    "handle": "TheRundownAI",
