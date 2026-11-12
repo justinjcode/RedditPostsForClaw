@@ -1,20 +1,47 @@
 {
- "generated_at": "2026-11-12T17:20:27Z",
+ "generated_at": "2026-11-12T17:27:25Z",
  "accounts_ok": [
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
-  "@bcherny: all instances failed",
+  "@simonw: all instances failed",
   "@Lingling_Wei: all instances failed",
   "@TheRundownAI: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "“if you want good taste, you have to eat” - @jxnlco Steve Ruiz (@steveruizok) art school to ai engineer path is too powerful @jxnlco — https://nitter.kareem.one/steveruizok/status/2120928826377093194#m",
+   "url": "https://nitter.kareem.one/swyx/status/2120930215102947353#m",
+   "ts": 1794504142,
+   "id": "2120930215102947353#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "the rest of day 1 keynotes AI.Engineer @ CODE (@aiDotEngineer) The Code Summit livestream starts in 30 minutes. @nserrino ( @gimletlabs ) on 10x faster AI. @lydiahallie ( @AnthropicAI ) on Claude Code best practices. 9 AM PT. Watch free: inv.kareem.one/live/ZZ19zhYnDKY Presented by @GoogleDeepMind . — https://nitter.kareem.one/aiDotEngineer/status/2120554645781463093#m",
+   "url": "https://nitter.kareem.one/swyx/status/2120929644958605703#m",
+   "ts": 1794504006,
+   "id": "2120929644958605703#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "sorry for the tech issues yesterday but omg @lydiahallie posted her makeup talk last night and it already got 200k views in 13 hours - highest day 0 count in the history of AIE!! AI.Engineer @ CODE (@aiDotEngineer) it's the final day of AIE CODE! Opening keynotes starting now! @jxnlco at @OpenAI @mitsuhiko at @earendilworks @zachlloydtweets at @warpdotdev @echelon at @get_artcraft Watch here: inv.kareem.one/live/y9JtCCZP2MQ Presented by @GoogleDeepMind . — https://nitter.kareem.one/aiDotEngineer/status/2120924586279649487#m",
+   "url": "https://nitter.kareem.one/swyx/status/2120925700534460775#m",
+   "ts": 1794503066,
+   "id": "2120925700534460775#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -505,28 +532,10 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "standing room only for @poteto ’s keynote lauren (@poteto) going live in 10mins! inv.kareem.one/watch?v=ZZ19zhYn… Link AIE CODE: Google DeepMind, Anthropic, SpaceXSI, TypeSafe, Lovable,... Live from San Francisco, AI Engineer Code Summit 2026 brings togeth... youtube.com — https://nitter.kareem.one/poteto/status/2120577296277119129#m",
-   "url": "https://nitter.kareem.one/swyx/status/2120582147107078356#m",
-   "ts": 1794421157,
-   "id": "2120582147107078356#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
    "text": "\"Hi my name is poteto and I shipped 3,000 PR's last month. I also go by Lauren\" lol I predict that this talk is going to blow up, so invest early! Video Alex Volkov (@altryne) These awesome ladies are killing it at @aiDotEngineer code! 👩‍💻 IIRC this is the first all female keynote start at AIE? @swyx ? Back to back: @nserrino - 10X inference @lydiahallie - @claudeai best practices @michellechen - Cloudflare being a neolab @poteto - poteto poteto — https://nitter.kareem.one/altryne/status/2120568343480713360#m",
    "url": "https://nitter.kareem.one/altryne/status/2120579271249019071#m",
    "ts": 1794420471,
    "id": "2120579271249019071#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "@swyx amazing episode with @joinHandshake . Really practical behind the scenes look at the data industry and I think there’s a lot of gold in here. Go listen if you have a few mins today share.snipd.com/episode/9bc3… Link What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team Episode from Latent Space: The AI Engineer Podcast share.snipd.com",
-   "url": "https://nitter.kareem.one/DBredvick/status/2120570469157920830#m",
-   "ts": 1794418372,
-   "id": "2120570469157920830#m"
   },
   {
    "handle": "TheRundownAI",
@@ -536,15 +545,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2120566567453036865#m",
    "ts": 1794417442,
    "id": "2120566567453036865#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Come see @NinaLopatina and I at Build Lab @aiDotEngineer Code to one shot a Slack Agent or Web Wpp and compete for prizes (mac mini, GPU, beats headphones) We are also doing talks starting at 1:15pm this afternoon on how our factories that power build lab work, see you there!",
-   "url": "https://nitter.kareem.one/vtahowe/status/2120556274790420635#m",
-   "ts": 1794414988,
-   "id": "2120556274790420635#m"
   },
   {
    "handle": "TheRundownAI",
