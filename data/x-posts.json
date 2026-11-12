@@ -1,9 +1,7 @@
 {
- "generated_at": "2026-11-12T19:24:20Z",
+ "generated_at": "2026-11-12T19:37:47Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +9,30 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 176,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "play special attention to @walden_yan ’s keynote rn to get a preview of {BIG LAUNCH NEXT WEEK} if i say more @cognition will shoot me lol AI.Engineer @ CODE (@aiDotEngineer) it's the final day of AIE CODE! Opening keynotes starting now! @jxnlco at @OpenAI @mitsuhiko at @earendilworks @zachlloydtweets at @warpdotdev @echelon at @get_artcraft Watch here: inv.kareem.one/live/y9JtCCZP2MQ Presented by @GoogleDeepMind . — https://nitter.kareem.one/aiDotEngineer/status/2120924586279649487#m",
+   "url": "https://nitter.kareem.one/swyx/status/2120962735211233454#m",
+   "ts": 1794511896,
+   "id": "2120962735211233454#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "This is a difficult moment. It’s hard not to look at the journey this company has taken and not be filled with respect for what Jensen built. The spirit of the company remains strong: \"mission is the boss”. That said, as NVIDIA finds its way forward, I want one thing to be clear: NVIDIA's contributions to open source are unwavering. Jensen has been vocal about this, and that commitment runs deep in NVIDIA's people and culture. We all understand the importance of open source. NVIDIA is a huge supporter of open source because we understand something. If you want to diffuse technology, you do so through an ecosystem, not a single company or entity. No one owns the internet, no one owns servers, and no one owns operating systems… but through open source, an ecosystem of closed and open innovation flourishes. When we talk about delivering agents safely and securely, that too will take place because of open source. For example, ensuring people have the best models to secure themselves at machine speed unburdened by arbitrary guardrails decided behind closed doors. Open source & AI are often discussed together, but it’s worth reminding, open source predates AI. It is a mechanism for sharing ideas inspired by the hippies at computer labs of California in the 1960s. Before AI, the largest shift I lived through was the internet. It was remarkable seeing the fight for open source take place there. Between browsers, runtimes, net neutrality, etc. What came as a result was HTML5 and an ex",
+   "url": "https://nitter.kareem.one/NaderLikeLadder/status/2120956179274936560#m",
+   "ts": 1794510333,
+   "id": "2120956179274936560#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -429,15 +448,6 @@
    "id": "2120640864787841513#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "next on stream - @CompleteSkeptic and @typesafeai take over for Jev Day! swyx @aiDotEngineer CODE (@swyx) standing room only for @poteto ’s keynote — https://nitter.kareem.one/swyx/status/2120582147107078356#m",
-   "url": "https://nitter.kareem.one/swyx/status/2120640558184206508#m",
-   "ts": 1794435083,
-   "id": "2120640558184206508#m"
-  },
-  {
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
@@ -679,15 +689,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2120266880963473789#m",
    "ts": 1794345991,
    "id": "2120266880963473789#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "BTS at @aiDotEngineer with @swyx and @Steve_Yegge - got a preview of his talk and literally gasped at some of the agent stories… catch him tomorrow at 5pm 👀",
-   "url": "https://nitter.kareem.one/meganreyno/status/2120261097945190605#m",
-   "ts": 1794344612,
-   "id": "2120261097945190605#m"
   },
   {
    "handle": "simonw",
