@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-12T08:24:23Z",
+ "generated_at": "2026-11-12T08:36:37Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@swyx: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
- "count": 176,
+ "count": 177,
  "items": [
   {
    "handle": "elonmusk",
@@ -473,6 +473,15 @@
    "url": "https://nitter.kareem.one/simonw/status/2120387954044735980#m",
    "ts": 1794374857,
    "id": "2120387954044735980#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "A lot of nerds are in Austin for a big robotics/AI event. With every ride @elonmusk gets free advertising. People say Elon should advertise. He picks unique designs instead. Makes everyone talk. The Humanoid Hub (@TheHumanoidHub) First time in a Cybercab No steering wheel ✅ Very comfortable seat and cabin ✅ Smooth ride ✅ They’re everywhere in Austin, you can’t pass a block in the downtown without seeing at least one. A vision-based, safety-critical robotics system working at scale. What a time to be alive!! Video — https://nitter.kareem.one/TheHumanoidHub/status/2120362083959140663#m",
+   "url": "https://nitter.kareem.one/Scobleizer/status/2120381420581568894#m",
+   "ts": 1794373300,
+   "id": "2120381420581568894#m"
   },
   {
    "handle": "swyx",
