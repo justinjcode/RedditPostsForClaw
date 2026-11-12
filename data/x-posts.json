@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-12T20:57:15Z",
+ "generated_at": "2026-11-12T21:09:07Z",
  "accounts_ok": [
+  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,8 +11,7 @@
  ],
  "errors": [
   "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 176,
  "items": [
@@ -140,6 +140,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2120912138772369758#m",
    "ts": 1794499833,
    "id": "2120912138772369758#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Development of the Starbase supercompute site is creating an opportunity to address decades of environmental neglect. Portions of the property were used for unauthorized dumping dating back to the 1960s. We're undertaking cleanup efforts to remove decades of accumulated debris, including scrap metal, discarded appliances, old tanks, fiberglass insulation, construction materials, and thousands of illegally dumped tires",
+   "url": "https://nitter.kareem.one/SpaceX/status/2120911969087607288#m",
+   "ts": 1794499792,
+   "id": "2120911969087607288#m"
   },
   {
    "handle": "swyx",
@@ -376,15 +385,6 @@
    "id": "2120719962893349108#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "it was so fkin fun giving this talk! Turing Post (Ksenia Se) (@TheTuringPost) “Software is gonna be so fucking back.” . @CompleteSkeptic is full of bangers and you will have to listen to his full talk at @aiDotEngineer , but for now, here is our top-10 of his pearls: 1“We’ve been announcing AGI three months away for two years now.” Meanwhile, go outside San Francisco and a lot of the world looks unchanged. Where the fuck is all the automation? 2“You get Einstein 95% of the time, but Mr. Bean 5% of the time.” And if you can’t tell which is which, how are you supposed to automate anything? 3“I do believe RLHF is part of the problem.” His complaint: we optimized models for assistance, with a human checking the result, and then expected them to reliably do work on their own. 4“The bitterest lesson is doing the right task.” Diogo thinks that compute matters more than algorithms, data matters more than compute, and choosing the right task matters most. You get what you optimize for. 5“I think the world still has LLM Stockholm Syndrome.” We keep designing around the limitations of today’s models. Why is the best we can come up with still the same software, cheaper to write, with a chatbot on the side? 6“What if we can program with common sense, with intention, with human understanding?” Very passionate talk! He suggests: put intelligence into the software’s inner loop. What could we build if understanding intent became a building block we could actually rely on? 7“Real fucking engin",
-   "url": "https://nitter.kareem.one/CompleteSkeptic/status/2120717906443169847#m",
-   "ts": 1794453524,
-   "id": "2120717906443169847#m"
-  },
-  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -473,15 +473,6 @@
    "url": "https://nitter.kareem.one/NarutoNolimits/status/2120625963495277052#m",
    "ts": 1794431603,
    "id": "2120625963495277052#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Thanks to @elonmusk & @SpaceX , the City of Memphis finished its Fiscal Year ahead of budget for the first time in a long time. The City is tracking roughly $5.6 million ahead for the current year. Memphis Mayor Paul Young said this week that SpaceX generated $54 million in taxes for the City and County this year.",
-   "url": "https://nitter.kareem.one/KatieMiller/status/2120617686887801175#m",
-   "ts": 1794429630,
-   "id": "2120617686887801175#m"
   },
   {
    "handle": "elonmusk",
@@ -1589,6 +1580,15 @@
    "url": "https://nitter.kareem.one/felixrieseberg/status/2110023283169247623#m",
    "ts": 1791903727,
    "id": "2110023283169247623#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "what a privilege it is to be exhausted by an ambition of your own choosing",
+   "url": "https://nitter.kareem.one/comeuptuff/status/2099381257469604230#m",
+   "ts": 1789366471,
+   "id": "2099381257469604230#m"
   },
   {
    "handle": "ZichenWanghere",
