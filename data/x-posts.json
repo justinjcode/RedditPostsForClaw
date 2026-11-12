@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-11-12T08:46:49Z",
+ "generated_at": "2026-11-12T08:54:41Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -9,9 +11,7 @@
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -232,6 +232,15 @@
    "id": "2120640558184206508#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Why Elon Musk believes we could colonize the entire galaxy in a million years To Elon Musk, it's not even a hard question. A million years is enough to spread across the whole galaxy. So where is everyone? Nobody seems to have done it. Something stops civilizations before they get out there. That's the great filter. And it's why he thinks about Mars with one specific test. Elon: \"Do we have enough resources on Mars such that if the spaceships from Earth stopped coming, you can survive?\" Joe Rogan compared it to a long sea voyage where the only thing you're missing is vitamin C. And the ships could stop for reasons that aren't dramatic at all. Civilization on Earth could end with a bang or a whimper. A Mars that can survive on its own is how he thinks we get past the filter. Video",
+   "url": "https://nitter.kareem.one/NarutoNolimits/status/2120625963495277052#m",
+   "ts": 1794431603,
+   "id": "2120625963495277052#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -293,15 +302,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2120591950961353125#m",
    "ts": 1794423494,
    "id": "2120591950961353125#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Starship Super Heavy rocket booster moved to launch pad SpaceX (@SpaceX) Super Heavy moved to the launch pad at Starbase. Booster 22 is the first Super Heavy V3 booster planned to return to the launch site for catch and was used for final catch testing upon arrival, including a suspended squeeze test at catch height — https://nitter.kareem.one/SpaceX/status/2120220290219208884#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2120590521253126183#m",
-   "ts": 1794423153,
-   "id": "2120590521253126183#m"
   },
   {
    "handle": "ZichenWanghere",
