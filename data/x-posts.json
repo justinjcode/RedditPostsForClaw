@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-12T05:20:21Z",
+ "generated_at": "2026-11-12T05:27:33Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@simonw: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Robotaxi works 168 hours a week Robotaxi (@robotaxi) Robotaxi now runs 24/7 Every city we're available in Video — https://nitter.kareem.one/robotaxi/status/2120736143566344324#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2120746428720988408#m",
+   "ts": 1794460324,
+   "id": "2120746428720988408#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -388,7 +397,7 @@
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
-   "text": "A Google AI researcher (who isn’t an archaeologist) just pointed 48 AI agents at NASA laser scans and found a potential undiscovered Maya site in Mexico. There’s still so much waiting to be discovered in public data by ambitious people + AI models. Pietro Miotti (@PietroMiotti) My AI agents found an unmapped Maya site in Mexico, using LiDAR data from a NASA dataset. 72 hours from a random thought on vacation to a reply from Mexico's national archaeology institute. What a time to be alive… Video Community note: This site is not unknown or unmapped. Per Dr. Sarah Parcak, Dr. Francisco Estrada-Belli of Tulane University identified, researched, and published this site years ago. bsky.app/profile/indyfr… liberalarts.tulane.edu/anthropology/p… — https://nitter.kareem.one/PietroMiotti/status/2120219901814043087#m",
+   "text": "A Google AI researcher (who isn’t an archaeologist) just pointed 48 AI agents at NASA laser scans and found a potential undiscovered Maya site in Mexico. There’s still so much waiting to be discovered in public data by ambitious people + AI models. Pietro Miotti (@PietroMiotti) My AI agents found an unmapped Maya site in Mexico, using LiDAR data from a NASA dataset. 72 hours from a random thought on vacation to a reply from Mexico's national archaeology institute. What a time to be alive… Video — https://nitter.kareem.one/PietroMiotti/status/2120219901814043087#m",
    "url": "https://nitter.kareem.one/TheRundownAI/status/2120552003579330755#m",
    "ts": 1794413970,
    "id": "2120552003579330755#m"
@@ -491,15 +500,6 @@
    "url": "https://nitter.kareem.one/altryne/status/2120352142603243697#m",
    "ts": 1794366319,
    "id": "2120352142603243697#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Taps the sign WSJ Business News (@WSJbusiness) Masayoshi Son’s SoftBank reserved enough gas turbines to generate the power of six Hoover Dams. It cost the company billions of dollars in losses. on.wsj.com/4AkINFX Link Masayoshi Son’s Huge Bet on Electrical Turbines Backfires SoftBank reserved enough gas turbines to generate the power of six Hoover Dams. It cost the company billions of dollars in losses. wsj.com — https://nitter.kareem.one/WSJbusiness/status/2120320733561672164#m",
-   "url": "https://nitter.kareem.one/KatieMiller/status/2120342384445898866#m",
-   "ts": 1794363993,
-   "id": "2120342384445898866#m"
   },
   {
    "handle": "swyx",
