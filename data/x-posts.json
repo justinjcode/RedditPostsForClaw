@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-11-12T14:22:46Z",
+ "generated_at": "2026-11-12T14:28:42Z",
  "accounts_ok": [
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,8 +11,7 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -113,6 +113,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2120746428720988408#m",
    "ts": 1794460324,
    "id": "2120746428720988408#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "我是主人我也气 我是路人我也按 Enmmm………",
+   "url": "https://nitter.kareem.one/Hannah_juzi/status/2120742634390249909#m",
+   "ts": 1794459420,
+   "id": "2120742634390249909#m"
   },
   {
    "handle": "swyx",
@@ -1022,15 +1031,6 @@
    "url": "https://nitter.kareem.one/nbcsnl/status/2119290895933526044#m",
    "ts": 1794113298,
    "id": "2119290895933526044#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Apparently there’s a lady named Dana White who is an DoD public affairs assistant and I guarantee you someone recommended her to Trump and he thought they meant UFC Dana White and nobody is allowed to correct him lol",
-   "url": "https://nitter.kareem.one/FanSince09/status/2119154247145312338#m",
-   "ts": 1794080719,
-   "id": "2119154247145312338#m"
   },
   {
    "handle": "thsottiaux",
