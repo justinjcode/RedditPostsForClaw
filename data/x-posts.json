@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-12T06:29:06Z",
+ "generated_at": "2026-11-12T06:42:16Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,8 +10,10 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
- "count": 177,
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
+ "count": 176,
  "items": [
   {
    "handle": "elonmusk",
@@ -67,6 +68,15 @@
    "url": "https://nitter.kareem.one/joshdbirdwell/status/2120737357582553132#m",
    "ts": 1794458162,
    "id": "2120737357582553132#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Bot 1.0 is out! Grok Bot (@bot) Introducing Grok Bot 1.0. AI teammates that work alongside your whole team. Share Bots, collaborate with them in Slack and Teams, invite them to meetings, and watch them learn and become more helpful. Video — https://nitter.kareem.one/bot/status/2120582957782200586#m",
+   "url": "https://nitter.kareem.one/mntruell/status/2120736167385788749#m",
+   "ts": 1794457878,
+   "id": "2120736167385788749#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -285,15 +295,6 @@
    "id": "2120590521253126183#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Tesla Megapacks are designed to ensure grid stability, so that you never have a blackout Tesla Megapack (@Tesla_Megapack) Tesla's Controller-Hardware-In-the-Loop (CHIL) is key to bringing Megapack sites online faster CHIL allows us to simulate the entire site in real time before it’s connected to the grid. We can see how the site will respond to faults, frequency changes or if a tree were to fall on a power line. CHIL validated 444 grid-forming Megapacks at Melbourne Renewable Energy Hub before grid connection, delivering 600 MW / 1.6 GWh of storage months ahead of schedule Video — https://nitter.kareem.one/Tesla_Megapack/status/2120320369282437219#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2120589832963711162#m",
-   "ts": 1794422989,
-   "id": "2120589832963711162#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -328,15 +329,6 @@
    "url": "https://nitter.kareem.one/SpaceX/status/2120584703082446863#m",
    "ts": 1794421766,
    "id": "2120584703082446863#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Hire Grok @Bot as a colleague and give it your hardest tasks! Grok Bot (@bot) Introducing Grok Bot 1.0. AI teammates that work alongside your whole team. Share Bots, collaborate with them in Slack and Teams, invite them to meetings, and watch them learn and become more helpful. Video — https://nitter.kareem.one/bot/status/2120582957782200586#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2120584535423565889#m",
-   "ts": 1794421726,
-   "id": "2120584535423565889#m"
   },
   {
    "handle": "swyx",
