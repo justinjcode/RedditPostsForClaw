@@ -1,18 +1,17 @@
 {
- "generated_at": "2026-11-12T04:58:36Z",
+ "generated_at": "2026-11-12T05:07:49Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@simonw: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
   {
@@ -32,6 +31,15 @@
    "url": "https://nitter.kareem.one/JChengWSJ/status/2120736091489874302#m",
    "ts": 1794457860,
    "id": "2120736091489874302#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Before the affair that now threatens his job as Nvidia’s chief executive, Jensen Huang was introduced to his future romantic interest, Alice Huang, by a Chinese businessman he’d known for a decade, Kang Wei. on.wsj.com/4Alea3g Link A Mystery Businessman Introduced Jensen Huang to His Paramour—Her Husband Kang Wei appeared to accept that his wife Alice Huang was in a romantic relationship and spoke openly of her closeness to the Nvidia chief. wsj.com",
+   "url": "https://nitter.kareem.one/WSJ/status/2120734420143419831#m",
+   "ts": 1794457461,
+   "id": "2120734420143419831#m"
   },
   {
    "handle": "elonmusk",
@@ -239,6 +247,15 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2120586101421470051#m",
    "ts": 1794422099,
    "id": "2120586101421470051#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Barbara Corcoran on Elon Musk: \"Any great leader has a strong opinion and isn't so smooth on the edges and drives it home. But that's what you want when you want to reinvent a category, and that's what he has done.\" Video",
+   "url": "https://nitter.kareem.one/teslaownersSV/status/2120585198924628448#m",
+   "ts": 1794421884,
+   "id": "2120585198924628448#m"
   },
   {
    "handle": "elonmusk",
@@ -518,15 +535,6 @@
    "url": "https://nitter.kareem.one/rowancheung/status/2120299193868615981#m",
    "ts": 1794353695,
    "id": "2120299193868615981#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "29 days from completion of tunneling in Bastrop to initiation of tunneling in San Antonio. Video",
-   "url": "https://nitter.kareem.one/boringcompany/status/2120286900569456800#m",
-   "ts": 1794350764,
-   "id": "2120286900569456800#m"
   },
   {
    "handle": "elonmusk",
@@ -1175,15 +1183,6 @@
    "url": "https://nitter.kareem.one/ChineseWSJ/status/2117825431130779956#m",
    "ts": 1793763904,
    "id": "2117825431130779956#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "America is the greatest country on Earth. There is no competitor. It's necessary to ensure continued American greatness by electing leaders who uphold those values of freedom, democracy, and independence from authoritarian rule. #Midterms2026 #WSJ 🔗 on.wsj.com/4za72H0 Video",
-   "url": "https://nitter.kareem.one/gerardtbaker/status/2117734798932521209#m",
-   "ts": 1793742296,
-   "id": "2117734798932521209#m"
   },
   {
    "handle": "bcherny",
