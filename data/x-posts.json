@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-11-12T20:09:45Z",
+ "generated_at": "2026-11-12T20:19:42Z",
  "accounts_ok": [
   "TheRundownAI",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -9,7 +10,6 @@
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
@@ -32,6 +32,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2120962735211233454#m",
    "ts": 1794511896,
    "id": "2120962735211233454#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "“It’s eye-opening to see what everyone else is doing.” Day 1 at AI Engineer Code Summit: the talks, the demos, and the conversations between them. Presented by @GoogleDeepMind . Day 2 is live. Watch here: inv.kareem.one/live/y9JtCCZP2MQ Video",
+   "url": "https://nitter.kareem.one/aiDotEngineer/status/2120962333971267931#m",
+   "ts": 1794511800,
+   "id": "2120962333971267931#m"
   },
   {
    "handle": "swyx",
@@ -446,15 +455,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2120644009618215418#m",
    "ts": 1794435906,
    "id": "2120644009618215418#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "this person is a real former employee that we parted ways with that email domain is not one we use claire vo 🖤 (@clairevo) TIL you can report phishing directly from gmail using the three dot menu warning to other fans of @swyx this email account is trying to fake-book folks on podcasts, likely as a scheduling-link phishing scam. ty friend for fielding my \"this looks sus\" text 😎 — https://nitter.kareem.one/clairevo/status/2120593057037074840#m",
-   "url": "https://nitter.kareem.one/swyx/status/2120640864787841513#m",
-   "ts": 1794435156,
-   "id": "2120640864787841513#m"
   },
   {
    "handle": "elonmusk",
