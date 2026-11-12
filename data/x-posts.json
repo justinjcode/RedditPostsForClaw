@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-12T19:56:41Z",
+ "generated_at": "2026-11-12T20:09:45Z",
  "accounts_ok": [
   "TheRundownAI",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
+  "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "NEW: A third Jensen Huang affair has hit the timeline, Reuters reports.",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2120971665249112530#m",
+   "ts": 1794514025,
+   "id": "2120971665249112530#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -941,15 +950,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2119841916376281432#m",
    "ts": 1794244672,
    "id": "2119841916376281432#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: robotnews.therundown.ai/p/am… Link Amazon builds its home robot team PLUS: Zipline nearly triples its valuation robotnews.therundown.ai",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2119816082626126021#m",
-   "ts": 1794238513,
-   "id": "2119816082626126021#m"
   },
   {
    "handle": "ZichenWanghere",
