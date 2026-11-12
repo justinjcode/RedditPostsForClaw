@@ -1,20 +1,28 @@
 {
- "generated_at": "2026-11-12T02:23:43Z",
+ "generated_at": "2026-11-12T02:36:44Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "NEW: Trump administration officials for years have been scrutinizing Jensen Huang, the CEO of Nvidia, with warnings over his business operations in China and strong advocacy for curtailing U.S. export controls. Those concerns were brought to the White House and largely ignored prior to revelations he was having an affair with an alleged Chinese spy. New reporting w/ @AmrithRamkumar @RWhelanWSJ and @alexbward wsj.com/politics/national-se… Link Huang’s Coziness With Trump Wasn’t Enough to Save Him From Spying Scandal U.S. officials have repeatedly raised concerns about the Nvidia CEO’s influence with the president and his posture toward China. wsj.com",
+   "url": "https://nitter.kareem.one/schwartzbWSJ/status/2120700341196828909#m",
+   "ts": 1794449336,
+   "id": "2120700341196828909#m"
+  },
   {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
@@ -1382,15 +1390,6 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2117301887682940962#m",
    "ts": 1793639082,
    "id": "2117301887682940962#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "China has likely resumed making weapon-grade uranium at Emeishan thebulletin.org/2026/11/chin… Link China has likely resumed making weapon-grade uranium at Emeishan Satellite imagery and capacity analysis reveal that Beijing is expanding its uninspected Emeishan centrifuge facility—a move strongly suggesting an end to China's nearly four-decade pause on produc... thebulletin.org",
-   "url": "https://nitter.kareem.one/niubi/status/2117260304522395653#m",
-   "ts": 1793629168,
-   "id": "2117260304522395653#m"
   },
   {
    "handle": "Lingling_Wei",
