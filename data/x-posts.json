@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-13T07:20:39Z",
+ "generated_at": "2026-11-13T07:28:53Z",
  "accounts_ok": [
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,6 +10,7 @@
  ],
  "errors": [
   "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed",
   "@TheRundownAI: all instances failed"
  ],
  "count": 177,
@@ -118,6 +118,15 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
+   "text": "Super to chat with @jarredsumner at @aiDotEngineer about the future of programming languages and open source!",
+   "url": "https://nitter.kareem.one/kentcdodds/status/2121050834708647965#m",
+   "ts": 1794532900,
+   "id": "2121050834708647965#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
    "text": "Spoke at @aiDotEngineer about what's changed about working with agents in @antigravity ! A lot of times dictating the exact steps keeps things in a local optimum. We should instead shift to defining what good looks like and free our agents to explore. Video",
    "url": "https://nitter.kareem.one/ivanleomk/status/2121047741719814217#m",
    "ts": 1794532163,
@@ -181,6 +190,15 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
+   "text": "A wild @sqs has spotted at @aiDotEngineer Code Summit.",
+   "url": "https://nitter.kareem.one/QuinnyPig/status/2121014763266437487#m",
+   "ts": 1794524300,
+   "id": "2121014763266437487#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
    "text": "everyone and their mother was telling me at the conf how @Beccalytics nailed the details I am completely unsurprised Michelle Bakels (@MichelleBakels) Seeing these posts make me so happy! Rebecca is meticulous and thoroughly organized. You can’t catch her off guard. She always has an answer/solution for everything, and in the rare case she doesn’t, she’s on it immediately. She’s also so great at building relationships and really listening to people’s needs. I’m biased bc I get a close up view of her work ethic all the time, but I love when other people notice her effort too! 🥹❤️ — https://nitter.kareem.one/MichelleBakels/status/2120997462278369550#m",
    "url": "https://nitter.kareem.one/threepointone/status/2121010024415674542#m",
    "ts": 1794523170,
@@ -221,6 +239,15 @@
    "url": "https://nitter.kareem.one/Steve_Yegge/status/2120991459696615783#m",
    "ts": 1794518744,
    "id": "2120991459696615783#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": ". @RLanceMartin main stage now. sharing updates for multi-agent (formats last theorem) and dreaming / memory @aiDotEngineer Lance Martin (@RLanceMartin) if you are at @aiDotEngineer , come say hi! i'll be giving a talk Thurs (tmrw) 12:30p on two recent articles i worked on: (1) how we scaled a team of 1,000 Fable 5.2 agents to formalize of Fermat's Last Theorem and (2) a few ways to think about memory + dreaming. — https://nitter.kareem.one/RLanceMartin/status/2120636264030646397#m",
+   "url": "https://nitter.kareem.one/cjav_dev/status/2120983112742215781#m",
+   "ts": 1794516754,
+   "id": "2120983112742215781#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -325,28 +352,10 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "play special attention to @walden_yan ’s keynote rn to get a preview of {BIG LAUNCH NEXT WEEK} if i say more @cognition will shoot me lol AI.Engineer @ CODE (@aiDotEngineer) it's the final day of AIE CODE! Opening keynotes starting now! @jxnlco at @OpenAI @mitsuhiko at @earendilworks @zachlloydtweets at @warpdotdev @echelon at @get_artcraft Watch here: inv.kareem.one/live/y9JtCCZP2MQ Presented by @GoogleDeepMind . — https://nitter.kareem.one/aiDotEngineer/status/2120924586279649487#m",
-   "url": "https://nitter.kareem.one/swyx/status/2120962735211233454#m",
-   "ts": 1794511896,
-   "id": "2120962735211233454#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
    "text": "“It’s eye-opening to see what everyone else is doing.” Day 1 at AI Engineer Code Summit: the talks, the demos, and the conversations between them. Presented by @GoogleDeepMind . Day 2 is live. Watch here: inv.kareem.one/live/y9JtCCZP2MQ Video",
    "url": "https://nitter.kareem.one/aiDotEngineer/status/2120962333971267931#m",
    "ts": 1794511800,
    "id": "2120962333971267931#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "This is a difficult moment. It’s hard not to look at the journey this company has taken and not be filled with respect for what Jensen built. The spirit of the company remains strong: \"mission is the boss”. That said, as NVIDIA finds its way forward, I want one thing to be clear: NVIDIA's contributions to open source are unwavering. Jensen has been vocal about this, and that commitment runs deep in NVIDIA's people and culture. We all understand the importance of open source. NVIDIA is a huge supporter of open source because we understand something. If you want to diffuse technology, you do so through an ecosystem, not a single company or entity. No one owns the internet, no one owns servers, and no one owns operating systems… but through open source, an ecosystem of closed and open innovation flourishes. When we talk about delivering agents safely and securely, that too will take place because of open source. For example, ensuring people have the best models to secure themselves at machine speed unburdened by arbitrary guardrails decided behind closed doors. Open source & AI are often discussed together, but it’s worth reminding, open source predates AI. It is a mechanism for sharing ideas inspired by the hippies at computer labs of California in the 1960s. Before AI, the largest shift I lived through was the internet. It was remarkable seeing the fight for open source take place there. Between browsers, runtimes, net neutrality, etc. What came as a result was HTML5 and an ex",
-   "url": "https://nitter.kareem.one/NaderLikeLadder/status/2120956179274936560#m",
-   "ts": 1794510333,
-   "id": "2120956179274936560#m"
   },
   {
    "handle": "elonmusk",
@@ -374,15 +383,6 @@
    "url": "https://nitter.kareem.one/AbdulElSayed/status/2120938651358273723#m",
    "ts": 1794506154,
    "id": "2120938651358273723#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "“if you want good taste, you have to eat” - @jxnlco Steve Ruiz (@steveruizok) art school to ai engineer path is too powerful @jxnlco — https://nitter.kareem.one/steveruizok/status/2120928826377093194#m",
-   "url": "https://nitter.kareem.one/swyx/status/2120930215102947353#m",
-   "ts": 1794504142,
-   "id": "2120930215102947353#m"
   },
   {
    "handle": "elonmusk",
