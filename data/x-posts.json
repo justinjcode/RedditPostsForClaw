@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T15:17:47Z",
+ "generated_at": "2026-11-13T15:24:53Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "A year ago, we asked Nvidia about a Shanghai data center with links to Alice Huang. They declined to answer our questions and insisted that when it came to Megaspeed, there was nothing to see We now have filings showing there are indeed banned Nvidia chips at that site Thread:",
+   "url": "https://nitter.kareem.one/mackhawk/status/2121252848776450049#m",
+   "ts": 1794581064,
+   "id": "2121252848776450049#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1210,15 +1219,6 @@
    "url": "https://nitter.kareem.one/ClaudeDevs/status/2118063143167693011#m",
    "ts": 1793820579,
    "id": "2118063143167693011#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "I've been meaning to read Robert L. Suettingers excellent book on Hu Yaobang for a long time and I'm glad I finally got around to it. \"The Conscience of the Party\" is an insightful retelling of the life of a decent man in a system that did not reward decency and innovation.",
-   "url": "https://nitter.kareem.one/chris__pc/status/2118058129137319975#m",
-   "ts": 1793819384,
-   "id": "2118058129137319975#m"
   },
   {
    "handle": "bcherny",
