@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-13T20:08:54Z",
+ "generated_at": "2026-11-13T20:22:13Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed"
+  "@swyx: all instances failed",
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
- "count": 177,
+ "count": 176,
  "items": [
   {
    "handle": "elonmusk",
@@ -428,15 +428,6 @@
    "url": "https://nitter.kareem.one/SarahisCensored/status/2120992791425581120#m",
    "ts": 1794519062,
    "id": "2120992791425581120#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "White farmer gives first account of terrifying South Africa raid: \"They put my testicles in bolt cutters, sliced my wife's nipples and said they'd gang-rape her - it's not just about robbing us\"! Video",
-   "url": "https://nitter.kareem.one/TRobinsonNewEra/status/2120990056177381823#m",
-   "ts": 1794518410,
-   "id": "2120990056177381823#m"
   },
   {
    "handle": "swyx",
