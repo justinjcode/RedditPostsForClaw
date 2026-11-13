@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-13T02:11:15Z",
+ "generated_at": "2026-11-13T02:23:17Z",
  "accounts_ok": [
-  "TheRundownAI",
+  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -11,10 +11,28 @@
  "errors": [
   "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@TheRundownAI: all instances failed"
  ],
- "count": 176,
+ "count": 177,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "How can codex be improved? Try not to say model.",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2121062974161092792#m",
+   "ts": 1794535795,
+   "id": "2121062974161092792#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "A renaissance of software in 2027? Closing talk from @trq212 at @aiDotEngineer in two sentences: 2026 was the industrial revolution of software. Now let’s build its Renaissance. We’ve spent this year obsessing over software factories, coding agents, productivity, and how much software we can produce. And yes, the industrial revolution is happening. Software is becoming dramatically cheaper to build. But Thariq argues something equally exciting is happening: as AI gets better, we no longer have to adapt to how models prefer to work. We can make them work the way WE want. And that opens up an enormous creative frontier. New programming languages designed around human understanding. New databases. New operating systems. New interfaces. Decades of HCI research suddenly worth revisiting. His own experiment is a game where AI handles the complicated engine while he works in a human-readable language he designed to control every creative decision. The point is to stop accepting whatever software AI happens to generate and start shaping what software could actually become. The industrial revolution is about making more things, faster and cheaper. The Renaissance is about making things we couldn’t even conceive of before, with more creativity, quality, and soul. And… the Renaissance won’t happen automatically because models get smarter. We - you - have to build it. That’s a pretty exciting mission for 2027. Awesome conference, you have to watch it - and congrats to @swyx and the whole",
+   "url": "https://nitter.kareem.one/TheTuringPost/status/2121060997964431640#m",
+   "ts": 1794535323,
+   "id": "2121060997964431640#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -1148,15 +1166,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118469621011677521#m",
    "ts": 1793917491,
    "id": "2118469621011677521#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Come push the frontier of fluffiness samir (@_samirism) we've assembled a team of some of the most talented people in the persistent agent space - to make dots incredible dm me if you are interested in joining 👀 — https://nitter.kareem.one/_samirism/status/2118077964936163717#m",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2118444105969926407#m",
-   "ts": 1793911408,
-   "id": "2118444105969926407#m"
   },
   {
    "handle": "Lingling_Wei",
