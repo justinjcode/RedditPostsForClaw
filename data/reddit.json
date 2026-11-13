@@ -1,20 +1,62 @@
 {
- "generated_at": "2026-11-12T22:09:13Z",
+ "generated_at": "2026-11-13T00:20:37Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
-  "programming"
+  "programming",
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang's exit",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xut4o7/hugging_face_ceo_vows_to_keep_fighting_for_open/",
+   "ts": 1794528678,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Lawyer with too many GPUs, part 5: DeepSeek-V4.1-Flash at near-NVFP4 quality on eight V100s from 2018. 524K context, 100+ tok/s decode, ~160 tok/s with two chats at once, and my legal harness now runs on it, 100% local",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xus81t/lawyer_with_too_many_gpus_part_5_deepseekv41flash/",
+   "ts": 1794526289,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "New Project Megathread - Week of 12 Nov 2026",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xurjda/new_project_megathread_week_of_12_nov_2026/",
+   "ts": 1794524471,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Used datacenter/workstation GPU prices on eBay this week, ranked by $/GB of VRAM",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xur9ud/used_datacenterworkstation_gpu_prices_on_ebay/",
+   "ts": 1794523783,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "thinkingmachines/Inkling-2-Small is released!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuqplg/thinkingmachinesinkling2small_is_released/",
+   "ts": 1794522357,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "Proactive Measures Against Password Breaches and Cookie Hijacking",
    "url": "https://www.reddit.com/r/programming/comments/1xupnmw/proactive_measures_against_password_breaches_and/",
    "ts": 1794519802,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Securo maintainer here: 8 months of work, and the results so far",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xunhqd/securo_maintainer_here_8_months_of_work_and_the/",
+   "ts": 1794514660,
    "source": "Reddit"
   },
   {
@@ -25,6 +67,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "selfhosted",
+   "title": "The Low-Complexity Stack: Self-Hosting with OpenSUSE MicroOS and Podman",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xumnpe/the_lowcomplexity_stack_selfhosting_with_opensuse/",
+   "ts": 1794512766,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "LocalLLaMA",
    "title": "Jensen today at Nvidia board meeting",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xumhm3/jensen_today_at_nvidia_board_meeting/",
@@ -32,10 +81,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Intel Arc Vulkan prefill got a dedicated FA kernel in llama.cpp master",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xumdj4/intel_arc_vulkan_prefill_got_a_dedicated_fa/",
-   "ts": 1794512139,
+   "subreddit": "selfhosted",
+   "title": "Looking for self hosted Cookshelf alternative",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xulknn/looking_for_self_hosted_cookshelf_alternative/",
+   "ts": 1794510374,
    "source": "Reddit"
   },
   {
@@ -144,13 +193,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Import Calibre catalogue in BookOrbit",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xudh0j/import_calibre_catalogue_in_bookorbit/",
-   "ts": 1794491989,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Nvidia's Jensen Huang Resigns as CEO, Colette Kress Named Interim",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xudeev/nvidias_jensen_huang_resigns_as_ceo_colette_kress/",
@@ -194,13 +236,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "After four years of development, are LLMs capable of writing high-quality prose?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xub4s2/after_four_years_of_development_are_llms_capable/",
-   "ts": 1794485352,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "Meet the people behind MOSS-Image, plus a few answers from their AMA here",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuad5c/meet_the_people_behind_mossimage_plus_a_few/",
    "ts": 1794482827,
@@ -228,13 +263,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Best iOS EPUB app for Calibre Web",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xu6w3o/best_ios_epub_app_for_calibre_web/",
-   "ts": 1794469929,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Lean explained with TypeScript",
    "url": "https://www.reddit.com/r/programming/comments/1xu6252/lean_explained_with_typescript/",
@@ -253,13 +281,6 @@
    "title": "trying to get family music and audiobooks off spotify and audible, open source stuff that seems to cover most of it",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xu3kqm/trying_to_get_family_music_and_audiobooks_off/",
    "ts": 1794458358,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "The regulation of local AI could/should be viewed as the largest censorship implementation in the history of mankind.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu2mdo/the_regulation_of_local_ai_couldshould_be_viewed/",
-   "ts": 1794455373,
    "source": "Reddit"
   },
   {
@@ -295,20 +316,6 @@
    "title": "How to get desk-rejected at NeurIPS/ICML/ICLR [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xu08e7/how_to_get_deskrejected_at_neuripsicmliclr_d/",
    "ts": 1794448307,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Nvidia is Preparing to Oust Nvidia CEO Jensen Huang",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtvsi7/nvidia_is_preparing_to_oust_nvidia_ceo_jensen/",
-   "ts": 1794436316,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "A dashboard my wife is finally interested in",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xtvo3p/a_dashboard_my_wife_is_finally_interested_in/",
-   "ts": 1794436004,
    "source": "Reddit"
   },
   {
@@ -400,13 +407,6 @@
    "title": "Announcing .NET 11",
    "url": "https://www.reddit.com/r/programming/comments/1xstxzv/announcing_net_11/",
    "ts": 1794333869,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "New Project Megathread - Week of 05 Nov 2026",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xox23i/new_project_megathread_week_of_05_nov_2026/",
-   "ts": 1793919684,
    "source": "Reddit"
   },
   {
