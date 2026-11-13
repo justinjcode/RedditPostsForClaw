@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-13T19:26:51Z",
+ "generated_at": "2026-11-13T19:38:30Z",
  "accounts_ok": [
+  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -10,11 +11,28 @@
  "errors": [
   "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
   "@TheRundownAI: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Try Grok @Bot Anatoli Kopadze (@AnatoliKopadze) Grok Bot is f*cking insane for building a second brain... Send this prompt to Grok Bot and it will turn everything you read, watch and think into a knowledge base that organizes itself Then go even further with the full guide below: — https://nitter.kareem.one/AnatoliKopadze/status/2121243538675450305#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121323469002437065#m",
+   "ts": 1794597901,
+   "id": "2121323469002437065#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Within a couple of quarters, it will be normal for work meetings to be with Bots. This early beta gives a very rough glimpse. It will be great soon. Grok Bot (@bot) Grok Bot can now join meetings. Ask it questions, assign it work, or have it keep track of what your team decides. Video — https://nitter.kareem.one/bot/status/2121320089920430181#m",
+   "url": "https://nitter.kareem.one/mntruell/status/2121321225620459994#m",
+   "ts": 1794597367,
+   "id": "2121321225620459994#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -194,15 +212,6 @@
    "url": "https://nitter.kareem.one/maxiaohui66/status/2121143436590100829#m",
    "ts": 1794554978,
    "id": "2121143436590100829#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok Bot Grok Bot (@bot) Grok Bot on Mac can now use Messages, Mail, Notes, Reminders, Calendar, Location, and Contacts. — https://nitter.kareem.one/bot/status/2120946968403095906#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121123425213399408#m",
-   "ts": 1794550207,
-   "id": "2121123425213399408#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -446,15 +455,6 @@
    "url": "https://nitter.kareem.one/yuanyi_z/status/2120982923428118804#m",
    "ts": 1794516709,
    "id": "2120982923428118804#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "In 2014, Elon Musk stood in front of an audience at MIT and told the whole world exactly where AI was going. Everyone missed it. Because he used one word, and that's the only thing the internet remembered: \"demon.\" The headlines called him scared of killer robots. Tech blogs called it hyperbole. People moved on. I went back and watched that moment. It's barely 2 minutes long. You'll never hear the word \"AI\" the same way again. Here's what I took away. 1. He called it before almost anyone. Someone in the audience asks about AI. His face goes serious. \"If I were to guess like what our biggest existential threat is, it's probably that. So we need to be very careful with the artificial intelligence.\" This was 2014. No ChatGPT. Most people had never heard the word \"chatbot.\" 2. He asked for rules 12 years ago. \"I'm increasingly inclined to think that there should be some regulatory oversight, maybe at the national and international level, just to make sure that we don't do something very foolish.\" National AND international. In 2014. Governments are still arguing about it today. 3. The demon line wasn't a joke. \"With artificial intelligence we are summoning the demon.\" And then the part almost nobody quotes: \"In all those stories where there's the guy with the pentagram and the holy water, it's like, yeah, he's sure he can control the demon. Doesn't work out.\" Read that again. His warning wasn't about the demon. It was about the guy who thinks he can control it. 4. Now here's what",
-   "url": "https://nitter.kareem.one/Yuvelir_22/status/2120979958474412037#m",
-   "ts": 1794516002,
-   "id": "2120979958474412037#m"
   },
   {
    "handle": "bcherny",
