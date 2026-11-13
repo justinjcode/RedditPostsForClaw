@@ -1,20 +1,37 @@
 {
- "generated_at": "2026-11-13T15:36:39Z",
+ "generated_at": "2026-11-13T15:46:16Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@simonw: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: tech.therundown.ai/p/microso… Link Microsoft’s Outlook outage hits day two PLUS: Jensen Huang's fortune drops by $10B tech.therundown.ai",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2121265009137160311#m",
+   "ts": 1794583964,
+   "id": "2121265009137160311#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in tech today: - Microsoft’s Outlook outage drags into day two - Oura makes $625M push into AI healthcare - Pfizer chases the once-a-month GLP-1 - Sweden gives data centers a Nordic twist",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2121265003869122748#m",
+   "ts": 1794583962,
+   "id": "2121265003869122748#m"
+  },
   {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
@@ -140,15 +157,6 @@
    "url": "https://nitter.kareem.one/meganreyno/status/2121099689269535035#m",
    "ts": 1794544548,
    "id": "2121099689269535035#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "and straight to broadway show rehearsal :) see you saturday Video swyx (@swyx) [non tech, non work post] Some of you know I have a side gig singing Broadway musicals. Proud to announce we're back next week (right after AIE CODE)! bow.show Nov 14 3pm/7pm shows left (Nov 13 sold out) ft. our favorite songs from: - Tick Tick Boom - Hamilton - Grease - Rent - The Greatest Showman - Hadestown - Dear Evan Hansen - The Prom - Company - Kinky Boots - The Lightning Thief - Heathers - Next to Normal If you ever wanted to hear me and my friends sing live with full cast, choreo, costume, and live band (millions of views reposted by the official @HamiltonMusical channel) join us next saturday! k bye Video Video — https://nitter.kareem.one/swyx/status/2118472770002792902#m",
-   "url": "https://nitter.kareem.one/swyx/status/2121088973372334443#m",
-   "ts": 1794541993,
-   "id": "2121088973372334443#m"
   },
   {
    "handle": "swyx",
@@ -464,6 +472,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2120941834415325534#m",
    "ts": 1794506913,
    "id": "2120941834415325534#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "“Now that we can build everything, maybe we should not?” A great talk from @mitsuhiko , CTO of Earendil, who instead of software factories suggests to build software ateliers. Or sort of workshops. Less software, but better, more ambitious software. How many projects have you started recently? Exactly. Over the past year, Armin said he started 141 projects. But how many does he regularly return to and maintain? Just 10–15. And that number hasn’t really changed. Meanwhile, his agents went from running for a couple of minutes to 40+ minutes on longer tasks. The models got dramatically better, while the core tools in his Pi coding agent barely changed. I think that adds to the high-functioning anxiety that I’ve written about recently. Because though we can build much more, our attention hasn’t scaled with the models. What to do? Armin makes a few good points: - Learn when to push back against agents. - Don’t confuse a completed task with good software. - And don’t abandon collaboration and shared standards just because it’s now easier to build your own version of everything. I think there’s also a bigger question here: if the cost of building keeps falling, how do we get better at deciding what deserves our attention? Maybe that’s where the real skill is moving. From being able to build something to knowing why it’s worth building, and caring enough to keep it alive.",
+   "url": "https://nitter.kareem.one/TheTuringPost/status/2120940019494109570#m",
+   "ts": 1794506480,
+   "id": "2120940019494109570#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -1049,24 +1066,6 @@
    "url": "https://nitter.kareem.one/bcherny/status/2119873095129550880#m",
    "ts": 1794252105,
    "id": "2119873095129550880#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "NEW: Meta released Muse Ember, which Mark Zuckerberg says delivers “higher intelligence per dollar than others in its class.” Meta’s chart has it tying Claude Haiku 5.5’s Artificial Analysis Intelligence Index score for roughly one-third the price per task. Pricing: $0.10 per 1M tokens in and $0.50 per 1M out. Meta also used Muse Wonder Full to train it, which it hadn’t done with any earlier release.",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2119861584743018538#m",
-   "ts": 1794249361,
-   "id": "2119861584743018538#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "LAUNCHED: ByteDance is rolling out Seedream 5.5, a new image model it says can edit the same picture 100 times in a row without losing tiny details. In ByteDance’s own testing, experts picked it over GPT Image 2.5 Sunburst and Nano Banana 2.1 on getting text right and on realism from a prompt. It can also make images with see-through backgrounds. Video",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2119841916376281432#m",
-   "ts": 1794244672,
-   "id": "2119841916376281432#m"
   },
   {
    "handle": "simonw",
