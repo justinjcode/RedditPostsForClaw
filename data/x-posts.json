@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-13T15:56:08Z",
+ "generated_at": "2026-11-13T16:10:33Z",
  "accounts_ok": [
-  "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
-  "@Lingling_Wei: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -187,15 +187,6 @@
    "id": "2121068981436198914#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "it’s time to retvrn Miguel Ríos Berríos (@MiguelriosEN) Apt closing to a great @aiDotEngineer with @trq212 writing code live, using an IDE. — https://nitter.kareem.one/MiguelriosEN/status/2121055878212469131#m",
-   "url": "https://nitter.kareem.one/trq212/status/2121067561915916575#m",
-   "ts": 1794536888,
-   "id": "2121067561915916575#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -212,6 +203,15 @@
    "url": "https://nitter.kareem.one/helloLizZhang/status/2121056582729699330#m",
    "ts": 1794534271,
    "id": "2121056582729699330#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "thank you to everyone who came by the booth and Devin lounge for AIE code summit! looking forward to the next one and seeing everyone again soon 🫶",
+   "url": "https://nitter.kareem.one/mattbergland/status/2121055775229665610#m",
+   "ts": 1794534078,
+   "id": "2121055775229665610#m"
   },
   {
    "handle": "swyx",
@@ -275,15 +275,6 @@
    "url": "https://nitter.kareem.one/sqs/status/2121050803024847011#m",
    "ts": 1794532893,
    "id": "2121050803024847011#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Spoke at @aiDotEngineer about what's changed about working with agents in @antigravity ! A lot of times dictating the exact steps keeps things in a local optimum. We should instead shift to defining what good looks like and free our agents to explore. Video",
-   "url": "https://nitter.kareem.one/ivanleomk/status/2121047741719814217#m",
-   "ts": 1794532163,
-   "id": "2121047741719814217#m"
   },
   {
    "handle": "simonw",
@@ -446,6 +437,15 @@
    "url": "https://nitter.kareem.one/AJamesMcCarthy/status/2120970013456949756#m",
    "ts": 1794513631,
    "id": "2120970013456949756#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "I just wrapped up a keynote at @aiDotEngineer Code Summit on how Software Engineering is becoming Factory Engineering. The core idea is this: using coding agents is an engineering problem, not a prompting problem. Every company should strive to define the system in code, measure what it produces on your codebase, and keep iterating. Everyone has agents. The hard (and fun) part is engineering the factory around them so they reliably ship better software.",
+   "url": "https://nitter.kareem.one/zachlloydtweets/status/2120966552472477810#m",
+   "ts": 1794512806,
+   "id": "2120966552472477810#m"
   },
   {
    "handle": "swyx",
