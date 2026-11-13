@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-13T03:54:53Z",
+ "generated_at": "2026-11-13T04:09:54Z",
  "accounts_ok": [
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -11,10 +10,20 @@
   "thsottiaux"
  ],
  "errors": [
+  "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "and straight to broadway show rehearsal :) see you saturday Video swyx @aiDotEngineer CODE (@swyx) [non tech, non work post] Some of you know I have a side gig singing Broadway musicals. Proud to announce we're back next week (right after AIE CODE)! bow.show Nov 14 3pm/7pm shows left (Nov 13 sold out) ft. our favorite songs from: - Tick Tick Boom - Hamilton - Grease - Rent - The Greatest Showman - Hadestown - Dear Evan Hansen - The Prom - Company - Kinky Boots - The Lightning Thief - Heathers - Next to Normal If you ever wanted to hear me and my friends sing live with full cast, choreo, costume, and live band (millions of views reposted by the official @HamiltonMusical channel) join us next saturday! k bye Video Video — https://nitter.kareem.one/swyx/status/2118472770002792902#m",
+   "url": "https://nitter.kareem.one/swyx/status/2121088973372334443#m",
+   "ts": 1794541993,
+   "id": "2121088973372334443#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -590,15 +599,6 @@
    "url": "https://nitter.kareem.one/MegynKellyShow/status/2120613021907112358#m",
    "ts": 1794428518,
    "id": "2120613021907112358#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "How to turn slop into gold. Super concrete steps from awesome @poteto on making coding agents trustworthy: 1. Clean up the code your agents learn from. Your codebase is one of their biggest inputs. Agents copy whatever looks like an established pattern, including workarounds, deprecated code, and yesterday’s questionable decisions. Clean those up, or watch them reproduce. 2. Turn corrections into enforceable checks. Every time you correct an agent, ask: can this become a lint rule, a type constraint, a test, or a better API? Put the correction somewhere the system can enforce it. A growing AGENTS.md still requires the agent to follow every instruction. 3. Remove opportunities for predictable mistakes. Her team @spacexai restricts React’s useEffect to framework internals because agents repeatedly misuse it in product code. They also enforce import boundaries between application processes. These constraints eliminate whole categories of mistakes that would otherwise keep coming back in review. 4. Give agents a reliable way to run and inspect the product. Provide debugging tools, reusable CLIs, and a “feature map” describing the application from the user’s perspective. Now “that thing in the left sidebar” has a shared meaning, and each agent can reuse the tools for checking it. 5. Review evidence of behavior. Have agents produce screenshots, videos, and state diagrams. These help you check what the product actually does and how closely that matches your intent. A convincing expl",
-   "url": "https://nitter.kareem.one/TheTuringPost/status/2120607968408531110#m",
-   "ts": 1794427313,
-   "id": "2120607968408531110#m"
   },
   {
    "handle": "elonmusk",
