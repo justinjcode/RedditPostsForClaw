@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-11-13T23:45:33Z",
+ "generated_at": "2026-11-13T23:55:48Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -10,11 +11,27 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Live Starship video from space Video",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121388517540716839#m",
+   "ts": 1794613410,
+   "id": "2121388517540716839#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Select customers are now being invited to purchase Cybercab for personal use",
+   "url": "https://nitter.kareem.one/robotaxi/status/2121384435241402737#m",
+   "ts": 1794612437,
+   "id": "2121384435241402737#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -221,15 +238,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2121250804447445203#m",
    "ts": 1794580577,
    "id": "2121250804447445203#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Starship 42 preparing for launch SpaceX (@SpaceX) Ship 42 moves to the Starbase pad ahead of launch — https://nitter.kareem.one/SpaceX/status/2121044579470233638#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121250205806772283#m",
-   "ts": 1794580434,
-   "id": "2121250205806772283#m"
   },
   {
    "handle": "elonmusk",
@@ -500,15 +508,6 @@
    "url": "https://nitter.kareem.one/TejasKumar_/status/2120953281757544810#m",
    "ts": 1794509642,
    "id": "2120953281757544810#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Bot can now spot and act on any texts you may have forgotten. Grok Bot (@bot) Grok Bot on Mac can now use Messages, Mail, Notes, Reminders, Calendar, Location, and Contacts. — https://nitter.kareem.one/bot/status/2120946968403095906#m",
-   "url": "https://nitter.kareem.one/mntruell/status/2120949456518709744#m",
-   "ts": 1794508730,
-   "id": "2120949456518709744#m"
   },
   {
    "handle": "TheRundownAI",
