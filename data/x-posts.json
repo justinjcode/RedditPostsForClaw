@@ -1,19 +1,65 @@
 {
- "generated_at": "2026-11-13T00:15:20Z",
+ "generated_at": "2026-11-13T00:46:09Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 176,
  "items": [
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "The pricing for Gemini 4 is pretty confusing - Argon and Carbon are the same token price as each other, and the new Hydrogen is only a 25% discount on that price - though Carbon/Argon will 2x in price on Dec 1st Hydrogen's pelicans are notably worse simonwillison.net/2026/Nov/1…",
+   "url": "https://nitter.kareem.one/simonw/status/2121039423441981444#m",
+   "ts": 1794530180,
+   "id": "2121039423441981444#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "微信都回不完 Yuan Yi Zhu (@yuanyi_z) How did have three affairs I can't even answer my DMs on time. — https://nitter.kareem.one/yuanyi_z/status/2120982923428118804#m",
+   "url": "https://nitter.kareem.one/ZichenWanghere/status/2121036631369241002#m",
+   "ts": 1794529514,
+   "id": "2121036631369241002#m"
+  },
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here openai.com/cyber-at-the-fron… Link Cyber at the Frontier Join for the next era of cyber defense. openai.com",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2121036562058400200#m",
+   "ts": 1794529498,
+   "id": "2121036562058400200#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "When @swyx asks you to set up a Smash Bros activation for @Steve_Yegge you make it happen. 45 mins later…thanks to @JudgmentLabs for being in for the fun Steve Yegge (@Steve_Yegge) If anyone here at @aiDotEngineer thinks they can beat me, game on. — https://nitter.kareem.one/Steve_Yegge/status/2120991459696615783#m",
+   "url": "https://nitter.kareem.one/Beccalytics/status/2121020083124502575#m",
+   "ts": 1794525569,
+   "id": "2121020083124502575#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "反对黄仁勋的China hawks再深扒，还可以去看看他们竞选活动的捐助者是谁。 说中国威胁论的智库，也可以去看看他们的捐助人是谁，commission是谁给的。 都是非常有意思的。 没有完全的左翼，右翼，支持或者反对。盟友和敌人都是流动的。 现实生活的商战比小说精彩多了。",
+   "url": "https://nitter.kareem.one/Tracy_Wen_Liu/status/2121008893283229785#m",
+   "ts": 1794522901,
+   "id": "2121008893283229785#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -22,6 +68,24 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2120999993079451919#m",
    "ts": 1794520779,
    "id": "2120999993079451919#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "If anyone here at @aiDotEngineer thinks they can beat me, game on. Nick Lemoff (@nlemoff) Got absolutely destroyed by @Steve_Yegge 's Ridley at @aiDotEngineer . I'll be here the rest of the day taking L's. — https://nitter.kareem.one/nlemoff/status/2120989661321666596#m",
+   "url": "https://nitter.kareem.one/Steve_Yegge/status/2120991459696615783#m",
+   "ts": 1794518744,
+   "id": "2120991459696615783#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "How did have three affairs I can't even answer my DMs on time.",
+   "url": "https://nitter.kareem.one/yuanyi_z/status/2120982923428118804#m",
+   "ts": 1794516709,
+   "id": "2120982923428118804#m"
   },
   {
    "handle": "swyx",
@@ -231,15 +295,6 @@
    "id": "2120892194655543455#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "advice travis kalanick (@travisk) Had a little time on my hands this morning to do some writing… send along to someone you know who may benefit --- “Practical principles to counter a modern-day coup/psyop/struggle session” 1) Own what you did but fiercely resist accommodating the mob, resist owning half-truths or actions/behaviors you didn’t do. 2) The op is not about your past actions, it’s about your enemies and this event as their opportunity 3) No matter how bad it gets, nothing is as bad as it seems. 4) Find the enemies at the very root of the op and find every creative problem-solving tool at your disposal to neutralize them. 5) People will throw their grandmother under the bus if they believe doing so will protect their reputation. They can become highly useful idiots in the op. Their power and access must be fiercely and quickly cut off. 6) Do not hesitate in cutting off anyone you suspect of disloyalty. 7) Build a team of close and loyal patriots and have one of them run a dedicated, well-resourced war room to put the rebellion to rest. 8) Use your patriots and regular meditation to buoy your psychological resistance to the op. 9) Your enemies aren’t as smart or hard working as you. Outsmart and outwork them as a way of life until the op is over. 10) Think about the op as if it were in the past. What are the difficult things you procrastinated on or avoided that would have stopped the op? Do them. 11) Never be ashamed of the op. Business as usual. Continue on with op",
-   "url": "https://nitter.kareem.one/swyx/status/2120889185779495074#m",
-   "ts": 1794494360,
-   "id": "2120889185779495074#m"
-  },
-  {
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
@@ -301,6 +356,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2120841631842652406#m",
    "ts": 1794483023,
    "id": "2120841631842652406#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "小猫也是有脾气的，只能顺着毛发抚摸，逆向摸它就会发火 Video",
+   "url": "https://nitter.kareem.one/dixiob6717701/status/2120812176839741519#m",
+   "ts": 1794476000,
+   "id": "2120812176839741519#m"
   },
   {
    "handle": "elonmusk",
@@ -400,15 +464,6 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2120719962893349108#m",
    "ts": 1794454014,
    "id": "2120719962893349108#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "it was so fkin fun giving this talk! Turing Post (Ksenia Se) (@TheTuringPost) “Software is gonna be so fucking back.” . @CompleteSkeptic is full of bangers and you will have to listen to his full talk at @aiDotEngineer , but for now, here is our top-10 of his pearls: 1“We’ve been announcing AGI three months away for two years now.” Meanwhile, go outside San Francisco and a lot of the world looks unchanged. Where the fuck is all the automation? 2“You get Einstein 95% of the time, but Mr. Bean 5% of the time.” And if you can’t tell which is which, how are you supposed to automate anything? 3“I do believe RLHF is part of the problem.” His complaint: we optimized models for assistance, with a human checking the result, and then expected them to reliably do work on their own. 4“The bitterest lesson is doing the right task.” Diogo thinks that compute matters more than algorithms, data matters more than compute, and choosing the right task matters most. You get what you optimize for. 5“I think the world still has LLM Stockholm Syndrome.” We keep designing around the limitations of today’s models. Why is the best we can come up with still the same software, cheaper to write, with a chatbot on the side? 6“What if we can program with common sense, with intention, with human understanding?” Very passionate talk! He suggests: put intelligence into the software’s inner loop. What could we build if understanding intent became a building block we could actually rely on? 7“Real fucking engin",
-   "url": "https://nitter.kareem.one/CompleteSkeptic/status/2120717906443169847#m",
-   "ts": 1794453524,
-   "id": "2120717906443169847#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -969,24 +1024,6 @@
    "id": "2119797177757360553#m"
   },
   {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Broadcasting this evening at 8pm (Beijing Time): inv.kareem.one/161OQr27iAA . CCG is committed to broadcasting and transcribing our events so the conversation can extend well beyond the room. Link Roundtable: 25th Anniversary of China’s Accession to the WTO with... On November 7, 2026, the Center for China and Globalization (CCG) h... youtube.com Center for China and Globalization (@CCG_org) On November 7, CCG held a roundtable themed \"The 25th Anniversary of China's Accession to the @wto and the Future of the Global Trading System\". Pascal Lamy, Arancha Gonzalez Laya, and Huang Rengang delivered speeches. Ambassadors of Fiji and Türkiye to China attended. — https://nitter.kareem.one/CCG_org/status/2119609483634860145#m",
-   "url": "https://nitter.kareem.one/CCG_org/status/2119730444950479291#m",
-   "ts": 1794218095,
-   "id": "2119730444950479291#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "过犹不及的道理是一点都不懂啊",
-   "url": "https://nitter.kareem.one/ZichenWanghere/status/2119701908663459944#m",
-   "ts": 1794211291,
-   "id": "2119701908663459944#m"
-  },
-  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -1003,24 +1040,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2119650353142747181#m",
    "ts": 1794199000,
    "id": "2119650353142747181#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "With AI-related exports helping fuel China’s huge export boom, why assume Beijing would welcome the US slowing or halting data center construction?",
-   "url": "https://nitter.kareem.one/ZichenWanghere/status/2119629062855602556#m",
-   "ts": 1794193924,
-   "id": "2119629062855602556#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "刚又往阳台窗台撒了些玉米碎、小米、白高粱 然后鸽子们如期而至🙂 让我很不开心的是，鸽子进食过程中，会打架、会抢食，扑腾来扑腾去，搞得米撒到楼下很多🤦‍♂️ 好在，麻雀、鸽子们也会去吃撒在楼下的米 天冷了，小鸟们一定很饿🥺 另外，今早看到，麻雀们也来到我窗子附近啄米☺️ 麻雀小脸忒可爱了☺️ Nova Introvert (@NovaIntrovert) 傍晚看到我窗台已经没米了🥺 夜色中又往窗外撒了些玉米碎、小米、白高粱 好冷啊啊啊！东北冬季可真不是闹着玩的😱 明早鸟们醒来后飞到我窗台，看到米米应该会很惊喜很开心吧😆 中国东北某些地区的深冬很严酷，也不知道那些鸟是咋活下来的🥺 这点米应该会让鸟们的生活稍微不那么艰难一点点☺️？ — https://nitter.kareem.one/NovaIntrovert/status/2118722770918130175#m",
-   "url": "https://nitter.kareem.one/NovaIntrovert/status/2119309891798274163#m",
-   "ts": 1794117827,
-   "id": "2119309891798274163#m"
   },
   {
    "handle": "thsottiaux",
@@ -1138,15 +1157,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118444105969926407#m",
    "ts": 1793911408,
    "id": "2118444105969926407#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Our latest cyber-specialized model is out. It's in its own league on many cyber-specific use cases. Available through Daybreak Red access. OpenAI (@OpenAI) Introducing GPT‑6 Cyber: a major advance in security research that pairs stronger capabilities with better model alignment. The model powered the Linux kernel research we announced yesterday, and security teams at companies like Mozilla, Palo Alto Networks, Calif, and Cisco—alongside our own at OpenAI—are already putting it to work. GPT-6 Cyber is available to select Daybreak Red customers and we are expanding access over time. openai.com/index/introducing… Video — https://nitter.kareem.one/OpenAI/status/2118390190246879554#m",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2118402103907655903#m",
-   "ts": 1793901394,
-   "id": "2118402103907655903#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -1471,15 +1481,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
    "id": "2115444742595260551#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "These ones are pretty great! Benj Edwards (@benjedwards) Apple II Agent (Opus 5.5) drew a pretty good pelican riding a bicycle (cc: @simonw ) on the Apple Ii Seen here in both color and monochrome — https://nitter.kareem.one/benjedwards/status/2115120640906727914#m",
-   "url": "https://nitter.kareem.one/simonw/status/2115128326922883517#m",
-   "ts": 1793120864,
-   "id": "2115128326922883517#m"
   },
   {
    "handle": "bcherny",
