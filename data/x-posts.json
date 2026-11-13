@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-13T09:37:54Z",
+ "generated_at": "2026-11-13T09:45:23Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
   {
@@ -430,6 +429,15 @@
    "id": "2120911969087607288#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "From the Rio Grande Valley, TX to Cochise County, AZ, we’re building more than supercomputers. We’re creating jobs, investing in critical infrastructure, expanding local tax bases, and working alongside communities to build a future that benefits the people who live there → spacex.com/sites/cochise-cou…",
+   "url": "https://nitter.kareem.one/SpaceX/status/2120911785217986739#m",
+   "ts": 1794499748,
+   "id": "2120911785217986739#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -752,15 +760,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2120387954044735980#m",
    "ts": 1794374857,
    "id": "2120387954044735980#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "A lot of nerds are in Austin for a big robotics/AI event. With every ride @elonmusk gets free advertising. People say Elon should advertise. He picks unique designs instead. Makes everyone talk. The Humanoid Hub (@TheHumanoidHub) First time in a Cybercab No steering wheel ✅ Very comfortable seat and cabin ✅ Smooth ride ✅ They’re everywhere in Austin, you can’t pass a block in the downtown without seeing at least one. A vision-based, safety-critical robotics system working at scale. What a time to be alive!! Video — https://nitter.kareem.one/TheHumanoidHub/status/2120362083959140663#m",
-   "url": "https://nitter.kareem.one/Scobleizer/status/2120381420581568894#m",
-   "ts": 1794373300,
-   "id": "2120381420581568894#m"
   },
   {
    "handle": "ZichenWanghere",
