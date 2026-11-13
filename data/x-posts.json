@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-13T19:07:22Z",
+ "generated_at": "2026-11-13T19:17:07Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,9 +10,38 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Made on Earth by humans Andrew McCarthy (@AJamesMcCarthy) Looks like a scene from a sci-fi film but it’s just my drive to work this morning Video — https://nitter.kareem.one/AJamesMcCarthy/status/2121228714516320501#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121317331179614676#m",
+   "ts": 1794596438,
+   "id": "2121317331179614676#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "About 4 hours to Flight 15 SpaceX (@SpaceX) Watch Starship Flight 15 nitterk.kareem.one/i/broadcasts/2brajgZlO… Link SpaceX Starship Flight 15 https://nitter.kareem.one/i/broadcasts/2brajgZlOKRMka — https://nitter.kareem.one/SpaceX/status/2121316300702056595#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121316611974185273#m",
+   "ts": 1794596267,
+   "id": "2121316611974185273#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Boca Chica Beach is not for sale, and SpaceX isn’t attempting to buy it. The beach is an important part of the Rio Grande Valley community, and SpaceX is investing substantial resources to preserve and improve it → spacex.com/updates#boca-chic…",
+   "url": "https://nitter.kareem.one/SpaceX/status/2121280048871473281#m",
+   "ts": 1794587549,
+   "id": "2121280048871473281#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -141,6 +169,15 @@
    "id": "2121242367684661286#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "BREAKING: Zambia’s government has begun deploying 751 @Starlink kits to health facilities across all 10 provinces. 🇿🇲 • 90 kits already delivered to Western Province’s Provincial Health Office. • Targeting underserved and hard-to-reach communities. • Supporting digital health services and better communication between facilities. • Funded by the Global Fund through the Ministry of Health, with UNDP support. Starlink is helping bring better connectivity where it matters most: healthcare. Video",
+   "url": "https://nitter.kareem.one/cb_doge/status/2121206425045410134#m",
+   "ts": 1794569996,
+   "id": "2121206425045410134#m"
+  },
+  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -166,15 +203,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2121123425213399408#m",
    "ts": 1794550207,
    "id": "2121123425213399408#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Give Grok @Bot your most laborious tasks! Maye Musk (@mayemusk) I asked @bot the best way to move 2000 photos in @Dropbox from Camera Uploads to Folders. She said, “would you like me to do it for you?” I was surprised as I had booked out the week to start sorting through them, a painful task. She did it in five minutes. I went to my Folders and saw they were there. Now I can spend my time scrolling on @X 🤓🤓🤣🤣 — https://nitter.kareem.one/mayemusk/status/2120896049946501238#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121120295884837183#m",
-   "ts": 1794549461,
-   "id": "2121120295884837183#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -429,15 +457,6 @@
    "id": "2120979958474412037#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Cybertruck Retiring Early for Cybercab... do you support this decision? Video",
-   "url": "https://nitter.kareem.one/esherifftv/status/2120978802742571067#m",
-   "ts": 1794515727,
-   "id": "2120978802742571067#m"
-  },
-  {
    "handle": "bcherny",
    "name": "Boris Cherny",
    "author": "@bcherny",
@@ -454,24 +473,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2120971665249112530#m",
    "ts": 1794514025,
    "id": "2120971665249112530#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The first 16K image shared on 𝕏 Carousels now supports up to 20 images! So here's an uuuultra-wide piece from me:",
-   "url": "https://nitter.kareem.one/doganuraldesign/status/2120971278165414385#m",
-   "ts": 1794513933,
-   "id": "2120971278165414385#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Since apparently we can post up to 20 photos/videos now here are a bunch of mine Video Video",
-   "url": "https://nitter.kareem.one/AJamesMcCarthy/status/2120970013456949756#m",
-   "ts": 1794513631,
-   "id": "2120970013456949756#m"
   },
   {
    "handle": "swyx",
@@ -544,15 +545,6 @@
    "url": "https://nitter.kareem.one/cjav_dev/status/2120914100146557122#m",
    "ts": 1794500300,
    "id": "2120914100146557122#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "SpaceX has committed $220 million to expand water and wastewater infrastructure for Brownsville and Cameron County -- the largest private contribution to Brownsville’s water future in the city’s history. This investment addresses one of the region’s most urgent challenges: securing a reliable, sustainable supply of drinking water for generations to come",
-   "url": "https://nitter.kareem.one/SpaceX/status/2120912086989426746#m",
-   "ts": 1794499820,
-   "id": "2120912086989426746#m"
   },
   {
    "handle": "elonmusk",
@@ -1597,6 +1589,15 @@
    "url": "https://nitter.kareem.one/bunjavascript/status/2110692261508079721#m",
    "ts": 1792063224,
    "id": "2110692261508079721#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "There is no substitute for the person who Knows What To Do.",
+   "url": "https://nitter.kareem.one/pmarca/status/2033357554403999860#m",
+   "ts": 1773625193,
+   "id": "2033357554403999860#m"
   },
   {
    "handle": "ZichenWanghere",
