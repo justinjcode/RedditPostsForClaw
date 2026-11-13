@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-13T18:36:19Z",
+ "generated_at": "2026-11-13T18:46:31Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed"
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
- "count": 176,
+ "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "I had a great time at the after-party yesterday: good chats, new friends, big ideas, and many agents to kick off on the flight home. In the last conf photo: the amazing @miguelbranco80 and @dexhorthy . Thanks to everyone at @aiDotEngineer for the experience. See you soon.",
+   "url": "https://nitter.kareem.one/henriquebastos/status/2121272553683792272#m",
+   "ts": 1794585762,
+   "id": "2121272553683792272#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -244,10 +253,10 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "Last talk of the conference, I think the first session that had source code on screen :)",
-   "url": "https://nitter.kareem.one/lucasmeijer/status/2121055438825234601#m",
-   "ts": 1794533998,
-   "id": "2121055438825234601#m"
+   "text": "i couldn’t find the light so i became it",
+   "url": "https://nitter.kareem.one/fadedbunny/status/2121054337980063822#m",
+   "ts": 1794533736,
+   "id": "2121054337980063822#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -340,15 +349,6 @@
    "id": "2121014763266437487#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "everyone and their mother was telling me at the conf how @Beccalytics nailed the details I am completely unsurprised Michelle Bakels (@MichelleBakels) Seeing these posts make me so happy! Rebecca is meticulous and thoroughly organized. You can’t catch her off guard. She always has an answer/solution for everything, and in the rare case she doesn’t, she’s on it immediately. She’s also so great at building relationships and really listening to people’s needs. I’m biased bc I get a close up view of her work ethic all the time, but I love when other people notice her effort too! 🥹❤️ — https://nitter.kareem.one/MichelleBakels/status/2120997462278369550#m",
-   "url": "https://nitter.kareem.one/threepointone/status/2121010024415674542#m",
-   "ts": 1794523170,
-   "id": "2121010024415674542#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -392,6 +392,15 @@
    "url": "https://nitter.kareem.one/SarahisCensored/status/2120992791425581120#m",
    "ts": 1794519062,
    "id": "2120992791425581120#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "White farmer gives first account of terrifying South Africa raid: \"They put my testicles in bolt cutters, sliced my wife's nipples and said they'd gang-rape her - it's not just about robbing us\"! Video",
+   "url": "https://nitter.kareem.one/TRobinsonNewEra/status/2120990056177381823#m",
+   "ts": 1794518410,
+   "id": "2120990056177381823#m"
   },
   {
    "handle": "swyx",
