@@ -1,8 +1,6 @@
 {
- "generated_at": "2026-11-13T04:45:46Z",
+ "generated_at": "2026-11-13T04:56:37Z",
  "accounts_ok": [
-  "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +9,9 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -19,7 +19,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "and straight to broadway show rehearsal :) see you saturday Video swyx @aiDotEngineer CODE (@swyx) [non tech, non work post] Some of you know I have a side gig singing Broadway musicals. Proud to announce we're back next week (right after AIE CODE)! bow.show Nov 14 3pm/7pm shows left (Nov 13 sold out) ft. our favorite songs from: - Tick Tick Boom - Hamilton - Grease - Rent - The Greatest Showman - Hadestown - Dear Evan Hansen - The Prom - Company - Kinky Boots - The Lightning Thief - Heathers - Next to Normal If you ever wanted to hear me and my friends sing live with full cast, choreo, costume, and live band (millions of views reposted by the official @HamiltonMusical channel) join us next saturday! k bye Video Video — https://nitter.kareem.one/swyx/status/2118472770002792902#m",
+   "text": "and straight to broadway show rehearsal :) see you saturday Video swyx (@swyx) [non tech, non work post] Some of you know I have a side gig singing Broadway musicals. Proud to announce we're back next week (right after AIE CODE)! bow.show Nov 14 3pm/7pm shows left (Nov 13 sold out) ft. our favorite songs from: - Tick Tick Boom - Hamilton - Grease - Rent - The Greatest Showman - Hadestown - Dear Evan Hansen - The Prom - Company - Kinky Boots - The Lightning Thief - Heathers - Next to Normal If you ever wanted to hear me and my friends sing live with full cast, choreo, costume, and live band (millions of views reposted by the official @HamiltonMusical channel) join us next saturday! k bye Video Video — https://nitter.kareem.one/swyx/status/2118472770002792902#m",
    "url": "https://nitter.kareem.one/swyx/status/2121088973372334443#m",
    "ts": 1794541993,
    "id": "2121088973372334443#m"
