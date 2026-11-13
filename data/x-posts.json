@@ -1,18 +1,17 @@
 {
- "generated_at": "2026-11-13T05:09:13Z",
+ "generated_at": "2026-11-13T05:19:56Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
   {
@@ -469,7 +468,7 @@
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
-   "text": "A Mystery Businessman Introduced Jensen Huang to His Paramour—Her Husband: Kang Wei appeared to accept that his wife Alice Huang was in a romantic relationship and spoke openly of her closeness to the Nvidia chief @Lingling_Wei wsj.com/tech/ai/a-mystery-bu… wsj.com/tech/ai/a-mystery-bu… Link A Mystery Businessman Introduced Jensen Huang to His Paramour—Her Husband Kang Wei appeared to accept that his wife Alice Huang was in a romantic relationship and spoke openly of her closeness to the Nvidia chief. wsj.com",
+   "text": "A Mystery Businessman Introduced Jensen Huang to His Paramour—Her Husband: Kang Wei appeared to accept that his wife Alice Huang was in a romantic relationship and spoke openly of her closeness to the Nvidia chief @Lingling_Wei wsj.com/tech/ai/a-mystery-bu… wsj.com/tech/ai/a-mystery-bu… Link A Mystery Businessman Introduced Jensen Huang to His Paramour. It Was Her Husband. Kang Wei appeared to accept that his wife Alice Huang was in a romantic relationship and spoke openly of her closeness to the Nvidia chief. wsj.com",
    "url": "https://nitter.kareem.one/JChengWSJ/status/2120736091489874302#m",
    "ts": 1794457860,
    "id": "2120736091489874302#m"
