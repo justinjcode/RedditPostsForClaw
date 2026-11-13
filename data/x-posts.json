@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-13T08:38:33Z",
+ "generated_at": "2026-11-13T08:47:29Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
   "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed",
   "@TheRundownAI: all instances failed"
  ],
@@ -64,10 +64,37 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
+   "text": "Very cool humans hanging out at @aiDotEngineer ♥️ @poteto @altryne @osanseviero @EvanOtero @vamsibatchuk @ericavaneee @nafisazizir",
+   "url": "https://nitter.kareem.one/hellogabbo/status/2121112508849152350#m",
+   "ts": 1794547605,
+   "id": "2121112508849152350#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "The @aiDotEngineer code summit went off 🚀 Huge congrats to @swyx on bringing so many amazing people together, really the 🐐🫶",
+   "url": "https://nitter.kareem.one/meganreyno/status/2121099689269535035#m",
+   "ts": 1794544548,
+   "id": "2121099689269535035#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
    "text": "and straight to broadway show rehearsal :) see you saturday Video swyx (@swyx) [non tech, non work post] Some of you know I have a side gig singing Broadway musicals. Proud to announce we're back next week (right after AIE CODE)! bow.show Nov 14 3pm/7pm shows left (Nov 13 sold out) ft. our favorite songs from: - Tick Tick Boom - Hamilton - Grease - Rent - The Greatest Showman - Hadestown - Dear Evan Hansen - The Prom - Company - Kinky Boots - The Lightning Thief - Heathers - Next to Normal If you ever wanted to hear me and my friends sing live with full cast, choreo, costume, and live band (millions of views reposted by the official @HamiltonMusical channel) join us next saturday! k bye Video Video — https://nitter.kareem.one/swyx/status/2118472770002792902#m",
    "url": "https://nitter.kareem.one/swyx/status/2121088973372334443#m",
    "ts": 1794541993,
    "id": "2121088973372334443#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "AIE Code Summit After loading... Video Video",
+   "url": "https://nitter.kareem.one/MarcBaiza/status/2121068981436198914#m",
+   "ts": 1794537227,
+   "id": "2121068981436198914#m"
   },
   {
    "handle": "swyx",
@@ -91,19 +118,10 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "A renaissance of software in 2027? Closing talk from @trq212 at @aiDotEngineer in two sentences: 2026 was the industrial revolution of software. Now let’s build its Renaissance. We’ve spent this year obsessing over software factories, coding agents, productivity, and how much software we can produce. And yes, the industrial revolution is happening. Software is becoming dramatically cheaper to build. But Thariq argues something equally exciting is happening: as AI gets better, we no longer have to adapt to how models prefer to work. We can make them work the way WE want. And that opens up an enormous creative frontier. New programming languages designed around human understanding. New databases. New operating systems. New interfaces. Decades of HCI research suddenly worth revisiting. His own experiment is a game where AI handles the complicated engine while he works in a human-readable language he designed to control every creative decision. The point is to stop accepting whatever software AI happens to generate and start shaping what software could actually become. The industrial revolution is about making more things, faster and cheaper. The Renaissance is about making things we couldn’t even conceive of before, with more creativity, quality, and soul. And… the Renaissance won’t happen automatically because models get smarter. We - you - have to build it. That’s a pretty exciting mission for 2027. Awesome conference, you have to watch it - and congrats to @swyx and the whole",
-   "url": "https://nitter.kareem.one/TheTuringPost/status/2121060997964431640#m",
-   "ts": 1794535323,
-   "id": "2121060997964431640#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "the production team got us a cake!! #aie1m Video Alexio Cassani (@alexio) ONE MILLION subscribers for @aiDotEngineer ! What a way to close Code Summit 2026. Two days of software factories, human judgement, verification and agents that organize themselves. Flew in from Milan and would do it again tomorrow. Huge congrats to the whole team! @swyx — https://nitter.kareem.one/alexio/status/2121058774618431709#m",
-   "url": "https://nitter.kareem.one/swyx/status/2121060183988486493#m",
-   "ts": 1794535129,
-   "id": "2121060183988486493#m"
+   "text": "Quinn Slack ( @sqs ), Amp at #AIECode : the company of the future has code review, no PRs, no departments, and no roadmap. Video",
+   "url": "https://nitter.kareem.one/helloLizZhang/status/2121056582729699330#m",
+   "ts": 1794534271,
+   "id": "2121056582729699330#m"
   },
   {
    "handle": "swyx",
@@ -118,10 +136,46 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
+   "text": "What a week at @aiDotEngineer ! S/o to @swyx for making it happen, and thanks to everyone who came by to say hi and celebrate the week of Gemini. 🚢",
+   "url": "https://nitter.kareem.one/EvanOtero/status/2121051314591572215#m",
+   "ts": 1794533015,
+   "id": "2121051314591572215#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "This workflow is gold. I’ve been working on improving all my agents, and the quality of work they do. @dexhorthy made an amazing presentation, and I will be implementing all of this into my workflow",
+   "url": "https://nitter.kareem.one/calebhowell437/status/2121051174967410948#m",
+   "ts": 1794532981,
+   "id": "2121051174967410948#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "New @dexhorthy manifesto just dropped 👀 slopmanifesto.com/",
+   "url": "https://nitter.kareem.one/andrewtorkbaker/status/2121050932993769486#m",
+   "ts": 1794532924,
+   "id": "2121050932993769486#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
    "text": "Super to chat with @jarredsumner at @aiDotEngineer about the future of programming languages and open source!",
    "url": "https://nitter.kareem.one/kentcdodds/status/2121050834708647965#m",
    "ts": 1794532900,
    "id": "2121050834708647965#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Last year people laughed at the idea of \"vibe-coding Salesforce\". Now? People realize you only ever need 1% of Salesforce, and more and more people can use an agent to build the 1% they need plus the other stuff that Salesforce would never have built. And I think we all know which would be better to use. Nicholas Arcolano (@arcolano) “Why would you vibecode Salseforce? Why would you do that?? Would you be proud if you vibecoded a CRM and Salesforce came out the other end?” – @sqs on building a “new kind of company” at @aiDotEngineer — https://nitter.kareem.one/arcolano/status/2121045555145248966#m",
+   "url": "https://nitter.kareem.one/sqs/status/2121050803024847011#m",
+   "ts": 1794532893,
+   "id": "2121050803024847011#m"
   },
   {
    "handle": "swyx",
@@ -181,15 +235,6 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "When @swyx asks you to set up a Smash Bros activation for @Steve_Yegge you make it happen. 45 mins later…thanks to @JudgmentLabs for being in for the fun Steve Yegge (@Steve_Yegge) If anyone here at @aiDotEngineer thinks they can beat me, game on. — https://nitter.kareem.one/Steve_Yegge/status/2120991459696615783#m",
-   "url": "https://nitter.kareem.one/Beccalytics/status/2121020083124502575#m",
-   "ts": 1794525569,
-   "id": "2121020083124502575#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
    "text": "A wild @sqs has spotted at @aiDotEngineer Code Summit.",
    "url": "https://nitter.kareem.one/QuinnyPig/status/2121014763266437487#m",
    "ts": 1794524300,
@@ -235,15 +280,6 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "If anyone here at @aiDotEngineer thinks they can beat me, game on. Nick Lemoff (@nlemoff) Got absolutely destroyed by @Steve_Yegge 's Ridley at @aiDotEngineer . I'll be here the rest of the day taking L's. — https://nitter.kareem.one/nlemoff/status/2120989661321666596#m",
-   "url": "https://nitter.kareem.one/Steve_Yegge/status/2120991459696615783#m",
-   "ts": 1794518744,
-   "id": "2120991459696615783#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
    "text": ". @RLanceMartin main stage now. sharing updates for multi-agent (formats last theorem) and dreaming / memory @aiDotEngineer Lance Martin (@RLanceMartin) if you are at @aiDotEngineer , come say hi! i'll be giving a talk Thurs (tmrw) 12:30p on two recent articles i worked on: (1) how we scaled a team of 1,000 Fable 5.2 agents to formalize of Fermat's Last Theorem and (2) a few ways to think about memory + dreaming. — https://nitter.kareem.one/RLanceMartin/status/2120636264030646397#m",
    "url": "https://nitter.kareem.one/cjav_dev/status/2120983112742215781#m",
    "ts": 1794516754,
@@ -259,15 +295,6 @@
    "id": "2120982923428118804#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "lance starting out his keynote strong with fermat's proof aie code is now aie math Lance Martin (@RLanceMartin) if you are at @aiDotEngineer , come say hi! i'll be giving a talk Thurs (tmrw) 12:30p on two recent articles i worked on: (1) how we scaled a team of 1,000 Fable 5.2 agents to formalize of Fermat's Last Theorem and (2) a few ways to think about memory + dreaming. — https://nitter.kareem.one/RLanceMartin/status/2120636264030646397#m",
-   "url": "https://nitter.kareem.one/swyx/status/2120981552561844593#m",
-   "ts": 1794516382,
-   "id": "2120981552561844593#m"
-  },
-  {
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
@@ -277,15 +304,6 @@
    "id": "2120979958474412037#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Sometimes I miss being the man behind the curtain at dev conferences (Next.js Conf and Laracon), but attending events with no responsibility is a pure delight Wish I'd had more time to hang at @aiDotEngineer and catch up but had to cut it short (will explain in next tweet) @swyx thank you for creating these and getting cool people there, + @Beccalytics (and many many others) for impeccable execution! I've been hanging out with these folks for years now, fun talking to them about the radical shifts in our careers and industry and also just having friends in faraway places. And of course the people I spoke to the most are the ones I forgot to take pics with 🤦",
-   "url": "https://nitter.kareem.one/theHankTaylor/status/2120979741843050943#m",
-   "ts": 1794515951,
-   "id": "2120979741843050943#m"
-  },
-  {
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
@@ -293,15 +311,6 @@
    "url": "https://nitter.kareem.one/esherifftv/status/2120978802742571067#m",
    "ts": 1794515727,
    "id": "2120978802742571067#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "@swyx and team provide a great experience and many benefits to speaking at @aiDotEngineer . 🙏 The speaker swag/bling is nice too!",
-   "url": "https://nitter.kareem.one/JPoehnelt/status/2120975588559393140#m",
-   "ts": 1794514960,
-   "id": "2120975588559393140#m"
   },
   {
    "handle": "bcherny",
@@ -331,15 +340,6 @@
    "id": "2120971278165414385#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "I always knew @jxnlco is an applied philosopher since I first took his class. Iconic talk today! In a doom and gloom climate, many are searching for answers on how their careers will unfold. If that is you, go watch his talk - the first one on the stream. inv.kareem.one/watch?v=y9JtCCZP… My takeaway is this: make space for exploration and learning. Great pick @swyx , to make this the first talk of the day to set the tone. Link AI Engineer Code Summit 2026 — Day 2 | November 12 Live from San Francisco, AI Engineer Code Summit 2026 brings togeth... youtube.com",
-   "url": "https://nitter.kareem.one/jysmhn/status/2120970400779919385#m",
-   "ts": 1794513723,
-   "id": "2120970400779919385#m"
-  },
-  {
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
@@ -349,15 +349,6 @@
    "id": "2120970013456949756#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "“It’s eye-opening to see what everyone else is doing.” Day 1 at AI Engineer Code Summit: the talks, the demos, and the conversations between them. Presented by @GoogleDeepMind . Day 2 is live. Watch here: inv.kareem.one/live/y9JtCCZP2MQ Video",
-   "url": "https://nitter.kareem.one/aiDotEngineer/status/2120962333971267931#m",
-   "ts": 1794511800,
-   "id": "2120962333971267931#m"
-  },
-  {
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
@@ -365,6 +356,15 @@
    "url": "https://nitter.kareem.one/justinbieber/status/2120954896363200630#m",
    "ts": 1794510027,
    "id": "2120954896363200630#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "🌑",
+   "url": "https://nitter.kareem.one/TejasKumar_/status/2120953281757544810#m",
+   "ts": 1794509642,
+   "id": "2120953281757544810#m"
   },
   {
    "handle": "TheRundownAI",
@@ -428,6 +428,15 @@
    "url": "https://nitter.kareem.one/SpaceX/status/2120911969087607288#m",
    "ts": 1794499792,
    "id": "2120911969087607288#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "A lot of developers I talk to, they're like, I still use dangerously skip permissions. I'm like, no, please. Video",
+   "url": "https://nitter.kareem.one/RayFernando1337/status/2120910068010905742#m",
+   "ts": 1794499339,
+   "id": "2120910068010905742#m"
   },
   {
    "handle": "TheRundownAI",
@@ -1589,15 +1598,6 @@
    "url": "https://nitter.kareem.one/bunjavascript/status/2110692261508079721#m",
    "ts": 1792063224,
    "id": "2110692261508079721#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "what a privilege it is to be exhausted by an ambition of your own choosing",
-   "url": "https://nitter.kareem.one/comeuptuff/status/2099381257469604230#m",
-   "ts": 1789366471,
-   "id": "2099381257469604230#m"
   },
   {
    "handle": "ZichenWanghere",
