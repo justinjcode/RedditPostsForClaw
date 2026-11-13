@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-13T23:17:44Z",
+ "generated_at": "2026-11-13T23:26:21Z",
  "accounts_ok": [
-  "Lingling_Wei",
+  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,8 +10,8 @@
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -86,6 +86,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2121316611974185273#m",
    "ts": 1794596267,
    "id": "2121316611974185273#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "WorkOS just hit $100M ARR 🚀 Thank you to our customers, investors, and our extraordinary team. We started WorkOS to make software enterprise ready. Now we’re building infrastructure for a world where people and agents work together. And we're just getting started! 😊",
+   "url": "https://nitter.kareem.one/grinich/status/2121296642276295119#m",
+   "ts": 1794591505,
+   "id": "2121296642276295119#m"
   },
   {
    "handle": "elonmusk",
@@ -370,15 +379,6 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "Super to chat with @jarredsumner at @aiDotEngineer about the future of programming languages and open source!",
-   "url": "https://nitter.kareem.one/kentcdodds/status/2121050834708647965#m",
-   "ts": 1794532900,
-   "id": "2121050834708647965#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
    "text": "Last year people laughed at the idea of \"vibe-coding Salesforce\". Now? People realize you only ever need 1% of Salesforce, and more and more people can use an agent to build the 1% they need plus the other stuff that Salesforce would never have built. And I think we all know which would be better to use. Nicholas Arcolano (@arcolano) “Why would you vibecode Salseforce? Why would you do that?? Would you be proud if you vibecoded a CRM and Salesforce came out the other end?” – @sqs on building a “new kind of company” at @aiDotEngineer — https://nitter.kareem.one/arcolano/status/2121045555145248966#m",
    "url": "https://nitter.kareem.one/sqs/status/2121050803024847011#m",
    "ts": 1794532893,
@@ -455,15 +455,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2120999993079451919#m",
    "ts": 1794520779,
    "id": "2120999993079451919#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": ". @RLanceMartin main stage now. sharing updates for multi-agent (formats last theorem) and dreaming / memory @aiDotEngineer Lance Martin (@RLanceMartin) if you are at @aiDotEngineer , come say hi! i'll be giving a talk Thurs (tmrw) 12:30p on two recent articles i worked on: (1) how we scaled a team of 1,000 Fable 5.2 agents to formalize of Fermat's Last Theorem and (2) a few ways to think about memory + dreaming. — https://nitter.kareem.one/RLanceMartin/status/2120636264030646397#m",
-   "url": "https://nitter.kareem.one/cjav_dev/status/2120983112742215781#m",
-   "ts": 1794516754,
-   "id": "2120983112742215781#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -698,6 +689,15 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2120719962893349108#m",
    "ts": 1794454014,
    "id": "2120719962893349108#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "some from today",
+   "url": "https://nitter.kareem.one/nafisazizir/status/2120710342204604549#m",
+   "ts": 1794451721,
+   "id": "2120710342204604549#m"
   },
   {
    "handle": "Lingling_Wei",
