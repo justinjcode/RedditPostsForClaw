@@ -1,6 +1,8 @@
 {
- "generated_at": "2026-11-13T19:38:30Z",
+ "generated_at": "2026-11-13T19:45:54Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
@@ -9,9 +11,7 @@
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@bcherny: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -541,10 +541,10 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": ". @lydiahallie ’s much anticipated talk for @aiDotEngineer is up now! Packed with updated best practices about how to use Claude Code well. inv.kareem.one/vlfCjWuv4es?is=dBqp… Link Rethinking Claude Code Best Practices — Lydia Hallie, Anthropic The models have gotten really good, and most of what we've added to... youtube.com",
-   "url": "https://nitter.kareem.one/cjav_dev/status/2120914100146557122#m",
-   "ts": 1794500300,
-   "id": "2120914100146557122#m"
+   "text": "CEO of the Year has a nice ring to it. Congratulations to AMD Chair and CEO @LisaSu on this well-deserved recognition from @YahooFinance ! 👏 yhoo.it/4kdfEYI",
+   "url": "https://nitter.kareem.one/AMD/status/2120936758669906296#m",
+   "ts": 1794505703,
+   "id": "2120936758669906296#m"
   },
   {
    "handle": "elonmusk",
