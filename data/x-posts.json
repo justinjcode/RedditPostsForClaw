@@ -1,20 +1,38 @@
 {
- "generated_at": "2026-11-13T20:22:13Z",
+ "generated_at": "2026-11-13T20:28:47Z",
  "accounts_ok": [
+  "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@simonw: all instances failed",
+  "@Lingling_Wei: all instances failed"
  ],
- "count": 176,
+ "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Try Grok @Bot today! Grok Bot (@bot) Grok Bot can now join meetings. Ask it questions, assign it work, or have it keep track of what your team decides. Video — https://nitter.kareem.one/bot/status/2121320089920430181#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121335897744372073#m",
+   "ts": 1794600865,
+   "id": "2121335897744372073#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "grok bot is literally becoming the only ai system you'll ever need to use. so many enterprise use cases already, and they're really sealing the deal with this Grok Bot (@bot) Grok Bot can now join meetings. Ask it questions, assign it work, or have it keep track of what your team decides. Video — https://nitter.kareem.one/bot/status/2121320089920430181#m",
+   "url": "https://nitter.kareem.one/ducksays/status/2121326468399501384#m",
+   "ts": 1794598617,
+   "id": "2121326468399501384#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -32,6 +50,15 @@
    "url": "https://nitter.kareem.one/mntruell/status/2121321225620459994#m",
    "ts": 1794597367,
    "id": "2121321225620459994#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "if SpaceX achieves a double catch, it will be one of the single most important moments in the history of rocketry and mark a new era of humanity’s access to space. tune the fuck in! don’t miss it",
+   "url": "https://nitter.kareem.one/willdepue/status/2121319344051544527#m",
+   "ts": 1794596918,
+   "id": "2121319344051544527#m"
   },
   {
    "handle": "elonmusk",
@@ -176,15 +203,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2121250205806772283#m",
    "ts": 1794580434,
    "id": "2121250205806772283#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok is a straight shooter Sundar Pichai (@sundarpichai) Nice summary @grok ! — https://nitter.kareem.one/sundarpichai/status/2121121962911273062#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121242367684661286#m",
-   "ts": 1794578565,
-   "id": "2121242367684661286#m"
   },
   {
    "handle": "elonmusk",
@@ -536,15 +554,6 @@
    "url": "https://nitter.kareem.one/AMD/status/2120936758669906296#m",
    "ts": 1794505703,
    "id": "2120936758669906296#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "From the Rio Grande Valley, TX to Cochise County, AZ, we’re building more than supercomputers. We’re creating jobs, investing in critical infrastructure, expanding local tax bases, and working alongside communities to build a future that benefits the people who live there → spacex.com/sites/cochise-cou…",
-   "url": "https://nitter.kareem.one/SpaceX/status/2120911785217986739#m",
-   "ts": 1794499748,
-   "id": "2120911785217986739#m"
   },
   {
    "handle": "swyx",
