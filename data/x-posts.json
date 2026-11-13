@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-13T14:36:34Z",
+ "generated_at": "2026-11-13T14:44:50Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,27 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
- "count": 177,
+ "errors": [],
+ "count": 176,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Hmm Tim Sweeney (@TimSweeneyEpic) What?! So journalists with sketchy motives portrayed rumors from god-knows-who (lobbyists?) as facts sourced from intelligence officials and gaslit the NVIDIA board to push out the founder, CEO, and once-in-generation visionary? This raises serious corporate governance issues. — https://nitter.kareem.one/TimSweeneyEpic/status/2121083415487205652#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121250804447445203#m",
+   "ts": 1794580577,
+   "id": "2121250804447445203#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starship 42 preparing for launch SpaceX (@SpaceX) Ship 42 moves to the Starbase pad ahead of launch — https://nitter.kareem.one/SpaceX/status/2121044579470233638#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121250205806772283#m",
+   "ts": 1794580434,
+   "id": "2121250205806772283#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -59,15 +76,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2121120295884837183#m",
    "ts": 1794549461,
    "id": "2121120295884837183#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Jensen a16z (@a16z) \" You're gonna be remembered forever because some things are eternal.\" Video — https://nitter.kareem.one/a16z/status/2121018724262293539#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121118775210868871#m",
-   "ts": 1794549099,
-   "id": "2121118775210868871#m"
   },
   {
    "handle": "elonmusk",
@@ -232,15 +240,6 @@
    "id": "2121047741719814217#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "\"If something's important enough you should try. Even if the probable outcome is failure.\" - Elon, 2014 Flight 15 pre-flight hype edit: Video",
-   "url": "https://nitter.kareem.one/anabology/status/2121040067930058897#m",
-   "ts": 1794530333,
-   "id": "2121040067930058897#m"
-  },
-  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -329,15 +328,6 @@
    "url": "https://nitter.kareem.one/SarahisCensored/status/2120992791425581120#m",
    "ts": 1794519062,
    "id": "2120992791425581120#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "White farmer gives first account of terrifying South Africa raid: \"They put my testicles in bolt cutters, sliced my wife's nipples and said they'd gang-rape her - it's not just about robbing us\"! Video",
-   "url": "https://nitter.kareem.one/TRobinsonNewEra/status/2120990056177381823#m",
-   "ts": 1794518410,
-   "id": "2120990056177381823#m"
   },
   {
    "handle": "swyx",
@@ -439,6 +429,15 @@
    "id": "2120952906207670615#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Bot can now spot and act on any texts you may have forgotten. Grok Bot (@bot) Grok Bot on Mac can now use Messages, Mail, Notes, Reminders, Calendar, Location, and Contacts. — https://nitter.kareem.one/bot/status/2120946968403095906#m",
+   "url": "https://nitter.kareem.one/mntruell/status/2120949456518709744#m",
+   "ts": 1794508730,
+   "id": "2120949456518709744#m"
+  },
+  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -536,15 +535,6 @@
    "url": "https://nitter.kareem.one/schwartzbWSJ/status/2120892194655543455#m",
    "ts": 1794495078,
    "id": "2120892194655543455#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "A sad day for NVIDIA, developers, America, and all humanity. Jensen founded and ran one of the few companies to reach a massive scale while driving massive continued innovation and ubiquity, while others fell into the trap of ever-increasing extraction. Tim Sweeney (@TimSweeneyEpic) Congrats to everyone at NVIDIA, and to Jensen, the man who saved GDC 2015 by launching a new GPU line at State of Unreal! 😀 Now the world’s top 2 companies operate awesome untaxed pro-developer ecosystems. — https://nitter.kareem.one/TimSweeneyEpic/status/1803166701174796711#m",
-   "url": "https://nitter.kareem.one/TimSweeneyEpic/status/2120887322312921465#m",
-   "ts": 1794493916,
-   "id": "2120887322312921465#m"
   },
   {
    "handle": "ZichenWanghere",
