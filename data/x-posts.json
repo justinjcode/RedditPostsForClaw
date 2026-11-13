@@ -1,19 +1,47 @@
 {
- "generated_at": "2026-11-13T05:54:22Z",
+ "generated_at": "2026-11-13T06:13:49Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Give Grok @Bot your most laborious tasks! Maye Musk (@mayemusk) I asked @bot the best way to move 2000 photos in @Dropbox from Camera Uploads to Folders. She said, “would you like me to do it for you?” I was surprised as I had booked out the week to start sorting through them, a painful task. She did it in five minutes. I went to my Folders and saw they were there. Now I can spend my time scrolling on @X 🤓🤓🤣🤣 — https://nitter.kareem.one/mayemusk/status/2120896049946501238#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121120295884837183#m",
+   "ts": 1794549461,
+   "id": "2121120295884837183#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Jensen a16z (@a16z) \" You're gonna be remembered forever because some things are eternal.\" Video — https://nitter.kareem.one/a16z/status/2121018724262293539#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121118775210868871#m",
+   "ts": 1794549099,
+   "id": "2121118775210868871#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "SpaceX is building a supercomputer near Brownsville, Texas. The first job on site was cleaning up sixty years of other people's trash. Scrap metal, rusting tanks, old appliances and thousands of illegal tires, hauled out of the mud. Think about that for a second. This site will train frontier AI for medical research, emergency response, advanced manufacturing and national security. It will make its own electricity, so the neighbors' power bills stay their own. SpaceX is also putting $220 million into Brownsville's water and wastewater system, adding 20 million gallons of capacity every day for the city. More than 3,000 construction jobs already, with more than 500 permanent ones to come. Elon Musk summed it up in three words: \"SpaceX community benefits.\" A company spends $15 billion on Starship and another $24 billion on a supercomputer in one corner of Texas when it plans to stay for decades. Elon Musk builds the place up first, because he believes the future will be built right there. SpaceX (@SpaceX) Development of the Starbase supercompute site is creating an opportunity to address decades of environmental neglect. Portions of the property were used for unauthorized dumping dating back to the 1960s. We're undertaking cleanup efforts to remove decades of accumulated debris, including scrap metal, discarded appliances, old tanks, fiberglass insulation, construction materials, and thousands of illegally dumped tires — https://nitter.kareem.one/SpaceX/status/21209119690876072",
+   "url": "https://nitter.kareem.one/TheCaptainEli/status/2121118479537394105#m",
+   "ts": 1794549028,
+   "id": "2121118479537394105#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -51,6 +79,15 @@
    "id": "2121060183988486493#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "\"If something's important enough you should try. Even if the probable outcome is failure.\" - Elon, 2014 Flight 15 pre-flight hype edit: Video",
+   "url": "https://nitter.kareem.one/anabology/status/2121040067930058897#m",
+   "ts": 1794530333,
+   "id": "2121040067930058897#m"
+  },
+  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -78,6 +115,15 @@
    "id": "2121036562058400200#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "You can now share up to 20 images in one post on 𝕏. Special thanks to Justin Bieber for this great example. Justin Bieber (@justinbieber) — https://nitter.kareem.one/justinbieber/status/2120954896363200630#m",
+   "url": "https://nitter.kareem.one/benjitaylor/status/2121035025688957415#m",
+   "ts": 1794529131,
+   "id": "2121035025688957415#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -103,6 +149,15 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2120999993079451919#m",
    "ts": 1794520779,
    "id": "2120999993079451919#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Ship 42 has a name! DON’T PANIC ♥️ From the book The Hitchhiker’s Guide to the Galaxy by Douglas Adams and the words on the cover of the Guide itself. 42 is the Answer to Life, the Universe, and Everything. “Don’t Panic” was also on the dashboard of Elon’s Tesla Roadster when it launched into space in 2018 -along with a copy of the book and a towel in the glovebox (I never travel without these). Full circle ♥️ It’s the perfect name for the first ship going for the tower catch ♥️ MissionControl (@Miss1onControl) Oh my god she has name……… SHE HAS A NAME!!!!!! — https://nitter.kareem.one/Miss1onControl/status/2120910201738141802#m",
+   "url": "https://nitter.kareem.one/paranoidream/status/2120999612131774807#m",
+   "ts": 1794520688,
+   "id": "2120999612131774807#m"
   },
   {
    "handle": "swyx",
@@ -159,6 +214,15 @@
    "id": "2120971665249112530#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The first 16K image shared on 𝕏 Carousels now supports up to 20 images! So here's an uuuultra-wide piece from me:",
+   "url": "https://nitter.kareem.one/doganuraldesign/status/2120971278165414385#m",
+   "ts": 1794513933,
+   "id": "2120971278165414385#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -193,6 +257,15 @@
    "url": "https://nitter.kareem.one/NaderLikeLadder/status/2120956179274936560#m",
    "ts": 1794510333,
    "id": "2120956179274936560#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "RT by @elonmusk: Image",
+   "url": "https://nitter.kareem.one/justinbieber/status/2120954896363200630#m",
+   "ts": 1794510027,
+   "id": "2120954896363200630#m"
   },
   {
    "handle": "TheRundownAI",
@@ -321,6 +394,15 @@
    "id": "2120900828756357322#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "A lot of people are becoming very sceptical about our police and our judiciary How is this possible ? welshman (@welshmaan) Just to be clear, Danny Tommo is going to be sentenced for damaging the illegal property of human traffickers who continuously flood our country with some of the worst people you could ever imagine. — https://nitter.kareem.one/welshmaan/status/2120830175332249963#m",
+   "url": "https://nitter.kareem.one/JohnCleese/status/2120894260891255155#m",
+   "ts": 1794495570,
+   "id": "2120894260891255155#m"
+  },
+  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -420,15 +502,6 @@
    "id": "2120760435813306525#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Try Grok @Bot GREG ISENBERG (@gregisenberg) grok bot is the BEST AI agent orchestrator right now and THIS is the best setup i’ve EVER seen inv.kareem.one/1cWZ7Ekff6E?si=YkcM… it runs claude code for engineering and paper for design here is the FULL setup and how to copy it: Video — https://nitter.kareem.one/gregisenberg/status/2120594418231398677#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2120758305047904548#m",
-   "ts": 1794463156,
-   "id": "2120758305047904548#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -436,15 +509,6 @@
    "url": "https://nitter.kareem.one/Steve_Yegge/status/2120755212726190131#m",
    "ts": 1794462419,
    "id": "2120755212726190131#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Robotaxi works 168 hours a week Robotaxi (@robotaxi) Robotaxi now runs 24/7 Every city we're available in Video — https://nitter.kareem.one/robotaxi/status/2120736143566344324#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2120746428720988408#m",
-   "ts": 1794460324,
-   "id": "2120746428720988408#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -481,15 +545,6 @@
    "url": "https://nitter.kareem.one/WSJ/status/2120734420143419831#m",
    "ts": 1794457461,
    "id": "2120734420143419831#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "All systems are looking good, and weather is favorable for liftoff. Propellant load is about to begin for Falcon 9’s launch of the USSF-627 mission from California → spacex.com/launches/ussf627",
-   "url": "https://nitter.kareem.one/SpaceX/status/2120725054933635188#m",
-   "ts": 1794455228,
-   "id": "2120725054933635188#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -591,33 +646,6 @@
    "id": "2120625963495277052#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Russell Brand's longtime friend and one-time fling @SammiePressdee speaks out to @MegynKelly about the TRUTH: \"I said no, and he was a perfect gentleman about it... Not one single person ever warned me to be careful around Russell Brand. So, I don't buy the 'open secret'...” More: inv.kareem.one/c/MegynKelly/?su… Video",
-   "url": "https://nitter.kareem.one/MegynKellyShow/status/2120613021907112358#m",
-   "ts": 1794428518,
-   "id": "2120613021907112358#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Bot 1.0 is out. Our goal for this release was to make Bots a much more useful part of your team. Some new things we're excited about: - Bots can now join Zoom, Google Meet, and more. You can ask Bot questions in meetings and even assign it action items. We have ours taking standup notes every day in our shared Google Doc and doing background research on discussion themes. Soon, you'll be able to talk back and forth with it live in a meeting. - A new interface for managing your Bots. You can see and steer their responsibilities, what they're learning, and their impact. It's impossible to build trust in an AI teammate if it's a black box, so it should proactively flag when it's blocked or confused, take and learn from feedback across the company, and be able to succinctly summarize its contributions. - Better collaboration in Slack and Teams. Bots are more ambiently aware, carry context across conversations, and learn from your team over time. In our Slack, we regularly see threads between members of our team and multiple Bots, handing off work, context, and decisions. Bots should intuit your company's customs and how work gets done, not just execute on the specific tasks they're given. Grok Bot (@bot) Introducing Grok Bot 1.0. AI teammates that work alongside your whole team. Share Bots, collaborate with them in Slack and Teams, invite them to meetings, and watch them learn and become more helpful. Video — https://nitter.kareem.one/bot/status/2120582957782200586#m",
-   "url": "https://nitter.kareem.one/romanugarte_/status/2120598306585989302#m",
-   "ts": 1794425009,
-   "id": "2120598306585989302#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "grok bot is the BEST AI agent orchestrator right now and THIS is the best setup i’ve EVER seen inv.kareem.one/1cWZ7Ekff6E?si=YkcM… it runs claude code for engineering and paper for design here is the FULL setup and how to copy it: Video Grok Bot (@bot) Introducing Grok Bot 1.0. AI teammates that work alongside your whole team. Share Bots, collaborate with them in Slack and Teams, invite them to meetings, and watch them learn and become more helpful. Video — https://nitter.kareem.one/bot/status/2120582957782200586#m",
-   "url": "https://nitter.kareem.one/gregisenberg/status/2120594418231398677#m",
-   "ts": 1794424082,
-   "id": "2120594418231398677#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -625,33 +653,6 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2120586101421470051#m",
    "ts": 1794422099,
    "id": "2120586101421470051#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Barbara Corcoran on Elon Musk: \"Any great leader has a strong opinion and isn't so smooth on the edges and drives it home. But that's what you want when you want to reinvent a category, and that's what he has done.\" Video",
-   "url": "https://nitter.kareem.one/teslaownersSV/status/2120585198924628448#m",
-   "ts": 1794421884,
-   "id": "2120585198924628448#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Introducing Grok Bot 1.0. Bots can be shared and are more collaborative and capable than ever. Video",
-   "url": "https://nitter.kareem.one/SpaceXSI/status/2120584928983441826#m",
-   "ts": 1794421820,
-   "id": "2120584928983441826#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Thank you to all those who have served, including the veterans we're proud to call members of the SpaceX family. Happy Veterans Day!",
-   "url": "https://nitter.kareem.one/SpaceX/status/2120584703082446863#m",
-   "ts": 1794421766,
-   "id": "2120584703082446863#m"
   },
   {
    "handle": "TheRundownAI",
