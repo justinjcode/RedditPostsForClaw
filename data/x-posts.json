@@ -1,19 +1,47 @@
 {
- "generated_at": "2026-11-13T15:46:16Z",
+ "generated_at": "2026-11-13T15:56:08Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@swyx: all instances failed",
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "And remember …",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121268692453343344#m",
+   "ts": 1794584842,
+   "id": "2121268692453343344#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starlink Sawyer Merritt (@SawyerMerritt) United Airlines CEO in new interview on @Starlink Wi-Fi: \"Wi-Fi is the No. 1 reason that people pick an airline flight. I think it's the biggest near-term competitive advantage that we've ever had in United's 100-year history. And it really is something that's causing customers to try United because they want Starlink. By the way, all the JFK flights 100% are going to be on Starlink when we start JFK [soon].\" — https://nitter.kareem.one/SawyerMerritt/status/2121248130620346584#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121267716023546027#m",
+   "ts": 1794584609,
+   "id": "2121267716023546027#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "True sourcery (@sourceryy) \"Socialism sucks.\" - @mlevchin \"Take it from somebody who spent his first 16 years under the 'warm embrace of collectivism' as a certain mayor recently put it—socialism sucks.\" \"The only people who do well in redistribution of wealth are the ones doing redistribution.\" \"It's fundamentally corrupt. There's not enough bad things I can say about socialism.\" Video — https://nitter.kareem.one/sourceryy/status/2121031789879923007#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121266455442292980#m",
+   "ts": 1794584308,
+   "id": "2121266455442292980#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -112,15 +140,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2121120295884837183#m",
    "ts": 1794549461,
    "id": "2121120295884837183#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "SpaceX is building a supercomputer near Brownsville, Texas. The first job on site was cleaning up sixty years of other people's trash. Scrap metal, rusting tanks, old appliances and thousands of illegal tires, hauled out of the mud. Think about that for a second. This site will train frontier AI for medical research, emergency response, advanced manufacturing and national security. It will make its own electricity, so the neighbors' power bills stay their own. SpaceX is also putting $220 million into Brownsville's water and wastewater system, adding 20 million gallons of capacity every day for the city. More than 3,000 construction jobs already, with more than 500 permanent ones to come. Elon Musk summed it up in three words: \"SpaceX community benefits.\" A company spends $15 billion on Starship and another $24 billion on a supercomputer in one corner of Texas when it plans to stay for decades. Elon Musk builds the place up first, because he believes the future will be built right there. SpaceX (@SpaceX) Development of the Starbase supercompute site is creating an opportunity to address decades of environmental neglect. Portions of the property were used for unauthorized dumping dating back to the 1960s. We're undertaking cleanup efforts to remove decades of accumulated debris, including scrap metal, discarded appliances, old tanks, fiberglass insulation, construction materials, and thousands of illegally dumped tires — https://nitter.kareem.one/SpaceX/status/21209119690876072",
-   "url": "https://nitter.kareem.one/TheCaptainEli/status/2121118479537394105#m",
-   "ts": 1794549028,
-   "id": "2121118479537394105#m"
   },
   {
    "handle": "swyx",
@@ -429,15 +448,6 @@
    "id": "2120970013456949756#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "RT by @elonmusk: Image",
-   "url": "https://nitter.kareem.one/justinbieber/status/2120954896363200630#m",
-   "ts": 1794510027,
-   "id": "2120954896363200630#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -553,15 +563,6 @@
    "url": "https://nitter.kareem.one/bobdavis187/status/2120900828756357322#m",
    "ts": 1794497136,
    "id": "2120900828756357322#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "A lot of people are becoming very sceptical about our police and our judiciary How is this possible ? welshman (@welshmaan) Just to be clear, Danny Tommo is going to be sentenced for damaging the illegal property of human traffickers who continuously flood our country with some of the worst people you could ever imagine. — https://nitter.kareem.one/welshmaan/status/2120830175332249963#m",
-   "url": "https://nitter.kareem.one/JohnCleese/status/2120894260891255155#m",
-   "ts": 1794495570,
-   "id": "2120894260891255155#m"
   },
   {
    "handle": "Lingling_Wei",
