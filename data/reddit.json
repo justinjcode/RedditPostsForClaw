@@ -1,34 +1,195 @@
 {
- "generated_at": "2026-11-13T02:10:29Z",
+ "generated_at": "2026-11-13T16:09:34Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Qwen3.5-9B running on a PS4’s GPU, offline, using its own MTP head for speculative decoding",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbn2m/qwen359b_running_on_a_ps4s_gpu_offline_using_its/",
+   "ts": 1794585636,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "trying to know when something at home goes down before anyone notices, self hosted options",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xvbj9n/trying_to_know_when_something_at_home_goes_down/",
+   "ts": 1794585423,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Look what my son gave me!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbcfp/look_what_my_son_gave_me/",
+   "ts": 1794584967,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "NoteDiscovery 0.34.1, accent-insensitive search, MCP enhancements and a UI tweaks",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xvavdw/notediscovery_0341_accentinsensitive_search_mcp/",
+   "ts": 1794583870,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "CXMT almost tripling RAM production from 2025 to 2028",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvam8o/cxmt_almost_tripling_ram_production_from_2025_to/",
+   "ts": 1794583270,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "ML Modules for Mere Mortals",
+   "url": "https://www.reddit.com/r/programming/comments/1xva4qf/ml_modules_for_mere_mortals/",
+   "ts": 1794582097,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "llama.cpp v1.0 is here 🦙",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv8t2e/llamacpp_v10_is_here/",
+   "ts": 1794578853,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Formatting an entire 25 million line codebase overnight: the rubyfmt story",
+   "url": "https://www.reddit.com/r/programming/comments/1xv8oe9/formatting_an_entire_25_million_line_codebase/",
+   "ts": 1794578537,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "umbot – Self-hosted TypeScript framework for cross-platform chatbots and voice skills",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xv8jwg/umbot_selfhosted_typescript_framework_for/",
+   "ts": 1794578251,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "6 years of selfhosting, hit with RAM corruption",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xv883c/6_years_of_selfhosting_hit_with_ram_corruption/",
+   "ts": 1794577413,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Perplexity releases Decider v1.3 (26B) and Decider Flash v1.3 (5B): open-weight (Apache 2.0) classification/decision models",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv7fku/perplexity_releases_decider_v13_26b_and_decider/",
+   "ts": 1794575290,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "A leaderboard you can't fake: deterministic replay, sealed replays and a source check",
+   "url": "https://www.reddit.com/r/programming/comments/1xv6v71/a_leaderboard_you_cant_fake_deterministic_replay/",
+   "ts": 1794573733,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "I trained DiffusionGemma to be an abstract expressionist",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv5svo/i_trained_diffusiongemma_to_be_an_abstract/",
+   "ts": 1794570517,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "plMail needs input on upcoming features.",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xv4zpz/plmail_needs_input_on_upcoming_features/",
+   "ts": 1794567789,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Google is asking",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv2e0a/google_is_asking/",
+   "ts": 1794558028,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Steadfast Update I - The Baseline",
+   "url": "https://www.reddit.com/r/programming/comments/1xv1mjg/steadfast_update_i_the_baseline/",
+   "ts": 1794555175,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "exploit a 22 years old PostgreSQL composite-type vulnerability",
+   "url": "https://www.reddit.com/r/programming/comments/1xv1i5m/exploit_a_22_years_old_postgresql_compositetype/",
+   "ts": 1794554718,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "DNS-collector v3.3.7 is out!",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xv1hv2/dnscollector_v337_is_out/",
+   "ts": 1794554684,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "I posted my diagram-as-code homelab map a while back. I use it so much at home and at work now that I wrote proper docs for it",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xv17a7/i_posted_my_diagramascode_homelab_map_a_while/",
+   "ts": 1794553588,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "N150 mini PC vs spending 160 USD to use old pc with Ryzen 5600x and 16gb of ram?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xv13ii/n150_mini_pc_vs_spending_160_usd_to_use_old_pc/",
+   "ts": 1794553217,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Artisanal Coding #02: Animated ASCII Donut in pure zig",
+   "url": "https://www.reddit.com/r/programming/comments/1xv01hz/artisanal_coding_02_animated_ascii_donut_in_pure/",
+   "ts": 1794549504,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuxxmb/bring_back_the_boss_nvidia_employees_petition_for/",
+   "ts": 1794542608,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "A100 prices down 20-30% since my post about them collapsing",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuxbeb/a100_prices_down_2030_since_my_post_about_them/",
+   "ts": 1794540692,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "US intel isn’t sure if businesswoman spied on Nvidia for China, doesn’t mean she wasn’t a risk, sources say",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuwf9w/us_intel_isnt_sure_if_businesswoman_spied_on/",
+   "ts": 1794538067,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Stories coming out about Jensen",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuvexw/stories_coming_out_about_jensen/",
+   "ts": 1794535133,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "How Cloudflare uses QuePaxa—a leaderless, fault-detection-free consensus algorithm—for its global control plane",
    "url": "https://www.reddit.com/r/programming/comments/1xuv4ux/how_cloudflare_uses_quepaxaa_leaderless/",
    "ts": 1794534317,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Property-based testing in Java: built a library with byte-stream shrinking and automatic failure replay",
-   "url": "https://www.reddit.com/r/programming/comments/1xuullc/propertybased_testing_in_java_built_a_library/",
-   "ts": 1794532758,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Microsoft outage and email.",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xuuaao/microsoft_outage_and_email/",
-   "ts": 1794531890,
    "source": "Reddit"
   },
   {
@@ -46,13 +207,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Lawyer with too many GPUs, part 5: DeepSeek-V4.1-Flash at near-NVFP4 quality on eight V100s from 2018. 524K context, 100+ tok/s decode, ~160 tok/s with two chats at once, and my legal harness now runs on it, 100% local",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xus81t/lawyer_with_too_many_gpus_part_5_deepseekv41flash/",
-   "ts": 1794526289,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "New Project Megathread - Week of 12 Nov 2026",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xurjda/new_project_megathread_week_of_12_nov_2026/",
@@ -60,24 +214,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Used datacenter/workstation GPU prices on eBay this week, ranked by $/GB of VRAM",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xur9ud/used_datacenterworkstation_gpu_prices_on_ebay/",
-   "ts": 1794523783,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Gemma 3 builds a linearly decodable spatial map from text, but its answers never read it [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xuqs9d/gemma_3_builds_a_linearly_decodable_spatial_map/",
    "ts": 1794522545,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "thinkingmachines/Inkling-2-Small is released!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuqplg/thinkingmachinesinkling2small_is_released/",
-   "ts": 1794522357,
    "source": "Reddit"
   },
   {
@@ -102,31 +242,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "New Model \"Ernie 5.5 Flash Preview\" hits strongly at a low parameter count (280B, 14B Active)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xune1i/new_model_ernie_55_flash_preview_hits_strongly_at/",
-   "ts": 1794514417,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "The Low-Complexity Stack: Self-Hosting with OpenSUSE MicroOS and Podman",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xumnpe/the_lowcomplexity_stack_selfhosting_with_opensuse/",
    "ts": 1794512766,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Jensen today at Nvidia board meeting",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xumhm3/jensen_today_at_nvidia_board_meeting/",
-   "ts": 1794512388,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Looking for self hosted Cookshelf alternative",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xulknn/looking_for_self_hosted_cookshelf_alternative/",
-   "ts": 1794510374,
    "source": "Reddit"
   },
   {
@@ -151,13 +270,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "exploit a 22 years old PostgreSQL composite-type vulnerability",
-   "url": "https://www.reddit.com/r/programming/comments/1xuk4d5/exploit_a_22_years_old_postgresql_compositetype/",
-   "ts": 1794507169,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Jensen Huang's mistake was being too pro LocalAI, which was a threat to companies like ClosedAI and Anthropic which are about to go IPO",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xujb7c/jensen_huangs_mistake_was_being_too_pro_localai/",
@@ -169,27 +281,6 @@
    "title": "Does Meta's brain-response model (TRIBE v2) actually recover retinotopy/tonotopy/motion maps? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xuillf/does_metas_brainresponse_model_tribe_v2_actually/",
    "ts": 1794503806,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "CMP170hx now fully unlockabke and more, full 120 SMs —> Techie uses voltage glitching hack to turn $2,500 Nvidia 8GB cryptomining GPU into a full-fat $20,000 A100 with 80GB of VRAM — hack carefully blows onboard fuses to unlock entire VRAM and shader modules",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuijih/cmp170hx_now_fully_unlockabke_and_more_full_120/",
-   "ts": 1794503683,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "A simple way to keep your self-hosted website accessible during outages",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xui448/a_simple_way_to_keep_your_selfhosted_website/",
-   "ts": 1794502763,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "qwen3.8-flash shows us a glimpse of whats possible for smaller hardware",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xugw1p/qwen38flash_shows_us_a_glimpse_of_whats_possible/",
-   "ts": 1794500012,
    "source": "Reddit"
   },
   {
@@ -207,13 +298,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "trying to block ads and trackers on every device at home, including the smart tv, self hosted dns options",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xufeum/trying_to_block_ads_and_trackers_on_every_device/",
-   "ts": 1794496645,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Building Barista: Formal Verification and TLA+",
    "url": "https://www.reddit.com/r/programming/comments/1xufafk/building_barista_formal_verification_and_tla/",
@@ -221,24 +305,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Mini-ITX NAS",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xuf9mg/miniitx_nas/",
-   "ts": 1794496292,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "CVPR 2027 Author enrollment form [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xue879/cvpr_2027_author_enrollment_form_d/",
    "ts": 1794493815,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Nvidia's Jensen Huang Resigns as CEO, Colette Kress Named Interim",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xudeev/nvidias_jensen_huang_resigns_as_ceo_colette_kress/",
-   "ts": 1794491811,
    "source": "Reddit"
   },
   {
@@ -263,31 +333,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Alleged GeForce RTX 5090 with 96GB listed for sale in China",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xucffq/alleged_geforce_rtx_5090_with_96gb_listed_for/",
-   "ts": 1794489173,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "M720q Tiny as a DIY NAS + homelab: most reliable SATA expansion for 4 drives?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xub8mf/m720q_tiny_as_a_diy_nas_homelab_most_reliable/",
    "ts": 1794485689,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Meet the people behind MOSS-Image, plus a few answers from their AMA here",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuad5c/meet_the_people_behind_mossimage_plus_a_few/",
-   "ts": 1794482827,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "KQuant - new quantization technique, 3.7× better quants for Qwen Flash Next 180B, Qwen 27B, 35B, 9B (measured in KL-divergence reduction) (MLX)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu9onk/kquant_new_quantization_technique_37_better/",
-   "ts": 1794480444,
    "source": "Reddit"
   },
   {
@@ -312,20 +361,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Phylum - Self Hosted Cloud File Storage",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xu1y9l/phylum_self_hosted_cloud_file_storage/",
-   "ts": 1794453321,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Go 1.27.4 security release: cgo flags and a net/http fix",
-   "url": "https://www.reddit.com/r/programming/comments/1xu0jb5/go_1274_security_release_cgo_flags_and_a_nethttp/",
-   "ts": 1794449186,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "How to get desk-rejected at NeurIPS/ICML/ICLR [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xu08e7/how_to_get_deskrejected_at_neuripsicmliclr_d/",
@@ -347,13 +382,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Pi-Dock-Wifi: a Raspberry Pi 5 router with two Wi-Fi cards, Pi-hole and web dashboard",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xtsr4b/pidockwifi_a_raspberry_pi_5_router_with_two_wifi/",
-   "ts": 1794429005,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "eMudhra's official incident report on how they ended up with private key 4",
    "url": "https://www.reddit.com/r/programming/comments/1xtrm8s/emudhras_official_incident_report_on_how_they/",
@@ -368,13 +396,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Go Turns 17 - The Go Programming Language",
-   "url": "https://www.reddit.com/r/programming/comments/1xtm606/go_turns_17_the_go_programming_language/",
-   "ts": 1794414355,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "[Bi-Weekly Megathread] Project Showcase",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtjze2/biweekly_megathread_project_showcase/",
@@ -386,27 +407,6 @@
    "title": "Can we talk about the ML research coming from China? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xteym8/can_we_talk_about_the_ml_research_coming_from/",
    "ts": 1794394958,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "What a self-hosted dashboard looks like on 31.5 inches of colour e-ink",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xtaf06/what_a_selfhosted_dashboard_looks_like_on_315/",
-   "ts": 1794377923,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Regressive JPEGs",
-   "url": "https://www.reddit.com/r/programming/comments/1xt7wkx/regressive_jpegs/",
-   "ts": 1794369660,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Announcing .NET 11",
-   "url": "https://www.reddit.com/r/programming/comments/1xstxzv/announcing_net_11/",
-   "ts": 1794333869,
    "source": "Reddit"
   },
   {
