@@ -1,19 +1,29 @@
 {
- "generated_at": "2026-11-13T01:55:00Z",
+ "generated_at": "2026-11-13T02:11:15Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 176,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "the production team got us a cake!! #aie1m Video Alexio Cassani (@alexio) ONE MILLION subscribers for @aiDotEngineer ! What a way to close Code Summit 2026. Two days of software factories, human judgement, verification and agents that organize themselves. Flew in from Milan and would do it again tomorrow. Huge congrats to the whole team! @swyx — https://nitter.kareem.one/alexio/status/2121058774618431709#m",
+   "url": "https://nitter.kareem.one/swyx/status/2121060183988486493#m",
+   "ts": 1794535129,
+   "id": "2121060183988486493#m"
+  },
   {
    "handle": "simonw",
    "name": "Simon Willison",
@@ -625,15 +635,6 @@
    "url": "https://nitter.kareem.one/SpaceX/status/2120584703082446863#m",
    "ts": 1794421766,
    "id": "2120584703082446863#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "\"Hi my name is poteto and I shipped 3,000 PR's last month. I also go by Lauren\" lol I predict that this talk is going to blow up, so invest early! Video Alex Volkov (@altryne) These awesome ladies are killing it at @aiDotEngineer code! 👩‍💻 IIRC this is the first all female keynote start at AIE? @swyx ? Back to back: @nserrino - 10X inference @lydiahallie - @claudeai best practices @michellechen - Cloudflare being a neolab @poteto - poteto poteto — https://nitter.kareem.one/altryne/status/2120568343480713360#m",
-   "url": "https://nitter.kareem.one/altryne/status/2120579271249019071#m",
-   "ts": 1794420471,
-   "id": "2120579271249019071#m"
   },
   {
    "handle": "TheRundownAI",
