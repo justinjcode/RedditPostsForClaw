@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-13T06:57:14Z",
+ "generated_at": "2026-11-13T07:10:25Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "bcherny",
+  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -11,7 +10,8 @@
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed"
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -50,6 +50,15 @@
    "url": "https://nitter.kareem.one/TheCaptainEli/status/2121118479537394105#m",
    "ts": 1794549028,
    "id": "2121118479537394105#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "AIE code summit is done! @swyx said this was the 10th one! What a great event this is! Much higher quality folks, conversations are full of alpha, new ideas, zeitgeist updates is top notch! Also I heard X allows a photo dump now? Great for post event summary! This time besides doing the regular LIVE ThursdAI show, me and @RayFernando1337 ran around and did a hallway track stream, and talked to tons of speakers, attendees, and organizers. The event was impeccably organized yet again, this time with @Beccalytics and @g2i_ai great execution and taste! Food was dope, after parties and speakers dinners were superbly organized! Really my only complaint is WiFi but that's up to the hotel usually? But so many great folks are getting into the AIE circle, that it's more than compensates for the poor connectivity! Got to see old friends and make many many new ones, learn a ton about Factories from @dexhorthy @kentcdodds and @zachlloydtweets among others, formal verification from @poteto (also shared an actual poteto ha!) and type one models from @michellechen and @ivanleomk The three themes this time according to Swyx were: - Factories - Type One models - Dreaming bigger Saw an amazing crowd around @echelon - who represents the \"dream bigger\" at this event with ArtCraft 👏 And of course felt like a Billionaire hanging out with @DevinAI at the Token Billionaires lounge! (Huge shoutout to @mattbergland yes again!) If you feel FOMO - please do check out our coverage we had a lot of fun gett",
+   "url": "https://nitter.kareem.one/altryne/status/2121114914429501842#m",
+   "ts": 1794548178,
+   "id": "2121114914429501842#m"
   },
   {
    "handle": "swyx",
@@ -95,6 +104,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2121060183988486493#m",
    "ts": 1794535129,
    "id": "2121060183988486493#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Last talk of the conference, I think the first session that had source code on screen :)",
+   "url": "https://nitter.kareem.one/lucasmeijer/status/2121055438825234601#m",
+   "ts": 1794533998,
+   "id": "2121055438825234601#m"
   },
   {
    "handle": "swyx",
@@ -158,6 +176,15 @@
    "url": "https://nitter.kareem.one/Beccalytics/status/2121020083124502575#m",
    "ts": 1794525569,
    "id": "2121020083124502575#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "everyone and their mother was telling me at the conf how @Beccalytics nailed the details I am completely unsurprised Michelle Bakels (@MichelleBakels) Seeing these posts make me so happy! Rebecca is meticulous and thoroughly organized. You can’t catch her off guard. She always has an answer/solution for everything, and in the rare case she doesn’t, she’s on it immediately. She’s also so great at building relationships and really listening to people’s needs. I’m biased bc I get a close up view of her work ethic all the time, but I love when other people notice her effort too! 🥹❤️ — https://nitter.kareem.one/MichelleBakels/status/2120997462278369550#m",
+   "url": "https://nitter.kareem.one/threepointone/status/2121010024415674542#m",
+   "ts": 1794523170,
+   "id": "2121010024415674542#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -358,24 +385,6 @@
    "id": "2120930215102947353#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "the rest of day 1 keynotes AI.Engineer @ CODE (@aiDotEngineer) The Code Summit livestream starts in 30 minutes. @nserrino ( @gimletlabs ) on 10x faster AI. @lydiahallie ( @AnthropicAI ) on Claude Code best practices. 9 AM PT. Watch free: inv.kareem.one/live/ZZ19zhYnDKY Presented by @GoogleDeepMind . — https://nitter.kareem.one/aiDotEngineer/status/2120554645781463093#m",
-   "url": "https://nitter.kareem.one/swyx/status/2120929644958605703#m",
-   "ts": 1794504006,
-   "id": "2120929644958605703#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "sorry for the tech issues yesterday but omg @lydiahallie posted her makeup talk last night and it already got 200k views in 13 hours - highest day 0 count in the history of AIE!! AI.Engineer @ CODE (@aiDotEngineer) it's the final day of AIE CODE! Opening keynotes starting now! @jxnlco at @OpenAI @mitsuhiko at @earendilworks @zachlloydtweets at @warpdotdev @echelon at @get_artcraft Watch here: inv.kareem.one/live/y9JtCCZP2MQ Presented by @GoogleDeepMind . — https://nitter.kareem.one/aiDotEngineer/status/2120924586279649487#m",
-   "url": "https://nitter.kareem.one/swyx/status/2120925700534460775#m",
-   "ts": 1794503066,
-   "id": "2120925700534460775#m"
-  },
-  {
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
@@ -383,6 +392,15 @@
    "url": "https://nitter.kareem.one/SawyerMerritt/status/2120921108979351607#m",
    "ts": 1794501971,
    "id": "2120921108979351607#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": ". @lydiahallie ’s much anticipated talk for @aiDotEngineer is up now! Packed with updated best practices about how to use Claude Code well. inv.kareem.one/vlfCjWuv4es?is=dBqp… Link Rethinking Claude Code Best Practices — Lydia Hallie, Anthropic The models have gotten really good, and most of what we've added to... youtube.com",
+   "url": "https://nitter.kareem.one/cjav_dev/status/2120914100146557122#m",
+   "ts": 1794500300,
+   "id": "2120914100146557122#m"
   },
   {
    "handle": "elonmusk",
@@ -410,15 +428,6 @@
    "url": "https://nitter.kareem.one/SpaceX/status/2120911969087607288#m",
    "ts": 1794499792,
    "id": "2120911969087607288#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Apple: “Introducing the new Siri” Me: “oh sick, can you turn off all my alarms” new Siri:",
-   "url": "https://nitter.kareem.one/swyx/status/2120908176967237654#m",
-   "ts": 1794498888,
-   "id": "2120908176967237654#m"
   },
   {
    "handle": "TheRundownAI",
@@ -536,15 +545,6 @@
    "url": "https://nitter.kareem.one/dixiob6717701/status/2120812176839741519#m",
    "ts": 1794476000,
    "id": "2120812176839741519#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Shoutout to @simonw who went right after me and was also hilarious and entertaining. Fun night! Justin Anderson (@ruskicanuk) Sienfeld level humor from @Steve_Yegge at @aiDotEngineer today. — https://nitter.kareem.one/ruskicanuk/status/2120691260201832606#m",
-   "url": "https://nitter.kareem.one/Steve_Yegge/status/2120755212726190131#m",
-   "ts": 1794462419,
-   "id": "2120755212726190131#m"
   },
   {
    "handle": "ZichenWanghere",
