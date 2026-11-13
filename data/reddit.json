@@ -1,15 +1,43 @@
 {
- "generated_at": "2026-11-13T00:20:37Z",
+ "generated_at": "2026-11-13T02:10:29Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
+  "MachineLearning",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "How Cloudflare uses QuePaxa—a leaderless, fault-detection-free consensus algorithm—for its global control plane",
+   "url": "https://www.reddit.com/r/programming/comments/1xuv4ux/how_cloudflare_uses_quepaxaa_leaderless/",
+   "ts": 1794534317,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Property-based testing in Java: built a library with byte-stream shrinking and automatic failure replay",
+   "url": "https://www.reddit.com/r/programming/comments/1xuullc/propertybased_testing_in_java_built_a_library/",
+   "ts": 1794532758,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Microsoft outage and email.",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xuuaao/microsoft_outage_and_email/",
+   "ts": 1794531890,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "I need feedback on this architecture for amodal raster-to-vector using a hybrid approach. [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xutg9v/i_need_feedback_on_this_architecture_for_amodal/",
+   "ts": 1794529555,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang's exit",
@@ -39,6 +67,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "MachineLearning",
+   "title": "Gemma 3 builds a linearly decodable spatial map from text, but its answers never read it [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xuqs9d/gemma_3_builds_a_linearly_decodable_spatial_map/",
+   "ts": 1794522545,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "LocalLLaMA",
    "title": "thinkingmachines/Inkling-2-Small is released!",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuqplg/thinkingmachinesinkling2small_is_released/",
@@ -50,6 +85,13 @@
    "title": "Proactive Measures Against Password Breaches and Cookie Hijacking",
    "url": "https://www.reddit.com/r/programming/comments/1xupnmw/proactive_measures_against_password_breaches_and/",
    "ts": 1794519802,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Weights for MNIST Handwriting Network [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xupgn8/weights_for_mnist_handwriting_network_p/",
+   "ts": 1794519341,
    "source": "Reddit"
   },
   {
@@ -250,13 +292,6 @@
   },
   {
    "subreddit": "programming",
-   "title": "Over-the-air updates come to NativePHP apps",
-   "url": "https://www.reddit.com/r/programming/comments/1xu8mlk/overtheair_updates_come_to_nativephp_apps/",
-   "ts": 1794476626,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
    "title": "This Turkish Letter Keeps Breaking the World's Software - YouTube",
    "url": "https://www.reddit.com/r/programming/comments/1xu79k2/this_turkish_letter_keeps_breaking_the_worlds/",
    "ts": 1794471324,
@@ -278,30 +313,9 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "trying to get family music and audiobooks off spotify and audible, open source stuff that seems to cover most of it",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xu3kqm/trying_to_get_family_music_and_audiobooks_off/",
-   "ts": 1794458358,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "Phylum - Self Hosted Cloud File Storage",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xu1y9l/phylum_self_hosted_cloud_file_storage/",
    "ts": 1794453321,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Missed Presentation [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xu1szu/missed_presentation_d/",
-   "ts": 1794452900,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "I fine-tuned EVA-02 in a week to build a neural video retrieval engine for what CLIP still won't do [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xu1pg4/i_finetuned_eva02_in_a_week_to_build_a_neural/",
-   "ts": 1794452614,
    "source": "Reddit"
   },
   {
@@ -323,13 +337,6 @@
    "title": "Rust's Type System is All You Need",
    "url": "https://www.reddit.com/r/programming/comments/1xtvkph/rusts_type_system_is_all_you_need/",
    "ts": 1794435764,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "How should authors handle a suspected auto-generated review at ICLR? Flag to the AC or just rebut? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xtvipb/how_should_authors_handle_a_suspected/",
-   "ts": 1794435631,
    "source": "Reddit"
   },
   {
@@ -393,13 +400,6 @@
    "title": "Regressive JPEGs",
    "url": "https://www.reddit.com/r/programming/comments/1xt7wkx/regressive_jpegs/",
    "ts": 1794369660,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "A Chromium Bug Caused by a 25-Hour Day",
-   "url": "https://www.reddit.com/r/programming/comments/1xsvulu/a_chromium_bug_caused_by_a_25hour_day/",
-   "ts": 1794338119,
    "source": "Reddit"
   },
   {
