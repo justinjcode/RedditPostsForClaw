@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T10:25:55Z",
+ "generated_at": "2026-11-13T10:36:50Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -8,12 +8,22 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@swyx: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "Transcript: CCG-JETRO Luncheon on Economic Cooperation Between Japan and China in a Changing World On CN-JP trade and investment ties, industrial complementarity and opportunities for business cooperation in ASEAN. ccgupdate.org/p/transcript-c… Link Transcript: CCG-JETRO Luncheon on Economic Cooperation Between Japan and China in a Changing World Henry Huiyao Wang, Mitsuaki Hoshino, Fukunari Kimura & Kenji Kanasugi discuss China-Japan trade and investment ties, industrial complementarity and opportunities for business cooperation in ASEAN. ccgupdate.org",
+   "url": "https://nitter.kareem.one/CCG_org/status/2121179614886449166#m",
+   "ts": 1794563604,
+   "id": "2121179614886449166#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -913,15 +923,6 @@
    "url": "https://nitter.kareem.one/ZilanQian/status/2120108077005390090#m",
    "ts": 1794308129,
    "id": "2120108077005390090#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "这样的老师一毕业就得找他去撸串拜把子",
-   "url": "https://nitter.kareem.one/pietehao/status/2120043276036186617#m",
-   "ts": 1794292680,
-   "id": "2120043276036186617#m"
   },
   {
    "handle": "simonw",
