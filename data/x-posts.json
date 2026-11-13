@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-13T16:10:33Z",
+ "generated_at": "2026-11-13T16:19:44Z",
  "accounts_ok": [
+  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,28 @@
  ],
  "errors": [
   "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
- "count": 177,
+ "count": 176,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "BREAKING: Starlink is bringing fast internet to rural communities in Timor-Leste. 🇹🇱 In Suco Aubeon, residents and community leaders now have @Starlink through VorakaiConnect, helping: • Families stay connected. • Residents access news and information. • Community leaders carry out local administration. Across the country, the Government’s partnership with Vorakai covers 450 village headquarters, using Starlink to connect local offices to digital government systems while fiber networks expand.",
+   "url": "https://nitter.kareem.one/cb_doge/status/2121270651650814087#m",
+   "ts": 1794585309,
+   "id": "2121270651650814087#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "NEW: OpenAI launched ChatGPT Wallet, letting AI agents buy things for users without ever seeing an actual card number, built with American Express, Mastercard and Visa. Video",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2121269456479597049#m",
+   "ts": 1794585024,
+   "id": "2121269456479597049#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -140,15 +158,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2121120295884837183#m",
    "ts": 1794549461,
    "id": "2121120295884837183#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "AIE code summit is done! @swyx said this was the 10th one! What a great event this is! Much higher quality folks, conversations are full of alpha, new ideas, zeitgeist updates is top notch! Also I heard X allows a photo dump now? Great for post event summary! This time besides doing the regular LIVE ThursdAI show, me and @RayFernando1337 ran around and did a hallway track stream, and talked to tons of speakers, attendees, and organizers. The event was impeccably organized yet again, this time with @Beccalytics and @g2i_ai great execution and taste! Food was dope, after parties and speakers dinners were superbly organized! Really my only complaint is WiFi but that's up to the hotel usually? But so many great folks are getting into the AIE circle, that it's more than compensates for the poor connectivity! Got to see old friends and make many many new ones, learn a ton about Factories from @dexhorthy @kentcdodds and @zachlloydtweets among others, formal verification from @poteto (also shared an actual poteto ha!) and type one models from @michellechen and @ivanleomk The three themes this time according to Swyx were: - Factories - Type One models - Dreaming bigger Saw an amazing crowd around @echelon - who represents the \"dream bigger\" at this event with ArtCraft 👏 And of course felt like a Billionaire hanging out with @DevinAI at the Token Billionaires lounge! (Huge shoutout to @mattbergland yes again!) If you feel FOMO - please do check out our coverage we had a lot of fun gett",
-   "url": "https://nitter.kareem.one/altryne/status/2121114914429501842#m",
-   "ts": 1794548178,
-   "id": "2121114914429501842#m"
   },
   {
    "handle": "swyx",
@@ -331,6 +340,15 @@
    "id": "2121008893283229785#m"
   },
   {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Lance’s visuals are on the next level. So glad to see @RLanceMartin gave a talk on agent memory based on his latest memory research blog. • Memory should be selective. Stronger models saved strategic insights instead of logging everything or failure cases. • Memory is dynamic. “Dreaming” helped an agent recover from a wrong note. Life can only be understood backward, it must be lived forward. Extracting memories is a beautiful journey to find truth of life. The journey is the reward. ✨ @aiDotEngineer",
+   "url": "https://nitter.kareem.one/vela_gao/status/2121001155958624728#m",
+   "ts": 1794521056,
+   "id": "2121001155958624728#m"
+  },
+  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -343,28 +361,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Ship 42 has a name! DON’T PANIC ♥️ From the book The Hitchhiker’s Guide to the Galaxy by Douglas Adams and the words on the cover of the Guide itself. 42 is the Answer to Life, the Universe, and Everything. “Don’t Panic” was also on the dashboard of Elon’s Tesla Roadster when it launched into space in 2018 -along with a copy of the book and a towel in the glovebox (I never travel without these). Full circle ♥️ It’s the perfect name for the first ship going for the tower catch ♥️ MissionControl (@Miss1onControl) Oh my god she has name……… SHE HAS A NAME!!!!!! — https://nitter.kareem.one/Miss1onControl/status/2120910201738141802#m",
-   "url": "https://nitter.kareem.one/paranoidream/status/2120999612131774807#m",
-   "ts": 1794520688,
-   "id": "2120999612131774807#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "The REAL story finally came out. And THIS is exactly why I waited before jumping on the outrage bandwagon. Not only had these individuals pulled the same stupid prank in front of FOUR other Ring cameras before reaching this apartment, but BOTH sides have now acknowledged that they didn’t even know each other. The pranksters didn’t even know the race of the people living inside the apartment. Now these individuals are being threatened, doxxed, and dragged across the internet. One even left the university. Was the prank stupid? Absolutely. Does that justify what is happening to them now? NOT EVEN CLOSE. Imagine living in a world where making monkey noises into a Ring camera can potentially land you in more trouble than k*lling your own THREE CHILDREN. Imagine living in a world where a woman pulled a stupid prank and is forced to step away from her education, but a MURDERER who admitted to k*lling a student at a track meet is not expelled and is allowed to graduate. The world is backwards.",
    "url": "https://nitter.kareem.one/SarahisCensored/status/2120992791425581120#m",
    "ts": 1794519062,
    "id": "2120992791425581120#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "White farmer gives first account of terrifying South Africa raid: \"They put my testicles in bolt cutters, sliced my wife's nipples and said they'd gang-rape her - it's not just about robbing us\"! Video",
-   "url": "https://nitter.kareem.one/TRobinsonNewEra/status/2120990056177381823#m",
-   "ts": 1794518410,
-   "id": "2120990056177381823#m"
   },
   {
    "handle": "swyx",
@@ -1049,15 +1049,6 @@
    "url": "https://nitter.kareem.one/bcherny/status/2119890820186976763#m",
    "ts": 1794256331,
    "id": "2119890820186976763#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "RELEASED: Anthropic's Claude Fable 5.2 has arrived. Big upgrades over the previous Fable, with a smaller jump over Opus 5.5 across most benchmarks. Largest gains in knowledge work, agentic search, coding, and cybersecurity.",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2119873116427915761#m",
-   "ts": 1794252110,
-   "id": "2119873116427915761#m"
   },
   {
    "handle": "bcherny",
