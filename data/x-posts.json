@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-11-13T21:08:21Z",
+ "generated_at": "2026-11-13T21:16:01Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
   {
@@ -77,6 +76,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2121316611974185273#m",
    "ts": 1794596267,
    "id": "2121316611974185273#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "BREAKING: SpaceX says Boca Chica Beach will remain public, outlining major efforts to protect and restore it. • More than 50 tons of trash have been removed through weekly beach cleanups with the City of Starbase. • It has offered to invest tens of millions of dollars to fight beach erosion, restore the shoreline and preserve public access. • Its work with conservation partners has contributed to record sea turtle rescue efforts. • The proposed purchase covers approximately 1,200 acres surrounding the launch facility. Boca Chica Beach and the Texas coastline are excluded. • Around 600 acres would be permanently protected from development to preserve sensitive coastal habitat. • Proceeds from the proposed sale would help Texas invest in new parks and recreation in the Rio Grande Valley. • SpaceX is working with state agencies to improve safety around the launch facility while maintaining public beach access.",
+   "url": "https://nitter.kareem.one/cb_doge/status/2121288392742982125#m",
+   "ts": 1794589539,
+   "id": "2121288392742982125#m"
   },
   {
    "handle": "elonmusk",
@@ -500,15 +508,6 @@
    "url": "https://nitter.kareem.one/TejasKumar_/status/2120953281757544810#m",
    "ts": 1794509642,
    "id": "2120953281757544810#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "SPACEX FLIGHT 15 TOMORROW Video",
-   "url": "https://nitter.kareem.one/anabology/status/2120952906207670615#m",
-   "ts": 1794509552,
-   "id": "2120952906207670615#m"
   },
   {
    "handle": "elonmusk",
