@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-13T21:25:48Z",
+ "generated_at": "2026-11-13T21:35:48Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed"
+  "@TheRundownAI: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "A petition is underway to reinstate Jensen and I’m signing it too",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121345211959804234#m",
+   "ts": 1794603085,
+   "id": "2121345211959804234#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -446,15 +455,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2120999993079451919#m",
    "ts": 1794520779,
    "id": "2120999993079451919#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The REAL story finally came out. And THIS is exactly why I waited before jumping on the outrage bandwagon. Not only had these individuals pulled the same stupid prank in front of FOUR other Ring cameras before reaching this apartment, but BOTH sides have now acknowledged that they didn’t even know each other. The pranksters didn’t even know the race of the people living inside the apartment. Now these individuals are being threatened, doxxed, and dragged across the internet. One even left the university. Was the prank stupid? Absolutely. Does that justify what is happening to them now? NOT EVEN CLOSE. Imagine living in a world where making monkey noises into a Ring camera can potentially land you in more trouble than k*lling your own THREE CHILDREN. Imagine living in a world where a woman pulled a stupid prank and is forced to step away from her education, but a MURDERER who admitted to k*lling a student at a track meet is not expelled and is allowed to graduate. The world is backwards.",
-   "url": "https://nitter.kareem.one/SarahisCensored/status/2120992791425581120#m",
-   "ts": 1794519062,
-   "id": "2120992791425581120#m"
   },
   {
    "handle": "swyx",
