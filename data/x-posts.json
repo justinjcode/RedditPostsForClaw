@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-13T06:13:49Z",
+ "generated_at": "2026-11-13T06:28:44Z",
  "accounts_ok": [
-  "TheRundownAI",
+  "Lingling_Wei",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -10,11 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed"
+  "@TheRundownAI: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok Bot Grok Bot (@bot) Grok Bot on Mac can now use Messages, Mail, Notes, Reminders, Calendar, Location, and Contacts. — https://nitter.kareem.one/bot/status/2120946968403095906#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121123425213399408#m",
+   "ts": 1794550207,
+   "id": "2121123425213399408#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -187,6 +196,15 @@
    "id": "2120981552561844593#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "In 2014, Elon Musk stood in front of an audience at MIT and told the whole world exactly where AI was going. Everyone missed it. Because he used one word, and that's the only thing the internet remembered: \"demon.\" The headlines called him scared of killer robots. Tech blogs called it hyperbole. People moved on. I went back and watched that moment. It's barely 2 minutes long. You'll never hear the word \"AI\" the same way again. Here's what I took away. 1. He called it before almost anyone. Someone in the audience asks about AI. His face goes serious. \"If I were to guess like what our biggest existential threat is, it's probably that. So we need to be very careful with the artificial intelligence.\" This was 2014. No ChatGPT. Most people had never heard the word \"chatbot.\" 2. He asked for rules 12 years ago. \"I'm increasingly inclined to think that there should be some regulatory oversight, maybe at the national and international level, just to make sure that we don't do something very foolish.\" National AND international. In 2014. Governments are still arguing about it today. 3. The demon line wasn't a joke. \"With artificial intelligence we are summoning the demon.\" And then the part almost nobody quotes: \"In all those stories where there's the guy with the pentagram and the holy water, it's like, yeah, he's sure he can control the demon. Doesn't work out.\" Read that again. His warning wasn't about the demon. It was about the guy who thinks he can control it. 4. Now here's what",
+   "url": "https://nitter.kareem.one/Yuvelir_22/status/2120979958474412037#m",
+   "ts": 1794516002,
+   "id": "2120979958474412037#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -196,6 +214,15 @@
    "id": "2120979741843050943#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Cybertruck Retiring Early for Cybercab... do you support this decision? Video",
+   "url": "https://nitter.kareem.one/esherifftv/status/2120978802742571067#m",
+   "ts": 1794515727,
+   "id": "2120978802742571067#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -203,6 +230,15 @@
    "url": "https://nitter.kareem.one/JPoehnelt/status/2120975588559393140#m",
    "ts": 1794514960,
    "id": "2120975588559393140#m"
+  },
+  {
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
+   "text": "Introducing Claude Meetings: add Claude to your team’s video call and it builds docs, whiteboards, and other artifacts with you while you’re still talking. Starting to roll out in beta on Team and Enterprise plans. Video",
+   "url": "https://nitter.kareem.one/claudeai/status/2120973994191094179#m",
+   "ts": 1794514580,
+   "id": "2120973994191094179#m"
   },
   {
    "handle": "TheRundownAI",
@@ -230,6 +266,15 @@
    "url": "https://nitter.kareem.one/jysmhn/status/2120970400779919385#m",
    "ts": 1794513723,
    "id": "2120970400779919385#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Since apparently we can post up to 20 photos/videos now here are a bunch of mine Video Video",
+   "url": "https://nitter.kareem.one/AJamesMcCarthy/status/2120970013456949756#m",
+   "ts": 1794513631,
+   "id": "2120970013456949756#m"
   },
   {
    "handle": "swyx",
@@ -329,6 +374,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2120912138772369758#m",
    "ts": 1794499833,
    "id": "2120912138772369758#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "SpaceX has committed $220 million to expand water and wastewater infrastructure for Brownsville and Cameron County -- the largest private contribution to Brownsville’s water future in the city’s history. This investment addresses one of the region’s most urgent challenges: securing a reliable, sustainable supply of drinking water for generations to come",
+   "url": "https://nitter.kareem.one/SpaceX/status/2120912086989426746#m",
+   "ts": 1794499820,
+   "id": "2120912086989426746#m"
   },
   {
    "handle": "elonmusk",
@@ -484,24 +538,6 @@
    "id": "2120812176839741519#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "11 years ago Bowie (@bowie_HQ) 2015, Colbert: “You’re a billionaire trying to do good things. Superhero or supervillain? You have to choose one.” Elon: shows him a robot snake that plugs itself into your car Colbert: “Is that thing going to attack me in my sleep?” Elon, completely deadpan: “For the prototype, at least, I would recommend not dropping anything when you’re near it.” Ten years later he’s built reusable rockets, humanoid robots and the best-selling EV on the planet, and he’s still the only CEO who can deliver a product safety warning and a punchline in the same sentence. Superhero, obviously. Just one with a very dry sense of humor. @elonmusk Video — https://nitter.kareem.one/bowie_HQ/status/2119820183414153399#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2120761225529168312#m",
-   "ts": 1794463852,
-   "id": "2120761225529168312#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Chill vibes Robotaxi (@robotaxi) Lofi beats to self-drive to Video — https://nitter.kareem.one/robotaxi/status/2120268861669007562#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2120760435813306525#m",
-   "ts": 1794463664,
-   "id": "2120760435813306525#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -518,15 +554,6 @@
    "url": "https://nitter.kareem.one/Hannah_juzi/status/2120742634390249909#m",
    "ts": 1794459420,
    "id": "2120742634390249909#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Bot 1.0 is out! Grok Bot (@bot) Introducing Grok Bot 1.0. AI teammates that work alongside your whole team. Share Bots, collaborate with them in Slack and Teams, invite them to meetings, and watch them learn and become more helpful. Video — https://nitter.kareem.one/bot/status/2120582957782200586#m",
-   "url": "https://nitter.kareem.one/mntruell/status/2120736167385788749#m",
-   "ts": 1794457878,
-   "id": "2120736167385788749#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -691,15 +718,6 @@
    "id": "2120485753226731544#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "火箭回收成功瞬间，马斯克的反应。 Video",
-   "url": "https://nitter.kareem.one/laobaishare/status/2120467643320897667#m",
-   "ts": 1794393857,
-   "id": "2120467643320897667#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -752,15 +770,6 @@
    "url": "https://nitter.kareem.one/rowancheung/status/2120299193868615981#m",
    "ts": 1794353695,
    "id": "2120299193868615981#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Lofi beats to self-drive to Video",
-   "url": "https://nitter.kareem.one/robotaxi/status/2120268861669007562#m",
-   "ts": 1794346463,
-   "id": "2120268861669007562#m"
   },
   {
    "handle": "thsottiaux",
@@ -1580,15 +1589,6 @@
    "url": "https://nitter.kareem.one/bunjavascript/status/2110692261508079721#m",
    "ts": 1792063224,
    "id": "2110692261508079721#m"
-  },
-  {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
-   "text": "Hi, I'm Felix. I'm an eng lead working on Claude. I love watching people take flight and do things they never thought possible. We often describe that as \"being more ambitious\" when using AI, which is tricky advice to follow. I wrote a tutorial: felixrieseberg.com/how-to-be… Link How to be more ambitious: A tutorial for humans with models “We’re not ambitious enough” is easy to post and hard to follow. Here’s a practical tutorial, with prompts. felixrieseberg.com",
-   "url": "https://nitter.kareem.one/felixrieseberg/status/2110023283169247623#m",
-   "ts": 1791903727,
-   "id": "2110023283169247623#m"
   },
   {
    "handle": "swyx",
