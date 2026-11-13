@@ -1,15 +1,113 @@
 {
- "generated_at": "2026-11-13T16:09:34Z",
+ "generated_at": "2026-11-13T22:08:27Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
+  "MachineLearning",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "TaskView v1.58.2 - Massive Update! + Realtime updates + UI + Calendar + Attachments",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xvl93q/taskview_v1582_massive_update_realtime_updates_ui/",
+   "ts": 1794607602,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "ICML 2027 Changes [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xvkxbj/icml_2027_changes_d/",
+   "ts": 1794606819,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "The age of hyper-personal software is here",
+   "url": "https://www.reddit.com/r/programming/comments/1xvkeuh/the_age_of_hyperpersonal_software_is_here/",
+   "ts": 1794605569,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "I have trained a model to predict my blood sugar [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xvja5n/i_have_trained_a_model_to_predict_my_blood_sugar_p/",
+   "ts": 1794602905,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Looking for a RDM replacement",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xvj4u6/looking_for_a_rdm_replacement/",
+   "ts": 1794602562,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Announcing Rust 1.100.0",
+   "url": "https://www.reddit.com/r/programming/comments/1xvixj7/announcing_rust_11000/",
+   "ts": 1794602093,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Concurrent Shell Command Queues",
+   "url": "https://www.reddit.com/r/programming/comments/1xviun2/concurrent_shell_command_queues/",
+   "ts": 1794601895,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "minidlna not jpeg error",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xvht76/minidlna_not_jpeg_error/",
+   "ts": 1794599442,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Four frontier models scored 97.8–100 on a 7-part materials-science research test. How should we score long-horizon agent evals instead? [d]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xvgf6h/four_frontier_models_scored_978100_on_a_7part/",
+   "ts": 1794596280,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Garrul - a privacy-first comment system that runs in your own Cloudflare account: no server, fits the free tier",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xvg7e9/garrul_a_privacyfirst_comment_system_that_runs_in/",
+   "ts": 1794595793,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Event Sourcing: great in theory, but what about in production?",
+   "url": "https://www.reddit.com/r/programming/comments/1xvg5vu/event_sourcing_great_in_theory_but_what_about_in/",
+   "ts": 1794595698,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "m3u4me got an UI overhaul: v3 Update",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xvdmn5/m3u4me_got_an_ui_overhaul_v3_update/",
+   "ts": 1794590057,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "MusixMatch threatens navidrome-musixmatch-plugin",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xvd79u/musixmatch_threatens_navidromemusixmatchplugin/",
+   "ts": 1794589136,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Scaling to 1T MoE on TorchTitan [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xvce5h/scaling_to_1t_moe_on_torchtitan_p/",
+   "ts": 1794587316,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Qwen3.5-9B running on a PS4’s GPU, offline, using its own MTP head for speculative decoding",
@@ -68,13 +166,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "umbot – Self-hosted TypeScript framework for cross-platform chatbots and voice skills",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xv8jwg/umbot_selfhosted_typescript_framework_for/",
-   "ts": 1794578251,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "6 years of selfhosting, hit with RAM corruption",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xv883c/6_years_of_selfhosting_hit_with_ram_corruption/",
    "ts": 1794577413,
@@ -106,6 +197,20 @@
    "title": "plMail needs input on upcoming features.",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xv4zpz/plmail_needs_input_on_upcoming_features/",
    "ts": 1794567789,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Paid surveys for Machine Learning Scientists for SnorkelAI: Absolutely not worth it [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xv4rjy/paid_surveys_for_machine_learning_scientists_for/",
+   "ts": 1794567010,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Open weights: ParaTrace v8 (RAID-tuned), 5th on the RAID leaderboard (TPR at 1% FPR) [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xv4ldx/open_weights_paratrace_v8_raidtuned_5th_on_the/",
+   "ts": 1794566383,
    "source": "Reddit"
   },
   {
@@ -144,17 +249,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "N150 mini PC vs spending 160 USD to use old pc with Ryzen 5600x and 16gb of ram?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xv13ii/n150_mini_pc_vs_spending_160_usd_to_use_old_pc/",
-   "ts": 1794553217,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Artisanal Coding #02: Animated ASCII Donut in pure zig",
-   "url": "https://www.reddit.com/r/programming/comments/1xv01hz/artisanal_coding_02_animated_ascii_donut_in_pure/",
-   "ts": 1794549504,
+   "subreddit": "MachineLearning",
+   "title": "How to make a Legora-style legal conflict detector tool using only NLI and encoder models [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xuzv6d/how_to_make_a_legorastyle_legal_conflict_detector/",
+   "ts": 1794548897,
    "source": "Reddit"
   },
   {
@@ -179,6 +277,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "MachineLearning",
+   "title": "I built tamserve to make real-time video tracking 2x cheaper [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xuvxke/i_built_tamserve_to_make_realtime_video_tracking/",
+   "ts": 1794536631,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "LocalLLaMA",
    "title": "Stories coming out about Jensen",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuvexw/stories_coming_out_about_jensen/",
@@ -190,13 +295,6 @@
    "title": "How Cloudflare uses QuePaxa—a leaderless, fault-detection-free consensus algorithm—for its global control plane",
    "url": "https://www.reddit.com/r/programming/comments/1xuv4ux/how_cloudflare_uses_quepaxaa_leaderless/",
    "ts": 1794534317,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "I need feedback on this architecture for amodal raster-to-vector using a hybrid approach. [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xutg9v/i_need_feedback_on_this_architecture_for_amodal/",
-   "ts": 1794529555,
    "source": "Reddit"
   },
   {
@@ -214,13 +312,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "Gemma 3 builds a linearly decodable spatial map from text, but its answers never read it [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xuqs9d/gemma_3_builds_a_linearly_decodable_spatial_map/",
-   "ts": 1794522545,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Proactive Measures Against Password Breaches and Cookie Hijacking",
    "url": "https://www.reddit.com/r/programming/comments/1xupnmw/proactive_measures_against_password_breaches_and/",
@@ -228,24 +319,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "Weights for MNIST Handwriting Network [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xupgn8/weights_for_mnist_handwriting_network_p/",
-   "ts": 1794519341,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Securo maintainer here: 8 months of work, and the results so far",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xunhqd/securo_maintainer_here_8_months_of_work_and_the/",
    "ts": 1794514660,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "The Low-Complexity Stack: Self-Hosting with OpenSUSE MicroOS and Podman",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xumnpe/the_lowcomplexity_stack_selfhosting_with_opensuse/",
-   "ts": 1794512766,
    "source": "Reddit"
   },
   {
@@ -260,13 +337,6 @@
    "title": "So this will be true in couple of years?",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xukt9t/so_this_will_be_true_in_couple_of_years/",
    "ts": 1794508697,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "UptimeKuma | Too many False-Positive Notifications",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xukh5f/uptimekuma_too_many_falsepositive_notifications/",
-   "ts": 1794507935,
    "source": "Reddit"
   },
   {
@@ -288,13 +358,6 @@
    "title": "What if NeurIPS, ICML, and ICLR capped accepted papers at 1,000 each? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xugl6c/what_if_neurips_icml_and_iclr_capped_accepted/",
    "ts": 1794499333,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "How to post an AC-confidential comment on OpenReview for ICLR 2027? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xug0ym/how_to_post_an_acconfidential_comment_on/",
-   "ts": 1794498078,
    "source": "Reddit"
   },
   {
@@ -326,59 +389,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Results: 2026 Self-Host User Survey (selfh.st)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xucgh8/results_2026_selfhost_user_survey_selfhst/",
-   "ts": 1794489250,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "M720q Tiny as a DIY NAS + homelab: most reliable SATA expansion for 4 drives?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xub8mf/m720q_tiny_as_a_diy_nas_homelab_most_reliable/",
-   "ts": 1794485689,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "This Turkish Letter Keeps Breaking the World's Software - YouTube",
    "url": "https://www.reddit.com/r/programming/comments/1xu79k2/this_turkish_letter_keeps_breaking_the_worlds/",
    "ts": 1794471324,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Lean explained with TypeScript",
-   "url": "https://www.reddit.com/r/programming/comments/1xu6252/lean_explained_with_typescript/",
-   "ts": 1794466841,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "How much does reviewer confidence matter in ICLR decisions? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xu3n5f/how_much_does_reviewer_confidence_matter_in_iclr/",
-   "ts": 1794458574,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "How to get desk-rejected at NeurIPS/ICML/ICLR [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xu08e7/how_to_get_deskrejected_at_neuripsicmliclr_d/",
-   "ts": 1794448307,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Rust's Type System is All You Need",
-   "url": "https://www.reddit.com/r/programming/comments/1xtvkph/rusts_type_system_is_all_you_need/",
-   "ts": 1794435764,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Have people given up on ICLR reviews? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xtt0px/have_people_given_up_on_iclr_reviews_d/",
-   "ts": 1794429640,
    "source": "Reddit"
   },
   {
@@ -389,24 +403,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Google Search's foundational PageRank patent has expired. What will be the impact of this",
-   "url": "https://www.reddit.com/r/programming/comments/1xtmzs5/google_searchs_foundational_pagerank_patent_has/",
-   "ts": 1794416183,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "[Bi-Weekly Megathread] Project Showcase",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtjze2/biweekly_megathread_project_showcase/",
    "ts": 1794409341,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Can we talk about the ML research coming from China? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xteym8/can_we_talk_about_the_ml_research_coming_from/",
-   "ts": 1794394958,
    "source": "Reddit"
   },
   {
