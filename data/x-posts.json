@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-13T10:08:45Z",
+ "generated_at": "2026-11-13T10:18:46Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
   {
@@ -68,6 +67,15 @@
    "url": "https://nitter.kareem.one/hellogabbo/status/2121112508849152350#m",
    "ts": 1794547605,
    "id": "2121112508849152350#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "冬天最重要的就是躲猫猫 Video",
+   "url": "https://nitter.kareem.one/siji_fourSeason/status/2121109559922319679#m",
+   "ts": 1794546902,
+   "id": "2121109559922319679#m"
   },
   {
    "handle": "swyx",
@@ -1049,15 +1057,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2119841916376281432#m",
    "ts": 1794244672,
    "id": "2119841916376281432#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Makes it even more clear that these Chinese measures were direct retaliation for the proposed affiliates rule, which a lot of folks denied at the time. piie.com/blogs/realtime-econ… Link A new export rule escalates US-China tensions On September 29, the Commerce Department’s Bureau of Industry and Security (BIS) issued a rule that has significantly expanded the reach of existing US export controls by targeting subsidiaries of... piie.com Paul Triolo (@pstAsiatech) China extends suspension of new rare earth controls until January @pstAsiatech Of course this was coming, after Commerce FR notice, this drops, exactly as we expected. Anyone doubting this would happen is not following the issue very closely... reuters.com/world/china/chin… Link China extends suspension of new rare earth controls until January China on Monday announced a two-month extension of export-control waivers ​due to expire this month, preserving ‌part of a wide-ranging deal struck after a summit between Presidents Xi Jinping and... reuters.com — https://nitter.kareem.one/pstAsiatech/status/2119791250773586126#m",
-   "url": "https://nitter.kareem.one/ChorzempaMartin/status/2119797177757360553#m",
-   "ts": 1794234005,
-   "id": "2119797177757360553#m"
   },
   {
    "handle": "simonw",
