@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-13T16:19:44Z",
+ "generated_at": "2026-11-13T16:29:18Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@swyx: all instances failed"
  ],
- "count": 176,
+ "count": 177,
  "items": [
   {
    "handle": "elonmusk",
@@ -77,6 +77,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2121265003869122748#m",
    "ts": 1794583962,
    "id": "2121265003869122748#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Spying is trending. What about your car? I talked to the one and only John Wall, president of QNX, the gold standard company when it comes to software safety. Listen to this week's Driving With Dunne podcast. podcasts.apple.com/us/podcas… Link Driving with Dunne Business Podcast · Updated Weekly · Electric vehicles are the future. But with new technologies comes confusion! What's real? And what is hyperbole? Who are the people to know and what are their... podcasts.apple.com",
+   "url": "https://nitter.kareem.one/dunne_insights/status/2121256756819247260#m",
+   "ts": 1794581996,
+   "id": "2121256756819247260#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -158,6 +167,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2121120295884837183#m",
    "ts": 1794549461,
    "id": "2121120295884837183#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Here is an early look at the front page of The Wall Street Journal on.wsj.com/4AtoypJ",
+   "url": "https://nitter.kareem.one/WSJ/status/2121113359076429831#m",
+   "ts": 1794547807,
+   "id": "2121113359076429831#m"
   },
   {
    "handle": "swyx",
@@ -349,6 +367,15 @@
    "id": "2121001155958624728#m"
   },
   {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Because you are from the PRC you may not understand. In America, companies have strict rules against employers sleeping with their employees. Many White non-Chinese managers have lost their jobs this way. Need a list? Hu Xijin 胡锡进 (@HuXijin_GT) Jensen Huang has made such enormous contributions to the United States, yet he has been forced out through collusion between intelligence agencies and the media. This is his personal tragedy, and also a tragedy of Chinese Americans not being trusted in the United States. One must ask: if Jensen Huang’s background were the same as Tim Cook’s, would he have been forced to resign over the same extramarital affair? I don’t think so. At least not so quickly. — https://nitter.kareem.one/HuXijin_GT/status/2120944580489355523#m",
+   "url": "https://nitter.kareem.one/dennisw5/status/2121000011039486077#m",
+   "ts": 1794520783,
+   "id": "2121000011039486077#m"
+  },
+  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -365,6 +392,15 @@
    "url": "https://nitter.kareem.one/SarahisCensored/status/2120992791425581120#m",
    "ts": 1794519062,
    "id": "2120992791425581120#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "White farmer gives first account of terrifying South Africa raid: \"They put my testicles in bolt cutters, sliced my wife's nipples and said they'd gang-rape her - it's not just about robbing us\"! Video",
+   "url": "https://nitter.kareem.one/TRobinsonNewEra/status/2120990056177381823#m",
+   "ts": 1794518410,
+   "id": "2120990056177381823#m"
   },
   {
    "handle": "swyx",
@@ -1033,15 +1069,6 @@
    "id": "2119908819555823882#m"
   },
   {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "Scoop: The Trump administration is pushing back against Beijing’s demand that a proposed summit between Trump, Putin and Xi follow a tightly scripted format, with each leader reading prepared statements and no room for real discussion. The administration is pushing for a format that would allow more exchange among the three leaders instead of scripted monologues on the sidelines of APEC summit next Wednesday and Thursday. wsj.com/world/china/u-s-balk… via @WSJ Link Exclusive | U.S. Balks at China’s Demand for Tightly Scripted Trump-Xi-Putin Summit Trump has said he wants to talk about arms control, a subject long taboo for China. wsj.com",
-   "url": "https://nitter.kareem.one/Lingling_Wei/status/2119895354795511965#m",
-   "ts": 1794257412,
-   "id": "2119895354795511965#m"
-  },
-  {
    "handle": "bcherny",
    "name": "Boris Cherny",
    "author": "@bcherny",
@@ -1184,24 +1211,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118469621011677521#m",
    "ts": 1793917491,
    "id": "2118469621011677521#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "Democratic socialists get the attention, but moderates made this week's Democratic majorities. They delivered lion's share of House flips and vastly outperformed Bernie Sanders' Senate candidates. That & more in today's newsletter: wsj.com/politics/elections/a…",
-   "url": "https://nitter.kareem.one/greg_ip/status/2118370296671633741#m",
-   "ts": 1793893810,
-   "id": "2118370296671633741#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "The Wall Street Journal now has more than 5 million paid subscriptions, according to News Corp earnings, a 9% increase YoY",
-   "url": "https://nitter.kareem.one/katie_robertson/status/2118099869235630081#m",
-   "ts": 1793829335,
-   "id": "2118099869235630081#m"
   },
   {
    "handle": "bcherny",
