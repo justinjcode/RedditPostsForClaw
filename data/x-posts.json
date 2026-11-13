@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T14:08:19Z",
+ "generated_at": "2026-11-13T14:19:46Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,10 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok is a straight shooter Sundar Pichai (@sundarpichai) Nice summary @grok ! — https://nitter.kareem.one/sundarpichai/status/2121121962911273062#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121242367684661286#m",
+   "ts": 1794578565,
+   "id": "2121242367684661286#m"
+  },
   {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
@@ -313,6 +322,24 @@
    "id": "2120999612131774807#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The REAL story finally came out. And THIS is exactly why I waited before jumping on the outrage bandwagon. Not only had these individuals pulled the same stupid prank in front of FOUR other Ring cameras before reaching this apartment, but BOTH sides have now acknowledged that they didn’t even know each other. The pranksters didn’t even know the race of the people living inside the apartment. Now these individuals are being threatened, doxxed, and dragged across the internet. One even left the university. Was the prank stupid? Absolutely. Does that justify what is happening to them now? NOT EVEN CLOSE. Imagine living in a world where making monkey noises into a Ring camera can potentially land you in more trouble than k*lling your own THREE CHILDREN. Imagine living in a world where a woman pulled a stupid prank and is forced to step away from her education, but a MURDERER who admitted to k*lling a student at a track meet is not expelled and is allowed to graduate. The world is backwards.",
+   "url": "https://nitter.kareem.one/SarahisCensored/status/2120992791425581120#m",
+   "ts": 1794519062,
+   "id": "2120992791425581120#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "White farmer gives first account of terrifying South Africa raid: \"They put my testicles in bolt cutters, sliced my wife's nipples and said they'd gang-rape her - it's not just about robbing us\"! Video",
+   "url": "https://nitter.kareem.one/TRobinsonNewEra/status/2120990056177381823#m",
+   "ts": 1794518410,
+   "id": "2120990056177381823#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -403,6 +430,15 @@
    "id": "2120953281757544810#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "SPACEX FLIGHT 15 TOMORROW Video",
+   "url": "https://nitter.kareem.one/anabology/status/2120952906207670615#m",
+   "ts": 1794509552,
+   "id": "2120952906207670615#m"
+  },
+  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -421,15 +457,6 @@
    "id": "2120938651358273723#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "These are the community benefits if @SpaceX builds their planned $50 billion Arizona Supercomputing Campus: • 6,500 jobs (1,000 permanent, 5,500 construction). • Up to $103M annually in new property tax revenue. • 10-40% lower electricity bills projected for local SSVEC residential customers. • Up to $250M in one-time county sales tax revenue. • Up to $460M annually in additional benefits for Arizona electric cooperative members. • $3.6B in grid upgrades funded by SpaceX at no cost to cooperative members. • 24 GWh of battery storage to improve grid stability and reliability. • Additional solar energy to reduce strain on the local grid. • Minimal water usage, with no new wells and zero ongoing industrial water consumption projected. • Aquifer and wildlife protection, including conservation initiatives. • Reduced noise and light pollution through noise mitigation and dark-sky protections. • Support for local schools, infrastructure, businesses, and essential services. Sawyer Merritt (@SawyerMerritt) SpaceX has just unveiled a massive new $50 billion Supercomputing Campus that they want to build in Cochise County, Arizona. All info: • Up to 6 GW across the 9 supercomputing buildings • Construction starts 2027 • Size of each supercomputing building: ~493,000 square feet. • Total supercomputing building space: 4.44 million square feet, excluding support facilities. • SSVEC residential customers are projected to see electricity bill reductions of 10–40%. • Up to 24 GWh of grid-conn",
-   "url": "https://nitter.kareem.one/SawyerMerritt/status/2120921108979351607#m",
-   "ts": 1794501971,
-   "id": "2120921108979351607#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -442,28 +469,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "SpaceX community benefits SpaceX (@SpaceX) SpaceX builds the infrastructure of the future. And we’re committed to making sure the communities where we build share in the benefits → spacex.com/updates#building-… Video — https://nitter.kareem.one/SpaceX/status/2120911599749697879#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2120912138772369758#m",
-   "ts": 1794499833,
-   "id": "2120912138772369758#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "SpaceX has committed $220 million to expand water and wastewater infrastructure for Brownsville and Cameron County -- the largest private contribution to Brownsville’s water future in the city’s history. This investment addresses one of the region’s most urgent challenges: securing a reliable, sustainable supply of drinking water for generations to come",
    "url": "https://nitter.kareem.one/SpaceX/status/2120912086989426746#m",
    "ts": 1794499820,
    "id": "2120912086989426746#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Development of the Starbase supercompute site is creating an opportunity to address decades of environmental neglect. Portions of the property were used for unauthorized dumping dating back to the 1960s. We're undertaking cleanup efforts to remove decades of accumulated debris, including scrap metal, discarded appliances, old tanks, fiberglass insulation, construction materials, and thousands of illegally dumped tires",
-   "url": "https://nitter.kareem.one/SpaceX/status/2120911969087607288#m",
-   "ts": 1794499792,
-   "id": "2120911969087607288#m"
   },
   {
    "handle": "elonmusk",
@@ -716,15 +725,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2120644009618215418#m",
    "ts": 1794435906,
    "id": "2120644009618215418#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Why Elon Musk believes we could colonize the entire galaxy in a million years To Elon Musk, it's not even a hard question. A million years is enough to spread across the whole galaxy. So where is everyone? Nobody seems to have done it. Something stops civilizations before they get out there. That's the great filter. And it's why he thinks about Mars with one specific test. Elon: \"Do we have enough resources on Mars such that if the spaceships from Earth stopped coming, you can survive?\" Joe Rogan compared it to a long sea voyage where the only thing you're missing is vitamin C. And the ships could stop for reasons that aren't dramatic at all. Civilization on Earth could end with a bang or a whimper. A Mars that can survive on its own is how he thinks we get past the filter. Video",
-   "url": "https://nitter.kareem.one/NarutoNolimits/status/2120625963495277052#m",
-   "ts": 1794431603,
-   "id": "2120625963495277052#m"
   },
   {
    "handle": "ZichenWanghere",
