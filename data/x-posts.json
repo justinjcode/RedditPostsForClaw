@@ -1,17 +1,18 @@
 {
- "generated_at": "2026-11-14T03:28:36Z",
+ "generated_at": "2026-11-14T03:37:14Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@bcherny: all instances failed"
+ ],
  "count": 177,
  "items": [
   {
@@ -67,6 +68,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2121388517540716839#m",
    "ts": 1794613410,
    "id": "2121388517540716839#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Congratulations to the @SpaceX team on another spectacular launch. Very much appreciate how you bring the world along in high resolution. We are looking forward to some of that on-orbit Starlink capability on Artemis III. Tomorrow is a big day for the community, with a Vulcan launch and Starship's return on deck 🇺🇸",
+   "url": "https://nitter.kareem.one/NASAAdmin/status/2121387579442381282#m",
+   "ts": 1794613187,
+   "id": "2121387579442381282#m"
   },
   {
    "handle": "elonmusk",
@@ -157,15 +167,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2121317331179614676#m",
    "ts": 1794596438,
    "id": "2121317331179614676#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "About 4 hours to Flight 15 SpaceX (@SpaceX) Watch Starship Flight 15 nitterk.kareem.one/i/broadcasts/2brajgZlO… Link SpaceX Starship Flight 15 https://nitter.kareem.one/i/broadcasts/2brajgZlOKRMka — https://nitter.kareem.one/SpaceX/status/2121316300702056595#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121316611974185273#m",
-   "ts": 1794596267,
-   "id": "2121316611974185273#m"
   },
   {
    "handle": "elonmusk",
