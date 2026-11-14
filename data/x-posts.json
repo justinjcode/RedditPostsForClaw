@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T22:08:35Z",
+ "generated_at": "2026-11-14T22:16:15Z",
  "accounts_ok": [
   "TheRundownAI",
   "bcherny",
@@ -15,6 +15,15 @@
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Congratulations to an incredible team at SpaceX!!! Video",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121726288968720709#m",
+   "ts": 1794693941,
+   "id": "2121726288968720709#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -221,15 +230,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2121625731088445896#m",
    "ts": 1794669966,
    "id": "2121625731088445896#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "If Jensen gave me his word about compute delivery or I asked for components to be accelerated, he always came through. Sure, we’d put together a purchase order at some point later, but I never for a second thought it wouldn’t happen.",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121624209675665519#m",
-   "ts": 1794669604,
-   "id": "2121624209675665519#m"
   },
   {
    "handle": "swyx",
