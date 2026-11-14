@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T07:09:54Z",
+ "generated_at": "2026-11-14T07:18:00Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -8,10 +8,11 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@swyx: all instances failed"
+ ],
  "count": 177,
  "items": [
   {
@@ -157,15 +158,6 @@
    "url": "https://nitter.kareem.one/balajis/status/2121412678409478247#m",
    "ts": 1794619171,
    "id": "2121412678409478247#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Payload deploy complete. All 26 @Starlink V3 satellites are in orbit Video",
-   "url": "https://nitter.kareem.one/SpaceX/status/2121394268652839309#m",
-   "ts": 1794614781,
-   "id": "2121394268652839309#m"
   },
   {
    "handle": "elonmusk",
@@ -346,6 +338,15 @@
    "url": "https://nitter.kareem.one/meganreyno/status/2121099689269535035#m",
    "ts": 1794544548,
    "id": "2121099689269535035#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "NVIDIA board credentials. No wonder Jensen got fired.",
+   "url": "https://nitter.kareem.one/GS_VCactivist/status/2121075777487970548#m",
+   "ts": 1794538847,
+   "id": "2121075777487970548#m"
   },
   {
    "handle": "swyx",
