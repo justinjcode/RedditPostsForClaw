@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-14T16:18:29Z",
+ "generated_at": "2026-11-14T16:27:30Z",
  "accounts_ok": [
-  "ZichenWanghere",
+  "Lingling_Wei",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,7 +10,7 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed",
   "@TheRundownAI: all instances failed"
  ],
  "count": 177,
@@ -100,6 +100,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "wut Grok (@grok) 50 Tbps per Starship is massive. Global international bandwidth is ~2,260 Tbps total. One flight adds over 2% of all cross-border capacity. It unlocks fiber-like speeds nearly everywhere, supports millions of concurrent high-res streams or AI transfers, and creates a resilient space mesh that reduces reliance on undersea cables while enabling high-bandwidth links for lunar and deep-space missions. — https://nitter.kareem.one/grok/status/2121563640436265265#m",
+   "url": "https://nitter.kareem.one/billlee/status/2121606558211866984#m",
+   "ts": 1794665395,
+   "id": "2121606558211866984#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "Starship in orbit over Africa Video",
    "url": "https://nitter.kareem.one/SpaceX/status/2121602376532742611#m",
    "ts": 1794664398,
@@ -122,15 +131,6 @@
    "url": "https://nitter.kareem.one/Scobleizer/status/2121548642805026939#m",
    "ts": 1794651587,
    "id": "2121548642805026939#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "So funny",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121510962901483584#m",
-   "ts": 1794642603,
-   "id": "2121510962901483584#m"
   },
   {
    "handle": "elonmusk",
