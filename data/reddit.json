@@ -1,20 +1,153 @@
 {
- "generated_at": "2026-11-14T12:11:09Z",
+ "generated_at": "2026-11-14T18:09:30Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
+  "MachineLearning",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
   {
+   "subreddit": "programming",
+   "title": "Designing payouts that never payout twice: timeouts, an \"Unknown\" state, and idempotency in cross-border payments",
+   "url": "https://www.reddit.com/r/programming/comments/1xw8tdv/designing_payouts_that_never_payout_twice/",
+   "ts": 1794679182,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Should short-horizon price forecasting papers benchmark against market-implied forecasts, not just naive baselines? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xw6fk9/should_shorthorizon_price_forecasting_papers/",
+   "ts": 1794673414,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Ethical Alternatives to Kaggle [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xw6d7n/ethical_alternatives_to_kaggle_d/",
+   "ts": 1794673255,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "A Unicode Escape Can Turn a Java Comment Into Executable Code",
+   "url": "https://www.reddit.com/r/programming/comments/1xw63wj/a_unicode_escape_can_turn_a_java_comment_into/",
+   "ts": 1794672610,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "ICLR 2027 Rebuttal [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xw5uwe/iclr_2027_rebuttal_d/",
+   "ts": 1794672001,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
-   "title": "A self-hosted temp-mail service in one file (~1k LOC)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xw0hpf/a_selfhosted_tempmail_service_in_one_file_1k_loc/",
-   "ts": 1794656796,
+   "title": "Anyone running their own cloud gaming PC on AWS instead of GeForce NOW? What went wrong?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xw5bj6/anyone_running_their_own_cloud_gaming_pc_on_aws/",
+   "ts": 1794670639,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Why a 27-byte fetch() response nobody reads freezes any Chromium or Electron page",
+   "url": "https://www.reddit.com/r/programming/comments/1xw4m58/why_a_27byte_fetch_response_nobody_reads_freezes/",
+   "ts": 1794668843,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Pingclair: a Caddyfile-style web server & reverse proxy in Rust (built on Pingora)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xw48dm/pingclair_a_caddyfilestyle_web_server_reverse/",
+   "ts": 1794667853,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Graph Attention Networks for Detecting Epilepsy From EEG Signals Using Accessible Hardware in Low-Resource Settings [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xw3si8/graph_attention_networks_for_detecting_epilepsy/",
+   "ts": 1794666689,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Is it compulsory to upload neurips poster by 15th Nov? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xw3q5f/is_it_compulsory_to_upload_neurips_poster_by_15th/",
+   "ts": 1794666522,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Under the Hood: Serving Kimi K3 | DigitalOcean",
+   "url": "https://www.reddit.com/r/programming/comments/1xw3jy7/under_the_hood_serving_kimi_k3_digitalocean/",
+   "ts": 1794666079,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Beating the frontier on NetHack",
+   "url": "https://www.reddit.com/r/programming/comments/1xw2equ/beating_the_frontier_on_nethack/",
+   "ts": 1794662894,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Inkheart 1.5 - UI Refresh, full-text search, and multi-document reader tabs",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xw2dqs/inkheart_15_ui_refresh_fulltext_search_and/",
+   "ts": 1794662815,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Postfalcon: a lightweight self-hosted social media scheduler (AGPL, one-command Docker install)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xw25ir/postfalcon_a_lightweight_selfhosted_social_media/",
+   "ts": 1794662128,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Backing up my VPS docker services and host configurations - suggestions",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xw22hn/backing_up_my_vps_docker_services_and_host/",
+   "ts": 1794661864,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Problem with concurrent linter fixes",
+   "url": "https://www.reddit.com/r/programming/comments/1xw1um8/problem_with_concurrent_linter_fixes/",
+   "ts": 1794661228,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "It's all about the allocator",
+   "url": "https://www.reddit.com/r/programming/comments/1xw1sem/its_all_about_the_allocator/",
+   "ts": 1794661055,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "google calendar alternative (docker)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xw1h0o/google_calendar_alternative_docker/",
+   "ts": 1794660051,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "ICLR rebuttal [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xw19o8/iclr_rebuttal_r/",
+   "ts": 1794659377,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Great Video for Understanding How Cosine Similarity Works [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xw0dgg/great_video_for_understanding_how_cosine/",
+   "ts": 1794656379,
    "source": "Reddit"
   },
   {
@@ -25,17 +158,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Calibre Reader for iPhone and iPad: reads your calibre library where it is (developer here)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xvz7ub/calibre_reader_for_iphone_and_ipad_reads_your/",
-   "ts": 1794652119,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "The reason you aren’t making $300k as a developer",
-   "url": "https://www.reddit.com/r/programming/comments/1xvyyl1/the_reason_you_arent_making_300k_as_a_developer/",
-   "ts": 1794651141,
+   "subreddit": "MachineLearning",
+   "title": "Building a Local AI Photography Editing Assistant. Anyone working on something similar? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xvzkwz/building_a_local_ai_photography_editing_assistant/",
+   "ts": 1794653483,
    "source": "Reddit"
   },
   {
@@ -78,13 +204,6 @@
    "title": "KittenML/kitten-tts-2-mini · Hugging Face - Text-to-Speech",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvw34k/kittenmlkittentts2mini_hugging_face_texttospeech/",
    "ts": 1794640318,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Videogame request wishlist , library manager",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xvvbtm/videogame_request_wishlist_library_manager/",
-   "ts": 1794637618,
    "source": "Reddit"
   },
   {
@@ -152,13 +271,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "A local Proxmox inventory check with a dedicated audit token",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xvq4ys/a_local_proxmox_inventory_check_with_a_dedicated/",
-   "ts": 1794620951,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "Selfhosted Aircraft Control",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xvotr4/selfhosted_aircraft_control/",
    "ts": 1794617071,
@@ -180,13 +292,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "PSA: your nginx hardening config is probably disabling post-quantum TLS",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xvlk8m/psa_your_nginx_hardening_config_is_probably/",
-   "ts": 1794608375,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "TaskView v1.58.2 - Massive Update! + Realtime updates + UI + Calendar + Attachments",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xvl93q/taskview_v1582_massive_update_realtime_updates_ui/",
    "ts": 1794607602,
@@ -197,13 +302,6 @@
    "title": "ICML 2027 Changes [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xvkxbj/icml_2027_changes_d/",
    "ts": 1794606819,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "The age of hyper-personal software is here",
-   "url": "https://www.reddit.com/r/programming/comments/1xvkeuh/the_age_of_hyperpersonal_software_is_here/",
-   "ts": 1794605569,
    "source": "Reddit"
   },
   {
@@ -232,20 +330,6 @@
    "title": "Weight Space Programming for Quantization: Nace quants achieve up to 2x better KL divergence for Qwen 9B, 27B, 35B & Flash Next [GGUF]",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvh4ag/weight_space_programming_for_quantization_nace/",
    "ts": 1794597834,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Four frontier models scored 97.8–100 on a 7-part materials-science research test. How should we score long-horizon agent evals instead? [d]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xvgf6h/four_frontier_models_scored_978100_on_a_7part/",
-   "ts": 1794596280,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "m3u4me got an UI overhaul: v3 Update",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xvdmn5/m3u4me_got_an_ui_overhaul_v3_update/",
-   "ts": 1794590057,
    "source": "Reddit"
   },
   {
@@ -305,20 +389,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "Open weights: ParaTrace v8 (RAID-tuned), 5th on the RAID leaderboard (TPR at 1% FPR) [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xv4ldx/open_weights_paratrace_v8_raidtuned_5th_on_the/",
-   "ts": 1794566383,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Steadfast Update I - The Baseline",
-   "url": "https://www.reddit.com/r/programming/comments/1xv1mjg/steadfast_update_i_the_baseline/",
-   "ts": 1794555175,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "I posted my diagram-as-code homelab map a while back. I use it so much at home and at work now that I wrote proper docs for it",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xv17a7/i_posted_my_diagramascode_homelab_map_a_while/",
@@ -326,80 +396,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "How to make a Legora-style legal conflict detector tool using only NLI and encoder models [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xuzv6d/how_to_make_a_legorastyle_legal_conflict_detector/",
-   "ts": 1794548897,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "I built tamserve to make real-time video tracking 2x cheaper [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xuvxke/i_built_tamserve_to_make_realtime_video_tracking/",
-   "ts": 1794536631,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "How Cloudflare uses QuePaxa—a leaderless, fault-detection-free consensus algorithm—for its global control plane",
-   "url": "https://www.reddit.com/r/programming/comments/1xuv4ux/how_cloudflare_uses_quepaxaa_leaderless/",
-   "ts": 1794534317,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "New Project Megathread - Week of 12 Nov 2026",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xurjda/new_project_megathread_week_of_12_nov_2026/",
    "ts": 1794524471,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Proactive Measures Against Password Breaches and Cookie Hijacking",
-   "url": "https://www.reddit.com/r/programming/comments/1xupnmw/proactive_measures_against_password_breaches_and/",
-   "ts": 1794519802,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Creating author burdens to reduce paper submissions is STUPID [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xul9u7/creating_author_burdens_to_reduce_paper/",
-   "ts": 1794509713,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "What if NeurIPS, ICML, and ICLR capped accepted papers at 1,000 each? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xugl6c/what_if_neurips_icml_and_iclr_capped_accepted/",
-   "ts": 1794499333,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "CVPR 2027 Author enrollment form [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xue879/cvpr_2027_author_enrollment_form_d/",
-   "ts": 1794493815,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "UMAP 0.6: new initialization, new optimizers and faster performance [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xudaah/umap_06_new_initialization_new_optimizers_and/",
-   "ts": 1794491518,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "C3 0.8.6 released: Library fetching, 30% smaller safe-mode binaries, and stricter type rules",
-   "url": "https://www.reddit.com/r/programming/comments/1xuci0t/c3_086_released_library_fetching_30_smaller/",
-   "ts": 1794489369,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "This Turkish Letter Keeps Breaking the World's Software - YouTube",
-   "url": "https://www.reddit.com/r/programming/comments/1xu79k2/this_turkish_letter_keeps_breaking_the_worlds/",
-   "ts": 1794471324,
    "source": "Reddit"
   },
   {
