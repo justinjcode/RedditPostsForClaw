@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-14T06:24:48Z",
+ "generated_at": "2026-11-14T06:40:06Z",
  "accounts_ok": [
-  "TheRundownAI",
-  "ZichenWanghere",
+  "Lingling_Wei",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,10 +10,29 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed"
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starship is traveling around the world every ~90 minutes right now",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121489571213168758#m",
+   "ts": 1794637503,
+   "id": "2121489571213168758#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "So far, so good for the ship SpaceX (@SpaceX) Starship and its heatshield are healthy as the vehicle continues to orbit Earth after a spectacular start to its mission nearly 7 hours ago. Teams are continuing to monitor systems ahead of a planned return to launch site catch at Starbase ~22.5 hours after launch Video — https://nitter.kareem.one/SpaceX/status/2121479482582441991#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121489252072693925#m",
+   "ts": 1794637427,
+   "id": "2121489252072693925#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -50,6 +68,15 @@
    "url": "https://nitter.kareem.one/vadiamit/status/2121467430711259327#m",
    "ts": 1794632225,
    "id": "2121467430711259327#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "看马斯克和黄仁勋聊天，真的太tm舒服了，恨不得边喝点酒边看，再吃点花生米，堪称完美 Video",
+   "url": "https://nitter.kareem.one/holdonyourrope/status/2121440174559330394#m",
+   "ts": 1794625726,
+   "id": "2121440174559330394#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -136,6 +163,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "Swipe for the full sequence: Super Heavy Booster 22 offshore divert during Starship Flight 15!",
+   "url": "https://nitter.kareem.one/johnkrausphotos/status/2121383571419976096#m",
+   "ts": 1794612231,
+   "id": "2121383571419976096#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "Creating jobs, investing in critical infrastructure, expanding local tax bases, and working alongside communities to build a future that benefits the people who live there Video",
    "url": "https://nitter.kareem.one/SpaceX/status/2121369682976579588#m",
    "ts": 1794608920,
@@ -163,46 +199,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "grok bot is literally becoming the only ai system you'll ever need to use. so many enterprise use cases already, and they're really sealing the deal with this Grok Bot (@bot) Grok Bot can now join meetings. Ask it questions, assign it work, or have it keep track of what your team decides. Video — https://nitter.kareem.one/bot/status/2121320089920430181#m",
-   "url": "https://nitter.kareem.one/ducksays/status/2121326468399501384#m",
-   "ts": 1794598617,
-   "id": "2121326468399501384#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Try Grok @Bot Anatoli Kopadze (@AnatoliKopadze) Grok Bot is f*cking insane for building a second brain... Send this prompt to Grok Bot and it will turn everything you read, watch and think into a knowledge base that organizes itself Then go even further with the full guide below: — https://nitter.kareem.one/AnatoliKopadze/status/2121243538675450305#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121323469002437065#m",
-   "ts": 1794597901,
-   "id": "2121323469002437065#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Within a couple of quarters, it will be normal for work meetings to be with Bots. This early beta gives a very rough glimpse. It will be great soon. Grok Bot (@bot) Grok Bot can now join meetings. Ask it questions, assign it work, or have it keep track of what your team decides. Video — https://nitter.kareem.one/bot/status/2121320089920430181#m",
-   "url": "https://nitter.kareem.one/mntruell/status/2121321225620459994#m",
-   "ts": 1794597367,
-   "id": "2121321225620459994#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "if SpaceX achieves a double catch, it will be one of the single most important moments in the history of rocketry and mark a new era of humanity’s access to space. tune the fuck in! don’t miss it",
    "url": "https://nitter.kareem.one/willdepue/status/2121319344051544527#m",
    "ts": 1794596918,
    "id": "2121319344051544527#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Made on Earth by humans Andrew McCarthy (@AJamesMcCarthy) Looks like a scene from a sci-fi film but it’s just my drive to work this morning Video — https://nitter.kareem.one/AJamesMcCarthy/status/2121228714516320501#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121317331179614676#m",
-   "ts": 1794596438,
-   "id": "2121317331179614676#m"
   },
   {
    "handle": "elonmusk",
@@ -302,6 +302,15 @@
    "url": "https://nitter.kareem.one/CCG_org/status/2121179614886449166#m",
    "ts": 1794563604,
    "id": "2121179614886449166#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The most valuable thing in life isn’t money, it’s true friendship. \"A friend is someone who's going to support you in difficult times. I suppose a friend in need is a friend indeed, like if someone's still supporting you when the chips are down, that's a friend.\" — @elonmusk Video",
+   "url": "https://nitter.kareem.one/cb_doge/status/2121154814998626325#m",
+   "ts": 1794557691,
+   "id": "2121154814998626325#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -1589,15 +1598,6 @@
    "url": "https://nitter.kareem.one/bunjavascript/status/2110692261508079721#m",
    "ts": 1792063224,
    "id": "2110692261508079721#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "There is no substitute for the person who Knows What To Do.",
-   "url": "https://nitter.kareem.one/pmarca/status/2033357554403999860#m",
-   "ts": 1773625193,
-   "id": "2033357554403999860#m"
   },
   {
    "handle": "ZichenWanghere",
