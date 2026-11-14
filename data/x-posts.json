@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-14T07:45:22Z",
+ "generated_at": "2026-11-14T07:55:39Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "So funny",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121510962901483584#m",
+   "ts": 1794642603,
+   "id": "2121510962901483584#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -175,15 +185,6 @@
    "url": "https://nitter.kareem.one/as400495/status/2121429683862741161#m",
    "ts": 1794623225,
    "id": "2121429683862741161#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Congratulations to the @SpaceX team on another spectacular launch. Very much appreciate how you bring the world along in high resolution. We are looking forward to some of that on-orbit Starlink capability on Artemis III. Tomorrow is a big day for the community, with a Vulcan launch and Starship's return on deck 🇺🇸",
-   "url": "https://nitter.kareem.one/NASAAdmin/status/2121387579442381282#m",
-   "ts": 1794613187,
-   "id": "2121387579442381282#m"
   },
   {
    "handle": "elonmusk",
@@ -1500,9 +1501,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
