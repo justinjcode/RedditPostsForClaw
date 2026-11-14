@@ -1,20 +1,76 @@
 {
- "generated_at": "2026-11-14T04:09:36Z",
+ "generated_at": "2026-11-14T08:10:09Z",
  "count": 60,
  "subreddits_ok": [
+  "LocalLLaMA",
   "MachineLearning",
-  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "KittenML/kitten-tts-2-mini · Hugging Face - Text-to-Speech",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvw34k/kittenmlkittentts2mini_hugging_face_texttospeech/",
+   "ts": 1794640318,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Videogame request wishlist , library manager",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xvvbtm/videogame_request_wishlist_library_manager/",
+   "ts": 1794637618,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "[Paper] Read Less, Solve More: Token-Efficient Sparse Reading of External Content for AI Agents",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvuit5/paper_read_less_solve_more_tokenefficient_sparse/",
+   "ts": 1794634882,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "ERNIE 5.5 Flash Base · ERNIE",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvuclv/ernie_55_flash_base_ernie/",
+   "ts": 1794634284,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Crazy there's a probable connection between my desktop running Qwen 3.8 27B and a major geo-economic-political event",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvubha/crazy_theres_a_probable_connection_between_my/",
+   "ts": 1794634177,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "salesforce-sovereign-intelligence/SOV-Transcribe-1 · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvst4u/salesforcesovereignintelligencesovtranscribe1/",
+   "ts": 1794629206,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen Huang Reportedly Financed AI Startups To Absorb Excess Silicon, Shattering The Shortage Perception",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvsb5f/instead_of_lowering_gpu_prices_former_nvidia_ceo/",
+   "ts": 1794627606,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "How I accidentally became a millionaire",
    "url": "https://www.reddit.com/r/programming/comments/1xvr455/how_i_accidentally_became_a_millionaire/",
    "ts": 1794623901,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Starter Tutorial Recs",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xvqpjv/starter_tutorial_recs/",
+   "ts": 1794622699,
    "source": "Reddit"
   },
   {
@@ -88,13 +144,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Looking for a RDM replacement",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xvj4u6/looking_for_a_rdm_replacement/",
-   "ts": 1794602562,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Announcing Rust 1.100.0",
    "url": "https://www.reddit.com/r/programming/comments/1xvixj7/announcing_rust_11000/",
@@ -106,13 +155,6 @@
    "title": "Concurrent Shell Command Queues",
    "url": "https://www.reddit.com/r/programming/comments/1xviun2/concurrent_shell_command_queues/",
    "ts": 1794601895,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "DeepSeek v4.1 Flash vs Qwen 3.8 Flash Next Performance",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvhzq9/deepseek_v41_flash_vs_qwen_38_flash_next/",
-   "ts": 1794599877,
    "source": "Reddit"
   },
   {
@@ -162,27 +204,6 @@
    "title": "Scaling to 1T MoE on TorchTitan [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xvce5h/scaling_to_1t_moe_on_torchtitan_p/",
    "ts": 1794587316,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvcbbh/nvidia_privately_confirmed_it_could_track_chips/",
-   "ts": 1794587131,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "I noticed the 2 Hessian Refinement of MACaQ can be applied to any GGUF without any patches ... and tried it. 13% better quants",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbqqa/i_noticed_the_2_hessian_refinement_of_macaq_can/",
-   "ts": 1794585836,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Qwen3.5-9B running on a PS4’s GPU, offline, using its own MTP head for speculative decoding",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbn2m/qwen359b_running_on_a_ps4s_gpu_offline_using_its/",
-   "ts": 1794585636,
    "source": "Reddit"
   },
   {
@@ -312,13 +333,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang's exit",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xut4o7/hugging_face_ceo_vows_to_keep_fighting_for_open/",
-   "ts": 1794528678,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "New Project Megathread - Week of 12 Nov 2026",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xurjda/new_project_megathread_week_of_12_nov_2026/",
@@ -333,24 +347,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Securo maintainer here: 8 months of work, and the results so far",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xunhqd/securo_maintainer_here_8_months_of_work_and_the/",
-   "ts": 1794514660,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Creating author burdens to reduce paper submissions is STUPID [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xul9u7/creating_author_burdens_to_reduce_paper/",
    "ts": 1794509713,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Jensen Huang's mistake was being too pro LocalAI, which was a threat to companies like ClosedAI and Anthropic which are about to go IPO",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xujb7c/jensen_huangs_mistake_was_being_too_pro_localai/",
-   "ts": 1794505389,
    "source": "Reddit"
   },
   {
