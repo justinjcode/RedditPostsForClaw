@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-14T14:16:13Z",
+ "generated_at": "2026-11-14T14:25:39Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "bcherny",
   "elonmusk",
@@ -10,7 +11,6 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
@@ -122,6 +122,15 @@
    "url": "https://nitter.kareem.one/garrytan/status/2121462697787342932#m",
    "ts": 1794631096,
    "id": "2121462697787342932#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "“Jensen has been incredibly good at retaining talent. There are very few high-profile departures from the NVIDIA executive team.” “This is probably when the sharks are in the water. The VCs are going to come in and offer people billions of dollars to start their own chip companies, their own neolabs.” “If a year from now we’ve seen a bunch of departures from NVIDIA, I’m going to be really concerned about their future.” “Steve Jobs is a pure visionary, and Jensen is negotiating every supply chain contract.” “If there’s any manufacturing issues with Rubin, people are distracted and Jensen’s not there. Things get solved slower, things get solved by committees.” Video",
+   "url": "https://nitter.kareem.one/SemiAnalysis_/status/2121462524281282700#m",
+   "ts": 1794631055,
+   "id": "2121462524281282700#m"
   },
   {
    "handle": "elonmusk",
@@ -302,15 +311,6 @@
    "url": "https://nitter.kareem.one/YveK22/status/2121170139513049547#m",
    "ts": 1794561345,
    "id": "2121170139513049547#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The most valuable thing in life isn’t money, it’s true friendship. \"A friend is someone who's going to support you in difficult times. I suppose a friend in need is a friend indeed, like if someone's still supporting you when the chips are down, that's a friend.\" — @elonmusk Video",
-   "url": "https://nitter.kareem.one/cb_doge/status/2121154814998626325#m",
-   "ts": 1794557691,
-   "id": "2121154814998626325#m"
   },
   {
    "handle": "ZichenWanghere",
