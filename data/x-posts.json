@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-14T17:17:44Z",
+ "generated_at": "2026-11-14T17:25:27Z",
  "accounts_ok": [
   "Lingling_Wei",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
-  "@swyx: all instances failed",
   "@TheRundownAI: all instances failed"
  ],
  "count": 177,
@@ -104,6 +104,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2121624209675665519#m",
    "ts": 1794669604,
    "id": "2121624209675665519#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "AI can do more of the work. So why does the job feel harder? @simonw on what happens when the easy tasks disappear and your ambitions catch up with the tools. From AI Engineer Code Summit. Video",
+   "url": "https://nitter.kareem.one/aiDotEngineer/status/2121619176527937878#m",
+   "ts": 1794668404,
+   "id": "2121619176527937878#m"
   },
   {
    "handle": "elonmusk",
@@ -428,15 +437,6 @@
    "url": "https://nitter.kareem.one/yang_mady/status/2121054096031731840#m",
    "ts": 1794533678,
    "id": "2121054096031731840#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "What a week at @aiDotEngineer ! S/o to @swyx for making it happen, and thanks to everyone who came by to say hi and celebrate the week of Gemini. 🚢",
-   "url": "https://nitter.kareem.one/EvanOtero/status/2121051314591572215#m",
-   "ts": 1794533015,
-   "id": "2121051314591572215#m"
   },
   {
    "handle": "swyx",
