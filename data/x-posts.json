@@ -1,20 +1,28 @@
 {
- "generated_at": "2026-11-14T05:09:24Z",
+ "generated_at": "2026-11-14T05:18:02Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "what a week at @aiDotEngineer . thanks to @swyx , @Beccalytics and team for putting so many world class builders in one room and to @melvinjohnsonp for closing things out on stage. shipping season is in full swing. see you at AIE Europe in Feb!",
+   "url": "https://nitter.kareem.one/vadiamit/status/2121467430711259327#m",
+   "ts": 1794632225,
+   "id": "2121467430711259327#m"
+  },
   {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
@@ -401,15 +409,6 @@
    "url": "https://nitter.kareem.one/andrewtorkbaker/status/2121050932993769486#m",
    "ts": 1794532924,
    "id": "2121050932993769486#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Last year people laughed at the idea of \"vibe-coding Salesforce\". Now? People realize you only ever need 1% of Salesforce, and more and more people can use an agent to build the 1% they need plus the other stuff that Salesforce would never have built. And I think we all know which would be better to use. Nicholas Arcolano (@arcolano) “Why would you vibecode Salseforce? Why would you do that?? Would you be proud if you vibecoded a CRM and Salesforce came out the other end?” – @sqs on building a “new kind of company” at @aiDotEngineer — https://nitter.kareem.one/arcolano/status/2121045555145248966#m",
-   "url": "https://nitter.kareem.one/sqs/status/2121050803024847011#m",
-   "ts": 1794532893,
-   "id": "2121050803024847011#m"
   },
   {
    "handle": "simonw",
