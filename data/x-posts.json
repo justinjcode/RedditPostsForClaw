@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T23:24:48Z",
+ "generated_at": "2026-11-14T23:36:28Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Ship 42 looks great! Video",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121746382402797892#m",
+   "ts": 1794698732,
+   "id": "2121746382402797892#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -247,15 +256,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2121648438144024943#m",
    "ts": 1794675380,
    "id": "2121648438144024943#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Text watermarking with Grok is only on where required by law or requested by the user Tech Dev Notes (@techdevnotes) Text watermarking is now off by default in the SpaceXSI API — https://nitter.kareem.one/techdevnotes/status/2121370786208375136#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121644169462681818#m",
-   "ts": 1794674362,
-   "id": "2121644169462681818#m"
   },
   {
    "handle": "elonmusk",
