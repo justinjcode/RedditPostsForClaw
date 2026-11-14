@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-11-14T06:12:11Z",
+ "generated_at": "2026-11-14T06:24:48Z",
  "accounts_ok": [
   "TheRundownAI",
+  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -9,9 +11,7 @@
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -23,6 +23,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2121473082372292885#m",
    "ts": 1794633572,
    "id": "2121473082372292885#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Prometheus unbound Video",
+   "url": "https://nitter.kareem.one/AtelierMissor_/status/2121469429464670376#m",
+   "ts": 1794632701,
+   "id": "2121469429464670376#m"
   },
   {
    "handle": "swyx",
@@ -284,15 +293,6 @@
    "url": "https://nitter.kareem.one/mackhawk/status/2121252848776450049#m",
    "ts": 1794581064,
    "id": "2121252848776450049#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "BREAKING: Zambia’s government has begun deploying 751 @Starlink kits to health facilities across all 10 provinces. 🇿🇲 • 90 kits already delivered to Western Province’s Provincial Health Office. • Targeting underserved and hard-to-reach communities. • Supporting digital health services and better communication between facilities. • Funded by the Global Fund through the Ministry of Health, with UNDP support. Starlink is helping bring better connectivity where it matters most: healthcare. Video",
-   "url": "https://nitter.kareem.one/cb_doge/status/2121206425045410134#m",
-   "ts": 1794569996,
-   "id": "2121206425045410134#m"
   },
   {
    "handle": "ZichenWanghere",
