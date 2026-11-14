@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T15:24:54Z",
+ "generated_at": "2026-11-14T15:34:53Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "If Jensen gave me his word about compute delivery or I asked for components to be accelerated, he always came through. Sure, we’d put together a purchase order at some point later, but I never for a second thought it wouldn’t happen.",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121624209675665519#m",
+   "ts": 1794669604,
+   "id": "2121624209675665519#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -103,15 +112,6 @@
    "url": "https://nitter.kareem.one/bowie_HQ/status/2121493879870677332#m",
    "ts": 1794638531,
    "id": "2121493879870677332#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Zambia has started connecting 751 health facilities across all 10 provinces with Starlink, and the first 90 kits went to Western Province. There's something poetic about where they started. Every year at the end of the rainy season the upper Zambezi floods the Barotse plain, and for centuries the Lozi king has left his compound at Lealui by royal barge and moved to higher ground at Limulunga. The ceremony is called Kuomboka. In Lozi it means \"to get out of water.\" Now picture running fiber or building towers across land that turns into a lake for part of every year. A Starlink dish only needs a clear view of the sky, so the water below stops being the problem. In March 2020, months before Starlink had its first beta users, Elon Musk said it would serve the 3 or 4 percent hardest-to-reach customers, people with no connectivity or really bad connectivity. Six years later, with funding from the Global Fund through Zambia's Ministry of Health, clinics on one of Africa's great floodplains are being brought into the country's electronic health systems from orbit.",
-   "url": "https://nitter.kareem.one/TheCaptainEli/status/2121487543837294607#m",
-   "ts": 1794637020,
-   "id": "2121487543837294607#m"
   },
   {
    "handle": "swyx",
