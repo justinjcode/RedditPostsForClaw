@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-14T06:55:55Z",
+ "generated_at": "2026-11-14T07:09:54Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
   {
@@ -41,6 +40,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2121489252072693925#m",
    "ts": 1794637427,
    "id": "2121489252072693925#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Zambia has started connecting 751 health facilities across all 10 provinces with Starlink, and the first 90 kits went to Western Province. There's something poetic about where they started. Every year at the end of the rainy season the upper Zambezi floods the Barotse plain, and for centuries the Lozi king has left his compound at Lealui by royal barge and moved to higher ground at Limulunga. The ceremony is called Kuomboka. In Lozi it means \"to get out of water.\" Now picture running fiber or building towers across land that turns into a lake for part of every year. A Starlink dish only needs a clear view of the sky, so the water below stops being the problem. In March 2020, months before Starlink had its first beta users, Elon Musk said it would serve the 3 or 4 percent hardest-to-reach customers, people with no connectivity or really bad connectivity. Six years later, with funding from the Global Fund through Zambia's Ministry of Health, clinics on one of Africa's great floodplains are being brought into the country's electronic health systems from orbit.",
+   "url": "https://nitter.kareem.one/TheCaptainEli/status/2121487543837294607#m",
+   "ts": 1794637020,
+   "id": "2121487543837294607#m"
   },
   {
    "handle": "elonmusk",
@@ -100,10 +108,28 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "Yes. Per the exact words in the clip, the bet is lost if a Cybercab is delivered to a customer for $30k or less before 2027. The scenario matches those conditions. Link Grok • Smartest AI Advisor Productivity",
+   "url": "https://nitter.kareem.one/grok/status/2121452685345845744#m",
+   "ts": 1794628709,
+   "id": "2121452685345845744#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "看马斯克和黄仁勋聊天，真的太tm舒服了，恨不得边喝点酒边看，再吃点花生米，堪称完美 Video",
    "url": "https://nitter.kareem.one/holdonyourrope/status/2121440174559330394#m",
    "ts": 1794625726,
    "id": "2121440174559330394#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "I cannot believe he’s still trying to claim he was right. Marques, be a man and honor your word. Tesla showed you the future, and you called it “weird” and said FSD would never be approved for driverless, they would never be able to ship a car without a steering wheel, and they would not be able to hit a $30,000 price point due to inflation. You mocked them and said i’m so sure this will never happen I’ll shave my head if it does. You were WRONG. be a man and admit it. They showed you the future and you just didn’t get it. Video Marques Brownlee (@MKBHD) The memes are everywhere, so let’s go back over the bet: Cybercab publicly available for under $30k by the end of 2026 My hair is safe for several reasons 1: No deliveries yet. But they’re estimating starting in December so that’s neat 2: Invite only, not actually publicly available yet 3: You can’t actually use it as a cab(??!) It’s limited to private use only. Inside the existing geofenced locations. It’s a paperweight if I take this thing home. That’s one’s not actually part of the bet but yeah not exactly what was promised in this first wave Hey @grok , set a timer for 48 days from now — https://nitter.kareem.one/MKBHD/status/2121423916006617237#m",
+   "url": "https://nitter.kareem.one/wholemars/status/2121435803540730109#m",
+   "ts": 1794624684,
+   "id": "2121435803540730109#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -136,24 +162,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "This letter was sent to Nvidia's board today. A first for @atreidesmgmt Absolutely share @altcap belief that this letter outlines minimum acceptable standards.",
-   "url": "https://nitter.kareem.one/GavinSBaker/status/2121401397346521412#m",
-   "ts": 1794616481,
-   "id": "2121401397346521412#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Starship is now in a long coast phase around Earth. Teams will monitor Starship’s systems over the next ~21 hours that we intend to be in orbit for. We do have a few early deorbit options available should we need them, but all systems are looking good right now",
-   "url": "https://nitter.kareem.one/SpaceX/status/2121394839954874797#m",
-   "ts": 1794614918,
-   "id": "2121394839954874797#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Payload deploy complete. All 26 @Starlink V3 satellites are in orbit Video",
    "url": "https://nitter.kareem.one/SpaceX/status/2121394268652839309#m",
    "ts": 1794614781,
@@ -167,15 +175,6 @@
    "url": "https://nitter.kareem.one/NASAAdmin/status/2121387579442381282#m",
    "ts": 1794613187,
    "id": "2121387579442381282#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Select customers are now being invited to purchase Cybercab for personal use",
-   "url": "https://nitter.kareem.one/robotaxi/status/2121384435241402737#m",
-   "ts": 1794612437,
-   "id": "2121384435241402737#m"
   },
   {
    "handle": "elonmusk",
@@ -208,10 +207,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "BREAKING: Indian telecom giant Airtel’s Chairman, Sunil Bharti Mittal, praised Elon Musk’s “mind-boggling” achievements, says Starlink V3 is pushing the limits of physics. “I have to acknowledge what he has done is mind-boggling, @elonmusk . His compute or his connectivity capacity in the space has gone manifold, and it’s happened in the last four or five years under our watch. So the last launch that he made on Starship, the satellites he put up, the V3, they have a capacity of as much as the entire OneWeb capacity. So at one Tbps capacity in a single launch means he’s trying to push, if not break, through the laws of physics, which means a lot of connectivity is going to come from space, and the terrestrial industry needs to be prepared for that.” Video",
-   "url": "https://nitter.kareem.one/cb_doge/status/2121299443450515494#m",
-   "ts": 1794592173,
-   "id": "2121299443450515494#m"
+   "text": "Je viens de regarder mon passage dans Quotidien. Évidemment, je suis qualifié d’« influenceur entrepreneur d’extrême droite ». Déroulons. Je ne sais pas si vous vous rendez compte à quel point le peuple français vous méprise. Vous êtes tellement déconnectés du réel que, dans votre petit monde, vous êtes persuadés d’avoir le monopole du bon sens. Alors je vais vous dire ce que vous êtes vraiment. Mais avant, je vais vous dire d’où je parle. Je suis breton. J’ai grandi dans un système scolaire profondément cassé. La majorité de mes profs étaient de gauche, et la plupart étaient déprimés. Pas méchants. Déprimés. Ils ne transmettaient qu’une chose : la conviction que le monde est injuste, que l’effort ne paie pas, et que demain sera pire qu’hier. Ce qui m’a sauvé, c’est d’avoir appris seul. J’ai commencé à coder à 12 ans. À 15 ans, j’avais créé un jeu qui me rapportait plus que le salaire de mes profs. Personne ne m’a donné la permission. Personne ne m’a subventionné. J’ai construit, des gens ont joué, j’ai été payé. La leçon d’économie la plus honnête de ma vie. Ensuite j’ai travaillé dans la tech, j’ai vécu dans la Silicon Valley, j’ai construit pas mal de choses. Et j’ai étudié l’économie par moi-même. Pas pour un diplôme. Pour comprendre comment le monde fonctionne vraiment. Et surtout, j’ai eu une chance que vous n’aurez jamais. J’ai été connecté, et je le suis encore, aux deux extrémités de la société. D’un côté, les couches les plus modestes, celles que vous prétendez prot",
+   "url": "https://nitter.kareem.one/brivael/status/2121368078080782619#m",
+   "ts": 1794608537,
+   "id": "2121368078080782619#m"
   },
   {
    "handle": "swyx",
