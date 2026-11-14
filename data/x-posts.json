@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-14T22:55:04Z",
+ "generated_at": "2026-11-14T23:06:54Z",
  "accounts_ok": [
-  "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,10 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@TheRundownAI: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "there WILL be audience participation",
+   "url": "https://nitter.kareem.one/swyx/status/2121738675705029005#m",
+   "ts": 1794696894,
+   "id": "2121738675705029005#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -581,15 +590,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2120971665249112530#m",
    "ts": 1794514025,
    "id": "2120971665249112530#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "I just wrapped up a keynote at @aiDotEngineer Code Summit on how Software Engineering is becoming Factory Engineering. The core idea is this: using coding agents is an engineering problem, not a prompting problem. Every company should strive to define the system in code, measure what it produces on your codebase, and keep iterating. Everyone has agents. The hard (and fun) part is engineering the factory around them so they reliably ship better software.",
-   "url": "https://nitter.kareem.one/zachlloydtweets/status/2120966552472477810#m",
-   "ts": 1794512806,
-   "id": "2120966552472477810#m"
   },
   {
    "handle": "TheRundownAI",
