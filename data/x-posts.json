@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-14T02:55:16Z",
+ "generated_at": "2026-11-14T03:10:29Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "President Trump will meet with Russian President Vladimir Putin and Chinese leader Xi Jinping in China next week for an unprecedented three-way summit With @marianne_levine wsj.com/world/china/trump-to… Link Trump to Hold Talks With China’s Xi and Russia’s Putin Next Week The unprecedented three-way meeting will be held in China’s tech hub of Shenzhen. wsj.com",
+   "url": "https://nitter.kareem.one/VeraMBergen/status/2121433632875352374#m",
+   "ts": 1794624167,
+   "id": "2121433632875352374#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1049,15 +1057,6 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2119911587654103412#m",
    "ts": 1794261283,
    "id": "2119911587654103412#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "Read this 👇 Julian Gewirtz (@JulianGewirtz) Jensen Huang reportedly instructed his team at Nvidia \"never to think about\" planning for a Taiwan contingency. Despite the fact that their business is reliant on TSMC. The Jensen-Megaspeed mess really puts these incredible — and barely-noticed — details from Stephen Witt's The Thinking Machine in a new light: Huang refuses to consider the impact on his global business if China were to blockade or invade Taiwan, despite the regular threats emanating from Beijing to do just that. “To my great surprise, Nvidia had done no contingency planning for this eventuality,” Witt writes. He quotes Deb Shoquist, Nvidia’s executive vice-president of operations: “If something happens to Taiwan and TSMC, the ramifications are so large it’s almost like asking me what I’d do if California fell into the ocean.” Huang had instructed her “never to think about this question.” —from my @nybooks essay earlier this year on Nvidia and American policy toward China: nybooks.com/articles/2026/02… —more thoughts from me today: juliangewirtz.substack.com/p… Link When the Chips Are Down | Julian Gewirtz President Trump’s reversal of a ban on sales of advanced semiconductors to China undercut the strategic logic behind years of American policy that was meant to keep the US ahead in the race to... nybooks.com — https://nitter.kareem.one/JulianGewirtz/status/2119907759365956004#m",
-   "url": "https://nitter.kareem.one/Lingling_Wei/status/2119908819555823882#m",
-   "ts": 1794260623,
-   "id": "2119908819555823882#m"
   },
   {
    "handle": "bcherny",
