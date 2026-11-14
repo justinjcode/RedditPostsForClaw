@@ -1,15 +1,50 @@
 {
- "generated_at": "2026-11-14T20:08:41Z",
+ "generated_at": "2026-11-14T22:08:08Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
+  "MachineLearning",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Hot take: frontier models haven’t actually become much smarter",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwegdi/hot_take_frontier_models_havent_actually_become/",
+   "ts": 1794693453,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "The GOAT",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwedkk/the_goat/",
+   "ts": 1794693231,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "How to provide secure bootstrap access in the event of a total loss?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xwd1sf/how_to_provide_secure_bootstrap_access_in_the/",
+   "ts": 1794689688,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "ICLR 2027 Initial Review Scores ranked by University [N]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xwcjuq/iclr_2027_initial_review_scores_ranked_by/",
+   "ts": 1794688394,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Ai Rig finally done and stable, perfect winter heater",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwc3m7/ai_rig_finally_done_and_stable_perfect_winter/",
+   "ts": 1794687218,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "CUPS Server with Very Old Laptop",
@@ -46,10 +81,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Jensen thought he saved the world, 3 weeks later he resigned",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw9fsu/jensen_thought_he_saved_the_world_3_weeks_later/",
-   "ts": 1794680652,
+   "subreddit": "MachineLearning",
+   "title": "Anonymous GitHub not working [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xw9m5h/anonymous_github_not_working_d/",
+   "ts": 1794681076,
    "source": "Reddit"
   },
   {
@@ -242,13 +277,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "[Paper] Read Less, Solve More: Token-Efficient Sparse Reading of External Content for AI Agents",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvuit5/paper_read_less_solve_more_tokenefficient_sparse/",
-   "ts": 1794634882,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Formal Verification is Not Verifiable: Bouba and Kiki Software",
    "url": "https://www.reddit.com/r/programming/comments/1xvug39/formal_verification_is_not_verifiable_bouba_and/",
@@ -295,13 +323,6 @@
    "title": "Selfhosted Aircraft Control",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xvotr4/selfhosted_aircraft_control/",
    "ts": 1794617071,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Back Propagation [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xvnob6/back_propagation_d/",
-   "ts": 1794613941,
    "source": "Reddit"
   },
   {
@@ -354,24 +375,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "Scaling to 1T MoE on TorchTitan [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xvce5h/scaling_to_1t_moe_on_torchtitan_p/",
-   "ts": 1794587316,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "ML Modules for Mere Mortals",
    "url": "https://www.reddit.com/r/programming/comments/1xva4qf/ml_modules_for_mere_mortals/",
    "ts": 1794582097,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "llama.cpp v1.0 is here 🦙",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv8t2e/llamacpp_v10_is_here/",
-   "ts": 1794578853,
    "source": "Reddit"
   },
   {
@@ -386,13 +393,6 @@
    "title": "Paid surveys for Machine Learning Scientists for SnorkelAI: Absolutely not worth it [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xv4rjy/paid_surveys_for_machine_learning_scientists_for/",
    "ts": 1794567010,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "I posted my diagram-as-code homelab map a while back. I use it so much at home and at work now that I wrote proper docs for it",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xv17a7/i_posted_my_diagramascode_homelab_map_a_while/",
-   "ts": 1794553588,
    "source": "Reddit"
   },
   {
