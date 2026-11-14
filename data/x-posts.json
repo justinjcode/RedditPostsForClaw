@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-14T06:45:50Z",
+ "generated_at": "2026-11-14T06:55:55Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Slowly at first, then rapid acceleration DogeDesigner (@cb_doge) All 15 Starship Launches Flight 1: Apr 20 2023 Flight 2: Nov 18 2023 Flight 3: Mar 14 2024 Flight 4: Jun 6 2024 Flight 5: Oct 13 2024 Flight 6: Nov 19 2024 Flight 7: Jan 16 2025 Flight 8: Mar 6 2025 Flight 9: May 27 2025 Flight 10: Aug 26 2025 Flight 11: Oct 13 2025 Flight 12: May 22 2026 Flight 13: Jul 24 2026 Flight 14: Sep 28 2026 Flight 15: Nov 13 2026 Video — https://nitter.kareem.one/cb_doge/status/2121379746063978497#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121493331528056887#m",
+   "ts": 1794638400,
+   "id": "2121493331528056887#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -31,6 +41,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2121489252072693925#m",
    "ts": 1794637427,
    "id": "2121489252072693925#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "What's happening at Starbase, Texas is truly incredible. Deep in south Texas, Musk and his team have pulled in some of the most brilliant people on Earth to make space travel as normal and boring as air travel. The energy there is just insane. It feels like a modern day Manhattan project, but built for peace not war. The building pictured below is the actual factory where they build Starship, like a car factory for spaceships. You probably wouldn't have guessed it, since it looks like a nice office building. Most factories are cold and industrial but Starfactory feels warm, clean, with design touches that make you feel like you're in Silicon Valley. There's something really special happening here. I envy everyone who gets to work here and live here. Most people never get a chance to devote themselves to something so meaningful, something that potentially bends the river of human history. It kind of feels like a college town, except everyone's building spaceships instead of going to class.",
+   "url": "https://nitter.kareem.one/wholemars/status/2121485915444908456#m",
+   "ts": 1794636632,
+   "id": "2121485915444908456#m"
   },
   {
    "handle": "swyx",
@@ -72,6 +91,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "Jensen deserves due process, not whatever is happening right now. I signed. #standwithjensen Stand With Jensen (@TheJensenLetter) Still hard to believe everything that's happened with Jensen. After 33 years of building NVIDIA. I think he deserves a fair process, and we deserve the truth. I signed this open letter to stand with Jensen. Hope you will too. 💚 standwithjensen.com #StandWithJensen Link Stand with Jensen | An open letter to the NVIDIA Board An independent campaign of current and former NVIDIA employees and shareholders expressing gratitude to Jensen Huang and asking the Board for a transparent account of the CEO transition. Not affili... standwithjensen.com — https://nitter.kareem.one/TheJensenLetter/status/2121339322385440842#m",
+   "url": "https://nitter.kareem.one/garrytan/status/2121462697787342932#m",
+   "ts": 1794631096,
+   "id": "2121462697787342932#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "看马斯克和黄仁勋聊天，真的太tm舒服了，恨不得边喝点酒边看，再吃点花生米，堪称完美 Video",
    "url": "https://nitter.kareem.one/holdonyourrope/status/2121440174559330394#m",
    "ts": 1794625726,
@@ -85,6 +113,15 @@
    "url": "https://nitter.kareem.one/VeraMBergen/status/2121433632875352374#m",
    "ts": 1794624167,
    "id": "2121433632875352374#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Few realize fixing government is an IT & software problem. Government infrastructure is insecure, slow, expensive, and has incredibly frequent downtime. Many of them still run on mainframes! Acyn (@Acyn) WOW MULLIN SAYS THE UPGRADES DUFFY PUT IN CAUSED THE OUTAGE “The new technology was overwhelming the older system” Video — https://nitter.kareem.one/Acyn/status/2121419990599647614#m",
+   "url": "https://nitter.kareem.one/as400495/status/2121429683862741161#m",
+   "ts": 1794623225,
+   "id": "2121429683862741161#m"
   },
   {
    "handle": "elonmusk",
@@ -121,15 +158,6 @@
    "url": "https://nitter.kareem.one/SpaceX/status/2121394268652839309#m",
    "ts": 1794614781,
    "id": "2121394268652839309#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Live Starship video from space Video",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121388517540716839#m",
-   "ts": 1794613410,
-   "id": "2121388517540716839#m"
   },
   {
    "handle": "elonmusk",
@@ -180,33 +208,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "A petition is underway to reinstate Jensen and I’m signing it too",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121345211959804234#m",
-   "ts": 1794603085,
-   "id": "2121345211959804234#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Try Grok @Bot today! Grok Bot (@bot) Grok Bot can now join meetings. Ask it questions, assign it work, or have it keep track of what your team decides. Video — https://nitter.kareem.one/bot/status/2121320089920430181#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121335897744372073#m",
-   "ts": 1794600865,
-   "id": "2121335897744372073#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "if SpaceX achieves a double catch, it will be one of the single most important moments in the history of rocketry and mark a new era of humanity’s access to space. tune the fuck in! don’t miss it",
-   "url": "https://nitter.kareem.one/willdepue/status/2121319344051544527#m",
-   "ts": 1794596918,
-   "id": "2121319344051544527#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "BREAKING: Indian telecom giant Airtel’s Chairman, Sunil Bharti Mittal, praised Elon Musk’s “mind-boggling” achievements, says Starlink V3 is pushing the limits of physics. “I have to acknowledge what he has done is mind-boggling, @elonmusk . His compute or his connectivity capacity in the space has gone manifold, and it’s happened in the last four or five years under our watch. So the last launch that he made on Starship, the satellites he put up, the V3, they have a capacity of as much as the entire OneWeb capacity. So at one Tbps capacity in a single launch means he’s trying to push, if not break, through the laws of physics, which means a lot of connectivity is going to come from space, and the terrestrial industry needs to be prepared for that.” Video",
    "url": "https://nitter.kareem.one/cb_doge/status/2121299443450515494#m",
    "ts": 1794592173,
@@ -220,15 +221,6 @@
    "url": "https://nitter.kareem.one/grinich/status/2121296642276295119#m",
    "ts": 1794591505,
    "id": "2121296642276295119#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "BREAKING: SpaceX says Boca Chica Beach will remain public, outlining major efforts to protect and restore it. • More than 50 tons of trash have been removed through weekly beach cleanups with the City of Starbase. • It has offered to invest tens of millions of dollars to fight beach erosion, restore the shoreline and preserve public access. • Its work with conservation partners has contributed to record sea turtle rescue efforts. • The proposed purchase covers approximately 1,200 acres surrounding the launch facility. Boca Chica Beach and the Texas coastline are excluded. • Around 600 acres would be permanently protected from development to preserve sensitive coastal habitat. • Proceeds from the proposed sale would help Texas invest in new parks and recreation in the Rio Grande Valley. • SpaceX is working with state agencies to improve safety around the launch facility while maintaining public beach access.",
-   "url": "https://nitter.kareem.one/cb_doge/status/2121288392742982125#m",
-   "ts": 1794589539,
-   "id": "2121288392742982125#m"
   },
   {
    "handle": "swyx",
@@ -301,6 +293,15 @@
    "url": "https://nitter.kareem.one/CCG_org/status/2121179614886449166#m",
    "ts": 1794563604,
    "id": "2121179614886449166#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Guten Morgen zusammen, heute vor elf Jahren, am 13. November 2015, verübten mehrere Attentäter im Namen des Islams, organisierte Anschläge in Paris. Der Horror dauerte über 4 Stunden und forderte 130 Todesopfer sowie knapp 700 Verletzte. Zuerst sprengte sich gegen 21.17 Uhr ein Selbstmordattentäter in der Nähe des Stadion Stade de France in die Luft und riss dabei einen Menschen mit in den Tod. Der Attentäter wollte eigentlich ins Stadion gelangen. Hier fand gerade ein Freundschaftsspiel zwischen der Deutschen und Französischen Fußballnationalmannschaft vor 80.000 Zuschauern statt. Sein Sprengstoffgürtel wurde jedoch von einem Sicherheitsmann entdeckt, worauf der Attentäter flüchtete. Ein weiterer Sprengstoffattentäter versuchte fast zeitglich ins Stadion zu gelangen, scheiterte ebenfalls und sprengte sich am Toreingang H in die Luft, zum Glück ohne weitere unschuldige Menschen mitzureißen. Beide Attentäter trugen einen gefälschten syrischen Pass mit sich, und beide sollen im Oktober als Flüchtlinge in Griechenland registriert worden sein. Da die Pässe gefälscht waren, ist die Identität der Beiden bis heute nicht bekannt. Beinah zeitgleich fuhr ein sogenanntes Hit-Team in einem Seat Leon vor eine Bar in einem Pariser Stadtteil. Sie feuerten dort mit Kalaschnikows auf die Gäste, die im Außenbereich saßen. Anschließend schossen sie auf Gäste eines gegenüberliegenden Restaurants. Insgesamt 15 Menschen verloren ihr Leben dort. Nach diesem Anschlag fuhren die Attentäter weiter, er",
+   "url": "https://nitter.kareem.one/YveK22/status/2121170139513049547#m",
+   "ts": 1794561345,
+   "id": "2121170139513049547#m"
   },
   {
    "handle": "elonmusk",
