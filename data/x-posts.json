@@ -1,20 +1,28 @@
 {
- "generated_at": "2026-11-14T22:36:22Z",
+ "generated_at": "2026-11-14T22:44:54Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Inspecting ship 42 right now Video",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121733992726802703#m",
+   "ts": 1794695778,
+   "id": "2121733992726802703#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -239,15 +247,6 @@
    "url": "https://nitter.kareem.one/SpaceX/status/2121629656868614213#m",
    "ts": 1794670902,
    "id": "2121629656868614213#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Improvements to Grok @Bot efficiency Sam Sokolin (@SamSokolin) Shipped a few Grok Bot harness optimizations this week. You should get ~7% more usage out of your plan, and up to ~15% more on routine runs! Enjoy! — https://nitter.kareem.one/SamSokolin/status/2121303079803089179#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121628295234023654#m",
-   "ts": 1794670578,
-   "id": "2121628295234023654#m"
   },
   {
    "handle": "swyx",
