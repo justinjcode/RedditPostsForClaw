@@ -1,15 +1,78 @@
 {
- "generated_at": "2026-11-14T08:10:09Z",
+ "generated_at": "2026-11-14T12:11:09Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "A self-hosted temp-mail service in one file (~1k LOC)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xw0hpf/a_selfhosted_tempmail_service_in_one_file_1k_loc/",
+   "ts": 1794656796,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "IBM trains two small open models to ignore orders hidden in documents",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw09tu/ibm_trains_two_small_open_models_to_ignore_orders/",
+   "ts": 1794656006,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Calibre Reader for iPhone and iPad: reads your calibre library where it is (developer here)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xvz7ub/calibre_reader_for_iphone_and_ipad_reads_your/",
+   "ts": 1794652119,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "The reason you aren’t making $300k as a developer",
+   "url": "https://www.reddit.com/r/programming/comments/1xvyyl1/the_reason_you_arent_making_300k_as_a_developer/",
+   "ts": 1794651141,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "sensenova/SenseNova-Loop-9B-Preview · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvysss/sensenovasensenovaloop9bpreview_hugging_face/",
+   "ts": 1794650545,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Qwen 3.8 Flash Next for gamedev - it's very capable!",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvyol3/qwen_38_flash_next_for_gamedev_its_very_capable/",
+   "ts": 1794650118,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Is anyone using decision models as a permission checker?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvxziy/is_anyone_using_decision_models_as_a_permission/",
+   "ts": 1794647368,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Can open-weight LLMs can predict the effects of weight edits without running the model (9B–30B)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvxyhj/can_openweight_llms_can_predict_the_effects_of/",
+   "ts": 1794647252,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Some Projects Need to Fail",
+   "url": "https://www.reddit.com/r/programming/comments/1xvx0nl/some_projects_need_to_fail/",
+   "ts": 1794643728,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "KittenML/kitten-tts-2-mini · Hugging Face - Text-to-Speech",
@@ -29,6 +92,13 @@
    "title": "[Paper] Read Less, Solve More: Token-Efficient Sparse Reading of External Content for AI Agents",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvuit5/paper_read_less_solve_more_tokenefficient_sparse/",
    "ts": 1794634882,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Formal Verification is Not Verifiable: Bouba and Kiki Software",
+   "url": "https://www.reddit.com/r/programming/comments/1xvug39/formal_verification_is_not_verifiable_bouba_and/",
+   "ts": 1794634623,
    "source": "Reddit"
   },
   {
@@ -173,13 +243,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Garrul - a privacy-first comment system that runs in your own Cloudflare account: no server, fits the free tier",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xvg7e9/garrul_a_privacyfirst_comment_system_that_runs_in/",
-   "ts": 1794595793,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "m3u4me got an UI overhaul: v3 Update",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xvdmn5/m3u4me_got_an_ui_overhaul_v3_update/",
    "ts": 1794590057,
@@ -193,13 +256,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "DeepSeek flash max is the first model to reach >1% on challenging SWE-sweep bug finding benchmark",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvcgxq/deepseek_flash_max_is_the_first_model_to_reach_1/",
-   "ts": 1794587507,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Scaling to 1T MoE on TorchTitan [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xvce5h/scaling_to_1t_moe_on_torchtitan_p/",
@@ -207,31 +263,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "trying to know when something at home goes down before anyone notices, self hosted options",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xvbj9n/trying_to_know_when_something_at_home_goes_down/",
-   "ts": 1794585423,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "e-means: 10x faster k-means at equal loss",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbith/emeans_10x_faster_kmeans_at_equal_loss/",
-   "ts": 1794585397,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "Look what my son gave me!",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbcfp/look_what_my_son_gave_me/",
    "ts": 1794584967,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "CXMT almost tripling RAM production from 2025 to 2028",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvam8o/cxmt_almost_tripling_ram_production_from_2025_to/",
-   "ts": 1794583270,
    "source": "Reddit"
   },
   {
@@ -284,13 +319,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "exploit a 22 years old PostgreSQL composite-type vulnerability",
-   "url": "https://www.reddit.com/r/programming/comments/1xv1i5m/exploit_a_22_years_old_postgresql_compositetype/",
-   "ts": 1794554718,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "I posted my diagram-as-code homelab map a while back. I use it so much at home and at work now that I wrote proper docs for it",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xv17a7/i_posted_my_diagramascode_homelab_map_a_while/",
@@ -305,24 +333,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuxxmb/bring_back_the_boss_nvidia_employees_petition_for/",
-   "ts": 1794542608,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "I built tamserve to make real-time video tracking 2x cheaper [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xuvxke/i_built_tamserve_to_make_realtime_video_tracking/",
    "ts": 1794536631,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Stories coming out about Jensen",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuvexw/stories_coming_out_about_jensen/",
-   "ts": 1794535133,
    "source": "Reddit"
   },
   {
@@ -361,13 +375,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Building Barista: Formal Verification and TLA+",
-   "url": "https://www.reddit.com/r/programming/comments/1xufafk/building_barista_formal_verification_and_tla/",
-   "ts": 1794496345,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "CVPR 2027 Author enrollment form [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xue879/cvpr_2027_author_enrollment_form_d/",
@@ -393,13 +400,6 @@
    "title": "This Turkish Letter Keeps Breaking the World's Software - YouTube",
    "url": "https://www.reddit.com/r/programming/comments/1xu79k2/this_turkish_letter_keeps_breaking_the_worlds/",
    "ts": 1794471324,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "eMudhra's official incident report on how they ended up with private key 4",
-   "url": "https://www.reddit.com/r/programming/comments/1xtrm8s/emudhras_official_incident_report_on_how_they/",
-   "ts": 1794426376,
    "source": "Reddit"
   },
   {
