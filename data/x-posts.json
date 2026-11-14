@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-14T22:16:15Z",
+ "generated_at": "2026-11-14T22:25:43Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "bcherny",
   "elonmusk",
@@ -10,7 +11,6 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
  "count": 178,
@@ -23,6 +23,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2121726288968720709#m",
    "ts": 1794693941,
    "id": "2121726288968720709#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "RT by @elonmusk: Image",
+   "url": "https://nitter.kareem.one/johnkrausphotos/status/2121719372339454408#m",
+   "ts": 1794692292,
+   "id": "2121719372339454408#m"
   },
   {
    "handle": "elonmusk",
@@ -68,6 +77,15 @@
    "url": "https://nitter.kareem.one/drewjs/status/2121687118468850111#m",
    "ts": 1794684602,
    "id": "2121687118468850111#m"
+  },
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "AI slop replies, ranked by annoyingness: 6) Repeating the post 5) LLM knows more than the account should about a topic 4) Lame semi-joke 3) \"X is the part I would keep/everyone misses...\" 2) \"As a marketer/builder/dentist, I see this in my own...\" 1) Questions faking \"curiosity\"",
+   "url": "https://nitter.kareem.one/emollick/status/2121685924824461739#m",
+   "ts": 1794684318,
+   "id": "2121685924824461739#m"
   },
   {
    "handle": "elonmusk",
@@ -221,15 +239,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2121627776881230121#m",
    "ts": 1794670454,
    "id": "2121627776881230121#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "grok.com/share/bGVnYWN5_035d…",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121625731088445896#m",
-   "ts": 1794669966,
-   "id": "2121625731088445896#m"
   },
   {
    "handle": "swyx",
@@ -1499,15 +1508,6 @@
    "url": "https://nitter.kareem.one/levelsio/status/2115805396753383750#m",
    "ts": 1793282291,
    "id": "2115805396753383750#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "very weird thing happening rn technical people are sad, they think their skills are now useless non-technical people are desperately wishing they were more technical so they could use agents better",
-   "url": "https://nitter.kareem.one/trq212/status/2115544056038350960#m",
-   "ts": 1793219982,
-   "id": "2115544056038350960#m"
   },
   {
    "handle": "bcherny",
