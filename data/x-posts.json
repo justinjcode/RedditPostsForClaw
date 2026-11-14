@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-14T14:25:39Z",
+ "generated_at": "2026-11-14T14:36:37Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,10 +10,29 @@
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed"
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starship is currently completing 14 orbits of Earth, before initiating deorbit and attempting to land in Starbase SpaceX (@SpaceX) Starship in orbit over Africa Video — https://nitter.kareem.one/SpaceX/status/2121602376532742611#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121611711278981147#m",
+   "ts": 1794666624,
+   "id": "2121611711278981147#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starship in orbit over Africa Video",
+   "url": "https://nitter.kareem.one/SpaceX/status/2121602376532742611#m",
+   "ts": 1794664398,
+   "id": "2121602376532742611#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -59,15 +77,6 @@
    "url": "https://nitter.kareem.one/bowie_HQ/status/2121493879870677332#m",
    "ts": 1794638531,
    "id": "2121493879870677332#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Slowly at first, then rapid acceleration DogeDesigner (@cb_doge) All 15 Starship Launches Flight 1: Apr 20 2023 Flight 2: Nov 18 2023 Flight 3: Mar 14 2024 Flight 4: Jun 6 2024 Flight 5: Oct 13 2024 Flight 6: Nov 19 2024 Flight 7: Jan 16 2025 Flight 8: Mar 6 2025 Flight 9: May 27 2025 Flight 10: Aug 26 2025 Flight 11: Oct 13 2025 Flight 12: May 22 2026 Flight 13: Jul 24 2026 Flight 14: Sep 28 2026 Flight 15: Nov 13 2026 Video — https://nitter.kareem.one/cb_doge/status/2121379746063978497#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121493331528056887#m",
-   "ts": 1794638400,
-   "id": "2121493331528056887#m"
   },
   {
    "handle": "elonmusk",
@@ -118,15 +127,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Jensen deserves due process, not whatever is happening right now. I signed. #standwithjensen Stand With Jensen (@TheJensenLetter) Still hard to believe everything that's happened with Jensen. After 33 years of building NVIDIA. I think he deserves a fair process, and we deserve the truth. I signed this open letter to stand with Jensen. Hope you will too. 💚 standwithjensen.com #StandWithJensen Link Stand with Jensen | An open letter to the NVIDIA Board An independent campaign of current and former NVIDIA employees and shareholders expressing gratitude to Jensen Huang and asking the Board for a transparent account of the CEO transition. Not affili... standwithjensen.com — https://nitter.kareem.one/TheJensenLetter/status/2121339322385440842#m",
-   "url": "https://nitter.kareem.one/garrytan/status/2121462697787342932#m",
-   "ts": 1794631096,
-   "id": "2121462697787342932#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "“Jensen has been incredibly good at retaining talent. There are very few high-profile departures from the NVIDIA executive team.” “This is probably when the sharks are in the water. The VCs are going to come in and offer people billions of dollars to start their own chip companies, their own neolabs.” “If a year from now we’ve seen a bunch of departures from NVIDIA, I’m going to be really concerned about their future.” “Steve Jobs is a pure visionary, and Jensen is negotiating every supply chain contract.” “If there’s any manufacturing issues with Rubin, people are distracted and Jensen’s not there. Things get solved slower, things get solved by committees.” Video",
    "url": "https://nitter.kareem.one/SemiAnalysis_/status/2121462524281282700#m",
    "ts": 1794631055,
@@ -172,15 +172,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Few realize fixing government is an IT & software problem. Government infrastructure is insecure, slow, expensive, and has incredibly frequent downtime. Many of them still run on mainframes! Acyn (@Acyn) WOW MULLIN SAYS THE UPGRADES DUFFY PUT IN CAUSED THE OUTAGE “The new technology was overwhelming the older system” Video — https://nitter.kareem.one/Acyn/status/2121419990599647614#m",
-   "url": "https://nitter.kareem.one/as400495/status/2121429683862741161#m",
-   "ts": 1794623225,
-   "id": "2121429683862741161#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "An absolutely gorgeous launch Video",
    "url": "https://nitter.kareem.one/AJamesMcCarthy/status/2121384142474760511#m",
    "ts": 1794612367,
@@ -203,6 +194,15 @@
    "url": "https://nitter.kareem.one/brivael/status/2121368078080782619#m",
    "ts": 1794608537,
    "id": "2121368078080782619#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "I remember the friends who were still there when I was down. Not the ones who liked me when things were easy. Elon said it last year: if someone's still supporting you when the chips are down, that's a friend. Today he's signing the petition to bring Jensen back. That's the test. Video Elon Musk (@elonmusk) A petition is underway to reinstate Jensen and I’m signing it too — https://nitter.kareem.one/elonmusk/status/2121345211959804234#m",
+   "url": "https://nitter.kareem.one/benitoz/status/2121358030747078974#m",
+   "ts": 1794606142,
+   "id": "2121358030747078974#m"
   },
   {
    "handle": "swyx",
