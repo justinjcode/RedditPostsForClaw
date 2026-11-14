@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-11-14T14:36:37Z",
+ "generated_at": "2026-11-14T14:45:25Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Jensen drove supply chain brilliantly at Nvidia, but many of those deals were a handshake with Jensen, not a written contract. Without Jensen, at least some of those critical deals will be lost. CEOInterviews.AI (@CEOinterview) Dylan Patel says Jensen personally talked tiny suppliers into letting Nvidia buy up their supply, and with him gone Google is already begging them for capacity \"Jensen had complete foresight and understood the demand required and went to all of these executives, even of tiny companies where they only generate a few hundred million dollars of revenue but they have an important subcomponent.\" \"He convinced them to let him buy the supply and build it all out...\" \"And now with Jensen gone, these companies are looking around the market and it's like, well, Google's begging for more capacity from the whole supply chain.\" \"And without Jensen, can they maintain technology advantages given they're only a year ahead of their biggest competitors? It's not like the gap is massive.\" Video — https://nitter.kareem.one/CEOinterview/status/2121291797473468421#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121613402846204253#m",
+   "ts": 1794667027,
+   "id": "2121613402846204253#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -86,15 +95,6 @@
    "url": "https://nitter.kareem.one/TheCaptainEli/status/2121487543837294607#m",
    "ts": 1794637020,
    "id": "2121487543837294607#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "What's happening at Starbase, Texas is truly incredible. Deep in south Texas, Musk and his team have pulled in some of the most brilliant people on Earth to make space travel as normal and boring as air travel. The energy there is just insane. It feels like a modern day Manhattan project, but built for peace not war. The building pictured below is the actual factory where they build Starship, like a car factory for spaceships. You probably wouldn't have guessed it, since it looks like a nice office building. Most factories are cold and industrial but Starfactory feels warm, clean, with design touches that make you feel like you're in Silicon Valley. There's something really special happening here. I envy everyone who gets to work here and live here. Most people never get a chance to devote themselves to something so meaningful, something that potentially bends the river of human history. It kind of feels like a college town, except everyone's building spaceships instead of going to class.",
-   "url": "https://nitter.kareem.one/wholemars/status/2121485915444908456#m",
-   "ts": 1794636632,
-   "id": "2121485915444908456#m"
   },
   {
    "handle": "swyx",
@@ -304,15 +304,6 @@
    "id": "2121179614886449166#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Guten Morgen zusammen, heute vor elf Jahren, am 13. November 2015, verübten mehrere Attentäter im Namen des Islams, organisierte Anschläge in Paris. Der Horror dauerte über 4 Stunden und forderte 130 Todesopfer sowie knapp 700 Verletzte. Zuerst sprengte sich gegen 21.17 Uhr ein Selbstmordattentäter in der Nähe des Stadion Stade de France in die Luft und riss dabei einen Menschen mit in den Tod. Der Attentäter wollte eigentlich ins Stadion gelangen. Hier fand gerade ein Freundschaftsspiel zwischen der Deutschen und Französischen Fußballnationalmannschaft vor 80.000 Zuschauern statt. Sein Sprengstoffgürtel wurde jedoch von einem Sicherheitsmann entdeckt, worauf der Attentäter flüchtete. Ein weiterer Sprengstoffattentäter versuchte fast zeitglich ins Stadion zu gelangen, scheiterte ebenfalls und sprengte sich am Toreingang H in die Luft, zum Glück ohne weitere unschuldige Menschen mitzureißen. Beide Attentäter trugen einen gefälschten syrischen Pass mit sich, und beide sollen im Oktober als Flüchtlinge in Griechenland registriert worden sein. Da die Pässe gefälscht waren, ist die Identität der Beiden bis heute nicht bekannt. Beinah zeitgleich fuhr ein sogenanntes Hit-Team in einem Seat Leon vor eine Bar in einem Pariser Stadtteil. Sie feuerten dort mit Kalaschnikows auf die Gäste, die im Außenbereich saßen. Anschließend schossen sie auf Gäste eines gegenüberliegenden Restaurants. Insgesamt 15 Menschen verloren ihr Leben dort. Nach diesem Anschlag fuhren die Attentäter weiter, er",
-   "url": "https://nitter.kareem.one/YveK22/status/2121170139513049547#m",
-   "ts": 1794561345,
-   "id": "2121170139513049547#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -356,6 +347,15 @@
    "url": "https://nitter.kareem.one/GS_VCactivist/status/2121075777487970548#m",
    "ts": 1794538847,
    "id": "2121075777487970548#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "SemiAnalysis’s Dylan Patel says Google’s TPUs are just as good as Nvidia’s in his nightly benchmarks, and without Jensen’s wheeling and dealing Google could take a ton of share “It’s sort of a three-pronged strategy. One is you have to have the technical progress, and that keeps you winning. The second is that you have to have supply chain prowess, and Jensen’s the only executive in the semiconductor industry that is going out there and drinking and meeting and convincing all of these supply chain companies to invest like they’ve never done before, give him the allocations.” “Now if all of a sudden there’s no Jensen, and Google’s like, actually, double my allocation. The TPU, from our benchmarking, we test TPUs. We run benchmarks on them on open source models every night. They’re just as good as Nvidia. But Google doesn’t have that DNA of wheeling and dealing with the supply chain, wheeling and dealing with customers. Now if that DNA is gone, the thing that is Jensen is gone, does that now mean Google can just take a ton of share? It’s a real big possibility.” “Same with AMD. Technically, they’re awesome, but they’re just not able to wheel and deal like Jensen is able to. And that’s been a lot of the reason why they’ve been behind. Of course, the software as well. One of Nvidia’s biggest moats being CUDA, and software is being rapidly displaced by the fact that AI models are so good at writing software.” Video Fireside Alpha (@firesidealpha) Dylan Patel says Nvidia’s next CEO",
+   "url": "https://nitter.kareem.one/firesidealpha/status/2121070130935570607#m",
+   "ts": 1794537501,
+   "id": "2121070130935570607#m"
   },
   {
    "handle": "swyx",
