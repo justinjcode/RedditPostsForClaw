@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-11-14T19:16:36Z",
+ "generated_at": "2026-11-14T19:25:11Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -9,12 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@bcherny: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "openai dot now has a setting to just solve all captchas for the rest of time swyx (@swyx) lol what are we even doing here anymore guys — https://nitter.kareem.one/swyx/status/2084185368950456421#m",
+   "url": "https://nitter.kareem.one/swyx/status/2121681368224797014#m",
+   "ts": 1794683231,
+   "id": "2121681368224797014#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -428,15 +437,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2121062974161092792#m",
    "ts": 1794535795,
    "id": "2121062974161092792#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Quinn Slack ( @sqs ), Amp at #AIECode : the company of the future has code review, no PRs, no departments, and no roadmap. Video",
-   "url": "https://nitter.kareem.one/helloLizZhang/status/2121056582729699330#m",
-   "ts": 1794534271,
-   "id": "2121056582729699330#m"
   },
   {
    "handle": "swyx",
