@@ -1,9 +1,7 @@
 {
- "generated_at": "2026-11-14T16:55:20Z",
+ "generated_at": "2026-11-14T17:07:41Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,10 +9,21 @@
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed"
+  "@swyx: all instances failed",
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Yes, the green flame is caused by burning copper from depleting fuel in the regenerative cooling circuit and going oxygen-rich (closer to stoichiometric temperature) in the main combustion chamber. Slight underperformance of engines on this flight is the reason. The booster is meant to land with tiny residuals, so the solution is to improve engine performance and performance consistency (underway with Raptor V3.2), as well as adjust flight software to do MECO1 about one second earlier to ensure enough propellant for boostback and landing (tiny change). These early ships and boosters are already outdated by improved designs in production or on the test stand, so this booster loss does not change our timeline to reach high volume, fully reusable Starship flights.",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121648438144024943#m",
+   "ts": 1794675380,
+   "id": "2121648438144024943#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -203,15 +212,6 @@
    "url": "https://nitter.kareem.one/StateDept/status/2121378578939936844#m",
    "ts": 1794611041,
    "id": "2121378578939936844#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "SpaceX’s official 3D animation explaining Starship. 🚀 Video",
-   "url": "https://nitter.kareem.one/cb_doge/status/2121369567058674079#m",
-   "ts": 1794608892,
-   "id": "2121369567058674079#m"
   },
   {
    "handle": "elonmusk",
