@@ -1,15 +1,50 @@
 {
- "generated_at": "2026-11-14T00:19:41Z",
+ "generated_at": "2026-11-14T04:09:36Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
+  "MachineLearning",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "How I accidentally became a millionaire",
+   "url": "https://www.reddit.com/r/programming/comments/1xvr455/how_i_accidentally_became_a_millionaire/",
+   "ts": 1794623901,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Apache CVE-2026-119618 (CVSS 9.8, mod_http2 RCE): quick check + mitigation if your distro hasn't shipped 2.4.71 yet",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xvqi4i/apache_cve2026119618_cvss_98_mod_http2_rce_quick/",
+   "ts": 1794622060,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "A local Proxmox inventory check with a dedicated audit token",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xvq4ys/a_local_proxmox_inventory_check_with_a_dedicated/",
+   "ts": 1794620951,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Selfhosted Aircraft Control",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xvotr4/selfhosted_aircraft_control/",
+   "ts": 1794617071,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Back Propagation [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xvnob6/back_propagation_d/",
+   "ts": 1794613941,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "Uber’s Rate Limiting System",
@@ -78,13 +113,6 @@
    "title": "DeepSeek v4.1 Flash vs Qwen 3.8 Flash Next Performance",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvhzq9/deepseek_v41_flash_vs_qwen_38_flash_next/",
    "ts": 1794599877,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "minidlna not jpeg error",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xvht76/minidlna_not_jpeg_error/",
-   "ts": 1794599442,
    "source": "Reddit"
   },
   {
@@ -179,13 +207,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "NoteDiscovery 0.34.1, accent-insensitive search, MCP enhancements and a UI tweaks",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xvavdw/notediscovery_0341_accentinsensitive_search_mcp/",
-   "ts": 1794583870,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "CXMT almost tripling RAM production from 2025 to 2028",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvam8o/cxmt_almost_tripling_ram_production_from_2025_to/",
@@ -218,20 +239,6 @@
    "title": "6 years of selfhosting, hit with RAM corruption",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xv883c/6_years_of_selfhosting_hit_with_ram_corruption/",
    "ts": 1794577413,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "A leaderboard you can't fake: deterministic replay, sealed replays and a source check",
-   "url": "https://www.reddit.com/r/programming/comments/1xv6v71/a_leaderboard_you_cant_fake_deterministic_replay/",
-   "ts": 1794573733,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "plMail needs input on upcoming features.",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xv4zpz/plmail_needs_input_on_upcoming_features/",
-   "ts": 1794567789,
    "source": "Reddit"
   },
   {
@@ -344,13 +351,6 @@
    "title": "Jensen Huang's mistake was being too pro LocalAI, which was a threat to companies like ClosedAI and Anthropic which are about to go IPO",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xujb7c/jensen_huangs_mistake_was_being_too_pro_localai/",
    "ts": 1794505389,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Does Meta's brain-response model (TRIBE v2) actually recover retinotopy/tonotopy/motion maps? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xuillf/does_metas_brainresponse_model_tribe_v2_actually/",
-   "ts": 1794503806,
    "source": "Reddit"
   },
   {
