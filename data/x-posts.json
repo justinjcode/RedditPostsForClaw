@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-14T02:35:27Z",
+ "generated_at": "2026-11-14T02:45:30Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Altimeter and Atreides together hold more than $25B in assets. Elon and the founders of Uber, Shopify, Replit, and Vercel have all posted in support of Jensen’s reinstatement at @nvidia . So, this has only begun. Anti-Jensen board members will likely face escalating pressure from employees, shareholders, partners, and customers until they step down and reinstate Jensen Huang, who was after all the founder and CEO that built Nvidia into one of the most important companies in world history. Gavin Baker (@GavinSBaker) This letter was sent to Nvidia's board today. A first for @atreidesmgmt Absolutely share @altcap belief that this letter outlines minimum acceptable standards. — https://nitter.kareem.one/GavinSBaker/status/2121401397346521412#m",
+   "url": "https://nitter.kareem.one/balajis/status/2121412678409478247#m",
+   "ts": 1794619171,
+   "id": "2121412678409478247#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -185,15 +193,6 @@
    "url": "https://nitter.kareem.one/JuanPa/status/2121286664324845577#m",
    "ts": 1794589127,
    "id": "2121286664324845577#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Boca Chica Beach is not for sale, and SpaceX isn’t attempting to buy it. The beach is an important part of the Rio Grande Valley community, and SpaceX is investing substantial resources to preserve and improve it → spacex.com/updates#boca-chic…",
-   "url": "https://nitter.kareem.one/SpaceX/status/2121280048871473281#m",
-   "ts": 1794587549,
-   "id": "2121280048871473281#m"
   },
   {
    "handle": "swyx",
