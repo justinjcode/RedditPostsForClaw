@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-14T15:45:55Z",
+ "generated_at": "2026-11-14T15:55:17Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "bcherny",
   "elonmusk",
@@ -10,11 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Improvements to Grok @Bot efficiency Sam Sokolin (@SamSokolin) Shipped a few Grok Bot harness optimizations this week. You should get ~7% more usage out of your plan, and up to ~15% more on routine runs! Enjoy! — https://nitter.kareem.one/SamSokolin/status/2121303079803089179#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121628295234023654#m",
+   "ts": 1794670578,
+   "id": "2121628295234023654#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -113,15 +122,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2121502131056177514#m",
    "ts": 1794640498,
    "id": "2121502131056177514#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Future Starship flights will carry over 50 Tb/s of Starlink bandwidth to orbit Starlink (@Starlink) Today’s Starlink payload will add up to 26 Terabits of capacity to the constellation — https://nitter.kareem.one/Starlink/status/2121384634760220952#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121501324663832873#m",
-   "ts": 1794640306,
-   "id": "2121501324663832873#m"
   },
   {
    "handle": "elonmusk",
@@ -1510,9 +1510,9 @@
    "id": "2115491259381072269#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
    "text": "I think October represents another inflection point in capabilities for coding agents and the models that drive them: Claude Opus 5.5 can now build video games that are actually fun simonwillison.net/2026/Oct/2… Link The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents … simonwillison.net",
    "url": "https://nitter.kareem.one/simonw/status/2115444742595260551#m",
    "ts": 1793196304,
