@@ -1,20 +1,69 @@
 {
- "generated_at": "2026-11-14T18:09:30Z",
+ "generated_at": "2026-11-14T20:08:41Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "CUPS Server with Very Old Laptop",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xwazie/cups_server_with_very_old_laptop/",
+   "ts": 1794684406,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Update: tandem.cpp — DeepSeek-V4.1 on a 64 GB PC with a 16 GB card, and AMD (ROCm) support",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwan2j/update_tandemcpp_deepseekv41_on_a_64_gb_pc_with_a/",
+   "ts": 1794683565,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "What we learned operating auth for 1,000+ APIs",
+   "url": "https://www.reddit.com/r/programming/comments/1xwac98/what_we_learned_operating_auth_for_1000_apis/",
+   "ts": 1794682837,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Webmail client with notifications?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xw9rwf/webmail_client_with_notifications/",
+   "ts": 1794681454,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "nex-agi/Nex-N2.6 · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw9mpa/nexaginexn26_hugging_face/",
+   "ts": 1794681109,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Jensen thought he saved the world, 3 weeks later he resigned",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw9fsu/jensen_thought_he_saved_the_world_3_weeks_later/",
+   "ts": 1794680652,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "Designing payouts that never payout twice: timeouts, an \"Unknown\" state, and idempotency in cross-border payments",
    "url": "https://www.reddit.com/r/programming/comments/1xw8tdv/designing_payouts_that_never_payout_twice/",
    "ts": 1794679182,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "tiny-voca: a fully open 4.5M-parameter TTS (code, weights, dataset). Runs 70x real time on a CPU",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw7zrg/tinyvoca_a_fully_open_45mparameter_tts_code/",
+   "ts": 1794677173,
    "source": "Reddit"
   },
   {
@@ -53,10 +102,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Why a 27-byte fetch() response nobody reads freezes any Chromium or Electron page",
-   "url": "https://www.reddit.com/r/programming/comments/1xw4m58/why_a_27byte_fetch_response_nobody_reads_freezes/",
-   "ts": 1794668843,
+   "subreddit": "LocalLLaMA",
+   "title": "Why don’t we have national open AI models?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw4ue3/why_dont_we_have_national_open_ai_models/",
+   "ts": 1794669427,
    "source": "Reddit"
   },
   {
@@ -85,6 +134,13 @@
    "title": "Under the Hood: Serving Kimi K3 | DigitalOcean",
    "url": "https://www.reddit.com/r/programming/comments/1xw3jy7/under_the_hood_serving_kimi_k3_digitalocean/",
    "ts": 1794666079,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "The lawyer who posts here about his V100s got his story picked up by Tom’s Hardware",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw2ogq/the_lawyer_who_posts_here_about_his_v100s_got_his/",
+   "ts": 1794663672,
    "source": "Reddit"
   },
   {
@@ -130,17 +186,17 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "google calendar alternative (docker)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xw1h0o/google_calendar_alternative_docker/",
-   "ts": 1794660051,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "ICLR rebuttal [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xw19o8/iclr_rebuttal_r/",
    "ts": 1794659377,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "How long are we gonna depend bunch of model creators (like Qwen, Gemma, NVIDIA, etc.,) for ~100B models?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw0xeu/how_long_are_we_gonna_depend_bunch_of_model/",
+   "ts": 1794658250,
    "source": "Reddit"
   },
   {
@@ -179,31 +235,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Is anyone using decision models as a permission checker?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvxziy/is_anyone_using_decision_models_as_a_permission/",
-   "ts": 1794647368,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Can open-weight LLMs can predict the effects of weight edits without running the model (9B–30B)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvxyhj/can_openweight_llms_can_predict_the_effects_of/",
-   "ts": 1794647252,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Some Projects Need to Fail",
    "url": "https://www.reddit.com/r/programming/comments/1xvx0nl/some_projects_need_to_fail/",
    "ts": 1794643728,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "KittenML/kitten-tts-2-mini · Hugging Face - Text-to-Speech",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvw34k/kittenmlkittentts2mini_hugging_face_texttospeech/",
-   "ts": 1794640318,
    "source": "Reddit"
   },
   {
@@ -225,20 +260,6 @@
    "title": "ERNIE 5.5 Flash Base · ERNIE",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvuclv/ernie_55_flash_base_ernie/",
    "ts": 1794634284,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Crazy there's a probable connection between my desktop running Qwen 3.8 27B and a major geo-economic-political event",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvubha/crazy_theres_a_probable_connection_between_my/",
-   "ts": 1794634177,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "salesforce-sovereign-intelligence/SOV-Transcribe-1 · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvst4u/salesforcesovereignintelligencesovtranscribe1/",
-   "ts": 1794629206,
    "source": "Reddit"
   },
   {
@@ -326,13 +347,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Weight Space Programming for Quantization: Nace quants achieve up to 2x better KL divergence for Qwen 9B, 27B, 35B & Flash Next [GGUF]",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvh4ag/weight_space_programming_for_quantization_nace/",
-   "ts": 1794597834,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "MusixMatch threatens navidrome-musixmatch-plugin",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xvd79u/musixmatch_threatens_navidromemusixmatchplugin/",
@@ -344,13 +358,6 @@
    "title": "Scaling to 1T MoE on TorchTitan [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xvce5h/scaling_to_1t_moe_on_torchtitan_p/",
    "ts": 1794587316,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Look what my son gave me!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbcfp/look_what_my_son_gave_me/",
-   "ts": 1794584967,
    "source": "Reddit"
   },
   {
@@ -372,13 +379,6 @@
    "title": "Formatting an entire 25 million line codebase overnight: the rubyfmt story",
    "url": "https://www.reddit.com/r/programming/comments/1xv8oe9/formatting_an_entire_25_million_line_codebase/",
    "ts": 1794578537,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "6 years of selfhosting, hit with RAM corruption",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xv883c/6_years_of_selfhosting_hit_with_ram_corruption/",
-   "ts": 1794577413,
    "source": "Reddit"
   },
   {
