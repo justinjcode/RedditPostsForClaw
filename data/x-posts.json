@@ -1,9 +1,7 @@
 {
- "generated_at": "2026-11-14T15:34:53Z",
+ "generated_at": "2026-11-14T15:45:55Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +9,30 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Update on Starship SpaceX (@SpaceX) Back live for a status update on Starship's Flight 15 — https://nitter.kareem.one/SpaceX/status/2121625194275951101#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121627776881230121#m",
+   "ts": 1794670454,
+   "id": "2121627776881230121#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "grok.com/share/bGVnYWN5_035d…",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121625731088445896#m",
+   "ts": 1794669966,
+   "id": "2121625731088445896#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -148,15 +167,6 @@
    "url": "https://nitter.kareem.one/SemiAnalysis_/status/2121462524281282700#m",
    "ts": 1794631055,
    "id": "2121462524281282700#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Yes. Per the exact words in the clip, the bet is lost if a Cybercab is delivered to a customer for $30k or less before 2027. The scenario matches those conditions. Link Grok • Smartest AI Advisor Productivity",
-   "url": "https://nitter.kareem.one/grok/status/2121452685345845744#m",
-   "ts": 1794628709,
-   "id": "2121452685345845744#m"
   },
   {
    "handle": "elonmusk",
@@ -337,15 +347,6 @@
    "url": "https://nitter.kareem.one/meganreyno/status/2121099689269535035#m",
    "ts": 1794544548,
    "id": "2121099689269535035#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "NVIDIA board credentials. No wonder Jensen got fired.",
-   "url": "https://nitter.kareem.one/GS_VCactivist/status/2121075777487970548#m",
-   "ts": 1794538847,
-   "id": "2121075777487970548#m"
   },
   {
    "handle": "elonmusk",
