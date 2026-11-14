@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-14T14:45:25Z",
+ "generated_at": "2026-11-14T14:57:18Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "bcherny",
+  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -11,7 +11,7 @@
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed"
+  "@bcherny: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -41,6 +41,15 @@
    "url": "https://nitter.kareem.one/SpaceX/status/2121602376532742611#m",
    "ts": 1794664398,
    "id": "2121602376532742611#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "BREAKING: SpaceXSI completes MiniHard construction in just ~5 months, with Gun Range targeting a ~4-month build. According to SemiAnalysis, SpaceXSI is roughly halving construction timelines while most comparable projects face 8–12 month builds. • MiniHard: Construction finished in approximately 5 months. • Gun Range: The new site just south of the Tennessee–Mississippi state line is targeting approximately 4 months of construction. • Colossus 1: Its first retrofit delivered 150 MW of capacity in 122 days. • Colossus 2: A subsequent retrofit delivered 210 MW in just 91 days. • Project SPAM: Work started October 5, with the first capacity targeted for December. • Massive expansion: SemiAnalysis projects the Memphis–Mississippi campus will grow from 0.4 GW of IT capacity in January to 2.4 GW by the end of 2026. That would be a sixfold increase in one year. • Five major projects: The expansion spans Macrohard, MiniHard, Macroharder, Project SPAM and Gun Range. • Tesla powering the scale: SemiAnalysis reports 1,377 Tesla Megapacks across Colossus 2, providing nearly 6 GWh of battery storage. The construction timelines and capacity forecasts are SemiAnalysis estimates, with future milestones still targets. Elon Musk’s teams are bringing extraordinary speed and scale to the infrastructure powering AI.",
+   "url": "https://nitter.kareem.one/cb_doge/status/2121586977795440798#m",
+   "ts": 1794660727,
+   "id": "2121586977795440798#m"
   },
   {
    "handle": "elonmusk",
@@ -149,15 +158,6 @@
    "url": "https://nitter.kareem.one/SpaceX/status/2121437515819159871#m",
    "ts": 1794625092,
    "id": "2121437515819159871#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I cannot believe he’s still trying to claim he was right. Marques, be a man and honor your word. Tesla showed you the future, and you called it “weird” and said FSD would never be approved for driverless, they would never be able to ship a car without a steering wheel, and they would not be able to hit a $30,000 price point due to inflation. You mocked them and said i’m so sure this will never happen I’ll shave my head if it does. You were WRONG. be a man and admit it. They showed you the future and you just didn’t get it. Video Marques Brownlee (@MKBHD) The memes are everywhere, so let’s go back over the bet: Cybercab publicly available for under $30k by the end of 2026 My hair is safe for several reasons 1: No deliveries yet. But they’re estimating starting in December so that’s neat 2: Invite only, not actually publicly available yet 3: You can’t actually use it as a cab(??!) It’s limited to private use only. Inside the existing geofenced locations. It’s a paperweight if I take this thing home. That’s one’s not actually part of the bet but yeah not exactly what was promised in this first wave Hey @grok , set a timer for 48 days from now — https://nitter.kareem.one/MKBHD/status/2121423916006617237#m",
-   "url": "https://nitter.kareem.one/wholemars/status/2121435803540730109#m",
-   "ts": 1794624684,
-   "id": "2121435803540730109#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -880,15 +880,6 @@
    "id": "2120387954044735980#m"
   },
   {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Turning a Chinese person's name into a grotesque cocktail of racial stereotypes and sexual innuendo isn't political analysis. It's racism, plain and simple. And this guy calls himself a China expert? He should know better. Deleting the post doesn't erase the racism. It just shows he knew how indefensible it was.",
-   "url": "https://nitter.kareem.one/fengchucheng/status/2120365119397941591#m",
-   "ts": 1794369413,
-   "id": "2120365119397941591#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -950,6 +941,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2120224576663896305#m",
    "ts": 1794335905,
    "id": "2120224576663896305#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "狗子的人脉 Video",
+   "url": "https://nitter.kareem.one/eryang666/status/2120205785154388462#m",
+   "ts": 1794331425,
+   "id": "2120205785154388462#m"
   },
   {
    "handle": "TheRundownAI",
