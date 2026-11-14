@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-14T14:57:18Z",
+ "generated_at": "2026-11-14T15:08:12Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
-  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -11,7 +10,8 @@
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed"
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -32,6 +32,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2121611711278981147#m",
    "ts": 1794666624,
    "id": "2121611711278981147#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "I placed a camera right next to the launch pad to capture starship’s liftoff in slow motion. Can you spot the moon? Video",
+   "url": "https://nitter.kareem.one/AJamesMcCarthy/status/2121608679837368375#m",
+   "ts": 1794665901,
+   "id": "2121608679837368375#m"
   },
   {
    "handle": "elonmusk",
@@ -185,15 +194,6 @@
    "url": "https://nitter.kareem.one/cb_doge/status/2121369567058674079#m",
    "ts": 1794608892,
    "id": "2121369567058674079#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Je viens de regarder mon passage dans Quotidien. Évidemment, je suis qualifié d’« influenceur entrepreneur d’extrême droite ». Déroulons. Je ne sais pas si vous vous rendez compte à quel point le peuple français vous méprise. Vous êtes tellement déconnectés du réel que, dans votre petit monde, vous êtes persuadés d’avoir le monopole du bon sens. Alors je vais vous dire ce que vous êtes vraiment. Mais avant, je vais vous dire d’où je parle. Je suis breton. J’ai grandi dans un système scolaire profondément cassé. La majorité de mes profs étaient de gauche, et la plupart étaient déprimés. Pas méchants. Déprimés. Ils ne transmettaient qu’une chose : la conviction que le monde est injuste, que l’effort ne paie pas, et que demain sera pire qu’hier. Ce qui m’a sauvé, c’est d’avoir appris seul. J’ai commencé à coder à 12 ans. À 15 ans, j’avais créé un jeu qui me rapportait plus que le salaire de mes profs. Personne ne m’a donné la permission. Personne ne m’a subventionné. J’ai construit, des gens ont joué, j’ai été payé. La leçon d’économie la plus honnête de ma vie. Ensuite j’ai travaillé dans la tech, j’ai vécu dans la Silicon Valley, j’ai construit pas mal de choses. Et j’ai étudié l’économie par moi-même. Pas pour un diplôme. Pour comprendre comment le monde fonctionne vraiment. Et surtout, j’ai eu une chance que vous n’aurez jamais. J’ai été connecté, et je le suis encore, aux deux extrémités de la société. D’un côté, les couches les plus modestes, celles que vous prétendez prot",
-   "url": "https://nitter.kareem.one/brivael/status/2121368078080782619#m",
-   "ts": 1794608537,
-   "id": "2121368078080782619#m"
   },
   {
    "handle": "elonmusk",
