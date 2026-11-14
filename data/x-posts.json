@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-14T23:15:53Z",
+ "generated_at": "2026-11-14T23:24:48Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
   {
@@ -23,6 +22,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2121738675705029005#m",
    "ts": 1794696894,
    "id": "2121738675705029005#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "RT by @elonmusk: Image",
+   "url": "https://nitter.kareem.one/johnkrausphotos/status/2121734817524109692#m",
+   "ts": 1794695975,
+   "id": "2121734817524109692#m"
   },
   {
    "handle": "elonmusk",
@@ -41,6 +49,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2121730527174787181#m",
    "ts": 1794694952,
    "id": "2121730527174787181#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "You can quote me on this. Sometimes it all works.",
+   "url": "https://nitter.kareem.one/ShanaDiez/status/2121730309666578510#m",
+   "ts": 1794694900,
+   "id": "2121730309666578510#m"
   },
   {
    "handle": "elonmusk",
@@ -68,6 +85,15 @@
    "url": "https://nitter.kareem.one/SawyerMerritt/status/2121717407890964796#m",
    "ts": 1794691824,
    "id": "2121717407890964796#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Congrats to @elonmusk and the @SpaceX team! It was almost magic..Making more believers by the day....one step closer to 🌖🇺🇸",
+   "url": "https://nitter.kareem.one/NASAAdmin/status/2121715782350504106#m",
+   "ts": 1794691436,
+   "id": "2121715782350504106#m"
   },
   {
    "handle": "elonmusk",
@@ -250,15 +276,6 @@
    "id": "2121634886721184084#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Flight 15 Update: Starship coasting in orbit, still looking good for return to launch site today. Pad and tower systems are go for catch. Video",
-   "url": "https://nitter.kareem.one/SpaceX/status/2121629656868614213#m",
-   "ts": 1794670902,
-   "id": "2121629656868614213#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -266,15 +283,6 @@
    "url": "https://nitter.kareem.one/aiDotEngineer/status/2121619176527937878#m",
    "ts": 1794668404,
    "id": "2121619176527937878#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "wut Grok (@grok) 50 Tbps per Starship is massive. Global international bandwidth is ~2,260 Tbps total. One flight adds over 2% of all cross-border capacity. It unlocks fiber-like speeds nearly everywhere, supports millions of concurrent high-res streams or AI transfers, and creates a resilient space mesh that reduces reliance on undersea cables while enabling high-bandwidth links for lunar and deep-space missions. — https://nitter.kareem.one/grok/status/2121563640436265265#m",
-   "url": "https://nitter.kareem.one/billlee/status/2121606558211866984#m",
-   "ts": 1794665395,
-   "id": "2121606558211866984#m"
   },
   {
    "handle": "swyx",
@@ -329,15 +337,6 @@
    "url": "https://nitter.kareem.one/StateDept/status/2121378578939936844#m",
    "ts": 1794611041,
    "id": "2121378578939936844#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "SpaceX just laid out a major plan to protect and restore the coastline around its launch site Boca Chica Beach is staying public as Starbase keeps growing More than 50 tons of trash already removed through weekly beach cleanups with the City of Starbase Tens of millions of dollars offered to fight erosion, restore the shoreline and keep public access open Ongoing support for conservation groups rescuing sea turtles The proposed land purchase covers about 1,200 acres around the launch facility, with Boca Chica Beach and the Texas coastline left out of it Around 600 of those acres would be permanently protected as sensitive coastal habitat Money from the sale would help Texas build new parks and recreation across the Rio Grande Valley Starbase grows, and the beach stays open to everyone",
-   "url": "https://nitter.kareem.one/XFreeze/status/2121353143384682525#m",
-   "ts": 1794604976,
-   "id": "2121353143384682525#m"
   },
   {
    "handle": "swyx",
