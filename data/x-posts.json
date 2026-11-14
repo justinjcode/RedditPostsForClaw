@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-14T13:45:36Z",
+ "generated_at": "2026-11-14T13:56:08Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
-  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -11,10 +10,20 @@
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed"
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Made with @neuralink . Some live in the future already. Kenneth Shock (@Cyborg21) It's here. Claudia's \"ALLOW ALWAYS\" world premiere. Made by a guy with ALS, a brain implant, and too many AI friends. 😂 Video — https://nitter.kareem.one/Cyborg21/status/2117044016621748292#m",
+   "url": "https://nitter.kareem.one/Scobleizer/status/2121548642805026939#m",
+   "ts": 1794651587,
+   "id": "2121548642805026939#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -64,15 +73,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "So far, so good for the ship SpaceX (@SpaceX) Starship and its heatshield are healthy as the vehicle continues to orbit Earth after a spectacular start to its mission nearly 7 hours ago. Teams are continuing to monitor systems ahead of a planned return to launch site catch at Starbase ~22.5 hours after launch Video — https://nitter.kareem.one/SpaceX/status/2121479482582441991#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121489252072693925#m",
-   "ts": 1794637427,
-   "id": "2121489252072693925#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Zambia has started connecting 751 health facilities across all 10 provinces with Starlink, and the first 90 kits went to Western Province. There's something poetic about where they started. Every year at the end of the rainy season the upper Zambezi floods the Barotse plain, and for centuries the Lozi king has left his compound at Lealui by royal barge and moved to higher ground at Limulunga. The ceremony is called Kuomboka. In Lozi it means \"to get out of water.\" Now picture running fiber or building towers across land that turns into a lake for part of every year. A Starlink dish only needs a clear view of the sky, so the water below stops being the problem. In March 2020, months before Starlink had its first beta users, Elon Musk said it would serve the 3 or 4 percent hardest-to-reach customers, people with no connectivity or really bad connectivity. Six years later, with funding from the Global Fund through Zambia's Ministry of Health, clinics on one of Africa's great floodplains are being brought into the country's electronic health systems from orbit.",
    "url": "https://nitter.kareem.one/TheCaptainEli/status/2121487543837294607#m",
    "ts": 1794637020,
@@ -95,15 +95,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2121473082372292885#m",
    "ts": 1794633572,
    "id": "2121473082372292885#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Prometheus unbound Video",
-   "url": "https://nitter.kareem.one/AtelierMissor_/status/2121469429464670376#m",
-   "ts": 1794632701,
-   "id": "2121469429464670376#m"
   },
   {
    "handle": "swyx",
@@ -1436,6 +1427,15 @@
    "url": "https://nitter.kareem.one/simonw/status/2117337139633607167#m",
    "ts": 1793647486,
    "id": "2117337139633607167#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "It's here. Claudia's \"ALLOW ALWAYS\" world premiere. Made by a guy with ALS, a brain implant, and too many AI friends. 😂 Video",
+   "url": "https://nitter.kareem.one/Cyborg21/status/2117044016621748292#m",
+   "ts": 1793577600,
+   "id": "2117044016621748292#m"
   },
   {
    "handle": "bcherny",
