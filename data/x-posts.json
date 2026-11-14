@@ -1,20 +1,38 @@
 {
- "generated_at": "2026-11-14T20:26:33Z",
+ "generated_at": "2026-11-14T20:38:19Z",
  "accounts_ok": [
-  "TheRundownAI",
+  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
  "errors": [
+  "@swyx: all instances failed",
   "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@TheRundownAI: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Good deorbit burn. Landing burn in 53 minutes. nitterk.kareem.one/i/broadcasts/2brajgZlO… Link SpaceX Starship Flight 15 https://nitter.kareem.one/i/broadcasts/2brajgZlOKRMka",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121701421183853007#m",
+   "ts": 1794688012,
+   "id": "2121701421183853007#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starship deorbit burn in 30 seconds",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121700409173487768#m",
+   "ts": 1794687771,
+   "id": "2121700409173487768#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -226,28 +244,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "I placed a camera right next to the launch pad to capture starship’s liftoff in slow motion. Can you spot the moon? Video",
-   "url": "https://nitter.kareem.one/AJamesMcCarthy/status/2121608679837368375#m",
-   "ts": 1794665901,
-   "id": "2121608679837368375#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "wut Grok (@grok) 50 Tbps per Starship is massive. Global international bandwidth is ~2,260 Tbps total. One flight adds over 2% of all cross-border capacity. It unlocks fiber-like speeds nearly everywhere, supports millions of concurrent high-res streams or AI transfers, and creates a resilient space mesh that reduces reliance on undersea cables while enabling high-bandwidth links for lunar and deep-space missions. — https://nitter.kareem.one/grok/status/2121563640436265265#m",
    "url": "https://nitter.kareem.one/billlee/status/2121606558211866984#m",
    "ts": 1794665395,
    "id": "2121606558211866984#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "BREAKING: SpaceXSI completes MiniHard construction in just ~5 months, with Gun Range targeting a ~4-month build. According to SemiAnalysis, SpaceXSI is roughly halving construction timelines while most comparable projects face 8–12 month builds. • MiniHard: Construction finished in approximately 5 months. • Gun Range: The new site just south of the Tennessee–Mississippi state line is targeting approximately 4 months of construction. • Colossus 1: Its first retrofit delivered 150 MW of capacity in 122 days. • Colossus 2: A subsequent retrofit delivered 210 MW in just 91 days. • Project SPAM: Work started October 5, with the first capacity targeted for December. • Massive expansion: SemiAnalysis projects the Memphis–Mississippi campus will grow from 0.4 GW of IT capacity in January to 2.4 GW by the end of 2026. That would be a sixfold increase in one year. • Five major projects: The expansion spans Macrohard, MiniHard, Macroharder, Project SPAM and Gun Range. • Tesla powering the scale: SemiAnalysis reports 1,377 Tesla Megapacks across Colossus 2, providing nearly 6 GWh of battery storage. The construction timelines and capacity forecasts are SemiAnalysis estimates, with future milestones still targets. Elon Musk’s teams are bringing extraordinary speed and scale to the infrastructure powering AI.",
-   "url": "https://nitter.kareem.one/cb_doge/status/2121586977795440798#m",
-   "ts": 1794660727,
-   "id": "2121586977795440798#m"
   },
   {
    "handle": "swyx",
