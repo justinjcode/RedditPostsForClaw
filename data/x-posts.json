@@ -1,6 +1,9 @@
 {
- "generated_at": "2026-11-14T18:20:32Z",
+ "generated_at": "2026-11-14T18:27:11Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -8,13 +11,36 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Actually, just looked closer and noticed that Tom, Gwynne and a few others aren’t in this particular picture, but they were certainly part of the company in those days",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121669169925996567#m",
+   "ts": 1794680323,
+   "id": "2121669169925996567#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "True, that pic shows everyone in the entire company of SpaceX in 2002! Tom Mueller ( @lrocket ) and Hans Koenigsmann, both amazing, world-class engineers, came by Mission Control last night. Good to see old friends ❤️ DogeDesigner (@cb_doge) How it started v/s How it's going — https://nitter.kareem.one/cb_doge/status/2121565736267293173#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121668709064282507#m",
+   "ts": 1794680213,
+   "id": "2121668709064282507#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "taking day 1 view count predictions for the @poteto talk launching in 30 mins inv.kareem.one/O_zcc6Xl12g hit the bell etc swyx (@swyx) 500k views in 2.5 days. @lydiahallie is on track to hit 1m in the fastest pace in aie history — https://nitter.kareem.one/swyx/status/2121661230259839408#m",
+   "url": "https://nitter.kareem.one/aiDotEngineer/status/2121664913450189049#m",
+   "ts": 1794679308,
+   "id": "2121664913450189049#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -145,15 +171,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Starship is currently completing 14 orbits of Earth, before initiating deorbit and attempting to land in Starbase SpaceX (@SpaceX) Starship in orbit over Africa Video — https://nitter.kareem.one/SpaceX/status/2121602376532742611#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121611711278981147#m",
-   "ts": 1794666624,
-   "id": "2121611711278981147#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "I placed a camera right next to the launch pad to capture starship’s liftoff in slow motion. Can you spot the moon? Video",
    "url": "https://nitter.kareem.one/AJamesMcCarthy/status/2121608679837368375#m",
    "ts": 1794665901,
@@ -244,19 +261,19 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "I remember the friends who were still there when I was down. Not the ones who liked me when things were easy. Elon said it last year: if someone's still supporting you when the chips are down, that's a friend. Today he's signing the petition to bring Jensen back. That's the test. Video Elon Musk (@elonmusk) A petition is underway to reinstate Jensen and I’m signing it too — https://nitter.kareem.one/elonmusk/status/2121345211959804234#m",
-   "url": "https://nitter.kareem.one/benitoz/status/2121358030747078974#m",
-   "ts": 1794606142,
-   "id": "2121358030747078974#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "SpaceX just laid out a major plan to protect and restore the coastline around its launch site Boca Chica Beach is staying public as Starbase keeps growing More than 50 tons of trash already removed through weekly beach cleanups with the City of Starbase Tens of millions of dollars offered to fight erosion, restore the shoreline and keep public access open Ongoing support for conservation groups rescuing sea turtles The proposed land purchase covers about 1,200 acres around the launch facility, with Boca Chica Beach and the Texas coastline left out of it Around 600 of those acres would be permanently protected as sensitive coastal habitat Money from the sale would help Texas build new parks and recreation across the Rio Grande Valley Starbase grows, and the beach stays open to everyone",
    "url": "https://nitter.kareem.one/XFreeze/status/2121353143384682525#m",
    "ts": 1794604976,
    "id": "2121353143384682525#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "The No Slop [in software] Manifesto is fantastic. slopmanifesto.com/",
+   "url": "https://nitter.kareem.one/Swizec/status/2121327536017965321#m",
+   "ts": 1794598871,
+   "id": "2121327536017965321#m"
   },
   {
    "handle": "swyx",
@@ -448,15 +465,6 @@
    "id": "2121054096031731840#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "This workflow is gold. I’ve been working on improving all my agents, and the quality of work they do. @dexhorthy made an amazing presentation, and I will be implementing all of this into my workflow",
-   "url": "https://nitter.kareem.one/calebhowell437/status/2121051174967410948#m",
-   "ts": 1794532981,
-   "id": "2121051174967410948#m"
-  },
-  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -590,15 +598,6 @@
    "url": "https://nitter.kareem.one/AMD/status/2120936758669906296#m",
    "ts": 1794505703,
    "id": "2120936758669906296#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "A lot of developers I talk to, they're like, I still use dangerously skip permissions. I'm like, no, please. Video",
-   "url": "https://nitter.kareem.one/RayFernando1337/status/2120910068010905742#m",
-   "ts": 1794499339,
-   "id": "2120910068010905742#m"
   },
   {
    "handle": "TheRundownAI",
