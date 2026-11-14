@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-14T22:25:43Z",
+ "generated_at": "2026-11-14T22:36:22Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -11,10 +10,20 @@
   "thsottiaux"
  ],
  "errors": [
+  "@bcherny: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "if you're in SF, i have 3 spare tix for our matinee show, just show up to odc theater now and drop my name 2.30pm doors open 3pm starts Maz (@0xmaz_) Pretty cool in San Francisco you can watch @swyx perform musical theater for a cool 34 bucks !!! Link to tickets below Video — https://nitter.kareem.one/0xmaz_/status/2121469001553555648#m",
+   "url": "https://nitter.kareem.one/swyx/status/2121730527174787181#m",
+   "ts": 1794694952,
+   "id": "2121730527174787181#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -32,6 +41,15 @@
    "url": "https://nitter.kareem.one/johnkrausphotos/status/2121719372339454408#m",
    "ts": 1794692292,
    "id": "2121719372339454408#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "You're not gonna believe this, but @SpaceX caught their Starship rocket at 4:20 PM ET 😂 Video",
+   "url": "https://nitter.kareem.one/SawyerMerritt/status/2121717407890964796#m",
+   "ts": 1794691824,
+   "id": "2121717407890964796#m"
   },
   {
    "handle": "elonmusk",
@@ -230,15 +248,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2121628295234023654#m",
    "ts": 1794670578,
    "id": "2121628295234023654#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Update on Starship SpaceX (@SpaceX) Back live for a status update on Starship's Flight 15 — https://nitter.kareem.one/SpaceX/status/2121625194275951101#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121627776881230121#m",
-   "ts": 1794670454,
-   "id": "2121627776881230121#m"
   },
   {
    "handle": "swyx",
@@ -464,15 +473,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2121062974161092792#m",
    "ts": 1794535795,
    "id": "2121062974161092792#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "thank you to everyone who came by the booth and Devin lounge for AIE code summit! looking forward to the next one and seeing everyone again soon 🫶",
-   "url": "https://nitter.kareem.one/mattbergland/status/2121055775229665610#m",
-   "ts": 1794534078,
-   "id": "2121055775229665610#m"
   },
   {
    "handle": "swyx",
