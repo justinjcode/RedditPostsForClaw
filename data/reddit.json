@@ -1,15 +1,29 @@
 {
- "generated_at": "2026-11-13T22:08:27Z",
+ "generated_at": "2026-11-14T00:19:41Z",
  "count": 60,
  "subreddits_ok": [
-  "MachineLearning",
+  "LocalLLaMA",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "Uber’s Rate Limiting System",
+   "url": "https://www.reddit.com/r/programming/comments/1xvmjn4/ubers_rate_limiting_system/",
+   "ts": 1794610885,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "PSA: your nginx hardening config is probably disabling post-quantum TLS",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xvlk8m/psa_your_nginx_hardening_config_is_probably/",
+   "ts": 1794608375,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "TaskView v1.58.2 - Massive Update! + Realtime updates + UI + Calendar + Attachments",
@@ -60,10 +74,24 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "DeepSeek v4.1 Flash vs Qwen 3.8 Flash Next Performance",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvhzq9/deepseek_v41_flash_vs_qwen_38_flash_next/",
+   "ts": 1794599877,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
    "title": "minidlna not jpeg error",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xvht76/minidlna_not_jpeg_error/",
    "ts": 1794599442,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Weight Space Programming for Quantization: Nace quants achieve up to 2x better KL divergence for Qwen 9B, 27B, 35B & Flash Next [GGUF]",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvh4ag/weight_space_programming_for_quantization_nace/",
+   "ts": 1794597834,
    "source": "Reddit"
   },
   {
@@ -81,13 +109,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Event Sourcing: great in theory, but what about in production?",
-   "url": "https://www.reddit.com/r/programming/comments/1xvg5vu/event_sourcing_great_in_theory_but_what_about_in/",
-   "ts": 1794595698,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "m3u4me got an UI overhaul: v3 Update",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xvdmn5/m3u4me_got_an_ui_overhaul_v3_update/",
@@ -102,10 +123,31 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "DeepSeek flash max is the first model to reach >1% on challenging SWE-sweep bug finding benchmark",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvcgxq/deepseek_flash_max_is_the_first_model_to_reach_1/",
+   "ts": 1794587507,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "MachineLearning",
    "title": "Scaling to 1T MoE on TorchTitan [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xvce5h/scaling_to_1t_moe_on_torchtitan_p/",
    "ts": 1794587316,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvcbbh/nvidia_privately_confirmed_it_could_track_chips/",
+   "ts": 1794587131,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "I noticed the 2 Hessian Refinement of MACaQ can be applied to any GGUF without any patches ... and tried it. 13% better quants",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbqqa/i_noticed_the_2_hessian_refinement_of_macaq_can/",
+   "ts": 1794585836,
    "source": "Reddit"
   },
   {
@@ -120,6 +162,13 @@
    "title": "trying to know when something at home goes down before anyone notices, self hosted options",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xvbj9n/trying_to_know_when_something_at_home_goes_down/",
    "ts": 1794585423,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "e-means: 10x faster k-means at equal loss",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbith/emeans_10x_faster_kmeans_at_equal_loss/",
+   "ts": 1794585397,
    "source": "Reddit"
   },
   {
@@ -172,24 +221,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Perplexity releases Decider v1.3 (26B) and Decider Flash v1.3 (5B): open-weight (Apache 2.0) classification/decision models",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv7fku/perplexity_releases_decider_v13_26b_and_decider/",
-   "ts": 1794575290,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "A leaderboard you can't fake: deterministic replay, sealed replays and a source check",
    "url": "https://www.reddit.com/r/programming/comments/1xv6v71/a_leaderboard_you_cant_fake_deterministic_replay/",
    "ts": 1794573733,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "I trained DiffusionGemma to be an abstract expressionist",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv5svo/i_trained_diffusiongemma_to_be_an_abstract/",
-   "ts": 1794570517,
    "source": "Reddit"
   },
   {
@@ -214,13 +249,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Google is asking",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv2e0a/google_is_asking/",
-   "ts": 1794558028,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Steadfast Update I - The Baseline",
    "url": "https://www.reddit.com/r/programming/comments/1xv1mjg/steadfast_update_i_the_baseline/",
@@ -232,13 +260,6 @@
    "title": "exploit a 22 years old PostgreSQL composite-type vulnerability",
    "url": "https://www.reddit.com/r/programming/comments/1xv1i5m/exploit_a_22_years_old_postgresql_compositetype/",
    "ts": 1794554718,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "DNS-collector v3.3.7 is out!",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xv1hv2/dnscollector_v337_is_out/",
-   "ts": 1794554684,
    "source": "Reddit"
   },
   {
@@ -260,20 +281,6 @@
    "title": "‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuxxmb/bring_back_the_boss_nvidia_employees_petition_for/",
    "ts": 1794542608,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "A100 prices down 20-30% since my post about them collapsing",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuxbeb/a100_prices_down_2030_since_my_post_about_them/",
-   "ts": 1794540692,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "US intel isn’t sure if businesswoman spied on Nvidia for China, doesn’t mean she wasn’t a risk, sources say",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuwf9w/us_intel_isnt_sure_if_businesswoman_spied_on/",
-   "ts": 1794538067,
    "source": "Reddit"
   },
   {
@@ -330,13 +337,6 @@
    "title": "Creating author burdens to reduce paper submissions is STUPID [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xul9u7/creating_author_burdens_to_reduce_paper/",
    "ts": 1794509713,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "So this will be true in couple of years?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xukt9t/so_this_will_be_true_in_couple_of_years/",
-   "ts": 1794508697,
    "source": "Reddit"
   },
   {
