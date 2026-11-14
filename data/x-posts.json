@@ -1,9 +1,7 @@
 {
- "generated_at": "2026-11-13T23:55:48Z",
+ "generated_at": "2026-11-14T00:16:14Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +9,10 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 177,
  "items": [
   {
@@ -103,6 +104,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2121316611974185273#m",
    "ts": 1794596267,
    "id": "2121316611974185273#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "BREAKING: Indian telecom giant Airtel’s Chairman, Sunil Bharti Mittal, praised Elon Musk’s “mind-boggling” achievements, says Starlink V3 is pushing the limits of physics. “I have to acknowledge what he has done is mind-boggling, @elonmusk . His compute or his connectivity capacity in the space has gone manifold, and it’s happened in the last four or five years under our watch. So the last launch that he made on Starship, the satellites he put up, the V3, they have a capacity of as much as the entire OneWeb capacity. So at one Tbps capacity in a single launch means he’s trying to push, if not break, through the laws of physics, which means a lot of connectivity is going to come from space, and the terrestrial industry needs to be prepared for that.” Video",
+   "url": "https://nitter.kareem.one/cb_doge/status/2121299443450515494#m",
+   "ts": 1794592173,
+   "id": "2121299443450515494#m"
   },
   {
    "handle": "swyx",
@@ -229,15 +239,6 @@
    "url": "https://nitter.kareem.one/justinbieber/status/2121251707393024486#m",
    "ts": 1794580792,
    "id": "2121251707393024486#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Hmm Tim Sweeney (@TimSweeneyEpic) What?! So journalists with sketchy motives portrayed rumors from god-knows-who (lobbyists?) as facts sourced from intelligence officials and gaslit the NVIDIA board to push out the founder, CEO, and once-in-generation visionary? This raises serious corporate governance issues. — https://nitter.kareem.one/TimSweeneyEpic/status/2121083415487205652#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121250804447445203#m",
-   "ts": 1794580577,
-   "id": "2121250804447445203#m"
   },
   {
    "handle": "elonmusk",
