@@ -1,9 +1,6 @@
 {
- "generated_at": "2026-11-14T23:44:25Z",
+ "generated_at": "2026-11-14T23:56:07Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +8,11 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 178,
  "items": [
   {
@@ -24,6 +25,15 @@
    "id": "2121746382402797892#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "“Physics is the law. Everything else is a recommendation.” @elonmusk told me that at DealBook in 2023. Today, SpaceX caught Starship after 14 orbits of Earth. Plenty doubted it was possible. Just extraordinary. @SpaceX . Video",
+   "url": "https://nitter.kareem.one/andrewrsorkin/status/2121745318618571231#m",
+   "ts": 1794698478,
+   "id": "2121745318618571231#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -31,6 +41,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2121738675705029005#m",
    "ts": 1794696894,
    "id": "2121738675705029005#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "On Friday, November 13, Starship lifted off from Starbase, Texas on its 15th flight. On Saturday, November 14, Starship returned to Starbase, Texas, and changed everything → spacex.com/launches/starship…",
+   "url": "https://nitter.kareem.one/SpaceX/status/2121738348804857963#m",
+   "ts": 1794696817,
+   "id": "2121738348804857963#m"
   },
   {
    "handle": "elonmusk",
@@ -85,6 +104,15 @@
    "url": "https://nitter.kareem.one/johnkrausphotos/status/2121719372339454408#m",
    "ts": 1794692292,
    "id": "2121719372339454408#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "it feels great to be an american. it feels fucking great to be an american will depue (@willdepue) THEY FUCKING DID IT. THEY FUCKING DID IT. OH MY GOD — https://nitter.kareem.one/willdepue/status/2121717694877626686#m",
+   "url": "https://nitter.kareem.one/willdepue/status/2121718147854279127#m",
+   "ts": 1794692000,
+   "id": "2121718147854279127#m"
   },
   {
    "handle": "elonmusk",
@@ -252,15 +280,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Yes, the green flame is caused by burning copper from depleting fuel in the regenerative cooling circuit and going oxygen-rich (closer to stoichiometric temperature) in the main combustion chamber. Slight underperformance of engines on this flight is the reason. The booster is meant to land with tiny residuals, so the solution is to improve engine performance and performance consistency (underway with Raptor V3.2), as well as adjust flight software to do MECO1 about one second earlier to ensure enough propellant for boostback and landing (tiny change). These early ships and boosters are already outdated by improved designs in production or on the test stand, so this booster loss does not change our timeline to reach high volume, fully reusable Starship flights.",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121648438144024943#m",
-   "ts": 1794675380,
-   "id": "2121648438144024943#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "This is not as good as it sounds, because Starlink required many satellites in low Earth orbit to achieve this bandwidth improvement globally. That said, there will ultimately be over 100k SpaceX communications satellites, most of which will be V4 or V5. Good chance that this system carries about half of global traffic.",
    "url": "https://nitter.kareem.one/elonmusk/status/2121640541221785669#m",
    "ts": 1794673497,
@@ -319,24 +338,6 @@
    "url": "https://nitter.kareem.one/VeraMBergen/status/2121433632875352374#m",
    "ts": 1794624167,
    "id": "2121433632875352374#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "we optimized it heavily so it should burn only a little of your usage. go invite your e-coworker to the meeting, and let us know what you think!! Grok Bot (@bot) Grok Bot can now join meetings. Ask it questions, assign it work, or have it keep track of what your team decides. Video — https://nitter.kareem.one/bot/status/2121320089920430181#m",
-   "url": "https://nitter.kareem.one/lingxi/status/2121394949182930954#m",
-   "ts": 1794614944,
-   "id": "2121394949182930954#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "SECRETARY RUBIO: The ultimate question of our time is whether Americans have a moral right to exist as a distinct nation and a distinct people, and thus to demand a government that defends and pursues our interests above all else. Video",
-   "url": "https://nitter.kareem.one/StateDept/status/2121378578939936844#m",
-   "ts": 1794611041,
-   "id": "2121378578939936844#m"
   },
   {
    "handle": "swyx",
