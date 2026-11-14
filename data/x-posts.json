@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-14T01:56:23Z",
+ "generated_at": "2026-11-14T02:10:21Z",
  "accounts_ok": [
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -10,11 +11,37 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "This letter was sent to Nvidia's board today. A first for @atreidesmgmt Absolutely share @altcap belief that this letter outlines minimum acceptable standards.",
+   "url": "https://nitter.kareem.one/GavinSBaker/status/2121401397346521412#m",
+   "ts": 1794616481,
+   "id": "2121401397346521412#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starship is now in a long coast phase around Earth. Teams will monitor Starship’s systems over the next ~21 hours that we intend to be in orbit for. We do have a few early deorbit options available should we need them, but all systems are looking good right now",
+   "url": "https://nitter.kareem.one/SpaceX/status/2121394839954874797#m",
+   "ts": 1794614918,
+   "id": "2121394839954874797#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Payload deploy complete. All 26 @Starlink V3 satellites are in orbit Video",
+   "url": "https://nitter.kareem.one/SpaceX/status/2121394268652839309#m",
+   "ts": 1794614781,
+   "id": "2121394268652839309#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -32,6 +59,15 @@
    "url": "https://nitter.kareem.one/robotaxi/status/2121384435241402737#m",
    "ts": 1794612437,
    "id": "2121384435241402737#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starship is now deploying its payload of 26 @Starlink V3 satellites. This deployment sequence will take ~42 minutes Video",
+   "url": "https://nitter.kareem.one/SpaceX/status/2121384424558453096#m",
+   "ts": 1794612434,
+   "id": "2121384424558453096#m"
   },
   {
    "handle": "elonmusk",
@@ -178,33 +214,6 @@
    "id": "2121269456479597049#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "And remember …",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121268692453343344#m",
-   "ts": 1794584842,
-   "id": "2121268692453343344#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Starlink Sawyer Merritt (@SawyerMerritt) United Airlines CEO in new interview on @Starlink Wi-Fi: \"Wi-Fi is the No. 1 reason that people pick an airline flight. I think it's the biggest near-term competitive advantage that we've ever had in United's 100-year history. And it really is something that's causing customers to try United because they want Starlink. By the way, all the JFK flights 100% are going to be on Starlink when we start JFK [soon].\" — https://nitter.kareem.one/SawyerMerritt/status/2121248130620346584#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121267716023546027#m",
-   "ts": 1794584609,
-   "id": "2121267716023546027#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "True sourcery (@sourceryy) \"Socialism sucks.\" - @mlevchin \"Take it from somebody who spent his first 16 years under the 'warm embrace of collectivism' as a certain mayor recently put it—socialism sucks.\" \"The only people who do well in redistribution of wealth are the ones doing redistribution.\" \"It's fundamentally corrupt. There's not enough bad things I can say about socialism.\" Video — https://nitter.kareem.one/sourceryy/status/2121031789879923007#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121266455442292980#m",
-   "ts": 1794584308,
-   "id": "2121266455442292980#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -239,15 +248,6 @@
    "url": "https://nitter.kareem.one/mackhawk/status/2121252848776450049#m",
    "ts": 1794581064,
    "id": "2121252848776450049#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "RT by @elonmusk: Image",
-   "url": "https://nitter.kareem.one/justinbieber/status/2121251707393024486#m",
-   "ts": 1794580792,
-   "id": "2121251707393024486#m"
   },
   {
    "handle": "elonmusk",
