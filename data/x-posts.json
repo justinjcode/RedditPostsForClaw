@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-14T20:18:26Z",
+ "generated_at": "2026-11-14T20:26:33Z",
  "accounts_ok": [
   "TheRundownAI",
-  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
   "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -43,6 +43,15 @@
    "id": "2121687118468850111#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "RT by @elonmusk: Image",
+   "url": "https://nitter.kareem.one/johnkrausphotos/status/2121685266448429281#m",
+   "ts": 1794684161,
+   "id": "2121685266448429281#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -50,6 +59,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2121681368224797014#m",
    "ts": 1794683231,
    "id": "2121681368224797014#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "my AIE talk is up! come hear how the grok @bot team ships so quickly without compromise on quality inv.kareem.one/O_zcc6Xl12g Link All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI 11,000 pull requests in one month, with a revert rate around 0.5%. ... youtube.com",
+   "url": "https://nitter.kareem.one/poteto/status/2121673563489140863#m",
+   "ts": 1794681370,
+   "id": "2121673563489140863#m"
   },
   {
    "handle": "elonmusk",
@@ -77,6 +95,15 @@
    "url": "https://nitter.kareem.one/aiDotEngineer/status/2121664913450189049#m",
    "ts": 1794679308,
    "id": "2121664913450189049#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok Bot has been such a force multiplier for me. It’s insane. It provides you with a team of experts, and you get a totally customizable assistant. It replaces tools like search. It enhances applications like a CRM. It works on every device, so you can now do real work from your phone, then pick it up on your laptop or desktop. I often have 3 to 5 bots working on things simultaneously. If you have not tried it, use it for one month. It will blow you away. If already love it, share this message. Everyone that I get to use Grok Bot has become a total fan and feels the same way. I know the team, and they are working relentlessly around the clock to make the product do everything and anything that you need.",
+   "url": "https://nitter.kareem.one/adeoressi/status/2121661606824419580#m",
+   "ts": 1794678520,
+   "id": "2121661606824419580#m"
   },
   {
    "handle": "swyx",
@@ -194,15 +221,6 @@
    "url": "https://nitter.kareem.one/aiDotEngineer/status/2121619176527937878#m",
    "ts": 1794668404,
    "id": "2121619176527937878#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Jensen drove supply chain brilliantly at Nvidia, but many of those deals were a handshake with Jensen, not a written contract. Without Jensen, at least some of those critical deals will be lost. CEOInterviews.AI (@CEOinterview) Dylan Patel says Jensen personally talked tiny suppliers into letting Nvidia buy up their supply, and with him gone Google is already begging them for capacity \"Jensen had complete foresight and understood the demand required and went to all of these executives, even of tiny companies where they only generate a few hundred million dollars of revenue but they have an important subcomponent.\" \"He convinced them to let him buy the supply and build it all out...\" \"And now with Jensen gone, these companies are looking around the market and it's like, well, Google's begging for more capacity from the whole supply chain.\" \"And without Jensen, can they maintain technology advantages given they're only a year ahead of their biggest competitors? It's not like the gap is massive.\" Video — https://nitter.kareem.one/CEOinterview/status/2121291797473468421#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121613402846204253#m",
-   "ts": 1794667027,
-   "id": "2121613402846204253#m"
   },
   {
    "handle": "elonmusk",
@@ -430,15 +448,6 @@
    "id": "2121109559922319679#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "SemiAnalysis’s Dylan Patel says Google’s TPUs are just as good as Nvidia’s in his nightly benchmarks, and without Jensen’s wheeling and dealing Google could take a ton of share “It’s sort of a three-pronged strategy. One is you have to have the technical progress, and that keeps you winning. The second is that you have to have supply chain prowess, and Jensen’s the only executive in the semiconductor industry that is going out there and drinking and meeting and convincing all of these supply chain companies to invest like they’ve never done before, give him the allocations.” “Now if all of a sudden there’s no Jensen, and Google’s like, actually, double my allocation. The TPU, from our benchmarking, we test TPUs. We run benchmarks on them on open source models every night. They’re just as good as Nvidia. But Google doesn’t have that DNA of wheeling and dealing with the supply chain, wheeling and dealing with customers. Now if that DNA is gone, the thing that is Jensen is gone, does that now mean Google can just take a ton of share? It’s a real big possibility.” “Same with AMD. Technically, they’re awesome, but they’re just not able to wheel and deal like Jensen is able to. And that’s been a lot of the reason why they’ve been behind. Of course, the software as well. One of Nvidia’s biggest moats being CUDA, and software is being rapidly displaced by the fact that AI models are so good at writing software.” Video Fireside Alpha (@firesidealpha) Dylan Patel says Nvidia’s next CEO",
-   "url": "https://nitter.kareem.one/firesidealpha/status/2121070130935570607#m",
-   "ts": 1794537501,
-   "id": "2121070130935570607#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -581,15 +590,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2120941834415325534#m",
    "ts": 1794506913,
    "id": "2120941834415325534#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "“Now that we can build everything, maybe we should not?” A great talk from @mitsuhiko , CTO of Earendil, who instead of software factories suggests to build software ateliers. Or sort of workshops. Less software, but better, more ambitious software. How many projects have you started recently? Exactly. Over the past year, Armin said he started 141 projects. But how many does he regularly return to and maintain? Just 10–15. And that number hasn’t really changed. Meanwhile, his agents went from running for a couple of minutes to 40+ minutes on longer tasks. The models got dramatically better, while the core tools in his Pi coding agent barely changed. I think that adds to the high-functioning anxiety that I’ve written about recently. Because though we can build much more, our attention hasn’t scaled with the models. What to do? Armin makes a few good points: - Learn when to push back against agents. - Don’t confuse a completed task with good software. - And don’t abandon collaboration and shared standards just because it’s now easier to build your own version of everything. I think there’s also a bigger question here: if the cost of building keeps falling, how do we get better at deciding what deserves our attention? Maybe that’s where the real skill is moving. From being able to build something to knowing why it’s worth building, and caring enough to keep it alive.",
-   "url": "https://nitter.kareem.one/TheTuringPost/status/2120940019494109570#m",
-   "ts": 1794506480,
-   "id": "2120940019494109570#m"
   },
   {
    "handle": "ZichenWanghere",
