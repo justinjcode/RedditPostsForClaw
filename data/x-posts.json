@@ -1,20 +1,38 @@
 {
- "generated_at": "2026-11-14T17:55:40Z",
+ "generated_at": "2026-11-14T18:09:39Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "500k views in 2.5 days. @lydiahallie is on track to hit 1m in the fastest pace in aie history",
+   "url": "https://nitter.kareem.one/swyx/status/2121661230259839408#m",
+   "ts": 1794678430,
+   "id": "2121661230259839408#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "a few days ago we published the \"No AI Slop Manifesto\" at @aiDotEngineer Code Summit in SF, written in collaboration with many of the speakers and attendees It already hit the front page of hacker news, has 300+ signatures including folks from Baseten, SpaceX, OpenAI, PostHog, Shopify, Glean, ZoomInfo, and legendary builders including @swyx @poteto @kentcdodds @mihail_eric @audreyt @altryne @traviscline @philipkiely @TejasKumar_ read and sign it at slopmanifesto dot com some of my favorite points > AI cannot replace human judgement, it can only amplify our judgement (or lack thereof). > We own the intent, taste, and consequences of what we ship, however much AI helps us make it. > There will always be alpha in reviewing *something*. As models improve, we may stop reading most of the code. We may still review a plan, design, or result, because if we don't, we just get the same output as everyone else.",
+   "url": "https://nitter.kareem.one/dexhorthy/status/2121660606256435325#m",
+   "ts": 1794678281,
+   "id": "2121660606256435325#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -367,15 +385,6 @@
    "id": "2121109559922319679#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "The @aiDotEngineer code summit went off 🚀 Huge congrats to @swyx on bringing so many amazing people together, really the 🐐🫶",
-   "url": "https://nitter.kareem.one/meganreyno/status/2121099689269535035#m",
-   "ts": 1794544548,
-   "id": "2121099689269535035#m"
-  },
-  {
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
@@ -545,15 +554,6 @@
    "url": "https://nitter.kareem.one/zachlloydtweets/status/2120966552472477810#m",
    "ts": 1794512806,
    "id": "2120966552472477810#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "🌑",
-   "url": "https://nitter.kareem.one/TejasKumar_/status/2120953281757544810#m",
-   "ts": 1794509642,
-   "id": "2120953281757544810#m"
   },
   {
    "handle": "TheRundownAI",
