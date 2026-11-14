@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-14T16:46:20Z",
+ "generated_at": "2026-11-14T16:55:20Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed"
+  "@swyx: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Text watermarking with Grok is only on where required by law or requested by the user Tech Dev Notes (@techdevnotes) Text watermarking is now off by default in the SpaceXSI API — https://nitter.kareem.one/techdevnotes/status/2121370786208375136#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121644169462681818#m",
+   "ts": 1794674362,
+   "id": "2121644169462681818#m"
+  },
   {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
@@ -127,15 +136,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Made with @neuralink . Some live in the future already. Kenneth Shock (@Cyborg21) It's here. Claudia's \"ALLOW ALWAYS\" world premiere. Made by a guy with ALS, a brain implant, and too many AI friends. 😂 Video — https://nitter.kareem.one/Cyborg21/status/2117044016621748292#m",
-   "url": "https://nitter.kareem.one/Scobleizer/status/2121548642805026939#m",
-   "ts": 1794651587,
-   "id": "2121548642805026939#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Jensen Huang said it plainly: Building a massive, liquid-cooled, fully permitted, fully powered factory — and getting 100,000 GPUs training — in 19 days. “That is superhuman.” “As far as I know, there’s only one person in the world who could do that.” A cluster like that normally takes three years to plan, and another year to get working. Elon and the team did it in nineteen days. Never been done before. @elonmusk @JensenHuang Video Bowie (@bowie_HQ) Two builders on one stage, talking about a future where you just tell the car, “Take me home,” and it does. An order of magnitude safer than a person. In the distant future, Elon said, people may even outlaw human driving, because you can’t have a person behind a two-ton death machine. That is not a flex. That is a responsibility. Elon has been trying to make it real. Jensen helped give the world the computing power to even attempt it. I support them both. The future gets safer when people like this keep building it. @elonmusk @JensenHuang Video — https://nitter.kareem.one/bowie_HQ/status/2121168799198310435#m",
    "url": "https://nitter.kareem.one/bowie_HQ/status/2121493879870677332#m",
    "ts": 1794638531,
@@ -190,10 +190,19 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "An absolutely gorgeous launch Video",
-   "url": "https://nitter.kareem.one/AJamesMcCarthy/status/2121384142474760511#m",
-   "ts": 1794612367,
-   "id": "2121384142474760511#m"
+   "text": "we optimized it heavily so it should burn only a little of your usage. go invite your e-coworker to the meeting, and let us know what you think!! Grok Bot (@bot) Grok Bot can now join meetings. Ask it questions, assign it work, or have it keep track of what your team decides. Video — https://nitter.kareem.one/bot/status/2121320089920430181#m",
+   "url": "https://nitter.kareem.one/lingxi/status/2121394949182930954#m",
+   "ts": 1794614944,
+   "id": "2121394949182930954#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "SECRETARY RUBIO: The ultimate question of our time is whether Americans have a moral right to exist as a distinct nation and a distinct people, and thus to demand a government that defends and pursues our interests above all else. Video",
+   "url": "https://nitter.kareem.one/StateDept/status/2121378578939936844#m",
+   "ts": 1794611041,
+   "id": "2121378578939936844#m"
   },
   {
    "handle": "elonmusk",
@@ -1427,15 +1436,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2117337139633607167#m",
    "ts": 1793647486,
    "id": "2117337139633607167#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "It's here. Claudia's \"ALLOW ALWAYS\" world premiere. Made by a guy with ALS, a brain implant, and too many AI friends. 😂 Video",
-   "url": "https://nitter.kareem.one/Cyborg21/status/2117044016621748292#m",
-   "ts": 1793577600,
-   "id": "2117044016621748292#m"
   },
   {
    "handle": "bcherny",
