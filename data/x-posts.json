@@ -1,9 +1,7 @@
 {
- "generated_at": "2026-11-15T01:19:45Z",
+ "generated_at": "2026-11-15T01:25:48Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +9,10 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 178,
  "items": [
   {
@@ -207,15 +208,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "You're not gonna believe this, but @SpaceX caught their Starship rocket at 4:20 PM ET 😂 Video",
-   "url": "https://nitter.kareem.one/SawyerMerritt/status/2121717407890964796#m",
-   "ts": 1794691824,
-   "id": "2121717407890964796#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Congrats to @elonmusk and the @SpaceX team! It was almost magic..Making more believers by the day....one step closer to 🌖🇺🇸",
    "url": "https://nitter.kareem.one/NASAAdmin/status/2121715782350504106#m",
    "ts": 1794691436,
@@ -292,6 +284,15 @@
    "url": "https://nitter.kareem.one/dexhorthy/status/2121660606256435325#m",
    "ts": 1794678281,
    "id": "2121660606256435325#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok Bot is the only one that stuck ChatGPT Dots: i’ve literally paused mine due to bugs and constant refusals or annoying prompts to approve. Plus no independent app. Claude Duet: was excited, didn’t do much at all, way too early hope probably the sleeper",
+   "url": "https://nitter.kareem.one/robinebers/status/2121656933002408008#m",
+   "ts": 1794677405,
+   "id": "2121656933002408008#m"
   },
   {
    "handle": "ZichenWanghere",
