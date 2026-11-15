@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-11-15T04:21:22Z",
+ "generated_at": "2026-11-15T04:28:22Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -9,10 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
   {
@@ -275,6 +274,15 @@
    "url": "https://nitter.kareem.one/poteto/status/2121673563489140863#m",
    "ts": 1794681370,
    "id": "2121673563489140863#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "I just finished talks about my software factories at two conferences. Afterwards a bunch of people came up and told me what they were surprised about. Here is a distillation of what people thought were hot takes from my two talks. First hot take: I tell everyone to slow down. Most speakers go on about how fast they're going, but I strongly believe in pacing AI outputs to human speeds. I regularly tell AI-pilled CIOs and CTOs to chill: almost nobody is _actually_ going fast with AI. Engineering still moves at engineering speeds, and business moves even slower. The ones pushing too hard are starting to see downtime for it. If you don't pace your AI to human speeds, everything starts breaking around you, even at small operations like my online video game. I only have about a dozen humans working with my factory, and only a few hundred active old-timer players in the community who get along well, and still, introducing AI has still been very rocky. My agents have, at times, overwhelmed my players with features, my accountant with emails, my merge queue with tickets, and my machines with load. Agents have pissed off my admins, resulting in name-calling, they've made messes in the game, and they've launched broken OSS without permission. The list goes on. I can get away with all this chaos because everyone involved in my operation is very forgiving. They're excited by the potential. But even so, I had to learn to slow down, real fast. And so that's what I preach. Hot take #2: Shoul",
+   "url": "https://nitter.kareem.one/Steve_Yegge/status/2121671447810888185#m",
+   "ts": 1794680866,
+   "id": "2121671447810888185#m"
   },
   {
    "handle": "swyx",
@@ -626,15 +634,6 @@
    "url": "https://nitter.kareem.one/AbdulElSayed/status/2120938651358273723#m",
    "ts": 1794506154,
    "id": "2120938651358273723#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "CEO of the Year has a nice ring to it. Congratulations to AMD Chair and CEO @LisaSu on this well-deserved recognition from @YahooFinance ! 👏 yhoo.it/4kdfEYI",
-   "url": "https://nitter.kareem.one/AMD/status/2120936758669906296#m",
-   "ts": 1794505703,
-   "id": "2120936758669906296#m"
   },
   {
    "handle": "TheRundownAI",
