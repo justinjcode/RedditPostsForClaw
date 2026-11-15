@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-15T00:49:28Z",
+ "generated_at": "2026-11-15T00:59:26Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
-  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed"
+  "@simonw: all instances failed",
+  "@swyx: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Dazzled. arstechnica.com/space/2026/1… Link With Starship catch, SpaceX still shows it can dazzle the world It felt like stepping into the future. arstechnica.com",
+   "url": "https://nitter.kareem.one/SciGuySpace/status/2121766186492805263#m",
+   "ts": 1794703454,
+   "id": "2121766186492805263#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -221,15 +230,6 @@
    "url": "https://nitter.kareem.one/NASAAdmin/status/2121715782350504106#m",
    "ts": 1794691436,
    "id": "2121715782350504106#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Good deorbit burn. Landing burn in 53 minutes. nitterk.kareem.one/i/broadcasts/2brajgZlO… Link SpaceX Starship Flight 15 https://nitter.kareem.one/i/broadcasts/2brajgZlOKRMka",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121701421183853007#m",
-   "ts": 1794688012,
-   "id": "2121701421183853007#m"
   },
   {
    "handle": "simonw",
