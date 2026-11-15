@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-15T18:56:25Z",
+ "generated_at": "2026-11-15T19:07:41Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starlink DogeDesigner (@cb_doge) BREAKING: Lufthansa just announced its first @Starlink -equipped A350-1000 will fly from Munich to Tokyo on December 3. Lufthansa Group plans to equip its entire fleet of around 850 aircraft with Starlink by 2029. — https://nitter.kareem.one/cb_doge/status/2121945425985101854#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2122041658426765334#m",
+   "ts": 1794769131,
+   "id": "2122041658426765334#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -41,6 +49,15 @@
    "url": "https://nitter.kareem.one/aiDotEngineer/status/2121981562824564960#m",
    "ts": 1794754803,
    "id": "2121981562824564960#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "This is spectacular— looks like science fiction, but it’s real! @elonmusk — I need to see this live one of these days! SpaceX (@SpaceX) Mechazilla catches Starship! Congratulations to the entire SpaceX team on this incredible achievement! Video — https://nitter.kareem.one/SpaceX/status/2121715216597827756#m",
+   "url": "https://nitter.kareem.one/DavidSolomon/status/2121960724943823205#m",
+   "ts": 1794749835,
+   "id": "2121960724943823205#m"
   },
   {
    "handle": "swyx",
@@ -340,15 +357,6 @@
    "id": "2121660606256435325#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok Bot is the only one that stuck ChatGPT Dots: i’ve literally paused mine due to bugs and constant refusals or annoying prompts to approve. Plus no independent app. Claude Duet: was excited, didn’t do much at all, way too early hope probably the sleeper",
-   "url": "https://nitter.kareem.one/robinebers/status/2121656933002408008#m",
-   "ts": 1794677405,
-   "id": "2121656933002408008#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -365,15 +373,6 @@
    "url": "https://nitter.kareem.one/aiDotEngineer/status/2121619176527937878#m",
    "ts": 1794668404,
    "id": "2121619176527937878#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "그록봇에 화상회의에 초대할수 있는데 토큰을 거의 먹지 않는다고 합니다. 이건 엄청난 기능인데,제가 우려한 유일한 점은 토큰 소모 였습니다. 오늘 업데이트 되자마자 사용했습니다. 성능은 대박이었습니다. 여기에 음성 대화까지 가능해진다면 아마 큰 파장이 일어날것으로 예상됩니다. @lingxi Lingxi Li (@lingxi) we optimized it heavily so it should burn only a little of your usage. go invite your e-coworker to the meeting, and let us know what you think!! — https://nitter.kareem.one/lingxi/status/2121394949182930954#m",
-   "url": "https://nitter.kareem.one/minheo93698092/status/2121587902841020922#m",
-   "ts": 1794660947,
-   "id": "2121587902841020922#m"
   },
   {
    "handle": "swyx",
