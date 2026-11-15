@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-15T01:25:48Z",
+ "generated_at": "2026-11-15T01:38:39Z",
  "accounts_ok": [
   "TheRundownAI",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -10,6 +9,7 @@
   "thsottiaux"
  ],
  "errors": [
+  "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
@@ -167,15 +167,6 @@
    "url": "https://nitter.kareem.one/cb_doge/status/2121733104499077522#m",
    "ts": 1794695566,
    "id": "2121733104499077522#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "if you're in SF, i have 3 spare tix for our matinee show, just show up to odc theater now and drop my name 2.30pm doors open 3pm starts Maz (@0xmaz_) Pretty cool in San Francisco you can watch @swyx perform musical theater for a cool 34 bucks !!! Link to tickets below Video — https://nitter.kareem.one/0xmaz_/status/2121469001553555648#m",
-   "url": "https://nitter.kareem.one/swyx/status/2121730527174787181#m",
-   "ts": 1794694952,
-   "id": "2121730527174787181#m"
   },
   {
    "handle": "elonmusk",
@@ -383,6 +374,15 @@
    "url": "https://nitter.kareem.one/JuanPa/status/2121286664324845577#m",
    "ts": 1794589127,
    "id": "2121286664324845577#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "I had a great time at the after-party yesterday: good chats, new friends, big ideas, and many agents to kick off on the flight home. In the last conf photo: the amazing @miguelbranco80 and @dexhorthy . Thanks to everyone at @aiDotEngineer for the experience. See you soon.",
+   "url": "https://nitter.kareem.one/henriquebastos/status/2121272553683792272#m",
+   "ts": 1794585762,
+   "id": "2121272553683792272#m"
   },
   {
    "handle": "ZichenWanghere",
