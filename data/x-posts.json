@@ -1,19 +1,38 @@
 {
- "generated_at": "2026-11-15T08:09:58Z",
+ "generated_at": "2026-11-15T08:24:46Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@swyx: all instances failed",
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "5 years ago DogeDesigner (@cb_doge) Elon posted this in 2021. Now a Starship has returned from orbit straight into giant robot chopsticks. What a time to be alive. Video — https://nitter.kareem.one/cb_doge/status/2121750619816095753#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121875758704370144#m",
+   "ts": 1794729578,
+   "id": "2121875758704370144#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "This gives a clear sense of the catch maneuver John Kraus (@johnkrausphotos) Ship 42 returns to Starbase, Texas for the first-ever Starship tower catch during Flight 15! I have dreamt of creating this image for years... and today it became real. Congrats, SpaceX team! — https://nitter.kareem.one/johnkrausphotos/status/2121773282919649324#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121875600906592260#m",
+   "ts": 1794729540,
+   "id": "2121875600906592260#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -31,6 +50,24 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2121845965997101118#m",
    "ts": 1794722474,
    "id": "2121845965997101118#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "In my opinion... we have achieved AGI. Without a shadow of a doubt. The combination of Grok Bot + Opus/Fable + Argon is a do-anything digital stack. Whatever Fable/Opus suck at, Argon is an incredible filler. And vice-versa. Grok Bot orchestrates them all. Overpowered.",
+   "url": "https://nitter.kareem.one/farzyness/status/2121821420137423101#m",
+   "ts": 1794716622,
+   "id": "2121821420137423101#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starship Flight 15 mission in one timelapse Launched from the tower → around Earth 14 times → caught by the tower Video",
+   "url": "https://nitter.kareem.one/XFreeze/status/2121817193579163893#m",
+   "ts": 1794715615,
+   "id": "2121817193579163893#m"
   },
   {
    "handle": "swyx",
@@ -54,10 +91,37 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "MADE ON EARTH BY HUMANS Video @jason (@Jason) Best remix / AI slop / music video / inspo / whatever o the StarShip landing gets $420.69 in XMONEY! — https://nitter.kareem.one/Jason/status/2121717876608381383#m",
+   "url": "https://nitter.kareem.one/anabology/status/2121783840695787904#m",
+   "ts": 1794707663,
+   "id": "2121783840695787904#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "If you have kids, I highly recommend taking them to a launch. You can watch from the Margaritaville, the town beach or many other viewing locations open to the public. Sad to miss this one, great day for 🇺🇸",
+   "url": "https://nitter.kareem.one/GavinSBaker/status/2121777788797718785#m",
+   "ts": 1794706220,
+   "id": "2121777788797718785#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "Everything has changed.",
    "url": "https://nitter.kareem.one/AJamesMcCarthy/status/2121773877395181778#m",
    "ts": 1794705287,
    "id": "2121773877395181778#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Ship 42 returns to Starbase, Texas for the first-ever Starship tower catch during Flight 15! I have dreamt of creating this image for years... and today it became real. Congrats, SpaceX team!",
+   "url": "https://nitter.kareem.one/johnkrausphotos/status/2121773282919649324#m",
+   "ts": 1794705145,
+   "id": "2121773282919649324#m"
   },
   {
    "handle": "elonmusk",
@@ -94,60 +158,6 @@
    "url": "https://nitter.kareem.one/TheEconomist/status/2121765137640014240#m",
    "ts": 1794703203,
    "id": "2121765137640014240#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Thanks Ted Lieu (@tedlieu) Congratulations to SpaceX for making history with an amazing feat of engineering! — https://nitter.kareem.one/tedlieu/status/2121754217954382037#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121764319792677119#m",
-   "ts": 1794703008,
-   "id": "2121764319792677119#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I hugged ship 42 upon its return",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121763977349013884#m",
-   "ts": 1794702927,
-   "id": "2121763977349013884#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Some phone videos I took from the tower Video Video",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121763396190179414#m",
-   "ts": 1794702788,
-   "id": "2121763396190179414#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "RT by @elonmusk: Image",
-   "url": "https://nitter.kareem.one/johnkrausphotos/status/2121761584804503927#m",
-   "ts": 1794702356,
-   "id": "2121761584804503927#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The epic day has arrived, thanks to the incredibly talented team at SpaceX! Walter Isaacson (@WalterIsaacson) This is actually a bigger deal for humanity than most people can imagine. I will always remember the looks on the engineers’ faces in the Starbase conference room in December 2020 when @elonmusk suggested, then insisted, that the Mechazilla launchpad arms could catch a returning Starship. — https://nitter.kareem.one/WalterIsaacson/status/2121725076919717899#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121759522851115109#m",
-   "ts": 1794701865,
-   "id": "2121759522851115109#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Three booster catches and a ship DogeDesigner (@cb_doge) SpaceX keeps making history. • Oct 13, 2024: First booster catch • Jan 16, 2025: Second booster catch • Mar 6, 2025: Third booster catch • Nov 14, 2026: First Starship catch Video — https://nitter.kareem.one/cb_doge/status/2121719723805258178#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121759042582589821#m",
-   "ts": 1794701750,
-   "id": "2121759042582589821#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -207,19 +217,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "The next time you want to give up, think of this image:",
-   "url": "https://nitter.kareem.one/cb_doge/status/2121733104499077522#m",
-   "ts": 1794695566,
-   "id": "2121733104499077522#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The holy grail of rocketry has just been achieved. This is an inflection point in human history that will unlock the solar system for humankind. Congrats to everyone on Planet Earth!!! ❤️ SpaceX (@SpaceX) Mechazilla catches Starship! Congratulations to the entire SpaceX team on this incredible achievement! Video — https://nitter.kareem.one/SpaceX/status/2121715216597827756#m",
-   "url": "https://nitter.kareem.one/edwards345/status/2121718457771377001#m",
-   "ts": 1794692074,
-   "id": "2121718457771377001#m"
+   "text": "After careful consideration I’ve decided I’m quite bullish on civilization KARDASHEV II HERE WE COME! Video",
+   "url": "https://nitter.kareem.one/AJamesMcCarthy/status/2121719522549973133#m",
+   "ts": 1794692328,
+   "id": "2121719522549973133#m"
   },
   {
    "handle": "elonmusk",
