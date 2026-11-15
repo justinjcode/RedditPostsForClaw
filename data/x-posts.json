@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-11-15T07:26:26Z",
+ "generated_at": "2026-11-15T07:37:11Z",
  "accounts_ok": [
-  "TheRundownAI",
+  "Lingling_Wei",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,8 +11,7 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@TheRundownAI: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -172,15 +172,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Ship 42 looks great! Video",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121746382402797892#m",
-   "ts": 1794698732,
-   "id": "2121746382402797892#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "“Physics is the law. Everything else is a recommendation.” @elonmusk told me that at DealBook in 2023. Today, SpaceX caught Starship after 14 orbits of Earth. Plenty doubted it was possible. Just extraordinary. @SpaceX . Video",
    "url": "https://nitter.kareem.one/andrewrsorkin/status/2121745318618571231#m",
    "ts": 1794698478,
@@ -235,10 +226,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Congrats to @elonmusk and the @SpaceX team! It was almost magic..Making more believers by the day....one step closer to 🌖🇺🇸",
-   "url": "https://nitter.kareem.one/NASAAdmin/status/2121715782350504106#m",
-   "ts": 1794691436,
-   "id": "2121715782350504106#m"
+   "text": "I’m lost for words Video",
+   "url": "https://nitter.kareem.one/_MaxQ_/status/2121717584085045677#m",
+   "ts": 1794691866,
+   "id": "2121717584085045677#m"
   },
   {
    "handle": "simonw",
@@ -1607,6 +1598,15 @@
    "url": "https://nitter.kareem.one/bunjavascript/status/2110692261508079721#m",
    "ts": 1792063224,
    "id": "2110692261508079721#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Do you believe now?",
+   "url": "https://nitter.kareem.one/rookisaacman/status/1845443103362040248#m",
+   "ts": 1728822897,
+   "id": "1845443103362040248#m"
   }
  ]
 }
