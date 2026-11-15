@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-15T08:37:49Z",
+ "generated_at": "2026-11-15T08:45:59Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "bcherny",
   "elonmusk",
@@ -11,6 +10,7 @@
   "thsottiaux"
  ],
  "errors": [
+  "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
@@ -149,15 +149,6 @@
    "url": "https://nitter.kareem.one/Geiger_Capital/status/2121769886770778182#m",
    "ts": 1794704336,
    "id": "2121769886770778182#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Dazzled. arstechnica.com/space/2026/1… Link With Starship catch, SpaceX still shows it can dazzle the world It felt like stepping into the future. arstechnica.com",
-   "url": "https://nitter.kareem.one/SciGuySpace/status/2121766186492805263#m",
-   "ts": 1794703454,
-   "id": "2121766186492805263#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -401,6 +392,15 @@
    "url": "https://nitter.kareem.one/VeraMBergen/status/2121433632875352374#m",
    "ts": 1794624167,
    "id": "2121433632875352374#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "SpaceX is preparing for its 15th Starship launch from South Texas, with spectators gathering just across the street from the 400-foot rocket ahead of Friday’s planned test flight. The test is a key step in SpaceX’s goal of making Starship fully reusable for future missions, including expanding its Starlink network and eventually carrying astronauts to the Moon and Mars, @JasonAllenLive reports. Video",
+   "url": "https://nitter.kareem.one/CBSNews/status/2121344495266455814#m",
+   "ts": 1794602915,
+   "id": "2121344495266455814#m"
   },
   {
    "handle": "swyx",
