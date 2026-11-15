@@ -1,18 +1,17 @@
 {
- "generated_at": "2026-11-15T08:24:46Z",
+ "generated_at": "2026-11-15T08:29:52Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed",
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
   {
@@ -41,6 +40,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2121875056817328621#m",
    "ts": 1794729410,
    "id": "2121875056817328621#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Attended an amazing broadway musical tonight, don’t sleep on @swyx outside the AI world dude is incredibly talented and full of surprises",
+   "url": "https://nitter.kareem.one/TheAhmadOsman/status/2121864756088930412#m",
+   "ts": 1794726954,
+   "id": "2121864756088930412#m"
   },
   {
    "handle": "thsottiaux",
@@ -244,6 +252,15 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
+   "text": "inv.kareem.one/RjfbvDXpFls?is=iq8B… Link Building pi in a World of Slop — Mario Zechner All I wanted was a shitty coding agent that is truly mine. And I’d ... youtube.com",
+   "url": "https://nitter.kareem.one/badlogicgames/status/2121691821273395574#m",
+   "ts": 1794685723,
+   "id": "2121691821273395574#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
    "text": "Unforgettable week at @aiDotEngineer ! So many insightful talks and it was great meeting so many talented folks. Shoutout to the crew for organizing and you will not find better conference food anywhere else. One of the main resonating points of the whole conference is that it’s a time to be bold and push limits. Let’s make the models 100x faster, build entire companies from fleets of agents, and open source the planet while we’re at it. The only place where we’re *truly* limited by the technology of our time is running AV for a conference 🫡 @swyx @Beccalytics",
    "url": "https://nitter.kareem.one/drewjs/status/2121687118468850111#m",
    "ts": 1794684602,
@@ -392,15 +409,6 @@
    "url": "https://nitter.kareem.one/Swizec/status/2121327536017965321#m",
    "ts": 1794598871,
    "id": "2121327536017965321#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "WorkOS just hit $100M ARR 🚀 Thank you to our customers, investors, and our extraordinary team. We started WorkOS to make software enterprise ready. Now we’re building infrastructure for a world where people and agents work together. And we're just getting started! 😊",
-   "url": "https://nitter.kareem.one/grinich/status/2121296642276295119#m",
-   "ts": 1794591505,
-   "id": "2121296642276295119#m"
   },
   {
    "handle": "swyx",
@@ -770,15 +778,6 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2120719962893349108#m",
    "ts": 1794454014,
    "id": "2120719962893349108#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "some from today",
-   "url": "https://nitter.kareem.one/nafisazizir/status/2120710342204604549#m",
-   "ts": 1794451721,
-   "id": "2120710342204604549#m"
   },
   {
    "handle": "Lingling_Wei",
