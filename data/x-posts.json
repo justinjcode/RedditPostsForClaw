@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T09:26:00Z",
+ "generated_at": "2026-11-15T09:36:53Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "also the day 1 livestream has crossed 100k in the fastest time ever. covering coding agent practices and landscape continues to be the strongest format we do and by far my strongest product-market-fit focus thing I have ever done. AI.Engineer @ CODE (@aiDotEngineer) taking day 1 view count predictions for the @poteto talk launching in 30 mins inv.kareem.one/O_zcc6Xl12g hit the bell etc — https://nitter.kareem.one/aiDotEngineer/status/2121664913450189049#m",
+   "url": "https://nitter.kareem.one/swyx/status/2121896675048587765#m",
+   "ts": 1794734564,
+   "id": "2121896675048587765#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -130,15 +139,6 @@
    "url": "https://nitter.kareem.one/johnkrausphotos/status/2121773282919649324#m",
    "ts": 1794705145,
    "id": "2121773282919649324#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Try Grok @Bot Ichigo (@iiiichigo_chan) holy f*ck... Elon Musk's team just made airport rebooking lines useless my flight got cancelled and 187 people were ahead of me at the desk. my Grok Bot rebooked me before the line moved 17 people Grok Bot makes phone calls now. it sits on hold, talks to the agent and says up front it's an AI what it did while I stood in line: → sat through 11 minutes of hold music → got me on the 7:40 AM flight tomorrow → the airline cancelled, so it asked for a hotel and meals. got both → \"aisle seat is $49 extra\" it didn't pay. it asked me. I took the free middle seat → texted my wife the new landing time (signed Grok Bot) and set my alarm 14 minutes on the phone. I walked out of the line, 168 people still in it all it took was 3 rules I sent it once: 1. on every call, say you're an AI calling for me 2. ask for everything I'm owed, nothing made up 3. anything that costs money: ask me first the Grok Bot Research Desk setup is in my article. read it below ↓ Video Community note: This post presents a staged demo video of a hypothetical Grok Bot rebooking scenario on the fictional airline Bluepeak Air as a real personal event. x.com/gdalt3/status/… en.wikipedia.org/wiki/List_of_a… teslanorth.com/2026/11/04/gro… x.com/bot/status/211… — https://nitter.kareem.one/iiiichigo_chan/status/2121664393725227299#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121770874885845044#m",
-   "ts": 1794704571,
-   "id": "2121770874885845044#m"
   },
   {
    "handle": "elonmusk",
@@ -409,15 +409,6 @@
    "url": "https://nitter.kareem.one/Swizec/status/2121327536017965321#m",
    "ts": 1794598871,
    "id": "2121327536017965321#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Yesterday, @esthor let an agent fully organize a meetup in our office and it out did itself with great food, people invitations and even a raspberry pi OS change to manage presentations. @esthor and @andrelandgraf cooked on this iteration of All Things: @aiDotEngineer .",
-   "url": "https://nitter.kareem.one/JuanPa/status/2121286664324845577#m",
-   "ts": 1794589127,
-   "id": "2121286664324845577#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -1435,6 +1426,15 @@
    "url": "https://nitter.kareem.one/simonw/status/2117337139633607167#m",
    "ts": 1793647486,
    "id": "2117337139633607167#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "It's here. Claudia's \"ALLOW ALWAYS\" world premiere. Made by a guy with ALS, a brain implant, and too many AI friends. 😂 Video",
+   "url": "https://nitter.kareem.one/Cyborg21/status/2117044016621748292#m",
+   "ts": 1793577600,
+   "id": "2117044016621748292#m"
   },
   {
    "handle": "bcherny",
