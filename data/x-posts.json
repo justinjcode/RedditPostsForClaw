@@ -1,20 +1,28 @@
 {
- "generated_at": "2026-11-15T01:13:43Z",
+ "generated_at": "2026-11-15T01:19:45Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
+  "elonmusk",
   "realDonaldTrump",
+  "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@elonmusk: all instances failed",
-  "@simonw: all instances failed",
-  "@swyx: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Try Grok @Bot Ichigo (@iiiichigo_chan) holy f*ck... Elon Musk's team just made airport rebooking lines useless my flight got cancelled and 187 people were ahead of me at the desk. my Grok Bot rebooked me before the line moved 17 people Grok Bot makes phone calls now. it sits on hold, talks to the agent and says up front it's an AI what it did while I stood in line: → sat through 11 minutes of hold music → got me on the 7:40 AM flight tomorrow → the airline cancelled, so it asked for a hotel and meals. got both → \"aisle seat is $49 extra\" it didn't pay. it asked me. I took the free middle seat → texted my wife the new landing time (signed Grok Bot) and set my alarm 14 minutes on the phone. I walked out of the line, 168 people still in it all it took was 3 rules I sent it once: 1. on every call, say you're an AI calling for me 2. ask for everything I'm owed, nothing made up 3. anything that costs money: ask me first the Grok Bot Research Desk setup is in my article. read it below ↓ Video — https://nitter.kareem.one/iiiichigo_chan/status/2121664393725227299#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121770874885845044#m",
+   "ts": 1794704571,
+   "id": "2121770874885845044#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -181,24 +189,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Congratulations to an incredible team at SpaceX!!! Video",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121726288968720709#m",
-   "ts": 1794693941,
-   "id": "2121726288968720709#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "RT by @elonmusk: Image",
-   "url": "https://nitter.kareem.one/johnkrausphotos/status/2121719372339454408#m",
-   "ts": 1794692292,
-   "id": "2121719372339454408#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "The holy grail of rocketry has just been achieved. This is an inflection point in human history that will unlock the solar system for humankind. Congrats to everyone on Planet Earth!!! ❤️ SpaceX (@SpaceX) Mechazilla catches Starship! Congratulations to the entire SpaceX team on this incredible achievement! Video — https://nitter.kareem.one/SpaceX/status/2121715216597827756#m",
    "url": "https://nitter.kareem.one/edwards345/status/2121718457771377001#m",
    "ts": 1794692074,
@@ -320,6 +310,15 @@
    "url": "https://nitter.kareem.one/aiDotEngineer/status/2121619176527937878#m",
    "ts": 1794668404,
    "id": "2121619176527937878#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "그록봇에 화상회의에 초대할수 있는데 토큰을 거의 먹지 않는다고 합니다. 이건 엄청난 기능인데,제가 우려한 유일한 점은 토큰 소모 였습니다. 오늘 업데이트 되자마자 사용했습니다. 성능은 대박이었습니다. 여기에 음성 대화까지 가능해진다면 아마 큰 파장이 일어날것으로 예상됩니다. @lingxi Lingxi Li (@lingxi) we optimized it heavily so it should burn only a little of your usage. go invite your e-coworker to the meeting, and let us know what you think!! — https://nitter.kareem.one/lingxi/status/2121394949182930954#m",
+   "url": "https://nitter.kareem.one/minheo93698092/status/2121587902841020922#m",
+   "ts": 1794660947,
+   "id": "2121587902841020922#m"
   },
   {
    "handle": "swyx",
