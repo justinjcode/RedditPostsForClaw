@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-11-14T23:56:07Z",
+ "generated_at": "2026-11-15T00:18:16Z",
  "accounts_ok": [
-  "bcherny",
+  "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -9,12 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@bcherny: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "The more I learn about how the internals all work, the more I agree with this take. This week’s @latentspacepod / @swyx podcast with Handshake was super-interesting and eye-opening to me. Almost 3 hours long but worth the listen - and probably just scraping the surface of what all goes into this. Space still feels very early Nicolas Bustamante (@nicbstme) Some of the highest gross margin startups in SF right now aren’t SaaS companies. They’re basically data generation companies selling to AI labs. I think every verifiable domain is going to get crushed by AI. Mathematics is the quintessential example. With Lean, you can formally prove whether a solution is correct. Software engineering is another one. You can run the code, run the tests, and know whether it works. Progress in these domains is insanely fast because you have a reliable reward signal. But the next frontier is much harder. Think GDPval-style knowledge work, long-running workflows, complex tasks that take humans days or weeks to complete. At the end of the day, models are only as good as the data and training environments we give them. And the labs need more and more high-quality reinforcement learning environments (RL envs) to keep scaling. Physics, biology, healthcare, aerospace engineering, finance, you name it. Every domain needs its own environments, verifiers, simulations, and expert feedback. So there’s almost unlimited demand for companies that can generate this data. And unlike SaaS companies building AI ",
+   "url": "https://nitter.kareem.one/mstockton/status/2121750278395330859#m",
+   "ts": 1794699661,
+   "id": "2121750278395330859#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -70,6 +79,15 @@
    "id": "2121733992726802703#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The next time you want to give up, think of this image:",
+   "url": "https://nitter.kareem.one/cb_doge/status/2121733104499077522#m",
+   "ts": 1794695566,
+   "id": "2121733104499077522#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -104,6 +122,15 @@
    "url": "https://nitter.kareem.one/johnkrausphotos/status/2121719372339454408#m",
    "ts": 1794692292,
    "id": "2121719372339454408#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The holy grail of rocketry has just been achieved. This is an inflection point in human history that will unlock the solar system for humankind. Congrats to everyone on Planet Earth!!! ❤️ SpaceX (@SpaceX) Mechazilla catches Starship! Congratulations to the entire SpaceX team on this incredible achievement! Video — https://nitter.kareem.one/SpaceX/status/2121715216597827756#m",
+   "url": "https://nitter.kareem.one/edwards345/status/2121718457771377001#m",
+   "ts": 1794692074,
+   "id": "2121718457771377001#m"
   },
   {
    "handle": "elonmusk",
@@ -266,24 +293,6 @@
    "url": "https://nitter.kareem.one/dexhorthy/status/2121660606256435325#m",
    "ts": 1794678281,
    "id": "2121660606256435325#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Starlink DogeDesigner (@cb_doge) BREAKING: SpaceX donates @Starlink kits to help vulnerable children. Lagos State’s Ministry of Youth and Social Development received Starlink devices to improve care services via BEB Global. SpaceX’s wider grant covers 750 kits in 16 countries and 12 months of free internet. Video — https://nitter.kareem.one/cb_doge/status/2121643690913644780#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121648757456662970#m",
-   "ts": 1794675456,
-   "id": "2121648757456662970#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "This is not as good as it sounds, because Starlink required many satellites in low Earth orbit to achieve this bandwidth improvement globally. That said, there will ultimately be over 100k SpaceX communications satellites, most of which will be V4 or V5. Good chance that this system carries about half of global traffic.",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121640541221785669#m",
-   "ts": 1794673497,
-   "id": "2121640541221785669#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -536,15 +545,6 @@
    "url": "https://nitter.kareem.one/Tracy_Wen_Liu/status/2121008893283229785#m",
    "ts": 1794522901,
    "id": "2121008893283229785#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Lance’s visuals are on the next level. So glad to see @RLanceMartin gave a talk on agent memory based on his latest memory research blog. • Memory should be selective. Stronger models saved strategic insights instead of logging everything or failure cases. • Memory is dynamic. “Dreaming” helped an agent recover from a wrong note. Life can only be understood backward, it must be lived forward. Extracting memories is a beautiful journey to find truth of life. The journey is the reward. ✨ @aiDotEngineer",
-   "url": "https://nitter.kareem.one/vela_gao/status/2121001155958624728#m",
-   "ts": 1794521056,
-   "id": "2121001155958624728#m"
   },
   {
    "handle": "Lingling_Wei",
