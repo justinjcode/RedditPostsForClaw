@@ -1,20 +1,38 @@
 {
- "generated_at": "2026-11-15T03:10:11Z",
+ "generated_at": "2026-11-15T03:21:16Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
-  "@Lingling_Wei: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "holy shit u guys a lot of poteto lauren (@poteto) my AIE talk is up! come hear how the grok @bot team ships so quickly without compromise on quality inv.kareem.one/O_zcc6Xl12g Link All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI 11,000 pull requests in one month, with a revert rate around 0.5%. ... youtube.com — https://nitter.kareem.one/poteto/status/2121673563489140863#m",
+   "url": "https://nitter.kareem.one/swyx/status/2121805160293007677#m",
+   "ts": 1794712746,
+   "id": "2121805160293007677#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Will the future that you want Geiger Capital (@Geiger_Capital) Choose your path Western man. — https://nitter.kareem.one/Geiger_Capital/status/2121769886770778182#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121802527524164015#m",
+   "ts": 1794712118,
+   "id": "2121802527524164015#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -32,6 +50,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2121770874885845044#m",
    "ts": 1794704571,
    "id": "2121770874885845044#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Choose your path Western man.",
+   "url": "https://nitter.kareem.one/Geiger_Capital/status/2121769886770778182#m",
+   "ts": 1794704336,
+   "id": "2121769886770778182#m"
   },
   {
    "handle": "elonmusk",
@@ -163,28 +190,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "RT by @elonmusk: Image",
-   "url": "https://nitter.kareem.one/johnkrausphotos/status/2121734817524109692#m",
-   "ts": 1794695975,
-   "id": "2121734817524109692#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "The next time you want to give up, think of this image:",
    "url": "https://nitter.kareem.one/cb_doge/status/2121733104499077522#m",
    "ts": 1794695566,
    "id": "2121733104499077522#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "You can quote me on this. Sometimes it all works.",
-   "url": "https://nitter.kareem.one/ShanaDiez/status/2121730309666578510#m",
-   "ts": 1794694900,
-   "id": "2121730309666578510#m"
   },
   {
    "handle": "elonmusk",
@@ -383,15 +392,6 @@
    "url": "https://nitter.kareem.one/JuanPa/status/2121286664324845577#m",
    "ts": 1794589127,
    "id": "2121286664324845577#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "I had a great time at the after-party yesterday: good chats, new friends, big ideas, and many agents to kick off on the flight home. In the last conf photo: the amazing @miguelbranco80 and @dexhorthy . Thanks to everyone at @aiDotEngineer for the experience. See you soon.",
-   "url": "https://nitter.kareem.one/henriquebastos/status/2121272553683792272#m",
-   "ts": 1794585762,
-   "id": "2121272553683792272#m"
   },
   {
    "handle": "ZichenWanghere",
