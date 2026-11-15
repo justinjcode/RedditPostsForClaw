@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-11-15T04:10:38Z",
+ "generated_at": "2026-11-15T04:21:22Z",
  "accounts_ok": [
-  "ZichenWanghere",
+  "TheRundownAI",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -9,20 +10,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
- "count": 178,
+ "count": 177,
  "items": [
   {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "holy shit u guys a lot of poteto lauren (@poteto) my AIE talk is up! come hear how the grok @bot team ships so quickly without compromise on quality inv.kareem.one/O_zcc6Xl12g Link All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI 11,000 pull requests in one month, with a revert rate around 0.5%. ... youtube.com — https://nitter.kareem.one/poteto/status/2121673563489140863#m",
-   "url": "https://nitter.kareem.one/swyx/status/2121805160293007677#m",
-   "ts": 1794712746,
-   "id": "2121805160293007677#m"
+   "text": "holy shit u guys like a lot of poteto lauren (@poteto) my AIE talk is up! come hear how the grok @bot team ships so quickly without compromise on quality inv.kareem.one/O_zcc6Xl12g Link All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI 11,000 pull requests in one month, with a revert rate around 0.5%. ... youtube.com — https://nitter.kareem.one/poteto/status/2121673563489140863#m",
+   "url": "https://nitter.kareem.one/swyx/status/2121815348370612414#m",
+   "ts": 1794715175,
+   "id": "2121815348370612414#m"
   },
   {
    "handle": "elonmusk",
@@ -518,15 +518,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2121062974161092792#m",
    "ts": 1794535795,
    "id": "2121062974161092792#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "i couldn’t find the light so i became it",
-   "url": "https://nitter.kareem.one/fadedbunny/status/2121054337980063822#m",
-   "ts": 1794533736,
-   "id": "2121054337980063822#m"
   },
   {
    "handle": "ZichenWanghere",
