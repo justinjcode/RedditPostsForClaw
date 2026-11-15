@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-15T03:56:39Z",
+ "generated_at": "2026-11-15T04:10:38Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "bcherny",
+  "ZichenWanghere",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
-  "@ZichenWanghere: all instances failed",
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed",
   "@TheRundownAI: all instances failed"
  ],
  "count": 178,
@@ -484,6 +484,15 @@
    "id": "2121143436590100829#m"
   },
   {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "from jensen's biographer ( @stephenwitt ) in today's NYT",
+   "url": "https://nitter.kareem.one/pw_mcgovern/status/2121118282807918867#m",
+   "ts": 1794548981,
+   "id": "2121118282807918867#m"
+  },
+  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -869,15 +878,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2120552003579330755#m",
    "ts": 1794413970,
    "id": "2120552003579330755#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Support Max the Cat, he's been wrongly accused and needs your help.",
-   "url": "https://nitter.kareem.one/Kurokojin/status/2120485753226731544#m",
-   "ts": 1794398174,
-   "id": "2120485753226731544#m"
   },
   {
    "handle": "thsottiaux",
