@@ -1,20 +1,146 @@
 {
- "generated_at": "2026-11-15T02:12:15Z",
+ "generated_at": "2026-11-15T14:08:17Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
   {
+   "subreddit": "LocalLLaMA",
+   "title": "higurashi-ai/Haru-4B · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xww5o2/higurashiaiharu4b_hugging_face/",
+   "ts": 1794751132,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
-   "title": "8 months of running a 2014 MacBook Pro as a home server, and what I upgraded",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xwiwtq/8_months_of_running_a_2014_macbook_pro_as_a_home/",
-   "ts": 1794706080,
+   "title": "I built a lightweight Cloudflare Worker to boost throttled downloads to full edge line speed",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xwvu4y/i_built_a_lightweight_cloudflare_worker_to_boost/",
+   "ts": 1794750246,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Delivery to microsoft failing",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xwuv3z/delivery_to_microsoft_failing/",
+   "ts": 1794747487,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Two months in, still extremely happy with self-hosting my own AI",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xwutsy/two_months_in_still_extremely_happy_with/",
+   "ts": 1794747373,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Agnes-AI/Agnes-2.5-Pro-Theta • HuggingFace",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwu5jt/agnesaiagnes25protheta_huggingface/",
+   "ts": 1794745250,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Latest version of strata made my Qwen3.8-Flash-Next dumb and useless",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwttcw/latest_version_of_strata_made_my_qwen38flashnext/",
+   "ts": 1794744155,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "What Go 1.27’s generic methods made possible for ORMs. Compile-checked columns with no generated code",
+   "url": "https://www.reddit.com/r/programming/comments/1xwtfmr/what_go_127s_generic_methods_made_possible_for/",
+   "ts": 1794742861,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "[Paper] No Second Run: Does RSI Stop at Frontier Pre-training? - 801-30B-A3B-Base Coming Soon",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwt3ri/paper_no_second_run_does_rsi_stop_at_frontier/",
+   "ts": 1794741672,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Placing an implant into AI brain with Lazarus: Anatomy of a trojan",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwsrp1/placing_an_implant_into_ai_brain_with_lazarus/",
+   "ts": 1794740469,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Slack’s Migration to a Cellular Architecture",
+   "url": "https://www.reddit.com/r/programming/comments/1xwsbxo/slacks_migration_to_a_cellular_architecture/",
+   "ts": 1794738808,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Alt for Searxng - over fighting it",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xws64e/alt_for_searxng_over_fighting_it/",
+   "ts": 1794738194,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Is the Dell Optiplex 9020M suitable for hosting a Minecraft server?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xwrl6g/is_the_dell_optiplex_9020m_suitable_for_hosting_a/",
+   "ts": 1794735996,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Best sub 80b total or 6b active MoE for document intelligence?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwre6c/best_sub_80b_total_or_6b_active_moe_for_document/",
+   "ts": 1794735252,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "EUROPA, the EU's open AI model, is aiming for nearly 1 trillion parameters",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwr917/europa_the_eus_open_ai_model_is_aiming_for_nearly/",
+   "ts": 1794734697,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "The best (and AMD-est) computer I've ever owned",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwqvd2/the_best_and_amdest_computer_ive_ever_owned/",
+   "ts": 1794733252,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Benchmarking PocketBase + SQLite on a $4/mo Hetzner VPS: 1,420 RPS, WAL mode, and continuous Cloudflare R2 backup with Litestream",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xwq1ly/benchmarking_pocketbase_sqlite_on_a_4mo_hetzner/",
+   "ts": 1794730067,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Pixelserv question",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xwppd4/pixelserv_question/",
+   "ts": 1794728814,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Infisical paywalled custom roles for self-hosters in a patch release. unstar it.",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xwoq7y/infisical_paywalled_custom_roles_for_selfhosters/",
+   "ts": 1794725218,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "RASA will cause total chaos to open LLMs and beyond",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwmnkw/rasa_will_cause_total_chaos_to_open_llms_and/",
+   "ts": 1794718023,
    "source": "Reddit"
   },
   {
@@ -22,13 +148,6 @@
    "title": "ACM Multimedia 2026: TimeCues Studio - a free, open-source tool for annotating music structure [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xwh3mw/acm_multimedia_2026_timecues_studio_a_free/",
    "ts": 1794700768,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Win11 VM on i7 7700K🫣",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xwgjd5/win11_vm_on_i7_7700k/",
-   "ts": 1794699137,
    "source": "Reddit"
   },
   {
@@ -50,13 +169,6 @@
    "title": "Something happend to my gpu...",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xwevjs/something_happend_to_my_gpu/",
    "ts": 1794694576,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Qwen3 4B / 8B / 14B at ~2.7 bits per weight with Leech lattice quantization. Beats IQ2_S on quality at the same size, loses on speed [open source, Rust + CUDA]",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwerbo/qwen3_4b_8b_14b_at_27_bits_per_weight_with_leech/",
-   "ts": 1794694259,
    "source": "Reddit"
   },
   {
@@ -88,20 +200,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "CUPS Server with Very Old Laptop",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xwazie/cups_server_with_very_old_laptop/",
-   "ts": 1794684406,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Update: tandem.cpp — DeepSeek-V4.1 on a 64 GB PC with a 16 GB card, and AMD (ROCm) support",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwan2j/update_tandemcpp_deepseekv41_on_a_64_gb_pc_with_a/",
-   "ts": 1794683565,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "What we learned operating auth for 1,000+ APIs",
    "url": "https://www.reddit.com/r/programming/comments/1xwac98/what_we_learned_operating_auth_for_1000_apis/",
@@ -113,13 +211,6 @@
    "title": "Webmail client with notifications?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xw9rwf/webmail_client_with_notifications/",
    "ts": 1794681454,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "nex-agi/Nex-N2.6 · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw9mpa/nexaginexn26_hugging_face/",
-   "ts": 1794681109,
    "source": "Reddit"
   },
   {
@@ -137,13 +228,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "tiny-voca: a fully open 4.5M-parameter TTS (code, weights, dataset). Runs 70x real time on a CPU",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw7zrg/tinyvoca_a_fully_open_45mparameter_tts_code/",
-   "ts": 1794677173,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Should short-horizon price forecasting papers benchmark against market-implied forecasts, not just naive baselines? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xw6fk9/should_shorthorizon_price_forecasting_papers/",
@@ -158,31 +242,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "A Unicode Escape Can Turn a Java Comment Into Executable Code",
-   "url": "https://www.reddit.com/r/programming/comments/1xw63wj/a_unicode_escape_can_turn_a_java_comment_into/",
-   "ts": 1794672610,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "ICLR 2027 Rebuttal [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xw5uwe/iclr_2027_rebuttal_d/",
    "ts": 1794672001,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Anyone running their own cloud gaming PC on AWS instead of GeForce NOW? What went wrong?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xw5bj6/anyone_running_their_own_cloud_gaming_pc_on_aws/",
-   "ts": 1794670639,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Why don’t we have national open AI models?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw4ue3/why_dont_we_have_national_open_ai_models/",
-   "ts": 1794669427,
    "source": "Reddit"
   },
   {
@@ -207,13 +270,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "The lawyer who posts here about his V100s got his story picked up by Tom’s Hardware",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw2ogq/the_lawyer_who_posts_here_about_his_v100s_got_his/",
-   "ts": 1794663672,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Beating the frontier on NetHack",
    "url": "https://www.reddit.com/r/programming/comments/1xw2equ/beating_the_frontier_on_nethack/",
@@ -225,20 +281,6 @@
    "title": "Inkheart 1.5 - UI Refresh, full-text search, and multi-document reader tabs",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xw2dqs/inkheart_15_ui_refresh_fulltext_search_and/",
    "ts": 1794662815,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Postfalcon: a lightweight self-hosted social media scheduler (AGPL, one-command Docker install)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xw25ir/postfalcon_a_lightweight_selfhosted_social_media/",
-   "ts": 1794662128,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Backing up my VPS docker services and host configurations - suggestions",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xw22hn/backing_up_my_vps_docker_services_and_host/",
-   "ts": 1794661864,
    "source": "Reddit"
   },
   {
@@ -263,13 +305,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "How long are we gonna depend bunch of model creators (like Qwen, Gemma, NVIDIA, etc.,) for ~100B models?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw0xeu/how_long_are_we_gonna_depend_bunch_of_model/",
-   "ts": 1794658250,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Great Video for Understanding How Cosine Similarity Works [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xw0dgg/great_video_for_understanding_how_cosine/",
@@ -277,24 +312,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "IBM trains two small open models to ignore orders hidden in documents",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw09tu/ibm_trains_two_small_open_models_to_ignore_orders/",
-   "ts": 1794656006,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Building a Local AI Photography Editing Assistant. Anyone working on something similar? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xvzkwz/building_a_local_ai_photography_editing_assistant/",
    "ts": 1794653483,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "sensenova/SenseNova-Loop-9B-Preview · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvysss/sensenovasensenovaloop9bpreview_hugging_face/",
-   "ts": 1794650545,
    "source": "Reddit"
   },
   {
@@ -340,13 +361,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "TaskView v1.58.2 - Massive Update! + Realtime updates + UI + Calendar + Attachments",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xvl93q/taskview_v1582_massive_update_realtime_updates_ui/",
-   "ts": 1794607602,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "ICML 2027 Changes [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xvkxbj/icml_2027_changes_d/",
@@ -372,20 +386,6 @@
    "title": "Concurrent Shell Command Queues",
    "url": "https://www.reddit.com/r/programming/comments/1xviun2/concurrent_shell_command_queues/",
    "ts": 1794601895,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "MusixMatch threatens navidrome-musixmatch-plugin",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xvd79u/musixmatch_threatens_navidromemusixmatchplugin/",
-   "ts": 1794589136,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "ML Modules for Mere Mortals",
-   "url": "https://www.reddit.com/r/programming/comments/1xva4qf/ml_modules_for_mere_mortals/",
-   "ts": 1794582097,
    "source": "Reddit"
   },
   {
