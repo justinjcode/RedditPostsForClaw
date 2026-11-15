@@ -1,15 +1,43 @@
 {
- "generated_at": "2026-11-14T22:08:08Z",
+ "generated_at": "2026-11-15T00:21:41Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "MachineLearning",
+   "title": "ACM Multimedia 2026: TimeCues Studio - a free, open-source tool for annotating music structure [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xwh3mw/acm_multimedia_2026_timecues_studio_a_free/",
+   "ts": 1794700768,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Win11 VM on i7 7700K🫣",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xwgjd5/win11_vm_on_i7_7700k/",
+   "ts": 1794699137,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Someone shared this on Twitter and Love using this agent control plane",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xwf8c9/someone_shared_this_on_twitter_and_love_using/",
+   "ts": 1794695549,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Something happend to my gpu...",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xwevjs/something_happend_to_my_gpu/",
+   "ts": 1794694576,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Hot take: frontier models haven’t actually become much smarter",
@@ -141,13 +169,6 @@
    "title": "Why don’t we have national open AI models?",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw4ue3/why_dont_we_have_national_open_ai_models/",
    "ts": 1794669427,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Pingclair: a Caddyfile-style web server & reverse proxy in Rust (built on Pingora)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xw48dm/pingclair_a_caddyfilestyle_web_server_reverse/",
-   "ts": 1794667853,
    "source": "Reddit"
   },
   {
@@ -306,20 +327,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Starter Tutorial Recs",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xvqpjv/starter_tutorial_recs/",
-   "ts": 1794622699,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Apache CVE-2026-119618 (CVSS 9.8, mod_http2 RCE): quick check + mitigation if your distro hasn't shipped 2.4.71 yet",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xvqi4i/apache_cve2026119618_cvss_98_mod_http2_rce_quick/",
-   "ts": 1794622060,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "Selfhosted Aircraft Control",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xvotr4/selfhosted_aircraft_control/",
    "ts": 1794617071,
@@ -386,13 +393,6 @@
    "title": "Formatting an entire 25 million line codebase overnight: the rubyfmt story",
    "url": "https://www.reddit.com/r/programming/comments/1xv8oe9/formatting_an_entire_25_million_line_codebase/",
    "ts": 1794578537,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Paid surveys for Machine Learning Scientists for SnorkelAI: Absolutely not worth it [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xv4rjy/paid_surveys_for_machine_learning_scientists_for/",
-   "ts": 1794567010,
    "source": "Reddit"
   },
   {
