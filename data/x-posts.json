@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-11-15T07:37:11Z",
+ "generated_at": "2026-11-15T07:44:21Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
   {
@@ -160,6 +159,24 @@
    "id": "2121757606801023085#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Wow, así se vio el catch de la Ship vista desde Matamoros, México. FUE UNA LOCURAAA 🚀❤️ #Starship #SpaceX Video",
+   "url": "https://nitter.kareem.one/Pedroascenbell/status/2121751082531463566#m",
+   "ts": 1794699852,
+   "id": "2121751082531463566#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Amidst all the chaos that happened in the past few days, this makes me feel proud of humanity. Andrew McCarthy (@AJamesMcCarthy) After careful consideration I’ve decided I’m quite bullish on civilization KARDASHEV II HERE WE COME! Video — https://nitter.kareem.one/AJamesMcCarthy/status/2121719522549973133#m",
+   "url": "https://nitter.kareem.one/DannyLimanseta/status/2121750430619480211#m",
+   "ts": 1794699697,
+   "id": "2121750430619480211#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -167,15 +184,6 @@
    "url": "https://nitter.kareem.one/mstockton/status/2121750278395330859#m",
    "ts": 1794699661,
    "id": "2121750278395330859#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "“Physics is the law. Everything else is a recommendation.” @elonmusk told me that at DealBook in 2023. Today, SpaceX caught Starship after 14 orbits of Earth. Plenty doubted it was possible. Just extraordinary. @SpaceX . Video",
-   "url": "https://nitter.kareem.one/andrewrsorkin/status/2121745318618571231#m",
-   "ts": 1794698478,
-   "id": "2121745318618571231#m"
   },
   {
    "handle": "swyx",
@@ -212,15 +220,6 @@
    "url": "https://nitter.kareem.one/edwards345/status/2121718457771377001#m",
    "ts": 1794692074,
    "id": "2121718457771377001#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "it feels great to be an american. it feels fucking great to be an american will depue (@willdepue) THEY FUCKING DID IT. THEY FUCKING DID IT. OH MY GOD — https://nitter.kareem.one/willdepue/status/2121717694877626686#m",
-   "url": "https://nitter.kareem.one/willdepue/status/2121718147854279127#m",
-   "ts": 1794692000,
-   "id": "2121718147854279127#m"
   },
   {
    "handle": "elonmusk",
