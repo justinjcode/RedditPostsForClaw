@@ -1,15 +1,64 @@
 {
- "generated_at": "2026-11-15T14:08:17Z",
+ "generated_at": "2026-11-15T16:08:36Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
+  "MachineLearning",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "Understanding Go: inside PGO",
+   "url": "https://www.reddit.com/r/programming/comments/1xwz44b/understanding_go_inside_pgo/",
+   "ts": 1794758596,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "544 unmaintained PyPI packages with imports that fail on Python 3.12+ still get 100M+ downloads a month",
+   "url": "https://www.reddit.com/r/programming/comments/1xwyhpm/544_unmaintained_pypi_packages_with_imports_that/",
+   "ts": 1794757060,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Vortix - Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xwy0n2/vortix_terminal_ui_for_wireguard_and_openvpn_with/",
+   "ts": 1794755869,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Help with Proxmox",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xwxrao/help_with_proxmox/",
+   "ts": 1794755217,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Brockett-Dobkin Rectangular Matrix Multiplication Algorithm From 1970s",
+   "url": "https://www.reddit.com/r/programming/comments/1xwxmp1/brockettdobkin_rectangular_matrix_multiplication/",
+   "ts": 1794754902,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Memory management in 40 major C projects, a survey",
+   "url": "https://www.reddit.com/r/programming/comments/1xwxhbp/memory_management_in_40_major_c_projects_a_survey/",
+   "ts": 1794754539,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Codex + Astra fails at Kaggle Titanic [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xwxcwm/codex_astra_fails_at_kaggle_titanic_p/",
+   "ts": 1794754230,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "higurashi-ai/Haru-4B · Hugging Face",
@@ -22,6 +71,13 @@
    "title": "I built a lightweight Cloudflare Worker to boost throttled downloads to full edge line speed",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xwvu4y/i_built_a_lightweight_cloudflare_worker_to_boost/",
    "ts": 1794750246,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "I don't think double-blind review systems work [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xwuwqd/i_dont_think_doubleblind_review_systems_work_d/",
+   "ts": 1794747615,
    "source": "Reddit"
   },
   {
@@ -43,6 +99,13 @@
    "title": "Agnes-AI/Agnes-2.5-Pro-Theta • HuggingFace",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwu5jt/agnesaiagnes25protheta_huggingface/",
    "ts": 1794745250,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Hackathon project for MariaDB's Wikipedia Through Time challenge: matching sentences across seven Wikipedia editions at any past date [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xwttxo/hackathon_project_for_mariadbs_wikipedia_through/",
+   "ts": 1794744207,
    "source": "Reddit"
   },
   {
@@ -109,17 +172,17 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "MachineLearning",
+   "title": "With 42k submissions to ICLR, do you think the acceptance rate will stay the same? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xwqxwj/with_42k_submissions_to_iclr_do_you_think_the/",
+   "ts": 1794733522,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "LocalLLaMA",
    "title": "The best (and AMD-est) computer I've ever owned",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwqvd2/the_best_and_amdest_computer_ive_ever_owned/",
    "ts": 1794733252,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Benchmarking PocketBase + SQLite on a $4/mo Hetzner VPS: 1,420 RPS, WAL mode, and continuous Cloudflare R2 backup with Litestream",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xwq1ly/benchmarking_pocketbase_sqlite_on_a_4mo_hetzner/",
-   "ts": 1794730067,
    "source": "Reddit"
   },
   {
@@ -179,13 +242,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "How to provide secure bootstrap access in the event of a total loss?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xwd1sf/how_to_provide_secure_bootstrap_access_in_the/",
-   "ts": 1794689688,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "ICLR 2027 Initial Review Scores ranked by University [N]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xwcjuq/iclr_2027_initial_review_scores_ranked_by/",
@@ -211,13 +267,6 @@
    "title": "Webmail client with notifications?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xw9rwf/webmail_client_with_notifications/",
    "ts": 1794681454,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Anonymous GitHub not working [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xw9m5h/anonymous_github_not_working_d/",
-   "ts": 1794681076,
    "source": "Reddit"
   },
   {
@@ -250,13 +299,6 @@
   },
   {
    "subreddit": "MachineLearning",
-   "title": "Graph Attention Networks for Detecting Epilepsy From EEG Signals Using Accessible Hardware in Low-Resource Settings [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xw3si8/graph_attention_networks_for_detecting_epilepsy/",
-   "ts": 1794666689,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
    "title": "Is it compulsory to upload neurips poster by 15th Nov? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xw3q5f/is_it_compulsory_to_upload_neurips_poster_by_15th/",
    "ts": 1794666522,
@@ -285,13 +327,6 @@
   },
   {
    "subreddit": "programming",
-   "title": "Problem with concurrent linter fixes",
-   "url": "https://www.reddit.com/r/programming/comments/1xw1um8/problem_with_concurrent_linter_fixes/",
-   "ts": 1794661228,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
    "title": "It's all about the allocator",
    "url": "https://www.reddit.com/r/programming/comments/1xw1sem/its_all_about_the_allocator/",
    "ts": 1794661055,
@@ -302,20 +337,6 @@
    "title": "ICLR rebuttal [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xw19o8/iclr_rebuttal_r/",
    "ts": 1794659377,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Great Video for Understanding How Cosine Similarity Works [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xw0dgg/great_video_for_understanding_how_cosine/",
-   "ts": 1794656379,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Building a Local AI Photography Editing Assistant. Anyone working on something similar? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xvzkwz/building_a_local_ai_photography_editing_assistant/",
-   "ts": 1794653483,
    "source": "Reddit"
   },
   {
@@ -354,13 +375,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Uber’s Rate Limiting System",
-   "url": "https://www.reddit.com/r/programming/comments/1xvmjn4/ubers_rate_limiting_system/",
-   "ts": 1794610885,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "ICML 2027 Changes [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xvkxbj/icml_2027_changes_d/",
@@ -379,20 +393,6 @@
    "title": "Announcing Rust 1.100.0",
    "url": "https://www.reddit.com/r/programming/comments/1xvixj7/announcing_rust_11000/",
    "ts": 1794602093,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Concurrent Shell Command Queues",
-   "url": "https://www.reddit.com/r/programming/comments/1xviun2/concurrent_shell_command_queues/",
-   "ts": 1794601895,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Formatting an entire 25 million line codebase overnight: the rubyfmt story",
-   "url": "https://www.reddit.com/r/programming/comments/1xv8oe9/formatting_an_entire_25_million_line_codebase/",
-   "ts": 1794578537,
    "source": "Reddit"
   },
   {
