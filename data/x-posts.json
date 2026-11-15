@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-15T02:55:49Z",
+ "generated_at": "2026-11-15T03:10:11Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,7 +10,8 @@
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed"
+  "@swyx: all instances failed",
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 178,
  "items": [
@@ -95,6 +95,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2121759042582589821#m",
    "ts": 1794701750,
    "id": "2121759042582589821#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "原来08年汶川地震，北京市海淀外国语实验学校接收了 101 名灾区学生。黄仁勋特地去了次北京捐了400 万。还送了个电脑教室。",
+   "url": "https://nitter.kareem.one/CuiMao/status/2121758160893735085#m",
+   "ts": 1794701540,
+   "id": "2121758160893735085#m"
   },
   {
    "handle": "swyx",
@@ -842,15 +851,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2120644009618215418#m",
    "ts": 1794435906,
    "id": "2120644009618215418#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "要是搁以前我能在这把这些新闻吵翻天 现在我真是毫无兴趣说一点点这些东西",
-   "url": "https://nitter.kareem.one/ZichenWanghere/status/2120586101421470051#m",
-   "ts": 1794422099,
-   "id": "2120586101421470051#m"
   },
   {
    "handle": "TheRundownAI",
