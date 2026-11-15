@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-15T03:30:17Z",
+ "generated_at": "2026-11-15T03:39:56Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
   {
@@ -68,6 +67,15 @@
    "url": "https://nitter.kareem.one/SciGuySpace/status/2121766186492805263#m",
    "ts": 1794703454,
    "id": "2121766186492805263#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "Ted Plafker arrived in China in 1989, and planned to remain a few weeks and return to America to find work as a journalist. He ended up staying, and became a mainstay of The Economist’s China coverage. We remember our colleague economist.com/china/2026/11/… Link Ted Plafker, a stalwart of our China coverage, has died He was a giant among Western journalists in the country economist.com",
+   "url": "https://nitter.kareem.one/TheEconomist/status/2121765137640014240#m",
+   "ts": 1794703203,
+   "id": "2121765137640014240#m"
   },
   {
    "handle": "elonmusk",
@@ -824,15 +832,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2120652316801917274#m",
    "ts": 1794437886,
    "id": "2120652316801917274#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "A guard at the Tomb of the Unknown Soldier at Arlington National Cemetery has loudly reprimanded a group of people that included Defence Secretary Pete Hegseth for making noise at the memorial following a Veterans Day ceremony. Video",
-   "url": "https://nitter.kareem.one/BBCWorld/status/2120650414173422044#m",
-   "ts": 1794437433,
-   "id": "2120650414173422044#m"
   },
   {
    "handle": "Lingling_Wei",
