@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-11-15T13:26:14Z",
+ "generated_at": "2026-11-15T13:35:01Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -9,10 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
   {
@@ -739,6 +738,15 @@
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
+   "text": "Transcript: The 25th Anniversary of China’s Accession to the WTO and the Future of the Global Trading System Henry Huiyao Wang, Pascal Lamy, Arancha González, Huang Rengang, Xu Shanda, and Tim Stratford on trade imbalances, WTO reform, and more. pekingnology.com/cp/22440536… Link Transcript: The 25th Anniversary of China’s Accession to the WTO and the Future of the Global... Henry Huiyao Wang, Pascal Lamy, Arancha González, Huang Rengang, Xu Shanda, and Tim Stratford discuss trade imbalances, WTO reform, market access, and prospects for renewed international cooperation. pekingnology.com",
+   "url": "https://nitter.kareem.one/CCG_org/status/2120755533925986408#m",
+   "ts": 1794462495,
+   "id": "2120755533925986408#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
    "text": "我是主人我也气 我是路人我也按 Enmmm………",
    "url": "https://nitter.kareem.one/Hannah_juzi/status/2120742634390249909#m",
    "ts": 1794459420,
@@ -806,15 +814,6 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2120665215151087861#m",
    "ts": 1794440962,
    "id": "2120665215151087861#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "在喧囂裡學會暫停，才能聽見內心真正的聲音。你今天有沒有給自己一點安靜的時間？ In the noise, learn to pause so you can hear the true voice within. Have you given yourself some quiet time today?",
-   "url": "https://nitter.kareem.one/HappyTankcat/status/2120659765223358848#m",
-   "ts": 1794439662,
-   "id": "2120659765223358848#m"
   },
   {
    "handle": "TheRundownAI",
