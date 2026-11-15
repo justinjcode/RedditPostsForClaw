@@ -1,20 +1,28 @@
 {
- "generated_at": "2026-11-15T07:57:44Z",
+ "generated_at": "2026-11-15T08:09:58Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed",
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Great day Demis Hassabis (@demishassabis) One of the coolest things I've ever seen!! Loved the thunderclap as the starship dropped out of the heavens, before the catch. True alien tech. Huge congrats @elonmusk and the @SpaceX team! the whole stack is now proven out. Ad Astra! 🚀 — https://nitter.kareem.one/demishassabis/status/2121773351093895413#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121875056817328621#m",
+   "ts": 1794729410,
+   "id": "2121875056817328621#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -194,15 +202,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2121738675705029005#m",
    "ts": 1794696894,
    "id": "2121738675705029005#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "On Friday, November 13, Starship lifted off from Starbase, Texas on its 15th flight. On Saturday, November 14, Starship returned to Starbase, Texas, and changed everything → spacex.com/launches/starship…",
-   "url": "https://nitter.kareem.one/SpaceX/status/2121738348804857963#m",
-   "ts": 1794696817,
-   "id": "2121738348804857963#m"
   },
   {
    "handle": "elonmusk",
