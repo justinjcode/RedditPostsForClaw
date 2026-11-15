@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-15T18:27:44Z",
+ "generated_at": "2026-11-15T18:35:50Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +10,38 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "clanker wrote up the talk ai.engineer/code/2026/talks/… Link AI Engineer AI Engineer is the community and conference series for software engineers building with AI. Join thousands of AI engineers at our events worldwide. ai.engineer",
+   "url": "https://nitter.kareem.one/swyx/status/2122032217430032548#m",
+   "ts": 1794766880,
+   "id": "2122032217430032548#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "clanker wrote up a short recap of the talk ai.engineer/code/2026/talks/… Link AI Engineer AI Engineer is the community and conference series for software engineers building with AI. Join thousands of AI engineers at our events worldwide. ai.engineer",
+   "url": "https://nitter.kareem.one/swyx/status/2122031563961684032#m",
+   "ts": 1794766724,
+   "id": "2122031563961684032#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "11,000 pull requests in one month. A revert rate around 0.5%. @poteto on the Grok Bot team's shipping pace at @spacexai . More contributors, daily stable releases, and an app that got faster. From AI Engineer Code Summit. Video",
+   "url": "https://nitter.kareem.one/aiDotEngineer/status/2121981562824564960#m",
+   "ts": 1794754803,
+   "id": "2121981562824564960#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -297,19 +325,10 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "taking day 1 view count predictions for the @poteto talk launching in 30 mins inv.kareem.one/O_zcc6Xl12g hit the bell etc swyx (@swyx) 500k views in 2.5 days. @lydiahallie is on track to hit 1m in the fastest pace in aie history — https://nitter.kareem.one/swyx/status/2121661230259839408#m",
+   "text": "taking day 1 view count predictions for the @poteto talk launching in 30 mins inv.kareem.one/O_zcc6Xl12g hit the bell etc",
    "url": "https://nitter.kareem.one/aiDotEngineer/status/2121664913450189049#m",
    "ts": 1794679308,
    "id": "2121664913450189049#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "500k views in 2.5 days. @lydiahallie is on track to hit 1m in the fastest pace in aie history",
-   "url": "https://nitter.kareem.one/swyx/status/2121661230259839408#m",
-   "ts": 1794678430,
-   "id": "2121661230259839408#m"
   },
   {
    "handle": "swyx",
@@ -364,24 +383,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2121473082372292885#m",
    "ts": 1794633572,
    "id": "2121473082372292885#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Pretty cool in San Francisco you can watch @swyx perform musical theater for a cool 34 bucks !!! Link to tickets below Video swyx (@swyx) and straight to broadway show rehearsal :) see you saturday Video — https://nitter.kareem.one/swyx/status/2121088973372334443#m",
-   "url": "https://nitter.kareem.one/0xmaz_/status/2121469001553555648#m",
-   "ts": 1794632599,
-   "id": "2121469001553555648#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "what a week at @aiDotEngineer . thanks to @swyx , @Beccalytics and team for putting so many world class builders in one room and to @melvinjohnsonp for closing things out on stage. shipping season is in full swing. see you at AIE Europe in Feb!",
-   "url": "https://nitter.kareem.one/vadiamit/status/2121467430711259327#m",
-   "ts": 1794632225,
-   "id": "2121467430711259327#m"
   },
   {
    "handle": "Lingling_Wei",
