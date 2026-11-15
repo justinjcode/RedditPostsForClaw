@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-15T00:18:16Z",
+ "generated_at": "2026-11-15T00:49:28Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "elonmusk",
@@ -11,10 +10,74 @@
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed"
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Thanks Ted Lieu (@tedlieu) Congratulations to SpaceX for making history with an amazing feat of engineering! — https://nitter.kareem.one/tedlieu/status/2121754217954382037#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121764319792677119#m",
+   "ts": 1794703008,
+   "id": "2121764319792677119#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "I hugged ship 42 upon its return",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121763977349013884#m",
+   "ts": 1794702927,
+   "id": "2121763977349013884#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Some phone videos I took from the tower Video Video",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121763396190179414#m",
+   "ts": 1794702788,
+   "id": "2121763396190179414#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "RT by @elonmusk: Image",
+   "url": "https://nitter.kareem.one/johnkrausphotos/status/2121761584804503927#m",
+   "ts": 1794702356,
+   "id": "2121761584804503927#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The epic day has arrived, thanks to the incredibly talented team at SpaceX! Walter Isaacson (@WalterIsaacson) This is actually a bigger deal for humanity than most people can imagine. I will always remember the looks on the engineers’ faces in the Starbase conference room in December 2020 when @elonmusk suggested, then insisted, that the Mechazilla launchpad arms could catch a returning Starship. — https://nitter.kareem.one/WalterIsaacson/status/2121725076919717899#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121759522851115109#m",
+   "ts": 1794701865,
+   "id": "2121759522851115109#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Three booster catches and a ship DogeDesigner (@cb_doge) SpaceX keeps making history. • Oct 13, 2024: First booster catch • Jan 16, 2025: Second booster catch • Mar 6, 2025: Third booster catch • Nov 14, 2026: First Starship catch Video — https://nitter.kareem.one/cb_doge/status/2121719723805258178#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2121759042582589821#m",
+   "ts": 1794701750,
+   "id": "2121759042582589821#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "obviously correct, we are so suboptimal in AI UX rn it is crazy esp given existence of models too cheap to meter Bruce Liu (@liu_xingyu) AI interfaces nowadays are still pretty much turn-based. In my PhD thesis, I thought about what interaction would look like if we could go beyond taking turns. One example is intra-turn interaction: Video — https://nitter.kareem.one/liu_xingyu/status/2121015724374397183#m",
+   "url": "https://nitter.kareem.one/swyx/status/2121757606801023085#m",
+   "ts": 1794701408,
+   "id": "2121757606801023085#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -169,24 +232,6 @@
    "id": "2121701421183853007#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Starship deorbit burn in 30 seconds",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121700409173487768#m",
-   "ts": 1794687771,
-   "id": "2121700409173487768#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "All systems green for the deorbit burn of Starship SpaceX (@SpaceX) Teams have polled go to return Starship to the launch site at Starbase Video — https://nitter.kareem.one/SpaceX/status/2121684113526858011#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121695381759144393#m",
-   "ts": 1794686572,
-   "id": "2121695381759144393#m"
-  },
-  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -214,15 +259,6 @@
    "id": "2121685924824461739#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "RT by @elonmusk: Image",
-   "url": "https://nitter.kareem.one/johnkrausphotos/status/2121685266448429281#m",
-   "ts": 1794684161,
-   "id": "2121685266448429281#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -241,24 +277,6 @@
    "id": "2121673563489140863#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Actually, just looked closer and noticed that Tom, Gwynne and a few others aren’t in this particular picture, but they were certainly part of the company in those days",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121669169925996567#m",
-   "ts": 1794680323,
-   "id": "2121669169925996567#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "True, that pic shows everyone in the entire company of SpaceX in 2002! Tom Mueller ( @lrocket ) and Hans Koenigsmann, both amazing, world-class engineers, came by Mission Control last night. Good to see old friends ❤️ DogeDesigner (@cb_doge) How it started v/s How it's going — https://nitter.kareem.one/cb_doge/status/2121565736267293173#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2121668709064282507#m",
-   "ts": 1794680213,
-   "id": "2121668709064282507#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -266,15 +284,6 @@
    "url": "https://nitter.kareem.one/aiDotEngineer/status/2121664913450189049#m",
    "ts": 1794679308,
    "id": "2121664913450189049#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok Bot has been such a force multiplier for me. It’s insane. It provides you with a team of experts, and you get a totally customizable assistant. It replaces tools like search. It enhances applications like a CRM. It works on every device, so you can now do real work from your phone, then pick it up on your laptop or desktop. I often have 3 to 5 bots working on things simultaneously. If you have not tried it, use it for one month. It will blow you away. If already love it, share this message. Everyone that I get to use Grok Bot has become a total fan and feels the same way. I know the team, and they are working relentlessly around the clock to make the product do everything and anything that you need.",
-   "url": "https://nitter.kareem.one/adeoressi/status/2121661606824419580#m",
-   "ts": 1794678520,
-   "id": "2121661606824419580#m"
   },
   {
    "handle": "swyx",
@@ -374,15 +383,6 @@
    "url": "https://nitter.kareem.one/JuanPa/status/2121286664324845577#m",
    "ts": 1794589127,
    "id": "2121286664324845577#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "I had a great time at the after-party yesterday: good chats, new friends, big ideas, and many agents to kick off on the flight home. In the last conf photo: the amazing @miguelbranco80 and @dexhorthy . Thanks to everyone at @aiDotEngineer for the experience. See you soon.",
-   "url": "https://nitter.kareem.one/henriquebastos/status/2121272553683792272#m",
-   "ts": 1794585762,
-   "id": "2121272553683792272#m"
   },
   {
    "handle": "ZichenWanghere",
