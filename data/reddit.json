@@ -1,15 +1,43 @@
 {
- "generated_at": "2026-11-16T10:10:18Z",
+ "generated_at": "2026-11-16T12:16:27Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
+  "MachineLearning",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Anyone running game servers behind CGNAT? Looking for feedback on a friend-hosted relay approach",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xxns1w/anyone_running_game_servers_behind_cgnat_looking/",
+   "ts": 1794831030,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Ring programming language version 1.28 is released!",
+   "url": "https://www.reddit.com/r/programming/comments/1xxmn7s/ring_programming_language_version_128_is_released/",
+   "ts": 1794827111,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "When Good Practices Become Empty Rituals",
+   "url": "https://www.reddit.com/r/programming/comments/1xxm6d1/when_good_practices_become_empty_rituals/",
+   "ts": 1794825408,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "My backup plan was so good I didn’t notice my VM host had died for a week",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xxm4x3/my_backup_plan_was_so_good_i_didnt_notice_my_vm/",
+   "ts": 1794825257,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "The beginning of the becoming of the beginning begins",
@@ -67,13 +95,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Self Hosted Music Stack",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xxhxd7/self_hosted_music_stack/",
-   "ts": 1794809346,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "LocalLLaMA",
    "title": "[Release] Qwen3.8-27B-Perplexing-Pegasus-Heretic: Unified vision + typed decider + abliterated weights for local agent stacks (GGUF, AutoRound, NVFP4)",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxg12n/release_qwen3827bperplexingpegasusheretic_unified/",
@@ -127,13 +148,6 @@
    "title": "Self-hosted file storage recommendations",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xxas32/selfhosted_file_storage_recommendations/",
    "ts": 1794787278,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Comics Now! Supports Pdf and Epub formats.",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xxag83/comics_now_supports_pdf_and_epub_formats/",
-   "ts": 1794786442,
    "source": "Reddit"
   },
   {
@@ -369,13 +383,6 @@
   },
   {
    "subreddit": "programming",
-   "title": "Under the Hood: Serving Kimi K3 | DigitalOcean",
-   "url": "https://www.reddit.com/r/programming/comments/1xw3jy7/under_the_hood_serving_kimi_k3_digitalocean/",
-   "ts": 1794666079,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
    "title": "It's all about the allocator",
    "url": "https://www.reddit.com/r/programming/comments/1xw1sem/its_all_about_the_allocator/",
    "ts": 1794661055,
@@ -386,13 +393,6 @@
    "title": "How I accidentally became a millionaire",
    "url": "https://www.reddit.com/r/programming/comments/1xvr455/how_i_accidentally_became_a_millionaire/",
    "ts": 1794623901,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Announcing Rust 1.100.0",
-   "url": "https://www.reddit.com/r/programming/comments/1xvixj7/announcing_rust_11000/",
-   "ts": 1794602093,
    "source": "Reddit"
   },
   {
