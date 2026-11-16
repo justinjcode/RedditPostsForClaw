@@ -1,41 +1,55 @@
 {
- "generated_at": "2026-11-16T08:24:12Z",
+ "generated_at": "2026-11-16T10:10:18Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
   {
-   "subreddit": "selfhosted",
-   "title": "Luna - Open-source, Your AI but anywhere and anything",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xxjzdz/luna_opensource_your_ai_but_anywhere_and_anything/",
-   "ts": 1794816952,
+   "subreddit": "LocalLLaMA",
+   "title": "The beginning of the becoming of the beginning begins",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxlich/the_beginning_of_the_becoming_of_the_beginning/",
+   "ts": 1794822951,
    "source": "Reddit"
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "Official Qwen4-Max blog post with benchmarks",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxjpih/official_qwen4max_blog_post_with_benchmarks/",
-   "ts": 1794815962,
+   "title": "Introducing Hy4 flash",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxlgpb/introducing_hy4_flash/",
+   "ts": 1794822764,
    "source": "Reddit"
   },
   {
    "subreddit": "selfhosted",
-   "title": "I built Nuntivus, an open-source, self-hosted event delivery platform. Looking for early feedback",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xxjmvq/i_built_nuntivus_an_opensource_selfhosted_event/",
-   "ts": 1794815673,
+   "title": "Backing up and Snapshotting tools",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xxleyb/backing_up_and_snapshotting_tools/",
+   "ts": 1794822572,
    "source": "Reddit"
   },
   {
    "subreddit": "selfhosted",
-   "title": "I built xu526, a self-hosted PaaS that runs your compose stacks with scale-to-zero, plus a tunnel to share anything from your laptop",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xxjdp4/i_built_xu526_a_selfhosted_paas_that_runs_your/",
-   "ts": 1794814676,
+   "title": "Any blind self hosters?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xxkxps/any_blind_self_hosters/",
+   "ts": 1794820702,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "How JavaScript and Python actually run your code",
+   "url": "https://www.reddit.com/r/programming/comments/1xxk3zb/how_javascript_and_python_actually_run_your_code/",
+   "ts": 1794817455,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Lightweight Self Hosting: git push, and it's live on your own server",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xxk028/lightweight_self_hosting_git_push_and_its_live_on/",
+   "ts": 1794817024,
    "source": "Reddit"
   },
   {
@@ -263,13 +277,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Probable GLM model",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwy3ka/probable_glm_model/",
-   "ts": 1794756071,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Vortix - Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xwy0n2/vortix_terminal_ui_for_wireguard_and_openvpn_with/",
@@ -358,13 +365,6 @@
    "title": "What we learned operating auth for 1,000+ APIs",
    "url": "https://www.reddit.com/r/programming/comments/1xwac98/what_we_learned_operating_auth_for_1000_apis/",
    "ts": 1794682837,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Designing payouts that never payout twice: timeouts, an \"Unknown\" state, and idempotency in cross-border payments",
-   "url": "https://www.reddit.com/r/programming/comments/1xw8tdv/designing_payouts_that_never_payout_twice/",
-   "ts": 1794679182,
    "source": "Reddit"
   },
   {
