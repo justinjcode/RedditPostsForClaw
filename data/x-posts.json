@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-16T00:21:50Z",
+ "generated_at": "2026-11-16T00:52:06Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,27 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starlink helps rural schools with education DogeDesigner (@cb_doge) BREAKING: Every rural municipal school in Rondonópolis, Brazil, now has Starlink internet. 🇧🇷 Students and teachers can now access digital libraries, educational videos and online learning tools. SpaceX is bringing a world of knowledge to remote classrooms. ♥️ Video — https://nitter.kareem.one/cb_doge/status/2121955840370614708#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2122127527040712704#m",
+   "ts": 1794789604,
+   "id": "2122127527040712704#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Samsung will invest $1.9 billion to expand its chip plant in Austin, Texas, to produce semiconductors for @SpaceX 's Starlink satellites. The factory is expected to produce STM32V8 chips used in Starlink's laser communication systems, shifting production currently based in France to the U.S. The chips use an advanced 18nm FD-SOI process designed for high performance, low power consumption, and durability in harsh space environments. Production is targeted to begin by 2030, according to the Seoul Economic Daily.",
+   "url": "https://nitter.kareem.one/SawyerMerritt/status/2122116284628320705#m",
+   "ts": 1794786923,
+   "id": "2122116284628320705#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -259,15 +276,6 @@
    "id": "2121815348370612414#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "If you have kids, I highly recommend taking them to a launch. You can watch from the Margaritaville, the town beach or many other viewing locations open to the public. Sad to miss this one, great day for 🇺🇸",
-   "url": "https://nitter.kareem.one/GavinSBaker/status/2121777788797718785#m",
-   "ts": 1794706220,
-   "id": "2121777788797718785#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -410,15 +418,6 @@
    "url": "https://nitter.kareem.one/VeraMBergen/status/2121433632875352374#m",
    "ts": 1794624167,
    "id": "2121433632875352374#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "SpaceX is preparing for its 15th Starship launch from South Texas, with spectators gathering just across the street from the 400-foot rocket ahead of Friday’s planned test flight. The test is a key step in SpaceX’s goal of making Starship fully reusable for future missions, including expanding its Starlink network and eventually carrying astronauts to the Moon and Mars, @JasonAllenLive reports. Video",
-   "url": "https://nitter.kareem.one/CBSNews/status/2121344495266455814#m",
-   "ts": 1794602915,
-   "id": "2121344495266455814#m"
   },
   {
    "handle": "swyx",
