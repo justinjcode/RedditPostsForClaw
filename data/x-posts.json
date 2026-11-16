@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-16T17:29:30Z",
+ "generated_at": "2026-11-16T17:39:30Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "NEW: OpenAI is letting two outside AI safety groups, METR and Apollo Research, look inside its model training to check whether its AI behaves as intended. Apollo is placing six evaluators at OpenAI for four months to test whether models try to work around the systems meant to watch them. METR gets transcripts and model snapshots from OpenAI’s largest reinforcement learning run, and plans to publish what it finds.",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2122379979694707134#m",
+   "ts": 1794849793,
+   "id": "2122379979694707134#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -1021,15 +1031,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2120258951594037732#m",
    "ts": 1794344101,
    "id": "2120258951594037732#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "NEW: Anthropic is rolling out a wave of work tools inside Claude, including Whiteboards, Sheets, Meetings, and more. - Meetings (Team and Enterprise): Claude joins Google Meet calls and starts the follow-up work mid-call - Sheets: describe a budget or tracker and Claude builds the spreadsheet + built-in formulas - Whiteboards: Claude sorts a team brainstorm into a shared board with deadlines, then converts it to slides or a written doc - Data (now out of beta): company numbers turned into dashboards, written reports and narrated videos - Connectors: work in Adobe, Atlassian and Box apps without switching tabs Video",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2120224576663896305#m",
-   "ts": 1794335905,
-   "id": "2120224576663896305#m"
   },
   {
    "handle": "ZichenWanghere",
