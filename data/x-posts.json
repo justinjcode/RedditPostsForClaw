@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T19:56:09Z",
+ "generated_at": "2026-11-16T20:11:24Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,24 @@
  "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Clare is an AWESOME speaker, she was an instant accept at AIEWF and her talk instantly crushed it, especially hard to stand out on this track because you're in competition with some of the biggest household names in the world. would tune in for this AWS reInvent keynote 👀 Clare Liguori (@clare_liguori) I am so excited to lead the Developer keynote at AWS reInvent this year! Working on the talk track atm, and we've got such a great lineup of speakers, deep dives, and practical advice Sign up for the livestream here: aws.amazon.com/events/reinve… Monday, Nov 30, 7:30 pm - 8:45 pm — https://nitter.kareem.one/clare_liguori/status/2122390620308377771#m",
+   "url": "https://nitter.kareem.one/swyx/status/2122418961107284083#m",
+   "ts": 1794859087,
+   "id": "2122418961107284083#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Try Grok @Bot matt palmer (@mattyp) What's new in Grok Bot 1.0 🚀 00:45 Team Bot improvements 01:47 Bots join your meetings 03:26 Bots take initiative 04:10 Bots learn and improve 05:19 Bots are smarter and faster Lots of easter eggs in this one for y'all! Video — https://nitter.kareem.one/mattyp/status/2122343944889483583#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2122416056006324311#m",
+   "ts": 1794858394,
+   "id": "2122416056006324311#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -112,6 +130,15 @@
    "url": "https://nitter.kareem.one/aiDotEngineer/status/2122366588582015138#m",
    "ts": 1794846601,
    "id": "2122366588582015138#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starship 42 coming in for catch Video Video Video Video",
+   "url": "https://nitter.kareem.one/SpaceX/status/2122355344576037338#m",
+   "ts": 1794843920,
+   "id": "2122355344576037338#m"
   },
   {
    "handle": "TheRundownAI",
@@ -285,15 +312,6 @@
    "id": "2122171802952876376#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok @Bot can do almost anything DogeDesigner (@cb_doge) Grok Bot made this Starship Flight 15 highlight reel for me. 🚀 It downloaded the 23-hour livestream, picked out the best moments, edited the clips together, added effects and music, all so quickly. You don’t need a video editor anymore. Just ask Grok Bot. Video — https://nitter.kareem.one/cb_doge/status/2122033615362302355#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122164224382447808#m",
-   "ts": 1794798353,
-   "id": "2122164224382447808#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -364,15 +382,6 @@
    "url": "https://nitter.kareem.one/Yuzhehere/status/2121964656554328124#m",
    "ts": 1794750772,
    "id": "2121964656554328124#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Crazy feat of engineering Video",
-   "url": "https://nitter.kareem.one/punishablepress/status/2121957400207130867#m",
-   "ts": 1794749042,
-   "id": "2121957400207130867#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -508,15 +517,6 @@
    "url": "https://nitter.kareem.one/emollick/status/2121685924824461739#m",
    "ts": 1794684318,
    "id": "2121685924824461739#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "openai dot now has a setting to just solve all captchas for the rest of time swyx (@swyx) lol what are we even doing here anymore guys — https://nitter.kareem.one/swyx/status/2084185368950456421#m",
-   "url": "https://nitter.kareem.one/swyx/status/2121681368224797014#m",
-   "ts": 1794683231,
-   "id": "2121681368224797014#m"
   },
   {
    "handle": "swyx",
