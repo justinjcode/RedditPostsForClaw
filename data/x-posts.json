@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T04:40:11Z",
+ "generated_at": "2026-11-16T04:54:08Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "12 years ago Elon Musk (@elonmusk) About to testify before Senate against ULA (Lockheed and Boeing) monopoly contract for national security launches — https://nitter.kareem.one/elonmusk/status/441223153768226816#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2122186399575396604#m",
+   "ts": 1794803640,
+   "id": "2122186399575396604#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -202,15 +211,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2122031563961684032#m",
    "ts": 1794766724,
    "id": "2122031563961684032#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Legacy media headlines after @SpaceX caught Starship: • CNN: \"SpaceX Starship nails historic ship catch in unprecedented test flight\" • Reuters: \"SpaceX Starship returns to landing pad from orbit, acing test for reusable rockets\" • Fox: \"SpaceX makes history as Starship spacecraft caught by launch tower for first time\" • CNBC: \"SpaceX catches upper stage of Starship rocket in historic first\" • NYT: \"SpaceX makes history with successful rocket catch in Texas\" • BBC: \"'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth\" • NPR: \"SpaceX makes history with Starship catch\" • Sky News: \"SpaceX makes unprecedented 'catch' of Starship\"",
-   "url": "https://nitter.kareem.one/SawyerMerritt/status/2121995093204701439#m",
-   "ts": 1794758029,
-   "id": "2121995093204701439#m"
   },
   {
    "handle": "swyx",
