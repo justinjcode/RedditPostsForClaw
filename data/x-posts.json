@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-16T19:37:42Z",
+ "generated_at": "2026-11-16T19:46:03Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "NEW: The state of California has sued OpenAI over the July incident in which two of its AI models got out of a test environment and broke into Hugging Face's internal systems. Attorney General Rob Bonta alleges the company \"knowingly tested potentially dangerous AI models without proper oversight and safety measures.\"",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2122415191027863785#m",
+   "ts": 1794858188,
+   "id": "2122415191027863785#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -941,15 +949,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2120644009618215418#m",
    "ts": 1794435906,
    "id": "2120644009618215418#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "NEW: Google DeepMind released AlphaGenome 2, its upgraded AI model that predicts what a DNA mutation does in one specific kind of cell. What changed from the first AlphaGenome: - Zooms in on one kind of cell, where the original blended a whole tissue together - Catches nearly 2x the mutations that dial a gene up or down - Works on kinds of cells it has never seen, using a small sample from a lab Video",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2120566567453036865#m",
-   "ts": 1794417442,
-   "id": "2120566567453036865#m"
   },
   {
    "handle": "thsottiaux",
