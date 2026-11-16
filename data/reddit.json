@@ -1,15 +1,71 @@
 {
- "generated_at": "2026-11-16T14:21:20Z",
+ "generated_at": "2026-11-16T16:10:21Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
   "MachineLearning",
-  "programming"
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Do I need to start over?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xxsv5f/do_i_need_to_start_over/",
+   "ts": 1794844337,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Marimba: A System One Model for Speech. [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xxsqro/marimba_a_system_one_model_for_speech_r/",
+   "ts": 1794844038,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Censorship is turning me into a true Local LLM believer",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxsc7u/censorship_is_turning_me_into_a_true_local_llm/",
+   "ts": 1794843088,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Self-hosted email platform (like SendGrid/SES/Resend)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xxrxn3/selfhosted_email_platform_like_sendgridsesresend/",
+   "ts": 1794842155,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Sniffnet: open-source network traffic monitor (now with support for routers, firewalls, servers)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xxrxlg/sniffnet_opensource_network_traffic_monitor_now/",
+   "ts": 1794842152,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "EasyArr – a native Mac / iPhone / iPad / Apple TV app to manage Radarr, Sonarr, Prowlarr, SABnzbd, Seerr and Jellyfin (public TestFlight beta)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xxrqof/easyarr_a_native_mac_iphone_ipad_apple_tv_app_to/",
+   "ts": 1794841698,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Stop worrying about Qwen 4's AA index",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxqfqr/stop_worrying_about_qwen_4s_aa_index/",
+   "ts": 1794838570,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Pangolin vs reverse proxy on home server",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xxqc14/pangolin_vs_reverse_proxy_on_home_server/",
+   "ts": 1794838308,
+   "source": "Reddit"
+  },
   {
    "subreddit": "MachineLearning",
    "title": "AISTATS 2027 paper discussion [D]",
@@ -67,13 +123,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Given the flood of new inference engines any recommendations for 2x 7900xtx ?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxmr68/given_the_flood_of_new_inference_engines_any/",
-   "ts": 1794827495,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Ring programming language version 1.28 is released!",
    "url": "https://www.reddit.com/r/programming/comments/1xxmn7s/ring_programming_language_version_128_is_released/",
@@ -117,13 +166,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "[Paper] The Value of Thinking: Learning When to Reason in Hybrid Decision Models",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxm2v8/paper_the_value_of_thinking_learning_when_to/",
-   "ts": 1794825058,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "The beginning of the becoming of the beginning begins",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxlich/the_beginning_of_the_becoming_of_the_beginning/",
    "ts": 1794822951,
@@ -162,13 +204,6 @@
    "title": "How JavaScript and Python actually run your code",
    "url": "https://www.reddit.com/r/programming/comments/1xxk3zb/how_javascript_and_python_actually_run_your_code/",
    "ts": 1794817455,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Lightweight Self Hosting: git push, and it's live on your own server",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xxk028/lightweight_self_hosting_git_push_and_its_live_on/",
-   "ts": 1794817024,
    "source": "Reddit"
   },
   {
@@ -249,13 +284,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Spacebin: a lightweight, self-hosted pastebin server in Go (JS-free, encrypted pastes)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xx3f8c/spacebin_a_lightweight_selfhosted_pastebin_server/",
-   "ts": 1794768675,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Making cudaMemcpy 5x faster on a B300 [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xx2n25/making_cudamemcpy_5x_faster_on_a_b300_p/",
@@ -264,23 +292,9 @@
   },
   {
    "subreddit": "MachineLearning",
-   "title": "Training-free early exit for reasoning models: a linear probe folded into the </think> row of the output layer [p]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xx1xdm/trainingfree_early_exit_for_reasoning_models_a/",
-   "ts": 1794765161,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
    "title": "[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/",
    "ts": 1794764296,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "How do people handle moving files from the torrent client folder to the media server folders?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xx1cne/how_do_people_handle_moving_files_from_the/",
-   "ts": 1794763820,
    "source": "Reddit"
   },
   {
@@ -316,13 +330,6 @@
    "title": "544 unmaintained PyPI packages with imports that fail on Python 3.12+ still get 100M+ downloads a month",
    "url": "https://www.reddit.com/r/programming/comments/1xwyhpm/544_unmaintained_pypi_packages_with_imports_that/",
    "ts": 1794757060,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Vortix - Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xwy0n2/vortix_terminal_ui_for_wireguard_and_openvpn_with/",
-   "ts": 1794755869,
    "source": "Reddit"
   },
   {
@@ -372,13 +379,6 @@
    "title": "With 42k submissions to ICLR, do you think the acceptance rate will stay the same? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xwqxwj/with_42k_submissions_to_iclr_do_you_think_the/",
    "ts": 1794733522,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Infisical paywalled custom roles for self-hosters in a patch release. unstar it.",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xwoq7y/infisical_paywalled_custom_roles_for_selfhosters/",
-   "ts": 1794725218,
    "source": "Reddit"
   },
   {
