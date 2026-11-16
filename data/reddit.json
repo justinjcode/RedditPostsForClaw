@@ -1,15 +1,50 @@
 {
- "generated_at": "2026-11-16T12:16:27Z",
+ "generated_at": "2026-11-16T14:21:20Z",
  "count": 60,
  "subreddits_ok": [
+  "LocalLLaMA",
   "MachineLearning",
-  "programming",
-  "selfhosted"
+  "programming"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "MachineLearning",
+   "title": "AISTATS 2027 paper discussion [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xxqa3i/aistats_2027_paper_discussion_d/",
+   "ts": 1794838171,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "I Found a 5× Performance Problem Hiding in Plain Sight",
+   "url": "https://www.reddit.com/r/programming/comments/1xxq90s/i_found_a_5_performance_problem_hiding_in_plain/",
+   "ts": 1794838095,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Best Audio Models - Nov 2026",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxpxvi/best_audio_models_nov_2026/",
+   "ts": 1794837316,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "BrowserPod 4.0: the microVM that runs in the browser, now free for any use",
+   "url": "https://www.reddit.com/r/programming/comments/1xxpaa4/browserpod_40_the_microvm_that_runs_in_the/",
+   "ts": 1794835541,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Microsoft Outage Preliminary Postmortem",
+   "url": "https://www.reddit.com/r/programming/comments/1xxp5pe/microsoft_outage_preliminary_postmortem/",
+   "ts": 1794835187,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Anyone running game servers behind CGNAT? Looking for feedback on a friend-hosted relay approach",
@@ -18,10 +53,52 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "Did we hit a wall in context length?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxn9c6/did_we_hit_a_wall_in_context_length/",
+   "ts": 1794829297,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "internlm/Sage-S2.1-Flash · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxn631/internlmsages21flash_hugging_face/",
+   "ts": 1794828974,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Given the flood of new inference engines any recommendations for 2x 7900xtx ?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxmr68/given_the_flood_of_new_inference_engines_any/",
+   "ts": 1794827495,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "programming",
    "title": "Ring programming language version 1.28 is released!",
    "url": "https://www.reddit.com/r/programming/comments/1xxmn7s/ring_programming_language_version_128_is_released/",
    "ts": 1794827111,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "[Paper & Models] Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxmj9o/paper_models_gamer_a_generalist/",
+   "ts": 1794826730,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "How do we feel about bots posting & commenting?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxmd9a/how_do_we_feel_about_bots_posting_commenting/",
+   "ts": 1794826119,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "[Paper & Models] MMFlash: Faster Speculative Decoding for Vision-Language Models",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxmd3w/paper_models_mmflash_faster_speculative_decoding/",
+   "ts": 1794826104,
    "source": "Reddit"
   },
   {
@@ -36,6 +113,13 @@
    "title": "My backup plan was so good I didn’t notice my VM host had died for a week",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xxm4x3/my_backup_plan_was_so_good_i_didnt_notice_my_vm/",
    "ts": 1794825257,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "[Paper] The Value of Thinking: Learning When to Reason in Hybrid Decision Models",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxm2v8/paper_the_value_of_thinking_learning_when_to/",
+   "ts": 1794825058,
    "source": "Reddit"
   },
   {
@@ -57,6 +141,13 @@
    "title": "Backing up and Snapshotting tools",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xxleyb/backing_up_and_snapshotting_tools/",
    "ts": 1794822572,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Steering a pretrained music transformer at sampling time into a real-time jazz partner (no fine-tuning) [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xxkyh3/steering_a_pretrained_music_transformer_at/",
+   "ts": 1794820783,
    "source": "Reddit"
   },
   {
@@ -92,27 +183,6 @@
    "title": "New AA ranking Qwen3.8-FN better than GLM-5.3-Flash?",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxibeh/new_aa_ranking_qwen38fn_better_than_glm53flash/",
    "ts": 1794810728,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "[Release] Qwen3.8-27B-Perplexing-Pegasus-Heretic: Unified vision + typed decider + abliterated weights for local agent stacks (GGUF, AutoRound, NVFP4)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxg12n/release_qwen3827bperplexingpegasusheretic_unified/",
-   "ts": 1794802940,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "I'm starting to think a specialized 4B is enough for most of the tasks I'd use an LLM for",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxfv69/im_starting_to_think_a_specialized_4b_is_enough/",
-   "ts": 1794802411,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "After Clash Royale's top ladder has now started being dominated by bots, are there any videogames where people want to see a bot capable of beating humans built?",
-   "url": "https://www.reddit.com/r/programming/comments/1xxek1d/after_clash_royales_top_ladder_has_now_started/",
-   "ts": 1794798294,
    "source": "Reddit"
   },
   {
@@ -166,13 +236,6 @@
   },
   {
    "subreddit": "LocalLLaMA",
-   "title": "Someone should do an analysis on the rate of Self-promo here.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx85mw/someone_should_do_an_analysis_on_the_rate_of/",
-   "ts": 1794780321,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
    "title": "I have created a tool to observe what happens inside an LLM. Also allows for the comparison of two quantizations of the same model to see at what point they diverge, token by token",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx7qbf/i_have_created_a_tool_to_observe_what_happens/",
    "ts": 1794779216,
@@ -186,38 +249,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Llama.cpp performance improvement over time (Gemma4 models)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx607x/llamacpp_performance_improvement_over_time_gemma4/",
-   "ts": 1794774884,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "BigMoeOnEdge outperforms Strata and colibri on 8-16 GB cards and Mac and you can run any model",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx5fng/bigmoeonedge_outperforms_strata_and_colibri_on/",
-   "ts": 1794773478,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "We made a multiplayer game where each player's view is generated by a world model running on their GPU [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xx4ta3/we_made_a_multiplayer_game_where_each_players/",
-   "ts": 1794772009,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Spacebin: a lightweight, self-hosted pastebin server in Go (JS-free, encrypted pastes)",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xx3f8c/spacebin_a_lightweight_selfhosted_pastebin_server/",
    "ts": 1794768675,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "[audio.cpp] SoulX-FlashHead + LFM3-Audio + OWSM v4 = Real-Time Local Avatar Chat",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx2vi0/audiocpp_soulxflashhead_lfm3audio_owsm_v4/",
-   "ts": 1794767379,
    "source": "Reddit"
   },
   {
@@ -239,13 +274,6 @@
    "title": "[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/",
    "ts": 1794764296,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Basalt 0.4.0: More models, still as fast - Qwen 27B up to 770 tok/s on a 5090",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx1cu9/basalt_040_more_models_still_as_fast_qwen_27b_up/",
-   "ts": 1794763831,
    "source": "Reddit"
   },
   {
@@ -326,13 +354,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "Hackathon project for MariaDB's Wikipedia Through Time challenge: matching sentences across seven Wikipedia editions at any past date [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xwttxo/hackathon_project_for_mariadbs_wikipedia_through/",
-   "ts": 1794744207,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "What Go 1.27’s generic methods made possible for ORMs. Compile-checked columns with no generated code",
    "url": "https://www.reddit.com/r/programming/comments/1xwtfmr/what_go_127s_generic_methods_made_possible_for/",
@@ -344,13 +365,6 @@
    "title": "Slack’s Migration to a Cellular Architecture",
    "url": "https://www.reddit.com/r/programming/comments/1xwsbxo/slacks_migration_to_a_cellular_architecture/",
    "ts": 1794738808,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "EUROPA, the EU's open AI model, is aiming for nearly 1 trillion parameters",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwr917/europa_the_eus_open_ai_model_is_aiming_for_nearly/",
-   "ts": 1794734697,
    "source": "Reddit"
   },
   {
@@ -372,20 +386,6 @@
    "title": "ICLR 2027 Initial Review Scores ranked by University [N]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xwcjuq/iclr_2027_initial_review_scores_ranked_by/",
    "ts": 1794688394,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "What we learned operating auth for 1,000+ APIs",
-   "url": "https://www.reddit.com/r/programming/comments/1xwac98/what_we_learned_operating_auth_for_1000_apis/",
-   "ts": 1794682837,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "It's all about the allocator",
-   "url": "https://www.reddit.com/r/programming/comments/1xw1sem/its_all_about_the_allocator/",
-   "ts": 1794661055,
    "source": "Reddit"
   },
   {
