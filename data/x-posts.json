@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T07:52:34Z",
+ "generated_at": "2026-11-16T08:08:14Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "for scale that is a 52m/171ft/15 story tall giant rocket flipping through the air and landing ready for reuse projected to lower payload launch cost from $2000/kg to $200/kg. reusability maybe the most important advancement in spaceflight likely in our lifetimes…. and THERE WERE FREAKING HORSES running in the foreground just to make it more epic lol Video",
+   "url": "https://nitter.kareem.one/swyx/status/2122236664408084526#m",
+   "ts": 1794815624,
+   "id": "2122236664408084526#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -427,15 +436,6 @@
    "url": "https://nitter.kareem.one/aiDotEngineer/status/2121664913450189049#m",
    "ts": 1794679308,
    "id": "2121664913450189049#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "a few days ago we published the \"No AI Slop Manifesto\" at @aiDotEngineer Code Summit in SF, written in collaboration with many of the speakers and attendees It already hit the front page of hacker news, has 300+ signatures including folks from Baseten, SpaceX, OpenAI, PostHog, Shopify, Glean, ZoomInfo, and legendary builders including @swyx @poteto @kentcdodds @mihail_eric @audreyt @altryne @traviscline @philipkiely @TejasKumar_ read and sign it at slopmanifesto dot com some of my favorite points > AI cannot replace human judgement, it can only amplify our judgement (or lack thereof). > We own the intent, taste, and consequences of what we ship, however much AI helps us make it. > There will always be alpha in reviewing *something*. As models improve, we may stop reading most of the code. We may still review a plan, design, or result, because if we don't, we just get the same output as everyone else.",
-   "url": "https://nitter.kareem.one/dexhorthy/status/2121660606256435325#m",
-   "ts": 1794678281,
-   "id": "2121660606256435325#m"
   },
   {
    "handle": "ZichenWanghere",
