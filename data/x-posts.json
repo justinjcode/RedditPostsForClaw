@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T11:19:49Z",
+ "generated_at": "2026-11-16T11:31:22Z",
  "accounts_ok": [
   "TheRundownAI",
   "ZichenWanghere",
@@ -15,6 +15,24 @@
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: therundownai.beehiiv.com/p/j… Link Jensen Huang weighs a comeback at Nvidia Nvidia employees and tech leaders are petitioning for Jensen Huang's return, with 130k+ signatures and Elon Musk backing the push. Here's what's behind the backlash. therundownai.beehiiv.com",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2122291195116187917#m",
+   "ts": 1794828625,
+   "id": "2122291195116187917#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in AI today: - Musk, Nvidia staff rally to bring back Jensen Huang - The Rundown Roundtable: Our AI use cases - Turn a messy plan into a shared board - Report: OAI folds robotics team into core research",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2122291190175310218#m",
+   "ts": 1794828624,
+   "id": "2122291190175310218#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -1031,24 +1049,6 @@
    "url": "https://nitter.kareem.one/JChengWSJ/status/2120147410131546572#m",
    "ts": 1794317507,
    "id": "2120147410131546572#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: therundownai.beehiiv.com/p/a… Link Anthropic says ‘pacing, not pausing’ with Fable 5.2 Anthropic's \"pacing, not pausing\" approach arrives with Fable 5.2: cheaper, faster, and top-ranked. Plus, see how Claude cleans up a messy Excel report. therundownai.beehiiv.com",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2120116834951102916#m",
-   "ts": 1794310217,
-   "id": "2120116834951102916#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in AI today: - Anthropic’s Fable 5.2 leads the frontier with a price cut - Meta undercuts Anthropic, OpenAI on the cost of agents - Clean up a messy Excel report with Claude - Google adds two more AI chips to its Nvidia fight",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2120116829750219023#m",
-   "ts": 1794310216,
-   "id": "2120116829750219023#m"
   },
   {
    "handle": "simonw",
