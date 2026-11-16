@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-16T16:46:42Z",
+ "generated_at": "2026-11-16T16:57:00Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Code Summit, through the people who were there. A few days in San Francisco. New ideas to take back to work. With @swyx and teams from @GoogleDeepMind @OpenAI @AnthropicAI @firecrawl @mixedbreadai @coderabbitai @Atlassian . Keep building. Video",
+   "url": "https://nitter.kareem.one/aiDotEngineer/status/2122366588582015138#m",
+   "ts": 1794846601,
+   "id": "2122366588582015138#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -473,15 +481,6 @@
    "url": "https://nitter.kareem.one/Steve_Yegge/status/2121671447810888185#m",
    "ts": 1794680866,
    "id": "2121671447810888185#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "taking day 1 view count predictions for the @poteto talk launching in 30 mins inv.kareem.one/O_zcc6Xl12g hit the bell etc",
-   "url": "https://nitter.kareem.one/aiDotEngineer/status/2121664913450189049#m",
-   "ts": 1794679308,
-   "id": "2121664913450189049#m"
   },
   {
    "handle": "ZichenWanghere",
