@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-15T23:54:48Z",
+ "generated_at": "2026-11-16T00:21:50Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Let’s take this gentleman’s argument at face value that anyone can throw money at rockets and get something like Starship, Falcon or Dragon. Perhaps he can explain to everyone how SpaceX is able to catch giant starships from orbit with chopsticks and deliver 85% of all Earth payload to orbit with Falcon, while Blue Origin, which started before SpaceX and was funded by the immensely wealthy Jeff Bezos, is not yet able to launch reliably? Also, why is it that Boeing and Lockheed received several times what SpaceX did from the government for development of their rockets and spacecraft, but the Boeing capsule is still not operational and ULA delivers less than 5% of SpaceX payload to orbit? I am genuinely curious about these questions.",
+   "url": "https://nitter.kareem.one/elonmusk/status/2122114284779925897#m",
+   "ts": 1794786447,
+   "id": "2122114284779925897#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -76,6 +86,15 @@
    "url": "https://nitter.kareem.one/johnkrausphotos/status/2122086227709202668#m",
    "ts": 1794779757,
    "id": "2122086227709202668#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Happy to report that @aiDotEngineer Code in SF was really great. I might not have been a fan of the world fair, but this single track conference was entirely up my alley. Lots of great conversations and good content. Thanks for putting that together @swyx Armin Ronacher ⇌ (@mitsuhiko) On my way back to Europe. @aiDotEngineer was fun for meeting all the people. As a conference though I think it’s now too big for me. Probably will try to make it to the regional places instead. The London event had much better energy IMO. Could be me though. — https://nitter.kareem.one/mitsuhiko/status/2072742216838136153#m",
+   "url": "https://nitter.kareem.one/mitsuhiko/status/2122080398419132645#m",
+   "ts": 1794778367,
+   "id": "2122080398419132645#m"
   },
   {
    "handle": "elonmusk",
@@ -231,15 +250,6 @@
    "id": "2121845965997101118#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Starship Flight 15 mission in one timelapse Launched from the tower → around Earth 14 times → caught by the tower Video",
-   "url": "https://nitter.kareem.one/XFreeze/status/2121817193579163893#m",
-   "ts": 1794715615,
-   "id": "2121817193579163893#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -391,15 +401,6 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2121634886721184084#m",
    "ts": 1794672149,
    "id": "2121634886721184084#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "AI can do more of the work. So why does the job feel harder? @simonw on what happens when the easy tasks disappear and your ambitions catch up with the tools. From AI Engineer Code Summit. Video",
-   "url": "https://nitter.kareem.one/aiDotEngineer/status/2121619176527937878#m",
-   "ts": 1794668404,
-   "id": "2121619176527937878#m"
   },
   {
    "handle": "Lingling_Wei",
