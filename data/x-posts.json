@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T06:55:25Z",
+ "generated_at": "2026-11-16T07:10:21Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -7,13 +7,32 @@
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@simonw: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "💯 Kiko Dontchev (@TurkeyBeaver) Ladies and gentlemen, introducing the greatest team on earth…. @SpaceX !!! Can’t get over the high of yesterday. Vibes are 10/10 right now!!!!! — https://nitter.kareem.one/TurkeyBeaver/status/2122041454822363204#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2122221516867895726#m",
+   "ts": 1794812013,
+   "id": "2122221516867895726#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The amount of energy we harness for civilization from the Sun will obviously ultimately round up to 100% of all energy. That math is obvious and trivial. X Freeze (@XFreeze) Years ago, Elon Musk predicted: “Solar electricity will become by far the biggest source of power for civilization” Today, we're watching that vision become reality In 2015, solar generated just 256 TWh of electricity globally A decade later, annual solar generation has surpassed 2,700 TWh That's more than a 10X increase in just ten years Solar also accounted for 83% of the growth in global electricity demand during the first half of 2025 And renewables have now overtaken coal in global electricity generation What Elon Musk envisioned years ago is unfolding right in front of us The Sun is a gigantic fusion reactor in space, delivering more energy to Earth in a single hour than humanity consumes in an entire year We're still capturing only a tiny fraction of it Solar generation is accelerating, battery storage is expanding, and the world is moving toward a future of abundant, sustainable energy And this transformation is only getting started — https://nitter.kareem.one/XFreeze/status/2122186676164587648#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2122220308799316072#m",
+   "ts": 1794811725,
+   "id": "2122220308799316072#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -148,24 +167,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2122141959917842487#m",
    "ts": 1794793045,
    "id": "2122141959917842487#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "True Aaron Burnett (@aaronburnett) Also why the same amount of money (~$15B) to build all of Starbase was used to build an overpass to nowhere for California’s high speed rail. Capital allocation efficiency is a thing. — https://nitter.kareem.one/aaronburnett/status/2122116272725037236#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122141116195877155#m",
-   "ts": 1794792844,
-   "id": "2122141116195877155#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Starship V4 will be ~70m long, which is roughly a 40% length increase and allows >60% more propellant load. Engine count will be raised to 9, with 3 more Raptor-Vacuum engines added, and these will be higher thrust V4 engines. ApoStructura (@ApoStructura) The scale of Starship: — https://nitter.kareem.one/ApoStructura/status/2122078470121435372#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122141019894383027#m",
-   "ts": 1794792821,
-   "id": "2122141019894383027#m"
   },
   {
    "handle": "elonmusk",
