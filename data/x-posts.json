@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-16T19:10:01Z",
+ "generated_at": "2026-11-16T19:16:44Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,27 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Cool Yun-Ta Tsai (@yunta_tsai) Starship is no longer the smallest ship compared to the Culture. Respectable achievement. 🙂 — https://nitter.kareem.one/yunta_tsai/status/2122394007754125484#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2122407149401964722#m",
+   "ts": 1794856271,
+   "id": "2122407149401964722#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "We’ve come a long way Sebastian Völkl (@basti_vkl) 100 years — https://nitter.kareem.one/basti_vkl/status/2122035748648202492#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2122406902827245831#m",
+   "ts": 1794856212,
+   "id": "2122406902827245831#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -41,6 +58,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2122379979694707134#m",
    "ts": 1794849793,
    "id": "2122379979694707134#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "shoutout @elonmusk were livestreaming a MARATHON IN ANTARTICA Video",
+   "url": "https://nitter.kareem.one/nelkboys/status/2122373508064034895#m",
+   "ts": 1794848250,
+   "id": "2122373508064034895#m"
   },
   {
    "handle": "TheRundownAI",
@@ -239,33 +265,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2122164224382447808#m",
    "ts": 1794798353,
    "id": "2122164224382447808#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Just doin some plumbin",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122163777454166505#m",
-   "ts": 1794798247,
-   "id": "2122163777454166505#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Robotaxi life is a hard life. Tesla team empathizes with this guy.",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122155440788099394#m",
-   "ts": 1794796259,
-   "id": "2122155440788099394#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Morgan Stanley’s Adam Jonas on @SpaceX successfully catching Starship on flight 15: “In our view, Flight 15 is a historic inflection moment for the company and spaceflight as a whole. SpaceX has recovered three Starship + many hundreds of Falcon 9 boosters in its history, and now others have accomplished the same. However, no entity has ever even attempted to recover a rocket upper stage in history (not counting Space Shuttle) given the intense thermal and mechanical stress of orbital re-entry. With an upper stage now recovered intact, SpaceX can conduct a deep inspection of Ship 42 and use the findings to improve future vehicles in a way that was never previously possible. We believe it also helps clear the path to ramping full reuse of both booster and ship, the last major technical milestone before weekly or even daily Starship flights become realistic. With a ship catch, SpaceX has materially de-risked the longer-term TAMs across all 3 of its segments.”",
-   "url": "https://nitter.kareem.one/SawyerMerritt/status/2122150555078234620#m",
-   "ts": 1794795094,
-   "id": "2122150555078234620#m"
   },
   {
    "handle": "elonmusk",
