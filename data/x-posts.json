@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-16T18:56:08Z",
+ "generated_at": "2026-11-16T19:10:01Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,8 +10,10 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
- "count": 177,
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
+ "count": 176,
  "items": [
   {
    "handle": "TheRundownAI",
@@ -535,15 +536,6 @@
    "url": "https://nitter.kareem.one/VeraMBergen/status/2121433632875352374#m",
    "ts": 1794624167,
    "id": "2121433632875352374#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "The No Slop [in software] Manifesto is fantastic. slopmanifesto.com/",
-   "url": "https://nitter.kareem.one/Swizec/status/2121327536017965321#m",
-   "ts": 1794598871,
-   "id": "2121327536017965321#m"
   },
   {
    "handle": "ZichenWanghere",
