@@ -1,9 +1,7 @@
 {
- "generated_at": "2026-11-16T16:57:00Z",
+ "generated_at": "2026-11-16T17:10:42Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +9,21 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "AI can now turn your brain scan into a picture of what you’re looking at And we're about 2 research papers away from recording dreams (!) Video",
+   "url": "https://nitter.kareem.one/rowancheung/status/2122371443791175752#m",
+   "ts": 1794847758,
+   "id": "2122371443791175752#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -1030,15 +1040,6 @@
    "url": "https://nitter.kareem.one/eryang666/status/2120205785154388462#m",
    "ts": 1794331425,
    "id": "2120205785154388462#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "RELEASED: Gemini 4 Carbon, Google’s top model, is now live for Google AI Ultra subscribers and for paying developers via the Gemini API. Video",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2120190153495027741#m",
-   "ts": 1794327698,
-   "id": "2120190153495027741#m"
   },
   {
    "handle": "Lingling_Wei",
