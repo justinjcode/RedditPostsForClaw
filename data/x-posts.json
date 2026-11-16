@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-16T07:10:21Z",
+ "generated_at": "2026-11-16T07:34:59Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "swyx",
+  "simonw",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed"
+  "@swyx: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Important Mark Kretschmann (@mark_k) Grok's text watermarking is now off by default in the SpaceXSI API. Elon Musk confirmed it and went further. He says text watermarking with Grok is only on where the law requires it or a user asks for it. So if you build on Grok, your output won't carry a hidden watermark unless you switch it on or a law requires one. — https://nitter.kareem.one/mark_k/status/2121975392554619298#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2122223599079559603#m",
+   "ts": 1794812509,
+   "id": "2122223599079559603#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -154,24 +163,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "I have a very wide distribution of training data DogeDesigner (@cb_doge) Former NASA astronaut Garrett Reisman, who spent seven years working with Elon Musk at SpaceX, explains what makes @elonmusk such an extraordinary engineer: “I mean, I’ve met a lot of super, super smart people, but they’re usually super, super smart on one thing.” “And he’s able to have conversations with our top engineers about the software and, you know, the most arcane aspects of that. And then he’ll turn to our manufacturing engineers and have discussions about some really esoteric welding process for some crazy alloy.” “And his ability to do that across all the different technologies that go into rockets and cars and everything else he does. That’s what really impresses me.” “He’s really the most driven person I think I’ve ever met.” Video — https://nitter.kareem.one/cb_doge/status/2122130157616128377#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122145276681220436#m",
-   "ts": 1794793836,
-   "id": "2122145276681220436#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "That’s how it happened Fireside Alpha (@firesidealpha) Elon Musk reveals he recruited SpaceX’s first engineers by telling them 'we’re probably going to die', and ended up as chief engineer because no good one would join “So SpaceX, I started that in mid-2002 expecting to fail. Probably 90% chance of failing.” “And even when recruiting people, I didn’t try to make out that it would work. I said, we’re probably going to die, but there’s a small chance we might not die, and this is the only way to get people to Mars and advance the state of the art.” “And then I ended up being chief engineer of the rocket, not because I wanted to, but because I couldn’t hire anyone who was good. None of the good chief engineers would join, because they’re like, this is too risky, you’re going to die. And so I ended up being chief engineer of the rocket.” Video — https://nitter.kareem.one/firesidealpha/status/2122135949094350967#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122141959917842487#m",
-   "ts": 1794793045,
-   "id": "2122141959917842487#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Jeff Bezos applied capital and engineering to the same industry with Blue Origin, starting in 2000, 2 years before Elon founded SpaceX. He was wealthier for most of that time, with better access to Wall Street. The industry incumbents were around much longer than both, applying capital and engineering to the space industry. Elon’s results with SpaceX are far above normal. He raised most of his capital from Silicon Valley, not Wall Street. Criticizing Elon is not the skill his haters think it is.",
    "url": "https://nitter.kareem.one/WR4NYGov/status/2122104610643222844#m",
    "ts": 1794784140,
@@ -194,6 +185,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2122066060769952161#m",
    "ts": 1794774949,
    "id": "2122066060769952161#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "i find it really weird seeing people say spacex trashed “boca chica beach” when in reality my grandparents lived in brownsville and i spent every summer as a kid on boca chica beach and it was a literal trash dump. it’s the cleanest now than i have ever seen it.",
+   "url": "https://nitter.kareem.one/SonoranAstro/status/2122056486428008850#m",
+   "ts": 1794772666,
+   "id": "2122056486428008850#m"
   },
   {
    "handle": "elonmusk",
