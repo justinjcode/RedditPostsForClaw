@@ -1,15 +1,43 @@
 {
- "generated_at": "2026-11-16T02:13:16Z",
+ "generated_at": "2026-11-16T06:20:17Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
   "MachineLearning",
-  "selfhosted"
+  "programming"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "[Release] Qwen3.8-27B-Perplexing-Pegasus-Heretic: Unified vision + typed decider + abliterated weights for local agent stacks (GGUF, AutoRound, NVFP4)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxg12n/release_qwen3827bperplexingpegasusheretic_unified/",
+   "ts": 1794802940,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "I'm starting to think a specialized 4B is enough for most of the tasks I'd use an LLM for",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxfv69/im_starting_to_think_a_specialized_4b_is_enough/",
+   "ts": 1794802411,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "After Clash Royale's top ladder has now started being dominated by bots, are there any videogames where people want to see a bot capable of beating humans built?",
+   "url": "https://www.reddit.com/r/programming/comments/1xxek1d/after_clash_royales_top_ladder_has_now_started/",
+   "ts": 1794798294,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Route To Hosting Videos For Websites, Apps And Subscription Services",
+   "url": "https://www.reddit.com/r/programming/comments/1xxd0ul/route_to_hosting_videos_for_websites_apps_and/",
+   "ts": 1794793724,
+   "source": "Reddit"
+  },
   {
    "subreddit": "MachineLearning",
    "title": "Social Simulation with LLMs - From Proxies to Population (CFP @ AAAI'27) Due Nov. 20 [R]",
@@ -249,13 +277,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "higurashi-ai/Haru-4B · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xww5o2/higurashiaiharu4b_hugging_face/",
-   "ts": 1794751132,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "I don't think double-blind review systems work [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xwuwqd/i_dont_think_doubleblind_review_systems_work_d/",
@@ -288,13 +309,6 @@
    "title": "What Go 1.27’s generic methods made possible for ORMs. Compile-checked columns with no generated code",
    "url": "https://www.reddit.com/r/programming/comments/1xwtfmr/what_go_127s_generic_methods_made_possible_for/",
    "ts": 1794742861,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "[Paper] No Second Run: Does RSI Stop at Frontier Pre-training? - 801-30B-A3B-Base Coming Soon",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwt3ri/paper_no_second_run_does_rsi_stop_at_frontier/",
-   "ts": 1794741672,
    "source": "Reddit"
   },
   {
@@ -362,23 +376,9 @@
   },
   {
    "subreddit": "programming",
-   "title": "Beating the frontier on NetHack",
-   "url": "https://www.reddit.com/r/programming/comments/1xw2equ/beating_the_frontier_on_nethack/",
-   "ts": 1794662894,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
    "title": "It's all about the allocator",
    "url": "https://www.reddit.com/r/programming/comments/1xw1sem/its_all_about_the_allocator/",
    "ts": 1794661055,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Formal Verification is Not Verifiable: Bouba and Kiki Software",
-   "url": "https://www.reddit.com/r/programming/comments/1xvug39/formal_verification_is_not_verifiable_bouba_and/",
-   "ts": 1794634623,
    "source": "Reddit"
   },
   {
