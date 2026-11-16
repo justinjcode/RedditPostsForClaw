@@ -1,18 +1,17 @@
 {
- "generated_at": "2026-11-16T07:34:59Z",
+ "generated_at": "2026-11-16T07:52:34Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
   {
@@ -239,6 +238,15 @@
    "url": "https://nitter.kareem.one/aiDotEngineer/status/2121981562824564960#m",
    "ts": 1794754803,
    "id": "2121981562824564960#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "Peng Wensheng, former CICC chief economist, said #China 's #AI challenge is not just chips or money, but investors' reluctance to take risks. He calls for reforming government-backed funds and boosting consumer demand to make innovation pay. open.substack.com/pub/yuzheh… Link CICC's Former Chief Economist: China's AI problem isn't just chips, but risk appetite Peng Wensheng argues that America's willingness to bet big on uncertain technologies offers lessons for China's innovation financing. yuzhehe.com",
+   "url": "https://nitter.kareem.one/Yuzhehere/status/2121964656554328124#m",
+   "ts": 1794750772,
+   "id": "2121964656554328124#m"
   },
   {
    "handle": "elonmusk",
@@ -770,15 +778,6 @@
    "url": "https://nitter.kareem.one/CCG_org/status/2120755533925986408#m",
    "ts": 1794462495,
    "id": "2120755533925986408#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "我是主人我也气 我是路人我也按 Enmmm………",
-   "url": "https://nitter.kareem.one/Hannah_juzi/status/2120742634390249909#m",
-   "ts": 1794459420,
-   "id": "2120742634390249909#m"
   },
   {
    "handle": "Lingling_Wei",
