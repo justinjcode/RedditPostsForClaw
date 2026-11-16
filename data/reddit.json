@@ -1,15 +1,43 @@
 {
- "generated_at": "2026-11-15T22:08:22Z",
+ "generated_at": "2026-11-16T00:25:26Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Self-hosted file storage recommendations",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xxas32/selfhosted_file_storage_recommendations/",
+   "ts": 1794787278,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Comics Now! Supports Pdf and Epub formats.",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xxag83/comics_now_supports_pdf_and_epub_formats/",
+   "ts": 1794786442,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Hands-on ML Orchestration Tutorial with Airflow3 [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xxa13x/handson_ml_orchestration_tutorial_with_airflow3_p/",
+   "ts": 1794785281,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Anyone working in AML / transaction monitoring / sanctions screening using ML? Looking for advice on where to start [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xx9za4/anyone_working_in_aml_transaction_monitoring/",
+   "ts": 1794785139,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Sophos Firewall VM is it worth it to use it bare metal and change my setup??",
@@ -106,13 +134,6 @@
    "title": "Basalt 0.4.0: More models, still as fast - Qwen 27B up to 770 tok/s on a 5090",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx1cu9/basalt_040_more_models_still_as_fast_qwen_27b_up/",
    "ts": 1794763831,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "How do people handle moving files from the torrent client folder to the media server folders?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xx1cne/how_do_people_handle_moving_files_from_the/",
-   "ts": 1794763820,
    "source": "Reddit"
   },
   {
@@ -285,13 +306,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Pixelserv question",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xwppd4/pixelserv_question/",
-   "ts": 1794728814,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "Infisical paywalled custom roles for self-hosters in a patch release. unstar it.",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xwoq7y/infisical_paywalled_custom_roles_for_selfhosters/",
    "ts": 1794725218,
@@ -302,13 +316,6 @@
    "title": "RASA will cause total chaos to open LLMs and beyond",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwmnkw/rasa_will_cause_total_chaos_to_open_llms_and/",
    "ts": 1794718023,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "ACM Multimedia 2026: TimeCues Studio - a free, open-source tool for annotating music structure [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xwh3mw/acm_multimedia_2026_timecues_studio_a_free/",
-   "ts": 1794700768,
    "source": "Reddit"
   },
   {
@@ -330,13 +337,6 @@
    "title": "Designing payouts that never payout twice: timeouts, an \"Unknown\" state, and idempotency in cross-border payments",
    "url": "https://www.reddit.com/r/programming/comments/1xw8tdv/designing_payouts_that_never_payout_twice/",
    "ts": 1794679182,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Should short-horizon price forecasting papers benchmark against market-implied forecasts, not just naive baselines? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xw6fk9/should_shorthorizon_price_forecasting_papers/",
-   "ts": 1794673414,
    "source": "Reddit"
   },
   {
