@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T21:27:48Z",
+ "generated_at": "2026-11-16T21:38:17Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -7,11 +7,12 @@
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@simonw: all instances failed"
+ ],
  "count": 176,
  "items": [
   {
@@ -22,6 +23,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2122427240441131203#m",
    "ts": 1794861061,
    "id": "2122427240441131203#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "This year SpaceX has launched more mass to orbit Than the entire continent of Europe has in the entirety of human history Brutal mogging",
+   "url": "https://nitter.kareem.one/zebulgar/status/2122425945990840499#m",
+   "ts": 1794860752,
+   "id": "2122425945990840499#m"
   },
   {
    "handle": "swyx",
@@ -436,15 +446,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2121815348370612414#m",
    "ts": 1794715175,
    "id": "2121815348370612414#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The lesson of Icarus is not ‘don’t fly too close to the sun’ it’s ‘make better fucking wings’",
-   "url": "https://nitter.kareem.one/LukeLeisher/status/2121803800482807822#m",
-   "ts": 1794712421,
-   "id": "2121803800482807822#m"
   },
   {
    "handle": "ZichenWanghere",
