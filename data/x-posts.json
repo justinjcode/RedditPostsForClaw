@@ -1,19 +1,38 @@
 {
- "generated_at": "2026-11-16T01:56:03Z",
+ "generated_at": "2026-11-16T02:16:05Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@bcherny: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Say no to crack",
+   "url": "https://nitter.kareem.one/elonmusk/status/2122146355074232469#m",
+   "ts": 1794794093,
+   "id": "2122146355074232469#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "I have a very wide distribution of training data DogeDesigner (@cb_doge) Former NASA astronaut Garrett Reisman, who spent seven years working with Elon Musk at SpaceX, explains what makes @elonmusk such an extraordinary engineer: “I mean, I’ve met a lot of super, super smart people, but they’re usually super, super smart on one thing.” “And he’s able to have conversations with our top engineers about the software and, you know, the most arcane aspects of that. And then he’ll turn to our manufacturing engineers and have discussions about some really esoteric welding process for some crazy alloy.” “And his ability to do that across all the different technologies that go into rockets and cars and everything else he does. That’s what really impresses me.” “He’s really the most driven person I think I’ve ever met.” Video — https://nitter.kareem.one/cb_doge/status/2122130157616128377#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2122145276681220436#m",
+   "ts": 1794793836,
+   "id": "2122145276681220436#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -108,6 +127,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "Jeff Bezos applied capital and engineering to the same industry with Blue Origin, starting in 2000, 2 years before Elon founded SpaceX. He was wealthier for most of that time, with better access to Wall Street. The industry incumbents were around much longer than both, applying capital and engineering to the space industry. Elon’s results with SpaceX are far above normal. He raised most of his capital from Silicon Valley, not Wall Street. Criticizing Elon is not the skill his haters think it is.",
+   "url": "https://nitter.kareem.one/WR4NYGov/status/2122104610643222844#m",
+   "ts": 1794784140,
+   "id": "2122104610643222844#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "BREAKING: Dominican Republic Government advances plans to expand Starlink connectivity and explores Grok for education. 🇩🇴 President Luis Abinader met with SpaceX executives and the Instituto Tecnológico de las Américas (ITLA) to discuss the initiatives: • More than 50,000 Starlink antennas are already installed across the country. • Starlink is already benefiting 1,608 students at ITLA’s Pedernales and Cotuí campuses. • Further expansion would bring internet to communities and schools where traditional services are limited or unavailable. • Grok Tutor is being considered for personalized learning support, helping students develop reasoning and critical thinking with teacher supervision. • Its potential integration would support RD Inteligente, a Government program aiming to train one million Dominicans in AI.",
    "url": "https://nitter.kareem.one/cb_doge/status/2122101122072793431#m",
    "ts": 1794783308,
@@ -135,15 +163,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Yeah, I was going over the whole Starship heat shield earlier today. Overall, it looks great. The engines look great too. Ship 42 could probably be reflown with a few weeks of refurbishment. However, many small fixes are needed to achieve immediate reusability (like an airplane), which requires zero expected refurbishment, apart from scheduled maintenance. Robin (@xdNiBoR) Elon is up at the pad inspecting the ship. Road is closed and we're expecting a rollout soon! Video — https://nitter.kareem.one/xdNiBoR/status/2122060889901748577#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122092374016806969#m",
-   "ts": 1794781223,
-   "id": "2122092374016806969#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Video",
    "url": "https://nitter.kareem.one/johnkrausphotos/status/2122086227709202668#m",
    "ts": 1794779757,
@@ -157,15 +176,6 @@
    "url": "https://nitter.kareem.one/mitsuhiko/status/2122080398419132645#m",
    "ts": 1794778367,
    "id": "2122080398419132645#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Ship, in the future, will almost always be taken to mean spaceship Andrea (@andreaesposito) For all but a vanishingly brief instant near the dawn of history, the word ‘ship’ will mean ‘spaceship.’ - Arthur C. Clarke Video — https://nitter.kareem.one/andreaesposito/status/2121729721180574127#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122068777189716003#m",
-   "ts": 1794775597,
-   "id": "2122068777189716003#m"
   },
   {
    "handle": "swyx",
@@ -189,10 +199,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "IMO Grok is currently, the best tool for understanding what’s happening in the world. Is Jensen being railroaded? grok.com/share/bGVnYWN5LWNvc… Link NYT Jensen Scandal Coverage Analysis | Shared Grok Conversation It now seems like early NYT coverage of Jensen’s scandal overstated the strength and/or seriousness grok.com",
-   "url": "https://nitter.kareem.one/jamesdouma/status/2122041125171298662#m",
-   "ts": 1794769004,
-   "id": "2122041125171298662#m"
+   "text": "Joe Rogan praises Tesla FSD, saying his car drives him home at the press of a button. “I leave the club. I press a button. It just drives me home. I don’t have to think at all. If Tesla licensed that, the whole electric car world would explode because it’s so good.” Video",
+   "url": "https://nitter.kareem.one/cb_doge/status/2122050855499366681#m",
+   "ts": 1794771324,
+   "id": "2122050855499366681#m"
   },
   {
    "handle": "swyx",
@@ -220,15 +230,6 @@
    "url": "https://nitter.kareem.one/SawyerMerritt/status/2121995093204701439#m",
    "ts": 1794758029,
    "id": "2121995093204701439#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "BREAKING: Samsung reportedly plans to make chips for SpaceX’s Starlink satellites in Austin, Texas. Samsung is investing $1.9 billion to expand its Austin chip factory, with the planned operations targeted to begin by 2030, according to Seoul Economic Daily. The chip, called STM32V8, is already used in Starlink’s mini laser system. SpaceX’s Starlink engineering team has praised the chip’s performance. The chips are currently manufactured in France. The reported Texas plan would add American production capacity for a key component behind Starlink’s satellite communications.",
-   "url": "https://nitter.kareem.one/cb_doge/status/2121981656882122993#m",
-   "ts": 1794754826,
-   "id": "2121981656882122993#m"
   },
   {
    "handle": "swyx",
