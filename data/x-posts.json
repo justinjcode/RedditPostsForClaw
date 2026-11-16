@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-16T04:10:33Z",
+ "generated_at": "2026-11-16T04:25:11Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +10,29 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "lol",
+   "url": "https://nitter.kareem.one/elonmusk/status/2122178701039137144#m",
+   "ts": 1794801805,
+   "id": "2122178701039137144#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The SpaceX engineers who caught the rocket don't write LinkedIn thought pieces about leadership.",
+   "url": "https://nitter.kareem.one/JohnLeFevre/status/2122174254787760534#m",
+   "ts": 1794800745,
+   "id": "2122174254787760534#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -121,33 +140,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2122138040176894180#m",
    "ts": 1794792110,
    "id": "2122138040176894180#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Starlink helps rural schools with education DogeDesigner (@cb_doge) BREAKING: Every rural municipal school in Rondonópolis, Brazil, now has Starlink internet. 🇧🇷 Students and teachers can now access digital libraries, educational videos and online learning tools. SpaceX is bringing a world of knowledge to remote classrooms. ♥️ Video — https://nitter.kareem.one/cb_doge/status/2121955840370614708#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122127527040712704#m",
-   "ts": 1794789604,
-   "id": "2122127527040712704#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Samsung will invest $1.9 billion to expand its chip plant in Austin, Texas, to produce semiconductors for @SpaceX 's Starlink satellites. The factory is expected to produce STM32V8 chips used in Starlink's laser communication systems, shifting production currently based in France to the U.S. The chips use an advanced 18nm FD-SOI process designed for high performance, low power consumption, and durability in harsh space environments. Production is targeted to begin by 2030, according to the Seoul Economic Daily.",
-   "url": "https://nitter.kareem.one/SawyerMerritt/status/2122116284628320705#m",
-   "ts": 1794786923,
-   "id": "2122116284628320705#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Let’s take this gentleman’s argument at face value that anyone can throw money at rockets and get something like Starship, Falcon or Dragon. Perhaps he can explain to everyone how SpaceX is able to catch giant starships from orbit with chopsticks and deliver 85% of all Earth payload to orbit with Falcon, while Blue Origin, which started before SpaceX and was funded by the immensely wealthy Jeff Bezos, is not yet able to launch reliably? Also, why is it that Boeing and Lockheed received several times what SpaceX did from the government for development of their rockets and spacecraft, but the Boeing capsule is still not operational and ULA delivers less than 5% of SpaceX payload to orbit? I am genuinely curious about these questions.",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122114284779925897#m",
-   "ts": 1794786447,
-   "id": "2122114284779925897#m"
   },
   {
    "handle": "elonmusk",
@@ -283,6 +275,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2121815348370612414#m",
    "ts": 1794715175,
    "id": "2121815348370612414#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The lesson of Icarus is not ‘don’t fly too close to the sun’ it’s ‘make better fucking wings’",
+   "url": "https://nitter.kareem.one/LukeLeisher/status/2121803800482807822#m",
+   "ts": 1794712421,
+   "id": "2121803800482807822#m"
   },
   {
    "handle": "ZichenWanghere",
