@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-11-16T23:40:40Z",
+ "generated_at": "2026-11-16T23:46:11Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -9,12 +11,27 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "View of Starship landing from the tower SpaceX (@SpaceX) Views from Mechazilla of the first ever Starship catch Video Video — https://nitter.kareem.one/SpaceX/status/2122427170328883425#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2122472344052531640#m",
+   "ts": 1794871815,
+   "id": "2122472344052531640#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starlink X Freeze (@XFreeze) Starlink has completely transformed connectivity across North Star's offshore fleet North Star's head of IT, Bruce Catto: “Starlink has changed everything for us” “It is the biggest difference in communications in the last 15 years” The UK-based maritime operator is using Starlink across 36 vessels supporting offshore wind and marine operations Before Starlink, vessels relied on painfully slow ~1 Mbps VSAT connections with strict bandwidth limits Now those same vessels function like extensions of the office, with: • Live video calls with shore teams and families • Cloud services and real-time operational data • Better coordination and vessel maintenance • Improved crew welfare and retention North Star also credits Starlink with helping retain seafarers and maintain long-term vessel contracts From offshore wind farms to ships operating far from land, Starlink has become essential maritime infrastructure And it's transforming how people work and stay connected at sea — https://nitter.kareem.one/XFreeze/status/2122334905833308170#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2122471820712660999#m",
+   "ts": 1794871690,
+   "id": "2122471820712660999#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -50,6 +67,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2122427240441131203#m",
    "ts": 1794861061,
    "id": "2122427240441131203#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Views from Mechazilla of the first ever Starship catch Video Video",
+   "url": "https://nitter.kareem.one/SpaceX/status/2122427170328883425#m",
+   "ts": 1794861044,
+   "id": "2122427170328883425#m"
   },
   {
    "handle": "elonmusk",
@@ -304,15 +330,6 @@
    "id": "2122221516867895726#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The amount of energy we harness for civilization from the Sun will obviously ultimately round up to 100% of all energy. That math is obvious and trivial. X Freeze (@XFreeze) Years ago, Elon Musk predicted: “Solar electricity will become by far the biggest source of power for civilization” Today, we're watching that vision become reality In 2015, solar generated just 256 TWh of electricity globally A decade later, annual solar generation has surpassed 2,700 TWh That's more than a 10X increase in just ten years Solar also accounted for 83% of the growth in global electricity demand during the first half of 2025 And renewables have now overtaken coal in global electricity generation What Elon Musk envisioned years ago is unfolding right in front of us The Sun is a gigantic fusion reactor in space, delivering more energy to Earth in a single hour than humanity consumes in an entire year We're still capturing only a tiny fraction of it Solar generation is accelerating, battery storage is expanding, and the world is moving toward a future of abundant, sustainable energy And this transformation is only getting started — https://nitter.kareem.one/XFreeze/status/2122186676164587648#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122220308799316072#m",
-   "ts": 1794811725,
-   "id": "2122220308799316072#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -320,24 +337,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2122206990101536852#m",
    "ts": 1794808549,
    "id": "2122206990101536852#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Yup X Freeze (@XFreeze) In 2014, NASA awarded Boeing $4.2 BILLION to develop Starliner SpaceX received just $2.6 BILLION for Crew Dragon Now look at the results: • Boeing Starliner: Just one crewed flight and got two astronauts stuck on the ISS for over 9 months in space before SpaceX sent Dragon to rescue them • SpaceX Crew Dragon: 21 crewed missions since 2020, carrying astronauts to orbit for NASA and private customers, saving NASA billions of dollars Boeing received $1.6 BILLION more in the original NASA contract Yet SpaceX ended up bringing Boeing's own astronauts back to Earth — https://nitter.kareem.one/XFreeze/status/2122193972722573371#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122203324460265943#m",
-   "ts": 1794807675,
-   "id": "2122203324460265943#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Yup The Rabbit Hole (@TheRabbitHole) SpaceX has launched more then every other company combined — https://nitter.kareem.one/TheRabbitHole/status/2122156579520946435#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122191623731745133#m",
-   "ts": 1794804886,
-   "id": "2122191623731745133#m"
   },
   {
    "handle": "ZichenWanghere",
