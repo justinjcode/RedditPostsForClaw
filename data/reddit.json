@@ -1,15 +1,64 @@
 {
- "generated_at": "2026-11-16T06:20:17Z",
+ "generated_at": "2026-11-16T08:24:12Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
   "MachineLearning",
-  "programming"
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "selfhosted",
+   "title": "Luna - Open-source, Your AI but anywhere and anything",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xxjzdz/luna_opensource_your_ai_but_anywhere_and_anything/",
+   "ts": 1794816952,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Official Qwen4-Max blog post with benchmarks",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxjpih/official_qwen4max_blog_post_with_benchmarks/",
+   "ts": 1794815962,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "I built Nuntivus, an open-source, self-hosted event delivery platform. Looking for early feedback",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xxjmvq/i_built_nuntivus_an_opensource_selfhosted_event/",
+   "ts": 1794815673,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "I built xu526, a self-hosted PaaS that runs your compose stacks with scale-to-zero, plus a tunnel to share anything from your laptop",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xxjdp4/i_built_xu526_a_selfhosted_paas_that_runs_your/",
+   "ts": 1794814676,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "How to secure the self hosted apps?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xxj7li/how_to_secure_the_self_hosted_apps/",
+   "ts": 1794814025,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "New AA ranking Qwen3.8-FN better than GLM-5.3-Flash?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxibeh/new_aa_ranking_qwen38fn_better_than_glm53flash/",
+   "ts": 1794810728,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Self Hosted Music Stack",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xxhxd7/self_hosted_music_stack/",
+   "ts": 1794809346,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "[Release] Qwen3.8-27B-Perplexing-Pegasus-Heretic: Unified vision + typed decider + abliterated weights for local agent stacks (GGUF, AutoRound, NVFP4)",
@@ -50,13 +99,6 @@
    "title": "ICLR did you post reminder of rebuttal response? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xxbo56/iclr_did_you_post_reminder_of_rebuttal_response_d/",
    "ts": 1794789765,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "[ Removed by Reddit ]",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xxb9ib/removed_by_reddit/",
-   "ts": 1794788585,
    "source": "Reddit"
   },
   {
@@ -110,13 +152,6 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Sophos Firewall VM is it worth it to use it bare metal and change my setup??",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xx6h2w/sophos_firewall_vm_is_it_worth_it_to_use_it_bare/",
-   "ts": 1794776049,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "Update your Seerr",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xx63v2/update_your_seerr/",
    "ts": 1794775136,
@@ -165,13 +200,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Looking for email search suggestions",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xx2fw9/looking_for_email_search_suggestions/",
-   "ts": 1794766360,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Training-free early exit for reasoning models: a linear probe folded into the </think> row of the output layer [p]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xx1xdm/trainingfree_early_exit_for_reasoning_models_a/",
@@ -190,6 +218,13 @@
    "title": "Basalt 0.4.0: More models, still as fast - Qwen 27B up to 770 tok/s on a 5090",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx1cu9/basalt_040_more_models_still_as_fast_qwen_27b_up/",
    "ts": 1794763831,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "How do people handle moving files from the torrent client folder to the media server folders?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xx1cne/how_do_people_handle_moving_files_from_the/",
+   "ts": 1794763820,
    "source": "Reddit"
   },
   {
@@ -249,13 +284,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Help with Proxmox",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xwxrao/help_with_proxmox/",
-   "ts": 1794755217,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Brockett-Dobkin Rectangular Matrix Multiplication Algorithm From 1970s",
    "url": "https://www.reddit.com/r/programming/comments/1xwxmp1/brockettdobkin_rectangular_matrix_multiplication/",
@@ -270,13 +298,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Spotted a very interesting detail about Intel's upcoming CPU platform (LGA 1954)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwxbjk/spotted_a_very_interesting_detail_about_intels/",
-   "ts": 1794754142,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "I don't think double-blind review systems work [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xwuwqd/i_dont_think_doubleblind_review_systems_work_d/",
@@ -284,24 +305,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Two months in, still extremely happy with self-hosting my own AI",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xwutsy/two_months_in_still_extremely_happy_with/",
-   "ts": 1794747373,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Hackathon project for MariaDB's Wikipedia Through Time challenge: matching sentences across seven Wikipedia editions at any past date [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xwttxo/hackathon_project_for_mariadbs_wikipedia_through/",
    "ts": 1794744207,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Latest version of strata made my Qwen3.8-Flash-Next dumb and useless",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwttcw/latest_version_of_strata_made_my_qwen38flashnext/",
-   "ts": 1794744155,
    "source": "Reddit"
   },
   {
@@ -316,13 +323,6 @@
    "title": "Slack’s Migration to a Cellular Architecture",
    "url": "https://www.reddit.com/r/programming/comments/1xwsbxo/slacks_migration_to_a_cellular_architecture/",
    "ts": 1794738808,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Alt for Searxng - over fighting it",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xws64e/alt_for_searxng_over_fighting_it/",
-   "ts": 1794738194,
    "source": "Reddit"
   },
   {
