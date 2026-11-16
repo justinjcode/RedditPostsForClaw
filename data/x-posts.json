@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T01:51:48Z",
+ "generated_at": "2026-11-16T01:56:03Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -8,13 +8,21 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "That’s how it happened Fireside Alpha (@firesidealpha) Elon Musk reveals he recruited SpaceX’s first engineers by telling them 'we’re probably going to die', and ended up as chief engineer because no good one would join “So SpaceX, I started that in mid-2002 expecting to fail. Probably 90% chance of failing.” “And even when recruiting people, I didn’t try to make out that it would work. I said, we’re probably going to die, but there’s a small chance we might not die, and this is the only way to get people to Mars and advance the state of the art.” “And then I ended up being chief engineer of the rocket, not because I wanted to, but because I couldn’t hire anyone who was good. None of the good chief engineers would join, because they’re like, this is too risky, you’re going to die. And so I ended up being chief engineer of the rocket.” Video — https://nitter.kareem.one/firesidealpha/status/2122135949094350967#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2122141959917842487#m",
+   "ts": 1794793045,
+   "id": "2122141959917842487#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -230,15 +238,6 @@
    "url": "https://nitter.kareem.one/aiDotEngineer/status/2121981562824564960#m",
    "ts": 1794754803,
    "id": "2121981562824564960#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "BREAKING: Former White House and Pentagon official Douglas MacKinnon calls for an end to political attacks on Elon Musk, saying “our very survival may depend on him.” • Humanity’s future is vulnerable as long as we live on only one planet. War, an asteroid strike or another major disaster could threaten civilization. • Elon’s mission is to help humans live on other planets, giving future generations a better chance of surviving if disaster strikes Earth. • His work toward a permanent human presence in space could become one of his most important contributions to humanity. • People can disagree with his politics and still recognize the value of what he is trying to achieve. • MacKinnon argues that Elon deserves the time and freedom to focus on this mission. Elon is working toward a future where humanity can live beyond Earth and explore the stars. His determination to make that possible deserves recognition and support.",
-   "url": "https://nitter.kareem.one/cb_doge/status/2121938086292770850#m",
-   "ts": 1794744438,
-   "id": "2121938086292770850#m"
   },
   {
    "handle": "ZichenWanghere",
