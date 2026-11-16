@@ -1,15 +1,85 @@
 {
- "generated_at": "2026-11-16T16:10:21Z",
+ "generated_at": "2026-11-16T20:09:33Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
   "MachineLearning",
+  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "What Happens to Work After a Timeout?",
+   "url": "https://www.reddit.com/r/programming/comments/1xxza0t/what_happens_to_work_after_a_timeout/",
+   "ts": 1794858683,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "“…and the proof is checked in Lean”",
+   "url": "https://www.reddit.com/r/programming/comments/1xxytd6/and_the_proof_is_checked_in_lean/",
+   "ts": 1794857662,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Selfhosted price tracker",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xxwpy6/selfhosted_price_tracker/",
+   "ts": 1794852978,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Layer-hot decoding: an approach to check a guessed token while each layer's weights are already loaded on an Apple M4. It ran slow. [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xxw87p/layerhot_decoding_an_approach_to_check_a_guessed/",
+   "ts": 1794851872,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Introducing the World's Strongest Sokoban Solver",
+   "url": "https://www.reddit.com/r/programming/comments/1xxw6xh/introducing_the_worlds_strongest_sokoban_solver/",
+   "ts": 1794851790,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Serious spaces? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xxvby6/serious_spaces_d/",
+   "ts": 1794849836,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Dispatcharr Multistreaming",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xxubd8/dispatcharr_multistreaming/",
+   "ts": 1794847632,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Learning to Code in 2026: The Data",
+   "url": "https://www.reddit.com/r/programming/comments/1xxu86p/learning_to_code_in_2026_the_data/",
+   "ts": 1794847427,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Do Repeat Yourself",
+   "url": "https://www.reddit.com/r/programming/comments/1xxu2yo/do_repeat_yourself/",
+   "ts": 1794847101,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Self-hosting Git with Forgejo while benefiting from GitHub's community — how do you manage both?",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xxtro7/selfhosting_git_with_forgejo_while_benefiting/",
+   "ts": 1794846386,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Do I need to start over?",
@@ -33,23 +103,16 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Self-hosted email platform (like SendGrid/SES/Resend)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xxrxn3/selfhosted_email_platform_like_sendgridsesresend/",
-   "ts": 1794842155,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "Sniffnet: open-source network traffic monitor (now with support for routers, firewalls, servers)",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xxrxlg/sniffnet_opensource_network_traffic_monitor_now/",
    "ts": 1794842152,
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "EasyArr – a native Mac / iPhone / iPad / Apple TV app to manage Radarr, Sonarr, Prowlarr, SABnzbd, Seerr and Jellyfin (public TestFlight beta)",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xxrqof/easyarr_a_native_mac_iphone_ipad_apple_tv_app_to/",
-   "ts": 1794841698,
+   "subreddit": "programming",
+   "title": "From charging a blended rate to IC++: pass network costs to your connected accounts",
+   "url": "https://www.reddit.com/r/programming/comments/1xxrwnt/from_charging_a_blended_rate_to_ic_pass_network/",
+   "ts": 1794842089,
    "source": "Reddit"
   },
   {
@@ -71,13 +134,6 @@
    "title": "AISTATS 2027 paper discussion [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xxqa3i/aistats_2027_paper_discussion_d/",
    "ts": 1794838171,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "I Found a 5× Performance Problem Hiding in Plain Sight",
-   "url": "https://www.reddit.com/r/programming/comments/1xxq90s/i_found_a_5_performance_problem_hiding_in_plain/",
-   "ts": 1794838095,
    "source": "Reddit"
   },
   {
@@ -200,13 +256,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "How JavaScript and Python actually run your code",
-   "url": "https://www.reddit.com/r/programming/comments/1xxk3zb/how_javascript_and_python_actually_run_your_code/",
-   "ts": 1794817455,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "How to secure the self hosted apps?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xxj7li/how_to_secure_the_self_hosted_apps/",
@@ -221,20 +270,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Route To Hosting Videos For Websites, Apps And Subscription Services",
-   "url": "https://www.reddit.com/r/programming/comments/1xxd0ul/route_to_hosting_videos_for_websites_apps_and/",
-   "ts": 1794793724,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Social Simulation with LLMs - From Proxies to Population (CFP @ AAAI'27) Due Nov. 20 [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xxc63w/social_simulation_with_llms_from_proxies_to/",
-   "ts": 1794791221,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "ICLR did you post reminder of rebuttal response? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xxbo56/iclr_did_you_post_reminder_of_rebuttal_response_d/",
@@ -246,13 +281,6 @@
    "title": "Why download abliterated Flash Next models when LoRA exists?",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxawbh/why_download_abliterated_flash_next_models_when/",
    "ts": 1794787576,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Self-hosted file storage recommendations",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xxas32/selfhosted_file_storage_recommendations/",
-   "ts": 1794787278,
    "source": "Reddit"
   },
   {
@@ -298,13 +326,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Many Tiles, One Space, Two Worlds -- At Last, a Use for Bubble Sort",
-   "url": "https://www.reddit.com/r/programming/comments/1xx0jyi/many_tiles_one_space_two_worlds_at_last_a_use_for/",
-   "ts": 1794761997,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Karakeep 0.35 release - Security, Polish and 30k stars ⭐",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xx04an/karakeep_035_release_security_polish_and_30k_stars/",
@@ -316,13 +337,6 @@
    "title": "Marimba: a System One model for speech [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xwzsm4/marimba_a_system_one_model_for_speech_r/",
    "ts": 1794760209,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Understanding Go: inside PGO",
-   "url": "https://www.reddit.com/r/programming/comments/1xwz44b/understanding_go_inside_pgo/",
-   "ts": 1794758596,
    "source": "Reddit"
   },
   {
@@ -389,13 +403,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "How I accidentally became a millionaire",
-   "url": "https://www.reddit.com/r/programming/comments/1xvr455/how_i_accidentally_became_a_millionaire/",
-   "ts": 1794623901,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "New Project Megathread - Week of 12 Nov 2026",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xurjda/new_project_megathread_week_of_12_nov_2026/",
@@ -414,13 +421,6 @@
    "title": "ICLR 2027 Reviews Discussion [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
    "ts": 1793845079,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "[D] Self-Promotion Thread",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xlmffv/d_selfpromotion_thread/",
-   "ts": 1793589307,
    "source": "Reddit"
   },
   {
