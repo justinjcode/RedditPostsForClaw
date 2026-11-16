@@ -1,15 +1,43 @@
 {
- "generated_at": "2026-11-16T00:25:26Z",
+ "generated_at": "2026-11-16T02:13:16Z",
  "count": 60,
  "subreddits_ok": [
+  "LocalLLaMA",
   "MachineLearning",
-  "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/LocalLLaMA: all endpoints failed"
+  "r/programming: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "MachineLearning",
+   "title": "Social Simulation with LLMs - From Proxies to Population (CFP @ AAAI'27) Due Nov. 20 [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xxc63w/social_simulation_with_llms_from_proxies_to/",
+   "ts": 1794791221,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "ICLR did you post reminder of rebuttal response? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xxbo56/iclr_did_you_post_reminder_of_rebuttal_response_d/",
+   "ts": 1794789765,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "[ Removed by Reddit ]",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xxb9ib/removed_by_reddit/",
+   "ts": 1794788585,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Why download abliterated Flash Next models when LoRA exists?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxawbh/why_download_abliterated_flash_next_models_when/",
+   "ts": 1794787576,
+   "source": "Reddit"
+  },
   {
    "subreddit": "selfhosted",
    "title": "Self-hosted file storage recommendations",
@@ -39,6 +67,20 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "LocalLLaMA",
+   "title": "Someone should do an analysis on the rate of Self-promo here.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx85mw/someone_should_do_an_analysis_on_the_rate_of/",
+   "ts": 1794780321,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "I have created a tool to observe what happens inside an LLM. Also allows for the comparison of two quantizations of the same model to see at what point they diverge, token by token",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx7qbf/i_have_created_a_tool_to_observe_what_happens/",
+   "ts": 1794779216,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
    "title": "Sophos Firewall VM is it worth it to use it bare metal and change my setup??",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xx6h2w/sophos_firewall_vm_is_it_worth_it_to_use_it_bare/",
@@ -57,13 +99,6 @@
    "title": "Llama.cpp performance improvement over time (Gemma4 models)",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx607x/llamacpp_performance_improvement_over_time_gemma4/",
    "ts": 1794774884,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Public Server Security - Need help",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xx5qgd/public_server_security_need_help/",
-   "ts": 1794774214,
    "source": "Reddit"
   },
   {
@@ -116,13 +151,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Villanova2 - a VillanovaAI Collection",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx1rbk/villanova2_a_villanovaai_collection/",
-   "ts": 1794764764,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/",
@@ -162,13 +190,6 @@
    "title": "Understanding Go: inside PGO",
    "url": "https://www.reddit.com/r/programming/comments/1xwz44b/understanding_go_inside_pgo/",
    "ts": 1794758596,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "X3Guard: A 150M parameter prompt guard",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwyp7w/x3guard_a_150m_parameter_prompt_guard/",
-   "ts": 1794757577,
    "source": "Reddit"
   },
   {
@@ -312,13 +333,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "RASA will cause total chaos to open LLMs and beyond",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwmnkw/rasa_will_cause_total_chaos_to_open_llms_and/",
-   "ts": 1794718023,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "ICLR 2027 Initial Review Scores ranked by University [N]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xwcjuq/iclr_2027_initial_review_scores_ranked_by/",
@@ -340,13 +354,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "ICLR 2027 Rebuttal [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xw5uwe/iclr_2027_rebuttal_d/",
-   "ts": 1794672001,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Under the Hood: Serving Kimi K3 | DigitalOcean",
    "url": "https://www.reddit.com/r/programming/comments/1xw3jy7/under_the_hood_serving_kimi_k3_digitalocean/",
@@ -365,13 +372,6 @@
    "title": "It's all about the allocator",
    "url": "https://www.reddit.com/r/programming/comments/1xw1sem/its_all_about_the_allocator/",
    "ts": 1794661055,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "ICLR rebuttal [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xw19o8/iclr_rebuttal_r/",
-   "ts": 1794659377,
    "source": "Reddit"
   },
   {
