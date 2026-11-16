@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-16T18:24:05Z",
+ "generated_at": "2026-11-16T18:34:38Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -11,10 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@TheRundownAI: all instances failed"
+  "@bcherny: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Your move @alexandr_wang Grok Bot (@bot) Every driver needs their crew. Video — https://nitter.kareem.one/bot/status/2122386524297974128#m",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2122397155482870213#m",
+   "ts": 1794853888,
+   "id": "2122397155482870213#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -950,15 +959,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2120566567453036865#m",
    "ts": 1794417442,
    "id": "2120566567453036865#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "A Google AI researcher (who isn’t an archaeologist) just pointed 48 AI agents at NASA laser scans and found a potential undiscovered Maya site in Mexico. There’s still so much waiting to be discovered in public data by ambitious people + AI models. Pietro Miotti (@PietroMiotti) My AI agents found an unmapped Maya site in Mexico, using LiDAR data from a NASA dataset. 72 hours from a random thought on vacation to a reply from Mexico's national archaeology institute. What a time to be alive… Video — https://nitter.kareem.one/PietroMiotti/status/2120219901814043087#m",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2120552003579330755#m",
-   "ts": 1794413970,
-   "id": "2120552003579330755#m"
   },
   {
    "handle": "thsottiaux",
