@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-11-16T15:16:24Z",
+ "generated_at": "2026-11-16T15:38:14Z",
  "accounts_ok": [
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,28 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: robotnews.therundown.ai/p/te… Link Tesla's Cybercab can now be yours, sort of PLUS: Robot dogs now walk actual dogs robotnews.therundown.ai",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2122351524927975550#m",
+   "ts": 1794843009,
+   "id": "2122351524927975550#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in robotics today: - Tesla opens Cybercab to private buyers - Eric Trump-backed war robot startup misses payroll - Serve Robotics hands its robots an API - Robot dog takes real dog for a walk",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2122351519932555701#m",
+   "ts": 1794843008,
+   "id": "2122351519932555701#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1013,24 +1031,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2120190153495027741#m",
    "ts": 1794327698,
    "id": "2120190153495027741#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: tech.therundown.ai/p/huang-s… Link Huang's bad week just got a lot worse PLUS: Park your car with your Uber app tech.therundown.ai",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2120177863181717802#m",
-   "ts": 1794324768,
-   "id": "2120177863181717802#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in tech today: - Huang spy scandal gets a $7.5B problem - Uber starts selling parking spots - The FAA finally ejects the floppy disk - SpaceX alums build $749 seawater-to-drinking-water kit",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2120177857942978655#m",
-   "ts": 1794324766,
-   "id": "2120177857942978655#m"
   },
   {
    "handle": "Lingling_Wei",
