@@ -1,18 +1,17 @@
 {
- "generated_at": "2026-11-17T01:22:10Z",
+ "generated_at": "2026-11-17T01:29:35Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
   {
@@ -52,6 +51,15 @@
    "id": "2122446366354096479#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Catching a Starship with Mini 2 → starlink.com/mini-2 Video",
+   "url": "https://nitter.kareem.one/Starlink/status/2122446093648875712#m",
+   "ts": 1794865556,
+   "id": "2122446093648875712#m"
+  },
+  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -68,6 +76,15 @@
    "url": "https://nitter.kareem.one/zerohedge/status/2122434181904924817#m",
    "ts": 1794862716,
    "id": "2122434181904924817#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "there's something immensely satisfying about the way 42 walks its way into the sticks, then sinking into the landing rails and swaying Video SpaceX (@SpaceX) Views from Mechazilla of the first ever Starship catch Video Video — https://nitter.kareem.one/SpaceX/status/2122427170328883425#m",
+   "url": "https://nitter.kareem.one/_MaxQ_/status/2122429483391324638#m",
+   "ts": 1794861596,
+   "id": "2122429483391324638#m"
   },
   {
    "handle": "swyx",
@@ -313,15 +330,6 @@
    "id": "2122291190175310218#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "If Starship were its own launch company, it would already be number 2 in the US by payload to orbit. (behind SpaceX Falcon 9).",
-   "url": "https://nitter.kareem.one/ApoStructura/status/2122264436069339575#m",
-   "ts": 1794822245,
-   "id": "2122264436069339575#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -329,15 +337,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2122236664408084526#m",
    "ts": 1794815624,
    "id": "2122236664408084526#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Now serving more of Miami 🌴",
-   "url": "https://nitter.kareem.one/robotaxi/status/2122234442328740005#m",
-   "ts": 1794815094,
-   "id": "2122234442328740005#m"
   },
   {
    "handle": "thsottiaux",
