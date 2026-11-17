@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T05:46:06Z",
+ "generated_at": "2026-11-17T05:58:47Z",
  "accounts_ok": [
   "TheRundownAI",
   "ZichenWanghere",
@@ -15,6 +15,15 @@
  ],
  "count": 175,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "together deleted megkernels Dylan Lim (@dylan__lim) For the past two years, members of our team have been investigating what a next-generation system for inference optimization should look like. In the following blog, we revisit the assumptions behind today's compilers, share the experiments that challenged our thinking, and explain the lessons that shaped our compiler. This work was made possible through my collaborators, @reyna_abhyankar and @simran_s_arora and things are still incredibly early! There’s many more findings to share and interesting work to be done. Stay tuned! Blog: together.ai/blog/road-to-tog… Link Last year we built megakernels. This year we deleted them: The road to Together Compiler Together Compiler uses AI agents to rewrite and fuse the GPU kernels in a model’s forward pass. It beats hand-written megakernels by 28% on B200 (2,118 vs 1,649 tokens/s on Llama 3.2 1B). This is how... together.ai — https://nitter.kareem.one/dylan__lim/status/2122463072489271342#m",
+   "url": "https://nitter.kareem.one/swyx/status/2122566522094915765#m",
+   "ts": 1794894268,
+   "id": "2122566522094915765#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -572,15 +581,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2121757606801023085#m",
    "ts": 1794701408,
    "id": "2121757606801023085#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "The more I learn about how the internals all work, the more I agree with this take. This week’s @latentspacepod / @swyx podcast with Handshake was super-interesting and eye-opening to me. Almost 3 hours long but worth the listen - and probably just scraping the surface of what all goes into this. Space still feels very early Nicolas Bustamante (@nicbstme) Some of the highest gross margin startups in SF right now aren’t SaaS companies. They’re basically data generation companies selling to AI labs. I think every verifiable domain is going to get crushed by AI. Mathematics is the quintessential example. With Lean, you can formally prove whether a solution is correct. Software engineering is another one. You can run the code, run the tests, and know whether it works. Progress in these domains is insanely fast because you have a reliable reward signal. But the next frontier is much harder. Think GDPval-style knowledge work, long-running workflows, complex tasks that take humans days or weeks to complete. At the end of the day, models are only as good as the data and training environments we give them. And the labs need more and more high-quality reinforcement learning environments (RL envs) to keep scaling. Physics, biology, healthcare, aerospace engineering, finance, you name it. Every domain needs its own environments, verifiers, simulations, and expert feedback. So there’s almost unlimited demand for companies that can generate this data. And unlike SaaS companies building AI ",
-   "url": "https://nitter.kareem.one/mstockton/status/2121750278395330859#m",
-   "ts": 1794699661,
-   "id": "2121750278395330859#m"
   },
   {
    "handle": "simonw",
