@@ -1,15 +1,71 @@
 {
- "generated_at": "2026-11-17T14:09:38Z",
+ "generated_at": "2026-11-17T16:10:28Z",
  "count": 60,
  "subreddits_ok": [
-  "LocalLLaMA",
+  "MachineLearning",
   "programming",
   "selfhosted"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/LocalLLaMA: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "5+ years of experience with Technology X",
+   "url": "https://www.reddit.com/r/programming/comments/1xyodcm/5_years_of_experience_with_technology_x/",
+   "ts": 1794931635,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "[ Removed by Reddit ]",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xynztv/removed_by_reddit/",
+   "ts": 1794930820,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "[OpenWRT]: external HDD won't auto-mount on boot.",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xynquh/openwrt_external_hdd_wont_automount_on_boot/",
+   "ts": 1794930255,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Current ML PhD students, would you still choose to do an ML PhD if you could go back 2–3 years? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xynl4o/current_ml_phd_students_would_you_still_choose_to/",
+   "ts": 1794929878,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "trying to keep household docs and how-tos off notion and google docs, self hosted options",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xynkh1/trying_to_keep_household_docs_and_howtos_off/",
+   "ts": 1794929835,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "ICLR reviewer radio silence, what is the actual reason? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xymxsq/iclr_reviewer_radio_silence_what_is_the_actual/",
+   "ts": 1794928366,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Is it inappropriate to leave a comment for the AC summarizing the rebuttal process from my perspective and making my case? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xym86k/is_it_inappropriate_to_leave_a_comment_for_the_ac/",
+   "ts": 1794926662,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Rust is not faster by default: why my C# Binance client beats the official Rust SDK by 33x",
+   "url": "https://www.reddit.com/r/programming/comments/1xylq09/rust_is_not_faster_by_default_why_my_c_binance/",
+   "ts": 1794925427,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "Why HTTPS Almost Broke Netflix-And How Kernl TLS Saved Id-Crazy Linux Customizations",
@@ -57,13 +113,6 @@
    "title": "GPU prices - Big \"discounts\"",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyixml/gpu_prices_big_discounts/",
    "ts": 1794917713,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "LibreDB Studio 1.3: self-hosted SQL IDE for 42 engines, now with a read-only MCP endpoint",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xyit5q/libredb_studio_13_selfhosted_sql_ide_for_42/",
-   "ts": 1794917324,
    "source": "Reddit"
   },
   {
@@ -116,10 +165,38 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "MachineLearning",
+   "title": "How is it possible that OKLS can't outperform Muon in terms of step efficiency? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xyg48x/how_is_it_possible_that_okls_cant_outperform_muon/",
+   "ts": 1794907858,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Concerns About Peer Reviewers Inflating OA Scores [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xyg0vu/concerns_about_peer_reviewers_inflating_oa_scores/",
+   "ts": 1794907513,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
    "title": "Stalwart, Mail, and enshittification of open source projects",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xyfzv5/stalwart_mail_and_enshittification_of_open_source/",
    "ts": 1794907399,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Curated list of resources: Theory and Code for learning Distributed Training for beginners [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xyf6pr/curated_list_of_resources_theory_and_code_for/",
+   "ts": 1794904277,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "ICLR 2027: PCs ran an AI detector on reviews, peer review is cooked [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xyf1tq/iclr_2027_pcs_ran_an_ai_detector_on_reviews_peer/",
+   "ts": 1794903761,
    "source": "Reddit"
   },
   {
@@ -165,13 +242,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "Struggled in my Infosys interview as a fresher. How should I strengthen my fundamentals to become an AI/ML Engineer?[D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xy92xo/struggled_in_my_infosys_interview_as_a_fresher/",
-   "ts": 1794883686,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Isopod: a self-hosted Minecraft server manager with modpack installs, Bedrock cross-play, and auto-rollback snapshots (Docker, MIT)",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xy75u4/isopod_a_selfhosted_minecraft_server_manager_with/",
@@ -183,13 +253,6 @@
    "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
    "url": "https://www.reddit.com/r/programming/comments/1xy71dn/carnegie_mellon_is_putting_computer_science/",
    "ts": 1794877810,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Is anyone's AC playing the role of \"discussion moderator\" for ICLR? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xy6t7g/is_anyones_ac_playing_the_role_of_discussion/",
-   "ts": 1794877193,
    "source": "Reddit"
   },
   {
@@ -208,23 +271,9 @@
   },
   {
    "subreddit": "selfhosted",
-   "title": "Dockhand: Using existing compose files in /opt/stacks/[app_name]",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xy4o4s/dockhand_using_existing_compose_files_in/",
-   "ts": 1794871487,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
    "title": "Folding at Home & Tesserae",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xy2g9n/folding_at_home_tesserae/",
    "ts": 1794865947,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "CVPR 2027: LLM Usage Statement in PDF vs. OpenReview Form? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xy25mx/cvpr_2027_llm_usage_statement_in_pdf_vs/",
-   "ts": 1794865245,
    "source": "Reddit"
   },
   {
@@ -270,20 +319,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Self-hosting Git with Forgejo while benefiting from GitHub's community — how do you manage both?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xxtro7/selfhosting_git_with_forgejo_while_benefiting/",
-   "ts": 1794846386,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "I built a video activity-recognition [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xxtq8k/i_built_a_video_activityrecognition_p/",
-   "ts": 1794846293,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Marimba: A System One Model for Speech. [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xxsqro/marimba_a_system_one_model_for_speech_r/",
@@ -295,13 +330,6 @@
    "title": "Sniffnet: open-source network traffic monitor (now with support for routers, firewalls, servers)",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xxrxlg/sniffnet_opensource_network_traffic_monitor_now/",
    "ts": 1794842152,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "From charging a blended rate to IC++: pass network costs to your connected accounts",
-   "url": "https://www.reddit.com/r/programming/comments/1xxrwnt/from_charging_a_blended_rate_to_ic_pass_network/",
-   "ts": 1794842089,
    "source": "Reddit"
   },
   {
@@ -355,20 +383,6 @@
   },
   {
    "subreddit": "MachineLearning",
-   "title": "Steering a pretrained music transformer at sampling time into a real-time jazz partner (no fine-tuning) [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xxkyh3/steering_a_pretrained_music_transformer_at/",
-   "ts": 1794820783,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "ICLR did you post reminder of rebuttal response? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xxbo56/iclr_did_you_post_reminder_of_rebuttal_response_d/",
-   "ts": 1794789765,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
    "title": "[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/",
    "ts": 1794764296,
@@ -379,20 +393,6 @@
    "title": "544 unmaintained PyPI packages with imports that fail on Python 3.12+ still get 100M+ downloads a month",
    "url": "https://www.reddit.com/r/programming/comments/1xwyhpm/544_unmaintained_pypi_packages_with_imports_that/",
    "ts": 1794757060,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Memory management in 40 major C projects, a survey",
-   "url": "https://www.reddit.com/r/programming/comments/1xwxhbp/memory_management_in_40_major_c_projects_a_survey/",
-   "ts": 1794754539,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "I don't think double-blind review systems work [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xwuwqd/i_dont_think_doubleblind_review_systems_work_d/",
-   "ts": 1794747615,
    "source": "Reddit"
   },
   {
