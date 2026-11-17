@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-17T08:13:19Z",
+ "generated_at": "2026-11-17T08:26:42Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,9 +10,29 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 175,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Cyber-Inception anabology (@anabology) This video was made entirely using @Cyborg21 's neuralink implant — https://nitter.kareem.one/anabology/status/2122381867512918510#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2122600952096280785#m",
+   "ts": 1794902477,
+   "id": "2122600952096280785#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "As a teenager, Elon Musk went through an existential crisis, reading religion and philosophy in search of the meaning of life Then he discovered Douglas Adams' The Hitchhiker's Guide to the Galaxy “I ended up reading The Hitchhiker's Guide to the Galaxy, which is actually a book on philosophy, just sort of disguised as a silly humor book. But it's actually a philosophy book. And Adams makes the point that it's actually the question that is harder than the answer” A seemingly silly humor book helped a teenager searching for meaning realize something profound Finding the right question is often harder than finding the answer And that curiosity never left him Today, it's driving him to build rockets, explore the universe, and push humanity toward the stars",
+   "url": "https://nitter.kareem.one/XFreeze/status/2122596768051548482#m",
+   "ts": 1794901480,
+   "id": "2122596768051548482#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -31,6 +50,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2122587577274237129#m",
    "ts": 1794899288,
    "id": "2122587577274237129#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Find me when you wake up. Video Elon Musk (@elonmusk) Relentless reinforcement learning must feel like Edge of Tomorrow to superintelligence — https://nitter.kareem.one/elonmusk/status/2122577169863885235#m",
+   "url": "https://nitter.kareem.one/paranoidream/status/2122578000487256086#m",
+   "ts": 1794897005,
+   "id": "2122578000487256086#m"
   },
   {
    "handle": "elonmusk",
@@ -144,15 +172,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "😂 Otis Crune 🇺🇲🌎🚀 (@RealOtisCrune) For many on the left, SpaceX exists in a bizzare quantum superposition of cognitive dissonance. SpaceX is simultaneously both a shameless valueless con job AND critical national infrastructure so essential that it must be nationalized. — https://nitter.kareem.one/RealOtisCrune/status/2122359530705358859#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122511154455134253#m",
-   "ts": 1794881068,
-   "id": "2122511154455134253#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "BREAKING: The Government of Burundi is rolling out 435 Starlink kits to connect rural schools and health centers. 🇧🇮 The deployment is part of the Government of Burundi’s World Bank-funded Soleil-Nyakiriza project, serving rural communities. Video",
    "url": "https://nitter.kareem.one/cb_doge/status/2122508406879895871#m",
    "ts": 1794880413,
@@ -193,24 +212,6 @@
    "url": "https://nitter.kareem.one/anissagardizy8/status/2122493529293475884#m",
    "ts": 1794876866,
    "id": "2122493529293475884#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "NASA chief Jared Isaacman after SpaceX’s Starship catch: “This really changes everything.” “They’re doing all of this for a reason, not for this one and done demonstration you’re seeing now, but to build a world where you have lots of Starships that are flying routinely, almost on an hourly basis.” “You can experiment, build out a grand orbital economy, build lots of commercial space stations.” Video",
-   "url": "https://nitter.kareem.one/cb_doge/status/2122490851129774345#m",
-   "ts": 1794876227,
-   "id": "2122490851129774345#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "RT by @elonmusk: Image",
-   "url": "https://nitter.kareem.one/BrendanCarrFCC/status/2122466131894231467#m",
-   "ts": 1794870334,
-   "id": "2122466131894231467#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -312,6 +313,15 @@
    "id": "2122382376802144728#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "This video was made entirely using @Cyborg21 's neuralink implant Kenneth Shock (@Cyborg21) It's here. Claudia's \"ALLOW ALWAYS\" world premiere. Made by a guy with ALS, a brain implant, and too many AI friends. 😂 Video — https://nitter.kareem.one/Cyborg21/status/2117044016621748292#m",
+   "url": "https://nitter.kareem.one/anabology/status/2122381867512918510#m",
+   "ts": 1794850243,
+   "id": "2122381867512918510#m"
+  },
+  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -355,15 +365,6 @@
    "url": "https://nitter.kareem.one/AndrThie/status/2122363982627389528#m",
    "ts": 1794845979,
    "id": "2122363982627389528#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "For many on the left, SpaceX exists in a bizzare quantum superposition of cognitive dissonance. SpaceX is simultaneously both a shameless valueless con job AND critical national infrastructure so essential that it must be nationalized.",
-   "url": "https://nitter.kareem.one/RealOtisCrune/status/2122359530705358859#m",
-   "ts": 1794844918,
-   "id": "2122359530705358859#m"
   },
   {
    "handle": "TheRundownAI",
