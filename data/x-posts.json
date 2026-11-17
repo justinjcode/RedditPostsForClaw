@@ -1,20 +1,28 @@
 {
- "generated_at": "2026-11-17T02:27:21Z",
+ "generated_at": "2026-11-17T02:37:58Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed"
- ],
- "count": 176,
+ "errors": [],
+ "count": 175,
  "items": [
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "While Alice Huang was cultivating a personal relationship with Jensen Huang, her husband was involved in building billions of dollars' worth of data-center capacity in China. The two tracks run side by side for years. wsj.com/world/china/alice-hu… via @WSJ Link Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State Kang Wei developed the business while his wife was involved with Nvidia’s CEO. wsj.com",
+   "url": "https://nitter.kareem.one/Lingling_Wei/status/2122517110874140702#m",
+   "ts": 1794882488,
+   "id": "2122517110874140702#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -1067,24 +1075,6 @@
    "url": "https://nitter.kareem.one/eryang666/status/2120205785154388462#m",
    "ts": 1794331425,
    "id": "2120205785154388462#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "One alarming dynamic in U.S./China relationship is the absence of moderating voices on the Chinese side. There are only “America hawks” in the Chinese system, Matt Turpin of @HooverInst told me—“no ‘America doves.’” That’s even more pronounced under Xi’s consolidation of power, where the internal incentive is always to be tougher on the U.S., never softer. Read more in today’s WSJ China newsletter wsj.com/world/china/beijing-… Link Beijing Sees a Weakened Trump. It Risks Getting a Tougher Negotiator. Plus, Nvidia CEO Jensen Huang apologizes to employees and family, and Hong Kong activist Joshua Wong gets more prison time on foreign-collusion charges. | WSJ China for Nov. 10 wsj.com",
-   "url": "https://nitter.kareem.one/Lingling_Wei/status/2120162487265886518#m",
-   "ts": 1794321102,
-   "id": "2120162487265886518#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "Beijing Sees a Weakened Trump. It Risks Getting a Tougher Negotiator. @Lingling_Wei wsj.com/world/china/beijing-… wsj.com/world/china/beijing-… Link Beijing Sees a Weakened Trump. It Risks Getting a Tougher Negotiator. Plus, Nvidia CEO Jensen Huang apologizes to employees and family, and Hong Kong activist Joshua Wong gets more prison time on foreign-collusion charges. | WSJ China for Nov. 10 wsj.com",
-   "url": "https://nitter.kareem.one/JChengWSJ/status/2120147410131546572#m",
-   "ts": 1794317507,
-   "id": "2120147410131546572#m"
   },
   {
    "handle": "simonw",
