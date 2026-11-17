@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-17T02:14:11Z",
+ "generated_at": "2026-11-17T02:27:21Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed"
+  "@bcherny: all instances failed"
  ],
  "count": 176,
  "items": [
@@ -23,6 +23,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2122512082835067151#m",
    "ts": 1794881289,
    "id": "2122512082835067151#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "😂 Otis Crune 🇺🇲🌎🚀 (@RealOtisCrune) For many on the left, SpaceX exists in a bizzare quantum superposition of cognitive dissonance. SpaceX is simultaneously both a shameless valueless con job AND critical national infrastructure so essential that it must be nationalized. — https://nitter.kareem.one/RealOtisCrune/status/2122359530705358859#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2122511154455134253#m",
+   "ts": 1794881068,
+   "id": "2122511154455134253#m"
   },
   {
    "handle": "simonw",
@@ -59,6 +68,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2122496146538946784#m",
    "ts": 1794877490,
    "id": "2122496146538946784#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Many people are just starting to learn how Jensen Huang ruled Nvidia—from his gnarly eviscerations of employees to the rising power of his “royal family.” We take you inside the firm’s culture. A must-read with @HannaCritch @ByKLong @RWhelanWSJ for @WSJ wsj.com/business/put-downs-p…",
+   "url": "https://nitter.kareem.one/anissagardizy8/status/2122493529293475884#m",
+   "ts": 1794876866,
+   "id": "2122493529293475884#m"
   },
   {
    "handle": "elonmusk",
@@ -100,19 +118,19 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Starship 42 back on Earth",
-   "url": "https://nitter.kareem.one/SpaceX/status/2122446937286971592#m",
-   "ts": 1794865757,
-   "id": "2122446937286971592#m"
+   "text": "RT by @elonmusk: Image",
+   "url": "https://nitter.kareem.one/BrendanCarrFCC/status/2122466131894231467#m",
+   "ts": 1794870334,
+   "id": "2122466131894231467#m"
   },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "As I was saying … Free Starlinks for FAA were offered to Sec Duffy, but he said they were not needed. As it turns out, they were. Elon Musk (@elonmusk) Correction: the ancient system that is rapidly declining in capability was made L3Harris. The new system that is not yet operational is from Verizon. — https://nitter.kareem.one/elonmusk/status/1895193329647919417#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122446366354096479#m",
-   "ts": 1794865621,
-   "id": "2122446366354096479#m"
+   "text": "Starship 42 back on Earth",
+   "url": "https://nitter.kareem.one/SpaceX/status/2122446937286971592#m",
+   "ts": 1794865757,
+   "id": "2122446937286971592#m"
   },
   {
    "handle": "elonmusk",
@@ -131,15 +149,6 @@
    "url": "https://nitter.kareem.one/dikaioslin/status/2122434193720582455#m",
    "ts": 1794862719,
    "id": "2122434193720582455#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "What was the significance of this weekend's SpaceX tower catch: \"Catching the second stage is substantially harder than catching the first stage because the Ship returns from orbit while the booster returns from a short suborbital hop. The booster separates minutes after liftoff, performs a brief boostback, and comes back from only a few hundred kilometers away at relatively low speed. Ship must reach orbital velocity, deploy payload, coast for many hours, execute a precise deorbit burn, survive full reentry heating, and only then perform its landing burn. As such, Ship must carry a functional heat shield, fly a long guided atmospheric trajectory from the other side of the planet, and execute a high-energy flip into the “chopsticks” while protecting its heat-shield side. Those combined demands of orbital energy, thermal protection, long-range guidance, and final precision are why a Ship catch is so incredibly difficult. No prior system, including the Space Shuttle, recovered a rocket-style orbital stage in this manner. The catch validates the path to full reusability which is the foundation of Starship’s cost and cadence targets. This is particularly important in driving the economics of orbital data centers.\" - DB",
-   "url": "https://nitter.kareem.one/zerohedge/status/2122434181904924817#m",
-   "ts": 1794862716,
-   "id": "2122434181904924817#m"
   },
   {
    "handle": "elonmusk",
@@ -313,6 +322,15 @@
    "id": "2122362057018216869#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "For many on the left, SpaceX exists in a bizzare quantum superposition of cognitive dissonance. SpaceX is simultaneously both a shameless valueless con job AND critical national infrastructure so essential that it must be nationalized.",
+   "url": "https://nitter.kareem.one/RealOtisCrune/status/2122359530705358859#m",
+   "ts": 1794844918,
+   "id": "2122359530705358859#m"
+  },
+  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -329,15 +347,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2122351519932555701#m",
    "ts": 1794843008,
    "id": "2122351519932555701#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Tesla is going big in Germany again, and this time it's all about the Cybercab Tesla will invest €3 billion to expand Giga Berlin-Brandenburg, starting with a new production building designed for up to 1 million Cybercabs The key details: • Construction planned to start in H1 2027 • Cybercab production targeted for 2029 • Permit application to be filed before the end of 2026 • Investment also covers ancillary buildings and a new wastewater treatment plant • Several hundred new hires for construction and production planning Grünheide already builds around 7,000 Model Ys a week, with a 7,500 target Adding Cybercab next to Model Y turns Tesla's only European factory into a key piece of its robotaxi future Tesla calls it the foundation for \"the world's most technologically advanced Tesla factory\" Once Giga Berlin built cars for drivers Soon it builds cars that drive themselves",
-   "url": "https://nitter.kareem.one/XFreeze/status/2122349057712750988#m",
-   "ts": 1794842421,
-   "id": "2122349057712750988#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -1112,15 +1121,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2119945524514328631#m",
    "ts": 1794269374,
    "id": "2119945524514328631#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "“The Huang affair highlights China’s designs on U.S. chips and holes in U.S. export controls. Closing the holes may be a rare but useful area for bipartisan cooperation.” @WSJopinion wsj.com/opinion/nvidia-gets-… Link Opinion | Nvidia Gets a Chinese Honeypot Lesson Jensen Huang’s affair with an alleged spy has national-security stakes. wsj.com",
-   "url": "https://nitter.kareem.one/Lingling_Wei/status/2119928187270332723#m",
-   "ts": 1794265240,
-   "id": "2119928187270332723#m"
   },
   {
    "handle": "bcherny",
