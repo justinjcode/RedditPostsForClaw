@@ -1,9 +1,7 @@
 {
- "generated_at": "2026-11-17T01:47:43Z",
+ "generated_at": "2026-11-17T01:57:36Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +9,10 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 176,
  "items": [
   {
@@ -139,6 +140,15 @@
    "url": "https://nitter.kareem.one/zebulgar/status/2122425945990840499#m",
    "ts": 1794860752,
    "id": "2122425945990840499#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": ". @NASAAdmin on @SpaceX 's Starship catch: \"This really changes everything.\" Video",
+   "url": "https://nitter.kareem.one/RapidResponse47/status/2122420702686961667#m",
+   "ts": 1794859502,
+   "id": "2122420702686961667#m"
   },
   {
    "handle": "swyx",
@@ -319,15 +329,6 @@
    "url": "https://nitter.kareem.one/AlanMamedi/status/2122339794113953836#m",
    "ts": 1794840212,
    "id": "2122339794113953836#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "BREAKING: SpaceX is joining local law enforcement in Florida to help bring Christmas joy to children in need. Brevard County Sheriff Wayne Ivey announced that SpaceX will participate in the Reverse Christmas Parade on Monday, November 30. SpaceX helping the community. ♥️",
-   "url": "https://nitter.kareem.one/cb_doge/status/2122336858415989037#m",
-   "ts": 1794839512,
-   "id": "2122336858415989037#m"
   },
   {
    "handle": "Lingling_Wei",
