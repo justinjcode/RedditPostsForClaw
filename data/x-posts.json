@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-11-17T11:39:33Z",
+ "generated_at": "2026-11-17T11:46:30Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -9,12 +11,27 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 175,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: therundownai.beehiiv.com/p/c… Link California takes OpenAI to court California sues OpenAI over undisclosed AI agent escapes, including a hack of Hugging Face, and the security failures it allegedly hid from the public. therundownai.beehiiv.com",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2122653544188637678#m",
+   "ts": 1794915016,
+   "id": "2122653544188637678#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in AI today: - California takes OpenAI to court over agent escapes - Trump set to crown AI ‘national champions’ - Make your AI usage go further with these tips - OpenAI tracks how scientists really use ChatGPT",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2122653539205792156#m",
+   "ts": 1794915015,
+   "id": "2122653539205792156#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -898,15 +915,6 @@
    "id": "2120841637051891978#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in AI today: - Jensen Huang’s job in doubt after second affair report - Nate’s Notebook: Claude Projects now take their own notes - Claim and set up your business on ChatGPT - Google’s new AlphaGenome traces disease to cells",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2120841631842652406#m",
-   "ts": 1794483023,
-   "id": "2120841631842652406#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -977,15 +985,6 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2120665215151087861#m",
    "ts": 1794440962,
    "id": "2120665215151087861#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "REPORT: Jensen Huang could soon be out as Nvidia CEO, with the board getting ready to remove him, according to the Wall Street Journal. The report comes hours after The New York Times linked Huang to another affair with a Nvidia vice president who answers to him.",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2120652316801917274#m",
-   "ts": 1794437886,
-   "id": "2120652316801917274#m"
   },
   {
    "handle": "simonw",
