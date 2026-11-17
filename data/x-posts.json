@@ -1,9 +1,7 @@
 {
- "generated_at": "2026-11-17T18:55:55Z",
+ "generated_at": "2026-11-17T19:10:36Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +9,10 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 175,
  "items": [
   {
@@ -387,6 +388,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "Socialism vs Capitalism",
+   "url": "https://nitter.kareem.one/MAGAGEM1/status/2122498243699655165#m",
+   "ts": 1794877990,
+   "id": "2122498243699655165#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "As you can see from the chart, grifting podcasters, malicious YouTube algorithm, and illegal memes have caused young men to glam onto unacceptable reactionary ideologies. They’ve gone completely insane, while women have stayed the same. Ivana Greco (@IvanaDGreco) I have a new article out today in the New York Times on a topic that is really close to my heart. Both in my work and also socially, I speak often to young conservative women. I started hearing about the \"Repeal the 19th\" discussion on college campuses a few years ago. I also heard about the pressure some of these women were feeling to focus primarily on being wives and mothers post graduation from peers and social media. Although I myself stepped back from my legal career to focus on my kids and homeschooling, and cherish this special time with my kids .... I really do not want young women feeling pressured into becoming homemakers/stay-at-home moms. It's a hard \"job,\" as anyone who does it knows. The choice to do it should be a real choice. This \"radical anti-feminism\" is also making it hard for young people to date. In short, it's destructive, and we should take steps to offer a better vision for the relationship between the sexes on the Right. — https://nitter.kareem.one/IvanaDGreco/status/2122315418287116460#m",
    "url": "https://nitter.kareem.one/spqr_sulla/status/2122495096209678677#m",
    "ts": 1794877239,
@@ -544,15 +554,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2122351519932555701#m",
    "ts": 1794843008,
    "id": "2122351519932555701#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Analysts are awed by SpaceX's Starship catch. Here's why cnbc.com/2026/11/16/analysts… Link Analysts are awed by SpaceX's Starship catch. Here's why SpaceX caught its spacecraft from orbit Saturday, a major milestone in aerospace engineering and earning praise from several Wall Street investment banks. cnbc.com",
-   "url": "https://nitter.kareem.one/CNBC/status/2122351312213843987#m",
-   "ts": 1794842958,
-   "id": "2122351312213843987#m"
   },
   {
    "handle": "ZichenWanghere",
