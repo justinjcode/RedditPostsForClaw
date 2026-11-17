@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-17T06:12:27Z",
+ "generated_at": "2026-11-17T06:32:35Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 175,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "How can Grok @Bot be more helpful? Parker Smith (@parkersmith) 👋 Looking to get some feedback from folks automating most of their work with Bot, in exchange for some credits. If this is you, please reply to this thread with how you use Bot and DM me your email! — https://nitter.kareem.one/parkersmith/status/2122520453604372990#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2122572107116642664#m",
+   "ts": 1794895600,
+   "id": "2122572107116642664#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -177,15 +187,6 @@
    "id": "2122465891590054041#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Starship 42 back on Earth",
-   "url": "https://nitter.kareem.one/SpaceX/status/2122446937286971592#m",
-   "ts": 1794865757,
-   "id": "2122446937286971592#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -220,15 +221,6 @@
    "url": "https://nitter.kareem.one/cb_doge/status/2122423529769763225#m",
    "ts": 1794860176,
    "id": "2122423529769763225#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": ". @NASAAdmin on @SpaceX 's Starship catch: \"This really changes everything.\" Video",
-   "url": "https://nitter.kareem.one/RapidResponse47/status/2122420702686961667#m",
-   "ts": 1794859502,
-   "id": "2122420702686961667#m"
   },
   {
    "handle": "swyx",
@@ -544,6 +536,15 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2121845965997101118#m",
    "ts": 1794722474,
    "id": "2121845965997101118#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "FSD knowledge is slowly matriculating down to the dumbest members of society. Video No Safe Words (@Cyber_Trailer) In our next episode of ‘FSD chat time” Vanessa wants to make it clear, Tesla redefined luxury. 🎥 vanessalegrow on TT Video — https://nitter.kareem.one/Cyber_Trailer/status/2121364370257219697#m",
+   "url": "https://nitter.kareem.one/Cyber_Trailer/status/2121840684294611324#m",
+   "ts": 1794721215,
+   "id": "2121840684294611324#m"
   },
   {
    "handle": "swyx",
