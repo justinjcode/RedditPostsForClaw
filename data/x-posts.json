@@ -1,18 +1,17 @@
 {
- "generated_at": "2026-11-17T21:42:36Z",
+ "generated_at": "2026-11-17T21:58:17Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@simonw: all instances failed",
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 175,
  "items": [
   {
@@ -23,6 +22,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2122805949203148959#m",
    "ts": 1794951352,
    "id": "2122805949203148959#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Can’t wait to read this, David! David Ignatius (@IgnatiusPost) We're all curious these days about China's spy service, the Ministry of State Security. I just finished a new novel, \"Burning Red,\" that examines the escalating spy war between the MSS and the CIA. Here's a preview from my publisher, WW Norton. wwnorton.com/books/978132411… Link Burning Red New York Times best-selling author David Ignatius’s latest spy thriller imagines China’s obliteration of an American spy ring., Burning Red, A Novel, David Ignatius, 9781324110835 wwnorton.com — https://nitter.kareem.one/IgnatiusPost/status/2122473413285720418#m",
+   "url": "https://nitter.kareem.one/Lingling_Wei/status/2122800712094773701#m",
+   "ts": 1794950104,
+   "id": "2122800712094773701#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -995,15 +1003,6 @@
    "url": "https://nitter.kareem.one/CCG_org/status/2120755533925986408#m",
    "ts": 1794462495,
    "id": "2120755533925986408#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "A Mystery Businessman Introduced Jensen Huang to His Paramour—Her Husband: Kang Wei appeared to accept that his wife Alice Huang was in a romantic relationship and spoke openly of her closeness to the Nvidia chief @Lingling_Wei wsj.com/tech/ai/a-mystery-bu… wsj.com/tech/ai/a-mystery-bu… Link A Mystery Businessman Introduced Jensen Huang to His Paramour. It Was Her Husband. Kang Wei appeared to accept that his wife Alice Huang was in a romantic relationship and spoke openly of her closeness to the Nvidia chief. wsj.com",
-   "url": "https://nitter.kareem.one/JChengWSJ/status/2120736091489874302#m",
-   "ts": 1794457860,
-   "id": "2120736091489874302#m"
   },
   {
    "handle": "Lingling_Wei",
