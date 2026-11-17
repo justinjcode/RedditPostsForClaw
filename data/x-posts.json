@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-17T16:25:24Z",
+ "generated_at": "2026-11-17T16:32:46Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 175,
  "items": [
   {
@@ -178,15 +177,6 @@
    "id": "2122576221846253837#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "How can Grok @Bot be more helpful? Parker Smith (@parkersmith) 👋 Looking to get some feedback from folks automating most of their work with Bot, in exchange for some credits. If this is you, please reply to this thread with how you use Bot and DM me your email! — https://nitter.kareem.one/parkersmith/status/2122520453604372990#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122572107116642664#m",
-   "ts": 1794895600,
-   "id": "2122572107116642664#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -284,6 +274,15 @@
    "url": "https://nitter.kareem.one/simonw/status/2122500307557265651#m",
    "ts": 1794878482,
    "id": "2122500307557265651#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "As you can see from the chart, grifting podcasters, malicious YouTube algorithm, and illegal memes have caused young men to glam onto unacceptable reactionary ideologies. They’ve gone completely insane, while women have stayed the same. Ivana Greco (@IvanaDGreco) I have a new article out today in the New York Times on a topic that is really close to my heart. Both in my work and also socially, I speak often to young conservative women. I started hearing about the \"Repeal the 19th\" discussion on college campuses a few years ago. I also heard about the pressure some of these women were feeling to focus primarily on being wives and mothers post graduation from peers and social media. Although I myself stepped back from my legal career to focus on my kids and homeschooling, and cherish this special time with my kids .... I really do not want young women feeling pressured into becoming homemakers/stay-at-home moms. It's a hard \"job,\" as anyone who does it knows. The choice to do it should be a real choice. This \"radical anti-feminism\" is also making it hard for young people to date. In short, it's destructive, and we should take steps to offer a better vision for the relationship between the sexes on the Right. — https://nitter.kareem.one/IvanaDGreco/status/2122315418287116460#m",
+   "url": "https://nitter.kareem.one/spqr_sulla/status/2122495096209678677#m",
+   "ts": 1794877239,
+   "id": "2122495096209678677#m"
   },
   {
    "handle": "Lingling_Wei",
