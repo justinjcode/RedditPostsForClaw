@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T16:11:16Z",
+ "generated_at": "2026-11-17T16:25:24Z",
  "accounts_ok": [
   "TheRundownAI",
   "ZichenWanghere",
@@ -15,6 +15,15 @@
  ],
  "count": 175,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "NEW: Jensen Huang issues first statement since resigning from Nvidia. \"I did not live up to the standards expected of everyone at NVIDIA, and I have made serious mistakes in my personal life. I created problems for the Board that I deeply regret. I own my mistakes completely, and I am committed to cooperating with the Board’s independent investigation.\" On a potential return: \"If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I would be honored to answer these calls and return as CEO.\"",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2122724004611997715#m",
+   "ts": 1794931815,
+   "id": "2122724004611997715#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -313,15 +322,6 @@
    "id": "2122434193720582455#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok @bot will do whatever it takes to get a task done for you, even make a phone call. Mitchell Wright (@mitchellwright) my grok bot got me a refund of $1,511 today because the sauna i bought was on sale for cheaper than what i bought it for. it sent an email and after no response it called them today and secured the refund — https://nitter.kareem.one/mitchellwright/status/2122425656013427044#m",
-   "url": "https://nitter.kareem.one/JasonBud/status/2122433424010924139#m",
-   "ts": 1794862535,
-   "id": "2122433424010924139#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -482,6 +482,15 @@
    "url": "https://nitter.kareem.one/dunne_insights/status/2122322203148685667#m",
    "ts": 1794836018,
    "id": "2122322203148685667#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "A SpaceX competitor explains just how impossible it is to achieve what Elon has. Rocket Lab CEO Peter Beck once said reusable rockets didn't make sense for small rockets like his Electron. He promised he'd eat his hat if he ever changed his mind. In 2019, with SpaceX already landing rockets, he walked on stage and admitted he was wrong. Then he explained why he'd doubted it. The rocket comes back at \"eight and a half times the speed of sound,\" through plasma \"about half the temperature of the sun,\" with loads like \"three elephants\" standing on \"a 1.8 mm carbon fibre rocket.\" \"Getting through the wall is really, really hard.\" SpaceX first landed an orbital-class rocket booster upright on December 21, 2015. Video Elon Musk (@elonmusk) Let’s take this gentleman’s argument at face value that anyone can throw money at rockets and get something like Starship, Falcon or Dragon. Perhaps he can explain to everyone how SpaceX is able to catch giant starships from orbit with chopsticks and deliver 85% of all Earth payload to orbit with Falcon, while Blue Origin, which started before SpaceX and was funded by the immensely wealthy Jeff Bezos, is not yet able to launch reliably? Also, why is it that Boeing and Lockheed received several times what SpaceX did from the government for development of their rockets and spacecraft, but the Boeing capsule is still not operational and ULA delivers less than 5% of SpaceX payload to orbit? I am genuinely curious about these questions. — https://nitte",
+   "url": "https://nitter.kareem.one/GoodPartsOnly/status/2122305474054029695#m",
+   "ts": 1794832030,
+   "id": "2122305474054029695#m"
   },
   {
    "handle": "TheRundownAI",
@@ -905,15 +914,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2120902012321620475#m",
    "ts": 1794497418,
    "id": "2120902012321620475#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in robotics today: - Amazon revives its flying home camera - Germany’s Agile Robots lands $500M - Feds doubt Waymo’s school bus fix - Caltech robot starts building in space",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2120902006575374646#m",
-   "ts": 1794497417,
-   "id": "2120902006575374646#m"
   },
   {
    "handle": "Lingling_Wei",
