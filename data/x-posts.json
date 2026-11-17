@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-17T01:57:36Z",
+ "generated_at": "2026-11-17T02:14:11Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@simonw: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "women are destroying the men, wtf is happening rn",
+   "url": "https://nitter.kareem.one/swyx/status/2122512082835067151#m",
+   "ts": 1794881289,
+   "id": "2122512082835067151#m"
+  },
   {
    "handle": "simonw",
    "name": "Simon Willison",
@@ -55,6 +64,24 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "NASA chief Jared Isaacman after SpaceX’s Starship catch: “This really changes everything.” “They’re doing all of this for a reason, not for this one and done demonstration you’re seeing now, but to build a world where you have lots of Starships that are flying routinely, almost on an hourly basis.” “You can experiment, build out a grand orbital economy, build lots of commercial space stations.” Video",
+   "url": "https://nitter.kareem.one/cb_doge/status/2122490851129774345#m",
+   "ts": 1794876227,
+   "id": "2122490851129774345#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "only 2,670 **days** between these two photos Elon Musk (@elonmusk) We’ve come a long way — https://nitter.kareem.one/elonmusk/status/2122406902827245831#m",
+   "url": "https://nitter.kareem.one/ArthurMacwaters/status/2122486274040951096#m",
+   "ts": 1794875136,
+   "id": "2122486274040951096#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "View of Starship landing from the tower SpaceX (@SpaceX) Views from Mechazilla of the first ever Starship catch Video Video — https://nitter.kareem.one/SpaceX/status/2122427170328883425#m",
    "url": "https://nitter.kareem.one/elonmusk/status/2122472344052531640#m",
    "ts": 1794871815,
@@ -68,6 +95,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2122471820712660999#m",
    "ts": 1794871690,
    "id": "2122471820712660999#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starship 42 back on Earth",
+   "url": "https://nitter.kareem.one/SpaceX/status/2122446937286971592#m",
+   "ts": 1794865757,
+   "id": "2122446937286971592#m"
   },
   {
    "handle": "elonmusk",
@@ -136,15 +172,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "This year SpaceX has launched more mass to orbit Than the entire continent of Europe has in the entirety of human history Brutal mogging",
-   "url": "https://nitter.kareem.one/zebulgar/status/2122425945990840499#m",
-   "ts": 1794860752,
-   "id": "2122425945990840499#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": ". @NASAAdmin on @SpaceX 's Starship catch: \"This really changes everything.\" Video",
    "url": "https://nitter.kareem.one/RapidResponse47/status/2122420702686961667#m",
    "ts": 1794859502,
@@ -163,10 +190,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Try Grok @Bot matt palmer (@mattyp) What's new in Grok Bot 1.0 🚀 00:45 Team Bot improvements 01:47 Bots join your meetings 03:26 Bots take initiative 04:10 Bots learn and improve 05:19 Bots are smarter and faster Lots of easter eggs in this one for y'all! Video — https://nitter.kareem.one/mattyp/status/2122343944889483583#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122416056006324311#m",
-   "ts": 1794858394,
-   "id": "2122416056006324311#m"
+   "text": "Deep in the Amazon rainforest, MrBeast was still connected to the whole world, all thanks to Starlink In his video, he used Starlink to talk with his teams in Antarctica and the Peruvian desert, thousands of miles away Three of the most remote places on Earth, linked together from space No cell towers, no cables, just a dish and the sky, powered by Starlink Video",
+   "url": "https://nitter.kareem.one/XFreeze/status/2122418561985749454#m",
+   "ts": 1794858992,
+   "id": "2122418561985749454#m"
   },
   {
    "handle": "TheRundownAI",
@@ -176,33 +203,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2122415191027863785#m",
    "ts": 1794858188,
    "id": "2122415191027863785#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Catching a Starship from space SpaceX (@SpaceX) Don't Panic Riding on Starship 42 during final approach to catch Video Video — https://nitter.kareem.one/SpaceX/status/2122368004298068305#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122408454325416322#m",
-   "ts": 1794856582,
-   "id": "2122408454325416322#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Cool Yun-Ta Tsai (@yunta_tsai) Starship is no longer the smallest ship compared to the Culture. Respectable achievement. 🙂 — https://nitter.kareem.one/yunta_tsai/status/2122394007754125484#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122407149401964722#m",
-   "ts": 1794856271,
-   "id": "2122407149401964722#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "We’ve come a long way Sebastian Völkl (@basti_vkl) 100 years — https://nitter.kareem.one/basti_vkl/status/2122035748648202492#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122406902827245831#m",
-   "ts": 1794856212,
-   "id": "2122406902827245831#m"
   },
   {
    "handle": "TheRundownAI",
@@ -221,6 +221,24 @@
    "url": "https://nitter.kareem.one/DJSnM/status/2122394910359990321#m",
    "ts": 1794853353,
    "id": "2122394910359990321#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Every driver needs their crew. Video",
+   "url": "https://nitter.kareem.one/bot/status/2122386524297974128#m",
+   "ts": 1794851354,
+   "id": "2122386524297974128#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "SpaceXSI’s Colossus I is helping fund $3.26 million in home repairs, paid local jobs and neighborhood improvements in South Memphis. Memphis city government has approved the following investments using property tax revenue from the facility: • $2 MILLION for home repairs through Memphis HOPE. Eligible properties can receive up to $25,000 for roof repairs, plumbing, heating, air conditioning and accessibility improvements. • $309,282 for community grants supporting youth programs, public safety, workforce development and other services. • $250,000 for paid jobs cleaning up and improving local neighborhoods. • $250,000 to board up or demolish vacant properties. • $150,000 to address neighborhood blight and deterioration. • $125,000 for residents’ cooling and air-quality equipment, including air conditioners, fans, filters and air purifiers. • $100,000 for environmental education. • $50,000 for grants to organizations focused on health care. • $25,000 for Memphis City Beautiful to support neighborhood cleanup and beautification. All funding will benefit the designated five-mile area surrounding Colossus I. Earlier community support from SpaceXSI and related initiatives includes: • SCHOOL IMPROVEMENTS: Funded a completed gym renovation at Fairley High School and beautification work at John P. Freeman Optional School. Further school renovations are part of a broader $5 million investment program. • YOUTH SUPPORT: A $350,000 donation through the Musk Foundation to the Boys & Girls ",
+   "url": "https://nitter.kareem.one/cb_doge/status/2122384078683111829#m",
+   "ts": 1794850771,
+   "id": "2122384078683111829#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -262,10 +280,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "shoutout @elonmusk were livestreaming a MARATHON IN ANTARTICA Video",
-   "url": "https://nitter.kareem.one/nelkboys/status/2122373508064034895#m",
-   "ts": 1794848250,
-   "id": "2122373508064034895#m"
+   "text": "A lot of people have real trouble thinking about the aggregate behavior of groups. They can only think about individuals. So they think about Elon Musk as an individual. Maybe they think that he must be retarded, because they need that for emotional reasons. Or maybe they think he is a talented rocket designer. But even if they realize he understands rockets, they can only think about him as an individual doing tasks. Not about his impact on what the whole company does. If Elon Musk is just a talented rocket designer, then he can spend all day, every day, improving rocket designs. But he is just one of 7000 engineers. So even if did a perfect job, he would only improve progress by about .014% So, when a midwit looks at SpaceX, he sees 7000 engineers, and says to himself \"Elon Musk cannot possibly be designing the whole damn rocket himself. These people are giving him too much credit.\" This would be absolutely true if Musk were just a some random SpaceX engineer. But he isn't. He's the absolute dictator of the whole damn company. He decides, with absolute and unquestionable authority, which behaviors are punished and which are rewarded. Why is this important? When I worked at Boeing, on various classified projects, I naively came in with the assumption that I was a software engineer, employed to design and build functional software as quickly and cheaply as possible. Because of this, I focused on functionality and efficiency, for example suggesting changes that would obviate t",
+   "url": "https://nitter.kareem.one/Devon_Eriksen_/status/2122373284813742579#m",
+   "ts": 1794848197,
+   "id": "2122373284813742579#m"
   },
   {
    "handle": "TheRundownAI",
@@ -289,10 +307,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Starship 42 coming in for catch Video Video Video Video",
-   "url": "https://nitter.kareem.one/SpaceX/status/2122355344576037338#m",
-   "ts": 1794843920,
-   "id": "2122355344576037338#m"
+   "text": "Dylan Patel says all of Elon Musk’s data centers 'use less water than three In-N-Outs' Dylan Patel: “If done improperly, a data center can be loud if your house is right next to it. If done improperly, data centers can use a lot of water, but if done properly, they use very little water. You know, all of Elon Musk’s data centers use less water than three In-N-Outs.” Molly O’Shea: “Really?” Dylan Patel: “Yeah. I mean, you have to count the supply chain of cows, but, yes.” Video Fireside Alpha (@firesidealpha) Dylan Patel, before Jensen Huang’s exit, said if he’s pushed out 'Nvidia is fucked' because there’s no clear number two “Let’s start with the worst case scenario, which is this all blows up and Jensen is no longer the CEO. Nvidia is fucked in my opinion if that ever happens, because there is no clear number two.” “There are many people who directly report to Jensen, and I won’t say names, but there’s a handful of them that are super integral, but they work on different things. There’s different people on the hardware side, there’s different people on the product side, there’s obviously some of the other execs in the company, but there’s no one… You know, Jensen has like 50 reports or whatever, so it’s kinda hard.” Video — https://nitter.kareem.one/firesidealpha/status/2122346187152077278#m",
+   "url": "https://nitter.kareem.one/firesidealpha/status/2122362057018216869#m",
+   "ts": 1794845520,
+   "id": "2122362057018216869#m"
   },
   {
    "handle": "TheRundownAI",
@@ -320,15 +338,6 @@
    "url": "https://nitter.kareem.one/XFreeze/status/2122349057712750988#m",
    "ts": 1794842421,
    "id": "2122349057712750988#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "We've all read about Elon's working style being different. Hands-on, to say the least. Here's my anecdotal Elon moment: in 2014, we were raising capital and got introduced to John Doerr through our friend Jerry Murdock, and John wanted to meet me and Nami in Sicily, where they had a private event. During the evening, we jumped on a small bus together with Elon to join a dinner. At that time, Tesla had just opened their first showroom in Sweden, Täby. I told Elon that I booked a test ride with their new Model S but was wondering why they had a two-month waiting time to try the car. He was shocked/frustrated about the waiting time. He picked up his phone, made a call and sent some messages. The next week, Tesla Sweden called me and said, \"Hi, you signed up for the test drive. We just got many more demo cars delivered and you can come and try it today already.\" That's how you get shit done! Can't even imagine how he operates today, but I'm sure it's still in the details and solving problems. That was inspiring, to say the least.",
-   "url": "https://nitter.kareem.one/AlanMamedi/status/2122339794113953836#m",
-   "ts": 1794840212,
-   "id": "2122339794113953836#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -554,15 +563,6 @@
    "url": "https://nitter.kareem.one/emollick/status/2121685924824461739#m",
    "ts": 1794684318,
    "id": "2121685924824461739#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "my AIE talk is up! come hear how the grok @bot team ships so quickly without compromise on quality inv.kareem.one/O_zcc6Xl12g Link All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI 11,000 pull requests in one month, with a revert rate around 0.5%. ... youtube.com",
-   "url": "https://nitter.kareem.one/poteto/status/2121673563489140863#m",
-   "ts": 1794681370,
-   "id": "2121673563489140863#m"
   },
   {
    "handle": "swyx",
