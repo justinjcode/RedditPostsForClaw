@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T22:20:40Z",
+ "generated_at": "2026-11-17T22:26:36Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 175,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "technical details: > inter-session context is surfaced by default. Teams now create dedicated bots for different projects; while these different devins can talk to each other when necessary, they each have their own individual memory bank and goals. Each bot now has its own, long lived identity. The transition from \"Devin is a swarm of ephemeral agents\" to \"Devin is a collection of bots, each with their own persistent identity and memory\" is changing how people use and prompt Devin. nitter.kareem.one/stevenkplus1/status/21… steven hao (@stevenkplus1) Bots are super cool and if you haven't used them yet, you absolutely must try them. Create a bot to manage a goal or a project that you'll work on across multiple sessions and days. Some technical tidbits about the architecture and design: Devin used to have a major UX problem: a session today doesn't remember exactly what happened in a session from a few days ago. It only has vague awareness of those previous sessions, and recalls only the nuggets of information that were explicitly persisted. This is because each new Devin was essentially an ephemeral clone of a base template. One symptom of this problem is that our users would reuse the same session instead of starting new ones, since they didn't want to lose context, and end up with tens or hundreds of PRs from a single session. Bots almost completely solves this problem of context being lost between sessions, because now inter-session context is surfaced by default. Teams no",
+   "url": "https://nitter.kareem.one/swyx/status/2122818291144229075#m",
+   "ts": 1794954295,
+   "id": "2122818291144229075#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -751,15 +760,6 @@
    "url": "https://nitter.kareem.one/maxiaohui66/status/2121927866254331933#m",
    "ts": 1794742001,
    "id": "2121927866254331933#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "also the day 1 livestream has crossed 100k in the fastest time ever. covering coding agent practices and landscape continues to be the strongest format we do and by far my strongest product-market-fit focus thing I have ever done. AI.Engineer (@aiDotEngineer) taking day 1 view count predictions for the @poteto talk launching in 30 mins inv.kareem.one/O_zcc6Xl12g hit the bell etc — https://nitter.kareem.one/aiDotEngineer/status/2121664913450189049#m",
-   "url": "https://nitter.kareem.one/swyx/status/2121896675048587765#m",
-   "ts": 1794734564,
-   "id": "2121896675048587765#m"
   },
   {
    "handle": "thsottiaux",
