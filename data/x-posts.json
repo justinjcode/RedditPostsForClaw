@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T17:11:16Z",
+ "generated_at": "2026-11-17T17:19:48Z",
  "accounts_ok": [
   "TheRundownAI",
   "ZichenWanghere",
@@ -61,6 +61,24 @@
    "id": "2122723345225617654#m"
   },
   {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "i kept getting questions on how we released clef so quickly after jev, but i strongly believe that we’re mostly reaping the benefits of asymmetric effort: new ideas are difficult to invent and easy to copy. @typesafeai has done an incredible job in pioneering this concept of system one models. i also strongly believe that it is not a zero-sum game! it’s almost a duty for all of us to solve difficult hardware constraints through software, and system one models allow us to offload some of the work we’d regularly send to LLMs towards smaller, faster, and less compute-intensive models. we’re also still challenging ourselves to invent in this space as well, with the launch of clairic and more. i’m excited for the future of cloudflare as a neolab and hope you are too. thank you to @ricmac for sitting down with me on this story! Richard MacManus (@ricmac) I've been following @Cloudflare since it began 17 yrs ago. Its latest move into creating System One models is fascinating, and when I sat down with @michellechen at @aiDotEngineer Code, I discovered there are more models to come — incl reasoning models! latent.space/p/cloudflare/ Link Cloudflare Joins the Jevolution and Labels Itself a Neolab — Latent Space Cloudflare made its name speeding up the web. Now it's building System One models to make decisions and pull data in milliseconds. latent.space — https://nitter.kareem.one/ricmac/status/2122715468695785649#m",
+   "url": "https://nitter.kareem.one/michellechen/status/2122719372309672295#m",
+   "ts": 1794930711,
+   "id": "2122719372309672295#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "I've been following @Cloudflare since it began 17 yrs ago. Its latest move into creating System One models is fascinating, and when I sat down with @michellechen at @aiDotEngineer Code, I discovered there are more models to come — incl reasoning models! latent.space/p/cloudflare/ Link Cloudflare Joins the Jevolution and Labels Itself a Neolab — Latent Space Cloudflare made its name speeding up the web. Now it's building System One models to make decisions and pull data in milliseconds. latent.space",
+   "url": "https://nitter.kareem.one/ricmac/status/2122715468695785649#m",
+   "ts": 1794929780,
+   "id": "2122715468695785649#m"
+  },
+  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -77,6 +95,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2122714166574129556#m",
    "ts": 1794929470,
    "id": "2122714166574129556#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Prefer reading to watching? 50 talks from AI Engineer Code Summit, now in writing: illustrated essays, full transcripts and links to watch. Pick a topic. Find the idea you want to try. ai.engineer/code/2026#talks Link AI Engineer Code Summit 2026: AI Engineering Conference, Nov 10-12, San Francisco The application-only AI Engineer Code Summit brings together leading coding-agent builders and AI engineers in San Francisco, November 10-12, 2026. ai.engineer",
+   "url": "https://nitter.kareem.one/aiDotEngineer/status/2122706337641763147#m",
+   "ts": 1794927603,
+   "id": "2122706337641763147#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -655,15 +682,6 @@
    "id": "2121845965997101118#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "holy shit u guys like a lot of poteto lauren (@poteto) my AIE talk is up! come hear how the grok @bot team ships so quickly without compromise on quality inv.kareem.one/O_zcc6Xl12g Link All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI 11,000 pull requests in one month, with a revert rate around 0.5%. ... youtube.com — https://nitter.kareem.one/poteto/status/2121673563489140863#m",
-   "url": "https://nitter.kareem.one/swyx/status/2121815348370612414#m",
-   "ts": 1794715175,
-   "id": "2121815348370612414#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -680,15 +698,6 @@
    "url": "https://nitter.kareem.one/CuiMao/status/2121758160893735085#m",
    "ts": 1794701540,
    "id": "2121758160893735085#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "obviously correct, we are so suboptimal in AI UX rn it is crazy esp given existence of models too cheap to meter Bruce Liu (@liu_xingyu) AI interfaces nowadays are still pretty much turn-based. In my PhD thesis, I thought about what interaction would look like if we could go beyond taking turns. One example is intra-turn interaction: Video — https://nitter.kareem.one/liu_xingyu/status/2121015724374397183#m",
-   "url": "https://nitter.kareem.one/swyx/status/2121757606801023085#m",
-   "ts": 1794701408,
-   "id": "2121757606801023085#m"
   },
   {
    "handle": "simonw",
@@ -716,15 +725,6 @@
    "url": "https://nitter.kareem.one/emollick/status/2121685924824461739#m",
    "ts": 1794684318,
    "id": "2121685924824461739#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "I just finished talks about my software factories at two conferences. Afterwards a bunch of people came up and told me what they were surprised about. Here is a distillation of what people thought were hot takes from my two talks. First hot take: I tell everyone to slow down. Most speakers go on about how fast they're going, but I strongly believe in pacing AI outputs to human speeds. I regularly tell AI-pilled CIOs and CTOs to chill: almost nobody is _actually_ going fast with AI. Engineering still moves at engineering speeds, and business moves even slower. The ones pushing too hard are starting to see downtime for it. If you don't pace your AI to human speeds, everything starts breaking around you, even at small operations like my online video game. I only have about a dozen humans working with my factory, and only a few hundred active old-timer players in the community who get along well, and still, introducing AI has still been very rocky. My agents have, at times, overwhelmed my players with features, my accountant with emails, my merge queue with tickets, and my machines with load. Agents have pissed off my admins, resulting in name-calling, they've made messes in the game, and they've launched broken OSS without permission. The list goes on. I can get away with all this chaos because everyone involved in my operation is very forgiving. They're excited by the potential. But even so, I had to learn to slow down, real fast. And so that's what I preach. Hot take #2: Shoul",
-   "url": "https://nitter.kareem.one/Steve_Yegge/status/2121671447810888185#m",
-   "ts": 1794680866,
-   "id": "2121671447810888185#m"
   },
   {
    "handle": "ZichenWanghere",
