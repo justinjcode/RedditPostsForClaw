@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-11-17T18:24:01Z",
+ "generated_at": "2026-11-17T18:34:16Z",
  "accounts_ok": [
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,19 +11,27 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 175,
  "items": [
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "SpaceXSI has released a blog: Building an accounting team with Grok Bot",
+   "url": "https://nitter.kareem.one/techdevnotes/status/2122756172591812708#m",
+   "ts": 1794939485,
+   "id": "2122756172591812708#m"
+  },
+  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
-   "text": "These models are extremely efficient, which you feel both in speed and cost",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2122754265043386520#m",
-   "ts": 1794939030,
-   "id": "2122754265043386520#m"
+   "text": "These models are extremely efficient, which you feel in speed to complete tasks, cost and how much further your usage goes",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2122754551187132438#m",
+   "ts": 1794939098,
+   "id": "2122754551187132438#m"
   },
   {
    "handle": "thsottiaux",
@@ -208,6 +217,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "Not \"pretty darn close\". Starlink: ~100 Mbps down ~20 Mbps up, Latency ~30 ms ViaSat: ~`10 Mbps down ~2 Mbps up Latency > 600 ms as the floor (can't get better). Order of magnitude difference. Sawyer Merritt (@SawyerMerritt) Delta Airlines CEO: \"We've been out with a great product from Viasat, which we've got two new satellites in the sky. It's not Starlink caliber but it's pretty darn close.\" It's not even remotely close to Starlink 😂😂 — https://nitter.kareem.one/SawyerMerritt/status/2122694187015393367#m",
+   "url": "https://nitter.kareem.one/pbeisel/status/2122697537693872373#m",
+   "ts": 1794925505,
+   "id": "2122697537693872373#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "Gave the same task to Grok bot and OpenAI's Dot yesterday. Grok finished it in under 2 hours. Dot still has no clue what it's doing, it's completely frozen. If all that compute had gone into the subscription instead of Dot, the subscription would be worth a lot more.",
    "url": "https://nitter.kareem.one/Da7_Tech/status/2122694607335235839#m",
    "ts": 1794924806,
@@ -271,28 +289,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Cyber-Inception anabology (@anabology) This video was made entirely using @Cyborg21 's neuralink implant — https://nitter.kareem.one/anabology/status/2122381867512918510#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122600952096280785#m",
-   "ts": 1794902477,
-   "id": "2122600952096280785#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "south africa is one of the few countries in the world that still explicitly discriminates based on race through its laws. since apartheid ended, it has passed 122 race-based laws explicitly discriminating against White South Africans. Elon Musk (@elonmusk) South Africa is now super racist against Whites and Asians — https://nitter.kareem.one/elonmusk/status/2122512328696758640#m",
    "url": "https://nitter.kareem.one/IterIntellectus/status/2122597466034028975#m",
    "ts": 1794901646,
    "id": "2122597466034028975#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "As a teenager, Elon Musk went through an existential crisis, reading religion and philosophy in search of the meaning of life Then he discovered Douglas Adams' The Hitchhiker's Guide to the Galaxy “I ended up reading The Hitchhiker's Guide to the Galaxy, which is actually a book on philosophy, just sort of disguised as a silly humor book. But it's actually a philosophy book. And Adams makes the point that it's actually the question that is harder than the answer” A seemingly silly humor book helped a teenager searching for meaning realize something profound Finding the right question is often harder than finding the answer And that curiosity never left him Today, it's driving him to build rockets, explore the universe, and push humanity toward the stars",
-   "url": "https://nitter.kareem.one/XFreeze/status/2122596768051548482#m",
-   "ts": 1794901480,
-   "id": "2122596768051548482#m"
   },
   {
    "handle": "Lingling_Wei",
