@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-17T13:11:32Z",
+ "generated_at": "2026-11-17T13:20:12Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "bcherny",
   "elonmusk",
@@ -10,11 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
  "count": 175,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "BREAKING: Texas A&M’s $205.5 million semiconductor project will help train America’s next generation of chipmakers for Terafab. 🇺🇸 University leaders say Terafab’s planned chip plant in Grimes County makes A&M’s Semiconductor Institute even more relevant, with Terafab counting on the institute to help attract talent. • $205.5 million project: The institute’s new building in Bryan and supporting water infrastructure will serve chip research, development and workforce training. • Practical training for Terafab jobs: Director Steve Putna says students will train in an environment designed to help them move smoothly into Terafab’s workforce. • Access to engineering talent: Texas A&M graduates more than 5,000 engineers annually, giving nearby chipmakers a major source of potential recruits. • Industry-style facilities: The institute will feature a cleanroom and six laboratories, giving students practical experience with semiconductor technology. • Construction is progressing: The building is about 20% complete. Substantial completion is expected by the end of 2027, with significant operations planned for mid-2028. • Infrastructure for long-term growth: Regents just approved $14.2 million for a new well and storage system supporting the RELLIS campus, including the institute. Video",
+   "url": "https://nitter.kareem.one/cb_doge/status/2122660866311197015#m",
+   "ts": 1794916762,
+   "id": "2122660866311197015#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -151,15 +160,6 @@
    "id": "2122563749668167851#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok @Bot DJ (@congressdj) Grok Bot just got off a 90 minute phone call with AT&T handling a complex issue for me. Unfortunately, that’s the time limit for Grok Bot calls. However. AT&T called me back and the agent was STUNNED that she had been talking to a bot for 90minutes. She’d had other bots call before, but “nothing like this”. She downloaded Grok Bot while talking to me. This sh— is gonna change the world. — https://nitter.kareem.one/congressdj/status/2122454524468056263#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122560774073901341#m",
-   "ts": 1794892898,
-   "id": "2122560774073901341#m"
-  },
-  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -181,6 +181,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "最近硅谷两大佬因为马斯克吵翻了，结果老马亲自下场，一句话把全网看乐了。 先是著名反垄断评论家 Matt 泼冷水：SpaceX 算什么奇迹？马斯克根本不是天才，无非是会找华尔街搞钱，用钞票和工程师硬堆出来的。 这话连平时谁都不服的硅谷传奇程序员 DHH 都看不下去了，直接回怼：太酸了！哪怕你不喜欢马斯克，也得承认他“把吹过的牛变成现实”的能力举世无双。从特斯拉、脑机接口到 SpaceX，世上有一百万个会搞钱的投资人，但只有一个马斯克。 随后马斯克本尊下场，只回了一句灵魂反问：“行，那你给我解释一下蓝色起源、波音和 ULA？” 这一刀，直接捅在了“唯金钱论”的肺管子上。 如果光靠砸钱就能上天，那现在的太空霸主绝不可能是 SpaceX： 1、 比谁更有钱？ 贝索斯的蓝色起源比 SpaceX 早成立两年，背后站着前世界首富，从来不缺钱，结果到现在还在努力追赶。 2、 比谁补贴多？ NASA 当年搞载人航天，同一个任务，给波音砸了 42 亿美元，给 SpaceX 只给了 26 亿。结果 SpaceX 从 2020 年就开始像公交车一样送宇航员上天，波音的飞船却连宇航员都接不回来，最后还得靠 SpaceX 去救场。 3、 比华尔街输血？ SpaceX 起步根本没有华尔街一分钱，全是马斯克卖掉 PayPal 后自己掏的 1 亿美元家底。猎鹰 1 号连炸三次后差点破产，第四次才绝处逢生。 DHH 说得太对了：钱能买来顶级工程师，但买不来“不怕炸火箭”的魄力。 看看星舰第 15 次试飞（Flight 15）就懂了：同一个任务里，助推器在海里丢了，但飞船却从轨道返航、被发射塔的“机械筷子”稳稳夹住。 放在传统航天巨头那里，“丢了助推器”这半句话，就够他们停飞开两年的事故批斗会了；但在 SpaceX，这只是通往成功的又一组实验数据。 @elonmusk 说实话，到底哪个更难造：是一枚能上天的火箭，还是一家“允许工程师靠炸火箭来试错”的公司？ Elon Musk (@elonmusk) Let’s take this gentleman’s argument at face value that anyone can throw money at rockets and get something like Starship, Falcon or Dragon. Perhaps he can explain to everyone how SpaceX is able to catch giant starships from orbit with chopsticks and deliver 85% of all Earth payload to orbit with Falcon, while Blue Origin, which started before SpaceX and was funded by the immensely wealthy Jeff Bezos, is not yet able to launch reliably? Also, why is it that Boeing and Lockheed received several times what SpaceX did from the government for development of their rockets and spacecraft, but the Boeing capsule is still not operational and ULA delivers",
+   "url": "https://nitter.kareem.one/ZhouTalks/status/2122513599998677298#m",
+   "ts": 1794881651,
+   "id": "2122513599998677298#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "Grok Bot read my wife's medical records, researched the latest cancer treatments and trials, found the top specialist at Stanford and drafted the emails. Hours later, Stanford called us to start intake. @elonmusk , Grok is giving families like mine a path forward. 🙏",
    "url": "https://nitter.kareem.one/teslaownersSV/status/2122512355062161744#m",
    "ts": 1794881354,
@@ -194,15 +203,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2122512082835067151#m",
    "ts": 1794881289,
    "id": "2122512082835067151#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "BREAKING: The Government of Burundi is rolling out 435 Starlink kits to connect rural schools and health centers. 🇧🇮 The deployment is part of the Government of Burundi’s World Bank-funded Soleil-Nyakiriza project, serving rural communities. Video",
-   "url": "https://nitter.kareem.one/cb_doge/status/2122508406879895871#m",
-   "ts": 1794880413,
-   "id": "2122508406879895871#m"
   },
   {
    "handle": "simonw",
@@ -313,6 +313,15 @@
    "id": "2122397155482870213#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Thomas Jefferson and John Adams met the Tripoli Ambassador in London and asked why Muslims were attacking nations who had done them no harm. In a letter to John Jay dated March 28, 1786, they wrote: “The Ambassador [of Tripoli] answered us that it was founded on the Laws of their Prophet, that it was written in their Koran, that all nations who should not have acknowledged their authority were sinners, that it was their right and duty to make war upon them wherever they could be found, and to make slaves of all they could take as Prisoners, and that every Musselman who should be slain in battle was sure to go to Paradise.\" Jefferson would go on the wage war against the Barbary pirates (terrorists) during his presidency. Daily Wire (@realDailyWire) Abdul El-Sayed says he will take the oath of office on a Quran: “I will likely swear on the Quran, which Quran, we’re not sure. I mean Thomas Jefferson had a copy of the Quran… I’ll swear on a Quran.” Video — https://nitter.kareem.one/realDailyWire/status/2120952356825137367#m",
+   "url": "https://nitter.kareem.one/RonDeSantis/status/2122385976085344524#m",
+   "ts": 1794851223,
+   "id": "2122385976085344524#m"
+  },
+  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -358,15 +367,6 @@
    "id": "2122371443791175752#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Giga Berlin is expanding - Cybercab production is coming to Europe André Thierig (@AndrThie) If you ever wondered, what we would be doing at Giga Berlin with all the land that we have… We are expanding! Cybercab production is coming to Giga Berlin! Today we announced a first investment of around € 3b in a new manufacturing building with an anticpated start of production in 2029! It will have the most advanced technology of any Tesla factory! And we are hiring 👉 tesla.com/careers/search/?si… — https://nitter.kareem.one/AndrThie/status/2122363982627389528#m",
-   "url": "https://nitter.kareem.one/gigafactories/status/2122366870187851813#m",
-   "ts": 1794846668,
-   "id": "2122366870187851813#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -379,10 +379,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "If you ever wondered, what we would be doing at Giga Berlin with all the land that we have… We are expanding! Cybercab production is coming to Giga Berlin! Today we announced a first investment of around € 3b in a new manufacturing building with an anticpated start of production in 2029! It will have the most advanced technology of any Tesla factory! And we are hiring 👉 tesla.com/careers/search/?si…",
-   "url": "https://nitter.kareem.one/AndrThie/status/2122363982627389528#m",
-   "ts": 1794845979,
-   "id": "2122363982627389528#m"
+   "text": "The first two features Matt Palmer walks through in his What's new in Grok Bot 1.0 video this morning, Team Bot improvements and bots that join your meetings, are the same two things I asked for right here on X. On August 30 I wrote that we need to be able to share Grok Bots across teams, and Elon replied \"Coming soon.\" On October 25 I suggested the Grok Bot team let my bot join a Zoom or Teams call with me, or for me, and Elon replied \"This might be possible.\" Meetings started switching on for users less than two weeks later, and now both features lead the 1.0 release. That says a lot about how responsive this team is. A user describes a need, Elon weighs in himself, and within weeks it is in the product and getting better. Any bot can now become a Team Bot at the flip of a switch, you choose exactly who it is shared with, and a new analytics tab shows the hours it has saved. In a meeting, the bot listens, answers in the chat and picks up spoken instructions, pulling what you need from your connected tools while the meeting is still going. The tempo of Grok Bot's evolution is extraordinary. And these are only two of the many new features in 1.0, so watch Matt's video to see just how fast Grok Bot is improving. I'm grateful to Matt, the team and Elon for listening. My original asks: nitter.kareem.one/TeslaLarry/status/2094… and nitter.kareem.one/TeslaLarry/status/2114… matt palmer (@mattyp) What's new in Grok Bot 1.0 🚀 00:45 Team Bot improvements 01:47 Bots join your meetings",
+   "url": "https://nitter.kareem.one/TeslaLarry/status/2122365160308547836#m",
+   "ts": 1794846260,
+   "id": "2122365160308547836#m"
   },
   {
    "handle": "TheRundownAI",
