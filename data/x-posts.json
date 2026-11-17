@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-17T19:45:30Z",
+ "generated_at": "2026-11-17T19:59:52Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +10,9 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 175,
  "items": [
   {
@@ -328,6 +329,15 @@
    "url": "https://nitter.kareem.one/WSJ/status/2122534674945740950#m",
    "ts": 1794886675,
    "id": "2122534674945740950#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "gift link wsj.com/world/china/alice-hu… Link Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State Kang Wei developed the business while his wife was involved with Nvidia’s CEO. wsj.com Lingling Wei 魏玲灵 (@Lingling_Wei) While Alice Huang was cultivating a personal relationship with Jensen Huang, her husband was involved in building billions of dollars' worth of data-center capacity in China. The two tracks run side by side for years. wsj.com/world/china/alice-hu… via @WSJ Link Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State Kang Wei developed the business while his wife was involved with Nvidia’s CEO. wsj.com — https://nitter.kareem.one/Lingling_Wei/status/2122517110874140702#m",
+   "url": "https://nitter.kareem.one/lrozen/status/2122517507672256682#m",
+   "ts": 1794882582,
+   "id": "2122517507672256682#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -1003,15 +1013,6 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2120719962893349108#m",
    "ts": 1794454014,
    "id": "2120719962893349108#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "Jensen Huang Affair Strains Taiwan’s Devotion to Its Hometown Hero—Taiwan-born celebrity faces a reckoning on an island whose fortunes rose with Nvidia’s success @austinramzy wsj.com/world/asia/the-jense… wsj.com/world/asia/the-jense… Link Jensen Huang Affair Strains Taiwan’s Devotion to Its Hometown Hero The Nvidia CEO’s affair has shaken Taiwan, his birthplace and a cornerstone of the AI chip industry he helped create. wsj.com",
-   "url": "https://nitter.kareem.one/JChengWSJ/status/2120690793178697954#m",
-   "ts": 1794447060,
-   "id": "2120690793178697954#m"
   },
   {
    "handle": "simonw",
