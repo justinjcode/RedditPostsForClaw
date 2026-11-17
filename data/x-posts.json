@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-17T16:54:58Z",
+ "generated_at": "2026-11-17T17:11:16Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 175,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Advanced solid state transformers at scale from Tesla Tesla Megapack (@Tesla_Megapack) Introducing Powercore Solid state medium voltage transformer, inverter and breaker – reliable, safe and secure 7.4 MW/9 MVA continuously at 34.5 kVac w/ grid-forming support for 10MVA of peak power Made in America. Operating 2027 Video — https://nitter.kareem.one/Tesla_Megapack/status/2122721563493744771#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2122733232894468308#m",
+   "ts": 1794934015,
+   "id": "2122733232894468308#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -166,15 +176,6 @@
    "url": "https://nitter.kareem.one/XFreeze/status/2122596768051548482#m",
    "ts": 1794901480,
    "id": "2122596768051548482#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I found a pic of “the long game”",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122589089702813944#m",
-   "ts": 1794899649,
-   "id": "2122589089702813944#m"
   },
   {
    "handle": "Lingling_Wei",
