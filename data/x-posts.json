@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T22:36:36Z",
+ "generated_at": "2026-11-17T22:44:55Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,42 @@
  "errors": [],
  "count": 175,
  "items": [
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "And Claude 5.2 Fable Simon Willison (@simonw) For comparison, here's what I got for the same prompt against Claude Fable 5.2 yesterday simonwillison.net/2026/Nov/1… Video — https://nitter.kareem.one/simonw/status/2120259268364718331#m",
+   "url": "https://nitter.kareem.one/simonw/status/2122822484529684838#m",
+   "ts": 1794955295,
+   "id": "2122822484529684838#m"
+  },
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "For comparison, here's Gemini 4 Carbon Simon Willison (@simonw) Gemini 4 Carbon is good at pelican SVGs, but that's nothing new for Gemini \"Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and stomps around manhattan and queens and Brooklyn, use openstreetmap mapping data\" simonwillison.net/2026/Nov/1… Video — https://nitter.kareem.one/simonw/status/2120258951594037732#m",
+   "url": "https://nitter.kareem.one/simonw/status/2122822433023590517#m",
+   "ts": 1794955282,
+   "id": "2122822433023590517#m"
+  },
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "Here's GPT-6.2 Astra and GPT-6.2 Sol for \"Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and stomps around manhattan and queens and Brooklyn, use openstreetmap mapping data\" simonwillison.net/2026/Nov/1… Video",
+   "url": "https://nitter.kareem.one/simonw/status/2122822310428279136#m",
+   "ts": 1794955253,
+   "id": "2122822310428279136#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "A ton of AI announcements from OpenAI, Nvidia, Microsoft, and Google in the past 48 hours. Here's everything going on in AI right now: 1. California sued OpenAI over the July incident where its AI agents hacked Hugging Face. Between the growing number of escapes, rogue agent \"swarms,\" and AI-assisted hacks, the public likely only knows a fraction of what’s actually happening. 2. Jensen Huang made his first public statement since resigning as Nvidia CEO, apologizing for his \"serious mistakes\" and saying he'd be honored to return. A source told CNBC the board is focused on whether his conduct put national security at risk. Trump said he \"would not mind\" (but still backs Tim Cook for the job). 3. OpenAI released GPT-6.2 Astra and GPT-6.2 Sol. Astra now sits ahead of Google's Gemini 4 Carbon and behind only Claude Fable 5.2 on Artificial Analysis. Testers were not happy though, with one calling it \"the worst model OpenAI has ever released.\" Probably not what OpenAI was hoping for ahead of Anthropic's IPO. 4. The U.S. is reportedly set to label more than 24 AI firms (including Nvidia, OpenAI, and Anthropic) as \"national champions,\" with faster chip export approvals and federal financing to sell American AI abroad. The goal is a one-stop shop where foreign buyers can get U.S. chips, data centers, and models as a bundle, rather than turning to Chinese rivals like Huawei. 5. OpenAI published a study of 1,800+ scientists using ChatGPT, who say AI lets them work about 2x faster at the ",
+   "url": "https://nitter.kareem.one/rowancheung/status/2122821908680860146#m",
+   "ts": 1794955157,
+   "id": "2122821908680860146#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -861,15 +897,6 @@
    "id": "2121265009137160311#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in tech today: - Microsoft’s Outlook outage drags into day two - Oura makes $625M push into AI healthcare - Pfizer chases the once-a-month GLP-1 - Sweden gives data centers a Nordic twist",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2121265003869122748#m",
-   "ts": 1794583962,
-   "id": "2121265003869122748#m"
-  },
-  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -1266,15 +1293,6 @@
    "id": "2117693181651542387#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "There's a buzzy new paper about GPT-6 Astra being able to directly interpret model weights (prompts full of floating point numbers) - I tried it with Qwen 3.8 27B on my laptop and found that, after 45+ minutes, that model could achieve the same thing simonwillison.net/2026/Nov/3… Link Qwen 3.8 27B on my laptop can interpret model weights, too Yesterday’s hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, … simonwillison.net",
-   "url": "https://nitter.kareem.one/simonw/status/2117655816581071203#m",
-   "ts": 1793723465,
-   "id": "2117655816581071203#m"
-  },
-  {
    "handle": "realDonaldTrump",
    "name": "Donald Trump",
    "author": "@realDonaldTrump",
@@ -1455,15 +1473,6 @@
    "id": "2117342818452562296#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "In updating a graphic showing U.S. company AI adoption over time according to a long-running U.S. Census Bureau survey, I found out that the Bureau's work has been sullied by that asinine \"Super Intelligence\" executive order simonwillison.net/2026/Nov/2… Link The U.S. Census Bureau and “Super Intelligence” I was reminded today of AI Adoption Rate Trending Down for Large Companies, a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in … simonwillison.net",
-   "url": "https://nitter.kareem.one/simonw/status/2117337139633607167#m",
-   "ts": 1793647486,
-   "id": "2117337139633607167#m"
-  },
-  {
    "handle": "bcherny",
    "name": "Boris Cherny",
    "author": "@bcherny",
@@ -1471,15 +1480,6 @@
    "url": "https://nitter.kareem.one/bcherny/status/2116222842413142111#m",
    "ts": 1793381817,
    "id": "2116222842413142111#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "X should have a zero tolerance policy for AI replies Like you do one and your account is suspended for life Replies are a nightmare now and it's never ever been this bad AI replies are an an existential threat to the future of this platform, because people will simply stop using it if the vast majority of replies are AI bots",
-   "url": "https://nitter.kareem.one/levelsio/status/2115805396753383750#m",
-   "ts": 1793282291,
-   "id": "2115805396753383750#m"
   },
   {
    "handle": "bcherny",
