@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-17T18:34:16Z",
+ "generated_at": "2026-11-17T18:40:51Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 175,
  "items": [
   {
@@ -151,6 +150,15 @@
    "id": "2122723345225617654#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Tesla’s Annual Meeting is coming up on December 3 & we need your vote Voting is quick & easy – you can vote online, by mail, by QR code or by phone @Tesla_Optimus can show you how VoteTesla.com Video",
+   "url": "https://nitter.kareem.one/Tesla/status/2122721430596997348#m",
+   "ts": 1794931201,
+   "id": "2122721430596997348#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -185,6 +193,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2122714166574129556#m",
    "ts": 1794929470,
    "id": "2122714166574129556#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "I combined 15 of my launch/catch photos to create this: A composite image telling the story of this historic event. I titled it \"Dreams of Martian Skies\". Suddenly that dream feels a bit more real. Get the Print and read more info about how it was captured 👇",
+   "url": "https://nitter.kareem.one/AJamesMcCarthy/status/2122714087998292030#m",
+   "ts": 1794929451,
+   "id": "2122714087998292030#m"
   },
   {
    "handle": "swyx",
@@ -259,15 +276,6 @@
    "id": "2122653539205792156#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "BREAKING: South Korea’s Jin Air to introduce FREE Starlink Wi-Fi next month. Boeing 737-8 jets will be equipped first, bringing high-speed internet to more passengers. Korean Air and Asiana already have Starlink on 42 aircraft. Now it’s expanding to budget airlines.",
-   "url": "https://nitter.kareem.one/cb_doge/status/2122650084794048574#m",
-   "ts": 1794914191,
-   "id": "2122650084794048574#m"
-  },
-  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -284,15 +292,6 @@
    "url": "https://nitter.kareem.one/bncdotph/status/2122620562489098251#m",
    "ts": 1794907153,
    "id": "2122620562489098251#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "south africa is one of the few countries in the world that still explicitly discriminates based on race through its laws. since apartheid ended, it has passed 122 race-based laws explicitly discriminating against White South Africans. Elon Musk (@elonmusk) South Africa is now super racist against Whites and Asians — https://nitter.kareem.one/elonmusk/status/2122512328696758640#m",
-   "url": "https://nitter.kareem.one/IterIntellectus/status/2122597466034028975#m",
-   "ts": 1794901646,
-   "id": "2122597466034028975#m"
   },
   {
    "handle": "Lingling_Wei",
