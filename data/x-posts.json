@@ -1,19 +1,29 @@
 {
- "generated_at": "2026-11-17T03:54:11Z",
+ "generated_at": "2026-11-17T04:12:01Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@bcherny: all instances failed"
+ ],
  "count": 175,
  "items": [
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Alice Huang and her husband operated on two tracks pointed at the same goal of vaulting China’s AI capabilities ahead of the U.S. Her job: cultivating a relationship with Nvidia's CEO. His job: building a government-backed data-center empire across China. on.wsj.com/4jkVlHJ Link Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State Kang Wei developed the business while his wife was involved with Nvidia’s then-CEO. wsj.com",
+   "url": "https://nitter.kareem.one/WSJ/status/2122534674945740950#m",
+   "ts": 1794886675,
+   "id": "2122534674945740950#m"
+  },
   {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
@@ -976,15 +986,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2120652316801917274#m",
    "ts": 1794437886,
    "id": "2120652316801917274#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "Scoop by @RWhelanWSJ @jdawsey1 : Nvidia’s board is preparing to oust CEO Jensen Huang, its founder and chief executive after he had two extramarital affairs, including one with a suspected Chinese spy. wsj.com/business/nvidia-is-p… via @WSJ Link Exclusive | Nvidia is Preparing to Oust CEO Jensen Huang Move follows company investigation into an affair with a Chinese woman alleged to be a spy. wsj.com",
-   "url": "https://nitter.kareem.one/Lingling_Wei/status/2120647465594446121#m",
-   "ts": 1794436730,
-   "id": "2120647465594446121#m"
   },
   {
    "handle": "simonw",
