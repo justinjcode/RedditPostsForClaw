@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T16:32:46Z",
+ "generated_at": "2026-11-17T16:45:20Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -8,12 +8,22 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@swyx: all instances failed"
+ ],
  "count": 175,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Over the past week, I’ve been overwhelmed by the love and support of friends, industry colleagues, and people I've never met. Thank you to everyone who has shown kindness to my family and me. It means the world to me. I came to the United States 53 years ago, and becoming an American citizen is one of the greatest gifts and proudest moments of my life. NVIDIA has been my life’s work. Building it into the company it is today alongside my colleagues has been a privilege and an honor. Nowhere but in America could a company like NVIDIA be possible. I love our country, and I love NVIDIA. I did not live up to the standards expected of everyone at NVIDIA, and I have made serious mistakes in my personal life. I created problems for the Board that I deeply regret. I own my mistakes completely, and I am committed to cooperating with the Board’s independent investigation. Since my departure, I’ve seen an outpouring of calls from NVIDIA’s employees, investors, business partners, and customers for me to return as CEO. Many continue to reach out to me directly as the company navigates complex technology, market, competitive, and geopolitical dynamics. NVIDIA is a once-in-a-generation company. If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I would be honored to answer these calls and return as CEO. Thank you again to everyone who has shared their good wishes. I am profoundly humbled by your support. To m",
+   "url": "https://nitter.kareem.one/JensenHuang/status/2122726005219737649#m",
+   "ts": 1794932292,
+   "id": "2122726005219737649#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -49,6 +59,15 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2122699674683396271#m",
    "ts": 1794926014,
    "id": "2122699674683396271#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Gave the same task to Grok bot and OpenAI's Dot yesterday. Grok finished it in under 2 hours. Dot still has no clue what it's doing, it's completely frozen. If all that compute had gone into the subscription instead of Dot, the subscription would be worth a lot more.",
+   "url": "https://nitter.kareem.one/Da7_Tech/status/2122694607335235839#m",
+   "ts": 1794924806,
+   "id": "2122694607335235839#m"
   },
   {
    "handle": "elonmusk",
@@ -94,6 +113,15 @@
    "url": "https://nitter.kareem.one/JChengWSJ/status/2122631078439747735#m",
    "ts": 1794909660,
    "id": "2122631078439747735#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "HEATED EXCHANGE OVER CHINA'S MILITARY OPERATIONS IN PHILIPPINE SEA WATCH: Chinese academic Dr. Hu Bo of the South China Sea Probing Initiative questioned whether there was a problem with China's Coast Guard and military operating in the Philippine Sea, arguing that the waters are international. SeaLight Foundation Executive Director Ray Powell pushed back, saying China's actions may be framed as legal under freedom of navigation but remain \"aggressive and coercive\" — a hallmark of gray-zone tactics. The exchange comes amid heightened scrutiny of China's naval activities in Philippine waters. In October, the Chinese aircraft carrier Liaoning and three accompanying destroyers came as close as 15.2 nautical miles from Talulu Point in Siocon, Zamboanga del Norte, according to Philippine Navy monitoring reports obtained by BNC. | via Joash Malimban, bnc.ph Video",
+   "url": "https://nitter.kareem.one/bncdotph/status/2122620562489098251#m",
+   "ts": 1794907153,
+   "id": "2122620562489098251#m"
   },
   {
    "handle": "elonmusk",
@@ -157,24 +185,6 @@
    "url": "https://nitter.kareem.one/paranoidream/status/2122578000487256086#m",
    "ts": 1794897005,
    "id": "2122578000487256086#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Relentless reinforcement learning must feel like Edge of Tomorrow to superintelligence",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122577169863885235#m",
-   "ts": 1794896807,
-   "id": "2122577169863885235#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Starship 42 Video",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122576221846253837#m",
-   "ts": 1794896581,
-   "id": "2122576221846253837#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -519,6 +529,15 @@
    "id": "2122267469268328711#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Bellissimo servizio su Starship da vedere e condividere! 👏🏻👏🏻 Video",
+   "url": "https://nitter.kareem.one/andst7/status/2122258555788984676#m",
+   "ts": 1794820844,
+   "id": "2122258555788984676#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -634,15 +653,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2121845965997101118#m",
    "ts": 1794722474,
    "id": "2121845965997101118#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "FSD knowledge is slowly matriculating down to the dumbest members of society. Video No Safe Words (@Cyber_Trailer) In our next episode of ‘FSD chat time” Vanessa wants to make it clear, Tesla redefined luxury. 🎥 vanessalegrow on TT Video — https://nitter.kareem.one/Cyber_Trailer/status/2121364370257219697#m",
-   "url": "https://nitter.kareem.one/Cyber_Trailer/status/2121840684294611324#m",
-   "ts": 1794721215,
-   "id": "2121840684294611324#m"
   },
   {
    "handle": "swyx",
@@ -796,15 +806,6 @@
    "url": "https://nitter.kareem.one/mackhawk/status/2121252848776450049#m",
    "ts": 1794581064,
    "id": "2121252848776450049#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "小猫一个星期拿下了姥姥～ 根本没有小猫拿不下的人类～ 😂😂😂 Video",
-   "url": "https://nitter.kareem.one/maxiaohui66/status/2121143436590100829#m",
-   "ts": 1794554978,
-   "id": "2121143436590100829#m"
   },
   {
    "handle": "ZichenWanghere",
