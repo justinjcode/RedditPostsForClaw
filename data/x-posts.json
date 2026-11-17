@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-17T06:32:35Z",
+ "generated_at": "2026-11-17T06:45:20Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,27 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 175,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Relentless reinforcement learning must feel like Edge of Tomorrow to superintelligence",
+   "url": "https://nitter.kareem.one/elonmusk/status/2122577169863885235#m",
+   "ts": 1794896807,
+   "id": "2122577169863885235#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starship 42 Video",
+   "url": "https://nitter.kareem.one/elonmusk/status/2122576221846253837#m",
+   "ts": 1794896581,
+   "id": "2122576221846253837#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -154,15 +171,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "only 2,670 **days** between these two photos Elon Musk (@elonmusk) We’ve come a long way — https://nitter.kareem.one/elonmusk/status/2122406902827245831#m",
-   "url": "https://nitter.kareem.one/ArthurMacwaters/status/2122486274040951096#m",
-   "ts": 1794875136,
-   "id": "2122486274040951096#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "RT by @elonmusk: Image",
    "url": "https://nitter.kareem.one/BrendanCarrFCC/status/2122466131894231467#m",
    "ts": 1794870334,
@@ -257,15 +265,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2122397155482870213#m",
    "ts": 1794853888,
    "id": "2122397155482870213#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Every driver needs their crew. Video",
-   "url": "https://nitter.kareem.one/bot/status/2122386524297974128#m",
-   "ts": 1794851354,
-   "id": "2122386524297974128#m"
   },
   {
    "handle": "elonmusk",
