@@ -1,27 +1,132 @@
 {
- "generated_at": "2026-11-17T08:12:23Z",
+ "generated_at": "2026-11-17T14:09:38Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
-  "programming"
+  "programming",
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "Why HTTPS Almost Broke Netflix-And How Kernl TLS Saved Id-Crazy Linux Customizations",
+   "url": "https://www.reddit.com/r/programming/comments/1xylbxw/why_https_almost_broke_netflixand_how_kernl_tls/",
+   "ts": 1794924434,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "[Harness Adapters] Fine tune Qwen3.8-27B for Pi Agents",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xykw4l/harness_adapters_fine_tune_qwen3827b_for_pi_agents/",
+   "ts": 1794923321,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "What it takes to count the Linux kernel's 36M lines of code in under 70ms",
+   "url": "https://www.reddit.com/r/programming/comments/1xykmtw/what_it_takes_to_count_the_linux_kernels_36m/",
+   "ts": 1794922606,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "The upcoming open weight small Qwen models are likely going to lack training data related to offensive cyber capabilities.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xykjuy/the_upcoming_open_weight_small_qwen_models_are/",
+   "ts": 1794922385,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Gemma 4 twice as fast on Ryzen AI Max+ 395",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyjxli/gemma_4_twice_as_fast_on_ryzen_ai_max_395/",
+   "ts": 1794920683,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Gemma on a printer",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyjkts/gemma_on_a_printer/",
+   "ts": 1794919689,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "GPU prices - Big \"discounts\"",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyixml/gpu_prices_big_discounts/",
+   "ts": 1794917713,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "LibreDB Studio 1.3: self-hosted SQL IDE for 42 engines, now with a read-only MCP endpoint",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xyit5q/libredb_studio_13_selfhosted_sql_ide_for_42/",
+   "ts": 1794917324,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Intel Shares First Benchmarks of Its Next-Gen Crescent Island \"D270\" GPU, Claiming a 5.9x Throughput Over RTX PRO 6000 As Xe3P Goes Big On FP64",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyioi8/intel_shares_first_benchmarks_of_its_nextgen/",
+   "ts": 1794916929,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Release Paperless-AI v4.1.0 and a few words to the community",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xyim5h/release_paperlessai_v410_and_a_few_words_to_the/",
+   "ts": 1794916778,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "ZFS or SnapRAID",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xyifia/zfs_or_snapraid/",
+   "ts": 1794916146,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Rotate K/V read order for better L2 cache hit rates by gaugarg-nv · Pull Request #32407 · ggml-org/llama.cpp",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyi6hj/rotate_kv_read_order_for_better_l2_cache_hit/",
+   "ts": 1794915286,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "nvidia/Qwen3.8-Flash-Next-NVFP4-QAD",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyi3aa/nvidiaqwen38flashnextnvfp4qad/",
+   "ts": 1794914974,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "programming",
+   "title": "Understanding Iceberg CDC costs on S3: requests, not bytes",
+   "url": "https://www.reddit.com/r/programming/comments/1xyhkh2/understanding_iceberg_cdc_costs_on_s3_requests/",
+   "ts": 1794913179,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "OVH announces Olala mini 7A1B",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xygtj4/ovh_announces_olala_mini_7a1b/",
+   "ts": 1794910475,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Stalwart, Mail, and enshittification of open source projects",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xyfzv5/stalwart_mail_and_enshittification_of_open_source/",
+   "ts": 1794907399,
+   "source": "Reddit"
+  },
   {
    "subreddit": "MachineLearning",
    "title": "CVPR Pre-submission Review [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xye5j2/cvpr_presubmission_review_d/",
    "ts": 1794900300,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "DSpine - Updates on PR & GGUFs",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xycsm1/dspine_updates_on_pr_ggufs/",
-   "ts": 1794895405,
    "source": "Reddit"
   },
   {
@@ -46,10 +151,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Thinking Machines 4-bit replication: I trained a GPT end to end with a 4-bit forward pass on one B200",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyawzz/thinking_machines_4bit_replication_i_trained_a/",
-   "ts": 1794889191,
+   "subreddit": "selfhosted",
+   "title": "My set up, a mangled mess, does it count? Just getting started.",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xyapzb/my_set_up_a_mangled_mess_does_it_count_just/",
+   "ts": 1794888582,
    "source": "Reddit"
   },
   {
@@ -57,13 +162,6 @@
    "title": "maxwell-model/Maxwell-V1-Flash · Hugging Face",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyamk6/maxwellmodelmaxwellv1flash_hugging_face/",
    "ts": 1794888279,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Hugging Face switched its language model inference routing to OpenRouter",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xy9o6j/hugging_face_switched_its_language_model/",
-   "ts": 1794885414,
    "source": "Reddit"
   },
   {
@@ -130,13 +228,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "I am sick of doomposting about demise of local AI",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxzk23/i_am_sick_of_doomposting_about_demise_of_local_ai/",
-   "ts": 1794859278,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "What Happens to Work After a Timeout?",
    "url": "https://www.reddit.com/r/programming/comments/1xxza0t/what_happens_to_work_after_a_timeout/",
@@ -144,38 +235,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "I don't get all the Strata hates around here",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxz46x/i_dont_get_all_the_strata_hates_around_here/",
-   "ts": 1794858310,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "“…and the proof is checked in Lean”",
    "url": "https://www.reddit.com/r/programming/comments/1xxytd6/and_the_proof_is_checked_in_lean/",
    "ts": 1794857662,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "miHoYo Gamer: A Generalist Game Agent",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxy7eb/mihoyo_gamer_a_generalist_game_agent/",
-   "ts": 1794856302,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Small Gemma 4 tokenizers were recently updated by Google - fix for an issue that caused nonsense output when encountering certain tokens",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxxs0a/small_gemma_4_tokenizers_were_recently_updated_by/",
-   "ts": 1794855318,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Open weight models account for 30% usage at enterprises to save money",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxxbt9/open_weight_models_account_for_30_usage_at/",
-   "ts": 1794854304,
    "source": "Reddit"
   },
   {
@@ -221,13 +284,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Do I need to start over?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xxsv5f/do_i_need_to_start_over/",
-   "ts": 1794844337,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Marimba: A System One Model for Speech. [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xxsqro/marimba_a_system_one_model_for_speech_r/",
@@ -249,13 +305,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Stop worrying about Qwen 4's AA index",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxqfqr/stop_worrying_about_qwen_4s_aa_index/",
-   "ts": 1794838570,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "AISTATS 2027 paper discussion [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xxqa3i/aistats_2027_paper_discussion_d/",
@@ -267,13 +316,6 @@
    "title": "Best Audio Models - Nov 2026",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxpxvi/best_audio_models_nov_2026/",
    "ts": 1794837316,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "BrowserPod 4.0: the microVM that runs in the browser, now free for any use",
-   "url": "https://www.reddit.com/r/programming/comments/1xxpaa4/browserpod_40_the_microvm_that_runs_in_the/",
-   "ts": 1794835541,
    "source": "Reddit"
   },
   {
@@ -312,24 +354,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Backing up and Snapshotting tools",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xxleyb/backing_up_and_snapshotting_tools/",
-   "ts": 1794822572,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "Steering a pretrained music transformer at sampling time into a real-time jazz partner (no fine-tuning) [P]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xxkyh3/steering_a_pretrained_music_transformer_at/",
    "ts": 1794820783,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Any blind self hosters?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xxkxps/any_blind_self_hosters/",
-   "ts": 1794820702,
    "source": "Reddit"
   },
   {
@@ -340,13 +368,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Update your Seerr",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xx63v2/update_your_seerr/",
-   "ts": 1794775136,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "MachineLearning",
    "title": "[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/",
@@ -354,24 +375,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "selfhosted",
-   "title": "Karakeep 0.35 release - Security, Polish and 30k stars ⭐",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xx04an/karakeep_035_release_security_polish_and_30k_stars/",
-   "ts": 1794760966,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "544 unmaintained PyPI packages with imports that fail on Python 3.12+ still get 100M+ downloads a month",
    "url": "https://www.reddit.com/r/programming/comments/1xwyhpm/544_unmaintained_pypi_packages_with_imports_that/",
    "ts": 1794757060,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "Brockett-Dobkin Rectangular Matrix Multiplication Algorithm From 1970s",
-   "url": "https://www.reddit.com/r/programming/comments/1xwxmp1/brockettdobkin_rectangular_matrix_multiplication/",
-   "ts": 1794754902,
    "source": "Reddit"
   },
   {
@@ -386,13 +393,6 @@
    "title": "I don't think double-blind review systems work [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xwuwqd/i_dont_think_doubleblind_review_systems_work_d/",
    "ts": 1794747615,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "programming",
-   "title": "What Go 1.27’s generic methods made possible for ORMs. Compile-checked columns with no generated code",
-   "url": "https://www.reddit.com/r/programming/comments/1xwtfmr/what_go_127s_generic_methods_made_possible_for/",
-   "ts": 1794742861,
    "source": "Reddit"
   },
   {
