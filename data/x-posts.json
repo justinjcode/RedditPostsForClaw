@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-11-17T01:02:42Z",
+ "generated_at": "2026-11-17T01:12:42Z",
  "accounts_ok": [
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 176,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "💯😂 KerbalSpaceNut (@KerbalNut) Jus sayin… — https://nitter.kareem.one/KerbalNut/status/2122395920876863964#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2122496146538946784#m",
+   "ts": 1794877490,
+   "id": "2122496146538946784#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -167,6 +176,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2122382376802144728#m",
    "ts": 1794850365,
    "id": "2122382376802144728#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Week two of moving the entire team to @bot : multiple team members burned their credits and asked to level up to the $100 plan — which I was excited to approve! Productivity is going up 10% a week for folks tokenmaxxing with GROK BOT. Honestly, I don't know if we will need to hire new people for our VC firm and media company at this pace — adding humans will probably be a fun luxury for business owners.",
+   "url": "https://nitter.kareem.one/Jason/status/2122381122474520707#m",
+   "ts": 1794850066,
+   "id": "2122381122474520707#m"
   },
   {
    "handle": "TheRundownAI",
@@ -322,15 +340,6 @@
    "id": "2122223599079559603#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "💯 Kiko Dontchev (@TurkeyBeaver) Ladies and gentlemen, introducing the greatest team on earth…. @SpaceX !!! Can’t get over the high of yesterday. Vibes are 10/10 right now!!!!! — https://nitter.kareem.one/TurkeyBeaver/status/2122041454822363204#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122221516867895726#m",
-   "ts": 1794812013,
-   "id": "2122221516867895726#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -365,15 +374,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2122066060769952161#m",
    "ts": 1794774949,
    "id": "2122066060769952161#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "i find it really weird seeing people say spacex trashed “boca chica beach” when in reality my grandparents lived in brownsville and i spent every summer as a kid on boca chica beach and it was a literal trash dump. it’s the cleanest now than i have ever seen it.",
-   "url": "https://nitter.kareem.one/SonoranAstro/status/2122056486428008850#m",
-   "ts": 1794772666,
-   "id": "2122056486428008850#m"
   },
   {
    "handle": "swyx",
