@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T01:12:42Z",
+ "generated_at": "2026-11-17T01:22:10Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -11,7 +11,7 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed"
+  "@bcherny: all instances failed"
  ],
  "count": 176,
  "items": [
@@ -158,6 +158,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2122397155482870213#m",
    "ts": 1794853888,
    "id": "2122397155482870213#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "For the people who are desperate to act like recovering Starship is some kind of nothingburger because the Space Shuttle was kinda reusable, watch my video about recovering and reusing the shuttle boosters, and compare that to landing back on the pad. inv.kareem.one/a9VmcAsV8n0 Link NASA Invented Reusable Rockets. But... It Was HARD!! For 30 years NASA's Space Shuttle reused its rocket boosters, recov... youtube.com",
+   "url": "https://nitter.kareem.one/DJSnM/status/2122394910359990321#m",
+   "ts": 1794853353,
+   "id": "2122394910359990321#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -329,15 +338,6 @@
    "url": "https://nitter.kareem.one/robotaxi/status/2122234442328740005#m",
    "ts": 1794815094,
    "id": "2122234442328740005#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Important Mark Kretschmann (@mark_k) Grok's text watermarking is now off by default in the SpaceXSI API. Elon Musk confirmed it and went further. He says text watermarking with Grok is only on where the law requires it or a user asks for it. So if you build on Grok, your output won't carry a hidden watermark unless you switch it on or a law requires one. — https://nitter.kareem.one/mark_k/status/2121975392554619298#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122223599079559603#m",
-   "ts": 1794812509,
-   "id": "2122223599079559603#m"
   },
   {
    "handle": "thsottiaux",
