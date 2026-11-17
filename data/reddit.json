@@ -1,15 +1,29 @@
 {
- "generated_at": "2026-11-17T02:13:16Z",
+ "generated_at": "2026-11-17T04:10:38Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "MachineLearning",
-  "programming"
+  "programming",
+  "selfhosted"
  ],
  "errors": [
-  "r/selfhosted: all endpoints failed"
+  "r/MachineLearning: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "you vs the guy she told you not to worry about",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xy9e24/you_vs_the_guy_she_told_you_not_to_worry_about/",
+   "ts": 1794884575,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "Isopod: a self-hosted Minecraft server manager with modpack installs, Bedrock cross-play, and auto-rollback snapshots (Docker, MIT)",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xy75u4/isopod_a_selfhosted_minecraft_server_manager_with/",
+   "ts": 1794878166,
+   "source": "Reddit"
+  },
   {
    "subreddit": "programming",
    "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
@@ -22,6 +36,13 @@
    "title": "Is anyone's AC playing the role of \"discussion moderator\" for ICLR? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xy6t7g/is_anyones_ac_playing_the_role_of_discussion/",
    "ts": 1794877193,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "selfhosted",
+   "title": "A $2-3/mo VPS is the best remote access solution",
+   "url": "https://www.reddit.com/r/selfhosted/comments/1xy63oj/a_23mo_vps_is_the_best_remote_access_solution/",
+   "ts": 1794875214,
    "source": "Reddit"
   },
   {
@@ -116,13 +137,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "[NEW RELEASE] - Supra2.5-65M Base and Instruct - our next generation state-of-the art small model family - first model!",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxw9ik/new_release_supra2565m_base_and_instruct_our_next/",
-   "ts": 1794851957,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Introducing the World's Strongest Sokoban Solver",
    "url": "https://www.reddit.com/r/programming/comments/1xxw6xh/introducing_the_worlds_strongest_sokoban_solver/",
@@ -190,13 +204,6 @@
    "title": "Stop worrying about Qwen 4's AA index",
    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxqfqr/stop_worrying_about_qwen_4s_aa_index/",
    "ts": 1794838570,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "Pangolin vs reverse proxy on home server",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xxqc14/pangolin_vs_reverse_proxy_on_home_server/",
-   "ts": 1794838308,
    "source": "Reddit"
   },
   {
@@ -281,13 +288,6 @@
    "title": "Any blind self hosters?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xxkxps/any_blind_self_hosters/",
    "ts": 1794820702,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "selfhosted",
-   "title": "How to secure the self hosted apps?",
-   "url": "https://www.reddit.com/r/selfhosted/comments/1xxj7li/how_to_secure_the_self_hosted_apps/",
-   "ts": 1794814025,
    "source": "Reddit"
   },
   {
