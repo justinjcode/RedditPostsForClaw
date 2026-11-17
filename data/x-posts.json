@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-17T12:57:24Z",
+ "generated_at": "2026-11-17T13:11:32Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "bcherny",
   "elonmusk",
@@ -11,6 +10,7 @@
   "thsottiaux"
  ],
  "errors": [
+  "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
  "count": 175,
@@ -167,15 +167,6 @@
    "url": "https://nitter.kareem.one/WSJ/status/2122534674945740950#m",
    "ts": 1794886675,
    "id": "2122534674945740950#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "LEO BOZELL: “Everyone would agree that Starlink is a great idea for South Africa. Starlink is a great idea in every single nation on earth because of what it’s been able to do. … The government said, we want 30% of that company here, which of course is preposterous. And Elon Musk is never going to do that. … They said, no, we want 30% of your company. So he said, go pound sand. I’ll go in every other country on planet earth.” Video",
-   "url": "https://nitter.kareem.one/cb_doge/status/2122529345902350362#m",
-   "ts": 1794885405,
-   "id": "2122529345902350362#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -410,6 +401,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2122351519932555701#m",
    "ts": 1794843008,
    "id": "2122351519932555701#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Analysts are awed by SpaceX's Starship catch. Here's why cnbc.com/2026/11/16/analysts… Link Analysts are awed by SpaceX's Starship catch. Here's why SpaceX caught its spacecraft from orbit Saturday, a major milestone in aerospace engineering and earning praise from several Wall Street investment banks. cnbc.com",
+   "url": "https://nitter.kareem.one/CNBC/status/2122351312213843987#m",
+   "ts": 1794842958,
+   "id": "2122351312213843987#m"
   },
   {
    "handle": "ZichenWanghere",
