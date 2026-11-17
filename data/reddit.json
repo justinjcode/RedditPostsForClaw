@@ -1,20 +1,76 @@
 {
- "generated_at": "2026-11-17T04:10:38Z",
+ "generated_at": "2026-11-17T08:12:23Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
-  "programming",
-  "selfhosted"
+  "MachineLearning",
+  "programming"
  ],
  "errors": [
-  "r/MachineLearning: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
   {
+   "subreddit": "MachineLearning",
+   "title": "CVPR Pre-submission Review [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xye5j2/cvpr_presubmission_review_d/",
+   "ts": 1794900300,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "LocalLLaMA",
-   "title": "you vs the guy she told you not to worry about",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xy9e24/you_vs_the_guy_she_told_you_not_to_worry_about/",
-   "ts": 1794884575,
+   "title": "DSpine - Updates on PR & GGUFs",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xycsm1/dspine_updates_on_pr_ggufs/",
+   "ts": 1794895405,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "We logged 621k changes from 127k papers' ablations: 26% didn't help by the papers' own numbers [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xybvju/we_logged_621k_changes_from_127k_papers_ablations/",
+   "ts": 1794892308,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Why are ViTs so popular? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xyb8q6/why_are_vits_so_popular_d/",
+   "ts": 1794890237,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Clover 2: dense 27.8B base + 7 LoRA experts routed per token, not a static merge, weights public",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyb7jw/clover_2_dense_278b_base_7_lora_experts_routed/",
+   "ts": 1794890128,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Thinking Machines 4-bit replication: I trained a GPT end to end with a 4-bit forward pass on one B200",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyawzz/thinking_machines_4bit_replication_i_trained_a/",
+   "ts": 1794889191,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "maxwell-model/Maxwell-V1-Flash · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyamk6/maxwellmodelmaxwellv1flash_hugging_face/",
+   "ts": 1794888279,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Hugging Face switched its language model inference routing to OpenRouter",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xy9o6j/hugging_face_switched_its_language_model/",
+   "ts": 1794885414,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Struggled in my Infosys interview as a fresher. How should I strengthen my fundamentals to become an AI/ML Engineer?[D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xy92xo/struggled_in_my_infosys_interview_as_a_fresher/",
+   "ts": 1794883686,
    "source": "Reddit"
   },
   {
@@ -67,10 +123,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Best MoE engine?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xy0d5o/best_moe_engine/",
-   "ts": 1794861096,
+   "subreddit": "MachineLearning",
+   "title": "CVPR 2027: LLM Usage Statement in PDF vs. OpenReview Form? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xy25mx/cvpr_2027_llm_usage_statement_in_pdf_vs/",
+   "ts": 1794865245,
    "source": "Reddit"
   },
   {
@@ -130,13 +186,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "nvidia/Nemotron-Labs-Sigma 8B/3B",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxwg6w/nvidianemotronlabssigma_8b3b/",
-   "ts": 1794852363,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Introducing the World's Strongest Sokoban Solver",
    "url": "https://www.reddit.com/r/programming/comments/1xxw6xh/introducing_the_worlds_strongest_sokoban_solver/",
@@ -165,6 +214,13 @@
    "source": "Reddit"
   },
   {
+   "subreddit": "MachineLearning",
+   "title": "I built a video activity-recognition [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xxtq8k/i_built_a_video_activityrecognition_p/",
+   "ts": 1794846293,
+   "source": "Reddit"
+  },
+  {
    "subreddit": "selfhosted",
    "title": "Do I need to start over?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xxsv5f/do_i_need_to_start_over/",
@@ -176,13 +232,6 @@
    "title": "Marimba: A System One Model for Speech. [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xxsqro/marimba_a_system_one_model_for_speech_r/",
    "ts": 1794844038,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "LocalLLaMA",
-   "title": "Censorship is turning me into a true Local LLM believer",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxsc7u/censorship_is_turning_me_into_a_true_local_llm/",
-   "ts": 1794843088,
    "source": "Reddit"
   },
   {
@@ -263,13 +312,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Introducing Hy4 flash",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxlgpb/introducing_hy4_flash/",
-   "ts": 1794822764,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Backing up and Snapshotting tools",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xxleyb/backing_up_and_snapshotting_tools/",
@@ -298,31 +340,10 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "MachineLearning",
-   "title": "Anyone working in AML / transaction monitoring / sanctions screening using ML? Looking for advice on where to start [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xx9za4/anyone_working_in_aml_transaction_monitoring/",
-   "ts": 1794785139,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Update your Seerr",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xx63v2/update_your_seerr/",
    "ts": 1794775136,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "We made a multiplayer game where each player's view is generated by a world model running on their GPU [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xx4ta3/we_made_a_multiplayer_game_where_each_players/",
-   "ts": 1794772009,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Making cudaMemcpy 5x faster on a B300 [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xx2n25/making_cudamemcpy_5x_faster_on_a_b300_p/",
-   "ts": 1794766827,
    "source": "Reddit"
   },
   {
@@ -337,13 +358,6 @@
    "title": "Karakeep 0.35 release - Security, Polish and 30k stars ⭐",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xx04an/karakeep_035_release_security_polish_and_30k_stars/",
    "ts": 1794760966,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Marimba: a System One model for speech [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xwzsm4/marimba_a_system_one_model_for_speech_r/",
-   "ts": 1794760209,
    "source": "Reddit"
   },
   {
@@ -386,20 +400,6 @@
    "title": "Slack’s Migration to a Cellular Architecture",
    "url": "https://www.reddit.com/r/programming/comments/1xwsbxo/slacks_migration_to_a_cellular_architecture/",
    "ts": 1794738808,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "With 42k submissions to ICLR, do you think the acceptance rate will stay the same? [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xwqxwj/with_42k_submissions_to_iclr_do_you_think_the/",
-   "ts": 1794733522,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "ICLR 2027 Initial Review Scores ranked by University [N]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xwcjuq/iclr_2027_initial_review_scores_ranked_by/",
-   "ts": 1794688394,
    "source": "Reddit"
   },
   {
