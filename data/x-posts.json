@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T01:29:35Z",
+ "generated_at": "2026-11-17T01:41:19Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,33 @@
  "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "Each of the three sandbox servers includes an optional HTTP/HTTPS allow-list proxy, so you can control exactly which hosts your agent's code can communicate with - plus a credential replacement mechanism to make authenticated API calls without sharing a secret with the agent",
+   "url": "https://nitter.kareem.one/simonw/status/2122500317187330279#m",
+   "ts": 1794878484,
+   "id": "2122500317187330279#m"
+  },
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "I worked on this project with Prime Radiant, the AI research lab behind Superpowers - here's our index repository for these external sandbox prototypes github.com/prime-radiant-inc…",
+   "url": "https://nitter.kareem.one/simonw/status/2122500313886396840#m",
+   "ts": 1794878483,
+   "id": "2122500313886396840#m"
+  },
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "I've been exploring new ways to sandbox code written by coding agents - here's a description of the external sandbox pattern, where agents run on your Mac but execute code in a WebAssembly or QEMU or Apple Container sandbox - with demos for Claude Code, Codex and Pi blog.primeradiant.com/extern…",
+   "url": "https://nitter.kareem.one/simonw/status/2122500307557265651#m",
+   "ts": 1794878482,
+   "id": "2122500307557265651#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1453,33 +1480,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2115858560823538152#m",
    "ts": 1793294966,
    "id": "2115858560823538152#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "Inspired me to try out spawn.co on my phone. Here's me flying a dragon around a castle, I prompted both the castle and the dragon into existence using the in-game \"Savi\" chatbot",
-   "url": "https://nitter.kareem.one/simonw/status/2115822698341519520#m",
-   "ts": 1793286416,
-   "id": "2115822698341519520#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "Fascinating case study of the sharpest edge of what you can do with agentic engineering in the Fable era - my eyebrows raised at least a dozen times while reading this jacob (@jsnnsa) Article How I Built the Most AI-Pilled Company in the World Spawn is ten people. We spend 30x payroll on AI tokens and ship almost as much as Anthropic. In the last 30 days, Spawn shipped 77,000 substantial changes. That's about 108 an hour, around the clock. — https://nitter.kareem.one/jsnnsa/status/2115623382721126826#m",
-   "url": "https://nitter.kareem.one/simonw/status/2115821668350435645#m",
-   "ts": 1793286170,
-   "id": "2115821668350435645#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "the secret to becoming an expert is embarrassingly boring: build in public, write down what you learned and the process behind it, teach all that to someone, help them ship repeat for a few years, and you're solid",
-   "url": "https://nitter.kareem.one/DynamicWebPaige/status/2115806200424018427#m",
-   "ts": 1793282482,
-   "id": "2115806200424018427#m"
   },
   {
    "handle": "simonw",
