@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T15:28:50Z",
+ "generated_at": "2026-11-17T15:38:37Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,24 @@
  "errors": [],
  "count": 175,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: tech.therundown.ai/p/the-us-… Link The U.S. has an outage problem PLUS: Instagram’s inbox gets its own app tech.therundown.ai",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2122714173889003997#m",
+   "ts": 1794929471,
+   "id": "2122714173889003997#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in tech today: - Chase software bug jams U.S. banks - Instagram spins DMs into Direct, again - Amazon’s Starlink rival loses 40 satellites - Hyperscale data centers rival Denmark’s emissions",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2122714166574129556#m",
+   "ts": 1794929470,
+   "id": "2122714166574129556#m"
+  },
   {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
@@ -915,15 +933,6 @@
    "id": "2120892194655543455#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "OFFICIAL: Jensen Huang has resigned as CEO of NVIDIA.",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2120878753652093153#m",
-   "ts": 1794491873,
-   "id": "2120878753652093153#m"
-  },
-  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -931,15 +940,6 @@
    "url": "https://nitter.kareem.one/nvidianewsroom/status/2120876571829662014#m",
    "ts": 1794491353,
    "id": "2120876571829662014#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: therundownai.beehiiv.com/p/a… Link AI’s biggest CEO may be on his way out Nvidia's Jensen Huang may be on his way out as CEO, per a new report. Plus: how to claim and set up your business on ChatGPT in this AI newsletter. therundownai.beehiiv.com",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2120841637051891978#m",
-   "ts": 1794483024,
-   "id": "2120841637051891978#m"
   },
   {
    "handle": "ZichenWanghere",
