@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T17:35:42Z",
+ "generated_at": "2026-11-17T17:46:15Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 175,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "PREVIEW: Runway teased Diffusion-UI, a research app where an AI model generates an interface in real-time as a user clicks or types. Video",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2122743985818960245#m",
+   "ts": 1794936579,
+   "id": "2122743985818960245#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -904,15 +913,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2120941834415325534#m",
    "ts": 1794506913,
    "id": "2120941834415325534#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: robotnews.therundown.ai/p/am… Link Amazon turns Ring cameras into robots PLUS: SoftBank backs $8.5B German humanoid robotnews.therundown.ai",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2120902012321620475#m",
-   "ts": 1794497418,
-   "id": "2120902012321620475#m"
   },
   {
    "handle": "Lingling_Wei",
