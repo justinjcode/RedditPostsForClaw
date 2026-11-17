@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-17T05:36:07Z",
+ "generated_at": "2026-11-17T05:46:06Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,7 +10,9 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 175,
  "items": [
   {
@@ -414,6 +415,15 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
+   "text": "A lot of the most successful people I know spent years of their life just bumming around, before they suddenly exploded into action and did something great. I don't think that's a coincidence. noahpinion.blog/p/bumbition Link Bumbition An alternative route to success in life. noahpinion.blog",
+   "url": "https://nitter.kareem.one/Noahpinion/status/2122267469268328711#m",
+   "ts": 1794822969,
+   "id": "2122267469268328711#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
    "text": "for scale that is a 52m/171ft/15 story tall giant rocket flipping through the air and landing ready for reuse projected to lower payload launch cost from $2000/kg to $200/kg. reusability maybe the most important advancement in spaceflight likely in our lifetimes…. and THERE WERE FREAKING HORSES running in the foreground just to make it more epic lol Video",
    "url": "https://nitter.kareem.one/swyx/status/2122236664408084526#m",
    "ts": 1794815624,
@@ -571,15 +581,6 @@
    "url": "https://nitter.kareem.one/mstockton/status/2121750278395330859#m",
    "ts": 1794699661,
    "id": "2121750278395330859#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "there WILL be audience participation",
-   "url": "https://nitter.kareem.one/swyx/status/2121738675705029005#m",
-   "ts": 1794696894,
-   "id": "2121738675705029005#m"
   },
   {
    "handle": "simonw",
