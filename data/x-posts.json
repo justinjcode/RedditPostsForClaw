@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T16:45:20Z",
+ "generated_at": "2026-11-17T16:54:58Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -8,13 +8,21 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed"
- ],
+ "errors": [],
  "count": 175,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Yes! This is sorely needed. Tesla Megapack (@Tesla_Megapack) Introducing Powercore Solid state medium voltage transformer, inverter and breaker – reliable, safe and secure 7.4 MW/9 MVA continuously at 34.5 kVac w/ grid-forming support for 10MVA of peak power Made in America. Operating 2027 Video — https://nitter.kareem.one/Tesla_Megapack/status/2122721563493744771#m",
+   "url": "https://nitter.kareem.one/jamesdouma/status/2122732163942752316#m",
+   "ts": 1794933760,
+   "id": "2122732163942752316#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -32,6 +40,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2122724004611997715#m",
    "ts": 1794931815,
    "id": "2122724004611997715#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "SpaceX just provided another $30 MILLION to help secure Brownsville's water future That brings the total to $70 MILLION already deposited toward its massive $220 MILLION commitment to water and wastewater infrastructure in South Texas Here's what the investment will support: • Expanding drinking water infrastructure across Brownsville and Cameron County • Recovering and treating wastewater for reuse as drinking water • Expanding groundwater treatment facilities and adding new wells • Adding approximately 18 MILLION gallons of water capacity per day • Reducing the region's dependence on the Rio Grande And this isn't just about supporting SpaceX's growing operations at Starbase These projects are designed to provide a more reliable, sustainable water supply for local communities for generations to come SpaceX isn't just building the future of spaceflight in South Texas It's also helping build the infrastructure that communities on Earth depend on",
+   "url": "https://nitter.kareem.one/XFreeze/status/2122723345225617654#m",
+   "ts": 1794931658,
+   "id": "2122723345225617654#m"
   },
   {
    "handle": "TheRundownAI",
@@ -160,15 +177,6 @@
    "id": "2122589089702813944#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Was good to see @lrocket & @HansKoenigsmann at the first ship catch Tesla Owners Silicon Valley (@teslaownersSV) \" @elonmusk really gets the best out of everybody, and that's why that company is so incredible.\" Tom Mueller Video — https://nitter.kareem.one/teslaownersSV/status/2122452622519230711#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122587577274237129#m",
-   "ts": 1794899288,
-   "id": "2122587577274237129#m"
-  },
-  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -203,15 +211,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2122566522094915765#m",
    "ts": 1794894268,
    "id": "2122566522094915765#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Jensen was demanding of his executives, yet consistently kind and supportive to individual contributors like me. Too many companies coddle their executives and shield them from accountability when things go wrong. Jensen did the opposite. I didn’t mind that my boss was demanding. All my previous bosses held me to the highest standards. Without them, I would not be where I am today.",
-   "url": "https://nitter.kareem.one/yunta_tsai/status/2122563749668167851#m",
-   "ts": 1794893607,
-   "id": "2122563749668167851#m"
   },
   {
    "handle": "Lingling_Wei",
