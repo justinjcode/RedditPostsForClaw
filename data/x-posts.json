@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-17T21:31:45Z",
+ "generated_at": "2026-11-17T21:42:36Z",
  "accounts_ok": [
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@simonw: all instances failed",
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 175,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "SHIPPING: Microsoft introduced seven MAI models at its Ignite event, including new systems for coding, cyber defense, image editing, live voice, and more. Highlights include: MAI Code 2: within a few points of Claude Opus 5.5 on coding benchmarks, for a twentieth of what Anthropic charges. MAI Image 2.7: moves to No. 1 on Artificial Analysis’ image editing board. MAI Cyber 2 Flash: ties GPT-6 Astra on a cybersecurity test, costing under 2% as much per task. Video",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2122805949203148959#m",
+   "ts": 1794951352,
+   "id": "2122805949203148959#m"
+  },
   {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
@@ -950,15 +959,6 @@
    "url": "https://nitter.kareem.one/claudeai/status/2120973994191094179#m",
    "ts": 1794514580,
    "id": "2120973994191094179#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "NEW: A third Jensen Huang affair has hit the timeline, Reuters reports.",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2120971665249112530#m",
-   "ts": 1794514025,
-   "id": "2120971665249112530#m"
   },
   {
    "handle": "Lingling_Wei",
