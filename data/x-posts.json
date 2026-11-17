@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-11-17T09:22:13Z",
+ "generated_at": "2026-11-17T09:30:07Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 175,
  "items": [
   {
@@ -86,6 +85,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2122572107116642664#m",
    "ts": 1794895600,
    "id": "2122572107116642664#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "我这几天替客户研究英伟达事件为什么短时间发酵这么快，预测未来政策走向的时候，才发现率先出来在媒体上严厉批评黄仁勋，让他引咎辞职，反复强调间谍说的几名独立专家，他们所属的智库和Anthropic是同一个金主。 我无意替黄仁勋辩护，但研究这些背后的弯弯绕绕确实是我的专长，而且很有意思。",
+   "url": "https://nitter.kareem.one/Tracy_Wen_Liu/status/2122567714950791623#m",
+   "ts": 1794894553,
+   "id": "2122567714950791623#m"
   },
   {
    "handle": "swyx",
@@ -896,15 +904,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2120841631842652406#m",
    "ts": 1794483023,
    "id": "2120841631842652406#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "小猫也是有脾气的，只能顺着毛发抚摸，逆向摸它就会发火 Video",
-   "url": "https://nitter.kareem.one/dixiob6717701/status/2120812176839741519#m",
-   "ts": 1794476000,
-   "id": "2120812176839741519#m"
   },
   {
    "handle": "ZichenWanghere",
