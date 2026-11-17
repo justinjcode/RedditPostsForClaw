@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-17T12:45:15Z",
+ "generated_at": "2026-11-17T12:57:24Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +10,9 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 175,
  "items": [
   {
@@ -31,6 +32,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2122653539205792156#m",
    "ts": 1794915015,
    "id": "2122653539205792156#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "BREAKING: South Korea’s Jin Air to introduce FREE Starlink Wi-Fi next month. Boeing 737-8 jets will be equipped first, bringing high-speed internet to more passengers. Korean Air and Asiana already have Starlink on 42 aircraft. Now it’s expanding to budget airlines.",
+   "url": "https://nitter.kareem.one/cb_doge/status/2122650084794048574#m",
+   "ts": 1794914191,
+   "id": "2122650084794048574#m"
   },
   {
    "handle": "elonmusk",
@@ -148,15 +158,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2122560774073901341#m",
    "ts": 1794892898,
    "id": "2122560774073901341#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I remember anabology (@anabology) Announcing the new solana:2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM @XMoney contest winners! At #1, winning $420.69 - \"You're Too Young to Remember\" by @DTM_lab Video — https://nitter.kareem.one/anabology/status/2122378146120880429#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122546702112735233#m",
-   "ts": 1794889543,
-   "id": "2122546702112735233#m"
   },
   {
    "handle": "Lingling_Wei",
