@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T17:19:48Z",
+ "generated_at": "2026-11-17T17:27:14Z",
  "accounts_ok": [
   "TheRundownAI",
   "ZichenWanghere",
@@ -104,6 +104,15 @@
    "url": "https://nitter.kareem.one/aiDotEngineer/status/2122706337641763147#m",
    "ts": 1794927603,
    "id": "2122706337641763147#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "it's a skill issue to use frontier LLMs to detect objects or do vision instead, if you use LLMs as vision interns you can train a detector for $6 that runs at little cost. but your agent is a bad vision intern, it only knows old models that are proprietary and makes rookie mistakes so I built something for it, I basically distilled myself for you to use🤝 I put my favorite models from keypoint detection to OCR as a tool for your agent to call and I also made an e2e object detection trainer (from labelling to VLM as a judge to training and eval) if you're interested in it and the results, my talk at @aiDotEngineer WF is finally out, you can watch it here inv.kareem.one/watch?v=dKcTBQzR… many thanks @swyx on the next post you can find the github repository, I also shipped decision model support and updated VLMs (LFM3, Qwen3.6/8) Link Skill issue: stop deploying vision language models, use them with... Merve Noyan wrote a book on vision language models and now wants de... youtube.com",
+   "url": "https://nitter.kareem.one/mervenoyann/status/2122700240922833075#m",
+   "ts": 1794926149,
+   "id": "2122700240922833075#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -707,15 +716,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2121695097674981849#m",
    "ts": 1794686505,
    "id": "2121695097674981849#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "inv.kareem.one/RjfbvDXpFls?is=iq8B… Link Building pi in a World of Slop — Mario Zechner All I wanted was a shitty coding agent that is truly mine. And I’d ... youtube.com",
-   "url": "https://nitter.kareem.one/badlogicgames/status/2121691821273395574#m",
-   "ts": 1794685723,
-   "id": "2121691821273395574#m"
   },
   {
    "handle": "simonw",
