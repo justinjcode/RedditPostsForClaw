@@ -1,15 +1,29 @@
 {
- "generated_at": "2026-11-17T00:21:19Z",
+ "generated_at": "2026-11-17T02:13:16Z",
  "count": 60,
  "subreddits_ok": [
   "LocalLLaMA",
   "MachineLearning",
-  "selfhosted"
+  "programming"
  ],
  "errors": [
-  "r/programming: all endpoints failed"
+  "r/selfhosted: all endpoints failed"
  ],
  "items": [
+  {
+   "subreddit": "programming",
+   "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+   "url": "https://www.reddit.com/r/programming/comments/1xy71dn/carnegie_mellon_is_putting_computer_science/",
+   "ts": 1794877810,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "MachineLearning",
+   "title": "Is anyone's AC playing the role of \"discussion moderator\" for ICLR? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xy6t7g/is_anyones_ac_playing_the_role_of_discussion/",
+   "ts": 1794877193,
+   "source": "Reddit"
+  },
   {
    "subreddit": "LocalLLaMA",
    "title": "Your daily dose of Qwopium:",
@@ -29,6 +43,13 @@
    "title": "Folding at Home & Tesserae",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xy2g9n/folding_at_home_tesserae/",
    "ts": 1794865947,
+   "source": "Reddit"
+  },
+  {
+   "subreddit": "LocalLLaMA",
+   "title": "Best MoE engine?",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xy0d5o/best_moe_engine/",
+   "ts": 1794861096,
    "source": "Reddit"
   },
   {
@@ -123,13 +144,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "programming",
-   "title": "Do Repeat Yourself",
-   "url": "https://www.reddit.com/r/programming/comments/1xxu2yo/do_repeat_yourself/",
-   "ts": 1794847101,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "selfhosted",
    "title": "Self-hosting Git with Forgejo while benefiting from GitHub's community — how do you manage both?",
    "url": "https://www.reddit.com/r/selfhosted/comments/1xxtro7/selfhosting_git_with_forgejo_while_benefiting/",
@@ -214,13 +228,6 @@
    "source": "Reddit"
   },
   {
-   "subreddit": "LocalLLaMA",
-   "title": "Did we hit a wall in context length?",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxn9c6/did_we_hit_a_wall_in_context_length/",
-   "ts": 1794829297,
-   "source": "Reddit"
-  },
-  {
    "subreddit": "programming",
    "title": "Ring programming language version 1.28 is released!",
    "url": "https://www.reddit.com/r/programming/comments/1xxmn7s/ring_programming_language_version_128_is_released/",
@@ -288,13 +295,6 @@
    "title": "ICLR did you post reminder of rebuttal response? [D]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xxbo56/iclr_did_you_post_reminder_of_rebuttal_response_d/",
    "ts": 1794789765,
-   "source": "Reddit"
-  },
-  {
-   "subreddit": "MachineLearning",
-   "title": "Hands-on ML Orchestration Tutorial with Airflow3 [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xxa13x/handson_ml_orchestration_tutorial_with_airflow3_p/",
-   "ts": 1794785281,
    "source": "Reddit"
   },
   {
