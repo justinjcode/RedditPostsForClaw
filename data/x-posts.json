@@ -1,9 +1,7 @@
 {
- "generated_at": "2026-11-17T18:10:51Z",
+ "generated_at": "2026-11-17T18:24:01Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +9,30 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 175,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "These models are extremely efficient, which you feel both in speed and cost",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2122754265043386520#m",
+   "ts": 1794939030,
+   "id": "2122754265043386520#m"
+  },
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "GPT-6.2 Sol & Astra are *finally* here. We've also expanded ultrafast to Pro 200 plans for GPT-6.2 Sol, it's my go-to model for most day to day things. OpenAI (@OpenAI) Some of you have been asking very politely. Some of you have just been asking. GPT-6.2 Astra and Sol are now available. Super efficient and built to perform where it counts—the real world. openai.com/index/introducing… Video — https://nitter.kareem.one/OpenAI/status/2122750124543926515#m",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2122753991000133943#m",
+   "ts": 1794938964,
+   "id": "2122753991000133943#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -1228,24 +1247,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118569441860723112#m",
    "ts": 1793941290,
    "id": "2118569441860723112#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "I can confidently say that humans were not very good at writing secure infrastructure. The endstate will be hypersecure infrastructure and software for all, but we're going to go through some turbulence before we reach that.",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2118569235953893573#m",
-   "ts": 1793941241,
-   "id": "2118569235953893573#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Generating*",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2118473288368406582#m",
-   "ts": 1793918365,
-   "id": "2118473288368406582#m"
   },
   {
    "handle": "bcherny",
