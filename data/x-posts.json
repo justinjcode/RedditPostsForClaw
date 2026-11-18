@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T12:56:13Z",
+ "generated_at": "2026-11-18T13:11:47Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +11,7 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 174,
  "items": [
@@ -266,6 +266,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2122862646265520150#m",
    "ts": 1794964870,
    "id": "2122862646265520150#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Trump and Xi will meet in Shenzhen Thursday. In today’s @ForeignAffairs , I argue that the so-called “detente” they struck a year ago is now under severe strain. Busan is cracking over rare earths, a new Democratic Congress will check Trump, and the Nvidia scandal is triggering new export controls. After a year of calm, we may be in for a period of tension. Beijing has used the detente to press its advantage. It is locking in its industrial leadership, coercing its neighbors, and keeping rare earth flows tight to keep the U.S. on a tight leash. Meanwhile, the U.S. has been accommodating. But Beijing is overreaching. If the United States believes Beijing will throttle rare earths no matter what it does, there is little reason for continued restraint. With the trade truce expiring January 10, time is running out for the two leaders to extend or preserve it. The meeting in Shenzhen, and the next one in Miami in December, are the last few opportunities to stabilize. -- A summary of the key points: 1) Chinese scholars see the current detente as temporary. Chen Dongxiao calls the detente a “tactical truce.” Wu Xinbo said it was “tactical stability” that is “neither sustainable nor solid.” And Shen Weizhong, a former Chinese foreign ministry official, says: “The more time we have, the better prepared we might be towards a final showdown on Taiwan or maybe another trade war.” 2) Chinese scholars believe China’s strength built the detente, not diplomacy. Wang Yong called the trade war",
+   "url": "https://nitter.kareem.one/RushDoshi/status/2122832791473971491#m",
+   "ts": 1794957752,
+   "id": "2122832791473971491#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -1049,15 +1058,6 @@
    "url": "https://nitter.kareem.one/CCG_org/status/2120755533925986408#m",
    "ts": 1794462495,
    "id": "2120755533925986408#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "Before the affair that now threatens his job as Nvidia’s chief executive, Jensen Huang was introduced to his future romantic interest, Alice Huang, by a Chinese businessman he’d known for a decade, Kang Wei. on.wsj.com/4Alea3g Link A Mystery Businessman Introduced Jensen Huang to His Paramour—Her Husband Kang Wei appeared to accept that his wife Alice Huang was in a romantic relationship and spoke openly of her closeness to the Nvidia chief. wsj.com",
-   "url": "https://nitter.kareem.one/WSJ/status/2120734420143419831#m",
-   "ts": 1794457461,
-   "id": "2120734420143419831#m"
   },
   {
    "handle": "simonw",
