@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-18T06:13:43Z",
+ "generated_at": "2026-11-18T06:34:17Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "🤗",
+   "url": "https://nitter.kareem.one/elonmusk/status/2122936119448764559#m",
+   "ts": 1794982387,
+   "id": "2122936119448764559#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -59,6 +67,15 @@
    "url": "https://nitter.kareem.one/alx/status/2122924222984958211#m",
    "ts": 1794979551,
    "id": "2122924222984958211#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "给你们营销号搞点新素材，别再整天发我过去的丑照了...",
+   "url": "https://nitter.kareem.one/MinakoOikawa/status/2122915154824438153#m",
+   "ts": 1794977389,
+   "id": "2122915154824438153#m"
   },
   {
    "handle": "elonmusk",
@@ -113,15 +130,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2122871410561593384#m",
    "ts": 1794966959,
    "id": "2122871410561593384#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Super intelligence will hack your limbic system Ted (@notmiramurati) imho, in the next 2 years 50%+ of what we watch will come from AI influencers Welcome @claudia_popstar by @anabology : the first AI influencer on unfair.so ! Made with @heyglif Video — https://nitter.kareem.one/notmiramurati/status/2122289604866802011#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122866559425384674#m",
-   "ts": 1794965803,
-   "id": "2122866559425384674#m"
   },
   {
    "handle": "swyx",
@@ -896,15 +904,6 @@
    "url": "https://nitter.kareem.one/VeraMBergen/status/2121433632875352374#m",
    "ts": 1794624167,
    "id": "2121433632875352374#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "@JensenHuang leaving @nvidia will not cause Pres. @ChingteLai to \"face questions about his government's relationship with the ⁠major technology ​giants and why voters should continue to have confidence in the ruling party\", and this is not a \"major lifeline loss for Taiwan\"...",
-   "url": "https://nitter.kareem.one/RossFeingold/status/2121271257434108281#m",
-   "ts": 1794585453,
-   "id": "2121271257434108281#m"
   },
   {
    "handle": "ZichenWanghere",
