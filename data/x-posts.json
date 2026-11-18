@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-18T11:57:10Z",
+ "generated_at": "2026-11-18T12:12:43Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 174,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "True Mogul (@SmartNotHard1) Elon Musk and Grimes found each other because they both independently made the same obscure joke about an AI thought experiment called Roko's Basilisk. Neither of them knew the other had made it. When they discovered the coincidence, Elon DM'd her. Their first real conversation lasted four hours. Roko's Basilisk is a philosophical thought experiment about a future AI that punishes anyone who didn't help create it. It's the kind of idea that maybe a few thousand people on Earth find interesting, let alone funny. Elon had tweeted a joke about it. Grimes had made a music video referencing it. Neither one was aware of the other's version. When someone pointed out the overlap, Elon messaged her. The conversation that followed wasn't flirting. It was two people discovering that their brains worked in the same strange way. AI, simulation theory, the future of consciousness, music as mathematics. Grimes later said she had never met anyone who could follow her thoughts at the speed she was thinking them. Their first public appearance together was the 2018 Met Gala. They arrived together and the internet lost its mind because nobody could figure out how the richest man in tech and an experimental musician from Montreal ended up in the same universe. The answer was simpler than anyone expected. They were both the kind of person who makes jokes about obscure AI philosophy at 2am and thinks that's normal. They didn't find each other through fame or fortune. The",
+   "url": "https://nitter.kareem.one/elonmusk/status/2123020499680981231#m",
+   "ts": 1795002505,
+   "id": "2123020499680981231#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -346,15 +356,6 @@
    "url": "https://nitter.kareem.one/anissagardizy8/status/2122796624082612339#m",
    "ts": 1794949129,
    "id": "2122796624082612339#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "After 34 days docked to the @Space_Station , the Dragon spacecraft supporting SpaceX’s 35th Commercial Resupply Services mission for @NASA is targeted to undock from the orbiting lab as soon as Wednesday, November 18 → spacex.com/launches/crs35",
-   "url": "https://nitter.kareem.one/SpaceX/status/2122793780810264837#m",
-   "ts": 1794948451,
-   "id": "2122793780810264837#m"
   },
   {
    "handle": "thsottiaux",
