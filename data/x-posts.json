@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-18T06:43:21Z",
+ "generated_at": "2026-11-18T07:01:16Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 175,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "btw every fucking time someone on this app tries to tell you “distribution is everything” it is just some room temperature iq midwit trying to sell you his distribution services and app chris olah got rich writing a blog. fucking hell how stupid do you have to be Vlad (@vladsvitanko) This guy's blog will be worth $17.8 billion in two days > studies math at the University of Toronto for 1 year > drops out at 18 > 2012: Peter Thiel pays him $100K to skip college (!!) > starts writing machine learning explainers on his personal blog > the posts spread through every ML lab on the planet > 2015: Google Brain hires him > 2018: leads a research team at OpenAI > 2021: leaves with 6 colleagues and co-founds Anthropic > Anthropic lists at $1.4 TRILLION in 2 days btw His name is Chris Olah, co-founder of Anthropic Zero degrees, just a good blog that did all the work for him Moral of the story: distribution is your biggest leverage — https://nitter.kareem.one/vladsvitanko/status/2122772209391354083#m",
+   "url": "https://nitter.kareem.one/swyx/status/2122944534229446791#m",
+   "ts": 1794984394,
+   "id": "2122944534229446791#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -157,6 +167,15 @@
    "url": "https://nitter.kareem.one/larsencc/status/2122836100792152411#m",
    "ts": 1794958541,
    "id": "2122836100792152411#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "Some weeks ago I spent time in Shenzhen with @CGTNOfficial in preparation for #APEC . I guest hosted a program that aimed to “explain” Shenzhen’s successful transformation by talking to academics, entrepreneurs, and officials. Attached is the result. I hope you agree with me",
+   "url": "https://nitter.kareem.one/berthofmanecon/status/2122826909612646751#m",
+   "ts": 1794956350,
+   "id": "2122826909612646751#m"
   },
   {
    "handle": "simonw",
@@ -807,15 +826,6 @@
    "id": "2122032217430032548#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "11,000 pull requests in one month. A revert rate around 0.5%. @poteto on the Grok Bot team's shipping pace at @spacexai . More contributors, daily stable releases, and an app that got faster. From AI Engineer Code Summit. Video",
-   "url": "https://nitter.kareem.one/aiDotEngineer/status/2121981562824564960#m",
-   "ts": 1794754803,
-   "id": "2121981562824564960#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -895,15 +905,6 @@
    "url": "https://nitter.kareem.one/VeraMBergen/status/2121433632875352374#m",
    "ts": 1794624167,
    "id": "2121433632875352374#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "This is a very silly analysis. Surprised @reuters @Wenyee_Lee publishes this. @nvidia is a US not a Taiwan company, and @JensenHuang didn't (at least publicly) meet Pres. Lai, most likely so as to avoid damaging Nvidia's relationships in China. reuters.com/world/asia-pacif…",
-   "url": "https://nitter.kareem.one/RossFeingold/status/2121271090244939847#m",
-   "ts": 1794585413,
-   "id": "2121271090244939847#m"
   },
   {
    "handle": "TheRundownAI",
