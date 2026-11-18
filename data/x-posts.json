@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-18T02:13:46Z",
+ "generated_at": "2026-11-18T02:29:11Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed"
+  "@swyx: all instances failed",
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 175,
  "items": [
@@ -104,6 +104,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2122818291144229075#m",
    "ts": 1794954295,
    "id": "2122818291144229075#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "BREAKING: SpaceX CFO Bret Johnsen says SpaceX is spending hundreds of millions of dollars to build a new clean water system for Brownsville. “We’re making dramatic positive impacts in the communities that we’re in, whether it’s the jobs, whether it’s the school systems, whether it’s the new parks. … Brownsville is now going to have a clean water system that we’re spending a couple hundred million dollars to put in place, this big desalinization plant. … These are huge benefits to communities … that didn’t have the funding otherwise to do so.” Video",
+   "url": "https://nitter.kareem.one/cb_doge/status/2122817361296371897#m",
+   "ts": 1794954073,
+   "id": "2122817361296371897#m"
   },
   {
    "handle": "elonmusk",
@@ -383,15 +392,6 @@
    "url": "https://nitter.kareem.one/pbeisel/status/2122697537693872373#m",
    "ts": 1794925505,
    "id": "2122697537693872373#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Gave the same task to Grok bot and OpenAI's Dot yesterday. Grok finished it in under 2 hours. Dot still has no clue what it's doing, it's completely frozen. If all that compute had gone into the subscription instead of Dot, the subscription would be worth a lot more.",
-   "url": "https://nitter.kareem.one/Da7_Tech/status/2122694607335235839#m",
-   "ts": 1794924806,
-   "id": "2122694607335235839#m"
   },
   {
    "handle": "TheRundownAI",
