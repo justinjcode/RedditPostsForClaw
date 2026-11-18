@@ -1,19 +1,47 @@
 {
- "generated_at": "2026-11-18T05:37:07Z",
+ "generated_at": "2026-11-18T05:48:29Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@bcherny: all instances failed"
+ ],
  "count": 176,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "It was the smartest of times It was the dumbest of times",
+   "url": "https://nitter.kareem.one/elonmusk/status/2122925042400895056#m",
+   "ts": 1794979746,
+   "id": "2122925042400895056#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "I wrote this 18 months ago Elon Musk (@elonmusk) To be clear here, the Verizon communication system to air traffic control is breaking down very rapidly. The FAA assessment is single digit months to catastrophic failure, putting air traveler safety at serious risk. The Starlink terminals are being sent at NO COST to the taxpayer on an emergency basis to restore air traffic control connectivity. The situation is extremely dire. Community note: Elon Musk corrected his statement: \"Correction: the ancient system that is rapidly declining in capability was made L3Harris. The new system that is not yet operational is from Verizon.\" nitter.kareem.one/elonmusk/statu — https://nitter.kareem.one/elonmusk/status/1895129237478162621#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2122924448861008163#m",
+   "ts": 1794979605,
+   "id": "2122924448861008163#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Four Years Ago Today, Elon Musk posted a poll asking 𝕏 if Donald Trump, who was banned by Twitter 1.0 as a sitting President, should be reinstated to the platform.",
+   "url": "https://nitter.kareem.one/alx/status/2122924222984958211#m",
+   "ts": 1794979551,
+   "id": "2122924222984958211#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -186,15 +214,6 @@
    "id": "2122812103442764244#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "🤦‍♂️ Eric Daugherty (@EricLDaugh) 🚨 JUST IN: Sec. Sean Duffy RESPONDS to Elon Musk saying he offered the Trump admin FREE Starlink for the FAA, but was turned down \"We thought that the best method is to have a network [that's] based on the ground.\" \"What he's doing with Starlink and the speed is remarkable — but our airspace is very big. We have assets everywhere, and so, we used him for different parts of the airspace.\" Here's what @ElonMusk said: \"Free Starlinks for FAA were offered to Sec Duffy, but he said they were not needed. As it turns out, they were.\" Video — https://nitter.kareem.one/EricLDaugh/status/2122791853502185953#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122810772967575759#m",
-   "ts": 1794952502,
-   "id": "2122810772967575759#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -238,15 +257,6 @@
    "url": "https://nitter.kareem.one/SpaceXAIMemphis/status/2122790486112948478#m",
    "ts": 1794947666,
    "id": "2122790486112948478#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "🚨SpaceX CFO Bret Johnsen: “I hope everyone's trying Grok Bot, it is amazing. It’s probably the best agentic AI solution out there. If you look at Grok Bot and the updates that are coming on the Grok model as well, and the coding capability of Cursor, we have a very diversified software portfolio that's just going to get better and better.” Video",
-   "url": "https://nitter.kareem.one/cb_doge/status/2122780502277140508#m",
-   "ts": 1794945285,
-   "id": "2122780502277140508#m"
   },
   {
    "handle": "elonmusk",
@@ -535,15 +545,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2122500307557265651#m",
    "ts": 1794878482,
    "id": "2122500307557265651#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Socialism vs Capitalism",
-   "url": "https://nitter.kareem.one/MAGAGEM1/status/2122498243699655165#m",
-   "ts": 1794877990,
-   "id": "2122498243699655165#m"
   },
   {
    "handle": "Lingling_Wei",
