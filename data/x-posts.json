@@ -1,20 +1,37 @@
 {
- "generated_at": "2026-11-18T05:48:29Z",
+ "generated_at": "2026-11-18T05:56:36Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "If you have Pro 200/500, I do recommend trying out 6.2 Sol ultrafast, it's quite the blast to use and a completely different feel. I'm excited to keep pushing in bringing these speeds to more users over time.",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2122929829863735594#m",
+   "ts": 1794980888,
+   "id": "2122929829863735594#m"
+  },
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "One of the funny reasons for the difference in vibes between the influencers and the crowd today on 6.2 Sol/Astra is that we gave a few folks access a while ago and then made a lot of changes in the last 3-4 days and I'm pretty sure no re-testing was done within those days and the videos were produced last week. Don't get me wrong, while the models are a hefty jump compared to their GPT predecessors, they are by no means perfect and there are a few things the teams are excited for the models to get better at in future iterations in terms of taste and niceness of use. Love all the feedback and we hear you!",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2122929634916679820#m",
+   "ts": 1794980841,
+   "id": "2122929634916679820#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -41,6 +58,15 @@
    "url": "https://nitter.kareem.one/alx/status/2122924222984958211#m",
    "ts": 1794979551,
    "id": "2122924222984958211#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "SpaceX Investors MUST Watch This Supercut from CFO's Epic Chat Today With @GavinSBaker Video",
+   "url": "https://nitter.kareem.one/stevenmarkryan/status/2122906392969232791#m",
+   "ts": 1794975300,
+   "id": "2122906392969232791#m"
   },
   {
    "handle": "elonmusk",
@@ -293,15 +319,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2122752662399500564#m",
    "ts": 1794938648,
    "id": "2122752662399500564#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Transformers have barely changed since the 1890s: copper coils in a tank of oil. Batteries, solar and compute run on DC. The grid runs on AC. Bridging the two has meant inverters plus transformers. Powercore is a solid-state transformer, breaker and inverter in one box. Finally, one conversion and about half the losses. Hats off to the Tesla power electronics engineers! Tesla Megapack (@Tesla_Megapack) Article The Future Runs on Powercore Powercore: The World’s Most Advanced Medium-Voltage Power Electronics Platform Building 100 GWh was the start Tesla Energy was started more than ten years ago to accelerate the world’s transition to — https://nitter.kareem.one/Tesla_Megapack/status/2122738271256211706#m",
-   "url": "https://nitter.kareem.one/MdeZegher/status/2122747456836587939#m",
-   "ts": 1794937407,
-   "id": "2122747456836587939#m"
   },
   {
    "handle": "swyx",
@@ -1265,24 +1282,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118871902366441879#m",
    "ts": 1794013402,
    "id": "2118871902366441879#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "More things to come, join our Cyber at the Frontier livestream on November 12, 10am PT: openai.com/cyber-at-the-fron… Link Cyber at the Frontier Join for the next era of cyber defense. openai.com",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2118802895604994463#m",
-   "ts": 1793996950,
-   "id": "2118802895604994463#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Formal proofs of tens of millions of lines of code are not a ridiculous thing anymore and within the realm of what should be considered when designing new systems.",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2118569441860723112#m",
-   "ts": 1793941290,
-   "id": "2118569441860723112#m"
   },
   {
    "handle": "bcherny",
