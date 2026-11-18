@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T21:47:27Z",
+ "generated_at": "2026-11-18T21:56:57Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -15,6 +15,15 @@
  ],
  "count": 175,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "NEW: Google launched Gemini 4 Neon, the middle model in its Gemini 4 lineup, beating Claude Opus 5.5 and GPT-6.2 Sol on 16 of 19 benchmarks in Google’s testing. Google puts Neon’s cost per task at roughly half to a fifth of rival frontier models, with API prices at $3/15 per million. Available now to Google AI Pro or Ultra subscribers.",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2123169908338884712#m",
+   "ts": 1795038127,
+   "id": "2123169908338884712#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -842,15 +851,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2122379979694707134#m",
    "ts": 1794849793,
    "id": "2122379979694707134#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "AI can now turn your brain scan into a picture of what you’re looking at And we're about 2 research papers away from recording dreams (!) Video",
-   "url": "https://nitter.kareem.one/rowancheung/status/2122371443791175752#m",
-   "ts": 1794847758,
-   "id": "2122371443791175752#m"
   },
   {
    "handle": "ZichenWanghere",
