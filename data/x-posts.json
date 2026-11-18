@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T16:08:41Z",
+ "generated_at": "2026-11-18T16:21:10Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -7,13 +7,23 @@
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@simonw: all instances failed"
+ ],
  "count": 174,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Pretty wild: Claude Opus 5.5 spent seven weeks running a one-agent “AI company” on Hugging Face for researchers at EPFL and Tübingen. The 38 models it trained have passed 50,000 downloads. The team’s report says it averaged under 20 minutes of work a day, timing its check-ins to Hugging Face’s daily download update around 10am UTC. 143 GitHub projects use its models, including an Android keyboard with over 1000 stars. Arthur Wuhrmann (@AWuhrmann) NEW ⚡: We let Opus 5.5 run an AI company for seven weeks. We gave it an HF account (Horizon-Labs) and compute, and asked it to earn real adoption by creating useful models. It reached 50k downloads and its models are being used in more than 100 GitHub projects. — https://nitter.kareem.one/AWuhrmann/status/2122706838005440651#m",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2123088063400140840#m",
+   "ts": 1795018614,
+   "id": "2123088063400140840#m"
+  },
   {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
@@ -841,15 +851,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2122291195116187917#m",
    "ts": 1794828625,
    "id": "2122291195116187917#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in AI today: - Musk, Nvidia staff rally to bring back Jensen Huang - The Rundown Roundtable: Our AI use cases - Turn a messy plan into a shared board - Report: OAI folds robotics team into core research",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2122291190175310218#m",
-   "ts": 1794828624,
-   "id": "2122291190175310218#m"
   },
   {
    "handle": "swyx",
