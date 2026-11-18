@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T09:20:42Z",
+ "generated_at": "2026-11-18T09:34:00Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -12,8 +12,17 @@
   "thsottiaux"
  ],
  "errors": [],
- "count": 175,
+ "count": 174,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "look around, look around, at how lucky we are/ to be alive right now",
+   "url": "https://nitter.kareem.one/swyx/status/2122983553541812630#m",
+   "ts": 1794993696,
+   "id": "2122983553541812630#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -130,15 +139,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2122872199623414175#m",
    "ts": 1794967148,
    "id": "2122872199623414175#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "True, Starship launches are incredibly exciting DogeDesigner (@cb_doge) 🚨 GAVIN BAKER: If you have children, if you have grandchildren, take them to see a Starship launch. It will change their life. It has a real impact on little kids. I'd say probably half of adults cry at a launch. You just cannot believe that humans could do something like this. It's pretty easy to go see a launch. You don't have to be invited by SpaceX. You can watch it from the town beach. Video — https://nitter.kareem.one/cb_doge/status/2122826833163112639#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122871410561593384#m",
-   "ts": 1794966959,
-   "id": "2122871410561593384#m"
   },
   {
    "handle": "swyx",
@@ -814,15 +814,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2122066060769952161#m",
    "ts": 1794774949,
    "id": "2122066060769952161#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "clanker wrote up the talk ai.engineer/code/2026/talks/… Link AI Engineer AI Engineer is the community and conference series for software engineers building with AI. Join thousands of AI engineers at our events worldwide. ai.engineer",
-   "url": "https://nitter.kareem.one/swyx/status/2122032217430032548#m",
-   "ts": 1794766880,
-   "id": "2122032217430032548#m"
   },
   {
    "handle": "ZichenWanghere",
