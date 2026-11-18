@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T21:56:57Z",
+ "generated_at": "2026-11-18T22:22:23Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,10 +11,28 @@
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed"
+  "@TheRundownAI: all instances failed"
  ],
- "count": 175,
+ "count": 176,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "ipo preshow prep! Latent.Space (@latentspacepod) ⚡️ $ANT IPOs tomorrow! We catch you up on everything we learned from the S-1 and the IPO roadshow. @tanayj talks us through the $9.9B compute and infrastructure bill and other deep dives. inv.kareem.one/wX8nDtGIfYA Thanks to all the positive feedback on the @jaminball pod. Good luck tomorrow Ants! Link ⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC Anthropic reported $17B in quarterly revenue. What did it cost to g... youtube.com — https://nitter.kareem.one/latentspacepod/status/2123162937309438117#m",
+   "url": "https://nitter.kareem.one/swyx/status/2123175292068086238#m",
+   "ts": 1795039410,
+   "id": "2123175292068086238#m"
+  },
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "GPT-6.2 Astra is pretty good at hard things. Here the team shared some results on AMD and Jalapeño chip optimizations. I do get the feedback on its communication style and we're working on that, but for really the hardest tasks in the world it does seem to be in a league of its own at the moment. OpenAI (@OpenAI) Working with @AMD , our models identified up to 14% PPA improvement on flagship GPU IP in less than five months—building on designs AMD’s engineers had already spent years optimizing. The same approach helped improve Jalapeño, our first custom inference chip, with gains verified on real silicon. New evaluations also show our models getting better at certain chip design tasks. We’re sharing these results and how we’re working with @Synopsys to bring our model capabilities and their trusted EDA design and validation tools to more chip designers. openai.com/index/advancing-c… — https://nitter.kareem.one/OpenAI/status/2123100386638877054#m",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2123175166519992652#m",
+   "ts": 1795039381,
+   "id": "2123175166519992652#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -1265,15 +1283,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118939076791546000#m",
    "ts": 1794029418,
    "id": "2118939076791546000#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Get me out of the basement poteto.com/ Tibo (@thsottiaux) It's Friday — https://nitter.kareem.one/thsottiaux/status/2118871902366441879#m",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2118938956301779171#m",
-   "ts": 1794029389,
-   "id": "2118938956301779171#m"
   },
   {
    "handle": "bcherny",
