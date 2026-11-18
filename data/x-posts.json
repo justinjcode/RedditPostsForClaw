@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-18T11:49:15Z",
+ "generated_at": "2026-11-18T11:57:10Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 174,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Is the Thucydides Trap ever avoidable? I wish it were, but, inevitably, the most interesting outcome is the most likely.",
+   "url": "https://nitter.kareem.one/elonmusk/status/2123017891167785201#m",
+   "ts": 1795001883,
+   "id": "2123017891167785201#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -248,15 +256,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2122862646265520150#m",
    "ts": 1794964870,
    "id": "2122862646265520150#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Big push underway from the US Supercharger team to open new sites before Thanksgiving travel. Thank you to the utilities and local inspectors keeping energizations of this critical infrastructure on track. Tesla Charging (@TeslaCharging) New Tesla Supercharger: Barstow, CA - 1540 East Main Street (16 stalls) tesla.com/findus?location=40… — https://nitter.kareem.one/TeslaCharging/status/2122826507454427399#m",
-   "url": "https://nitter.kareem.one/MdeZegher/status/2122839416591057223#m",
-   "ts": 1794959332,
-   "id": "2122839416591057223#m"
   },
   {
    "handle": "ZichenWanghere",
