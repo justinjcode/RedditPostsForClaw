@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-11-18T17:40:30Z",
+ "generated_at": "2026-11-18T17:58:17Z",
  "accounts_ok": [
-  "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -9,12 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 174,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Financial Times (@FT) SoftBank regrets ‘mistake’ of not backing Anthropic, says Son ft.trib.al/Hj4UO9s Link SoftBank regrets ‘mistake’ of not backing Anthropic, says Massayoshi Son Japanese tech group had already started to put money into arch-rival OpenAI ft.com — https://nitter.kareem.one/FT/status/2122984531292561751#m",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2123112188864762022#m",
+   "ts": 1795024365,
+   "id": "2123112188864762022#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -815,15 +824,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2122351524927975550#m",
    "ts": 1794843009,
    "id": "2122351524927975550#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in robotics today: - Tesla opens Cybercab to private buyers - Eric Trump-backed war robot startup misses payroll - Serve Robotics hands its robots an API - Robot dog takes real dog for a walk",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2122351519932555701#m",
-   "ts": 1794843008,
-   "id": "2122351519932555701#m"
   },
   {
    "handle": "ZichenWanghere",
