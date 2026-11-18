@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-18T01:40:22Z",
+ "generated_at": "2026-11-18T01:51:26Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 175,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Super intelligence will hack your limbic system Ted (@notmiramurati) imho, in the next 2 years 50%+ of what we watch will come from AI influencers Welcome @claudia_popstar by @anabology : the first AI influencer on unfair.so ! Made with @heyglif Video — https://nitter.kareem.one/notmiramurati/status/2122289604866802011#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2122866559425384674#m",
+   "ts": 1794965803,
+   "id": "2122866559425384674#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -168,6 +178,15 @@
    "id": "2122747622662222010#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Transformers have barely changed since the 1890s: copper coils in a tank of oil. Batteries, solar and compute run on DC. The grid runs on AC. Bridging the two has meant inverters plus transformers. Powercore is a solid-state transformer, breaker and inverter in one box. Finally, one conversion and about half the losses. Hats off to the Tesla power electronics engineers! Tesla Megapack (@Tesla_Megapack) Article The Future Runs on Powercore Powercore: The World’s Most Advanced Medium-Voltage Power Electronics Platform Building 100 GWh was the start Tesla Energy was started more than ten years ago to accelerate the world’s transition to — https://nitter.kareem.one/Tesla_Megapack/status/2122738271256211706#m",
+   "url": "https://nitter.kareem.one/MdeZegher/status/2122747456836587939#m",
+   "ts": 1794937407,
+   "id": "2122747456836587939#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -213,9 +232,9 @@
    "id": "2122732163942752316#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
    "text": "Over the past week, I’ve been overwhelmed by the love and support of friends, industry colleagues, and people I've never met. Thank you to everyone who has shown kindness to my family and me. It means the world to me. I came to the United States 53 years ago, and becoming an American citizen is one of the greatest gifts and proudest moments of my life. NVIDIA has been my life’s work. Building it into the company it is today alongside my colleagues has been a privilege and an honor. Nowhere but in America could a company like NVIDIA be possible. I love our country, and I love NVIDIA. I did not live up to the standards expected of everyone at NVIDIA, and I have made serious mistakes in my personal life. I created problems for the Board that I deeply regret. I own my mistakes completely, and I am committed to cooperating with the Board’s independent investigation. Since my departure, I’ve seen an outpouring of calls from NVIDIA’s employees, investors, business partners, and customers for me to return as CEO. Many continue to reach out to me directly as the company navigates complex technology, market, competitive, and geopolitical dynamics. NVIDIA is a once-in-a-generation company. If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I would be honored to answer these calls and return as CEO. Thank you again to everyone who has shared their good wishes. I am profoundly humbled by your support. To m",
    "url": "https://nitter.kareem.one/JensenHuang/status/2122726005219737649#m",
    "ts": 1794932292,
@@ -438,15 +457,6 @@
    "id": "2122517110874140702#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "最近硅谷两大佬因为马斯克吵翻了，结果老马亲自下场，一句话把全网看乐了。 先是著名反垄断评论家 Matt 泼冷水：SpaceX 算什么奇迹？马斯克根本不是天才，无非是会找华尔街搞钱，用钞票和工程师硬堆出来的。 这话连平时谁都不服的硅谷传奇程序员 DHH 都看不下去了，直接回怼：太酸了！哪怕你不喜欢马斯克，也得承认他“把吹过的牛变成现实”的能力举世无双。从特斯拉、脑机接口到 SpaceX，世上有一百万个会搞钱的投资人，但只有一个马斯克。 随后马斯克本尊下场，只回了一句灵魂反问：“行，那你给我解释一下蓝色起源、波音和 ULA？” 这一刀，直接捅在了“唯金钱论”的肺管子上。 如果光靠砸钱就能上天，那现在的太空霸主绝不可能是 SpaceX： 1、 比谁更有钱？ 贝索斯的蓝色起源比 SpaceX 早成立两年，背后站着前世界首富，从来不缺钱，结果到现在还在努力追赶。 2、 比谁补贴多？ NASA 当年搞载人航天，同一个任务，给波音砸了 42 亿美元，给 SpaceX 只给了 26 亿。结果 SpaceX 从 2020 年就开始像公交车一样送宇航员上天，波音的飞船却连宇航员都接不回来，最后还得靠 SpaceX 去救场。 3、 比华尔街输血？ SpaceX 起步根本没有华尔街一分钱，全是马斯克卖掉 PayPal 后自己掏的 1 亿美元家底。猎鹰 1 号连炸三次后差点破产，第四次才绝处逢生。 DHH 说得太对了：钱能买来顶级工程师，但买不来“不怕炸火箭”的魄力。 看看星舰第 15 次试飞（Flight 15）就懂了：同一个任务里，助推器在海里丢了，但飞船却从轨道返航、被发射塔的“机械筷子”稳稳夹住。 放在传统航天巨头那里，“丢了助推器”这半句话，就够他们停飞开两年的事故批斗会了；但在 SpaceX，这只是通往成功的又一组实验数据。 @elonmusk 说实话，到底哪个更难造：是一枚能上天的火箭，还是一家“允许工程师靠炸火箭来试错”的公司？ Elon Musk (@elonmusk) Let’s take this gentleman’s argument at face value that anyone can throw money at rockets and get something like Starship, Falcon or Dragon. Perhaps he can explain to everyone how SpaceX is able to catch giant starships from orbit with chopsticks and deliver 85% of all Earth payload to orbit with Falcon, while Blue Origin, which started before SpaceX and was funded by the immensely wealthy Jeff Bezos, is not yet able to launch reliably? Also, why is it that Boeing and Lockheed received several times what SpaceX did from the government for development of their rockets and spacecraft, but the Boeing capsule is still not operational and ULA delivers",
-   "url": "https://nitter.kareem.one/ZhouTalks/status/2122513599998677298#m",
-   "ts": 1794881651,
-   "id": "2122513599998677298#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -616,15 +626,6 @@
    "url": "https://nitter.kareem.one/aiDotEngineer/status/2122366588582015138#m",
    "ts": 1794846601,
    "id": "2122366588582015138#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The first two features Matt Palmer walks through in his What's new in Grok Bot 1.0 video this morning, Team Bot improvements and bots that join your meetings, are the same two things I asked for right here on X. On August 30 I wrote that we need to be able to share Grok Bots across teams, and Elon replied \"Coming soon.\" On October 25 I suggested the Grok Bot team let my bot join a Zoom or Teams call with me, or for me, and Elon replied \"This might be possible.\" Meetings started switching on for users less than two weeks later, and now both features lead the 1.0 release. That says a lot about how responsive this team is. A user describes a need, Elon weighs in himself, and within weeks it is in the product and getting better. Any bot can now become a Team Bot at the flip of a switch, you choose exactly who it is shared with, and a new analytics tab shows the hours it has saved. In a meeting, the bot listens, answers in the chat and picks up spoken instructions, pulling what you need from your connected tools while the meeting is still going. The tempo of Grok Bot's evolution is extraordinary. And these are only two of the many new features in 1.0, so watch Matt's video to see just how fast Grok Bot is improving. I'm grateful to Matt, the team and Elon for listening. My original asks: nitter.kareem.one/TeslaLarry/status/2094… and nitter.kareem.one/TeslaLarry/status/2114… matt palmer (@mattyp) What's new in Grok Bot 1.0 🚀 00:45 Team Bot improvements 01:47 Bots join your meetings",
-   "url": "https://nitter.kareem.one/TeslaLarry/status/2122365160308547836#m",
-   "ts": 1794846260,
-   "id": "2122365160308547836#m"
   },
   {
    "handle": "TheRundownAI",
