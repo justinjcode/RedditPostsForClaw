@@ -1,20 +1,28 @@
 {
- "generated_at": "2026-11-18T14:23:09Z",
+ "generated_at": "2026-11-18T14:29:57Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@simonw: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 174,
  "items": [
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Heard on the Street: Nvidia's interim CEO has a daunting job. She also has a tremendous head start.",
+   "url": "https://nitter.kareem.one/AaronBack/status/2123050067359895724#m",
+   "ts": 1795009555,
+   "id": "2123050067359895724#m"
+  },
   {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
@@ -86,6 +94,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2123001032494199047#m",
    "ts": 1794997864,
    "id": "2123001032494199047#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Here is an early look at today's Wall Street Journal on.wsj.com/4j10OSI",
+   "url": "https://nitter.kareem.one/WSJ/status/2123000819884646597#m",
+   "ts": 1794997813,
+   "id": "2123000819884646597#m"
   },
   {
    "handle": "swyx",
@@ -1031,24 +1048,6 @@
    "url": "https://nitter.kareem.one/claudeai/status/2120973994191094179#m",
    "ts": 1794514580,
    "id": "2120973994191094179#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "Talk about Chinese transactional relationships: Alice Huang, the alleged Chinese spy whose affair with Nvidia’s Jensen Huang led to his downfall, was introduced to the Nvidia CEO by her husband. @Lingling_Wei wsj.com/tech/ai/a-mystery-bu… Link A Mystery Businessman Introduced Jensen Huang to His Paramour. It Was Her Husband. Kang Wei appeared to accept that his wife Alice Huang was in a romantic relationship and spoke openly of her closeness to the Nvidia chief. wsj.com",
-   "url": "https://nitter.kareem.one/bobdavis187/status/2120900828756357322#m",
-   "ts": 1794497136,
-   "id": "2120900828756357322#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "NEW: Former Nvidia CEO Jensen Huang's team informed House Republicans on Wednesday that he plans to cooperate with their request to testify behind closed doors after being pressed for answers about his relationship with a woman suspected of being a Chinese spy. Still unclear whether Huang will follow through post his resignation. No word back yet from Huang's team.",
-   "url": "https://nitter.kareem.one/schwartzbWSJ/status/2120892194655543455#m",
-   "ts": 1794495078,
-   "id": "2120892194655543455#m"
   },
   {
    "handle": "ZichenWanghere",
