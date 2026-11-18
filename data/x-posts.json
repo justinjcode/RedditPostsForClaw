@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T01:30:23Z",
+ "generated_at": "2026-11-18T01:40:22Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 175,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "the fact that nobody with decisionmaking power saw this coming a mile away and vetoed the 6.2 astra ad is my primary critique of the astra launch the model itself is solid minor version improvement guys, efficiency is one of the three most impt RL objectives rn and they are world leading here!!! i am daily driving astra and it is the best workflow automation model i’ve used, no longer getting stuck in horrible loops and efficiently learning thru compactions and skill writing. it’s running a lot of our content publishing pipeline for @latentspacepod and @aiDotEngineer and we wouldnt have nearly the revenue efficiency (>1m/employee) that we have as a bootstrapped business without it Brian Lovin (@brian_lovin) Yeah but your framing is already better than what's in the ad. The ad shows people who are totally disengaged from their work having a panic attack at the moment an authority figure arrives, then slopping out something that they neither care about or understand. — https://nitter.kareem.one/brian_lovin/status/2122766570590278042#m",
+   "url": "https://nitter.kareem.one/swyx/status/2122862646265520150#m",
+   "ts": 1794964870,
+   "id": "2122862646265520150#m"
+  },
   {
    "handle": "simonw",
    "name": "Simon Willison",
@@ -760,15 +769,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2122032217430032548#m",
    "ts": 1794766880,
    "id": "2122032217430032548#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "clanker wrote up a short recap of the talk ai.engineer/code/2026/talks/… Link AI Engineer AI Engineer is the community and conference series for software engineers building with AI. Join thousands of AI engineers at our events worldwide. ai.engineer",
-   "url": "https://nitter.kareem.one/swyx/status/2122031563961684032#m",
-   "ts": 1794766724,
-   "id": "2122031563961684032#m"
   },
   {
    "handle": "swyx",
