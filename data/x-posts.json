@@ -1,19 +1,29 @@
 {
- "generated_at": "2026-11-18T13:54:41Z",
+ "generated_at": "2026-11-18T14:12:31Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@swyx: all instances failed",
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 174,
  "items": [
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Xi Jinping returns the favor that Trump afforded him earlier this year at Joint Base Andrews — greeting Trump on the tarmac in Shenzhen: Jack Posobiec (@JackPosobiec) BREAKING: Xi Jinping personally greets President Trump at Air Force One in Shenzhen, China with massive fanfare @RealAmVoice @HumanEvents Video — https://nitter.kareem.one/JackPosobiec/status/2122980240674988381#m",
+   "url": "https://nitter.kareem.one/JulianGewirtz/status/2123021799784919349#m",
+   "ts": 1795002815,
+   "id": "2123021799784919349#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1039,15 +1049,6 @@
    "url": "https://nitter.kareem.one/schwartzbWSJ/status/2120892194655543455#m",
    "ts": 1794495078,
    "id": "2120892194655543455#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "NVIDIA announces CEO transition. Read the release: nvidianews.nvidia.com/news/n… Link NVIDIA Announces CEO Transition NVIDIA (NASDAQ: NVDA) Board of Directors announced today that Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately. nvidianews.nvidia.com",
-   "url": "https://nitter.kareem.one/nvidianewsroom/status/2120876571829662014#m",
-   "ts": 1794491353,
-   "id": "2120876571829662014#m"
   },
   {
    "handle": "ZichenWanghere",
