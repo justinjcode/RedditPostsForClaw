@@ -1,17 +1,18 @@
 {
- "generated_at": "2026-11-18T22:55:40Z",
+ "generated_at": "2026-11-18T23:11:47Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@bcherny: all instances failed"
+ ],
  "count": 176,
  "items": [
   {
@@ -409,6 +410,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2122862646265520150#m",
    "ts": 1794964870,
    "id": "2122862646265520150#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "On the outskirts of Xi’an, “a property bust has drained local coffers, and ordinary people are last in line to be paid…‘The government doesn’t have the money to pay what it owes. Even a clever cook can’t make a meal without rice.’” @S_Rabinovitch economist.com/china/2026/11/… Link A lone protester highlights the pain from China’s property bust “Excavator man” will not spark a popular movement, but his actions expose a deep malaise economist.com",
+   "url": "https://nitter.kareem.one/JChengWSJ/status/2122842471214276688#m",
+   "ts": 1794960060,
+   "id": "2122842471214276688#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -958,15 +968,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2121845965997101118#m",
    "ts": 1794722474,
    "id": "2121845965997101118#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Ted Plafker arrived in China in 1989, and planned to remain a few weeks and return to America to find work as a journalist. He ended up staying, and became a mainstay of The Economist’s China coverage. We remember our colleague economist.com/china/2026/11/… Link Ted Plafker, a stalwart of our China coverage, has died He was a giant among Western journalists in the country economist.com",
-   "url": "https://nitter.kareem.one/TheEconomist/status/2121765137640014240#m",
-   "ts": 1794703203,
-   "id": "2121765137640014240#m"
   },
   {
    "handle": "simonw",
