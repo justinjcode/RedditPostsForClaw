@@ -1,20 +1,28 @@
 {
- "generated_at": "2026-11-18T19:32:05Z",
+ "generated_at": "2026-11-18T19:37:52Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 174,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "NEW: Pika teased Enact, a research preview that lets users direct an AI-generated scene while it plays. The directing experience includes dragging actors around via mouse, giving them notes out loud, changing the scene, and steering the camera. Each actor is a separate AI agent with its own personality that can keep track of feedback from earlier takes. Video",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2123135338822656387#m",
+   "ts": 1795029885,
+   "id": "2123135338822656387#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -824,15 +832,6 @@
    "url": "https://nitter.kareem.one/aiDotEngineer/status/2122366588582015138#m",
    "ts": 1794846601,
    "id": "2122366588582015138#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: robotnews.therundown.ai/p/te… Link Tesla's Cybercab can now be yours, sort of PLUS: Robot dogs now walk actual dogs robotnews.therundown.ai",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2122351524927975550#m",
-   "ts": 1794843009,
-   "id": "2122351524927975550#m"
   },
   {
    "handle": "ZichenWanghere",
