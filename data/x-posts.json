@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-18T10:19:17Z",
+ "generated_at": "2026-11-18T10:30:55Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 174,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Prufrock X Freeze (@XFreeze) The Boring Company is rapidly scaling up its Music City Loop project in Nashville Prufrock-MB3 has officially arrived, becoming the THIRD tunnel-boring machine for the network And Prufrock-MB4 is expected to arrive within the next 8 weeks TBC is now hiring across: • Engineering • Operations • Welding • Maintenance • Electrical • Facilities • Safety • Security Hiring event: Tuesday, November 24 With more tunneling machines arriving and the team expanding, Music City Loop is picking up serious momentum Apply here: boringcompany.com/applynashv… — https://nitter.kareem.one/XFreeze/status/2122924757461160119#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2122995454560587952#m",
+   "ts": 1794996534,
+   "id": "2122995454560587952#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -150,15 +160,6 @@
    "id": "2122898321044127878#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok @Bot can do your accounting Grok Bot (@bot) Five Bots now have full-time roles on our accounting team. We onboard, train, and manage them just like human teammates. Here's how we built them to handle the order-to-cash process, from provisioning customer accounts to collecting payments. x.ai/news/grok-bot-accountin… Link Building an accounting team with Grok Bot Five Grok Bots at SpaceXSI each own an accounting job end to end, from provisioning a customer account to collecting payment. They only involve a person when the work needs judgment. x.ai — https://nitter.kareem.one/bot/status/2122771386456551516#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122891480729829482#m",
-   "ts": 1794971745,
-   "id": "2122891480729829482#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -229,15 +230,6 @@
    "url": "https://nitter.kareem.one/rowancheung/status/2122821908680860146#m",
    "ts": 1794955157,
    "id": "2122821908680860146#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "BREAKING: SpaceX CFO Bret Johnsen shares a heartwarming story of Gwynne Shotwell’s visit to Brazil and how @Starlink changed the lives of schoolchildren. “Gwynne went down when we turned on Starlink service in Brazil, right down by the Amazon, to a community that had never had any connectivity at all and was out there with the head of the school system there … you’re bringing all of the knowledge of the world when you bring the Internet, right? Bringing the Internet to these kids, and it just, it was just very exciting to dramatically change that community.” Video",
-   "url": "https://nitter.kareem.one/cb_doge/status/2122821710185672735#m",
-   "ts": 1794955110,
-   "id": "2122821710185672735#m"
   },
   {
    "handle": "swyx",
@@ -427,6 +419,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2122714166574129556#m",
    "ts": 1794929470,
    "id": "2122714166574129556#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "While critics focus on turnover, look at the senior leaders who have chosen to stay with Elon Musk for decades: • Gwynne Shotwell — SpaceX President & COO, 24 years (joined 2002) • Brian Bjelde — SpaceX SVP HR & Operations, 23 years (employee #14, joined 2003) • Jon Edwards — SpaceX SVP Falcon & Dragon, 22 years (joined 2004) • Mark Juncosa — SpaceX VP Vehicle Engineering, 21 years • Tim Hughes — SpaceX SVP Global Business & Government Affairs, 21 years • Franz von Holzhausen — Tesla Chief Designer, 18 years (since 2008) • Lars Moravy — Tesla VP Vehicle Engineering, 16 years (since 2010) • Kiko Dontchev — SpaceX VP of Launch, 16 years (joined 2010) • Bret Johnsen — SpaceX CFO, 15 years (since 2011) • Tom Zhu — Tesla SVP Automotive, 12 years (since 2014) • Ashok Elluswamy — Tesla VP of AI Software, 12 years (first Autopilot engineer, 2014) • Charles Kuehmann — VP Materials Engineering at both Tesla & SpaceX, 11 years (since 2015) These are not short-term hires. They are the most experienced people in their companies who have stayed through near-bankruptcies, intense pressure, and constant outside criticism. The longer the tenure, the clearer the pattern: top talent keeps choosing to work with Elon Musk.",
+   "url": "https://nitter.kareem.one/TheCaptainEli/status/2122710679022965024#m",
+   "ts": 1794928638,
+   "id": "2122710679022965024#m"
   },
   {
    "handle": "swyx",
