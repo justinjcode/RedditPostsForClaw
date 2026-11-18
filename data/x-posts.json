@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-18T17:58:17Z",
+ "generated_at": "2026-11-18T18:13:13Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -11,10 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed"
+  "@bcherny: all instances failed"
  ],
  "count": 174,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "How is 6.2 Sol treating you today?",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2123113107048501273#m",
+   "ts": 1795024584,
+   "id": "2123113107048501273#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -1256,15 +1265,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2118938956301779171#m",
    "ts": 1794029389,
    "id": "2118938956301779171#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "It's Friday",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2118871902366441879#m",
-   "ts": 1794013402,
-   "id": "2118871902366441879#m"
   },
   {
    "handle": "bcherny",
