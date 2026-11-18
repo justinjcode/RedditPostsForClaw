@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-11-18T21:12:58Z",
+ "generated_at": "2026-11-18T21:18:41Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 174,
  "items": [
   {
@@ -41,6 +40,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2123135338822656387#m",
    "ts": 1795029885,
    "id": "2123135338822656387#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starlink Mobile is now available in Mongolia with @mobicomofficial ! For the first time, phones in areas without cell signal will automatically connect to our satellites, enabling customers to share updates via messaging apps and SMS 🛰️📱 mobicom (@MobicomOfficial) mobispace — Connecting beyond limits... Mobicom Corporation, in partnership with Starlink Mobile, has officially launched mobispace. @Starlink Mobispace is a new service that uses Starlink’s satellite technology to help users stay connected on their phones in areas where traditional mobile network coverage is unavailable. Coverage works best with a clear view of the sky. (Please note that the service is not available in areas near the border.) Service features: Send and receive SMS messages Use data (Access selected apps at limited speeds) How to activate? Activate the service through the mobispace menu in the mobicom app, or text “space” to 592. 🎁 Activate before December 1 and use the service free for the first month! Please note: To use the service, your mobile device must support 4G or above, and Data Roaming must be enabled. 🔗 Learn more: mobicom.mn/service/r7bu306ve… 📍 Darkhad Valley, northwestern Khuvsgul Province — https://nitter.kareem.one/MobicomOfficial/status/2122545422103384397#m",
+   "url": "https://nitter.kareem.one/Starlink/status/2123132631596556767#m",
+   "ts": 1795029239,
+   "id": "2123132631596556767#m"
   },
   {
    "handle": "thsottiaux",
@@ -302,15 +310,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2122925042400895056#m",
    "ts": 1794979746,
    "id": "2122925042400895056#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I wrote this 18 months ago Elon Musk (@elonmusk) To be clear here, the Verizon communication system to air traffic control is breaking down very rapidly. The FAA assessment is single digit months to catastrophic failure, putting air traveler safety at serious risk. The Starlink terminals are being sent at NO COST to the taxpayer on an emergency basis to restore air traffic control connectivity. The situation is extremely dire. Community note: Elon Musk corrected his statement: \"Correction: the ancient system that is rapidly declining in capability was made L3Harris. The new system that is not yet operational is from Verizon.\" nitter.kareem.one/elonmusk/statu — https://nitter.kareem.one/elonmusk/status/1895129237478162621#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122924448861008163#m",
-   "ts": 1794979605,
-   "id": "2122924448861008163#m"
   },
   {
    "handle": "elonmusk",
