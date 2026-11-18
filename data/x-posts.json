@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T19:49:03Z",
+ "generated_at": "2026-11-18T19:56:37Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -7,14 +7,22 @@
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@simonw: all instances failed"
- ],
+ "errors": [],
  "count": 174,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "third party review Rick Blalock (@rblalock) @cognition Just launched their Bots product and it’s pretty great. Here’s a super detailed friction log of the few days I’ve had with it this far: rickblalock.dev/scratch-note… Link Learnings from moving my Grok Bots to Devin Bots | Scratch Notes What worked, what got in the way, and why I ended up using both. rickblalock.dev — https://nitter.kareem.one/rblalock/status/2122891881059373074#m",
+   "url": "https://nitter.kareem.one/swyx/status/2123141337314988384#m",
+   "ts": 1795031315,
+   "id": "2123141337314988384#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -869,15 +877,6 @@
    "url": "https://nitter.kareem.one/Noahpinion/status/2122267469268328711#m",
    "ts": 1794822969,
    "id": "2122267469268328711#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "for scale that is a 52m/171ft/15 story tall giant rocket flipping through the air and landing ready for reuse projected to lower payload launch cost from $2000/kg to $200/kg. reusability maybe the most important advancement in spaceflight likely in our lifetimes…. and THERE WERE FREAKING HORSES running in the foreground just to make it more epic lol Video",
-   "url": "https://nitter.kareem.one/swyx/status/2122236664408084526#m",
-   "ts": 1794815624,
-   "id": "2122236664408084526#m"
   },
   {
    "handle": "thsottiaux",
