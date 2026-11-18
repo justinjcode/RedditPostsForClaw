@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T09:55:52Z",
+ "generated_at": "2026-11-18T10:10:06Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -33,6 +33,15 @@
    "id": "2122983553541812630#m"
   },
   {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "Just heard Jake Sullivan on @RestIsPolitics say that China was extremely reluctant to greenlight the Xi-Trump-Putin tripartite meeting and tried to wiggle out of it at first or to minimize it to reading out some pre-prepared statements. Apparently China “kind of got jammed into” a meeting they didn’t want. The meeting of the big 3 is what Trump and Putin loves but goes against China’s multilateral narrative. They are going to “downplay it while Trump and Putin do their best to play it up.” China, said Sullivan, is kinda ok with the G2 because it’s a way to signal to America’s allies that they need to just sit down and take Americas lead. But going from G2 to G3 “is much more awkward and complicated for them.” Dunno how much of this is solid but something to think about.",
+   "url": "https://nitter.kareem.one/AngelicaOung/status/2122967843616813409#m",
+   "ts": 1794989951,
+   "id": "2122967843616813409#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -40,6 +49,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2122944534229446791#m",
    "ts": 1794984394,
    "id": "2122944534229446791#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Hearing the @united CEO Scott Kirby on @CheekyPint telling @collision that the primary constraint on commercial aviation in the US is ATC slots drives me crazy. There are at most about 5000 flights occurring at any one time over the entire US. There are about 30 usable flight levels in alpha airspace, and you can deconflict 100x more flights than this with a single toothbrush CPU ( FAA.caseyhandmer.com ). In terms of physical space, there's enough room to fly every man woman and child in the US simultaneously. Look up. Does the sky seem crowded? There were plans to automate ATC using the first Iridium constellation more than 30 years ago. At some point we have to have a serious conversation about rent takings by obsolete incumbents that are blocking entire percentage points of economic growth. Link US air traffic control on a toothbrush CPU 5,000 aircraft, every pair checked every 5 seconds, on the 160 MHz chip in a Wi-Fi toothbrush. About 48 ms per solve: 100× headroom. faa.caseyhandmer.com Elon Musk (@elonmusk) I wrote this 18 months ago — https://nitter.kareem.one/elonmusk/status/2122924448861008163#m",
+   "url": "https://nitter.kareem.one/CJHandmer/status/2122937091218981083#m",
+   "ts": 1794982619,
+   "id": "2122937091218981083#m"
   },
   {
    "handle": "elonmusk",
@@ -229,15 +247,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2122818291144229075#m",
    "ts": 1794954295,
    "id": "2122818291144229075#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "BREAKING: SpaceX CFO Bret Johnsen says SpaceX is spending hundreds of millions of dollars to build a new clean water system for Brownsville. “We’re making dramatic positive impacts in the communities that we’re in, whether it’s the jobs, whether it’s the school systems, whether it’s the new parks. … Brownsville is now going to have a clean water system that we’re spending a couple hundred million dollars to put in place, this big desalinization plant. … These are huge benefits to communities … that didn’t have the funding otherwise to do so.” Video",
-   "url": "https://nitter.kareem.one/cb_doge/status/2122817361296371897#m",
-   "ts": 1794954073,
-   "id": "2122817361296371897#m"
   },
   {
    "handle": "elonmusk",
@@ -1129,15 +1138,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2120258951594037732#m",
    "ts": 1794344101,
    "id": "2120258951594037732#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "狗子的人脉 Video",
-   "url": "https://nitter.kareem.one/eryang666/status/2120205785154388462#m",
-   "ts": 1794331425,
-   "id": "2120205785154388462#m"
   },
   {
    "handle": "simonw",
