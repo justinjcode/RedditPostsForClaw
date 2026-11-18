@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-18T09:38:41Z",
+ "generated_at": "2026-11-18T09:49:51Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 174,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The machines of @boringcompany were named after: Waiting for Godot A Line-storm Song The Love Song of J. Alfred Prufrock",
+   "url": "https://nitter.kareem.one/elonmusk/status/2122987306923733063#m",
+   "ts": 1794994591,
+   "id": "2122987306923733063#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -130,15 +140,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2122891480729829482#m",
    "ts": 1794971745,
    "id": "2122891480729829482#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok @Bot can save you millions in corporate expenses! It will research every expenditure, evaluate its necessity and find better deals on the Internet or by calling suppliers on the phone directly. DogeDesigner (@cb_doge) BREAKING: SpaceXSI cuts invoicing time from 24 hours to minutes with Grok Bot. Five specialized Grok Bots are now handling entire accounting jobs at SpaceXSI, with people stepping in for decisions and approvals: • Customer accounts: Checks signed contracts, sets up customer access and removes access after contracts end. • Billing: Checks contract details, catches errors and sends invoices—reducing the process from roughly 24 hours to minutes. • Billing support: Answers questions and updates billing records. SpaceXSI estimates this bot alone saves its accounting team around 8 hours of work a day. • Payments: Matches incoming payments to invoices and investigates differences. Work that normally takes an accountant 3–4 hours now takes roughly 30 minutes. • Customer inquiries: Answers customer billing questions and coordinates requests such as refunds, which still require human approval. SpaceXSI estimates that handling this workload without Grok Bot would require more than doubling its accounting team. Its accountants can now focus on improving systems and resolving complex issues. SpaceXSI is showing how powerful Grok Bot can be for businesses: faster work, less time spent on routine tasks and more time for people to focus on what needs their expertise. — htt",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122872199623414175#m",
-   "ts": 1794967148,
-   "id": "2122872199623414175#m"
   },
   {
    "handle": "swyx",
