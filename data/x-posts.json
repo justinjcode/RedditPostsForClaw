@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-18T16:47:12Z",
+ "generated_at": "2026-11-18T16:56:55Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 174,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "NEW: The Center for AI Safety launched a public statement against Anthropic ahead of its IPO, saying it is \"not a safe AI company.\" Signatories so far include Harvard psychologist Steven Pinker, Hugging Face co-founder Thomas Wolf, xAI co-founder Igor Babuschkin, and two Nobel laureates.",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2123095009138233608#m",
+   "ts": 1795020270,
+   "id": "2123095009138233608#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -842,15 +850,6 @@
    "url": "https://nitter.kareem.one/dunne_insights/status/2122322203148685667#m",
    "ts": 1794836018,
    "id": "2122322203148685667#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: therundownai.beehiiv.com/p/j… Link Jensen Huang weighs a comeback at Nvidia Nvidia employees and tech leaders are petitioning for Jensen Huang's return, with 130k+ signatures and Elon Musk backing the push. Here's what's behind the backlash. therundownai.beehiiv.com",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2122291195116187917#m",
-   "ts": 1794828625,
-   "id": "2122291195116187917#m"
   },
   {
    "handle": "swyx",
