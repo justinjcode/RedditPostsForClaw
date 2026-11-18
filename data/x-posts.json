@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T21:28:05Z",
+ "generated_at": "2026-11-18T21:36:32Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -12,8 +12,35 @@
   "thsottiaux"
  ],
  "errors": [],
- "count": 174,
+ "count": 175,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "my first startup and first love @netlify is refounding for the ai age with some very impressive growth stats despite a low aeo ranking. really impressed by @biilmann who has led the company through some tough days but never gave up (unlike me) and is coming out the other end with a much stronger business. always grateful to Netlify for giving me my first big break as a technical writer/speaker, but wow this kind of tenacity you need to be a decade+ founder in tech piloting a ship while pivoting adroitly is 99.99% percentile in people i have ever come across in the valley questions i would have ask (behind paywall probably but eh): 1. why arent they using vercel/chatgpt sites/ant artifacts/cloudflare? 2. how does the spend breakdown? 3. how do accounts grow for these nontechnical builders? is there graduation risk (only once bill gets >$1k i get serious about auditing) Alex Konrad (@alexrkonrad) Last week, Netlify enjoyed its first day with 100,000 new signups, most of them new to AI and building software. After taking 5 years to reach 1M users, Netlify doubled to 10M by this past January, and expects to reach 25M by year's end 👀 — https://nitter.kareem.one/alexrkonrad/status/2123072600083501194#m",
+   "url": "https://nitter.kareem.one/swyx/status/2123165970940441038#m",
+   "ts": 1795037188,
+   "id": "2123165970940441038#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starlink saves lives X Freeze (@XFreeze) Starlink is being deployed to help families cut off by flooding in rural Cuiabá, Brazil Mato Grosso’s government is sending Starlink antennas to the Aguaçu district, where severe flooding left families isolated and without power Emergency teams are already on the ground, while a temporary shelter is being prepared in nearby Guia For families staying in areas where terrestrial networks are down, Starlink gives them a way to stay connected while rescue and recovery work continues When floods knock out the infrastructure on the ground, connectivity from space becomes incredibly valuable Video — https://nitter.kareem.one/XFreeze/status/2123130830562423103#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2123163808592265639#m",
+   "ts": 1795036673,
+   "id": "2123163808592265639#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Treat Grok @Bot like a really smart employee lauren (@poteto) I think a lot of people aren't using Grok Bot to its full potential, because knowing how to automate things is actually quite a difficult skill to learn. I wrote this post to break down how I approach automating anything with Grok Bot! Article Automate Anything with Grok Bot Automation can be surprisingly hard to get right, even for people who do it every day. I’d like to share how I approach it, at work and in my personal life, and how Grok Bot can help you take on more — https://nitter.kareem.one/poteto/status/2123159537016533493#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2123161902683746640#m",
+   "ts": 1795036218,
+   "id": "2123161902683746640#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -22,6 +49,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2123159371119280372#m",
    "ts": 1795035615,
    "id": "2123159371119280372#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Couldn’t recommend it more. Take your kids to a Starship launch. It’s a full-body experience. something you feel as much as you see, and one of the most awe-inspiring feats of human ingenuity you’ll ever witness. Plus, you’ll never see more grown men crying. Seriously & that’s a wonderful thing. Impossible not to be deeply moved by what this incredible team has accomplished. Elon Musk (@elonmusk) True, Starship launches are incredibly exciting — https://nitter.kareem.one/elonmusk/status/2122871410561593384#m",
+   "url": "https://nitter.kareem.one/gjurvetson/status/2123145363544772871#m",
+   "ts": 1795032275,
+   "id": "2123145363544772871#m"
   },
   {
    "handle": "swyx",
@@ -312,15 +348,6 @@
    "id": "2122925042400895056#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Four Years Ago Today, Elon Musk posted a poll asking 𝕏 if Donald Trump, who was banned by Twitter 1.0 as a sitting President, should be reinstated to the platform.",
-   "url": "https://nitter.kareem.one/alx/status/2122924222984958211#m",
-   "ts": 1794979551,
-   "id": "2122924222984958211#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -337,15 +364,6 @@
    "url": "https://nitter.kareem.one/HalcyonHypnotic/status/2122914742100517144#m",
    "ts": 1794977291,
    "id": "2122914742100517144#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "SpaceX Investors MUST Watch This Supercut from CFO's Epic Chat Today With @GavinSBaker Video",
-   "url": "https://nitter.kareem.one/stevenmarkryan/status/2122906392969232791#m",
-   "ts": 1794975300,
-   "id": "2122906392969232791#m"
   },
   {
    "handle": "swyx",
@@ -832,15 +850,6 @@
    "url": "https://nitter.kareem.one/rowancheung/status/2122371443791175752#m",
    "ts": 1794847758,
    "id": "2122371443791175752#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Code Summit, through the people who were there. A few days in San Francisco. New ideas to take back to work. With @swyx and teams from @GoogleDeepMind @OpenAI @AnthropicAI @firecrawl @mixedbreadai @coderabbitai @Atlassian . Keep building. Video",
-   "url": "https://nitter.kareem.one/aiDotEngineer/status/2122366588582015138#m",
-   "ts": 1794846601,
-   "id": "2122366588582015138#m"
   },
   {
    "handle": "ZichenWanghere",
