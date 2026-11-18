@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-18T11:10:33Z",
+ "generated_at": "2026-11-18T11:18:05Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 174,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Prufrock is perfectly named X Freeze (@XFreeze) Elon Musk just shared the literary inspiration behind The Boring Company's massive tunnel-boring machines Each machine is named after a classic work of literature: • Godot - Waiting for Godot by Samuel Beckett • Line-Storm - A Line-Storm Song by Robert Frost • Prufrock - The Love Song of J. Alfred Prufrock by T. S. Eliot Massive machines designed to dig tunnels beneath cities, with names inspired by some of the greatest works of poetry and theater A little literature behind some seriously impressive engineering — https://nitter.kareem.one/XFreeze/status/2122997935486996569#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2123009640925663305#m",
+   "ts": 1794999916,
+   "id": "2123009640925663305#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -221,15 +229,6 @@
    "url": "https://nitter.kareem.one/MdeZegher/status/2122839416591057223#m",
    "ts": 1794959332,
    "id": "2122839416591057223#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I work on @bot Tag me with whatever annoys you, breaks on you, or you wish it could do. I read all of it and bring the good stuff to our team. Follow if you want to see what we ship next.",
-   "url": "https://nitter.kareem.one/larsencc/status/2122836100792152411#m",
-   "ts": 1794958541,
-   "id": "2122836100792152411#m"
   },
   {
    "handle": "ZichenWanghere",
