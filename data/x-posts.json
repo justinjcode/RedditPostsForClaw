@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-19T17:25:30Z",
+ "generated_at": "2026-11-19T17:39:20Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +10,9 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 177,
  "items": [
   {
@@ -31,6 +32,15 @@
    "url": "https://nitter.kareem.one/cb_doge/status/2123454575038677045#m",
    "ts": 1795105997,
    "id": "2123454575038677045#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Haven't tried Grok Bot making a phone call yet? Watch this, then give it a try. Live transcripts is a seriously useful tool. Video",
+   "url": "https://nitter.kareem.one/Texas_Twins_Dad/status/2123450561509138521#m",
+   "ts": 1795105040,
+   "id": "2123450561509138521#m"
   },
   {
    "handle": "elonmusk",
@@ -382,15 +392,6 @@
    "url": "https://nitter.kareem.one/SRBednarek/status/2123119244380717562#m",
    "ts": 1795026048,
    "id": "2123119244380717562#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Ford is officially in the battery business. We’ll be the first to deliver LFP batteries in the U.S. for mainstream consumer automotive use and I couldn’t be prouder of the @Ford team. They've started battery cell production at BlueOval Battery Park Michigan and are shipping our first LFP prismatic cells to Louisville Assembly Plant where they'll power #FordFathom prototypes. This is a significant step for us. We’re building capability to deliver batteries for more affordable electric vehicles and applying that same LFP technology and manufacturing expertise to build a new energy storage business with Ford Energy. Congratulations to our talented team on this milestone! Learn more from Charles Poon, vice president of Hardware Engineering at Ford: fromtheroad.ford.com/us/en/a…",
-   "url": "https://nitter.kareem.one/jimfarley98/status/2123114023810166928#m",
-   "ts": 1795024803,
-   "id": "2123114023810166928#m"
   },
   {
    "handle": "thsottiaux",
