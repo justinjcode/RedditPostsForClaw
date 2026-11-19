@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T06:13:32Z",
+ "generated_at": "2026-11-19T06:30:50Z",
  "accounts_ok": [
   "TheRundownAI",
   "ZichenWanghere",
@@ -19,10 +19,37 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "Yes. Only questions are how fast the singularity will grow and to what size. will depue (@willdepue) guys we're in the fucking singularity. oh my god. i just forget sometimes and then wake up in the middle of the night like oh my god its all happening — https://nitter.kareem.one/willdepue/status/2123069165334675742#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2123298515573207075#m",
+   "ts": 1795068789,
+   "id": "2123298515573207075#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "poteto AI.Engineer (@aiDotEngineer) If you keep correcting the same mistake, make it a check. @poteto of @spacexai on turning corrections into deterministic checks, and keeping the codebase worth copying. From AI Engineer Code Summit. Video — https://nitter.kareem.one/aiDotEngineer/status/2123068725410869585#m",
+   "url": "https://nitter.kareem.one/swyx/status/2123298074911248526#m",
+   "ts": 1795068684,
+   "id": "2123298074911248526#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "Exactly X Freeze (@XFreeze) Elon Musk sets the record straight after years of being falsely accused of turning off Starlink to stop Ukraine's offensive strike against the Russian fleet in Sevastopol Even Walter Isaacson acknowledged that his book got this crucial detail wrong “And we've not turned off Starlink. This is false” “At the time, the Starlink satellite beams were not on in Crimea” Starlink coverage had never been activated over Crimea in the first place Ukraine wanted SpaceX to activate that coverage for an offensive military operation against the Russian fleet Elon refused, explaining that activating the beams would have required State Department approval because of sanctions There's an enormous difference between shutting down an existing service and refusing to activate coverage that was never available Yet Elon spent years being accused of doing exactly that Walter Isaacson himself corrected the original account Elon never turned off Starlink to stop the Sevastopol strike Video — https://nitter.kareem.one/XFreeze/status/2123268230768939328#m",
    "url": "https://nitter.kareem.one/elonmusk/status/2123288098331414533#m",
    "ts": 1795066306,
    "id": "2123288098331414533#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Elon gave two talks today at DealBook and TomorrowX Summit, revealing more about SpaceX's plans than most earnings calls. Here are the 11 key takeaways: 1. SpaceX is scaling AI compute at an extraordinary pace: SpaceX is adding roughly 500 MW monthly, equivalent to 220,000 GB300s. Elon expects over 1 GW monthly by end-2027: a 6 GW annualized pace today, doubling to 12 GW. 2. Its build costs are far below industry estimates: Elon says outside estimates are off by up to 2x, with SpaceX building at roughly 60% of industry costs. Its in-house \"Army X\" builds the data centers, while Tesla Megapacks smooth training power. I'd already been modeling a 25–30% SpaceX cost advantage. 3. Anthropic could become a 10 GW customer: Anthropic told Elon its most likely outcome is renting another 10 GW from SpaceX, on top of existing capacity. Contracts allow termination with 3–6 months' notice, but Anthropic says staying is \"extremely likely.\" This reinforces my model that Anthropic will take most upcoming capacity. 4. SpaceX is targeting a vastly larger telecom market: Elon argues AT&T and Verizon won't disappear as bandwidth demand explodes. Humans communicate at roughly 100 bits per second, while superintelligence and robots could require a trillion. SpaceX is targeting a market orders of magnitude larger than existing telecom revenue, as I'd modeled. Even more interestingly, this creates an opportunity to push its AI business further. 5. Its next-generation satellite network arrives next y",
+   "url": "https://nitter.kareem.one/marsrepublica/status/2123274994952065291#m",
+   "ts": 1795063181,
+   "id": "2123274994952065291#m"
   },
   {
    "handle": "elonmusk",
@@ -118,19 +145,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Elon Musk says SpaceX aims to bring online over 1 GW of terrestrial AI compute per month by the end of 2027. Its current pace is ~0.5 GW a month, equivalent to roughly 220,000 Nvidia GB300s plus CPUs, networking and cooling, measured at the power-plant level. Video",
-   "url": "https://nitter.kareem.one/wallstengine/status/2123212558438134157#m",
-   "ts": 1795048295,
-   "id": "2123212558438134157#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon Musk reveals over 30 people now have a Neuralink, some use it to feed themselves with a robot arm, and he's confident it will eventually let people with spinal injuries walk again \"Yeah. So Neuralink, by the way, is obviously, as you mentioned, a private company, much, much smaller. I mean, it's just several hundred people. We now have, I think, over 30 people that have received the Neuralink device. So they have a Neuralink in their head.\" \"Our focus initially was giving people who are tetraplegics, quadriplegics, the ability to control their phone or their computer or a robot arm just by thinking. So we call that product Telepathy. So just by thinking, you can control a computer or a robot arm. Some of our customers will literally control a robot arm, and they will actually feed themselves. It gives them the power. I mean, imagine you're tetraplegic. You can't do anything. You can't feed yourself. But now, just by thinking, with the robot arm, you can actually feed yourself with the robot arm.\" \"And how much better… These things that we take for granted are life-changing. And down the road, we feel at this point confident in saying that we'll be able to bridge the signals from the brain, from the motor and sensory cortex, past where the neural damage is from a broken neck or spine, and enable people to walk again.\" Video Fireside Alpha (@firesidealpha) Elon Musk reveals some of his best data center builders came from In-N-Out, because aces \"making epic burgers all day ",
-   "url": "https://nitter.kareem.one/firesidealpha/status/2123210477954367708#m",
-   "ts": 1795047799,
-   "id": "2123210477954367708#m"
+   "text": "$SPCX : Satya Nadella says Microsoft would rent SpaceX compute. Asked at DealBook whether Musk is right about data centers in space: \"If he has SpaceX capacity that I can lease, I would lease it.\"",
+   "url": "https://nitter.kareem.one/SpaceInvestor_D/status/2123211962289176891#m",
+   "ts": 1795048153,
+   "id": "2123211962289176891#m"
   },
   {
    "handle": "swyx",
@@ -160,15 +178,6 @@
    "id": "2123202151300448721#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "🚨 BOOM: Elon Musk just walked into the New York Times DealBook Summit and made the interviewer SQUIRM. Asked about immigration, Musk said Europe needs to stop massive ILLEGAL immigration. Small boats keep landing with unvetted people, and \"in some cases\" they \"do terrible things\" to the people who live there. Then he got to the \"right-wing\" label. \"If that's a right-wing view, then I guess so.\" He added that OBAMA AND HILLARY \"would say exactly what I've said. Like, you can literally look at their speeches.\" The interviewer laughed nervously and covered his mouth. 🤣 Securing your border used to be common sense. The Democrats moved, not us. Video",
-   "url": "https://nitter.kareem.one/GuntherEagleman/status/2123197134262477285#m",
-   "ts": 1795044618,
-   "id": "2123197134262477285#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -194,15 +203,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2123169908338884712#m",
    "ts": 1795038127,
    "id": "2123169908338884712#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "My recap from witnessing the most important engineering feat I've ever seen at @SpaceX : ARK Invest (@ARKInvest) SpaceX has caught boosters before. So why is catching the rocket such a big deal? @TashaARK explains what she saw live at Starbase. Video — https://nitter.kareem.one/ARKInvest/status/2123133508319133759#m",
-   "url": "https://nitter.kareem.one/TashaARK/status/2123169794967183595#m",
-   "ts": 1795038100,
-   "id": "2123169794967183595#m"
   },
   {
    "handle": "elonmusk",
@@ -277,6 +277,15 @@
    "id": "2123121040322920458#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Ford is officially in the battery business. We’ll be the first to deliver LFP batteries in the U.S. for mainstream consumer automotive use and I couldn’t be prouder of the @Ford team. They've started battery cell production at BlueOval Battery Park Michigan and are shipping our first LFP prismatic cells to Louisville Assembly Plant where they'll power #FordFathom prototypes. This is a significant step for us. We’re building capability to deliver batteries for more affordable electric vehicles and applying that same LFP technology and manufacturing expertise to build a new energy storage business with Ford Energy. Congratulations to our talented team on this milestone! Learn more from Charles Poon, vice president of Hardware Engineering at Ford: fromtheroad.ford.com/us/en/a…",
+   "url": "https://nitter.kareem.one/jimfarley98/status/2123114023810166928#m",
+   "ts": 1795024803,
+   "id": "2123114023810166928#m"
+  },
+  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -320,6 +329,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2123088063400140840#m",
    "ts": 1795018614,
    "id": "2123088063400140840#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "If you keep correcting the same mistake, make it a check. @poteto of @spacexai on turning corrections into deterministic checks, and keeping the codebase worth copying. From AI Engineer Code Summit. Video",
+   "url": "https://nitter.kareem.one/aiDotEngineer/status/2123068725410869585#m",
+   "ts": 1795014003,
+   "id": "2123068725410869585#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -685,15 +703,6 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "Prefer reading to watching? 50 talks from AI Engineer Code Summit, now in writing: illustrated essays, full transcripts and links to watch. Pick a topic. Find the idea you want to try. ai.engineer/code/2026#talks Link AI Engineer Code Summit 2026: AI Engineering Conference, Nov 10-12, San Francisco The application-only AI Engineer Code Summit brings together leading coding-agent builders and AI engineers in San Francisco, November 10-12, 2026. ai.engineer",
-   "url": "https://nitter.kareem.one/aiDotEngineer/status/2122706337641763147#m",
-   "ts": 1794927603,
-   "id": "2122706337641763147#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
    "text": "it's a skill issue to use frontier LLMs to detect objects or do vision instead, if you use LLMs as vision interns you can train a detector for $6 that runs at little cost. but your agent is a bad vision intern, it only knows old models that are proprietary and makes rookie mistakes so I built something for it, I basically distilled myself for you to use🤝 I put my favorite models from keypoint detection to OCR as a tool for your agent to call and I also made an e2e object detection trainer (from labelling to VLM as a judge to training and eval) if you're interested in it and the results, my talk at @aiDotEngineer WF is finally out, you can watch it here inv.kareem.one/watch?v=dKcTBQzR… many thanks @swyx on the next post you can find the github repository, I also shipped decision model support and updated VLMs (LFM3, Qwen3.6/8) Link Skill issue: stop deploying vision language models, use them with... Merve Noyan wrote a book on vision language models and now wants de... youtube.com",
    "url": "https://nitter.kareem.one/mervenoyann/status/2122700240922833075#m",
    "ts": 1794926149,
@@ -770,15 +779,6 @@
    "url": "https://nitter.kareem.one/Tracy_Wen_Liu/status/2122567714950791623#m",
    "ts": 1794894553,
    "id": "2122567714950791623#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "together deleted megkernels Dylan Lim (@dylan__lim) For the past two years, members of our team have been investigating what a next-generation system for inference optimization should look like. In the following blog, we revisit the assumptions behind today's compilers, share the experiments that challenged our thinking, and explain the lessons that shaped our compiler. This work was made possible through my collaborators, @reyna_abhyankar and @simran_s_arora and things are still incredibly early! There’s many more findings to share and interesting work to be done. Stay tuned! Blog: together.ai/blog/road-to-tog… Link Last year we built megakernels. This year we deleted them: The road to Together Compiler Together Compiler uses AI agents to rewrite and fuse the GPU kernels in a model’s forward pass. It beats hand-written megakernels by 28% on B200 (2,118 vs 1,649 tokens/s on Llama 3.2 1B). This is how... together.ai — https://nitter.kareem.one/dylan__lim/status/2122463072489271342#m",
-   "url": "https://nitter.kareem.one/swyx/status/2122566522094915765#m",
-   "ts": 1794894268,
-   "id": "2122566522094915765#m"
   },
   {
    "handle": "Lingling_Wei",
