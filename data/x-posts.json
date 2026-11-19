@@ -1,20 +1,28 @@
 {
- "generated_at": "2026-11-19T11:00:19Z",
+ "generated_at": "2026-11-19T11:10:58Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed",
-  "@bcherny: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "A Little Story on a Rainy Day🌧️ #カプー #capoo #咖波",
+   "url": "https://nitter.kareem.one/bugcat_capoo_tw/status/2123355415077589307#m",
+   "ts": 1795082355,
+   "id": "2123355415077589307#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -995,15 +1003,6 @@
    "url": "https://nitter.kareem.one/Yuzhehere/status/2121964656554328124#m",
    "ts": 1794750772,
    "id": "2121964656554328124#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "银渐层暴雨被困26楼，随时可能打滑坠楼 Video",
-   "url": "https://nitter.kareem.one/maxiaohui66/status/2121927866254331933#m",
-   "ts": 1794742001,
-   "id": "2121927866254331933#m"
   },
   {
    "handle": "thsottiaux",
