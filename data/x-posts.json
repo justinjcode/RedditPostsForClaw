@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-19T02:39:36Z",
+ "generated_at": "2026-11-19T02:47:16Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@simonw: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Elon Musk says SpaceX’s StarMind orbital AI satellite is a “much easier” engineering problem than Starlink V3: “I’m not sure why people think that making an AI satellite would be hard, given that SpaceX already has over 11,000 satellites in orbit, which is, I think, twice as much as the rest of the world combined.” “The StarMind satellite, which is the name for our overall compute system, is simpler, not harder than, say, the Starlink V3 communication satellite, which is an incredibly complex orbital radio station.” “It’s got the most advanced phased array antennas that have ever been made, far more advanced than anything that any military has at any price.” “Compared to that, the AI satellite is much, much easier, because it really just consists of a very large array of solar panels and a radiator.” “You’re gonna have about five times as much solar panel area as you will have radiator area. And that’s just basic physics.” “Then you have the star computer at the center, which would be physically about a quarter of the size of, say, a Vera Rubin NVL rack while having all of the capability of a Vera Rubin NVL72.” “I can’t emphasize enough that the StarMind satellite is a much easier technical problem than Starlink V3 communication satellite. I’m not saying it’s trivial, but it’s not as hard as what we’re already doing.” Video",
+   "url": "https://nitter.kareem.one/KanekoaTheGreat/status/2123242707560857836#m",
+   "ts": 1795055484,
+   "id": "2123242707560857836#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -230,15 +239,6 @@
    "url": "https://nitter.kareem.one/TheAhmadOsman/status/2123163447785639956#m",
    "ts": 1795036587,
    "id": "2123163447785639956#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Couldn’t recommend it more. Take your kids to a Starship launch. It’s a full-body experience. something you feel as much as you see, and one of the most awe-inspiring feats of human ingenuity you’ll ever witness. Plus, you’ll never see more grown men crying. Seriously & that’s a wonderful thing. Impossible not to be deeply moved by what this incredible team has accomplished. Elon Musk (@elonmusk) True, Starship launches are incredibly exciting — https://nitter.kareem.one/elonmusk/status/2122871410561593384#m",
-   "url": "https://nitter.kareem.one/gjurvetson/status/2123145363544772871#m",
-   "ts": 1795032275,
-   "id": "2123145363544772871#m"
   },
   {
    "handle": "swyx",
