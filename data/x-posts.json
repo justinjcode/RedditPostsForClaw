@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-19T01:01:02Z",
+ "generated_at": "2026-11-19T01:07:38Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,36 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Elon Musk says SpaceX aims to bring online over 1 GW of terrestrial AI compute per month by the end of 2027. Its current pace is ~0.5 GW a month, equivalent to roughly 220,000 Nvidia GB300s plus CPUs, networking and cooling, measured at the power-plant level. Video",
+   "url": "https://nitter.kareem.one/wallstengine/status/2123212558438134157#m",
+   "ts": 1795048295,
+   "id": "2123212558438134157#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Elon Musk predicts 100% of superintelligence compute will be in space, and says Tesla and SpaceX would “probably” be better together: “If you look into the future, orbital compute is really going to be where things scale to.” “In the future, the amount of superintelligence compute that is on Earth will round down to 0% and superintelligence compute in space will round up to 100%.” “Now remember these words, because that sounds like a preposterous thing to say.” “I think superintelligence compute [on Earth] will be less than 0.4% of compute. Therefore, orbital compute will round up to 100%. And I think this is a relatively easy prediction to make, and it’s simply a matter of time before that happens.” Would Tesla and SpaceX be better together? “Probably yes. Now, this is not like let’s merge the companies no matter what. These require shareholder votes, which may or may not succeed, at least in the case of Tesla.” “I can’t just drag them into a non-economic merger that is bad for them, because I’ll obviously get sued.” “It really is just a question of, do SpaceX and Tesla execute better together and create more value than if they’re apart?” Video",
+   "url": "https://nitter.kareem.one/KanekoaTheGreat/status/2123212134175949267#m",
+   "ts": 1795048194,
+   "id": "2123212134175949267#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Elon Musk reveals over 30 people now have a Neuralink, some use it to feed themselves with a robot arm, and he's confident it will eventually let people with spinal injuries walk again \"Yeah. So Neuralink, by the way, is obviously, as you mentioned, a private company, much, much smaller. I mean, it's just several hundred people. We now have, I think, over 30 people that have received the Neuralink device. So they have a Neuralink in their head.\" \"Our focus initially was giving people who are tetraplegics, quadriplegics, the ability to control their phone or their computer or a robot arm just by thinking. So we call that product Telepathy. So just by thinking, you can control a computer or a robot arm. Some of our customers will literally control a robot arm, and they will actually feed themselves. It gives them the power. I mean, imagine you're tetraplegic. You can't do anything. You can't feed yourself. But now, just by thinking, with the robot arm, you can actually feed yourself with the robot arm.\" \"And how much better… These things that we take for granted are life-changing. And down the road, we feel at this point confident in saying that we'll be able to bridge the signals from the brain, from the motor and sensory cortex, past where the neural damage is from a broken neck or spine, and enable people to walk again.\" Video Fireside Alpha (@firesidealpha) Elon Musk reveals some of his best data center builders came from In-N-Out, because aces \"making epic burgers all day ",
+   "url": "https://nitter.kareem.one/firesidealpha/status/2123210477954367708#m",
+   "ts": 1795047799,
+   "id": "2123210477954367708#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -37,10 +63,37 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "Elon Musk responds to Democrats calling for his imprisonment: “It was like prison first, crime later.” “I don’t think I need a pardon, by the way, because I haven’t committed any crimes.” “A number of Democrats… said that I should go to prison. And then they asked him, but for what crime? And he couldn’t name a crime.” “He wants me to go to prison. It was like prison first, crime later.” “The guy’s trying to channel Beria from like Stalin, where it’s like, show me the man, I’ll show you the crime type of thing. I’m like, come on, guys, this is a little over the top.” “There are definitely a few people grumpy about my funding in this past election. But hopefully in this country, you still need to do an actual crime before you go to prison.” “It really needs to be first crime, then prison. Not the other way around. I mean, what country are we living in here?” Video",
+   "url": "https://nitter.kareem.one/KanekoaTheGreat/status/2123208280550084816#m",
+   "ts": 1795047276,
+   "id": "2123208280550084816#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Here's Elon Musk's full interview at DealBook Summit today: 0:00 Opening Remarks 0:31 Jensen Huang Situation 2:44 Jensen Like Jordan 3:41 Would Hire Jensen 5:43 Midterms Loss Reaction 6:25 Balance Of Power 8:45 No Pardon Needed 10:30 Politics Involvement 12:07 Not MAGA Views 14:58 Starlink Saved Ukraine 21:30 Zelensky Not Truthful 22:02 Starlink Vs Starshield 23:35 Power Of One Person 24:16 Rules Unchanged 26:17 Open Source Rockets 27:51 Starlink Funds Starship 29:59 Multiplanetary Future 32:22 Direct To Cell Plan 35:53 SpaceX Tesla Merger 39:31 No Merger Bonus 40:51 Model YL Demand 41:12 Cybercab And AVs 42:44 Anthropic Compute Deal 45:11 Feeling At Peace Video",
+   "url": "https://nitter.kareem.one/cb_doge/status/2123205279009677430#m",
+   "ts": 1795046560,
+   "id": "2123205279009677430#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "Elon - “any self respecting civilization needs to be a multi-planetary civilization… come on guys let’s represent here” I agree",
    "url": "https://nitter.kareem.one/aaronburnett/status/2123198945992044926#m",
    "ts": 1795045050,
    "id": "2123198945992044926#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "🚨 BOOM: Elon Musk just walked into the New York Times DealBook Summit and made the interviewer SQUIRM. Asked about immigration, Musk said Europe needs to stop massive ILLEGAL immigration. Small boats keep landing with unvetted people, and \"in some cases\" they \"do terrible things\" to the people who live there. Then he got to the \"right-wing\" label. \"If that's a right-wing view, then I guess so.\" He added that OBAMA AND HILLARY \"would say exactly what I've said. Like, you can literally look at their speeches.\" The interviewer laughed nervously and covered his mouth. 🤣 Securing your border used to be common sense. The Democrats moved, not us. Video",
+   "url": "https://nitter.kareem.one/GuntherEagleman/status/2123197134262477285#m",
+   "ts": 1795044618,
+   "id": "2123197134262477285#m"
   },
   {
    "handle": "swyx",
@@ -68,6 +121,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2123169908338884712#m",
    "ts": 1795038127,
    "id": "2123169908338884712#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "My recap from witnessing the most important engineering feat I've ever seen at @SpaceX : ARK Invest (@ARKInvest) SpaceX has caught boosters before. So why is catching the rocket such a big deal? @TashaARK explains what she saw live at Starbase. Video — https://nitter.kareem.one/ARKInvest/status/2123133508319133759#m",
+   "url": "https://nitter.kareem.one/TashaARK/status/2123169794967183595#m",
+   "ts": 1795038100,
+   "id": "2123169794967183595#m"
   },
   {
    "handle": "swyx",
@@ -268,24 +330,6 @@
    "id": "2123015932544991521#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Prufrock is perfectly named X Freeze (@XFreeze) Elon Musk just shared the literary inspiration behind The Boring Company's massive tunnel-boring machines Each machine is named after a classic work of literature: • Godot - Waiting for Godot by Samuel Beckett • Line-Storm - A Line-Storm Song by Robert Frost • Prufrock - The Love Song of J. Alfred Prufrock by T. S. Eliot Massive machines designed to dig tunnels beneath cities, with names inspired by some of the greatest works of poetry and theater A little literature behind some seriously impressive engineering — https://nitter.kareem.one/XFreeze/status/2122997935486996569#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2123009640925663305#m",
-   "ts": 1794999916,
-   "id": "2123009640925663305#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "It only gets better from here ᴉpᴉǝH 🐐💕 (@summer__heidi) Deception needs a motive, and a motive needs a soul Video — https://nitter.kareem.one/summer__heidi/status/2122159837614330267#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2123007193918398527#m",
-   "ts": 1794999333,
-   "id": "2123007193918398527#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -322,24 +366,6 @@
    "id": "2122997398565982317#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Prufrock X Freeze (@XFreeze) The Boring Company is rapidly scaling up its Music City Loop project in Nashville Prufrock-MB3 has officially arrived, becoming the THIRD tunnel-boring machine for the network And Prufrock-MB4 is expected to arrive within the next 8 weeks TBC is now hiring across: • Engineering • Operations • Welding • Maintenance • Electrical • Facilities • Safety • Security Hiring event: Tuesday, November 24 With more tunneling machines arriving and the team expanding, Music City Loop is picking up serious momentum Apply here: boringcompany.com/applynashv… — https://nitter.kareem.one/XFreeze/status/2122924757461160119#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122995454560587952#m",
-   "ts": 1794996534,
-   "id": "2122995454560587952#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The machines of @boringcompany were named after: Waiting for Godot A Line-storm Song The Love Song of J. Alfred Prufrock",
-   "url": "https://nitter.kareem.one/elonmusk/status/2122987306923733063#m",
-   "ts": 1794994591,
-   "id": "2122987306923733063#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -358,15 +384,6 @@
    "id": "2122967843616813409#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "5 years ago a SpaceX worker gave Elon a hug and told him \"We gonna make it\" And made it, we did! Starship came home & Elon gave it a hug. Life comes full circle Video Elon Musk (@elonmusk) 🤗 — https://nitter.kareem.one/elonmusk/status/2122936119448764559#m",
-   "url": "https://nitter.kareem.one/OPteemyst/status/2122951806548340804#m",
-   "ts": 1794986127,
-   "id": "2122951806548340804#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -374,15 +391,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2122944534229446791#m",
    "ts": 1794984394,
    "id": "2122944534229446791#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Hearing the @united CEO Scott Kirby on @CheekyPint telling @collision that the primary constraint on commercial aviation in the US is ATC slots drives me crazy. There are at most about 5000 flights occurring at any one time over the entire US. There are about 30 usable flight levels in alpha airspace, and you can deconflict 100x more flights than this with a single toothbrush CPU ( FAA.caseyhandmer.com ). In terms of physical space, there's enough room to fly every man woman and child in the US simultaneously. Look up. Does the sky seem crowded? There were plans to automate ATC using the first Iridium constellation more than 30 years ago. At some point we have to have a serious conversation about rent takings by obsolete incumbents that are blocking entire percentage points of economic growth. Link US air traffic control on a toothbrush CPU 5,000 aircraft, every pair checked every 5 seconds, on the 160 MHz chip in a Wi-Fi toothbrush. About 48 ms per solve: 100× headroom. faa.caseyhandmer.com Elon Musk (@elonmusk) I wrote this 18 months ago — https://nitter.kareem.one/elonmusk/status/2122924448861008163#m",
-   "url": "https://nitter.kareem.one/CJHandmer/status/2122937091218981083#m",
-   "ts": 1794982619,
-   "id": "2122937091218981083#m"
   },
   {
    "handle": "thsottiaux",
@@ -635,15 +643,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2122714166574129556#m",
    "ts": 1794929470,
    "id": "2122714166574129556#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "While critics focus on turnover, look at the senior leaders who have chosen to stay with Elon Musk for decades: • Gwynne Shotwell — SpaceX President & COO, 24 years (joined 2002) • Brian Bjelde — SpaceX SVP HR & Operations, 23 years (employee #14, joined 2003) • Jon Edwards — SpaceX SVP Falcon & Dragon, 22 years (joined 2004) • Mark Juncosa — SpaceX VP Vehicle Engineering, 21 years • Tim Hughes — SpaceX SVP Global Business & Government Affairs, 21 years • Franz von Holzhausen — Tesla Chief Designer, 18 years (since 2008) • Lars Moravy — Tesla VP Vehicle Engineering, 16 years (since 2010) • Kiko Dontchev — SpaceX VP of Launch, 16 years (joined 2010) • Bret Johnsen — SpaceX CFO, 15 years (since 2011) • Tom Zhu — Tesla SVP Automotive, 12 years (since 2014) • Ashok Elluswamy — Tesla VP of AI Software, 12 years (first Autopilot engineer, 2014) • Charles Kuehmann — VP Materials Engineering at both Tesla & SpaceX, 11 years (since 2015) These are not short-term hires. They are the most experienced people in their companies who have stayed through near-bankruptcies, intense pressure, and constant outside criticism. The longer the tenure, the clearer the pattern: top talent keeps choosing to work with Elon Musk.",
-   "url": "https://nitter.kareem.one/TheCaptainEli/status/2122710679022965024#m",
-   "ts": 1794928638,
-   "id": "2122710679022965024#m"
   },
   {
    "handle": "swyx",
