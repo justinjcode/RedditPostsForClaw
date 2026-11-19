@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-19T23:25:57Z",
+ "generated_at": "2026-11-19T23:38:40Z",
  "accounts_ok": [
-  "TheRundownAI",
+  "Lingling_Wei",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,10 +11,28 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed"
+  "@TheRundownAI: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "We’re also working on a new mobile experience for ChatGPT! It’s easier to get to your favorite features and discover what you can do in ChatGPT. We’re starting with Pro users who have a dot or are eligible to create one. Your dot gets its own tab, and you can pin Codex, Projects, Images, and more to the tab bar. Some of you will see the new experience by default. You can turn it on or off anytime in Settings > New ChatGPT Design. Super excited to hear your feedback before we roll it out more widely! Video Tibo (@thsottiaux) Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives around how good the proactivity has been after many improvements. We’re also bringing dots to all ChatGPT Business Standard users. Rollout will start today. — https://nitter.kareem.one/thsottiaux/status/2123556256392847657#m",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2123557171321561133#m",
+   "ts": 1795130458,
+   "id": "2123557171321561133#m"
+  },
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives around how good the proactivity has been after many improvements. We’re also bringing dots to all ChatGPT Business Standard users. Rollout will start today.",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2123556256392847657#m",
+   "ts": 1795130239,
+   "id": "2123556256392847657#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -1274,24 +1292,6 @@
    "url": "https://nitter.kareem.one/bcherny/status/2119873095129550880#m",
    "ts": 1794252105,
    "id": "2119873095129550880#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Would a Pro 50 make sense? Wdyt? Tibo (@thsottiaux) Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus. ✅ Pro 100 = 10X ✅ Pro 200 = 20X ✅ Pro 500 = 50X, access to ultrafast — https://nitter.kareem.one/thsottiaux/status/2119296267545419987#m",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2119305294291612140#m",
-   "ts": 1794116731,
-   "id": "2119305294291612140#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus. ✅ Pro 100 = 10X ✅ Pro 200 = 20X ✅ Pro 500 = 50X, access to ultrafast",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2119296267545419987#m",
-   "ts": 1794114579,
-   "id": "2119296267545419987#m"
   },
   {
    "handle": "bcherny",
