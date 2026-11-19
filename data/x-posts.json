@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-19T07:39:39Z",
+ "generated_at": "2026-11-19T07:45:16Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Moving all text conversations to be encrypted to ensure user privacy XChat (@chat) To continue optimizing the X experience, support for legacy groups on XChat will be ending this Friday. All unencrypted conversations will become encrypted, and group members not on XChat by Friday will need to sign up for XChat to be reincluded in those conversations. — https://nitter.kareem.one/chat/status/2123134844540448943#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2123319956381339961#m",
+   "ts": 1795073901,
+   "id": "2123319956381339961#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -145,24 +153,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Looking for hardcore engineers to join Terafab! X Freeze (@XFreeze) Elon Musk just shared an ambitious timeline for Terafab, which is being designed to become the largest building on Earth at 100 million square feet And the first test chip is targeted for June 2027 \"Terafab is still in its infancy, obviously. We only announced it earlier this year, but we've already recruited quite a strong team, and we're looking for more great engineers to join the Terafab project. It is one of the most exciting projects in the world: to create the largest, most advanced chip fabrication facility on Earth. In fact, it'll be the largest building of any kind on Earth. We expect it to ultimately be 100 million square feet, densely packed with the most advanced equipment in the world We'll use relatively standard equipment at first, but then we'll be pushing suppliers to do special versions of the machines. In some cases, we may make our own machine if we feel that has to be done in order to improve the production process So yes, I think it's going quite well. We expect to have the research fab in operation and hopefully make our first test chip around June of next year. So I guess we're about eight or nine months away from that. And if all goes well, we will achieve volume production towards the end of 2028, at least for phase one of Terafab. And then we'll go to phase two and onwards. But I think you'll see some very rapid evolution in the way that chips are made\" Video — https://nitter.karee",
-   "url": "https://nitter.kareem.one/elonmusk/status/2123229344936173890#m",
-   "ts": 1795052298,
-   "id": "2123229344936173890#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "People do not yet understand: 1) Starship is one of the most important technologies in the history of mankind 2) @SpaceX ’s ship catch last weekend all but guarantees the concept works 3) almost all inference compute will be in space (launched by Starship) Elon Musk (@elonmusk) Catching the ship was the last major piece of the puzzle — https://nitter.kareem.one/elonmusk/status/2123220899264679988#m",
-   "url": "https://nitter.kareem.one/shaunmmaguire/status/2123226341726376324#m",
-   "ts": 1795051582,
-   "id": "2123226341726376324#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "$SPCX : Satya Nadella says Microsoft would rent SpaceX compute. Asked at DealBook whether Musk is right about data centers in space: \"If he has SpaceX capacity that I can lease, I would lease it.\"",
    "url": "https://nitter.kareem.one/SpaceInvestor_D/status/2123211962289176891#m",
    "ts": 1795048153,
@@ -284,6 +274,15 @@
    "url": "https://nitter.kareem.one/XFreeze/status/2123121040322920458#m",
    "ts": 1795026476,
    "id": "2123121040322920458#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starlink Mobile is coming to Botswana! Rural communities, farmers, miners and many more will have reliable connectivity on their phones with messaging apps, maps and SMS in cellular dead zones. BTC (@btcbw) Through our partnership with Starlink, BTC is introducing BTC Satellite, a Direct-to-Mobile service designed to extend connectivity to more communities across Botswana. Stay connected in more places, even beyond traditional network coverage. Coming soon — https://nitter.kareem.one/btcbw/status/2123082315718853021#m",
+   "url": "https://nitter.kareem.one/SRBednarek/status/2123119244380717562#m",
+   "ts": 1795026048,
+   "id": "2123119244380717562#m"
   },
   {
    "handle": "elonmusk",
