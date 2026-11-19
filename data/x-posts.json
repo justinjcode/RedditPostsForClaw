@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-19T17:39:20Z",
+ "generated_at": "2026-11-19T17:45:25Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "AI.Engineer (@aiDotEngineer) 1 million views. Our fastest talk to get there. @poteto of @spacexai on the engineering behind 11,000 production PRs in one month. All Code Is Slop (Except Mine). Watch: inv.kareem.one/watch?v=O_zcc6Xl… — https://nitter.kareem.one/aiDotEngineer/status/2123453748785684806#m",
+   "url": "https://nitter.kareem.one/swyx/status/2123468745708597345#m",
+   "ts": 1795109375,
+   "id": "2123468745708597345#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -23,6 +31,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2123461918367351073#m",
    "ts": 1795107748,
    "id": "2123461918367351073#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Dario Amodei on SpaceX compute: “We’re finding that compute to be high quality. We’re enjoying working with SpaceX” SORKIN: “One of the partners that I spoke to yesterday was Elon Musk, and you use him for compute. And there’s been some speculation that when those contracts come up, or at least the first time they’re available, you might try to scale back some of your use of SpaceX compute and move elsewhere. True, untrue?” DARIO: “I mean, you can’t be sure what you’re going to do in the future, but we’re finding that compute to be high quality. We’re enjoying working with SpaceX.” Video Fireside Alpha (@firesidealpha) Dario Amodei says Anthropic could drive at 200 miles an hour but chooses 90 “So this is one of the central tensions at the heart of the company, but it’s really because this technology is so powerful, it has so many effects in the world. It’s something that every company in this space will have to face, whether they want to or not. We’re just facing it more explicitly and more thoughtfully. And so you think about something like pacing.” “The idea behind pacing was, imagine that you’re driving your car at 60 miles an hour, and then you discover or invent something that could let you drive the car at 200 miles an hour. This is models building themselves, recursive self-improvement. What we’ve done with pacing is essentially said, look, we could drive at 200 miles an hour. Maybe let’s only drive at 90 miles an hour. Spend time figuring out how to do that safely, a",
+   "url": "https://nitter.kareem.one/firesidealpha/status/2123458524999307387#m",
+   "ts": 1795106938,
+   "id": "2123458524999307387#m"
   },
   {
    "handle": "elonmusk",
@@ -230,15 +247,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2123305131206967571#m",
    "ts": 1795070367,
    "id": "2123305131206967571#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Yes. Only questions are how fast the singularity will grow and to what size. will depue (@willdepue) guys we're in the fucking singularity. oh my god. i just forget sometimes and then wake up in the middle of the night like oh my god its all happening — https://nitter.kareem.one/willdepue/status/2123069165334675742#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2123298515573207075#m",
-   "ts": 1795068789,
-   "id": "2123298515573207075#m"
   },
   {
    "handle": "swyx",
@@ -797,15 +805,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2122714166574129556#m",
    "ts": 1794929470,
    "id": "2122714166574129556#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "it's a skill issue to use frontier LLMs to detect objects or do vision instead, if you use LLMs as vision interns you can train a detector for $6 that runs at little cost. but your agent is a bad vision intern, it only knows old models that are proprietary and makes rookie mistakes so I built something for it, I basically distilled myself for you to use🤝 I put my favorite models from keypoint detection to OCR as a tool for your agent to call and I also made an e2e object detection trainer (from labelling to VLM as a judge to training and eval) if you're interested in it and the results, my talk at @aiDotEngineer WF is finally out, you can watch it here inv.kareem.one/watch?v=dKcTBQzR… many thanks @swyx on the next post you can find the github repository, I also shipped decision model support and updated VLMs (LFM3, Qwen3.6/8) Link Skill issue: stop deploying vision language models, use them with... Merve Noyan wrote a book on vision language models and now wants de... youtube.com",
-   "url": "https://nitter.kareem.one/mervenoyann/status/2122700240922833075#m",
-   "ts": 1794926149,
-   "id": "2122700240922833075#m"
   },
   {
    "handle": "Lingling_Wei",
