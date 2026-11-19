@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-19T18:55:29Z",
+ "generated_at": "2026-11-19T19:09:22Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "happy to be quoted in this @globeandmail report theglobeandmail.com/business… Link Chinese automakers view their investments in Hungary as possible model for Canada Companies are pushing to expand overseas and see Canadian sites as logical next step theglobeandmail.com",
+   "url": "https://nitter.kareem.one/ZichenWanghere/status/2123490464900972714#m",
+   "ts": 1795114554,
+   "id": "2123490464900972714#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -958,15 +968,6 @@
    "url": "https://nitter.kareem.one/dikaioslin/status/2122434193720582455#m",
    "ts": 1794862719,
    "id": "2122434193720582455#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Bloomberg tells staff it is reorganizing its leadership, bringing research closer to editorial, moving away from online search, and beefing up podcasting and vertical video.",
-   "url": "https://nitter.kareem.one/maxwelltani/status/2122383167327814133#m",
-   "ts": 1794850553,
-   "id": "2122383167327814133#m"
   },
   {
    "handle": "ZichenWanghere",
