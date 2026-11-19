@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T16:58:55Z",
+ "generated_at": "2026-11-19T17:09:46Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -15,6 +15,15 @@
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "PUBLIC: Anthropic stock is now live on the Nasdaq. $ANT opened at $111.50, which is $28.50 more than IPO buyers paid and puts the company near a $2T valuation. The $81.3B it raised passes SpaceX’s $75B from June as the largest IPO ever. Video",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2123461918367351073#m",
+   "ts": 1795107748,
+   "id": "2123461918367351073#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -815,15 +824,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2122653544188637678#m",
    "ts": 1794915016,
    "id": "2122653544188637678#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in AI today: - California takes OpenAI to court over agent escapes - Trump set to crown AI ‘national champions’ - Make your AI usage go further with these tips - OpenAI tracks how scientists really use ChatGPT",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2122653539205792156#m",
-   "ts": 1794915015,
-   "id": "2122653539205792156#m"
   },
   {
    "handle": "Lingling_Wei",
