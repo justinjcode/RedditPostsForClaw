@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T08:24:44Z",
+ "generated_at": "2026-11-19T08:38:23Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,10 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starlink started with a speech in Seattle As Found (@AsFoundX) 🚨 ELON MUSK’S 2015 SATELLITE VISION IS NOW THE BIGGEST NETWORK ON EARTH In 2015 Elon opened SpaceX’s satellite office in Seattle and said they wanted to change satellites the same way they changed rockets. Eleven years later Starlink has more than 11,100 satellites in orbit. It works in 174 countries, has 13.6 million users, and is on over 3,800 planes. It connects remote villages, ships at sea, and people after disasters when normal networks are down. What started as a speech in Seattle is now the largest satellite system ever built. Video — https://nitter.kareem.one/AsFoundX/status/2123059516749029756#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2123333341932052749#m",
+   "ts": 1795077092,
+   "id": "2123333341932052749#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -145,24 +154,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Elon Musk says SpaceX’s StarMind orbital AI satellite is a “much easier” engineering problem than Starlink V3: “I’m not sure why people think that making an AI satellite would be hard, given that SpaceX already has over 11,000 satellites in orbit, which is, I think, twice as much as the rest of the world combined.” “The StarMind satellite, which is the name for our overall compute system, is simpler, not harder than, say, the Starlink V3 communication satellite, which is an incredibly complex orbital radio station.” “It’s got the most advanced phased array antennas that have ever been made, far more advanced than anything that any military has at any price.” “Compared to that, the AI satellite is much, much easier, because it really just consists of a very large array of solar panels and a radiator.” “You’re gonna have about five times as much solar panel area as you will have radiator area. And that’s just basic physics.” “Then you have the star computer at the center, which would be physically about a quarter of the size of, say, a Vera Rubin NVL rack while having all of the capability of a Vera Rubin NVL72.” “I can’t emphasize enough that the StarMind satellite is a much easier technical problem than Starlink V3 communication satellite. I’m not saying it’s trivial, but it’s not as hard as what we’re already doing.” Video",
-   "url": "https://nitter.kareem.one/KanekoaTheGreat/status/2123242707560857836#m",
-   "ts": 1795055484,
-   "id": "2123242707560857836#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon Musk says Neuralink’s next product, Blindsight, will enable people who are completely blind to see: “Our next product is what we call Blindsight.” “Blindsight is a neural implant that interfaces directly with the visual cortex and enables people who are completely blind to see.” “You’re wearing glasses or something like that that have a camera. That camera is transmitting to the Neuralink device that then transfers the signals to your visual cortex.” “Enabling someone who is completely blind, meaning blind in both eyes or lost the optic nerve, potentially someone who has been blind from birth, to see.” Video",
-   "url": "https://nitter.kareem.one/KanekoaTheGreat/status/2123229499626287113#m",
-   "ts": 1795052335,
-   "id": "2123229499626287113#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "$SPCX : Satya Nadella says Microsoft would rent SpaceX compute. Asked at DealBook whether Musk is right about data centers in space: \"If he has SpaceX capacity that I can lease, I would lease it.\"",
    "url": "https://nitter.kareem.one/SpaceInvestor_D/status/2123211962289176891#m",
    "ts": 1795048153,
@@ -185,6 +176,15 @@
    "url": "https://nitter.kareem.one/EricLDaugh/status/2123196259318034475#m",
    "ts": 1795044409,
    "id": "2123196259318034475#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "What I fixed in the last 24h from your replies: > take over your bot's computer and stay in control until you hand it back > photos from your phone actually reach your bot > VPN desktop uploads stop failing > a safety check hiccup now asks you to approve instead of dead-ending > dictation keeps the word you fixed > saving a big file stops asking permission > one iPhone shows up once, and old phones can be removed All merged and rolling out. A lot more from the comments is being worked on right now, and I'll keep posting what gets fixed. Keep tagging me, quoting, or replying with anything @bot related and I will make sure the right people see it. Also thanks for all the new follows! Welcome 🙏 Larsen Cundric (@larsencc) I work on @bot Tag me with whatever annoys you, breaks on you, or you wish it could do. I read all of it and bring the good stuff to our team. Follow if you want to see what we ship next. — https://nitter.kareem.one/larsencc/status/2122836100792152411#m",
+   "url": "https://nitter.kareem.one/larsencc/status/2123189115147759725#m",
+   "ts": 1795042706,
+   "id": "2123189115147759725#m"
   },
   {
    "handle": "swyx",
