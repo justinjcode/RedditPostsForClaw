@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-19T07:45:16Z",
+ "generated_at": "2026-11-19T07:57:50Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Remember to cast your Tesla votes! Travis Axelrod (@travisraxelrod) Cast your vote now! (pls 😊) — https://nitter.kareem.one/travisraxelrod/status/2123126893331300680#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2123320336544649485#m",
+   "ts": 1795073992,
+   "id": "2123320336544649485#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -171,10 +181,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "What happened… Elon: Do not use Starlink to kill. Zelensky: I used Starlink to kill. Legacy Media: Elon is evil for stopping Zelensky from using Starlink to kill. Democrats: We must investigate Elon for stopping Zelensky from using Starlink to kill. It’s really that simple.",
-   "url": "https://nitter.kareem.one/C_3C_3/status/2123202151300448721#m",
-   "ts": 1795045814,
-   "id": "2123202151300448721#m"
+   "text": "🚨 WOW! Elon Musk just went off about the smears against him involving Starlink and Russia-Ukraine, saying he just WANTS PEACE \"Thousands of kids are sent in to die every day with no change in the borders, forever. And I think anyone who supports that is a horrible human being or has not thought through the problem!\" 💯 \"Nobody voluntarily goes to die in a drone strike. Those sons are never going to see those parents again.\" 💔 \"There's TOO MUCH 'Ukraine good, Russia bad.'\" \"There is no private individual who has helped Ukraine more than I have. I made sure that Starlink was in Ukraine, pre-positioned, ahead of the Russian invasion. And when Russia invaded, they disabled all communications, all cell towers, all fiber cables, and every satellite communication system, there was one system they could not disable and that was Starlink. And if they had not had Starlink, their entire line would have collapsed.\" \"It is NOT meant to be used for offensive drone strikes that k*ll people...for that, you use Starshield, controlled by the US government.\" Last week Zelensky accused SpaceX of LYING about speed limits on Starshield that he says cut off Ukraine's drones above 100 mph Ukraine gets Starshield through a U.S. GOVERNMENT AGREEMENT, not from @ElonMusk Show some gratitude, Zelensky, and help stop this war! Video",
+   "url": "https://nitter.kareem.one/EricLDaugh/status/2123196259318034475#m",
+   "ts": 1795044409,
+   "id": "2123196259318034475#m"
   },
   {
    "handle": "swyx",
@@ -265,15 +275,6 @@
    "url": "https://nitter.kareem.one/milichab/status/2123121516070232288#m",
    "ts": 1795026589,
    "id": "2123121516070232288#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "All 26 Starlink V3 satellites launched on Starship Flight 15 are now operational Those 26 satellites added 26 Tbps of downlink and 4.2 Tbps of uplink capacity to the Starlink network A typical Falcon 9 V2 Mini launch adds about 2.59 Tbps, so one Starship launch delivered the capacity of 10 Falcon 9 launches All 4 Starlink launches in October added 10.4 Tbps combined. Flight 15 added 2.5x that in a single flight Starlink now has 11,210 active satellites delivering 946.7 Tbps of downlink capacity, and Starship is just getting started",
-   "url": "https://nitter.kareem.one/XFreeze/status/2123121040322920458#m",
-   "ts": 1795026476,
-   "id": "2123121040322920458#m"
   },
   {
    "handle": "elonmusk",
