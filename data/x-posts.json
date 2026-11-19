@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-19T17:17:47Z",
+ "generated_at": "2026-11-19T17:25:30Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
   {
@@ -70,6 +69,15 @@
    "id": "2123438811627552983#m"
   },
   {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "An essay criticizing the one-note analysis being published in major media outlets on China and US-China relations by so many analysts. Its usually all-deterrence, all the time, with little if any consideration given to the need for mutual reassurances and agreements. Responsible Statecraft (@RStatecraft) NEW @Dalzell60 : Mira Rapp-Hooper, Ely Ratner, Rush Doshi, Kurt Campbell and more offer \"depressingly similar and one-sided arguments about China and U.S. China policy\" that if fulfilled could be dangerous. responsiblestatecraft.org/me… Link NYT the latest in showcasing bad US-China takes from DC experts A recent essay by former Biden officials is just one of many promoting policy that, if realized, would only lead to escalation and crisis responsiblestatecraft.org — https://nitter.kareem.one/RStatecraft/status/2123431103642091624#m",
+   "url": "https://nitter.kareem.one/Dalzell60/status/2123432791912194369#m",
+   "ts": 1795100803,
+   "id": "2123432791912194369#m"
+  },
+  {
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
@@ -95,6 +103,15 @@
    "url": "https://nitter.kareem.one/FounderClipsHQ/status/2123411646777307310#m",
    "ts": 1795095762,
    "id": "2123411646777307310#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "BREAKING: Elon Musk visited Tesla's Giga Shanghai today to personally thank the China and Asia-Pacific teams 🇨🇳 He flew in from Shenzhen and talked about FSD and Optimus. \"Let's make the future look like the future.\" – Elon Musk",
+   "url": "https://nitter.kareem.one/cb_doge/status/2123410726111134071#m",
+   "ts": 1795095542,
+   "id": "2123410726111134071#m"
   },
   {
    "handle": "TheRundownAI",
@@ -248,15 +265,6 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2123246238728630612#m",
    "ts": 1795056325,
    "id": "2123246238728630612#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "$SPCX : Satya Nadella says Microsoft would rent SpaceX compute. Asked at DealBook whether Musk is right about data centers in space: \"If he has SpaceX capacity that I can lease, I would lease it.\"",
-   "url": "https://nitter.kareem.one/SpaceInvestor_D/status/2123211962289176891#m",
-   "ts": 1795048153,
-   "id": "2123211962289176891#m"
   },
   {
    "handle": "swyx",
@@ -995,15 +1003,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2122206990101536852#m",
    "ts": 1794808549,
    "id": "2122206990101536852#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Peng Wensheng, former CICC chief economist, said #China 's #AI challenge is not just chips or money, but investors' reluctance to take risks. He calls for reforming government-backed funds and boosting consumer demand to make innovation pay. open.substack.com/pub/yuzheh… Link CICC's Former Chief Economist: China's AI problem isn't just chips, but risk appetite Peng Wensheng argues that America's willingness to bet big on uncertain technologies offers lessons for China's innovation financing. yuzhehe.com",
-   "url": "https://nitter.kareem.one/Yuzhehere/status/2121964656554328124#m",
-   "ts": 1794750772,
-   "id": "2121964656554328124#m"
   },
   {
    "handle": "thsottiaux",
