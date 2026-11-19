@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T06:30:50Z",
+ "generated_at": "2026-11-19T06:47:40Z",
  "accounts_ok": [
   "TheRundownAI",
   "ZichenWanghere",
@@ -15,6 +15,15 @@
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "The most useful thing about the pelican riding a bicycle test continues to be illustrating the differences between models in the same family running at different effort levels - here's Gemini 4 Carbon, the new Gemini 4 Neon, and Gemini 4 Hydrogen at low, medium, and high",
+   "url": "https://nitter.kareem.one/simonw/status/2123305131206967571#m",
+   "ts": 1795070367,
+   "id": "2123305131206967571#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1247,15 +1256,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2119650830534266885#m",
    "ts": 1794199113,
    "id": "2119650830534266885#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "I've recently started hiding the bulk of my AI-generated GitHub PR descriptions behind a collapsed <details><summary> HTML tag (thankfully supported by GitHub Markdown) and I think it's a useful pattern for making PR slop a little bit less exhausting simonwillison.net/2026/Nov/9… Link Hide your slop PR descriptions behind Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit … simonwillison.net",
-   "url": "https://nitter.kareem.one/simonw/status/2119650353142747181#m",
-   "ts": 1794199000,
-   "id": "2119650353142747181#m"
   },
   {
    "handle": "thsottiaux",
