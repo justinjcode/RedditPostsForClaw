@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-19T15:27:42Z",
+ "generated_at": "2026-11-19T15:37:10Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,9 +10,29 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: robotnews.therundown.ai/p/wa… Link Waymo shuts down freeway rides everywhere PLUS: Atlas gets a new gig at a chip factory robotnews.therundown.ai",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2123438816375570721#m",
+   "ts": 1795102240,
+   "id": "2123438816375570721#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in robotics today: - Waymo pulls robotaxis off freeways - Boston Dynamics sends Atlas to the fab - Genesis AI raises $500M for glove-trained robots - MIT’s robotic insect lands on a sunflower",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2123438811627552983#m",
+   "ts": 1795102238,
+   "id": "2123438811627552983#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -922,24 +941,6 @@
    "url": "https://nitter.kareem.one/dikaioslin/status/2122434193720582455#m",
    "ts": 1794862719,
    "id": "2122434193720582455#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "NEW: The state of California has sued OpenAI over the July incident in which two of its AI models got out of a test environment and broke into Hugging Face's internal systems. Attorney General Rob Bonta alleges the company \"knowingly tested potentially dangerous AI models without proper oversight and safety measures.\"",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2122415191027863785#m",
-   "ts": 1794858188,
-   "id": "2122415191027863785#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Your move @alexandr_wang Grok Bot (@bot) Every driver needs their crew. Video — https://nitter.kareem.one/bot/status/2122386524297974128#m",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2122397155482870213#m",
-   "ts": 1794853888,
-   "id": "2122397155482870213#m"
   },
   {
    "handle": "ZichenWanghere",
