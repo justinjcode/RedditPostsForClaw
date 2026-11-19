@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T06:47:40Z",
+ "generated_at": "2026-11-19T06:56:49Z",
  "accounts_ok": [
   "TheRundownAI",
   "ZichenWanghere",
@@ -15,6 +15,24 @@
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "More notes on Gemini 4 Neon on my blog simonwillison.net/2026/Nov/1… Link Release: llm-gemini 0.38 LLM plugin to access Google's Gemini family of models simonwillison.net",
+   "url": "https://nitter.kareem.one/simonw/status/2123305889700667899#m",
+   "ts": 1795070547,
+   "id": "2123305889700667899#m"
+  },
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "I also tried \"Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and stomps around manhattan and queens and Brooklyn, use openstreetmap mapping data\" against Gemini 4 Neon and got this static.simonwillison.net/sta… Video",
+   "url": "https://nitter.kareem.one/simonw/status/2123305792854217049#m",
+   "ts": 1795070524,
+   "id": "2123305792854217049#m"
+  },
   {
    "handle": "simonw",
    "name": "Simon Willison",
@@ -1222,15 +1240,6 @@
    "id": "2120021043876106429#m"
   },
   {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "There is a mysterious intermittent beep coming from somewhere in your room of unopened boxes. Do you: 1. Open boxes methodically until you find it 2. Vibe code software to triangulate it using two laptops, two iPads and a phone all listening at once simonwillison.net/2026/Nov/9… Link Locating the source of a mysterious beep with Claude Our house has a box room, full of boxes that we still haven’t unpacked from our last move. A couple of weeks ago something in that room started intermittently beeping. … simonwillison.net",
-   "url": "https://nitter.kareem.one/simonw/status/2119945524514328631#m",
-   "ts": 1794269374,
-   "id": "2119945524514328631#m"
-  },
-  {
    "handle": "bcherny",
    "name": "Boris Cherny",
    "author": "@bcherny",
@@ -1247,15 +1256,6 @@
    "url": "https://nitter.kareem.one/bcherny/status/2119873095129550880#m",
    "ts": 1794252105,
    "id": "2119873095129550880#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "... today I learned that Twitter preview cards can't handle HTML tags in post titles!",
-   "url": "https://nitter.kareem.one/simonw/status/2119650830534266885#m",
-   "ts": 1794199113,
-   "id": "2119650830534266885#m"
   },
   {
    "handle": "thsottiaux",
