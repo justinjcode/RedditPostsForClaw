@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-19T05:21:24Z",
+ "generated_at": "2026-11-19T05:27:08Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
   {
@@ -131,15 +130,6 @@
    "url": "https://nitter.kareem.one/firesidealpha/status/2123210477954367708#m",
    "ts": 1795047799,
    "id": "2123210477954367708#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon Musk responds to Democrats calling for his imprisonment: “It was like prison first, crime later.” “I don’t think I need a pardon, by the way, because I haven’t committed any crimes.” “A number of Democrats… said that I should go to prison. And then they asked him, but for what crime? And he couldn’t name a crime.” “He wants me to go to prison. It was like prison first, crime later.” “The guy’s trying to channel Beria from like Stalin, where it’s like, show me the man, I’ll show you the crime type of thing. I’m like, come on, guys, this is a little over the top.” “There are definitely a few people grumpy about my funding in this past election. But hopefully in this country, you still need to do an actual crime before you go to prison.” “It really needs to be first crime, then prison. Not the other way around. I mean, what country are we living in here?” Video",
-   "url": "https://nitter.kareem.one/KanekoaTheGreat/status/2123208280550084816#m",
-   "ts": 1795047276,
-   "id": "2123208280550084816#m"
   },
   {
    "handle": "swyx",
@@ -338,6 +328,15 @@
    "url": "https://nitter.kareem.one/AaronBack/status/2123050067359895724#m",
    "ts": 1795009555,
    "id": "2123050067359895724#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Back in 2015, Elon Musk opened SpaceX's new satellite engineering office in Seattle with an enormous ambition: “We want to revolutionize the satellite side of things just as we've done with the rocket side of things.” Eleven years later, look at what that vision has become • 11,100+ Starlink satellites in orbit • Connectivity across 174 countries and markets • 13.6 MILLION consumer subscribers • Hundreds of thousands of additional enterprise customers • 3,800+ aircraft already equipped with Starlink • Satellite-to-phone connectivity operating across roughly 30 countries And these aren't just numbers Starlink is connecting families living far beyond the reach of fiber, bringing internet to schools in remote villages, keeping ships connected in the middle of oceans, and giving millions of airline passengers high-speed internet thousands of meters above Earth It's also helping save lives From rescuing people stranded in remote wilderness to restoring emergency communications after natural disasters, Starlink is reaching places where traditional networks simply aren't available What started as Elon standing on a stage in Seattle, describing his vision of a global satellite network, has become the largest satellite constellation humanity has ever built Video",
+   "url": "https://nitter.kareem.one/XFreeze/status/2123034041452745036#m",
+   "ts": 1795005734,
+   "id": "2123034041452745036#m"
   },
   {
    "handle": "Lingling_Wei",
