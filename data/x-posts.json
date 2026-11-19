@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T17:54:39Z",
+ "generated_at": "2026-11-19T18:11:12Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,24 @@
  "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "You can create an entire company made of Grok Bots! Texas Twins Dad (@Texas_Twins_Dad) I wake up in the morning, and Grok Bot has already opened multiple PRs, run the tests, and merged them. Having Grok Bot is like hiring a team that never sleeps. — https://nitter.kareem.one/Texas_Twins_Dad/status/2123417350234136746#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2123475464043786417#m",
+   "ts": 1795110977,
+   "id": "2123475464043786417#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "lifetime views",
+   "url": "https://nitter.kareem.one/swyx/status/2123473262185509174#m",
+   "ts": 1795110452,
+   "id": "2123473262185509174#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -438,15 +456,6 @@
    "id": "2123099280152121442#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "HMD Trucking has taken delivery of its FIRST Tesla Semi from a 50-truck order in Illinois Before committing to the order, HMD tested the Semi for 4,000 miles hauling real freight The results: • 1.74 kWh/mile average efficiency • Significantly lower estimated energy costs than diesel on regional routes • No engine oil, fuel filters, or exhaust aftertreatment • Reduced brake wear thanks to regenerative braking The first truck arrived on November 2, becoming the first Tesla Semi officially registered in Illinois And the other 49 are on their way Now comes one of the toughest real-world tests yet A full Chicago winter Freezing temperatures, heavy snow, icy roads, and demanding freight operations HMD is putting Tesla Semi to work in conditions that will truly test its capabilities From summer testing to commercial freight operations in the Midwest, Tesla Semi is entering an entirely new chapter",
-   "url": "https://nitter.kareem.one/XFreeze/status/2123098403882319946#m",
-   "ts": 1795021079,
-   "id": "2123098403882319946#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -751,15 +760,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2122752662399500564#m",
    "ts": 1794938648,
    "id": "2122752662399500564#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "devin bots are multi-agent teams done right: - always on, proactive (but tuned for ROI) - own outcomes not tasks (but can collab w others) - manages teams of subagents (and reviews itself) - available everywhere (call text slack whatever hello @interaction ) - consistent reporting thru interactive artifacts aka devinapps not long chats (HTML is all you need™ @trq212 ) this is the preview that @walden_yan gave at AIE. i've been trialing them for a week and i've been able to hand over my AEO, QA, cross-platform app porting, personal admin automation, and video editing work (also simultaneously moving from local agent worktree hell to cloud because ofc this is all cloud based thank god) hyped concepts this replaces: - /goal - \"ultracode\" / \"ultra mode\" - \"loop engineering\" - \"agent to agent\" - \"agent swarms\" - AI employees (see below) my main aha moment is that you don't want \"AI Employees\", we do not have agi yet and you will just fail if you overpromise/overexpect. what you want is the \"just\" the next level of abstraction above single tasks, and the overwhelming consensus I've had talking to everyone at the frontier of agents (yes incl cog competitors) is agent managers that own outcomes. incidentally, as an employer of humans it's also how i distinguish between someone who \"has agency\" (owns a problem area, finds issues and researches/brings solutions not problems) and who doesn't (only does precisely what i asked, not proactive, doesn't come up with suggestions i didn't thin",
-   "url": "https://nitter.kareem.one/swyx/status/2122746401482592549#m",
-   "ts": 1794937155,
-   "id": "2122746401482592549#m"
   },
   {
    "handle": "simonw",
