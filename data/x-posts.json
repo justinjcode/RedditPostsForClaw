@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-11-19T16:33:32Z",
+ "generated_at": "2026-11-19T16:41:11Z",
  "accounts_ok": [
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,8 +11,7 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -32,6 +32,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2123438811627552983#m",
    "ts": 1795102238,
    "id": "2123438811627552983#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "🚨 马斯克来上海了！好羡慕上海特斯拉的员工啊！🤣🚀 老马晚上直接从深圳飞到上海，前往特斯拉工厂与中国员工见面，还一起拍了大合照！ 哈哈哈哈，这次老马终于站在 C 位了！😂 现场他还分享了一段很有意义的话： “把时间和资源用在让自己成为真正有用的人上，研发制造真正对人类有用的产品。摒弃短期投机思维，去做真正重要的事。” 不得不说，这段话还是挺值得思考的。 期待现场视频！🎬 兄弟们，有没有上海特斯拉的员工在现场？👀",
+   "url": "https://nitter.kareem.one/gaooofy/status/2123424019022299469#m",
+   "ts": 1795098712,
+   "id": "2123424019022299469#m"
   },
   {
    "handle": "TheRundownAI",
@@ -428,15 +437,6 @@
    "url": "https://nitter.kareem.one/AaronBack/status/2123050067359895724#m",
    "ts": 1795009555,
    "id": "2123050067359895724#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Back in 2015, Elon Musk opened SpaceX's new satellite engineering office in Seattle with an enormous ambition: “We want to revolutionize the satellite side of things just as we've done with the rocket side of things.” Eleven years later, look at what that vision has become • 11,100+ Starlink satellites in orbit • Connectivity across 174 countries and markets • 13.6 MILLION consumer subscribers • Hundreds of thousands of additional enterprise customers • 3,800+ aircraft already equipped with Starlink • Satellite-to-phone connectivity operating across roughly 30 countries And these aren't just numbers Starlink is connecting families living far beyond the reach of fiber, bringing internet to schools in remote villages, keeping ships connected in the middle of oceans, and giving millions of airline passengers high-speed internet thousands of meters above Earth It's also helping save lives From rescuing people stranded in remote wilderness to restoring emergency communications after natural disasters, Starlink is reaching places where traditional networks simply aren't available What started as Elon standing on a stage in Seattle, describing his vision of a global satellite network, has become the largest satellite constellation humanity has ever built Video",
-   "url": "https://nitter.kareem.one/XFreeze/status/2123034041452745036#m",
-   "ts": 1795005734,
-   "id": "2123034041452745036#m"
   },
   {
    "handle": "Lingling_Wei",
