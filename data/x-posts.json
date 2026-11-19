@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-19T17:09:46Z",
+ "generated_at": "2026-11-19T17:17:47Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -28,10 +28,28 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "BREAKING: Anthropic CEO Dario Amodei praises SpaceX and says his company is enjoying working with SpaceX. “We're finding that compute to be high quality. We're enjoying working with SpaceX.” Video",
+   "url": "https://nitter.kareem.one/cb_doge/status/2123454575038677045#m",
+   "ts": 1795105997,
+   "id": "2123454575038677045#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "Starlink Mobile is now live in Mongolia! Our complementary layer of coverage enables customers to stay connected on their phones across the country's vast geography from the Gobi Desert to mountains and grassy plains. mobicom (@MobicomOfficial) mobispace — Connecting beyond limits... Mobicom Corporation, in partnership with Starlink Mobile, has officially launched mobispace. @Starlink Mobispace is a new service that uses Starlink’s satellite technology to help users stay connected on their phones in areas where traditional mobile network coverage is unavailable. Coverage works best with a clear view of the sky. (Please note that the service is not available in areas near the border.) Service features: Send and receive SMS messages Use data (Access selected apps at limited speeds) How to activate? Activate the service through the mobispace menu in the mobicom app, or text “space” to 592. 🎁 Activate before December 1 and use the service free for the first month! Please note: To use the service, your mobile device must support 4G or above, and Data Roaming must be enabled. 🔗 Learn more: mobicom.mn/service/r7bu306ve… 📍 Darkhad Valley, northwestern Khuvsgul Province — https://nitter.kareem.one/MobicomOfficial/status/2122545422103384397#m",
    "url": "https://nitter.kareem.one/SRBednarek/status/2123447242249932955#m",
    "ts": 1795104248,
    "id": "2123447242249932955#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "People usually see the one deal and think that’s the whole thing, but the ones who know realize that it’s years of work, micro victories and failures stacked on top of one another. It’s really the manifestation of trust. The folks that trusted us, our vision and our thesis, and leaders of companies that trusted that we would bring more than money. Kind of cool when that works out. Congrats to @DarioAmodei and the whole team at Anthropic. Congrats to the LPs that supported us. Congrats to our team that helped us craft and execute a vision. And thank you to those who didn’t believe in us. You made us work harder. Love you @guyoseary @epsteineffie",
+   "url": "https://nitter.kareem.one/aplusk/status/2123444817602748717#m",
+   "ts": 1795103670,
+   "id": "2123444817602748717#m"
   },
   {
    "handle": "TheRundownAI",
@@ -68,6 +86,15 @@
    "url": "https://nitter.kareem.one/FengmingLuPE/status/2123416672749207760#m",
    "ts": 1795096960,
    "id": "2123416672749207760#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Anthropic raised about $140B and still has ~$132B on the balance sheet, per @tanayj . \"They burnt like under $10 billion to get to where they have.\" The Wing VC partner says the cash burn was the biggest surprise in Anthropic's S-1, \"and I mean that in a positive way.\" On @latentspacepod with @swyx , ahead of Anthropic's IPO. Is the low burn the real story of this IPO? Video Latent.Space (@latentspacepod) ⚡️ $ANT IPOs tomorrow! We catch you up on everything we learned from the S-1 and the IPO roadshow. @tanayj talks us through the $9.9B compute and infrastructure bill and other deep dives. inv.kareem.one/wX8nDtGIfYA Thanks to all the positive feedback on the @jaminball pod. Good luck tomorrow Ants! Link ⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC Anthropic reported $17B in quarterly revenue. What did it cost to g... youtube.com — https://nitter.kareem.one/latentspacepod/status/2123162937309438117#m",
+   "url": "https://nitter.kareem.one/FounderClipsHQ/status/2123411646777307310#m",
+   "ts": 1795095762,
+   "id": "2123411646777307310#m"
   },
   {
    "handle": "TheRundownAI",
@@ -196,15 +223,6 @@
    "id": "2123298074911248526#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon gave two talks today at DealBook and TomorrowX Summit, revealing more about SpaceX's plans than most earnings calls. Here are the 11 key takeaways: 1. SpaceX is scaling AI compute at an extraordinary pace: SpaceX is adding roughly 500 MW monthly, equivalent to 220,000 GB300s. Elon expects over 1 GW monthly by end-2027: a 6 GW annualized pace today, doubling to 12 GW. 2. Its build costs are far below industry estimates: Elon says outside estimates are off by up to 2x, with SpaceX building at roughly 60% of industry costs. Its in-house \"Army X\" builds the data centers, while Tesla Megapacks smooth training power. I'd already been modeling a 25–30% SpaceX cost advantage. 3. Anthropic could become a 10 GW customer: Anthropic told Elon its most likely outcome is renting another 10 GW from SpaceX, on top of existing capacity. Contracts allow termination with 3–6 months' notice, but Anthropic says staying is \"extremely likely.\" This reinforces my model that Anthropic will take most upcoming capacity. 4. SpaceX is targeting a vastly larger telecom market: Elon argues AT&T and Verizon won't disappear as bandwidth demand explodes. Humans communicate at roughly 100 bits per second, while superintelligence and robots could require a trillion. SpaceX is targeting a market orders of magnitude larger than existing telecom revenue, as I'd modeled. Even more interestingly, this creates an opportunity to push its AI business further. 5. Its next-generation satellite network arrives next y",
-   "url": "https://nitter.kareem.one/marsrepublica/status/2123274994952065291#m",
-   "ts": 1795063181,
-   "id": "2123274994952065291#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -266,6 +284,15 @@
    "url": "https://nitter.kareem.one/larsencc/status/2123189115147759725#m",
    "ts": 1795042706,
    "id": "2123189115147759725#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Fun to chat with @swyx about the Anthropic S-1! we discussed: - their capital efficient journey to $70B+ of run-rate - how they've spent their compute over time - the nature of long-term compute commitments vs more usage based revenue that isn't always contracted Latent.Space (@latentspacepod) ⚡️ $ANT IPOs tomorrow! We catch you up on everything we learned from the S-1 and the IPO roadshow. @tanayj talks us through the $9.9B compute and infrastructure bill and other deep dives. inv.kareem.one/wX8nDtGIfYA Thanks to all the positive feedback on the @jaminball pod. Good luck tomorrow Ants! Link ⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC Anthropic reported $17B in quarterly revenue. What did it cost to g... youtube.com — https://nitter.kareem.one/latentspacepod/status/2123162937309438117#m",
+   "url": "https://nitter.kareem.one/tanayj/status/2123185516539425000#m",
+   "ts": 1795041848,
+   "id": "2123185516539425000#m"
   },
   {
    "handle": "swyx",
@@ -338,15 +365,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2123135338822656387#m",
    "ts": 1795029885,
    "id": "2123135338822656387#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "One-shot your trip with @bot Grok Bot (@bot) Plan your next trip with Grok Bot. Bot can now book flights, hotels, and rental cars, finding you the best deal anywhere you go. Video — https://nitter.kareem.one/bot/status/2123121401762918718#m",
-   "url": "https://nitter.kareem.one/milichab/status/2123121516070232288#m",
-   "ts": 1795026589,
-   "id": "2123121516070232288#m"
   },
   {
    "handle": "elonmusk",
@@ -745,15 +763,6 @@
    "id": "2122743985818960245#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Over the past week, I’ve been overwhelmed by the love and support of friends, industry colleagues, and people I've never met. Thank you to everyone who has shown kindness to my family and me. It means the world to me. I came to the United States 53 years ago, and becoming an American citizen is one of the greatest gifts and proudest moments of my life. NVIDIA has been my life’s work. Building it into the company it is today alongside my colleagues has been a privilege and an honor. Nowhere but in America could a company like NVIDIA be possible. I love our country, and I love NVIDIA. I did not live up to the standards expected of everyone at NVIDIA, and I have made serious mistakes in my personal life. I created problems for the Board that I deeply regret. I own my mistakes completely, and I am committed to cooperating with the Board’s independent investigation. Since my departure, I’ve seen an outpouring of calls from NVIDIA’s employees, investors, business partners, and customers for me to return as CEO. Many continue to reach out to me directly as the company navigates complex technology, market, competitive, and geopolitical dynamics. NVIDIA is a once-in-a-generation company. If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I would be honored to answer these calls and return as CEO. Thank you again to everyone who has shared their good wishes. I am profoundly humbled by your support. To m",
-   "url": "https://nitter.kareem.one/JensenHuang/status/2122726005219737649#m",
-   "ts": 1794932292,
-   "id": "2122726005219737649#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -761,15 +770,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2122724004611997715#m",
    "ts": 1794931815,
    "id": "2122724004611997715#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "I've been following @Cloudflare since it began 17 yrs ago. Its latest move into creating System One models is fascinating, and when I sat down with @michellechen at @aiDotEngineer Code, I discovered there are more models to come — incl reasoning models! latent.space/p/cloudflare/ Link Cloudflare Joins the Jevolution and Labels Itself a Neolab — Latent Space Cloudflare made its name speeding up the web. Now it's building System One models to make decisions and pull data in milliseconds. latent.space",
-   "url": "https://nitter.kareem.one/ricmac/status/2122715468695785649#m",
-   "ts": 1794929780,
-   "id": "2122715468695785649#m"
   },
   {
    "handle": "TheRundownAI",
