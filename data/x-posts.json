@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-19T03:42:45Z",
+ "generated_at": "2026-11-19T03:47:44Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,27 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "casting Monica Barbaro as temu Mira Murati is crazy work DiscussingFilm (@DiscussingFilm) New trailer for Luca Guadagnino's ‘ARTIFICIAL’, starring Andrew Garfield as Sam Altman. The film follows the story involving OpenAI focused on the firing & rehiring of CEO Sam Altman. In theaters on January 8. Video — https://nitter.kareem.one/DiscussingFilm/status/2123101099800273047#m",
+   "url": "https://nitter.kareem.one/swyx/status/2123260852984013045#m",
+   "ts": 1795059810,
+   "id": "2123260852984013045#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "fcf profitable! Matt Biilmann (@biilmann) No envy towards anyone. That’s not how we operate. 93k people come and sign up for Netlify every day on average. Zero paid spend, all organic acquisition. We ask them who they are, what they are trying to build, and then we try to make them successful. Our relaunch is not some artificial attempt at being something new that we are not. It is just about showing what we have become by listening to our users and help them build things that matter to them. Also, we are growing 130% YoY and generating free cashflow, so it’s turning out pretty well, objectively speaking. — https://nitter.kareem.one/biilmann/status/2123236286710645234#m",
+   "url": "https://nitter.kareem.one/swyx/status/2123259711785148431#m",
+   "ts": 1795059538,
+   "id": "2123259711785148431#m"
+  },
   {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
@@ -790,15 +807,6 @@
    "id": "2122517110874140702#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "women are destroying the men, wtf is happening rn",
-   "url": "https://nitter.kareem.one/swyx/status/2122512082835067151#m",
-   "ts": 1794881289,
-   "id": "2122512082835067151#m"
-  },
-  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -932,15 +940,6 @@
    "url": "https://nitter.kareem.one/dunne_insights/status/2122322203148685667#m",
    "ts": 1794836018,
    "id": "2122322203148685667#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "A lot of the most successful people I know spent years of their life just bumming around, before they suddenly exploded into action and did something great. I don't think that's a coincidence. noahpinion.blog/p/bumbition Link Bumbition An alternative route to success in life. noahpinion.blog",
-   "url": "https://nitter.kareem.one/Noahpinion/status/2122267469268328711#m",
-   "ts": 1794822969,
-   "id": "2122267469268328711#m"
   },
   {
    "handle": "thsottiaux",
