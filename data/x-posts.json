@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-19T04:41:54Z",
+ "generated_at": "2026-11-19T04:49:07Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "4 years ago Elon Musk (@elonmusk) We gave Starlinks to Ukraine & lost $80M+ in doing so, while putting SpaceX & myself at serious risk of Russian cyberattack. What have you done besides tweet? — https://nitter.kareem.one/elonmusk/status/1577081450263769089#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2123272422719967730#m",
+   "ts": 1795062568,
+   "id": "2123272422719967730#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -122,15 +130,6 @@
    "url": "https://nitter.kareem.one/firesidealpha/status/2123210477954367708#m",
    "ts": 1795047799,
    "id": "2123210477954367708#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon Musk reveals what really drives him to make humanity a star-faring civilization: “It’s life insurance, but for everything.” “If you simply look at the fossil record and look at how many extinction events have happened, which is a lot, then you know that this is simply a matter of time. It’s a when, not an if.” “It’s important to have insurance for life as a whole. It’s life insurance, but for everything.” But what motivates him even more: “I want to envision a future that’s exciting, that we’re out there exploring new frontiers, going to new star systems, and make science fiction not just fiction forever.” “We should boldly go like Star Trek, boldly go where no one’s gone before. And perhaps we find some long dead alien civilizations, or perhaps we find actual aliens we could talk to.” “You know how you can figure out if something’s really cool about the future? Just ask your kid, and they’ll tell you.” “Life cannot just be about solving one miserable problem after another. There have to be things that excite you and inspire you about the future, that make you happy when you wake up in the morning.” “You can’t wait to see what happens next. And being a star-faring civilization is one of those things.” Video",
-   "url": "https://nitter.kareem.one/KanekoaTheGreat/status/2123209664687132901#m",
-   "ts": 1795047606,
-   "id": "2123209664687132901#m"
   },
   {
    "handle": "elonmusk",
