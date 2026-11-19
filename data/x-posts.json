@@ -1,9 +1,7 @@
 {
- "generated_at": "2026-11-19T01:07:38Z",
+ "generated_at": "2026-11-19T01:22:39Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +9,30 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Catching the ship was the last major piece of the puzzle X Freeze (@XFreeze) Elon Musk on why the historic Starship catch is a much bigger milestone than most people realize “Catching the ship was the final major piece” SpaceX has now achieved: • 3 successful Super Heavy booster catches • A booster that was reflown and caught again • The FIRST EVER Starship upper-stage catch • Ship 42 returning from orbit in good enough condition to be reflown with only minor repairs For the first time, SpaceX has demonstrated that both stages of Starship can return and be recovered by the launch tower And Elon confirmed that Ship 42 will likely be preserved for public display because of its historic achievement “No one has ever taken a stage like that and created a truly reusable upper stage and certainly not brought it back to land propulsively while being caught by giant chopsticks” Now look at what full and rapid reusability is expected to unlock: • Up to 100 TIMES lower cost of accessing space • The potential to deliver MILLIONS OF TONS of payload to orbit annually • A transportation system where both stages return, refuel, and fly again That's the scale of what SpaceX is building Starship has already demonstrated the recovery of both stages. The next step is turning recovery into routine, rapid reuse And that's what will fundamentally change the economics of spaceflight Video — https://nitter.kareem.one/XFreeze/status/2123209734463648240#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2123220899264679988#m",
+   "ts": 1795050284,
+   "id": "2123220899264679988#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Yes KanekoaTheGreat (@KanekoaTheGreat) Elon Musk reveals how Starlink saved Ukraine from collapse, and sets the record straight on claims he throttled it: “There is no private individual who has helped Ukraine more than I have. I made sure that Starlink was in Ukraine, prepositioned ahead of the Russian invasion.” “When Russia invaded, they disabled all communications, all cell towers, all fiber cables, and every satellite communication system. There was one system they could not disable, and that was Starlink.” “If they had not had Starlink, their entire line would have collapsed because they had no communication system, and Russia would have won. Now, does that sound like a pro-Russian action to you?” “Even to this present day, Starlink provides the backbone of communications for the Ukrainian military and for Ukraine more broadly. If we were to turn off Starlink, the entire Ukrainian front would collapse immediately.” “From the beginning, I said that Starlink is a civilian system. It is not meant to be used for offensive drone strikes that kill people. If you want to do that, you need to do Starshield, which is a separate system that is controlled by the US government.” “In the Starlink system, there is a speed limit. That speed limit is the speed of the fastest road speed limit in Ukraine, which I think is about 80 miles an hour.” “Do not ask me as a private individual to make kill decisions that sometimes result in the loss of innocent lives, not just soldiers. That is n",
+   "url": "https://nitter.kareem.one/elonmusk/status/2123220589657944265#m",
+   "ts": 1795050210,
+   "id": "2123220589657944265#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -69,6 +88,15 @@
    "id": "2123208280550084816#m"
   },
   {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Pretty sure I'm the only Korean who got a solo photo with @swyx at @aiDotEngineer SF. Maybe the first ever? 😄 Yes, I'm the green guy from the Seoul crew. Next time, more real conversations. And all event long, one thought kept coming back: Seoul needs one of these.",
+   "url": "https://nitter.kareem.one/choisor/status/2123207663672824242#m",
+   "ts": 1795047128,
+   "id": "2123207663672824242#m"
+  },
+  {
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
@@ -76,6 +104,15 @@
    "url": "https://nitter.kareem.one/cb_doge/status/2123205279009677430#m",
    "ts": 1795046560,
    "id": "2123205279009677430#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Elon Musk reveals how Starlink saved Ukraine from collapse, and sets the record straight on claims he throttled it: “There is no private individual who has helped Ukraine more than I have. I made sure that Starlink was in Ukraine, prepositioned ahead of the Russian invasion.” “When Russia invaded, they disabled all communications, all cell towers, all fiber cables, and every satellite communication system. There was one system they could not disable, and that was Starlink.” “If they had not had Starlink, their entire line would have collapsed because they had no communication system, and Russia would have won. Now, does that sound like a pro-Russian action to you?” “Even to this present day, Starlink provides the backbone of communications for the Ukrainian military and for Ukraine more broadly. If we were to turn off Starlink, the entire Ukrainian front would collapse immediately.” “From the beginning, I said that Starlink is a civilian system. It is not meant to be used for offensive drone strikes that kill people. If you want to do that, you need to do Starshield, which is a separate system that is controlled by the US government.” “In the Starlink system, there is a speed limit. That speed limit is the speed of the fastest road speed limit in Ukraine, which I think is about 80 miles an hour.” “Do not ask me as a private individual to make kill decisions that sometimes result in the loss of innocent lives, not just soldiers. That is not my position to do. And yet we’ve bee",
+   "url": "https://nitter.kareem.one/KanekoaTheGreat/status/2123202170250240283#m",
+   "ts": 1795045819,
+   "id": "2123202170250240283#m"
   },
   {
    "handle": "elonmusk",
@@ -294,24 +331,6 @@
    "id": "2123021799784919349#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "True Mogul (@SmartNotHard1) Elon Musk and Grimes found each other because they both independently made the same obscure joke about an AI thought experiment called Roko's Basilisk. Neither of them knew the other had made it. When they discovered the coincidence, Elon DM'd her. Their first real conversation lasted four hours. Roko's Basilisk is a philosophical thought experiment about a future AI that punishes anyone who didn't help create it. It's the kind of idea that maybe a few thousand people on Earth find interesting, let alone funny. Elon had tweeted a joke about it. Grimes had made a music video referencing it. Neither one was aware of the other's version. When someone pointed out the overlap, Elon messaged her. The conversation that followed wasn't flirting. It was two people discovering that their brains worked in the same strange way. AI, simulation theory, the future of consciousness, music as mathematics. Grimes later said she had never met anyone who could follow her thoughts at the speed she was thinking them. Their first public appearance together was the 2018 Met Gala. They arrived together and the internet lost its mind because nobody could figure out how the richest man in tech and an experimental musician from Montreal ended up in the same universe. The answer was simpler than anyone expected. They were both the kind of person who makes jokes about obscure AI philosophy at 2am and thinks that's normal. They didn't find each other through fame or fortune. The",
-   "url": "https://nitter.kareem.one/elonmusk/status/2123020499680981231#m",
-   "ts": 1795002505,
-   "id": "2123020499680981231#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Is the Thucydides Trap ever avoidable? I wish it were, but, inevitably, the most interesting outcome is the most likely.",
-   "url": "https://nitter.kareem.one/elonmusk/status/2123017891167785201#m",
-   "ts": 1795001883,
-   "id": "2123017891167785201#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -418,15 +437,6 @@
    "url": "https://nitter.kareem.one/MinakoOikawa/status/2122915154824438153#m",
    "ts": 1794977389,
    "id": "2122915154824438153#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I’m sorry but how can you watch this and not be obsessed Video",
-   "url": "https://nitter.kareem.one/HalcyonHypnotic/status/2122914742100517144#m",
-   "ts": 1794977291,
-   "id": "2122914742100517144#m"
   },
   {
    "handle": "swyx",
@@ -841,15 +851,6 @@
    "url": "https://nitter.kareem.one/dikaioslin/status/2122434193720582455#m",
    "ts": 1794862719,
    "id": "2122434193720582455#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "gmail has no gcal search despite cal is sent via gmail",
-   "url": "https://nitter.kareem.one/swyx/status/2122427240441131203#m",
-   "ts": 1794861061,
-   "id": "2122427240441131203#m"
   },
   {
    "handle": "TheRundownAI",
