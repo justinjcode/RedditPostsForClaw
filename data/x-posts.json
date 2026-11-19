@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-19T05:38:43Z",
+ "generated_at": "2026-11-19T05:46:38Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Exactly X Freeze (@XFreeze) Elon Musk sets the record straight after years of being falsely accused of turning off Starlink to stop Ukraine's offensive strike against the Russian fleet in Sevastopol Even Walter Isaacson acknowledged that his book got this crucial detail wrong “And we've not turned off Starlink. This is false” “At the time, the Starlink satellite beams were not on in Crimea” Starlink coverage had never been activated over Crimea in the first place Ukraine wanted SpaceX to activate that coverage for an offensive military operation against the Russian fleet Elon refused, explaining that activating the beams would have required State Department approval because of sanctions There's an enormous difference between shutting down an existing service and refusing to activate coverage that was never available Yet Elon spent years being accused of doing exactly that Walter Isaacson himself corrected the original account Elon never turned off Starlink to stop the Sevastopol strike Video — https://nitter.kareem.one/XFreeze/status/2123268230768939328#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2123288098331414533#m",
+   "ts": 1795066306,
+   "id": "2123288098331414533#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -140,15 +149,6 @@
    "url": "https://nitter.kareem.one/choisor/status/2123207663672824242#m",
    "ts": 1795047128,
    "id": "2123207663672824242#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Here's Elon Musk's full interview at DealBook Summit today: 0:00 Opening Remarks 0:31 Jensen Huang Situation 2:44 Jensen Like Jordan 3:41 Would Hire Jensen 5:43 Midterms Loss Reaction 6:25 Balance Of Power 8:45 No Pardon Needed 10:30 Politics Involvement 12:07 Not MAGA Views 14:58 Starlink Saved Ukraine 21:30 Zelensky Not Truthful 22:02 Starlink Vs Starshield 23:35 Power Of One Person 24:16 Rules Unchanged 26:17 Open Source Rockets 27:51 Starlink Funds Starship 29:59 Multiplanetary Future 32:22 Direct To Cell Plan 35:53 SpaceX Tesla Merger 39:31 No Merger Bonus 40:51 Model YL Demand 41:12 Cybercab And AVs 42:44 Anthropic Compute Deal 45:11 Feeling At Peace Video",
-   "url": "https://nitter.kareem.one/cb_doge/status/2123205279009677430#m",
-   "ts": 1795046560,
-   "id": "2123205279009677430#m"
   },
   {
    "handle": "elonmusk",
