@@ -1,20 +1,37 @@
 {
- "generated_at": "2026-11-19T01:47:46Z",
+ "generated_at": "2026-11-19T01:55:01Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Looking for hardcore engineers to join Terafab! X Freeze (@XFreeze) Elon Musk just shared an ambitious timeline for Terafab, which is being designed to become the largest building on Earth at 100 million square feet And the first test chip is targeted for June 2027 \"Terafab is still in its infancy, obviously. We only announced it earlier this year, but we've already recruited quite a strong team, and we're looking for more great engineers to join the Terafab project. It is one of the most exciting projects in the world: to create the largest, most advanced chip fabrication facility on Earth. In fact, it'll be the largest building of any kind on Earth. We expect it to ultimately be 100 million square feet, densely packed with the most advanced equipment in the world We'll use relatively standard equipment at first, but then we'll be pushing suppliers to do special versions of the machines. In some cases, we may make our own machine if we feel that has to be done in order to improve the production process So yes, I think it's going quite well. We expect to have the research fab in operation and hopefully make our first test chip around June of next year. So I guess we're about eight or nine months away from that. And if all goes well, we will achieve volume production towards the end of 2028, at least for phase one of Terafab. And then we'll go to phase two and onwards. But I think you'll see some very rapid evolution in the way that chips are made\" Video — https://nitter.karee",
+   "url": "https://nitter.kareem.one/elonmusk/status/2123229344936173890#m",
+   "ts": 1795052298,
+   "id": "2123229344936173890#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "People do not yet understand: 1) Starship is one of the most important technologies in the history of mankind 2) @SpaceX ’s ship catch last weekend all but guarantees the concept works 3) almost all inference compute will be in space (launched by Starship) Elon Musk (@elonmusk) Catching the ship was the last major piece of the puzzle — https://nitter.kareem.one/elonmusk/status/2123220899264679988#m",
+   "url": "https://nitter.kareem.one/shaunmmaguire/status/2123226341726376324#m",
+   "ts": 1795051582,
+   "id": "2123226341726376324#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -208,15 +225,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "We put a lot of thought into public safety Farzad 🇺🇸 🇮🇷 (@farzyness) Why Starship Zigzagged Home Instead of Flying Straight Video — https://nitter.kareem.one/farzyness/status/2123026399787184615#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2123159371119280372#m",
-   "ts": 1795035615,
-   "id": "2123159371119280372#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Couldn’t recommend it more. Take your kids to a Starship launch. It’s a full-body experience. something you feel as much as you see, and one of the most awe-inspiring feats of human ingenuity you’ll ever witness. Plus, you’ll never see more grown men crying. Seriously & that’s a wonderful thing. Impossible not to be deeply moved by what this incredible team has accomplished. Elon Musk (@elonmusk) True, Starship launches are incredibly exciting — https://nitter.kareem.one/elonmusk/status/2122871410561593384#m",
    "url": "https://nitter.kareem.one/gjurvetson/status/2123145363544772871#m",
    "ts": 1795032275,
@@ -250,6 +258,15 @@
    "id": "2123132631596556767#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "All 26 Starlink V3 satellites launched on Starship Flight 15 are now operational Those 26 satellites added 26 Tbps of downlink and 4.2 Tbps of uplink capacity to the Starlink network A typical Falcon 9 V2 Mini launch adds about 2.59 Tbps, so one Starship launch delivered the capacity of 10 Falcon 9 launches All 4 Starlink launches in October added 10.4 Tbps combined. Flight 15 added 2.5x that in a single flight Starlink now has 11,210 active satellites delivering 946.7 Tbps of downlink capacity, and Starship is just getting started",
+   "url": "https://nitter.kareem.one/XFreeze/status/2123121040322920458#m",
+   "ts": 1795026476,
+   "id": "2123121040322920458#m"
+  },
+  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -277,15 +294,6 @@
    "id": "2123099280152121442#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The Starbase tower team on location with the first caught Starship🍌",
-   "url": "https://nitter.kareem.one/SpaceX/status/2123097995679867195#m",
-   "ts": 1795020982,
-   "id": "2123097995679867195#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -311,15 +319,6 @@
    "url": "https://nitter.kareem.one/AaronBack/status/2123050067359895724#m",
    "ts": 1795009555,
    "id": "2123050067359895724#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Why Starship Zigzagged Home Instead of Flying Straight Video",
-   "url": "https://nitter.kareem.one/farzyness/status/2123026399787184615#m",
-   "ts": 1795003912,
-   "id": "2123026399787184615#m"
   },
   {
    "handle": "Lingling_Wei",
