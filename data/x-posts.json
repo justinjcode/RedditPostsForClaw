@@ -1,19 +1,38 @@
 {
- "generated_at": "2026-11-19T11:27:18Z",
+ "generated_at": "2026-11-19T11:42:10Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: therundownai.beehiiv.com/p/g… Link Google’s shipping spree continues with Neon PLUS: Use AI to rework your LinkedIn profile therundownai.beehiiv.com",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2123378311225057657#m",
+   "ts": 1795087814,
+   "id": "2123378311225057657#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in AI today: - Google’s shipping spree continues with Neon - Nate’s Notebook: Ask your AI for more - Use AI to rewrite your LinkedIn profile - Pika turns AI video into a live film set",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2123378306598813803#m",
+   "ts": 1795087813,
+   "id": "2123378306598813803#m"
+  },
   {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
@@ -931,24 +950,6 @@
    "url": "https://nitter.kareem.one/maxwelltani/status/2122383167327814133#m",
    "ts": 1794850553,
    "id": "2122383167327814133#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "OpenAI also named Transluce and Goodfire as part of the \"first phase\" of embedded assessments. Transluce will check how thorough OpenAI’s alignment tests really are, and Goodfire is bringing tools that read what’s happening inside a model while it trains. A report today from The Information revealed that a senior OpenAI exec floated buying Goodfire this summer for $5B+. The Rundown AI (@TheRundownAI) NEW: OpenAI is letting two outside AI safety groups, METR and Apollo Research, look inside its model training to check whether its AI behaves as intended. Apollo is placing six evaluators at OpenAI for four months to test whether models try to work around the systems meant to watch them. METR gets transcripts and model snapshots from OpenAI’s largest reinforcement learning run, and plans to publish what it finds. — https://nitter.kareem.one/TheRundownAI/status/2122379979694707134#m",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2122382376802144728#m",
-   "ts": 1794850365,
-   "id": "2122382376802144728#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "NEW: OpenAI is letting two outside AI safety groups, METR and Apollo Research, look inside its model training to check whether its AI behaves as intended. Apollo is placing six evaluators at OpenAI for four months to test whether models try to work around the systems meant to watch them. METR gets transcripts and model snapshots from OpenAI’s largest reinforcement learning run, and plans to publish what it finds.",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2122379979694707134#m",
-   "ts": 1794849793,
-   "id": "2122379979694707134#m"
   },
   {
    "handle": "ZichenWanghere",
