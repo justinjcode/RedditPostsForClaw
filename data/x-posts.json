@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T18:11:12Z",
+ "generated_at": "2026-11-19T18:25:18Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -8,12 +8,31 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@swyx: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Full essay via Google's DeepMind Institute: institute.deepmind.com/essay… Link What comes after AGI? From AGI to Superintelligence How will we navigate the transition from AGI to ASI? Explore the compounding technological pathways and the rise of cognitive industrialization. institute.deepmind.com",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2123480646530043904#m",
+   "ts": 1795112213,
+   "id": "2123480646530043904#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "NEW: Google DeepMind researcher Tim Genewein published an essay on how AI could get from human-level (AGI) to superintelligence (ASI). Genewein says the count of today's AI agents the world can run might grow more than 1,000x by 2030 and pass a billion times within a decade. Beyond just numbers, he names four routes: bigger models trained on more data, new ways of building AI, large groups of agents working together, and AI that improves the next generation of AI. He also says the routes build on each other, and if one stalls, competition will likely push work onto the others.",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2123480546244264291#m",
+   "ts": 1795112189,
+   "id": "2123480546244264291#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -798,15 +817,6 @@
    "id": "2122714173889003997#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in tech today: - Chase software bug jams U.S. banks - Instagram spins DMs into Direct, again - Amazon’s Starlink rival loses 40 satellites - Hyperscale data centers rival Denmark’s emissions",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2122714166574129556#m",
-   "ts": 1794929470,
-   "id": "2122714166574129556#m"
-  },
-  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -823,15 +833,6 @@
    "url": "https://nitter.kareem.one/ilovecatlovecar/status/2122687865943654735#m",
    "ts": 1794923199,
    "id": "2122687865943654735#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: therundownai.beehiiv.com/p/c… Link California takes OpenAI to court California sues OpenAI over undisclosed AI agent escapes, including a hack of Hugging Face, and the security failures it allegedly hid from the public. therundownai.beehiiv.com",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2122653544188637678#m",
-   "ts": 1794915016,
-   "id": "2122653544188637678#m"
   },
   {
    "handle": "Lingling_Wei",
