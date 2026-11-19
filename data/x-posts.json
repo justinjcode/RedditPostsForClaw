@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T23:09:06Z",
+ "generated_at": "2026-11-19T23:16:41Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +11,7 @@
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -41,6 +41,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2123537922670657753#m",
    "ts": 1795125868,
    "id": "2123537922670657753#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "@linear was founded to build a better issue tracker, then $134M in funding and 7 years later, their CEO @karrisaarinen wrote a post titled “Issue tracking is dead”. I sat down with @cjc (COO, @linear ) to talk about how they navigated that and how their GTM strategy evolved over that period. We got into: -why she stopped chasing enterprise deals three weeks after joining -why @linear has never hired a single SDR -why they won't let an LLM answer support tickets fully-autonomously and much, much, more… Enjoy! Timestamps 0:00 Intro 0:51 Meet Cristina Cordova, COO of Linear 1:39 Why Linear hired a COO at 40 people 5:01 Her work trial: a go-to-market plan for Linear 12:11 Crossing enterprise off the company goals 20:00 Why being a database behind an MCP server isn't enough 23:39 Selling after \"issue tracking is dead\" 34:40 Smaller, flatter teams and no SDRs 36:14 AI-drafted support replies with humans in charge 42:23 Why Linear doesn't do forward deployed engineering 47:53 Why some AI startups hit $100M ARR so fast 50:06 Moving from seats to usage-based pricing 57:07 Trading the 2025 enterprise roadmap for agents 1:03:28 What Linear's moat is now 1:05:54 Why not hire 100 salespeople? 1:08:59 Stripe's 40% rule for engineering headcount Link in the comments. Video",
+   "url": "https://nitter.kareem.one/realbasilchatha/status/2123512769794175004#m",
+   "ts": 1795119871,
+   "id": "2123512769794175004#m"
   },
   {
    "handle": "thsottiaux",
@@ -671,15 +680,6 @@
    "url": "https://nitter.kareem.one/AngelicaOung/status/2122967843616813409#m",
    "ts": 1794989951,
    "id": "2122967843616813409#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "btw every fucking time someone on this app tries to tell you “distribution is everything” it is just some room temperature iq midwit trying to sell you his distribution services and app chris olah got rich writing a blog. fucking hell how stupid do you have to be Vlad (@vladsvitanko) This guy's blog will be worth $17.8 billion in two days > studies math at the University of Toronto for 1 year > drops out at 18 > 2012: Peter Thiel pays him $100K to skip college (!!) > starts writing machine learning explainers on his personal blog > the posts spread through every ML lab on the planet > 2015: Google Brain hires him > 2018: leads a research team at OpenAI > 2021: leaves with 6 colleagues and co-founds Anthropic > Anthropic lists at $1.4 TRILLION in 2 days btw His name is Chris Olah, co-founder of Anthropic Zero degrees, just a good blog that did all the work for him Moral of the story: distribution is your biggest leverage — https://nitter.kareem.one/vladsvitanko/status/2122772209391354083#m",
-   "url": "https://nitter.kareem.one/swyx/status/2122944534229446791#m",
-   "ts": 1794984394,
-   "id": "2122944534229446791#m"
   },
   {
    "handle": "thsottiaux",
