@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-19T16:46:36Z",
+ "generated_at": "2026-11-19T16:58:55Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed"
+  "@swyx: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starlink Mobile is now live in Mongolia! Our complementary layer of coverage enables customers to stay connected on their phones across the country's vast geography from the Gobi Desert to mountains and grassy plains. mobicom (@MobicomOfficial) mobispace — Connecting beyond limits... Mobicom Corporation, in partnership with Starlink Mobile, has officially launched mobispace. @Starlink Mobispace is a new service that uses Starlink’s satellite technology to help users stay connected on their phones in areas where traditional mobile network coverage is unavailable. Coverage works best with a clear view of the sky. (Please note that the service is not available in areas near the border.) Service features: Send and receive SMS messages Use data (Access selected apps at limited speeds) How to activate? Activate the service through the mobispace menu in the mobicom app, or text “space” to 592. 🎁 Activate before December 1 and use the service free for the first month! Please note: To use the service, your mobile device must support 4G or above, and Data Roaming must be enabled. 🔗 Learn more: mobicom.mn/service/r7bu306ve… 📍 Darkhad Valley, northwestern Khuvsgul Province — https://nitter.kareem.one/MobicomOfficial/status/2122545422103384397#m",
+   "url": "https://nitter.kareem.one/SRBednarek/status/2123447242249932955#m",
+   "ts": 1795104248,
+   "id": "2123447242249932955#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -41,6 +50,15 @@
    "url": "https://nitter.kareem.one/gaooofy/status/2123424019022299469#m",
    "ts": 1795098712,
    "id": "2123424019022299469#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "Actually these photos were taken in January 1979 during his final winter vacation at Tsinghua. They were walking on a beach in Hainan, part of GD province back then of course. Joseph Torigian (@JosephTorigian) In his toast at APEC, Xi said about Shenzhen: \"When I first set foot here in 1978, it was little more than a fishing village.\" What he didn't say was that his father was then the leader of Guangdong province. Here are some pics of father and son during that 1978 visit to GD. — https://nitter.kareem.one/JosephTorigian/status/2123225305615598039#m",
+   "url": "https://nitter.kareem.one/FengmingLuPE/status/2123416672749207760#m",
+   "ts": 1795096960,
+   "id": "2123416672749207760#m"
   },
   {
    "handle": "TheRundownAI",
@@ -167,15 +185,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2123298074911248526#m",
    "ts": 1795068684,
    "id": "2123298074911248526#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Exactly X Freeze (@XFreeze) Elon Musk sets the record straight after years of being falsely accused of turning off Starlink to stop Ukraine's offensive strike against the Russian fleet in Sevastopol Even Walter Isaacson acknowledged that his book got this crucial detail wrong “And we've not turned off Starlink. This is false” “At the time, the Starlink satellite beams were not on in Crimea” Starlink coverage had never been activated over Crimea in the first place Ukraine wanted SpaceX to activate that coverage for an offensive military operation against the Russian fleet Elon refused, explaining that activating the beams would have required State Department approval because of sanctions There's an enormous difference between shutting down an existing service and refusing to activate coverage that was never available Yet Elon spent years being accused of doing exactly that Walter Isaacson himself corrected the original account Elon never turned off Starlink to stop the Sevastopol strike Video — https://nitter.kareem.one/XFreeze/status/2123268230768939328#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2123288098331414533#m",
-   "ts": 1795066306,
-   "id": "2123288098331414533#m"
   },
   {
    "handle": "elonmusk",
@@ -986,15 +995,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2122206990101536852#m",
    "ts": 1794808549,
    "id": "2122206990101536852#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Taiwan media literally asked Jensen a gazillion times these trick political Qs about China/Taiwan. If you think \"Jensen never answer\" is b.c. \"he never worried\" it just means your little brain cannot comprehend ppl. of importance are not obligated to tell you what they think.🤡 CBS Evening News with Tony Dokoupil (@CBSEveningNews) Jensen Huang was born in Taiwan. @PatrickMcGee_ finds it strange that he doesn’t seem more worried about what Beijing has said about the island. Watch Great Question with @tonydokoupil on YouTube or listen wherever you get your podcasts: inv.kareem.one/p85Gfa-z07A?si=ZDQ1… Video — https://nitter.kareem.one/CBSEveningNews/status/2121984689833464314#m",
-   "url": "https://nitter.kareem.one/PaulHuangReport/status/2122171802952876376#m",
-   "ts": 1794800160,
-   "id": "2122171802952876376#m"
   },
   {
    "handle": "ZichenWanghere",
