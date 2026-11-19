@@ -1,9 +1,7 @@
 {
- "generated_at": "2026-11-19T08:55:30Z",
+ "generated_at": "2026-11-19T09:13:15Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +9,21 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Extend consciousness to the stars X Freeze (@XFreeze) Back in 2016, Elon Musk laid out the scale of what it would actually take to build a self-sustaining city on Mars The goal was to build a civilization that can survive on its own The scale Elon laid out: • ~100 people per ship • Mars launch opportunities roughly every 2 years • Around 10,000 trips to move 1 million people • A spacecraft large enough to carry people, luggage and massive amounts of cargo At the time, the hardest part was obvious: You needed a transportation system that can fly again and again Now that future is getting much closer Starship has returned from space and been caught by the tower The next step is rapid reuse, reflying the same ship again and again until spaceflight starts looking more like aviation In 2016, Elon described the transportation system needed to build a city on Mars In 2026, SpaceX is finally starting to prove the reusability that makes it possible Video — https://nitter.kareem.one/XFreeze/status/2123335780852744499#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2123337655731826810#m",
+   "ts": 1795078121,
+   "id": "2123337655731826810#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -49,6 +59,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2123317934747746611#m",
    "ts": 1795073419,
    "id": "2123317934747746611#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "@elonmusk Asked whether he should collect Tesla compensation if SpaceX and Tesla merge, Elon Musk said no: \"I don't think I should be compensated with any kind of award just for doing a merger. That would be unreasonable and not right.\" \"You should keep your deals and stay true to your word.\" Video",
+   "url": "https://nitter.kareem.one/teslaownersSV/status/2123309405013987713#m",
+   "ts": 1795071385,
+   "id": "2123309405013987713#m"
   },
   {
    "handle": "simonw",
@@ -112,15 +131,6 @@
    "url": "https://nitter.kareem.one/marsrepublica/status/2123274994952065291#m",
    "ts": 1795063181,
    "id": "2123274994952065291#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "4 years ago Elon Musk (@elonmusk) We gave Starlinks to Ukraine & lost $80M+ in doing so, while putting SpaceX & myself at serious risk of Russian cyberattack. What have you done besides tweet? — https://nitter.kareem.one/elonmusk/status/1577081450263769089#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2123272422719967730#m",
-   "ts": 1795062568,
-   "id": "2123272422719967730#m"
   },
   {
    "handle": "swyx",
@@ -213,24 +223,6 @@
    "id": "2123169908338884712#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Excited to launch Gemini 4 Neon: frontier-level intelligence, super fast task completion, and available to Pro & Ultra users now!! We think you’ll enjoy this model. Alchemy at its finest… 🧪",
-   "url": "https://nitter.kareem.one/demishassabis/status/2123168218743554465#m",
-   "ts": 1795037724,
-   "id": "2123168218743554465#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Gemini 4 Neon: frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows. Begins rolling out today in the Gemini API in @GoogleAIStudio , Gemini for business, for paid Google AI Pro and Ultra subscribers in Google @Antigravity , and for Google AI Pro and Ultra subscribers in the @GeminiApp .",
-   "url": "https://nitter.kareem.one/sundarpichai/status/2123167780988125621#m",
-   "ts": 1795037620,
-   "id": "2123167780988125621#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -247,6 +239,15 @@
    "url": "https://nitter.kareem.one/TheAhmadOsman/status/2123163447785639956#m",
    "ts": 1795036587,
    "id": "2123163447785639956#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "I think a lot of people aren't using Grok Bot to its full potential, because knowing how to automate things is actually quite a difficult skill to learn. I wrote this post to break down how I approach automating anything with Grok Bot! Article Automate Anything with Grok Bot Automation can be surprisingly hard to get right, even for people who do it every day. I’d like to share how I approach it, at work and in my personal life, and how Grok Bot can help you take on more",
+   "url": "https://nitter.kareem.one/poteto/status/2123159537016533493#m",
+   "ts": 1795035654,
+   "id": "2123159537016533493#m"
   },
   {
    "handle": "swyx",
@@ -465,6 +466,15 @@
    "id": "2122983553541812630#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "I honestly can't live without Grokbot anymore -- I officially just upgraded to $200/m It's better than Claude Duet, Codex Dot, Hermes, Instinct, Zo Computer, Poke, Openclaw, etc It's actually the best AI assistant out there that can do anything. I know a lot of people are just talking, so let me tell you exactly what I use it for (steal my bots below too for free) - my chief of staff bot checks both my gmails every hour, drafts every brand deal reply for me to approve, and pings me with exactly what's owed - my content bot scouts viral ai posts overnight and writes my typefully drafts so i wake up with ideas ready to film - my job search bot applied to 5 jobs in under 7 minutes with a custom resume and cover letter for each one - my coding agents run on my mac studio while i'm out so that any build that takes hours could start even if I'm not home, and my chief of staff pauses the heavy jobs whenever i go live - my flipper bot prices my stuff off real sold comps and writes the listings - my reservations bot watches resy for hard-to-get nyc tables and books them the second they drop - my bills, claims and privacy bots shop my bills for savings, hunt unclaimed money and scrub my info off people-search sites - my clipfarm bot handles customer emails and support directly through its own Grok email All managed by a really pretty iOS app as well!",
+   "url": "https://nitter.kareem.one/ashen_one/status/2122979126290329952#m",
+   "ts": 1794992641,
+   "id": "2122979126290329952#m"
+  },
+  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -508,15 +518,6 @@
    "url": "https://nitter.kareem.one/MinakoOikawa/status/2122915154824438153#m",
    "ts": 1794977389,
    "id": "2122915154824438153#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "60,000 deliveries. ありがとう❤️ Tesla Japan (@teslajapan) 多くのお客様に支えられて、国内60,000台目のテスラをお届けしました。テスラを選んでくださった皆さまに心から感謝いたします。 これからも日本のお客様の声に耳を傾け、乗るたびに心が動く体験をつくっていきます。 — https://nitter.kareem.one/teslajapan/status/2122645005215088882#m",
-   "url": "https://nitter.kareem.one/Tesla_Asia/status/2122873047602675832#m",
-   "ts": 1794967350,
-   "id": "2122873047602675832#m"
   },
   {
    "handle": "swyx",
