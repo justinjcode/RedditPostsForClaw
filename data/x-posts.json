@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-19T05:55:18Z",
+ "generated_at": "2026-11-19T06:13:32Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,7 +10,9 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 177,
  "items": [
   {
@@ -121,15 +122,6 @@
    "url": "https://nitter.kareem.one/wallstengine/status/2123212558438134157#m",
    "ts": 1795048295,
    "id": "2123212558438134157#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon Musk predicts 100% of superintelligence compute will be in space, and says Tesla and SpaceX would “probably” be better together: “If you look into the future, orbital compute is really going to be where things scale to.” “In the future, the amount of superintelligence compute that is on Earth will round down to 0% and superintelligence compute in space will round up to 100%.” “Now remember these words, because that sounds like a preposterous thing to say.” “I think superintelligence compute [on Earth] will be less than 0.4% of compute. Therefore, orbital compute will round up to 100%. And I think this is a relatively easy prediction to make, and it’s simply a matter of time before that happens.” Would Tesla and SpaceX be better together? “Probably yes. Now, this is not like let’s merge the companies no matter what. These require shareholder votes, which may or may not succeed, at least in the case of Tesla.” “I can’t just drag them into a non-economic merger that is bad for them, because I’ll obviously get sued.” “It really is just a question of, do SpaceX and Tesla execute better together and create more value than if they’re apart?” Video",
-   "url": "https://nitter.kareem.one/KanekoaTheGreat/status/2123212134175949267#m",
-   "ts": 1795048194,
-   "id": "2123212134175949267#m"
   },
   {
    "handle": "elonmusk",
@@ -265,6 +257,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2123135338822656387#m",
    "ts": 1795029885,
    "id": "2123135338822656387#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "One-shot your trip with @bot Grok Bot (@bot) Plan your next trip with Grok Bot. Bot can now book flights, hotels, and rental cars, finding you the best deal anywhere you go. Video — https://nitter.kareem.one/bot/status/2123121401762918718#m",
+   "url": "https://nitter.kareem.one/milichab/status/2123121516070232288#m",
+   "ts": 1795026589,
+   "id": "2123121516070232288#m"
   },
   {
    "handle": "elonmusk",
