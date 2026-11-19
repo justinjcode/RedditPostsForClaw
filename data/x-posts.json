@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T07:57:50Z",
+ "generated_at": "2026-11-19T08:12:52Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "ZichenWanghere",
+  "TheRundownAI",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +11,7 @@
   "thsottiaux"
  ],
  "errors": [
-  "@TheRundownAI: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -367,6 +367,15 @@
    "id": "2123068725410869585#m"
   },
   {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Fable 5.2 output costs twice what Opus 5.5 does. Lydia Hallie from Anthropic: \"You're not just paying Fable prices to implement everything.\" Video",
+   "url": "https://nitter.kareem.one/RayFernando1337/status/2123054459429192052#m",
+   "ts": 1795010602,
+   "id": "2123054459429192052#m"
+  },
+  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -689,15 +698,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2122724004611997715#m",
    "ts": 1794931815,
    "id": "2122724004611997715#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "i kept getting questions on how we released clef so quickly after jev, but i strongly believe that we’re mostly reaping the benefits of asymmetric effort: new ideas are difficult to invent and easy to copy. @typesafeai has done an incredible job in pioneering this concept of system one models. i also strongly believe that it is not a zero-sum game! it’s almost a duty for all of us to solve difficult hardware constraints through software, and system one models allow us to offload some of the work we’d regularly send to LLMs towards smaller, faster, and less compute-intensive models. we’re also still challenging ourselves to invent in this space as well, with the launch of clairic and more. i’m excited for the future of cloudflare as a neolab and hope you are too. thank you to @ricmac for sitting down with me on this story! Richard MacManus (@ricmac) I've been following @Cloudflare since it began 17 yrs ago. Its latest move into creating System One models is fascinating, and when I sat down with @michellechen at @aiDotEngineer Code, I discovered there are more models to come — incl reasoning models! latent.space/p/cloudflare/ Link Cloudflare Joins the Jevolution and Labels Itself a Neolab — Latent Space Cloudflare made its name speeding up the web. Now it's building System One models to make decisions and pull data in milliseconds. latent.space — https://nitter.kareem.one/ricmac/status/2122715468695785649#m",
-   "url": "https://nitter.kareem.one/michellechen/status/2122719372309672295#m",
-   "ts": 1794930711,
-   "id": "2122719372309672295#m"
   },
   {
    "handle": "swyx",
