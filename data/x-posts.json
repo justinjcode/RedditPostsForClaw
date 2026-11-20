@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T05:57:11Z",
+ "generated_at": "2026-11-20T06:14:15Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -7,11 +7,12 @@
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@simonw: all instances failed"
+ ],
  "count": 177,
  "items": [
   {
@@ -148,6 +149,15 @@
    "url": "https://nitter.kareem.one/SpaceX/status/2123516375805379040#m",
    "ts": 1795120731,
    "id": "2123516375805379040#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Vibe coding a game is fun until you don't know what your own characters do. @trq212 on keeping creative control as models get better: readable specs, custom languages, and a software renaissance. The Sweet Side of the Bitter Lesson. Watch: inv.kareem.one/xRJMiaUoD_8",
+   "url": "https://nitter.kareem.one/aiDotEngineer/status/2123514398438211840#m",
+   "ts": 1795120260,
+   "id": "2123514398438211840#m"
   },
   {
    "handle": "swyx",
@@ -562,15 +572,6 @@
    "url": "https://nitter.kareem.one/poteto/status/2123159537016533493#m",
    "ts": 1795035654,
    "id": "2123159537016533493#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "third party review Rick Blalock (@rblalock) @cognition Just launched their Bots product and it’s pretty great. Here’s a super detailed friction log of the few days I’ve had with it this far: rickblalock.dev/scratch-note… Link Learnings from moving my Grok Bots to Devin Bots | Scratch Notes What worked, what got in the way, and why I ended up using both. rickblalock.dev — https://nitter.kareem.one/rblalock/status/2122891881059373074#m",
-   "url": "https://nitter.kareem.one/swyx/status/2123141337314988384#m",
-   "ts": 1795031315,
-   "id": "2123141337314988384#m"
   },
   {
    "handle": "TheRundownAI",
