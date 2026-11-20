@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-20T08:09:53Z",
+ "generated_at": "2026-11-20T08:24:25Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "whatever happened to @cursor_ai origin? anyone use this thing in anger yet? does it have actions/ci/cd yet? swyx (@swyx) Cursor/Graphite’s @TomasReimers just announced Origin @cursor_ai ’s long awaited Git competitor, scalable for agent workloads, extensible with api and mcp, and built in merge conflicts and co failure agent resolution — https://nitter.kareem.one/swyx/status/2066928345246470204#m",
+   "url": "https://nitter.kareem.one/swyx/status/2123690305736396925#m",
+   "ts": 1795162199,
+   "id": "2123690305736396925#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -553,15 +563,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2123169908338884712#m",
    "ts": 1795038127,
    "id": "2123169908338884712#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "AirBnB got frontier intelligence quality from a 2B model for 1% of the cost From my talk last week at AIE Code (What Runs Where) Video Ahmad (@TheAhmadOsman) Appreciate everyone who showed up to my talk on Local AI at AIE Code today — https://nitter.kareem.one/TheAhmadOsman/status/2120366089788076073#m",
-   "url": "https://nitter.kareem.one/TheAhmadOsman/status/2123163447785639956#m",
-   "ts": 1795036587,
-   "id": "2123163447785639956#m"
   },
   {
    "handle": "elonmusk",
