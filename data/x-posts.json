@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-20T10:19:20Z",
+ "generated_at": "2026-11-20T10:25:39Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
   {
@@ -41,6 +40,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2123690305736396925#m",
    "ts": 1795162199,
    "id": "2123690305736396925#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Great to have Elon at Giga Shanghai! During his brief visit to China, Elon made a special stop to thank our teams across Asia in person. Our Giga Shanghai team had a little something for him, too — a special gift designed and crafted by the team right here at the factory, using leftover materials from production. The energy on the floor was unmistakable. From the latest progress in superintelligence to the team’s achievements, there was plenty to celebrate — and even more to look forward to. Let’s make the future look like the future. 🚀",
+   "url": "https://nitter.kareem.one/Tesla_Asia/status/2123674470351310910#m",
+   "ts": 1795158424,
+   "id": "2123674470351310910#m"
   },
   {
    "handle": "swyx",
@@ -536,15 +544,6 @@
    "url": "https://nitter.kareem.one/choisor/status/2123207663672824242#m",
    "ts": 1795047128,
    "id": "2123207663672824242#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "What I fixed in the last 24h from your replies: > take over your bot's computer and stay in control until you hand it back > photos from your phone actually reach your bot > VPN desktop uploads stop failing > a safety check hiccup now asks you to approve instead of dead-ending > dictation keeps the word you fixed > saving a big file stops asking permission > one iPhone shows up once, and old phones can be removed All merged and rolling out. A lot more from the comments is being worked on right now, and I'll keep posting what gets fixed. Keep tagging me, quoting, or replying with anything @bot related and I will make sure the right people see it. Also thanks for all the new follows! Welcome 🙏 Larsen Cundric (@larsencc) I work on @bot Tag me with whatever annoys you, breaks on you, or you wish it could do. I read all of it and bring the good stuff to our team. Follow if you want to see what we ship next. — https://nitter.kareem.one/larsencc/status/2122836100792152411#m",
-   "url": "https://nitter.kareem.one/larsencc/status/2123189115147759725#m",
-   "ts": 1795042706,
-   "id": "2123189115147759725#m"
   },
   {
    "handle": "swyx",
