@@ -1,19 +1,29 @@
 {
- "generated_at": "2026-11-20T05:27:03Z",
+ "generated_at": "2026-11-20T05:39:27Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@bcherny: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "Our colleague Eva Yi Xie, a Princeton neuroscience PhD student, was detained by ICE at Reagan National Airport on her way home from SfN, where she’d just presented her poster. She’s being held in Chantilly, VA. Please help us bring her home. 📷",
+   "url": "https://nitter.kareem.one/brody_lab/status/2123614249251709199#m",
+   "ts": 1795144066,
+   "id": "2123614249251709199#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -1012,15 +1022,6 @@
    "url": "https://nitter.kareem.one/sinoautoman/status/2122465941237973130#m",
    "ts": 1794870288,
    "id": "2122465941237973130#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "China’s automotive ecosystem is more embedded in Europe than you might think. sinoautoman.substack.com/p/c… 🧵1/17",
-   "url": "https://nitter.kareem.one/sinoautoman/status/2122465891590054041#m",
-   "ts": 1794870276,
-   "id": "2122465891590054041#m"
   },
   {
    "handle": "ZichenWanghere",
