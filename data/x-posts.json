@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-20T10:37:06Z",
+ "generated_at": "2026-11-20T10:48:03Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "bcherny",
   "elonmusk",
@@ -11,10 +10,20 @@
   "thsottiaux"
  ],
  "errors": [
+  "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Tesla’s AI, running on our little AI4 computer, can now reach Torment II in Diablo",
+   "url": "https://nitter.kareem.one/elonmusk/status/2123726569206415815#m",
+   "ts": 1795170845,
+   "id": "2123726569206415815#m"
+  },
   {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
@@ -446,15 +455,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2123337655731826810#m",
    "ts": 1795078121,
    "id": "2123337655731826810#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Starlink started with a speech in Seattle As Found (@AsFoundX) 🚨 ELON MUSK’S 2015 SATELLITE VISION IS NOW THE BIGGEST NETWORK ON EARTH In 2015 Elon opened SpaceX’s satellite office in Seattle and said they wanted to change satellites the same way they changed rockets. Eleven years later Starlink has more than 11,100 satellites in orbit. It works in 174 countries, has 13.6 million users, and is on over 3,800 planes. It connects remote villages, ships at sea, and people after disasters when normal networks are down. What started as a speech in Seattle is now the largest satellite system ever built. Video — https://nitter.kareem.one/AsFoundX/status/2123059516749029756#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2123333341932052749#m",
-   "ts": 1795077092,
-   "id": "2123333341932052749#m"
   },
   {
    "handle": "swyx",
