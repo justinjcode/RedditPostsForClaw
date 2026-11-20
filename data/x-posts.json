@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-20T03:09:27Z",
+ "generated_at": "2026-11-20T03:23:13Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
   {
@@ -122,6 +121,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2123537922670657753#m",
    "ts": 1795125868,
    "id": "2123537922670657753#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "On Starship’s 15th flight last week, the Super Heavy booster correctly performed a safe abort when returning for a catch and ended its mission with a splashdown in the water off the coast of Starbase. Following splashdown, SpaceX recovery teams were immediately onsite to safe the area while our Environmental Health and Safety team worked to ensure any debris that washes onshore was recovered → x.com/SpaceX/status/21216299… When we received reports of potential debris in Mexican territory, we immediately mobilized to send specialists to aid in identification and lead any cleanup work required, just as we did on Boca Chica Beach near Starbase. We continue to stay in contact with the Mexican government and are on standby to send support if authorities in Mexico tell us it is actually needed. Partners on the ground relayed that theyhave found very little debris in their sweeps of the beach, and the small amount they have found are not clearly from SpaceX operations. The majority of the social media posts online claiming widespread debris and damage are either outright fabrications or intentionally misleading. As repeatedly stated, independent tests conducted on materials inside Starship and the Super Heavy booster, including toxicity analyses, confirm they pose no chemical, biological, or toxicological risks. Starship is designed to be fully reusable, with future missions planning to return all hardware back to the launch site for catch and reuse. SpaceX is the only one, whether ",
+   "url": "https://nitter.kareem.one/SpaceX/status/2123516375805379040#m",
+   "ts": 1795120731,
+   "id": "2123516375805379040#m"
   },
   {
    "handle": "swyx",
@@ -374,15 +382,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2123320336544649485#m",
    "ts": 1795073992,
    "id": "2123320336544649485#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Moving all text conversations to be encrypted to ensure user privacy XChat (@chat) To continue optimizing the X experience, support for legacy groups on XChat will be ending this Friday. All unencrypted conversations will become encrypted, and group members not on XChat by Friday will need to sign up for XChat to be reincluded in those conversations. — https://nitter.kareem.one/chat/status/2123134844540448943#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2123319956381339961#m",
-   "ts": 1795073901,
-   "id": "2123319956381339961#m"
   },
   {
    "handle": "elonmusk",
