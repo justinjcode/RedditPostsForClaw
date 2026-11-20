@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-20T01:46:06Z",
+ "generated_at": "2026-11-20T01:56:29Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "when scrolling social media i think it is worth bearing in mind that you can say “odds of reaching SOTA have dropped to zero” and get alot of likes and then 3 months later when they have reached SOTA you post apology form and get even more likes and the subject of your writing prints it out and thanks you for motivation theres no consequences at all for inaccuracy and every incentive for hyperbole and the x algorithm is tuned for this Arthur Douillard (@Ar_Douillard) I want to thanks @SemiAnalysis_ for the motivation. In the Gemini RL scaling team, we printed & put that article on our desks to be reminded daily of what used to be true at the time. But the times they are changing :) — https://nitter.kareem.one/Ar_Douillard/status/2123423354367377492#m",
+   "url": "https://nitter.kareem.one/swyx/status/2123591875349422435#m",
+   "ts": 1795138732,
+   "id": "2123591875349422435#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -661,15 +671,6 @@
    "url": "https://nitter.kareem.one/WSJ/status/2123000819884646597#m",
    "ts": 1794997813,
    "id": "2123000819884646597#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "this was both correct and also wrong",
-   "url": "https://nitter.kareem.one/swyx/status/2123000373275476202#m",
-   "ts": 1794997707,
-   "id": "2123000373275476202#m"
   },
   {
    "handle": "ZichenWanghere",
