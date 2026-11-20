@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T15:18:20Z",
+ "generated_at": "2026-11-20T15:28:28Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,24 @@
  "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Full statement: alpo.ge/remark.pdf",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2123797074126979492#m",
+   "ts": 1795187655,
+   "id": "2123797074126979492#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "NEW: Anthropic mathematician Levent Alpöge says he and Claude have solved the Riemann Hypothesis, a 167-year-old Millennium Prize problem that many consider the most famous open question in math.",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2123796680902586814#m",
+   "ts": 1795187561,
+   "id": "2123796680902586814#m"
+  },
   {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
@@ -888,15 +906,6 @@
    "id": "2122821908680860146#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "SHIPPING: Microsoft introduced seven MAI models at its Ignite event, including new systems for coding, cyber defense, image editing, live voice, and more. Highlights include: MAI Code 2: within a few points of Claude Opus 5.5 on coding benchmarks, for a twentieth of what Anthropic charges. MAI Image 2.7: moves to No. 1 on Artificial Analysis’ image editing board. MAI Cyber 2 Flash: ties GPT-6 Astra on a cybersecurity test, costing under 2% as much per task. Video",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2122805949203148959#m",
-   "ts": 1794951352,
-   "id": "2122805949203148959#m"
-  },
-  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -931,15 +940,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2122753991000133943#m",
    "ts": 1794938964,
    "id": "2122753991000133943#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "NEW: OpenAI released GPT-6.2 Astra and GPT-6.2 Sol, rolling out now across paid plans. OpenAI rates Astra as the first public model to reach “High” on AI self-improvement, its label for a model that acts like an extra research engineer for each OpenAI researcher. Astra on Max effort comes in at a 62 on @ArtificialAnlys Intelligence Index, landing at No. 2 behind Claude Fable 5.2 (65). It’s also much cheaper to run, beating GPT-6 Astra on OpenAI’s work and science tests for under 1/3 of the price, with API rates also down 20%.",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2122752662399500564#m",
-   "ts": 1794938648,
-   "id": "2122752662399500564#m"
   },
   {
    "handle": "simonw",
