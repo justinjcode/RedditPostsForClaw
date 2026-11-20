@@ -1,9 +1,7 @@
 {
- "generated_at": "2026-11-20T17:25:09Z",
+ "generated_at": "2026-11-20T17:38:44Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +9,21 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Made with Grok @Bot inv.kareem.one/watch?v=NkzscD… Link What can you create with Grok Bots using Grok Imagine? I made this music video called Meat Proxy.Music by Suno, all vide... youtube.com",
+   "url": "https://nitter.kareem.one/elonmusk/status/2123827993382687217#m",
+   "ts": 1795195027,
+   "id": "2123827993382687217#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -238,15 +248,6 @@
    "url": "https://nitter.kareem.one/XFreeze/status/2123696355554316764#m",
    "ts": 1795163642,
    "id": "2123696355554316764#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "This is not AI 😂 X Freeze (@XFreeze) Back in January 2020, Elon Musk celebrated with the Tesla China team by dancing on stage at Giga Shanghai Tesla had just started delivering its first China-made Model 3s to customers, only 357 days after construction began Elon personally thanked the team for their incredible hard work and kicked off the Model Y program in China One of the most iconic and unforgettable moments from Tesla's early days in Shanghai....and that dance is still hilarious to watch 🥰 Video — https://nitter.kareem.one/XFreeze/status/2123439181720612879#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2123695317375992288#m",
-   "ts": 1795163394,
-   "id": "2123695317375992288#m"
   },
   {
    "handle": "swyx",
