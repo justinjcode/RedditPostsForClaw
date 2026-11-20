@@ -1,19 +1,29 @@
 {
- "generated_at": "2026-11-20T09:07:40Z",
+ "generated_at": "2026-11-20T09:21:38Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@bcherny: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "不喜欢这个座次的你们可以自己主场再办一场把自己人放中间嘛🥺",
+   "url": "https://nitter.kareem.one/ZichenWanghere/status/2123707404043063434#m",
+   "ts": 1795166276,
+   "id": "2123707404043063434#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1012,15 +1022,6 @@
    "url": "https://nitter.kareem.one/anissagardizy8/status/2122493529293475884#m",
    "ts": 1794876866,
    "id": "2122493529293475884#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Will Chinese automotive suppliers become increasingly Europeanized as they integrate into local industries? Or will Europe’s automotive ecosystem become more Chinese as their influence grows? Perhaps the real transformation lies somewhere in between. 17/17",
-   "url": "https://nitter.kareem.one/sinoautoman/status/2122465941237973130#m",
-   "ts": 1794870288,
-   "id": "2122465941237973130#m"
   },
   {
    "handle": "ZichenWanghere",
