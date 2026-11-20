@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-20T17:56:25Z",
+ "generated_at": "2026-11-20T18:12:10Z",
  "accounts_ok": [
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,10 +10,20 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Try the Claudia Grok Bot! x.ai/bot/zvsgYtQHUcSKGRhAb_J… Video Elon Musk (@elonmusk) Made with Grok @Bot inv.kareem.one/watch?v=NkzscD… Link What can you create with Grok Bots using Grok Imagine? I made this music video called Meat Proxy.Music by Suno, all vide... youtube.com — https://nitter.kareem.one/elonmusk/status/2123827993382687217#m",
+   "url": "https://nitter.kareem.one/anabology/status/2123830701166645603#m",
+   "ts": 1795195672,
+   "id": "2123830701166645603#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -86,6 +95,15 @@
    "url": "https://nitter.kareem.one/simonw/status/2123808432830701909#m",
    "ts": 1795190363,
    "id": "2123808432830701909#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Caring about the working class means more than handing out uninspiring jobs. Make the factory cool and the work meaningful so people feel they’re building the future, not just following orders.",
+   "url": "https://nitter.kareem.one/yunta_tsai/status/2123806218913529933#m",
+   "ts": 1795189835,
+   "id": "2123806218913529933#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -217,15 +235,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Tesla’s AI, running on our little AI4 computer, can now reach Torment II in Diablo",
-   "url": "https://nitter.kareem.one/elonmusk/status/2123726569206415815#m",
-   "ts": 1795170845,
-   "id": "2123726569206415815#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Starlink is transforming a remote mountain water gate in Japan that sits completely outside mobile network coverage For years, workers had to travel roughly 35 minutes along a dangerous mountain road just to inspect the facility. During heavy rain, floods, or at night, reaching the site became even more dangerous Now KDDI and Japanese farm-tech company farmo have connected the Shinbori headworks in Sekikawa, Niigata, using Starlink Mini Here's how the system works: • Starlink Mini provides satellite internet where cellular networks don't reach • LoRa connects water-level sensors and the automated water gate • Solar panels power the equipment where grid electricity is difficult to access • Cloud monitoring gives operators real-time water levels, camera feeds, equipment status, and emergency alerts • Workers remotely open and close the water gate without physically visiting the site The results are already impressive: All 6 remote gate-control tests were SUCCESSFUL Workers now have visibility and control over infrastructure that previously required a dangerous mountain trip just to inspect This becomes especially important during floods and emergencies, when every minute matters and sending workers into dangerous conditions puts lives at risk The project will continue in Japan's FY2027, with plans to expand into automated water management, disaster prevention, and other agricultural applications This is another example of what Starlink is making possible Video",
    "url": "https://nitter.kareem.one/XFreeze/status/2123707452915065128#m",
    "ts": 1795166288,
@@ -257,15 +266,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2123690305736396925#m",
    "ts": 1795162199,
    "id": "2123690305736396925#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Great to have Elon at Giga Shanghai! During his brief visit to China, Elon made a special stop to thank our teams across Asia in person. Our Giga Shanghai team had a little something for him, too — a special gift designed and crafted by the team right here at the factory, using leftover materials from production. The energy on the floor was unmistakable. From the latest progress in superintelligence to the team’s achievements, there was plenty to celebrate — and even more to look forward to. Let’s make the future look like the future. 🚀",
-   "url": "https://nitter.kareem.one/Tesla_Asia/status/2123674470351310910#m",
-   "ts": 1795158424,
-   "id": "2123674470351310910#m"
   },
   {
    "handle": "elonmusk",
