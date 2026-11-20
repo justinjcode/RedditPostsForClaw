@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-20T22:59:10Z",
+ "generated_at": "2026-11-20T23:09:38Z",
  "accounts_ok": [
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -10,11 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "I host a lot of events both for personal and work and I wrote up how I do it in a #highROI way :) dx.tips/hosting",
+   "url": "https://nitter.kareem.one/MilksandMatcha/status/2123902565092143294#m",
+   "ts": 1795212806,
+   "id": "2123902565092143294#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -698,15 +707,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2123298074911248526#m",
    "ts": 1795068684,
    "id": "2123298074911248526#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "casting Monica Barbaro as temu Mira Murati is crazy work DiscussingFilm (@DiscussingFilm) New trailer for Luca Guadagnino's ‘ARTIFICIAL’, starring Andrew Garfield as Sam Altman. The film follows the story involving OpenAI focused on the firing & rehiring of CEO Sam Altman. In theaters on January 8. Video — https://nitter.kareem.one/DiscussingFilm/status/2123101099800273047#m",
-   "url": "https://nitter.kareem.one/swyx/status/2123260852984013045#m",
-   "ts": 1795059810,
-   "id": "2123260852984013045#m"
   },
   {
    "handle": "ZichenWanghere",
