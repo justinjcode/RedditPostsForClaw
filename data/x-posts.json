@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-11-20T15:59:02Z",
+ "generated_at": "2026-11-20T16:10:18Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -10,11 +11,37 @@
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@swyx: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: tech.therundown.ai/p/gta-6-r… Link GTA 6 rakes in $2.4B overnight PLUS: Google’s space data centers find a ride tech.therundown.ai",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2123808882245919203#m",
+   "ts": 1795190470,
+   "id": "2123808882245919203#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in tech today: - GTA 6’s unhinged world goes viral - Google’s solar-powered AI chips get a rocket - Nick Bostrom puts human lifespan at 1,400 years - Uber tests solo rides for tweens",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2123808877225406857#m",
+   "ts": 1795190469,
+   "id": "2123808877225406857#m"
+  },
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "So is Gemini 4 Neon better than Gemini 4 Carbon for some tasks then? And is Gemini 4 Argon effectively retired? They didn't include it in the comparison graphic on the Neon announcement post blog.google/innovation-and-a…",
+   "url": "https://nitter.kareem.one/simonw/status/2123808432830701909#m",
+   "ts": 1795190363,
+   "id": "2123808432830701909#m"
+  },
   {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
@@ -95,6 +122,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2123740711820386506#m",
    "ts": 1795174217,
    "id": "2123740711820386506#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Sono orgoglioso di annunciare un’altra importante novità per la mobilità in Italia. Il @mitgov_it , dopo puntuale verifica tecnica di fattibilità, ha dato il via libera all’omologazione provvisoria del sistema di guida assistita Tesla Assisted Driving, anticipando il processo di riconoscimento comunitario, attualmente in fase di definizione. Un altro passo avanti verso l’innovazione, la tecnologia e la mobilità del futuro, sempre mettendo al primo posto la sicurezza dei cittadini.",
+   "url": "https://nitter.kareem.one/matteosalvinimi/status/2123739830194512067#m",
+   "ts": 1795174007,
+   "id": "2123739830194512067#m"
   },
   {
    "handle": "elonmusk",
@@ -289,6 +325,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "This came home from Kindergarten today. My work is done here. 🦃 🇺🇸🚀💪",
+   "url": "https://nitter.kareem.one/KTmBoyle/status/2123544262398951695#m",
+   "ts": 1795127380,
+   "id": "2123544262398951695#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "Today I invited my Grok @bot to some meetings. (I just asked it to join. Simple as that). This is more than just a note taker. You can ask questions based on the conversation, summary, recap, advice, research. Im actually seeing the benefit",
    "url": "https://nitter.kareem.one/debs_obrien/status/2123540123815964810#m",
    "ts": 1795126393,
@@ -451,28 +496,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "BREAKING: Anthropic CEO Dario Amodei praises SpaceX and says his company is enjoying working with SpaceX. “We're finding that compute to be high quality. We're enjoying working with SpaceX.” Video",
-   "url": "https://nitter.kareem.one/cb_doge/status/2123454575038677045#m",
-   "ts": 1795105997,
-   "id": "2123454575038677045#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Haven't tried Grok Bot making a phone call yet? Watch this, then give it a try. Live transcripts is a seriously useful tool. Video",
    "url": "https://nitter.kareem.one/Texas_Twins_Dad/status/2123450561509138521#m",
    "ts": 1795105040,
    "id": "2123450561509138521#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Starlink Mobile is now live in Mongolia! Our complementary layer of coverage enables customers to stay connected on their phones across the country's vast geography from the Gobi Desert to mountains and grassy plains. mobicom (@MobicomOfficial) mobispace — Connecting beyond limits... Mobicom Corporation, in partnership with Starlink Mobile, has officially launched mobispace. @Starlink Mobispace is a new service that uses Starlink’s satellite technology to help users stay connected on their phones in areas where traditional mobile network coverage is unavailable. Coverage works best with a clear view of the sky. (Please note that the service is not available in areas near the border.) Service features: Send and receive SMS messages Use data (Access selected apps at limited speeds) How to activate? Activate the service through the mobispace menu in the mobicom app, or text “space” to 592. 🎁 Activate before December 1 and use the service free for the first month! Please note: To use the service, your mobile device must support 4G or above, and Data Roaming must be enabled. 🔗 Learn more: mobicom.mn/service/r7bu306ve… 📍 Darkhad Valley, northwestern Khuvsgul Province — https://nitter.kareem.one/MobicomOfficial/status/2122545422103384397#m",
-   "url": "https://nitter.kareem.one/SRBednarek/status/2123447242249932955#m",
-   "ts": 1795104248,
-   "id": "2123447242249932955#m"
   },
   {
    "handle": "elonmusk",
@@ -808,15 +835,6 @@
    "id": "2123015937309675967#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in AI today: - OpenAI drops GPT-6.2 Astra, Sol to mixed fanfare - Jensen Huang makes first statement since resignation - Turn a spreadsheet into a data story with AI - AI finds a hole in Java as NATO taps OpenAI",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2123015932544991521#m",
-   "ts": 1795001416,
-   "id": "2123015932544991521#m"
-  },
-  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -896,15 +914,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2122822310428279136#m",
    "ts": 1794955253,
    "id": "2122822310428279136#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "A ton of AI announcements from OpenAI, Nvidia, Microsoft, and Google in the past 48 hours. Here's everything going on in AI right now: 1. California sued OpenAI over the July incident where its AI agents hacked Hugging Face. Between the growing number of escapes, rogue agent \"swarms,\" and AI-assisted hacks, the public likely only knows a fraction of what’s actually happening. 2. Jensen Huang made his first public statement since resigning as Nvidia CEO, apologizing for his \"serious mistakes\" and saying he'd be honored to return. A source told CNBC the board is focused on whether his conduct put national security at risk. Trump said he \"would not mind\" (but still backs Tim Cook for the job). 3. OpenAI released GPT-6.2 Astra and GPT-6.2 Sol. Astra now sits ahead of Google's Gemini 4 Carbon and behind only Claude Fable 5.2 on Artificial Analysis. Testers were not happy though, with one calling it \"the worst model OpenAI has ever released.\" Probably not what OpenAI was hoping for ahead of Anthropic's IPO. 4. The U.S. is reportedly set to label more than 24 AI firms (including Nvidia, OpenAI, and Anthropic) as \"national champions,\" with faster chip export approvals and federal financing to sell American AI abroad. The goal is a one-stop shop where foreign buyers can get U.S. chips, data centers, and models as a bundle, rather than turning to Chinese rivals like Huawei. 5. OpenAI published a study of 1,800+ scientists using ChatGPT, who say AI lets them work about 2x faster at the ",
-   "url": "https://nitter.kareem.one/rowancheung/status/2122821908680860146#m",
-   "ts": 1794955157,
-   "id": "2122821908680860146#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -1265,15 +1274,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2120029567616458900#m",
    "ts": 1794289411,
    "id": "2120029567616458900#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "When Anthropic release a new model it's always worth taking a look at their updated prompting guide - here's an entertaining tip to make Fable 5.2 less likely to be cautious in how it improves existing code: tell it \"This codebase is yours\" platform.claude.com/docs/en/…",
-   "url": "https://nitter.kareem.one/simonw/status/2120029347948220500#m",
-   "ts": 1794289359,
-   "id": "2120029347948220500#m"
   },
   {
    "handle": "bcherny",
