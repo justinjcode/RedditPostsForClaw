@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T16:37:42Z",
+ "generated_at": "2026-11-20T16:44:41Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starlink helps education DogeDesigner (@cb_doge) BREAKING: Paraguay’s government receives 400 more Starlink kits to connect more schools across the country. 🇵🇾 • 800 rural schools already connected. • Goal: 1,600 educational institutions nationwide. • Next phase: expanding connectivity to hospitals and Family Health Units. Starlink is helping students in remote communities access online lessons and digital learning resources. — https://nitter.kareem.one/cb_doge/status/2123741477238890516#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2123816520002482305#m",
+   "ts": 1795192291,
+   "id": "2123816520002482305#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -123,6 +132,15 @@
    "id": "2123779803111453140#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Morgan Stanley: SpaceX Morgan Stanley's latest report indicates that a single fully loaded Starship launch could generate approximately $400 million in annualized revenue for Starlink, with a revenue payback period of about 13 weeks and an EBIT payback period of about 19 weeks, surpassing even the profitability efficiency of the emerging neocloud business. This calculation is based on each Starship carrying 50 Starlink V3 satellites, with each satellite generating approximately $8 million in annualized incremental revenue. Assuming a variable cost of about $100 million per launch by 2030—comprising $60 million in launch costs and $40 million in payload costs—the payback period for Starship investments would be quite substantial. $SPCX",
+   "url": "https://nitter.kareem.one/pequityresearch/status/2123778402289144240#m",
+   "ts": 1795183203,
+   "id": "2123778402289144240#m"
+  },
+  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -184,6 +202,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2123726569206415815#m",
    "ts": 1795170845,
    "id": "2123726569206415815#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starlink is transforming a remote mountain water gate in Japan that sits completely outside mobile network coverage For years, workers had to travel roughly 35 minutes along a dangerous mountain road just to inspect the facility. During heavy rain, floods, or at night, reaching the site became even more dangerous Now KDDI and Japanese farm-tech company farmo have connected the Shinbori headworks in Sekikawa, Niigata, using Starlink Mini Here's how the system works: • Starlink Mini provides satellite internet where cellular networks don't reach • LoRa connects water-level sensors and the automated water gate • Solar panels power the equipment where grid electricity is difficult to access • Cloud monitoring gives operators real-time water levels, camera feeds, equipment status, and emergency alerts • Workers remotely open and close the water gate without physically visiting the site The results are already impressive: All 6 remote gate-control tests were SUCCESSFUL Workers now have visibility and control over infrastructure that previously required a dangerous mountain trip just to inspect This becomes especially important during floods and emergencies, when every minute matters and sending workers into dangerous conditions puts lives at risk The project will continue in Japan's FY2027, with plans to expand into automated water management, disaster prevention, and other agricultural applications This is another example of what Starlink is making possible Video",
+   "url": "https://nitter.kareem.one/XFreeze/status/2123707452915065128#m",
+   "ts": 1795166288,
+   "id": "2123707452915065128#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -330,15 +357,6 @@
    "id": "2123556256392847657#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon Musk explains why SpaceX catching Starship achieves the \"holy grail of rocketry,\" and can cut the cost of access to space by 100x: In 2025, SpaceX launched 2,200 tons to orbit, more than 80% of the global total. Elon Musk's goal with Starship is 1,000,000 tons to orbit per year, about 450x what SpaceX launched last year. Falcon 9 reuses its booster but throws away the upper stage on every flight. Starship is designed to bring back both. \"We've had three booster catches, but this is the first ship catch, which means we've now at least proven that all parts of Starship can be flown to space and recovered in good enough shape to be reflown.\" \"No one has ever taken a stage like that and created a truly reusable upper stage, and certainly not brought it back and had it land propulsively while being caught by giant chopsticks, which sounds like some kind of preposterous sci-fi book or something. But it's done.\" \"Starship can drop the cost of access to space by a factor of 100... and achieve a mass to orbit rate that is in the million ton per year range.\" \"This has been the holy grail of rocketry from the beginning, to have a fully reusable rocket system.\" \"The Space Shuttle was partially reusable, but the main tank… was thrown away on every flight… The shuttle orbiter, the plane-like thing, would take something like nine months to refurbish between flights.\" \"Whereas Starship is designed for complete reusability and to be reused immediately like an airplane. The booster lands,",
-   "url": "https://nitter.kareem.one/KanekoaTheGreat/status/2123553886925664397#m",
-   "ts": 1795129675,
-   "id": "2123553886925664397#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -364,24 +382,6 @@
    "url": "https://nitter.kareem.one/KTmBoyle/status/2123544262398951695#m",
    "ts": 1795127380,
    "id": "2123544262398951695#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Today I invited my Grok @bot to some meetings. (I just asked it to join. Simple as that). This is more than just a note taker. You can ask questions based on the conversation, summary, recap, advice, research. Im actually seeing the benefit",
-   "url": "https://nitter.kareem.one/debs_obrien/status/2123540123815964810#m",
-   "ts": 1795126393,
-   "id": "2123540123815964810#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The Boring Company and Metropolitan Nashville Airport Authority have signed a 40-year agreement for a Music City Loop station. Great user experience - less than 10 minutes from downtown to a station located 22 feet from the terminal entrance. Thanks so much to @Fly_Nashville for the great partnership. DogeDesigner (@cb_doge) Elon Musk’s Boring Company has signed a 40-year agreement with Nashville International Airport, advancing the Music City Loop connection between the airport and downtown. • The Boring Company will fully fund construction, operations and maintenance, with no capital investment required from the airport authority. • All-electric underground rides designed to bypass road traffic and make airport trips faster. • A planned passenger station just 22 feet from the terminal entrance. • Approximately $343 million in projected airport revenue over a potential 50-year term, including extensions. • Two machines already tunneling beneath Nashville, with a third preparing to launch. A major milestone for The Boring Company, and a step closer to a faster, more convenient airport connection for Nashville. — https://nitter.kareem.one/cb_doge/status/2123393880506966264#m",
-   "url": "https://nitter.kareem.one/boringcompany/status/2123538445918224762#m",
-   "ts": 1795125993,
-   "id": "2123538445918224762#m"
   },
   {
    "handle": "swyx",
@@ -418,6 +418,15 @@
    "url": "https://nitter.kareem.one/realbasilchatha/status/2123512769794175004#m",
    "ts": 1795119871,
    "id": "2123512769794175004#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "I use @bot very extensively, but the most mind blowing thing just happened 🤯 Our roof had a small leak because of the rain. @bot called an emergency roof repair business for me, talked to their AI agent on the phone, and a guy showed up and fixed our roof in an hour for $300 The future is here. Huge fan of the new call feature!!! @poteto",
+   "url": "https://nitter.kareem.one/stuffyokodraws/status/2123507070297420193#m",
+   "ts": 1795118513,
+   "id": "2123507070297420193#m"
   },
   {
    "handle": "thsottiaux",
@@ -481,15 +490,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2123480546244264291#m",
    "ts": 1795112189,
    "id": "2123480546244264291#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "You can create an entire company made of Grok Bots! Texas Twins Dad (@Texas_Twins_Dad) I wake up in the morning, and Grok Bot has already opened multiple PRs, run the tests, and merged them. Having Grok Bot is like hiring a team that never sleeps. — https://nitter.kareem.one/Texas_Twins_Dad/status/2123417350234136746#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2123475464043786417#m",
-   "ts": 1795110977,
-   "id": "2123475464043786417#m"
   },
   {
    "handle": "swyx",
