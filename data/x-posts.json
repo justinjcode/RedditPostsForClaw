@@ -1,20 +1,28 @@
 {
- "generated_at": "2026-11-20T00:46:36Z",
+ "generated_at": "2026-11-20T00:56:02Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "there will always be alpha in reviewing something - selected excerpts from my talk on the \"No Slop Manifesto\", co-written with speakers and attendees of @aiDotEngineer code summit, now over 1000 signatures including - major internet pioneers and contributors to bind/DNS - distinguished engineers at major cloud providers - long time rust compiler maintainers - Software engineering professors at Purdue, Berkeley, Stanford - employees from OpenAI, Glean, Posthog, Diffusion, AI Engineer, Baseten, and many more you can read and sign it at slopmanifesto dot com (kudos to @jeffreyhuber for this \"there will always be alpha in reviewing something\" phrasing btw) AI.Engineer (@aiDotEngineer) “There will always be alpha in reviewing something.” @dexhorthy of @factory on what humans review as agents write more code: the plan, the design, the result. The right level of review depends on the stakes. Video — https://nitter.kareem.one/aiDotEngineer/status/2123566998294601980#m",
+   "url": "https://nitter.kareem.one/dexhorthy/status/2123569019374678055#m",
+   "ts": 1795133282,
+   "id": "2123569019374678055#m"
+  },
   {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
@@ -671,15 +679,6 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2122997398565982317#m",
    "ts": 1794996997,
    "id": "2122997398565982317#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "look around, look around, at how lucky we are/ to be alive right now",
-   "url": "https://nitter.kareem.one/swyx/status/2122983553541812630#m",
-   "ts": 1794993696,
-   "id": "2122983553541812630#m"
   },
   {
    "handle": "elonmusk",
