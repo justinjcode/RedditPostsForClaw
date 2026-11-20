@@ -1,19 +1,29 @@
 {
- "generated_at": "2026-11-20T15:45:28Z",
+ "generated_at": "2026-11-20T15:59:02Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@swyx: all instances failed",
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "我脑袋瓜很笨！",
+   "url": "https://nitter.kareem.one/ZichenWanghere/status/2123805574777458726#m",
+   "ts": 1795189682,
+   "id": "2123805574777458726#m"
+  },
   {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
@@ -744,6 +754,15 @@
    "id": "2123088063400140840#m"
   },
   {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "A meta-analysis of 912 neuroimaging studies finds no single core brain region or network underlying the self, challenging the prevailing view of a shared cortical midline or insular anchor. Instead, self-related processing emerges from contextually determined, shifting coalitions of distributed brain systems, suggesting that selfhood is defined by dynamic configuration rather than a fixed neural substrate. biorxiv.org/content/10.64898…",
+   "url": "https://nitter.kareem.one/micahgallen/status/2123071235869245593#m",
+   "ts": 1795014602,
+   "id": "2123071235869245593#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -816,15 +835,6 @@
    "id": "2122997398565982317#m"
   },
   {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Just heard Jake Sullivan on @RestIsPolitics say that China was extremely reluctant to greenlight the Xi-Trump-Putin tripartite meeting and tried to wiggle out of it at first or to minimize it to reading out some pre-prepared statements. Apparently China “kind of got jammed into” a meeting they didn’t want. The meeting of the big 3 is what Trump and Putin loves but goes against China’s multilateral narrative. They are going to “downplay it while Trump and Putin do their best to play it up.” China, said Sullivan, is kinda ok with the G2 because it’s a way to signal to America’s allies that they need to just sit down and take Americas lead. But going from G2 to G3 “is much more awkward and complicated for them.” Dunno how much of this is solid but something to think about.",
-   "url": "https://nitter.kareem.one/AngelicaOung/status/2122967843616813409#m",
-   "ts": 1794989951,
-   "id": "2122967843616813409#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -859,15 +869,6 @@
    "url": "https://nitter.kareem.one/RushDoshi/status/2122832791473971491#m",
    "ts": 1794957752,
    "id": "2122832791473971491#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Some weeks ago I spent time in Shenzhen with @CGTNOfficial in preparation for #APEC . I guest hosted a program that aimed to “explain” Shenzhen’s successful transformation by talking to academics, entrepreneurs, and officials. Attached is the result. I hope you agree with me",
-   "url": "https://nitter.kareem.one/berthofmanecon/status/2122826909612646751#m",
-   "ts": 1794956350,
-   "id": "2122826909612646751#m"
   },
   {
    "handle": "simonw",
