@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-19T23:56:10Z",
+ "generated_at": "2026-11-20T00:17:15Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
   {
@@ -34,6 +33,15 @@
    "id": "2123556256392847657#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Elon Musk explains why SpaceX catching Starship achieves the \"holy grail of rocketry,\" and can cut the cost of access to space by 100x: In 2025, SpaceX launched 2,200 tons to orbit, more than 80% of the global total. Elon Musk's goal with Starship is 1,000,000 tons to orbit per year, about 450x what SpaceX launched last year. Falcon 9 reuses its booster but throws away the upper stage on every flight. Starship is designed to bring back both. \"We've had three booster catches, but this is the first ship catch, which means we've now at least proven that all parts of Starship can be flown to space and recovered in good enough shape to be reflown.\" \"No one has ever taken a stage like that and created a truly reusable upper stage, and certainly not brought it back and had it land propulsively while being caught by giant chopsticks, which sounds like some kind of preposterous sci-fi book or something. But it's done.\" \"Starship can drop the cost of access to space by a factor of 100... and achieve a mass to orbit rate that is in the million ton per year range.\" \"This has been the holy grail of rocketry from the beginning, to have a fully reusable rocket system.\" \"The Space Shuttle was partially reusable, but the main tank… was thrown away on every flight… The shuttle orbiter, the plane-like thing, would take something like nine months to refurbish between flights.\" \"Whereas Starship is designed for complete reusability and to be reused immediately like an airplane. The booster lands,",
+   "url": "https://nitter.kareem.one/KanekoaTheGreat/status/2123553886925664397#m",
+   "ts": 1795129675,
+   "id": "2123553886925664397#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -50,6 +58,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2123551782341107813#m",
    "ts": 1795129173,
    "id": "2123551782341107813#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Today I invited my Grok @bot to some meetings. (I just asked it to join. Simple as that). This is more than just a note taker. You can ask questions based on the conversation, summary, recap, advice, research. Im actually seeing the benefit",
+   "url": "https://nitter.kareem.one/debs_obrien/status/2123540123815964810#m",
+   "ts": 1795126393,
+   "id": "2123540123815964810#m"
   },
   {
    "handle": "swyx",
@@ -325,15 +342,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "𝕏 Money is growing fast X Freeze (@XFreeze) You can now send money internationally with X Money, directly from 𝕏 X Money now supports international bank transfers to 27 countries, with recipients receiving funds in their local currency Supported countries: 🇦🇺 Australia 🇦🇹 Austria 🇧🇪 Belgium 🇨🇦 Canada 🇨🇾 Cyprus 🇪🇪 Estonia 🇫🇮 Finland 🇫🇷 France 🇩🇪 Germany 🇬🇷 Greece 🇭🇰 Hong Kong 🇮🇳 India 🇮🇪 Ireland 🇮🇹 Italy 🇱🇹 Lithuania 🇱🇺 Luxembourg 🇲🇾 Malaysia 🇲🇽 Mexico 🇳🇱 Netherlands 🇳🇴 Norway 🇵🇭 Philippines 🇵🇹 Portugal 🇸🇬 Singapore 🇸🇮 Slovenia 🇪🇸 Spain 🇸🇪 Sweden 🇬🇧 United Kingdom And everything happens directly inside 𝕏 Here's how it works: 1. Open the Money tab and select Send Money 2. Tap Send a wire and choose the destination country 3. Enter the recipient's name, address and bank details 4. Enter the amount, review the exchange rate and confirm Depending on the destination, you'll need an IBAN, SWIFT/BIC, account number or local banking code And the fees are surprisingly straightforward: • $1.65 + 0.65% per international transfer • Same fee across all subscription plans • No separate currency conversion fee from X Money • Most transfers arrive within 1–2 business days • Up to $15,000 per transaction • Up to $15,000 sent per day • 30-minute cancellation window You'll see the converted recipient amount before confirming, although intermediary or receiving banks may charge additional fees And here's another useful protection If a transfer is returned because of incorrect bank details, X Mone",
-   "url": "https://nitter.kareem.one/elonmusk/status/2123317934747746611#m",
-   "ts": 1795073419,
-   "id": "2123317934747746611#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "@elonmusk Asked whether he should collect Tesla compensation if SpaceX and Tesla merge, Elon Musk said no: \"I don't think I should be compensated with any kind of award just for doing a merger. That would be unreasonable and not right.\" \"You should keep your deals and stay true to your word.\" Video",
    "url": "https://nitter.kareem.one/teslaownersSV/status/2123309405013987713#m",
    "ts": 1795071385,
@@ -545,15 +553,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2123112188864762022#m",
    "ts": 1795024365,
    "id": "2123112188864762022#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The Nasdaq Tower lights up for @SpaceX 's historic Starship Flight 15, featuring the first catch of Starship’s upper stage, plus 26 Starlink V3 satellites deployed to orbit. Congratulations to the $SPCX team for advancing the future of space exploration. Full and rapid reusability is the unlock for scaling connectivity and compute beyond Earth. Video",
-   "url": "https://nitter.kareem.one/Nasdaq/status/2123102665752158402#m",
-   "ts": 1795022095,
-   "id": "2123102665752158402#m"
   },
   {
    "handle": "ZichenWanghere",
