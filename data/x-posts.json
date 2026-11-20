@@ -1,17 +1,18 @@
 {
- "generated_at": "2026-11-20T23:36:39Z",
+ "generated_at": "2026-11-20T23:47:53Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@bcherny: all instances failed"
+ ],
  "count": 177,
  "items": [
   {
@@ -22,6 +23,15 @@
    "url": "https://nitter.kareem.one/MilksandMatcha/status/2123902565092143294#m",
    "ts": 1795212806,
    "id": "2123902565092143294#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "At Code Summit, @zachbruggeman said Inspect writes and ships ~75% of @tryramp 's code. One agent setup for the whole company. Shared sessions. Screenshots and browser recordings that show the work holds up. Watch the full talk: inv.kareem.one/MDI81OaZAD4",
+   "url": "https://nitter.kareem.one/aiDotEngineer/status/2123868990820712787#m",
+   "ts": 1795204801,
+   "id": "2123868990820712787#m"
   },
   {
    "handle": "thsottiaux",
@@ -805,15 +815,6 @@
    "url": "https://nitter.kareem.one/micahgallen/status/2123071235869245593#m",
    "ts": 1795014602,
    "id": "2123071235869245593#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "If you keep correcting the same mistake, make it a check. @poteto of @spacexai on turning corrections into deterministic checks, and keeping the codebase worth copying. From AI Engineer Code Summit. Video",
-   "url": "https://nitter.kareem.one/aiDotEngineer/status/2123068725410869585#m",
-   "ts": 1795014003,
-   "id": "2123068725410869585#m"
   },
   {
    "handle": "swyx",
