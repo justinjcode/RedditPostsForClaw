@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-20T14:46:45Z",
+ "generated_at": "2026-11-20T14:55:07Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "imagine living in the 1980s. Shashank Joshi (@shashj) Imagine trying to explain this messaging to Reagan. — https://nitter.kareem.one/shashj/status/2123461559804465265#m",
+   "url": "https://nitter.kareem.one/ZichenWanghere/status/2123787373951795618#m",
+   "ts": 1795185342,
+   "id": "2123787373951795618#m"
+  },
   {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
@@ -59,6 +67,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2123737976710848580#m",
    "ts": 1795173565,
    "id": "2123737976710848580#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "This is a great way into AI governance for anyone looking to get into the field. I learned a ton working alongside some seriously smart and driven people as a fellow over the summer. GovAI (@GovAIOrg) Apply for GovAI's 2027 Summer Fellowship, Research and Applied tracks! 📍 Location: London, UK 📅 Deadline: 23:59 GMT Sunday, 22 November 2026 Fellows will join us in London to conduct a project on a topic of their choice, participate in an expert Q&A and seminar series aimed at developing a broad understanding of the field, and spend time forging connections with researchers and practitioners. Learn more below. 🔗 Learn more about the Research Track: governance.ai/post/uk-summer… 🔗 Learn more about the Applied Track: governance.ai/post/uk-summer… — https://nitter.kareem.one/GovAIOrg/status/2120973362033815602#m",
+   "url": "https://nitter.kareem.one/cdcshepherd/status/2123732416242364581#m",
+   "ts": 1795172239,
+   "id": "2123732416242364581#m"
   },
   {
    "handle": "elonmusk",
@@ -1022,24 +1039,6 @@
    "url": "https://nitter.kareem.one/anissagardizy8/status/2122493529293475884#m",
    "ts": 1794876866,
    "id": "2122493529293475884#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Jin shares his firsthand experiences of China's economic opening. He also recalls how cooperation with the World Bank nearly broke down following the Tian'anmen Square Crackdowns in June 1989, and how it eventually resumed.",
-   "url": "https://nitter.kareem.one/chris__pc/status/2122334078515224865#m",
-   "ts": 1794838850,
-   "id": "2122334078515224865#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Why was China joining the World Trade Organization such a turning point? And why was it so controversial in China? We sat down with Jin Liqun, former Vice Minister of Finance and founding president of the Asian Infrastructure Invstm. Bank (AIIB) to talk inv.kareem.one/1458w7Wsse4 Link Jin Liqun 金立群 | How China Joined the Global Economy When China began opening up in 1979, few people could have imagined... youtube.com",
-   "url": "https://nitter.kareem.one/chris__pc/status/2122333457464676649#m",
-   "ts": 1794838701,
-   "id": "2122333457464676649#m"
   },
   {
    "handle": "Lingling_Wei",
