@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-20T06:14:15Z",
+ "generated_at": "2026-11-20T06:29:57Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "you cant be serious",
+   "url": "https://nitter.kareem.one/swyx/status/2123659761887625602#m",
+   "ts": 1795154917,
+   "id": "2123659761887625602#m"
+  },
   {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
@@ -545,15 +554,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2123169908338884712#m",
    "ts": 1795038127,
    "id": "2123169908338884712#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "my first startup and first love @netlify is refounding for the ai age with some very impressive growth stats despite a low aeo ranking. really impressed by @biilmann who has led the company through some tough days but never gave up (unlike me) and is coming out the other end with a much stronger business. always grateful to Netlify for giving me my first big break as a technical writer/speaker, but wow this kind of tenacity you need to be a decade+ founder in tech piloting a ship while pivoting adroitly is 99.99% percentile in people i have ever come across in the valley questions i would have ask (behind paywall probably but eh): 1. why arent they using vercel/chatgpt sites/ant artifacts/cloudflare? 2. how does the spend breakdown? 3. how do accounts grow for these nontechnical builders? is there graduation risk (only once bill gets >$1k i get serious about auditing) Alex Konrad (@alexrkonrad) Last week, Netlify enjoyed its first day with 100,000 new signups, most of them new to AI and building software. After taking 5 years to reach 1M users, Netlify doubled to 10M by this past January, and expects to reach 25M by year's end 👀 — https://nitter.kareem.one/alexrkonrad/status/2123072600083501194#m",
-   "url": "https://nitter.kareem.one/swyx/status/2123165970940441038#m",
-   "ts": 1795037188,
-   "id": "2123165970940441038#m"
   },
   {
    "handle": "swyx",
