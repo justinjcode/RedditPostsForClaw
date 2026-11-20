@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-11-20T11:28:13Z",
+ "generated_at": "2026-11-20T11:37:46Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -9,12 +11,45 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: therundownai.beehiiv.com/p/a… Link Anthropic pulls off the biggest IPO ever Anthropic goes public on the Nasdaq in the largest IPO ever, topping SpaceX's record. CEO Dario Amodei pledges safety will guide its AI models. therundownai.beehiiv.com",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2123740717289771167#m",
+   "ts": 1795174218,
+   "id": "2123740717289771167#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in AI today: - Anthropic raises $81B in the largest IPO ever - Rowan's Corner: 4 things that stuck with me from DealBook - Use AI to find a job and prepare to get hired - OpenAI’s agents now handle half its long research tasks",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2123740711820386506#m",
+   "ts": 1795174217,
+   "id": "2123740711820386506#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Approvata la guida autonoma di Tesla in Italia: è il primo dei grandi Paesi europei ad approvarla. Complimenti al sindaco di Roma Gualtieri, che per primo l'ha provata in città (ci siamo divertiti!), al ministro Salvini per la decisione lungimirante di approvarla al Presidente Meloni per il supporto verso le nuove tecnologie e all'opposizione di Azione di Carlo Calenda per aver fatto proposte costruttive affinché ciò avvenisse. Orgoglio 🇮🇹🇺🇸",
+   "url": "https://nitter.kareem.one/andst7/status/2123738109330223565#m",
+   "ts": 1795173597,
+   "id": "2123738109330223565#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Yes vittorio (@IterIntellectus) it's pretty clear that if you want to have any meaningful conversation about tech you have to be on X — https://nitter.kareem.one/IterIntellectus/status/2123457337776046251#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2123737976710848580#m",
+   "ts": 1795173565,
+   "id": "2123737976710848580#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -68,6 +103,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2123659761887625602#m",
    "ts": 1795154917,
    "id": "2123659761887625602#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The magnitude of the consumer surplus for AI tools is mind boggling. My Grok subscription has probably already saved (made?) me more money than I am ever likely to spend on it.",
+   "url": "https://nitter.kareem.one/jamesdouma/status/2123617446590570679#m",
+   "ts": 1795144828,
+   "id": "2123617446590570679#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -250,6 +294,15 @@
    "id": "2123490464900972714#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "BREAKING: SpaceX provided food, water and mobile Starlink units to emergency crews responding to flooding in Cocoa Beach, Florida. The city has publicly thanked SpaceX for supporting its teams as essential staff work around the clock to keep residents safe and essential services running. With City Hall closed following heavy rainfall, SpaceX is helping crews stay supplied and connected in the field throughout the response.",
+   "url": "https://nitter.kareem.one/cb_doge/status/2123487251732869558#m",
+   "ts": 1795113787,
+   "id": "2123487251732869558#m"
+  },
+  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -385,15 +438,6 @@
    "id": "2123432791912194369#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "🚨 马斯克来上海了！好羡慕上海特斯拉的员工啊！🤣🚀 老马晚上直接从深圳飞到上海，前往特斯拉工厂与中国员工见面，还一起拍了大合照！ 哈哈哈哈，这次老马终于站在 C 位了！😂 现场他还分享了一段很有意义的话： “把时间和资源用在让自己成为真正有用的人上，研发制造真正对人类有用的产品。摒弃短期投机思维，去做真正重要的事。” 不得不说，这段话还是挺值得思考的。 期待现场视频！🎬 兄弟们，有没有上海特斯拉的员工在现场？👀",
-   "url": "https://nitter.kareem.one/gaooofy/status/2123424019022299469#m",
-   "ts": 1795098712,
-   "id": "2123424019022299469#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -419,6 +463,15 @@
    "url": "https://nitter.kareem.one/cb_doge/status/2123410726111134071#m",
    "ts": 1795095542,
    "id": "2123410726111134071#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Elon Musk’s Boring Company has signed a 40-year agreement with Nashville International Airport, advancing the Music City Loop connection between the airport and downtown. • The Boring Company will fully fund construction, operations and maintenance, with no capital investment required from the airport authority. • All-electric underground rides designed to bypass road traffic and make airport trips faster. • A planned passenger station just 22 feet from the terminal entrance. • Approximately $343 million in projected airport revenue over a potential 50-year term, including extensions. • Two machines already tunneling beneath Nashville, with a third preparing to launch. A major milestone for The Boring Company, and a step closer to a faster, more convenient airport connection for Nashville.",
+   "url": "https://nitter.kareem.one/cb_doge/status/2123393880506966264#m",
+   "ts": 1795091526,
+   "id": "2123393880506966264#m"
   },
   {
    "handle": "TheRundownAI",
@@ -448,15 +501,6 @@
    "id": "2123355415077589307#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Extend consciousness to the stars X Freeze (@XFreeze) Back in 2016, Elon Musk laid out the scale of what it would actually take to build a self-sustaining city on Mars The goal was to build a civilization that can survive on its own The scale Elon laid out: • ~100 people per ship • Mars launch opportunities roughly every 2 years • Around 10,000 trips to move 1 million people • A spacecraft large enough to carry people, luggage and massive amounts of cargo At the time, the hardest part was obvious: You needed a transportation system that can fly again and again Now that future is getting much closer Starship has returned from space and been caught by the tower The next step is rapid reuse, reflying the same ship again and again until spaceflight starts looking more like aviation In 2016, Elon described the transportation system needed to build a city on Mars In 2026, SpaceX is finally starting to prove the reusability that makes it possible Video — https://nitter.kareem.one/XFreeze/status/2123335780852744499#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2123337655731826810#m",
-   "ts": 1795078121,
-   "id": "2123337655731826810#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -464,15 +508,6 @@
    "url": "https://nitter.kareem.one/badlogicgames/status/2123326437730234433#m",
    "ts": 1795075446,
    "id": "2123326437730234433#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "@elonmusk Asked whether he should collect Tesla compensation if SpaceX and Tesla merge, Elon Musk said no: \"I don't think I should be compensated with any kind of award just for doing a merger. That would be unreasonable and not right.\" \"You should keep your deals and stay true to your word.\" Video",
-   "url": "https://nitter.kareem.one/teslaownersSV/status/2123309405013987713#m",
-   "ts": 1795071385,
-   "id": "2123309405013987713#m"
   },
   {
    "handle": "simonw",
@@ -572,15 +607,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2123169908338884712#m",
    "ts": 1795038127,
    "id": "2123169908338884712#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I think a lot of people aren't using Grok Bot to its full potential, because knowing how to automate things is actually quite a difficult skill to learn. I wrote this post to break down how I approach automating anything with Grok Bot! Article Automate Anything with Grok Bot Automation can be surprisingly hard to get right, even for people who do it every day. I’d like to share how I approach it, at work and in my personal life, and how Grok Bot can help you take on more",
-   "url": "https://nitter.kareem.one/poteto/status/2123159537016533493#m",
-   "ts": 1795035654,
-   "id": "2123159537016533493#m"
   },
   {
    "handle": "TheRundownAI",
@@ -716,15 +742,6 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2122997398565982317#m",
    "ts": 1794996997,
    "id": "2122997398565982317#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I honestly can't live without Grokbot anymore -- I officially just upgraded to $200/m It's better than Claude Duet, Codex Dot, Hermes, Instinct, Zo Computer, Poke, Openclaw, etc It's actually the best AI assistant out there that can do anything. I know a lot of people are just talking, so let me tell you exactly what I use it for (steal my bots below too for free) - my chief of staff bot checks both my gmails every hour, drafts every brand deal reply for me to approve, and pings me with exactly what's owed - my content bot scouts viral ai posts overnight and writes my typefully drafts so i wake up with ideas ready to film - my job search bot applied to 5 jobs in under 7 minutes with a custom resume and cover letter for each one - my coding agents run on my mac studio while i'm out so that any build that takes hours could start even if I'm not home, and my chief of staff pauses the heavy jobs whenever i go live - my flipper bot prices my stuff off real sold comps and writes the listings - my reservations bot watches resy for hard-to-get nyc tables and books them the second they drop - my bills, claims and privacy bots shop my bills for savings, hunt unclaimed money and scrub my info off people-search sites - my clipfarm bot handles customer emails and support directly through its own Grok email All managed by a really pretty iOS app as well!",
-   "url": "https://nitter.kareem.one/ashen_one/status/2122979126290329952#m",
-   "ts": 1794992641,
-   "id": "2122979126290329952#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -887,24 +904,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2122746008736276734#m",
    "ts": 1794937061,
    "id": "2122746008736276734#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "PREVIEW: Runway teased Diffusion-UI, a research app where an AI model generates an interface in real-time as a user clicks or types. Video",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2122743985818960245#m",
-   "ts": 1794936579,
-   "id": "2122743985818960245#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "NEW: Jensen Huang issues first statement since resigning from Nvidia. \"I did not live up to the standards expected of everyone at NVIDIA, and I have made serious mistakes in my personal life. I created problems for the Board that I deeply regret. I own my mistakes completely, and I am committed to cooperating with the Board’s independent investigation.\" On a potential return: \"If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I would be honored to answer these calls and return as CEO.\"",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2122724004611997715#m",
-   "ts": 1794931815,
-   "id": "2122724004611997715#m"
   },
   {
    "handle": "Lingling_Wei",
