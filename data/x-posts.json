@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-20T16:44:41Z",
+ "generated_at": "2026-11-20T16:59:50Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Neuralink’s Blindsight product is now just waiting for regulatory approval X Freeze (@XFreeze) Elon Musk just gave a massive update on Neuralink's Blindsight \"And our next product is what we call Blindsight So Blindsight is a neural implant that interfaces directly with the visual cortex and enables people who are completely blind to see So it allows you to be wearing glasses or something like that that have a camera That camera is transmitting to the Neuralink device that then transfers the signals to your visual cortex, enabling someone who is completely blind meaning blind in both eyes or lost optic nerve potentially someone who has been blind from birth, to see” Video — https://nitter.kareem.one/XFreeze/status/2123771069354152204#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2123817232849567933#m",
+   "ts": 1795192461,
+   "id": "2123817232849567933#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -391,15 +401,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2123537922670657753#m",
    "ts": 1795125868,
    "id": "2123537922670657753#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "On Starship’s 15th flight last week, the Super Heavy booster correctly performed a safe abort when returning for a catch and ended its mission with a splashdown in the water off the coast of Starbase. Following splashdown, SpaceX recovery teams were immediately onsite to safe the area while our Environmental Health and Safety team worked to ensure any debris that washes onshore was recovered → x.com/SpaceX/status/21216299… When we received reports of potential debris in Mexican territory, we immediately mobilized to send specialists to aid in identification and lead any cleanup work required, just as we did on Boca Chica Beach near Starbase. We continue to stay in contact with the Mexican government and are on standby to send support if authorities in Mexico tell us it is actually needed. Partners on the ground relayed that theyhave found very little debris in their sweeps of the beach, and the small amount they have found are not clearly from SpaceX operations. The majority of the social media posts online claiming widespread debris and damage are either outright fabrications or intentionally misleading. As repeatedly stated, independent tests conducted on materials inside Starship and the Super Heavy booster, including toxicity analyses, confirm they pose no chemical, biological, or toxicological risks. Starship is designed to be fully reusable, with future missions planning to return all hardware back to the launch site for catch and reuse. SpaceX is the only one, whether ",
-   "url": "https://nitter.kareem.one/SpaceX/status/2123516375805379040#m",
-   "ts": 1795120731,
-   "id": "2123516375805379040#m"
   },
   {
    "handle": "swyx",
