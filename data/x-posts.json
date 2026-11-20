@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T18:55:07Z",
+ "generated_at": "2026-11-20T19:08:12Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Hear me out: “Singularity dot Com”, a dating site for digital superintelligences …",
+   "url": "https://nitter.kareem.one/elonmusk/status/2123852660688494744#m",
+   "ts": 1795200908,
+   "id": "2123852660688494744#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -265,15 +274,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2123740711820386506#m",
    "ts": 1795174217,
    "id": "2123740711820386506#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Sono orgoglioso di annunciare un’altra importante novità per la mobilità in Italia. Il @mitgov_it , dopo puntuale verifica tecnica di fattibilità, ha dato il via libera all’omologazione provvisoria del sistema di guida assistita Tesla Assisted Driving, anticipando il processo di riconoscimento comunitario, attualmente in fase di definizione. Un altro passo avanti verso l’innovazione, la tecnologia e la mobilità del futuro, sempre mettendo al primo posto la sicurezza dei cittadini.",
-   "url": "https://nitter.kareem.one/matteosalvinimi/status/2123739830194512067#m",
-   "ts": 1795174007,
-   "id": "2123739830194512067#m"
   },
   {
    "handle": "ZichenWanghere",
