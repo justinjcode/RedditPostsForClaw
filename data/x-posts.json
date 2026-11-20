@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-20T07:11:04Z",
+ "generated_at": "2026-11-20T07:25:15Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "bcherny",
+  "TheRundownAI",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -10,8 +9,9 @@
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -322,6 +322,15 @@
    "id": "2123438811627552983#m"
   },
   {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "I declare War on Long Standing Access (how to build a secure software factory as presented @aiDotEngineer CODE) Video",
+   "url": "https://nitter.kareem.one/vtahowe/status/2123432897441137120#m",
+   "ts": 1795100828,
+   "id": "2123432897441137120#m"
+  },
+  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -527,15 +536,6 @@
    "url": "https://nitter.kareem.one/tanayj/status/2123185516539425000#m",
    "ts": 1795041848,
    "id": "2123185516539425000#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "ipo preshow prep! Latent.Space (@latentspacepod) ⚡️ $ANT IPOs tomorrow! We catch you up on everything we learned from the S-1 and the IPO roadshow. @tanayj talks us through the $9.9B compute and infrastructure bill and other deep dives. inv.kareem.one/wX8nDtGIfYA Thanks to all the positive feedback on the @jaminball pod. Good luck tomorrow Ants! Link ⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC Anthropic reported $17B in quarterly revenue. What did it cost to g... youtube.com — https://nitter.kareem.one/latentspacepod/status/2123162937309438117#m",
-   "url": "https://nitter.kareem.one/swyx/status/2123175292068086238#m",
-   "ts": 1795039410,
-   "id": "2123175292068086238#m"
   },
   {
    "handle": "thsottiaux",
