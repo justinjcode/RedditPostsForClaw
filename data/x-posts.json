@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T02:58:08Z",
+ "generated_at": "2026-11-20T03:09:27Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,10 +11,28 @@
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Team is crazy enough to think they can succeed at improving the experience used by 1.2B users in place. Let's see if the strategy plays out.",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2123612889416339762#m",
+   "ts": 1795143742,
+   "id": "2123612889416339762#m"
+  },
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "Le ChatGPT 2.0 Tibo (@thsottiaux) We’re also working on a new mobile experience for ChatGPT! It’s easier to get to your favorite features and discover what you can do in ChatGPT. We’re starting with Pro users who have a dot or are eligible to create one. Your dot gets its own tab, and you can pin Codex, Projects, Images, and more to the tab bar. Some of you will see the new experience by default. You can turn it on or off anytime in Settings > New ChatGPT Design. Super excited to hear your feedback before we roll it out more widely! Video — https://nitter.kareem.one/thsottiaux/status/2123557171321561133#m",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2123612433923051976#m",
+   "ts": 1795143633,
+   "id": "2123612433923051976#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -86,6 +104,15 @@
    "url": "https://nitter.kareem.one/debs_obrien/status/2123540123815964810#m",
    "ts": 1795126393,
    "id": "2123540123815964810#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The Boring Company and Metropolitan Nashville Airport Authority have signed a 40-year agreement for a Music City Loop station. Great user experience - less than 10 minutes from downtown to a station located 22 feet from the terminal entrance. Thanks so much to @Fly_Nashville for the great partnership. DogeDesigner (@cb_doge) Elon Musk’s Boring Company has signed a 40-year agreement with Nashville International Airport, advancing the Music City Loop connection between the airport and downtown. • The Boring Company will fully fund construction, operations and maintenance, with no capital investment required from the airport authority. • All-electric underground rides designed to bypass road traffic and make airport trips faster. • A planned passenger station just 22 feet from the terminal entrance. • Approximately $343 million in projected airport revenue over a potential 50-year term, including extensions. • Two machines already tunneling beneath Nashville, with a third preparing to launch. A major milestone for The Boring Company, and a step closer to a faster, more convenient airport connection for Nashville. — https://nitter.kareem.one/cb_doge/status/2123393880506966264#m",
+   "url": "https://nitter.kareem.one/boringcompany/status/2123538445918224762#m",
+   "ts": 1795125993,
+   "id": "2123538445918224762#m"
   },
   {
    "handle": "swyx",
@@ -545,15 +572,6 @@
    "url": "https://nitter.kareem.one/pika_labs/status/2123127584342921652#m",
    "ts": 1795028036,
    "id": "2123127584342921652#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Starlink Mobile is coming to Botswana! Rural communities, farmers, miners and many more will have reliable connectivity on their phones with messaging apps, maps and SMS in cellular dead zones. BTC (@btcbw) Through our partnership with Starlink, BTC is introducing BTC Satellite, a Direct-to-Mobile service designed to extend connectivity to more communities across Botswana. Stay connected in more places, even beyond traditional network coverage. Coming soon — https://nitter.kareem.one/btcbw/status/2123082315718853021#m",
-   "url": "https://nitter.kareem.one/SRBednarek/status/2123119244380717562#m",
-   "ts": 1795026048,
-   "id": "2123119244380717562#m"
   },
   {
    "handle": "thsottiaux",
@@ -1213,15 +1231,6 @@
    "id": "2120267268517249036#m"
   },
   {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Labs innovating together ftw Claude (@claudeai) Also new: with interactive connectors, you can now open the full version of a tool inside Claude. Work in Adobe, Atlassian, and Box beside your conversation. Make changes yourself, or ask Claude to make them with you. Rolling out on web and desktop. Video — https://nitter.kareem.one/claudeai/status/2120206375137484875#m",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2120266880963473789#m",
-   "ts": 1794345991,
-   "id": "2120266880963473789#m"
-  },
-  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -1265,15 +1274,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2120029347948220500#m",
    "ts": 1794289359,
    "id": "2120029347948220500#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Dots can now control many machines in addition to its own little cloud computer that we provide by default. OpenAI Developers (@OpenAIDevs) You can now connect multiple local computers to the same dot and choose which one it uses for a task. It can build and test your app on a dedicated machine while you keep coding on your laptop. Video — https://nitter.kareem.one/OpenAIDevs/status/2119883176726409645#m",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2120021043876106429#m",
-   "ts": 1794287379,
-   "id": "2120021043876106429#m"
   },
   {
    "handle": "bcherny",
