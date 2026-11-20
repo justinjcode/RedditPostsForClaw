@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T16:10:18Z",
+ "generated_at": "2026-11-20T16:19:33Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -8,13 +8,21 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Members of the Starship production team with Starship 42 before its launch",
+   "url": "https://nitter.kareem.one/SpaceX/status/2123809508187078839#m",
+   "ts": 1795190619,
+   "id": "2123809508187078839#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -181,6 +189,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "Starlink just secured another major spectrum expansion in Brazil, and the authorization is now OFFICIAL 🇧🇷 Brazil's telecom regulator Anatel published Act No. 14,179 on November 19, formally adding new radio-frequency bands to Starlink's existing satellite authorization Here's what was approved: • 5 new uplink frequency sub-bands • 4 new downlink frequency sub-bands • Additional spectrum across Ku, Ka and Q/V bands • Authorization covering ALL of Brazil • Non-exclusive use for the remaining term of Starlink's existing authorization • Approved by Anatel's board in October and formally published November 19 The authorization is held by Space Exploration Holdings, with Starlink Brazil Holding serving as its local representative These additional frequencies are an important part of expanding Starlink's satellite communications capacity and supporting its next-generation network And with Starlink V3 satellites bringing dramatically more bandwidth per satellite, securing additional spectrum is very important Brazil is already a major market for Starlink, and SpaceX is continuing to build the regulatory foundation for its future expansion Step by step, Starlink is securing the infrastructure and spectrum needed to keep scaling across Brazil Video",
+   "url": "https://nitter.kareem.one/XFreeze/status/2123696355554316764#m",
+   "ts": 1795163642,
+   "id": "2123696355554316764#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "This is not AI 😂 X Freeze (@XFreeze) Back in January 2020, Elon Musk celebrated with the Tesla China team by dancing on stage at Giga Shanghai Tesla had just started delivering its first China-made Model 3s to customers, only 357 days after construction began Elon personally thanked the team for their incredible hard work and kicked off the Model Y program in China One of the most iconic and unforgettable moments from Tesla's early days in Shanghai....and that dance is still hilarious to watch 🥰 Video — https://nitter.kareem.one/XFreeze/status/2123439181720612879#m",
    "url": "https://nitter.kareem.one/elonmusk/status/2123695317375992288#m",
    "ts": 1795163394,
@@ -203,6 +220,15 @@
    "url": "https://nitter.kareem.one/Tesla_Asia/status/2123674470351310910#m",
    "ts": 1795158424,
    "id": "2123674470351310910#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Back in 2019, Elon Musk stood on an empty field in Shanghai and broke ground on Tesla’s first factory in China Less than a year later, the first China-made Model 3s were being delivered Then in January 2020, Elon returned to launch the Model Y program and celebrated with the team on stage Fast forward to 2026 Giga Shanghai has become one of the most important factories in Tesla’s entire global operation • 851,732 vehicles produced for wholesale in 2025 • 810,889 already through October 2026 • 95% of last year’s entire volume in just 10 months • +21.4% YoY through October • 420,984 vehicles exported through October • Exports up more than 100% YoY • More than half of Shanghai’s 2026 wholesale volume now going overseas • Tesla’s biggest global export hub And on November 19, Elon returned to Shanghai again to personally thank Tesla’s China and APAC teams From an empty construction site in 2019… To hundreds of thousands of vehicles every year, supplying markets around the world Giga Shanghai is one of the clearest examples of how quickly Tesla can turn an empty field into global industrial infrastructure",
+   "url": "https://nitter.kareem.one/XFreeze/status/2123669662768812123#m",
+   "ts": 1795157278,
+   "id": "2123669662768812123#m"
   },
   {
    "handle": "swyx",
@@ -493,24 +519,6 @@
    "id": "2123458524999307387#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Haven't tried Grok Bot making a phone call yet? Watch this, then give it a try. Live transcripts is a seriously useful tool. Video",
-   "url": "https://nitter.kareem.one/Texas_Twins_Dad/status/2123450561509138521#m",
-   "ts": 1795105040,
-   "id": "2123450561509138521#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "People usually see the one deal and think that’s the whole thing, but the ones who know realize that it’s years of work, micro victories and failures stacked on top of one another. It’s really the manifestation of trust. The folks that trusted us, our vision and our thesis, and leaders of companies that trusted that we would bring more than money. Kind of cool when that works out. Congrats to @DarioAmodei and the whole team at Anthropic. Congrats to the LPs that supported us. Congrats to our team that helped us craft and execute a vision. And thank you to those who didn’t believe in us. You made us work harder. Love you @guyoseary @epsteineffie",
-   "url": "https://nitter.kareem.one/aplusk/status/2123444817602748717#m",
-   "ts": 1795103670,
-   "id": "2123444817602748717#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -563,15 +571,6 @@
    "url": "https://nitter.kareem.one/FounderClipsHQ/status/2123411646777307310#m",
    "ts": 1795095762,
    "id": "2123411646777307310#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "BREAKING: Elon Musk visited Tesla's Giga Shanghai today to personally thank the China and Asia-Pacific teams 🇨🇳 He flew in from Shenzhen and talked about FSD and Optimus. \"Let's make the future look like the future.\" – Elon Musk",
-   "url": "https://nitter.kareem.one/cb_doge/status/2123410726111134071#m",
-   "ts": 1795095542,
-   "id": "2123410726111134071#m"
   },
   {
    "handle": "elonmusk",
