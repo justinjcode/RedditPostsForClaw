@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T18:12:10Z",
+ "generated_at": "2026-11-20T18:25:30Z",
  "accounts_ok": [
   "TheRundownAI",
   "bcherny",
@@ -15,6 +15,15 @@
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "🔜 why @j_schottenstein left @getdbt for @LangChain to build it into a $3B startup… ….and now they are having to reinvent the content, context (knowledge) and software factory from scratch! Harrison Chase (@hwchase17) having inconsistent ways to define revenue is exactly why you'd need knowledge factory for your company! centralize tacit or implicit knowledge, make those readily available to everyone a big part of ours at langchain is a bunch of definitions of metrics/skills for fetching data from different systems — https://nitter.kareem.one/hwchase17/status/2123437513809494349#m",
+   "url": "https://nitter.kareem.one/swyx/status/2123843282082132335#m",
+   "ts": 1795198672,
+   "id": "2123843282082132335#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -32,6 +41,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2123827993382687217#m",
    "ts": 1795195027,
    "id": "2123827993382687217#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "small updates in pstack v0.15.46 • lots of pruning, skills are now much shorter • gemini 4 neon is added as a panel reviewer it's autoupdated for grok bot / cursor users! if you want to change any of the model routing, just run /setup-pstack again x.ai/bot/plugin/9717366 Link pstack for Grok Bot if you want to go fast, go deep first. pstack helps you write less, but higher quality code. rigorous agent workflows you can parallelize with confidence. x.ai",
+   "url": "https://nitter.kareem.one/poteto/status/2123824683862855898#m",
+   "ts": 1795194238,
+   "id": "2123824683862855898#m"
   },
   {
    "handle": "elonmusk",
@@ -286,15 +304,6 @@
    "id": "2123659761887625602#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The magnitude of the consumer surplus for AI tools is mind boggling. My Grok subscription has probably already saved (made?) me more money than I am ever likely to spend on it.",
-   "url": "https://nitter.kareem.one/jamesdouma/status/2123617446590570679#m",
-   "ts": 1795144828,
-   "id": "2123617446590570679#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -448,6 +457,15 @@
    "id": "2123504409934233838#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "holy f*ck... you will never give a store your real email again. Elon Musk's team just made sure of it every Grok Bot can claim its own email address now, on its own @mail .grokbot domain. it signs up for things and talks to companies for you so my real email goes to real people. every store, app and \"sign up for 10% off\" box gets my bot's the rules its inbox runs on: 1. promos: delete. 3 in a week from the same sender: unsubscribe 2. receipts: keep them, track the return window, warn me 3 days out 3. codes and sign-up links: use them yourself 4. anything about money or my words: forward it to me 5. never reply as me the free trial that's about to start charging me? that one reaches me. the 12th \"flash sale\" this week doesn't my inbox is for people again the rest of my Grok Bot setup is in my article. read it below ↓ Video Ichigo (@iiiichigo_chan) Article Grok Bot Can Now Search X: Build Your Own AI Research Desk in 12 Steps Your next useful AI workflow might start with the app you already spend too much time scrolling. Grok Bot can now search, read, and monitor X. That means you can give it a recurring research job: — https://nitter.kareem.one/iiiichigo_chan/status/2108197189948166648#m",
+   "url": "https://nitter.kareem.one/iiiichigo_chan/status/2123491469403316387#m",
+   "ts": 1795114793,
+   "id": "2123491469403316387#m"
+  },
+  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -565,15 +583,6 @@
    "id": "2123411646777307310#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon Musk’s Boring Company has signed a 40-year agreement with Nashville International Airport, advancing the Music City Loop connection between the airport and downtown. • The Boring Company will fully fund construction, operations and maintenance, with no capital investment required from the airport authority. • All-electric underground rides designed to bypass road traffic and make airport trips faster. • A planned passenger station just 22 feet from the terminal entrance. • Approximately $343 million in projected airport revenue over a potential 50-year term, including extensions. • Two machines already tunneling beneath Nashville, with a third preparing to launch. A major milestone for The Boring Company, and a step closer to a faster, more convenient airport connection for Nashville.",
-   "url": "https://nitter.kareem.one/cb_doge/status/2123393880506966264#m",
-   "ts": 1795091526,
-   "id": "2123393880506966264#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -671,15 +680,6 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2123246238728630612#m",
    "ts": 1795056325,
    "id": "2123246238728630612#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Pretty sure I'm the only Korean who got a solo photo with @swyx at @aiDotEngineer SF. Maybe the first ever? 😄 Yes, I'm the green guy from the Seoul crew. Next time, more real conversations. And all event long, one thought kept coming back: Seoul needs one of these.",
-   "url": "https://nitter.kareem.one/choisor/status/2123207663672824242#m",
-   "ts": 1795047128,
-   "id": "2123207663672824242#m"
   },
   {
    "handle": "swyx",
