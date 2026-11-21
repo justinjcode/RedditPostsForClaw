@@ -1,17 +1,18 @@
 {
- "generated_at": "2026-11-21T07:18:34Z",
+ "generated_at": "2026-11-21T07:26:46Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
-  "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@realDonaldTrump: all instances failed"
+ ],
  "count": 177,
  "items": [
   {
@@ -355,6 +356,15 @@
    "url": "https://nitter.kareem.one/cdcshepherd/status/2123732416242364581#m",
    "ts": 1795172239,
    "id": "2123732416242364581#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "The distinction between a state visit and a working visit is beside the point: Xi explicitly framed his airport welcome as a reciprocal gesture. Pavel Slunkin (@PavelSlunkin) A fair point by Gerard. This makes Xi's decision to meet Trump at the airport an even stronger political gesture. — https://nitter.kareem.one/PavelSlunkin/status/2123716532983177424#m",
+   "url": "https://nitter.kareem.one/Igor_Denisov/status/2123730853612163308#m",
+   "ts": 1795171867,
+   "id": "2123730853612163308#m"
   },
   {
    "handle": "elonmusk",
@@ -724,15 +734,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2123305131206967571#m",
    "ts": 1795070367,
    "id": "2123305131206967571#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "let me bet he will be \"an old friend of thw Chinese people.\"\" Mark Witzke (@mkwitzke) I wonder if China has a place in Trump's post-presidency plans — https://nitter.kareem.one/mkwitzke/status/2123068592208101665#m",
-   "url": "https://nitter.kareem.one/ZichenWanghere/status/2123246238728630612#m",
-   "ts": 1795056325,
-   "id": "2123246238728630612#m"
   },
   {
    "handle": "swyx",
