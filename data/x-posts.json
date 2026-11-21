@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T04:38:20Z",
+ "generated_at": "2026-11-21T04:46:00Z",
  "accounts_ok": [
   "TheRundownAI",
   "ZichenWanghere",
@@ -15,6 +15,15 @@
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "thsottiaux",
+   "name": "Tibo Sottiaux",
+   "author": "@thsottiaux",
+   "text": "We’ve been messing around a bit and inadvertently created an experience that’s a bit too fun internally and now everyone is just having fun instead of working. We might not recover from this.",
+   "url": "https://nitter.kareem.one/thsottiaux/status/2123997735326232775#m",
+   "ts": 1795235496,
+   "id": "2123997735326232775#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -1220,15 +1229,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2120644009618215418#m",
    "ts": 1794435906,
    "id": "2120644009618215418#m"
-  },
-  {
-   "handle": "thsottiaux",
-   "name": "Tibo Sottiaux",
-   "author": "@thsottiaux",
-   "text": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
-   "url": "https://nitter.kareem.one/thsottiaux/status/2120410480204525936#m",
-   "ts": 1794380228,
-   "id": "2120410480204525936#m"
   },
   {
    "handle": "simonw",
