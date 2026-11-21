@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T18:56:25Z",
+ "generated_at": "2026-11-21T19:10:08Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -7,14 +7,23 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
  "errors": [
+  "@swyx: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Simple explanation of the usefulness of the Riemann proof (so far) is that it removes the conditional nature of other math theorems dependent upon it. And, of course, is yet another mind-blowing thing achieved by super intelligence … nitter.kareem.one/i/grok/share/bGVnYWN5_… Link How is this useful? Proving the Riemann Hypothesis (and GRH for Dirichlet \\(L\\)-functions) is useful primarily because it gives the sharpest possible description of how primes are distributed, and because it turns a large body of existing number-theoretic results from “conditional on RH/GRH” into unconditional theorems.<grok:render card_id=\"fdb064\" card_type=\"citation_card\" type=\"render_inline_citation\"><argument name=\"citation_id\">38</argument></grok:render> Control over prime numbers The prime number theorem … Answer by Grok",
+   "url": "https://nitter.kareem.one/elonmusk/status/2124213680422387741#m",
+   "ts": 1795286982,
+   "id": "2124213680422387741#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -104,15 +113,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2124046857659650295#m",
    "ts": 1795247208,
    "id": "2124046857659650295#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "We’ve had monkeys playing video while drinking banana smoothies for 5 years. Not a bad life. X Freeze (@XFreeze) How it started vs how it's going In April 2021, Neuralink showed Pager the macaque playing MindPong with his brain Now a Neuralink patient is flying a plane in GTA VI with 2 joysticks and 12 buttons of control, all with his brain Before the implant, he used a mouth stick on an iPad Now he's literally playing with Neuralink telepathy \"Immediately, controlling a computer is like, boom, portal to the world. Like you immediately just get your portal to the world back\" Video — https://nitter.kareem.one/XFreeze/status/2124030861653999815#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2124044780099285426#m",
-   "ts": 1795246713,
-   "id": "2124044780099285426#m"
   },
   {
    "handle": "elonmusk",
