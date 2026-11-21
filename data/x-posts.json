@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-21T21:57:00Z",
+ "generated_at": "2026-11-21T22:09:13Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +10,9 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 177,
  "items": [
   {
@@ -40,6 +41,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2124238164512714925#m",
    "ts": 1795292819,
    "id": "2124238164512714925#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Here are the new FSD visualizations in FSD V15. It continuously streams a view from an arbitrary virtual camera situated above your vehicle. Upcoming navigation turns display directly in the driving visualization. Turn signals are quieter and fade out after a few clicks.",
+   "url": "https://nitter.kareem.one/SawyerMerritt/status/2124226258196103492#m",
+   "ts": 1795289980,
+   "id": "2124226258196103492#m"
   },
   {
    "handle": "simonw",
@@ -319,15 +329,6 @@
    "url": "https://nitter.kareem.one/spencerpratt/status/2123816220717957139#m",
    "ts": 1795192220,
    "id": "2123816220717957139#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "SpaceX is turning Starship production into something that looks more like a car factory than a traditional rocket factory Inside Starfactory, SpaceX is now completing: • 1 Starship upper stage every 2 weeks → ~26 per year • 1 Super Heavy booster every 4 weeks → ~13 per year And the scale of what's happening inside is insanely huge • ~1 MILLION sq ft of manufacturing space • ~330,000 sq ft of additional office space • Rows of Starship nose cones numbered as high as Ship 51 • Multiple Starships and boosters being assembled simultaneously • Most vehicles currently in production are intended to deploy Starlink V3 satellites There's even a Starship nose cone with windows already cut into it, potentially being developed for NASA's Artemis lunar lander And SpaceX is preparing to scale production even further Each of the existing Mega Bays accommodates around 5–6 vehicle assemblies The massive new ~700,000 sq ft Gigabay under construction at Starbase will have room for up to 24 vehicles simultaneously That's an enormous expansion in SpaceX's ability to assemble and integrate Starships and Super Heavy boosters The goal is to reach roughly ONE Starship launch every week beginning in 2027 What's especially impressive is that SpaceX isn't just designing the world's largest rocket anymore. It's also building the manufacturing infrastructure to produce these vehicles at an industrial scale Starship is no longer just an experimental rocket. It has already moved into payload deployment, and ",
-   "url": "https://nitter.kareem.one/XFreeze/status/2123815607993073888#m",
-   "ts": 1795192074,
-   "id": "2123815607993073888#m"
   },
   {
    "handle": "TheRundownAI",
