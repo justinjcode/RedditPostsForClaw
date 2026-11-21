@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T14:35:08Z",
+ "generated_at": "2026-11-21T14:45:46Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "is there any possible benign explanation why these providers were secretly phoning home? because wtf Michael (@michael_chomsky) the OpenRouter situation for anyone curious: -someone managed to access outputs sent to MiniMax -researcher discovered this by sending a secret links -40 to 130 hours later someone opened the secret links -oop, this means that someone accessed your outputs!! -AltasCloud/Novita/StreamLake were forwarding requests to MiniMax???? what the helly? ugh. — https://nitter.kareem.one/michael_chomsky/status/2124008002571428224#m",
+   "url": "https://nitter.kareem.one/swyx/status/2124147427313861009#m",
+   "ts": 1795271186,
+   "id": "2124147427313861009#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -850,15 +859,6 @@
    "url": "https://nitter.kareem.one/micahgallen/status/2123071235869245593#m",
    "ts": 1795014602,
    "id": "2123071235869245593#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Fable 5.2 output costs twice what Opus 5.5 does. Lydia Hallie from Anthropic: \"You're not just paying Fable prices to implement everything.\" Video",
-   "url": "https://nitter.kareem.one/RayFernando1337/status/2123054459429192052#m",
-   "ts": 1795010602,
-   "id": "2123054459429192052#m"
   },
   {
    "handle": "Lingling_Wei",
