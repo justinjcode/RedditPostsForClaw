@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-21T07:46:16Z",
+ "generated_at": "2026-11-21T07:57:16Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed"
+  "@swyx: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Even if Riemann turns out not to be fully solved yet, it will be soon enough nitter.kareem.one/i/grok/share/bGVnYWN5_… Link Has it actually been solved? No, not in the fully settled sense yet—but there is a major, high-profile claim that it has been proved.<grok:render card_id=\"668767\" card_type=\"citation_card\" type=\"render_inline_citation\"><argument name=\"citation_id\">6</argument></grok:render> On November 20, 2026, Levent Alpöge (a mathematician at Anthropic) announced that, working with Claude, he had found a proof of the Riemann Hypothesis, along with the generalized version for Dirichlet L-functions. He released a short note and a formal… Answer by Grok",
+   "url": "https://nitter.kareem.one/elonmusk/status/2124046857659650295#m",
+   "ts": 1795247208,
+   "id": "2124046857659650295#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -221,15 +230,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2123817232849567933#m",
    "ts": 1795192461,
    "id": "2123817232849567933#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Starlink helps education DogeDesigner (@cb_doge) BREAKING: Paraguay’s government receives 400 more Starlink kits to connect more schools across the country. 🇵🇾 • 800 rural schools already connected. • Goal: 1,600 educational institutions nationwide. • Next phase: expanding connectivity to hospitals and Family Health Units. Starlink is helping students in remote communities access online lessons and digital learning resources. — https://nitter.kareem.one/cb_doge/status/2123741477238890516#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2123816520002482305#m",
-   "ts": 1795192291,
-   "id": "2123816520002482305#m"
   },
   {
    "handle": "ZichenWanghere",
