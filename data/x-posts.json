@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T06:42:37Z",
+ "generated_at": "2026-11-21T06:49:01Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -8,12 +8,22 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@swyx: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Playing GTA VI with Telepathy Neuralink (@neuralink) Playing GTA VI with a Neuralink Video — https://nitter.kareem.one/neuralink/status/2123890949029818800#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2124028719190749681#m",
+   "ts": 1795242883,
+   "id": "2124028719190749681#m"
+  },
   {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
@@ -85,6 +95,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2123852660688494744#m",
    "ts": 1795200908,
    "id": "2123852660688494744#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "RT by @elonmusk: Image",
+   "url": "https://nitter.kareem.one/reflex_division/status/2123849846922899566#m",
+   "ts": 1795200237,
+   "id": "2123849846922899566#m"
   },
   {
    "handle": "elonmusk",
@@ -202,15 +221,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2123813520244605100#m",
    "ts": 1795191576,
    "id": "2123813520244605100#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Members of the Starship production team with Starship 42 before its launch",
-   "url": "https://nitter.kareem.one/SpaceX/status/2123809508187078839#m",
-   "ts": 1795190619,
-   "id": "2123809508187078839#m"
   },
   {
    "handle": "TheRundownAI",
@@ -391,15 +401,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2123690305736396925#m",
    "ts": 1795162199,
    "id": "2123690305736396925#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Back in 2019, Elon Musk stood on an empty field in Shanghai and broke ground on Tesla’s first factory in China Less than a year later, the first China-made Model 3s were being delivered Then in January 2020, Elon returned to launch the Model Y program and celebrated with the team on stage Fast forward to 2026 Giga Shanghai has become one of the most important factories in Tesla’s entire global operation • 851,732 vehicles produced for wholesale in 2025 • 810,889 already through October 2026 • 95% of last year’s entire volume in just 10 months • +21.4% YoY through October • 420,984 vehicles exported through October • Exports up more than 100% YoY • More than half of Shanghai’s 2026 wholesale volume now going overseas • Tesla’s biggest global export hub And on November 19, Elon returned to Shanghai again to personally thank Tesla’s China and APAC teams From an empty construction site in 2019… To hundreds of thousands of vehicles every year, supplying markets around the world Giga Shanghai is one of the clearest examples of how quickly Tesla can turn an empty field into global industrial infrastructure",
-   "url": "https://nitter.kareem.one/XFreeze/status/2123669662768812123#m",
-   "ts": 1795157278,
-   "id": "2123669662768812123#m"
   },
   {
    "handle": "swyx",
