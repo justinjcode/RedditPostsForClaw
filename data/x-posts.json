@@ -1,17 +1,18 @@
 {
- "generated_at": "2026-11-21T18:37:02Z",
+ "generated_at": "2026-11-21T18:48:43Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@swyx: all instances failed",
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 177,
  "items": [
   {
@@ -22,6 +23,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2124147427313861009#m",
    "ts": 1795271186,
    "id": "2124147427313861009#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Incredible that this actually happened, seven years later. We are in a completely new world. Balaji (@balajis) To anyone who wants to “ban lying” on social media Please write down a function that takes in a statement and returns whether it is true If you can start with the Riemann Hypothesis that would be amazing — https://nitter.kareem.one/balajis/status/1198727092835364864#m",
+   "url": "https://nitter.kareem.one/balajis/status/2124099490110193793#m",
+   "ts": 1795259756,
+   "id": "2124099490110193793#m"
   },
   {
    "handle": "elonmusk",
@@ -121,15 +131,6 @@
    "url": "https://nitter.kareem.one/XFreeze/status/2124043559536152707#m",
    "ts": 1795246422,
    "id": "2124043559536152707#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "True Seth Dillon (@SethDillon) Grok Bot does the work of an entire team of people. If you make good use of it, it's worth much more than anyone is paying for it. — https://nitter.kareem.one/SethDillon/status/2123836980060357056#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2124043015941767630#m",
-   "ts": 1795246292,
-   "id": "2124043015941767630#m"
   },
   {
    "handle": "ZichenWanghere",
