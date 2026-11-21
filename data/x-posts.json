@@ -1,19 +1,29 @@
 {
- "generated_at": "2026-11-21T19:25:45Z",
+ "generated_at": "2026-11-21T19:38:03Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@bcherny: all instances failed",
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "Here's the full comparison grid for Gemini 4 Carbon, Neon and Hydrogen across all of their reasoning levels static.simonwillison.net/sta…",
+   "url": "https://nitter.kareem.one/simonw/status/2124223349769609407#m",
+   "ts": 1795289287,
+   "id": "2124223349769609407#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1255,15 +1265,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2120259268364718331#m",
    "ts": 1794344176,
    "id": "2120259268364718331#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "Gemini 4 Carbon is good at pelican SVGs, but that's nothing new for Gemini \"Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and stomps around manhattan and queens and Brooklyn, use openstreetmap mapping data\" simonwillison.net/2026/Nov/1… Video",
-   "url": "https://nitter.kareem.one/simonw/status/2120258951594037732#m",
-   "ts": 1794344101,
-   "id": "2120258951594037732#m"
   },
   {
    "handle": "bcherny",
