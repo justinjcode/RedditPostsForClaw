@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-21T00:18:47Z",
+ "generated_at": "2026-11-21T00:47:11Z",
  "accounts_ok": [
-  "TheRundownAI",
+  "Lingling_Wei",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,7 +11,7 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed"
+  "@TheRundownAI: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -302,6 +302,15 @@
    "url": "https://nitter.kareem.one/pequityresearch/status/2123778402289144240#m",
    "ts": 1795183203,
    "id": "2123778402289144240#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "We’re hearing a lot of shit about guys who play video games from women whose only hobby is phone.",
+   "url": "https://nitter.kareem.one/BENZOTOOIE/status/2123754533738143744#m",
+   "ts": 1795177512,
+   "id": "2123754533738143744#m"
   },
   {
    "handle": "TheRundownAI",
@@ -707,15 +716,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2123305131206967571#m",
    "ts": 1795070367,
    "id": "2123305131206967571#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "poteto AI.Engineer (@aiDotEngineer) If you keep correcting the same mistake, make it a check. @poteto of @spacexai on turning corrections into deterministic checks, and keeping the codebase worth copying. From AI Engineer Code Summit. Video — https://nitter.kareem.one/aiDotEngineer/status/2123068725410869585#m",
-   "url": "https://nitter.kareem.one/swyx/status/2123298074911248526#m",
-   "ts": 1795068684,
-   "id": "2123298074911248526#m"
   },
   {
    "handle": "ZichenWanghere",
