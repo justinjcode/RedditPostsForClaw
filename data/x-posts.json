@@ -1,20 +1,28 @@
 {
- "generated_at": "2026-11-21T23:18:44Z",
+ "generated_at": "2026-11-21T23:26:38Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@simonw: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Give Grok @Bot your hardest tasks Molly O’Shea (@MollySOShea) Grok Bot planned a 5,000-person conference Ron Biscardi ( @rbiscardi ) says his team used Grok Bot for literally everything to set up the TomorrowX Summit at record speed: “Grok Bot is what made this whole event possible.” “My COO, who normally isn’t doing in-the-weeds stuff, had a dozen Grok Bot agents & was running literally half of the lead up to this event on her own. None of that was possible before these tools.” “This is 5,000 people in a basketball arena. No one does that in 6 or 7 months. That’s like an 18-month thing.” “Using AI, we were able to build everything we needed so quickly: the website, the dashboards, the mobile app. All of the elements that go into this that typically took months & months to build, we built them in days.” @GavinSBaker @AntonioGracias @elonmusk Video — https://nitter.kareem.one/MollySOShea/status/2124215518341017719#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2124280710747840889#m",
+   "ts": 1795302963,
+   "id": "2124280710747840889#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -176,15 +184,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2124069831989178660#m",
    "ts": 1795252685,
    "id": "2124069831989178660#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Starlink helps education X Freeze (@XFreeze) SpaceX has donated 1,600 Starlink kits to help connect some of Paraguay's most remote schools to high-speed internet 🇵🇾 And the rollout has already reached a major milestone! COPACO has completed the first phase, connecting 800 schools across Paraguay, and has received another 400 Starlink kits for the next phase Here's where things stand: • 800 schools already connected • 400 additional kits received for phase two • Another 400 planned for the final phase • 1,600 schools targeted in total • Hospitals and Family Health Units are also part of the broader connectivity plans The rollout is reaching communities where traditional broadband has struggled for years In the Chaco region alone, 95 schools have been connected, including schools serving Indigenous communities Every installation undergoes a 60-item quality inspection, and even the antenna mounts are being manufactured by inmates trained through Paraguay's Ministry of Justice workshops For thousands of children growing up in remote communities, this means access to online education, digital learning materials, and opportunities that were previously out of reach This is exactly the kind of impact Starlink was built to deliver Connecting places the rest of the internet infrastructure never reached Video — https://nitter.kareem.one/XFreeze/status/2123792729130041703#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2124069585590813180#m",
-   "ts": 1795252627,
-   "id": "2124069585590813180#m"
   },
   {
    "handle": "elonmusk",
