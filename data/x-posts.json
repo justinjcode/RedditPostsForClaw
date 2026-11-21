@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T20:47:51Z",
+ "generated_at": "2026-11-21T20:54:05Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "It’s high time we probed Uranus again! Much better images are needed (actually).",
+   "url": "https://nitter.kareem.one/elonmusk/status/2124241570451054609#m",
+   "ts": 1795293631,
+   "id": "2124241570451054609#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -148,15 +157,6 @@
    "url": "https://nitter.kareem.one/XFreeze/status/2124067003636080641#m",
    "ts": 1795252011,
    "id": "2124067003636080641#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "✨ Elon Musk (@elonmusk) Yeah. The new user interface will re-render reality in a mind-bending way. Hard to describe, but it’s awesome. — https://nitter.kareem.one/elonmusk/status/2124051536170914023#m",
-   "url": "https://nitter.kareem.one/aelluswamy/status/2124057656398958873#m",
-   "ts": 1795249783,
-   "id": "2124057656398958873#m"
   },
   {
    "handle": "elonmusk",
