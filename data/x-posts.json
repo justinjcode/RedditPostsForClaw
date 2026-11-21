@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T20:35:48Z",
+ "generated_at": "2026-11-21T20:47:51Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,24 @@
  "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "It’s like GTA Sawyer Merritt (@SawyerMerritt) Here are the new FSD visualizations in FSD V15. It continuously streams a view from an arbitrary virtual camera situated above your vehicle. Upcoming navigation turns display directly in the driving visualization. Turn signals are quieter and fade out after a few clicks. — https://nitter.kareem.one/SawyerMerritt/status/2124226258196103492#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2124238249686159590#m",
+   "ts": 1795292839,
+   "id": "2124238249686159590#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "In FSD V15, the Tesla AI computer re-renders reality with chevrons in the sky for turns like a video game. You can tap any point on the reality revisualizer to make your car go there. Video",
+   "url": "https://nitter.kareem.one/elonmusk/status/2124238164512714925#m",
+   "ts": 1795292819,
+   "id": "2124238164512714925#m"
+  },
   {
    "handle": "simonw",
    "name": "Simon Willison",
@@ -144,15 +162,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Grok bot is still by far my most used personal agent Elon Musk (@elonmusk) True — https://nitter.kareem.one/elonmusk/status/2124043015941767630#m",
-   "url": "https://nitter.kareem.one/ArthurMacwaters/status/2124044033886728272#m",
-   "ts": 1795246535,
-   "id": "2124044033886728272#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Telepathy is very real. What Elon is doing with Neuralink is basically magic Neuralink (@neuralink) Playing GTA VI with a Neuralink Video — https://nitter.kareem.one/neuralink/status/2123890949029818800#m",
    "url": "https://nitter.kareem.one/XFreeze/status/2124043559536152707#m",
    "ts": 1795246422,
@@ -229,15 +238,6 @@
    "url": "https://nitter.kareem.one/fchollet/status/2123898321647571442#m",
    "ts": 1795211794,
    "id": "2123898321647571442#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "2 joysticks and 12 buttons of control with his brain Neuralink (@neuralink) Playing GTA VI with a Neuralink Video — https://nitter.kareem.one/neuralink/status/2123890949029818800#m",
-   "url": "https://nitter.kareem.one/djseo/status/2123897428743180771#m",
-   "ts": 1795211581,
-   "id": "2123897428743180771#m"
   },
   {
    "handle": "swyx",
