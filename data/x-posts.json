@@ -1,9 +1,7 @@
 {
- "generated_at": "2026-11-21T23:26:38Z",
+ "generated_at": "2026-11-21T23:41:16Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +9,10 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed",
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 177,
  "items": [
   {
@@ -31,6 +32,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2124270426402836626#m",
    "ts": 1795300511,
    "id": "2124270426402836626#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "v15 is 25x safer than v14 across the fleet. That’s hard to notice on any individual drive because most drives are already very safe. The difference only becomes clear when you aggregate millions of miles. All credit goes to the incredibly talented and dedicated @TeslaSI engineers who made this possible. It’s an honor to work alongside them. Tesla (@Tesla) FSD v15 now starting to roll out – upgrading every part of the end-to-end driving network Safety 25x better handling of safety critical cases Tesla Reality View Adds a live visualization of the drive that lets you see & control what FSD is planning to do Navigation for start & end of the trip now learns end-to-end from fleet route preferences. Later v15 releases will expand this to the entire route. You also should notice better detection of signs, animals, debris, potholes and standing water, plus more natural speed handling in school zones and inclement weather. Lastly, FSD can now slow for speed cameras & Bike Rack Mode lets you enable FSD w/ bike racks or similar hitch accessories Video — https://nitter.kareem.one/Tesla/status/2124222447855743019#m",
+   "url": "https://nitter.kareem.one/pduan/status/2124265867336966182#m",
+   "ts": 1795299424,
+   "id": "2124265867336966182#m"
   },
   {
    "handle": "elonmusk",
@@ -180,15 +190,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Starlink saves lives DogeDesigner (@cb_doge) Starlink is being deployed to help fight DR Congo’s deadly Ebola outbreak. 🇨🇩 Africa CDC has donated Starlink kits to health officials in Beni to help frontline teams share critical data in real time and coordinate faster responses, even in remote communities. Video — https://nitter.kareem.one/cb_doge/status/2123837679049777538#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2124069831989178660#m",
-   "ts": 1795252685,
-   "id": "2124069831989178660#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Telepathy is very real. What Elon is doing with Neuralink is basically magic Neuralink (@neuralink) Playing GTA VI with a Neuralink Video — https://nitter.kareem.one/neuralink/status/2123890949029818800#m",
    "url": "https://nitter.kareem.one/XFreeze/status/2124043559536152707#m",
    "ts": 1795246422,
@@ -247,6 +248,15 @@
    "url": "https://nitter.kareem.one/MilksandMatcha/status/2123902565092143294#m",
    "ts": 1795212806,
    "id": "2123902565092143294#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "I will keep dying on this hill. Source control being 100% or 0% access feels stupider than ever. I want private files in my repos. I want private branches that only 3 team members can see. I want secret management that doesn't require some obscure 3rd party tools. Sreenandhan (@sreenandhanpp) Junior dev: \"I pushed the .env too, you can test it now.\" Senior dev: \"Why?\" Junior dev: Video — https://nitter.kareem.one/sreenandhanpp/status/2123460225441419337#m",
+   "url": "https://nitter.kareem.one/theo/status/2123901093751280052#m",
+   "ts": 1795212455,
+   "id": "2123901093751280052#m"
   },
   {
    "handle": "elonmusk",
@@ -663,15 +673,6 @@
    "id": "2123473262185509174#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "AI.Engineer (@aiDotEngineer) 1 million views. Our fastest talk to get there. @poteto of @spacexai on the engineering behind 11,000 production PRs in one month. All Code Is Slop (Except Mine). Watch: inv.kareem.one/watch?v=O_zcc6Xl… — https://nitter.kareem.one/aiDotEngineer/status/2123453748785684806#m",
-   "url": "https://nitter.kareem.one/swyx/status/2123468745708597345#m",
-   "ts": 1795109375,
-   "id": "2123468745708597345#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -679,6 +680,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2123461918367351073#m",
    "ts": 1795107748,
    "id": "2123461918367351073#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Junior dev: \"I pushed the .env too, you can test it now.\" Senior dev: \"Why?\" Junior dev: Video",
+   "url": "https://nitter.kareem.one/sreenandhanpp/status/2123460225441419337#m",
+   "ts": 1795107344,
+   "id": "2123460225441419337#m"
   },
   {
    "handle": "TheRundownAI",
@@ -778,15 +788,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2123305131206967571#m",
    "ts": 1795070367,
    "id": "2123305131206967571#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Fun to chat with @swyx about the Anthropic S-1! we discussed: - their capital efficient journey to $70B+ of run-rate - how they've spent their compute over time - the nature of long-term compute commitments vs more usage based revenue that isn't always contracted Latent.Space (@latentspacepod) ⚡️ $ANT IPOs tomorrow! We catch you up on everything we learned from the S-1 and the IPO roadshow. @tanayj talks us through the $9.9B compute and infrastructure bill and other deep dives. inv.kareem.one/wX8nDtGIfYA Thanks to all the positive feedback on the @jaminball pod. Good luck tomorrow Ants! Link ⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC Anthropic reported $17B in quarterly revenue. What did it cost to g... youtube.com — https://nitter.kareem.one/latentspacepod/status/2123162937309438117#m",
-   "url": "https://nitter.kareem.one/tanayj/status/2123185516539425000#m",
-   "ts": 1795041848,
-   "id": "2123185516539425000#m"
   },
   {
    "handle": "thsottiaux",
