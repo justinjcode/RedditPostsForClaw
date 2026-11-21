@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-21T19:10:08Z",
+ "generated_at": "2026-11-21T19:16:11Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@swyx: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "Gemini 4 tip: the difference between Gemini 4 Hydrogen on \"high\" thinking effort and that same model on \"xhigh\" is VERY significant Here's the high v.s. the xhigh pelican - high cost 3.99 cents and used 5,311 output tokens, xhigh cost 23.61 cents and used 31,477 output tokens",
+   "url": "https://nitter.kareem.one/simonw/status/2124217876777464269#m",
+   "ts": 1795287982,
+   "id": "2124217876777464269#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1256,15 +1265,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2120258951594037732#m",
    "ts": 1794344101,
    "id": "2120258951594037732#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "Something I enjoy about these prompting guides is that it's VERY clear from reading them that Anthropic are just as surprised by the idiosyncrasies of their new models as we are",
-   "url": "https://nitter.kareem.one/simonw/status/2120029567616458900#m",
-   "ts": 1794289411,
-   "id": "2120029567616458900#m"
   },
   {
    "handle": "bcherny",
