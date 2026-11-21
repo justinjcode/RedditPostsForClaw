@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-21T09:56:07Z",
+ "generated_at": "2026-11-21T10:10:39Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,7 +10,9 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 177,
  "items": [
   {
@@ -121,15 +122,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2124043015941767630#m",
    "ts": 1795246292,
    "id": "2124043015941767630#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "SFT is more like getting a haircut with a chainsaw than it is “fine-tuning”! Should just be built into primary training. And having a “system prompt” is silly! Default behavior should be sensible. The above are already true for Tesla AI (not yet deserving of “super”). It is the most efficient AI on Earth. FSD V15 goes to wide release next month. It will be something special.",
-   "url": "https://nitter.kareem.one/elonmusk/status/2124042864891982292#m",
-   "ts": 1795246256,
-   "id": "2124042864891982292#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -247,6 +239,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2123843282082132335#m",
    "ts": 1795198672,
    "id": "2123843282082132335#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "$AAPL at $5 trillion, +27% YTD and barely off all time high, watching the AI carnage, while Siri AI takes 12 seconds of thinking to set a timer.",
+   "url": "https://nitter.kareem.one/ecommerceshares/status/2123842735719535089#m",
+   "ts": 1795198541,
+   "id": "2123842735719535089#m"
   },
   {
    "handle": "ZichenWanghere",
