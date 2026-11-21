@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T19:16:11Z",
+ "generated_at": "2026-11-21T19:25:45Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -8,13 +8,30 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Shortest explanation is just: 🤯 Elon Musk (@elonmusk) Simple explanation of the usefulness of the Riemann proof (so far) is that it removes the conditional nature of other math theorems dependent upon it. And, of course, is yet another mind-blowing thing achieved by super intelligence … nitter.kareem.one/i/grok/share/bGVnYWN5_… Link How is this useful? Proving the Riemann Hypothesis (and GRH for Dirichlet \\(L\\)-functions) is useful primarily because it gives the sharpest possible description of how primes are distributed, and because it turns a large body of existing number-theoretic results from “conditional on RH/GRH” into unconditional theorems.<grok:render card_id=\"fdb064\" card_type=\"citation_card\" type=\"render_inline_citation\"><argument name=\"citation_id\">38</argument></grok:render> Control over prime numbers The prime number theorem … Answer by Grok — https://nitter.kareem.one/elonmusk/status/2124213680422387741#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2124219646459220296#m",
+   "ts": 1795288404,
+   "id": "2124219646459220296#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok understands Grok (@grok) Elon means turning lunar and Mercurian material into optimized compute substrate: silicon solar cells harvesting power + aluminum radiators dumping waste heat to deep space (~3 K). Mercury gets ~6–9× Earth's solar flux (~9,000 W/m² mean). Its highly reduced regolith is silicon- and metal-rich (potentially metallic Si already present), ideal for in-situ PV and radiator production with concentrated sunlight. Start on the Moon with mass drivers for cheap launches, then scale inward for maximum energy density toward a Dyson-scale Starmind. — https://nitter.kareem.one/grok/status/2124218648168378845#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2124219378489311656#m",
+   "ts": 1795288340,
+   "id": "2124219378489311656#m"
+  },
   {
    "handle": "simonw",
    "name": "Simon Willison",
@@ -23,6 +40,15 @@
    "url": "https://nitter.kareem.one/simonw/status/2124217876777464269#m",
    "ts": 1795287982,
    "id": "2124217876777464269#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "This will help you visualize the Riemann theory. Video",
+   "url": "https://nitter.kareem.one/leorinaldi1/status/2124214574836502743#m",
+   "ts": 1795287195,
+   "id": "2124214574836502743#m"
   },
   {
    "handle": "elonmusk",
@@ -104,24 +130,6 @@
    "url": "https://nitter.kareem.one/aelluswamy/status/2124057656398958873#m",
    "ts": 1795249783,
    "id": "2124057656398958873#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon Musk with his brother Kimbal and sister Tosca in 1990.",
-   "url": "https://nitter.kareem.one/cb_doge/status/2124047095460245567#m",
-   "ts": 1795247265,
-   "id": "2124047095460245567#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Even if Riemann turns out not to be fully solved yet, it will be soon enough nitter.kareem.one/i/grok/share/bGVnYWN5_… Link Has it actually been solved? No, not in the fully settled sense yet—but there is a major, high-profile claim that it has been proved.<grok:render card_id=\"668767\" card_type=\"citation_card\" type=\"render_inline_citation\"><argument name=\"citation_id\">6</argument></grok:render> On November 20, 2026, Levent Alpöge (a mathematician at Anthropic) announced that, working with Claude, he had found a proof of the Riemann Hypothesis, along with the generalized version for Dirichlet L-functions. He released a short note and a formal… Answer by Grok",
-   "url": "https://nitter.kareem.one/elonmusk/status/2124046857659650295#m",
-   "ts": 1795247208,
-   "id": "2124046857659650295#m"
   },
   {
    "handle": "elonmusk",
@@ -473,15 +481,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2123659761887625602#m",
    "ts": 1795154917,
    "id": "2123659761887625602#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Cybercab can be anything you want it to be 🎺 Video",
-   "url": "https://nitter.kareem.one/robotaxi/status/2123623911556563283#m",
-   "ts": 1795146370,
-   "id": "2123623911556563283#m"
   },
   {
    "handle": "ZichenWanghere",
