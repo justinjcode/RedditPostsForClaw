@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-21T06:57:36Z",
+ "generated_at": "2026-11-21T07:11:11Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,7 +10,9 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 177,
  "items": [
   {
@@ -211,15 +212,6 @@
    "url": "https://nitter.kareem.one/spencerpratt/status/2123816220717957139#m",
    "ts": 1795192220,
    "id": "2123816220717957139#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "𝕏 is the global town square zerohedge (@zerohedge) \"X has become a much more powerful force in driving tech investor sentiment over the past few years. Honestly, besides Bloomberg, it’s my most important resource. I literally started a new section of my daily email a few weeks ago called SchilskyX where I screenshot and respond to Tweets. It’s that important. One important issue to note: the FinTwit community of influencers is VERY small. We’re talking less than 50 people that drive a preponderance of sentiment. Most investors and sell siders can’t tweet – so only a small number of FinTwit influencers with any sort of respectability drive much of the debate.\" - JPMorgan's Mark Schilsky — https://nitter.kareem.one/zerohedge/status/2123605506799595620#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2123813520244605100#m",
-   "ts": 1795191576,
-   "id": "2123813520244605100#m"
   },
   {
    "handle": "TheRundownAI",
@@ -1606,6 +1598,15 @@
    "url": "https://nitter.kareem.one/bunjavascript/status/2110692261508079721#m",
    "ts": 1792063224,
    "id": "2110692261508079721#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "This is not accurate: \"one report erases 468 likes.\" That's not what the code is doing. The weights are a multiple on your own predicted probability of Liking, Reporting, etc, which is substantially driven by your own behavior. And the baseline probability of a Report is more than 1000x lower. Also: nitter.kareem.one/nikitabier/status/2087… Nikita Bier (@nikitabier) It is not possible to game -- since the action has to take place on a post served in Home Timeline. Directly navigating to a post (i.e., coordinating via groupchat) has no ranking impact. And users cannot manufacture a post to show up in their Timeline in any reproducible way. — https://nitter.kareem.one/nikitabier/status/2087992223648682249#m",
+   "url": "https://nitter.kareem.one/kcoleman/status/2088005608415133767#m",
+   "ts": 1786654304,
+   "id": "2088005608415133767#m"
   }
  ]
 }
