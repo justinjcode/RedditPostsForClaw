@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T06:49:01Z",
+ "generated_at": "2026-11-21T06:57:36Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -8,11 +8,10 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
   {
@@ -370,6 +369,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "BREAKING: Tesla has released more photos from Elon Musk’s visit to Giga Shanghai, including moments with the team and a special gift designed and handmade by factory employees using leftover materials.",
+   "url": "https://nitter.kareem.one/cb_doge/status/2123714352905859195#m",
+   "ts": 1795167933,
+   "id": "2123714352905859195#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "Starlink is transforming a remote mountain water gate in Japan that sits completely outside mobile network coverage For years, workers had to travel roughly 35 minutes along a dangerous mountain road just to inspect the facility. During heavy rain, floods, or at night, reaching the site became even more dangerous Now KDDI and Japanese farm-tech company farmo have connected the Shinbori headworks in Sekikawa, Niigata, using Starlink Mini Here's how the system works: • Starlink Mini provides satellite internet where cellular networks don't reach • LoRa connects water-level sensors and the automated water gate • Solar panels power the equipment where grid electricity is difficult to access • Cloud monitoring gives operators real-time water levels, camera feeds, equipment status, and emergency alerts • Workers remotely open and close the water gate without physically visiting the site The results are already impressive: All 6 remote gate-control tests were SUCCESSFUL Workers now have visibility and control over infrastructure that previously required a dangerous mountain trip just to inspect This becomes especially important during floods and emergencies, when every minute matters and sending workers into dangerous conditions puts lives at risk The project will continue in Japan's FY2027, with plans to expand into automated water management, disaster prevention, and other agricultural applications This is another example of what Starlink is making possible Video",
    "url": "https://nitter.kareem.one/XFreeze/status/2123707452915065128#m",
    "ts": 1795166288,
@@ -383,15 +391,6 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2123707404043063434#m",
    "ts": 1795166276,
    "id": "2123707404043063434#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Starlink just secured another major spectrum expansion in Brazil, and the authorization is now OFFICIAL 🇧🇷 Brazil's telecom regulator Anatel published Act No. 14,179 on November 19, formally adding new radio-frequency bands to Starlink's existing satellite authorization Here's what was approved: • 5 new uplink frequency sub-bands • 4 new downlink frequency sub-bands • Additional spectrum across Ku, Ka and Q/V bands • Authorization covering ALL of Brazil • Non-exclusive use for the remaining term of Starlink's existing authorization • Approved by Anatel's board in October and formally published November 19 The authorization is held by Space Exploration Holdings, with Starlink Brazil Holding serving as its local representative These additional frequencies are an important part of expanding Starlink's satellite communications capacity and supporting its next-generation network And with Starlink V3 satellites bringing dramatically more bandwidth per satellite, securing additional spectrum is very important Brazil is already a major market for Starlink, and SpaceX is continuing to build the regulatory foundation for its future expansion Step by step, Starlink is securing the infrastructure and spectrum needed to keep scaling across Brazil Video",
-   "url": "https://nitter.kareem.one/XFreeze/status/2123696355554316764#m",
-   "ts": 1795163642,
-   "id": "2123696355554316764#m"
   },
   {
    "handle": "swyx",
