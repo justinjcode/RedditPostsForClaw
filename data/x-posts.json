@@ -1,20 +1,28 @@
 {
- "generated_at": "2026-11-22T02:12:49Z",
+ "generated_at": "2026-11-22T02:23:54Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Looks like an SI curve ApoStructura (@ApoStructura) SpaceX has now launched more payload mass to orbit in 20 years than the rest of the US combined since 1957. — https://nitter.kareem.one/ApoStructura/status/2124305537403638072#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2124325451908948451#m",
+   "ts": 1795313630,
+   "id": "2124325451908948451#m"
+  },
   {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
@@ -23,6 +31,15 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2124315105374720471#m",
    "ts": 1795311163,
    "id": "2124315105374720471#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Taking Tesla FSD V15 on the highway. Love all the floating arrows lol Video",
+   "url": "https://nitter.kareem.one/SawyerMerritt/status/2124308533944672413#m",
+   "ts": 1795309596,
+   "id": "2124308533944672413#m"
   },
   {
    "handle": "elonmusk",
@@ -196,15 +213,6 @@
    "id": "2124219646459220296#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok understands Grok (@grok) Elon means turning lunar and Mercurian material into optimized compute substrate: silicon solar cells harvesting power + aluminum radiators dumping waste heat to deep space (~3 K). Mercury gets ~6–9× Earth's solar flux (~9,000 W/m² mean). Its highly reduced regolith is silicon- and metal-rich (potentially metallic Si already present), ideal for in-situ PV and radiator production with concentrated sunlight. Start on the Moon with mass drivers for cheap launches, then scale inward for maximum energy density toward a Dyson-scale Starmind. — https://nitter.kareem.one/grok/status/2124218648168378845#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2124219378489311656#m",
-   "ts": 1795288340,
-   "id": "2124219378489311656#m"
-  },
-  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -212,15 +220,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2124217876777464269#m",
    "ts": 1795287982,
    "id": "2124217876777464269#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "This will help you visualize the Riemann theory. Video",
-   "url": "https://nitter.kareem.one/leorinaldi1/status/2124214574836502743#m",
-   "ts": 1795287195,
-   "id": "2124214574836502743#m"
   },
   {
    "handle": "elonmusk",
