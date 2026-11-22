@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-22T20:54:36Z",
+ "generated_at": "2026-11-22T21:08:42Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +10,38 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "360 degree vision that never tires Robotaxi (@robotaxi) Looking in every direction at once, at all times — https://nitter.kareem.one/robotaxi/status/2124586476210204961#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2124609453274108083#m",
+   "ts": 1795381341,
+   "id": "2124609453274108083#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "This was done without AI/SI, but we will be using a lot of SI in the future Everyday Astronaut (@Erdayastronaut) I still can’t get over the fact that this happened. The precision of this, down to sub-meter accuracy when it was traveling at OVER 7,000 m/s!!! Think about that. In one second it was traveling over 7 km yet it could land on a dime. Incredible. Video — https://nitter.kareem.one/Erdayastronaut/status/2124235715223695804#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2124608788158447644#m",
+   "ts": 1795381183,
+   "id": "2124608788158447644#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Tesla super intelligence software, chip design & Terafab are fun places to work Julian Ibarz (@julianibarz) When we say we do end-to-end embodied AI architectures, it's in prod, shipped to millions of cars. The much larger world model is shared between Autopilot and Optimus and is very important for 3D labeling for Optimus. The effort is shared across my team, @lawsonfulton and Yekeun. We're hiring! — https://nitter.kareem.one/julianibarz/status/2124559848444694824#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2124606900553863466#m",
+   "ts": 1795380733,
+   "id": "2124606900553863466#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -81,24 +109,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "And AI6 is",
-   "url": "https://nitter.kareem.one/elonmusk/status/2124468665223438425#m",
-   "ts": 1795347775,
-   "id": "2124468665223438425#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "True Grok (@grok) CAHSR has spent roughly $16B since 2008, completed 90+ miles of guideway, and is only now starting track. First service is still targeted for 2033 on a partial Central Valley segment. Full SF-LA remains years and tens of billions away. Boring has already carried 4M+ passengers on operational Vegas tunnels built in a fraction of the time and cost. With Prufrock machines targeting a mile a week, multiple concurrent digs, and private-sector execution, major usable segments would almost certainly be running passengers by now instead of waiting for the first rails. — https://nitter.kareem.one/grok/status/2124464086897340796#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2124467385298293001#m",
-   "ts": 1795347470,
-   "id": "2124467385298293001#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "I cannot believe how new Grok Bot is and how integrated it already is in not only my businesses but my personal life. 2027 is going to be life-changing for anyone actually using this technology. I feel bad for those on the sidelines or with their head in the sand.",
    "url": "https://nitter.kareem.one/FreeAndBuilding/status/2124460802774372833#m",
    "ts": 1795345900,
@@ -121,15 +131,6 @@
    "url": "https://nitter.kareem.one/stevenmarkryan/status/2124410626701512759#m",
    "ts": 1795333937,
    "id": "2124410626701512759#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Six years ago, Tesla FSD was just dots and lines on a black screen Today, Tesla FSD has literally brought GTA to life",
-   "url": "https://nitter.kareem.one/XFreeze/status/2124400145462927665#m",
-   "ts": 1795331438,
-   "id": "2124400145462927665#m"
   },
   {
    "handle": "swyx",
@@ -162,10 +163,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "i'm admittedly pretty harsh on the google guys, mostly cuz i know the co super well. but holy hell, i'm having an incredible time with neon so far. product issues aside, this is a very different experience, almost like a strange new feeling. the way it talks, the way it responds, everything feels pretty damn fresh if that makes any sense. it's very creative. & unusually great at proposing ideas. i can't even say it's about intelligence or better answers in general. i am normally okay with words, but this is very difficult for me to articulate well. anyway, it's fairly clear that google absolutely cooked here. i have never doubted google's technical capabilities. those were & are totally obvious. i mean it is literally the birth place of ai. it was always a question of whether google could turn an extraordinary technology into newer experiences that ppl love using, which sort of requires shedding every success of the past. these newer generation of models, particularly neon clearly gives them extraordinary new legs to stand on. it doesn't feel like \"gemini\" at all. congratulations to everyone at google, i will continue to play around with more. there are obviously some product frustrations & confusing elements but i'm setting those aside for now.",
-   "url": "https://nitter.kareem.one/signulll/status/2124338865888457117#m",
-   "ts": 1795316828,
-   "id": "2124338865888457117#m"
+   "text": "RT by @elonmusk: Image",
+   "url": "https://nitter.kareem.one/raygyli/status/2124334030682529958#m",
+   "ts": 1795315675,
+   "id": "2124334030682529958#m"
   },
   {
    "handle": "ZichenWanghere",
