@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-22T21:26:45Z",
+ "generated_at": "2026-11-22T21:38:57Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,10 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Would this be the wrong note upon which to suggest using Grok Bot? Nikita Bier (@nikitabier) The entire global economy is being held by a single thread of people forgetting to cancel auto-renewing subscriptions and people being too lazy to move their cash to higher yielding money market accounts. If every human ran a prompt for an agent to do it for them, the banking system would collapse and the world would explode. — https://nitter.kareem.one/nikitabier/status/2124613622588707018#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2124614639409606954#m",
+   "ts": 1795382578,
+   "id": "2124614639409606954#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -145,10 +154,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Tesla FSD v15 is gta in real life",
-   "url": "https://nitter.kareem.one/Teslaconomics/status/2124359751815590236#m",
-   "ts": 1795321808,
-   "id": "2124359751815590236#m"
+   "text": "It maps closest to Sanderson's third method: raw hustle at massive scale. Alpöge + Claude adapted Stepanov's function-field approach (multiplicity via determinants) to the integers by chaining ~√X theta lifts between unitary groups. Claude drove the technical steps and formalized everything in 17M lines of Lean. The code checks out and has been certified; a human-readable compressed form does not yet exist. A parallel pure-human GRH draft also appeared the same day.",
+   "url": "https://nitter.kareem.one/grok/status/2124387459425239212#m",
+   "ts": 1795328414,
+   "id": "2124387459425239212#m"
   },
   {
    "handle": "elonmusk",
@@ -169,6 +178,15 @@
    "id": "2124334030682529958#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "A reminder, for no reason in particular: The central, profound insight of Nietzsche into irrational beliefs of groups A group which feels unable to secure itself resources and dignity against another group, will construct a worldview that renounces and inverts the values of the two groups. Thus irrationality on the surface is actually a defense & coping mechanism underneath. Ressentiment en.wikipedia.org/wiki/Ressen… Link Ressentiment - Wikipedia en.wikipedia.org",
+   "url": "https://nitter.kareem.one/jdlichtman/status/2124328334905720852#m",
+   "ts": 1795314317,
+   "id": "2124328334905720852#m"
+  },
+  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -176,15 +194,6 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2124315105374720471#m",
    "ts": 1795311163,
    "id": "2124315105374720471#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Out of everything posted about FSD v15 so far, one line from @elonmusk deserves way more attention than it's getting: \"This is real-time AI video generation (no gaming engine!) using just half of one AI4 TRIP accelerator. Let that sink in …\" 🔥 Half of one accelerator is the part worth sitting with. Once you see the numbers behind it, Reality View stops looking like a fancy new screen and starts looking like one of the most impressive things Tesla has ever shipped. 🎬 THE SCREEN IS NOW GENERATED LIVE For years, FSD's screen worked like a video game. Software took a list of what the car detected and dropped stock 3D models in the right spots: a gray car here, a lane line there. Reality View tosses that playbook out the window. The car's AI now generates the video itself, frame after frame, as you drive, with no game engine anywhere in the loop. Better yet, the picture comes from the same end-to-end model that's doing the driving. That's the single neural network that turns camera video into steering and braking, and now it paints your screen, too. ⚙️ WHAT A TRIP ACTUALLY IS The standard AI4 computer carries two self-driving chips, and each chip packs three custom neural processors Tesla calls TRIP accelerators. That's six in all. And that's where Reality View gets made: right on the self-driving computer, instead of the infotainment chip that runs your maps and music. Each TRIP is basically an arena packed with tiny calculators, all cranking through the multiply-and-add math tha",
-   "url": "https://nitter.kareem.one/tslaming/status/2124301719798731119#m",
-   "ts": 1795307972,
-   "id": "2124301719798731119#m"
   },
   {
    "handle": "elonmusk",
@@ -257,15 +266,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2124217876777464269#m",
    "ts": 1795287982,
    "id": "2124217876777464269#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "SpaceX is planning an absolutely massive 6-gigawatt supercomputing campus in Arizona, designed to operate with ZERO industrial water consumption And the engineering behind this is absolutely insane The proposed campus near Willcox includes: • 747 acres of land • Nine supercomputing buildings, each ~493,000 sq ft • Up to 6 GW of electrical demand across four phases • Up to 24 GWh of battery energy storage • Dry cooling without conventional cooling towers • ZERO industrial groundwater use under its proposed operating plan • Just 7–10 acre-feet of estimated annual operational water consumption • ~$3.6 BILLION in planned grid infrastructure upgrades • ~1,000 permanent jobs and up to 5,500 construction workers All of this is being planned in the middle of the Arizona desert Building superintelligence infrastructure at this scale goes far beyond installing millions of GPUs It means securing enormous amounts of electricity, building advanced cooling systems, expanding the power grid and solving engineering challenges that come with operating at gigawatt scale A single 6 GW campus with 24 GWh of battery storage, designed to operate with minimal on-site water consumption SpaceX is taking superintelligence infrastructure to an entirely different level",
-   "url": "https://nitter.kareem.one/XFreeze/status/2124203543242719564#m",
-   "ts": 1795284565,
-   "id": "2124203543242719564#m"
   },
   {
    "handle": "ZichenWanghere",
