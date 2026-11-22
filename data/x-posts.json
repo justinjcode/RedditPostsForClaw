@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-11-22T09:46:15Z",
+ "generated_at": "2026-11-22T09:56:36Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
   {
@@ -266,6 +265,15 @@
    "url": "https://nitter.kareem.one/ReactMiamiConf/status/2123970859362611496#m",
    "ts": 1795229088,
    "id": "2123970859362611496#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "The mood in China's AI industry is not great. A recent article by Bob Chen, a long-time contributor to Baiguan, has been privately circulated on the Chinese internet, even though it has been taken down by censors after it went viral. Bob makes six points worth thinking about. 1. Chinese labs used to have a fallback when they couldn’t buy Nvidia chips. They could rent time on the same chips in Southeast Asia. Now that avenue is closing. Switching to Huawei brings up the next question. Can Chinese chipmakers get the equipment to make enough of them? 2. Distillation let Chinese labs learn from the answers of models that US labs had already spent billions training. As OpenAI and Anthropic make that harder, Chinese labs have to collect more of their own data and pay for more experiments, including the ones that go nowhere. Alibaba can fund that from other businesses. An independent lab has to go back to investors, who are already losing faith 3. A lot of money has gone into Chinese startups building specialized “robot brains.” What happens to those valuations if a general-purpose model learns to do the job? In one test, a system using GPT already beat several specialist models at grasping and moving objects. China could build excellent robots while much of the value goes to whoever supplies the intelligence. 4. Chinese AI is creating far less revenue, on a rapidly rising cost base. Epoch AI puts annualized AI revenue for six leading Chinese companies combined at about $11 bn. Open",
+   "url": "https://nitter.kareem.one/robert_baiguan/status/2123954717177090097#m",
+   "ts": 1795225240,
+   "id": "2123954717177090097#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -653,15 +661,6 @@
    "url": "https://nitter.kareem.one/gabewildau/status/2123504409934233838#m",
    "ts": 1795117878,
    "id": "2123504409934233838#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "happy to be quoted in this @globeandmail report theglobeandmail.com/business… Link Chinese automakers view their investments in Hungary as possible model for Canada Companies are pushing to expand overseas and see Canadian sites as logical next step theglobeandmail.com",
-   "url": "https://nitter.kareem.one/ZichenWanghere/status/2123490464900972714#m",
-   "ts": 1795114554,
-   "id": "2123490464900972714#m"
   },
   {
    "handle": "TheRundownAI",
