@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T10:36:04Z",
+ "generated_at": "2026-11-22T10:44:56Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "My personal design esthetic is homeless Batman",
+   "url": "https://nitter.kareem.one/elonmusk/status/2124450538976629076#m",
+   "ts": 1795343453,
+   "id": "2124450538976629076#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -193,15 +202,6 @@
    "url": "https://nitter.kareem.one/DavidMoss/status/2124266500332904799#m",
    "ts": 1795299575,
    "id": "2124266500332904799#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "v15 is 25x safer than v14 across the fleet. That’s hard to notice on any individual drive because most drives are already very safe. The difference only becomes clear when you aggregate millions of miles. All credit goes to the incredibly talented and dedicated @TeslaSI engineers who made this possible. It’s an honor to work alongside them. Tesla (@Tesla) FSD v15 now starting to roll out – upgrading every part of the end-to-end driving network Safety 25x better handling of safety critical cases Tesla Reality View Adds a live visualization of the drive that lets you see & control what FSD is planning to do Navigation for start & end of the trip now learns end-to-end from fleet route preferences. Later v15 releases will expand this to the entire route. You also should notice better detection of signs, animals, debris, potholes and standing water, plus more natural speed handling in school zones and inclement weather. Lastly, FSD can now slow for speed cameras & Bike Rack Mode lets you enable FSD w/ bike racks or similar hitch accessories Video — https://nitter.kareem.one/Tesla/status/2124222447855743019#m",
-   "url": "https://nitter.kareem.one/pduan/status/2124265867336966182#m",
-   "ts": 1795299424,
-   "id": "2124265867336966182#m"
   },
   {
    "handle": "ZichenWanghere",
