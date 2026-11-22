@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T10:26:35Z",
+ "generated_at": "2026-11-22T10:36:04Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Zoom in, you’ll find it",
+   "url": "https://nitter.kareem.one/elonmusk/status/2124449744600871080#m",
+   "ts": 1795343264,
+   "id": "2124449744600871080#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -166,15 +175,6 @@
    "url": "https://nitter.kareem.one/RafelineK/status/2124285994073809252#m",
    "ts": 1795304222,
    "id": "2124285994073809252#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Give Grok @Bot your hardest tasks Molly O’Shea (@MollySOShea) Grok Bot planned a 5,000-person conference Ron Biscardi ( @rbiscardi ) says his team used Grok Bot for literally everything to set up the TomorrowX Summit at record speed: “Grok Bot is what made this whole event possible.” “My COO, who normally isn’t doing in-the-weeds stuff, had a dozen Grok Bot agents & was running literally half of the lead up to this event on her own. None of that was possible before these tools.” “This is 5,000 people in a basketball arena. No one does that in 6 or 7 months. That’s like an 18-month thing.” “Using AI, we were able to build everything we needed so quickly: the website, the dashboards, the mobile app. All of the elements that go into this that typically took months & months to build, we built them in days.” @GavinSBaker @AntonioGracias @elonmusk Video — https://nitter.kareem.one/MollySOShea/status/2124215518341017719#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2124280710747840889#m",
-   "ts": 1795302963,
-   "id": "2124280710747840889#m"
   },
   {
    "handle": "elonmusk",
