@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T11:26:51Z",
+ "generated_at": "2026-11-22T11:34:55Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,24 @@
  "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "We’re going to make the annoying “Promote” button borderline invisible",
+   "url": "https://nitter.kareem.one/elonmusk/status/2124463501703876939#m",
+   "ts": 1795346544,
+   "id": "2124463501703876939#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Some people thought we meant 25% improvement, no we mean 25 times! Welcome to the singularity. Hope you’re enjoying your stay. Dirty Tesla (@DirtyTesLa) FSD V15 is 25x safer than V14 I would have guessed V14 is at MINIMUM 2x safer than a human (probably more). These numbers are getting insane. Singularity is here. — https://nitter.kareem.one/DirtyTesLa/status/2124267166132285555#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2124463264037769352#m",
+   "ts": 1795346487,
+   "id": "2124463264037769352#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -171,28 +189,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Tesla FSD V15 is a banger release! Completely new architecture that deserves being called “super” intelligence, as it drives better than human intelligence. Tesla Super Intelligence (@TeslaSI) Full release notes below – – – v15 upgrades every part of the end-to-end driving network. Includes: Upgraded vision encoder shared between FSD, Robotaxi, and Optimus, which is trained on millions of internet videos for improved generalization and data efficiency, improving the critical intervention rate by 25x. Introduced Tesla Reality View, replacing all of the explicit model signals into a single end-to-end visualization using less total compute. Improved navigation by using an end-to-end learned model based on route preference data from the fleet. Improved parking location selection by using personalized parking history, and the map will now display multiple parking options at your destination. Improved driver monitoring by increasing vision-based attention monitoring availability with hats and sunglasses and decreasing strictness in higher speed driver profiles. Improved detection of road signs, small animals, road debris, and chains. Improved detection of potholes, road details, and avoidance of deep standing water. Improved speed handling for each driver profile, school zones and speed limits, and inclement weather. Improved Autoshift functionality by unifying with FSD-based gear predictions. — https://nitter.kareem.one/TeslaSI/status/2124229673056113100#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2124294755316310346#m",
-   "ts": 1795306311,
-   "id": "2124294755316310346#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Crazy work. Video",
    "url": "https://nitter.kareem.one/RafelineK/status/2124285994073809252#m",
    "ts": 1795304222,
    "id": "2124285994073809252#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Tesla FSD V15 is officially downloading on my Model Y!",
-   "url": "https://nitter.kareem.one/SawyerMerritt/status/2124271378073530460#m",
-   "ts": 1795300738,
-   "id": "2124271378073530460#m"
   },
   {
    "handle": "elonmusk",
