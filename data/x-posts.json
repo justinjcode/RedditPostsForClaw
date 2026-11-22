@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-11-22T06:28:45Z",
+ "generated_at": "2026-11-22T06:41:19Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "something broke in the last. month or so and codex is unable to clear its own worktree hell despite me asking nicely. giving up",
+   "url": "https://nitter.kareem.one/swyx/status/2124391769798533160#m",
+   "ts": 1795329441,
+   "id": "2124391769798533160#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -680,15 +688,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2123480546244264291#m",
    "ts": 1795112189,
    "id": "2123480546244264291#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "lifetime views",
-   "url": "https://nitter.kareem.one/swyx/status/2123473262185509174#m",
-   "ts": 1795110452,
-   "id": "2123473262185509174#m"
   },
   {
    "handle": "TheRundownAI",
