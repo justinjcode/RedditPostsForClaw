@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-22T10:56:46Z",
+ "generated_at": "2026-11-22T11:08:50Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,7 +10,9 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 177,
  "items": [
   {
@@ -31,6 +32,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2124449744600871080#m",
    "ts": 1795343264,
    "id": "2124449744600871080#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Here is my initial FSD v15 review after driving with it all afternoon and evening: First off, Elon was right. This update is a BANGER! Tesla Reality View is out of this world and so insanely cool I’m still trying to process it all. FSD V15.0.1 brings so many improvements behind the scenes, in addition to the wildly cool UI. Tesla Reality View IS AMAZING! Pictures and video don’t do it any justice, this is something that has to be experienced to truly understand. Got to take a few friends tonight on drives to show them and every single person was blown away by it. The amount of detail it shows and generates is wild and so impressive. It shows reflection in the car, buildings, trees, turn arrows on the display and more. FSD v15 now has pothole avoidance! I had it swerve and avoid/straddle a few potholes tonight that were difficult for me to see in the dark. Another great new feature in FSD v15 is speed camera slowdown. As you approach a speed camera, it automatically slows smoothly to the speed limit if you are in a quicker profile. This is a huge quality of life improvement especially as more cities get speed cameras. Parking seems near unchanged from the last build, I feel it picking spots quicker especially at the supercharger I went to tonight. Seems to be preferring to park in the first or second open spot it sees which is great, but it tried to park in one handicap spot- otherwise good. By far, the coolest part is Tesla Reality View. Holy crap is it insane to watch while ",
+   "url": "https://nitter.kareem.one/BLKMDL3/status/2124413163454255246#m",
+   "ts": 1795334542,
+   "id": "2124413163454255246#m"
   },
   {
    "handle": "swyx",
@@ -166,15 +176,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2124294755316310346#m",
    "ts": 1795306311,
    "id": "2124294755316310346#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "It is mesmerizing to watch. Where this is actually useful is when you want to tap the exact drop-off or parking location on the screen that you want your car to target.",
-   "url": "https://nitter.kareem.one/elonmusk/status/2124293720728346919#m",
-   "ts": 1795306065,
-   "id": "2124293720728346919#m"
   },
   {
    "handle": "elonmusk",
