@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T22:35:19.353Z",
+ "updated_at": "2026-11-22T22:35:22.884Z",
  "collection": "TOP_FREE",
  "country": "jp",
  "apps": [
@@ -8,14 +8,14 @@
    "appId": "com.ss.android.ugc.tiktok.lite",
    "title": "TikTok Lite",
    "developer": "TikTok Pte. Ltd.",
-   "score": 3.9824572
+   "score": 3.984617
   },
   {
    "rank": 2,
    "appId": "com.facebook.aura",
    "title": "Muse from Meta",
    "developer": "Meta Platforms, Inc.",
-   "score": 4.718391
+   "score": 4.7171717
   },
   {
    "rank": 3,
@@ -29,399 +29,399 @@
    "appId": "com.openai.chatgpt",
    "title": "ChatGPT",
    "developer": "OpenAI",
-   "score": 4.650245
+   "score": 4.650567
   },
   {
    "rank": 5,
    "appId": "com.ss.android.ugc.trill",
    "title": "TikTok",
    "developer": "TikTok Pte. Ltd.",
-   "score": 3.6466317
+   "score": 3.644616
   },
   {
    "rank": 6,
    "appId": "org.mozilla.firefox",
    "title": "Firefox Fast & Private Browser",
    "developer": "Mozilla",
-   "score": 4.2796245
+   "score": 4.278728
   },
   {
    "rank": 7,
    "appId": "com.twitter.android",
    "title": "X",
    "developer": "X Corp.",
-   "score": 4.498764
+   "score": 4.504361
   },
   {
    "rank": 8,
-   "appId": "com.google.android.apps.bard",
-   "title": "Google Gemini",
-   "developer": "Google LLC",
-   "score": 4.4044514
-  },
-  {
-   "rank": 9,
    "appId": "jp.jppost.pfapp",
    "title": "郵便局公式アプリ - 荷物の配送状況の確認や再配達が簡単に",
    "developer": "日本郵便株式会社",
-   "score": 3.9078774
+   "score": 3.905012
+  },
+  {
+   "rank": 9,
+   "appId": "com.google.android.apps.bard",
+   "title": "Google Gemini",
+   "developer": "Google LLC",
+   "score": 4.4085226
   },
   {
    "rank": 10,
-   "appId": "com.gamma.scan",
-   "title": "QR & Barcode Scanner",
-   "developer": "Gamma Play",
-   "score": 4.646766
-  },
-  {
-   "rank": 11,
-   "appId": "com.yaohuo.xingyu",
-   "title": "PDF Reader: Easy Fast Viewer",
-   "developer": "yaohuo",
-   "score": 3.6566627
-  },
-  {
-   "rank": 12,
    "appId": "com.instagram.android",
    "title": "Instagram",
    "developer": "Instagram",
-   "score": 4.036673
+   "score": 4.0366974
+  },
+  {
+   "rank": 11,
+   "appId": "com.gamma.scan",
+   "title": "QR & Barcode Scanner",
+   "developer": "Gamma Play",
+   "score": 4.646269
+  },
+  {
+   "rank": 12,
+   "appId": "com.yaohuo.xingyu",
+   "title": "PDF Reader: Easy Fast Viewer",
+   "developer": "yaohuo",
+   "score": 3.643885
   },
   {
    "rank": 13,
    "appId": "jp.co.rakuten.android",
    "title": "楽天市場 - 楽天ポイントが貯まる日本最大級の通販アプリ",
    "developer": "Rakuten Group, Inc.",
-   "score": 4.2501965
+   "score": 4.250226
   },
   {
    "rank": 14,
-   "appId": "com.duolingo",
-   "title": "Duolingo: Learn Languages",
-   "developer": "Duolingo",
-   "score": 4.5520306
-  },
-  {
-   "rank": 15,
-   "appId": "com.google.android.apps.authenticator2",
-   "title": "Google Authenticator",
-   "developer": "Google LLC",
-   "score": 3.5319636
-  },
-  {
-   "rank": 16,
    "appId": "jp.ne.paypay.android.app",
    "title": "PayPay",
    "developer": "PayPay Corporation",
-   "score": 4.4334736
+   "score": 4.433042
+  },
+  {
+   "rank": 15,
+   "appId": "com.osharemaker",
+   "title": "GU US - Clothes Shopping",
+   "developer": "GU.CO.,LTD.",
+   "score": 4.308405
+  },
+  {
+   "rank": 16,
+   "appId": "com.google.android.apps.walletnfcrel",
+   "title": "Google ウォレット",
+   "developer": "Google LLC",
+   "score": 4.0313816
   },
   {
    "rank": 17,
-   "appId": "com.anthropic.claude",
-   "title": "Claude by Anthropic",
-   "developer": "Anthropic PBC",
-   "score": 4.446873
-  },
-  {
-   "rank": 18,
-   "appId": "com.nexusforge.reader.engine",
-   "title": "Easy Reader - PDF Viewer",
-   "developer": "Rundong Technology",
-   "score": 3.622084
-  },
-  {
-   "rank": 19,
-   "appId": "com.scatterlab.messenger",
-   "title": "zeta: AI Chat, Story, Play",
-   "developer": "Scatter Lab, Inc.",
-   "score": 4.4275665
-  },
-  {
-   "rank": 20,
    "appId": "com.newchat.setlog",
    "title": "setlog",
    "developer": "newchat",
-   "score": 4.196262
+   "score": 4.284553
+  },
+  {
+   "rank": 18,
+   "appId": "com.scatterlab.messenger",
+   "title": "zeta: AI Chat, Story, Play",
+   "developer": "Scatter Lab, Inc.",
+   "score": 4.4339175
+  },
+  {
+   "rank": 19,
+   "appId": "com.duolingo",
+   "title": "Duolingo: Learn Languages",
+   "developer": "Duolingo",
+   "score": 4.550339
+  },
+  {
+   "rank": 20,
+   "appId": "jp.aeonretail.aeon_okaimono",
+   "title": "イオンお買物",
+   "developer": "AEON RETAIL CO., LTD.",
+   "score": 4.0236177
   },
   {
    "rank": 21,
-   "appId": "com.acepdf.tool",
-   "title": "AdoPDF",
-   "developer": "sirbodev",
-   "score": 3.6330276
+   "appId": "com.nexusforge.reader.engine",
+   "title": "Easy Reader - PDF Viewer",
+   "developer": "Rundong Technology",
+   "score": 3.6119404
   },
   {
    "rank": 22,
+   "appId": "jp.hamitv.hamiand1",
+   "title": "TVer(ティーバー) 民放公式テレビ配信サービス",
+   "developer": "TVer INC.",
+   "score": 3.3803675
+  },
+  {
+   "rank": 23,
+   "appId": "com.google.android.apps.authenticator2",
+   "title": "Google Authenticator",
+   "developer": "Google LLC",
+   "score": 3.522831
+  },
+  {
+   "rank": 24,
+   "appId": "com.anthropic.claude",
+   "title": "Claude by Anthropic",
+   "developer": "Anthropic PBC",
+   "score": 4.44323
+  },
+  {
+   "rank": 25,
+   "appId": "jp.unext.mediaplayer",
+   "title": "U-NEXT／ユーネクスト：映画、ドラマ、アニメなどが見放題",
+   "developer": "U-NEXT",
+   "score": 4.507951
+  },
+  {
+   "rank": 26,
+   "appId": "com.spotify.music",
+   "title": "Spotify: Music and Podcasts",
+   "developer": "Spotify AB",
+   "score": 4.475615
+  },
+  {
+   "rank": 27,
+   "appId": "com.newreading.goodreels",
+   "title": "GoodShort - Short Dramas Hub",
+   "developer": "GoodNovel",
+   "score": 4.573029
+  },
+  {
+   "rank": 28,
+   "appId": "jp.co.aeonst.app.myaeon",
+   "title": "iAEON-イオンペイも使える！「アイイオン」",
+   "developer": "AEON Smart Technology",
+   "score": 4.1118875
+  },
+  {
+   "rank": 29,
+   "appId": "com.acepdf.tool",
+   "title": "AdoPDF",
+   "developer": "sirbodev",
+   "score": 3.588785
+  },
+  {
+   "rank": 30,
+   "appId": "com.aurafile.reader",
+   "title": "PicoPDF",
+   "developer": "Rufayda LLC",
+   "score": 3.939394
+  },
+  {
+   "rank": 31,
+   "appId": "jp.co.mcdonalds.android",
+   "title": "McDonald's Japan",
+   "developer": "日本マクドナルド株式会社",
+   "score": 3.442688
+  },
+  {
+   "rank": 32,
+   "appId": "jp.co.matsukiyococokara.app",
+   "title": "マツキヨココカラ公式アプリ",
+   "developer": "マツキヨココカラ＆カンパニー",
+   "score": 3.838983
+  },
+  {
+   "rank": 33,
+   "appId": "com.kurashiru.usapo",
+   "title": "うさポ by クラシル",
+   "developer": "Kurashiru, Inc.",
+   "score": 3.6232357
+  },
+  {
+   "rank": 34,
+   "appId": "com.nttdocomo.keitai.payment",
+   "title": "d払い－スマホ決済アプリ、キャッシュレスでお支払い",
+   "developer": "NTT DOCOMO",
+   "score": 4.580537
+  },
+  {
+   "rank": 35,
+   "appId": "com.indeed.android.jobsearch",
+   "title": "Indeed Job Search",
+   "developer": "Indeed Jobs",
+   "score": 4.222785
+  },
+  {
+   "rank": 36,
+   "appId": "jp.co.ntt_tp.sagitaisaku",
+   "title": "詐欺対策 by NTTタウンページ",
+   "developer": "NTTタウンページ株式会社",
+   "score": 3.7821782
+  },
+  {
+   "rank": 37,
+   "appId": "com.uniqlo.ja.catalogue",
+   "title": "UNIQLOアプリ - ユニクロアプリ",
+   "developer": "UNIQLO CO., LTD.",
+   "score": 4.339253
+  },
+  {
+   "rank": 38,
+   "appId": "com.amazon.mShop.android.shopping",
+   "title": "Amazon Shopping",
+   "developer": "Amazon Mobile LLC",
+   "score": 3.8311093
+  },
+  {
+   "rank": 39,
+   "appId": "com.einnovation.temu",
+   "title": "Temu: Shop Like a Billionaire",
+   "developer": "Temu",
+   "score": 4.278718
+  },
+  {
+   "rank": 40,
+   "appId": "com.amazon.avod.thirdpartyclient",
+   "title": "Prime Video",
+   "developer": "Amazon Mobile LLC",
+   "score": 4.2969933
+  },
+  {
+   "rank": 41,
    "appId": "com.arumcomm.fillstorage",
    "title": "Fill Storage",
    "developer": "Arum Communications",
    "score": 3.26
   },
   {
-   "rank": 23,
-   "appId": "jp.hamitv.hamiand1",
-   "title": "TVer(ティーバー) 民放公式テレビ配信サービス",
-   "developer": "TVer INC.",
-   "score": 3.3791625
-  },
-  {
-   "rank": 24,
-   "appId": "jp.unext.mediaplayer",
-   "title": "U-NEXT／ユーネクスト：映画、ドラマ、アニメなどが見放題",
-   "developer": "U-NEXT",
-   "score": 4.5075336
-  },
-  {
-   "rank": 25,
-   "appId": "com.osharemaker",
-   "title": "GU US - Clothes Shopping",
-   "developer": "GU.CO.,LTD.",
-   "score": 4.310168
-  },
-  {
-   "rank": 26,
-   "appId": "com.aurafile.reader",
-   "title": "PicoPDF",
-   "developer": "Rufayda LLC",
-   "score": 3.988372
-  },
-  {
-   "rank": 27,
-   "appId": "jp.co.mcdonalds.android",
-   "title": "McDonald's Japan",
-   "developer": "日本マクドナルド株式会社",
-   "score": 3.4429908
-  },
-  {
-   "rank": 28,
-   "appId": "com.indeed.android.jobsearch",
-   "title": "Indeed Job Search",
-   "developer": "Indeed Jobs",
-   "score": 4.223535
-  },
-  {
-   "rank": 29,
-   "appId": "com.google.android.apps.walletnfcrel",
-   "title": "Google ウォレット",
-   "developer": "Google LLC",
-   "score": 4.032438
-  },
-  {
-   "rank": 30,
-   "appId": "jp.co.ntt_tp.sagitaisaku",
-   "title": "詐欺対策 by NTTタウンページ",
-   "developer": "NTTタウンページ株式会社",
-   "score": 3.73
-  },
-  {
-   "rank": 31,
-   "appId": "com.spotify.music",
-   "title": "Spotify: Music and Podcasts",
-   "developer": "Spotify AB",
-   "score": 4.4755383
-  },
-  {
-   "rank": 32,
-   "appId": "com.kurashiru.usapo",
-   "title": "うさポ by クラシル",
-   "developer": "Kurashiru, Inc.",
-   "score": 3.6624472
-  },
-  {
-   "rank": 33,
-   "appId": "jp.co.aeonst.app.myaeon",
-   "title": "iAEON-イオンペイも使える！「アイイオン」",
-   "developer": "AEON Smart Technology",
-   "score": 4.1103444
-  },
-  {
-   "rank": 34,
-   "appId": "jp.aeonretail.aeon_okaimono",
-   "title": "イオンお買物",
-   "developer": "AEON RETAIL CO., LTD.",
-   "score": 4.022462
-  },
-  {
-   "rank": 35,
-   "appId": "com.weather.daily.local.live",
-   "title": "Weather Forecast - Live Alerts",
-   "developer": "RODRIGUEZCASTILLO FABIOLA",
-   "score": 4.32
-  },
-  {
-   "rank": 36,
-   "appId": "com.newreading.goodreels",
-   "title": "GoodShort - Short Dramas Hub",
-   "developer": "GoodNovel",
-   "score": 4.580952
-  },
-  {
-   "rank": 37,
-   "appId": "com.amazon.mShop.android.shopping",
-   "title": "Amazon Shopping",
-   "developer": "Amazon Mobile LLC",
-   "score": 3.8328023
-  },
-  {
-   "rank": 38,
-   "appId": "com.facebook.katana",
-   "title": "Facebook",
-   "developer": "Meta Platforms, Inc.",
-   "score": 4.358266
-  },
-  {
-   "rank": 39,
-   "appId": "jp.co.recruit.mtl.android.hotpepper",
-   "title": "Hot Pepper Gourmet",
-   "developer": "Recruit Co.,Ltd.",
-   "score": 4.4177594
-  },
-  {
-   "rank": 40,
-   "appId": "com.nttdocomo.keitai.payment",
-   "title": "d払い－スマホ決済アプリ、キャッシュレスでお支払い",
-   "developer": "NTT DOCOMO",
-   "score": 4.5802517
-  },
-  {
-   "rank": 41,
-   "appId": "jp.co.matsukiyococokara.app",
-   "title": "マツキヨココカラ公式アプリ",
-   "developer": "マツキヨココカラ＆カンパニー",
-   "score": 3.8391778
-  },
-  {
    "rank": 42,
-   "appId": "com.instagram.barcelona",
-   "title": "Threads",
-   "developer": "Instagram",
-   "score": 3.7236533
+   "appId": "jp.co.aeon.credit.android.wallet",
+   "title": "AEON Pay-スマホ決済でWAON POINTがたまる",
+   "developer": "AEON Financial Service Co., Ltd.",
+   "score": 3.6242983
   },
   {
    "rank": 43,
-   "appId": "com.einnovation.temu",
-   "title": "Temu: Shop Like a Billionaire",
-   "developer": "Temu",
-   "score": 4.2783175
+   "appId": "com.weather.daily.local.live",
+   "title": "Weather Forecast - Live Alerts",
+   "developer": "RODRIGUEZCASTILLO FABIOLA",
+   "score": 4.3267326
   },
   {
    "rank": 44,
-   "appId": "com.aidpdf.pdfeditor",
-   "title": "AidPDF-Edit",
-   "developer": "upstreamstudio",
-   "score": 3.6666667
+   "appId": "jp.co.recruit.mtl.android.hotpepper",
+   "title": "Hot Pepper Gourmet",
+   "developer": "Recruit Co.,Ltd.",
+   "score": 4.4214845
   },
   {
    "rank": 45,
-   "appId": "com.amazon.avod.thirdpartyclient",
-   "title": "Prime Video",
-   "developer": "Amazon Mobile LLC",
-   "score": 4.2955627
+   "appId": "com.nttdocomo.android.dpoint",
+   "title": "d Point Club",
+   "developer": "NTT DOCOMO",
+   "score": 4.1064477
   },
   {
    "rank": 46,
-   "appId": "wni.WeathernewsTouch.jp",
-   "title": "Weathernews Weather Forecast",
-   "developer": "Weathernews Inc.",
-   "score": 3.968204
+   "appId": "com.nttdocomo.android.mydocomo",
+   "title": "My docomo - 料金・通信量の確認",
+   "developer": "NTT DOCOMO",
+   "score": 3.077914
   },
   {
    "rank": 47,
    "appId": "nhk.app.tep",
    "title": "NHK ONE (NHK Plus)",
    "developer": "NHK (JAPAN BROADCASTING CORP.)",
-   "score": 3.7077296
+   "score": 3.73201
   },
   {
    "rank": 48,
-   "appId": "com.nttdocomo.android.dpoint",
-   "title": "d Point Club",
-   "developer": "NTT DOCOMO",
-   "score": 4.105206
+   "appId": "com.instagram.barcelona",
+   "title": "Threads",
+   "developer": "Instagram",
+   "score": 3.7227228
   },
   {
    "rank": 49,
-   "appId": "jp.co.aeon.credit.android.wallet",
-   "title": "AEON Pay-スマホ決済でWAON POINTがたまる",
-   "developer": "AEON Financial Service Co., Ltd.",
-   "score": 3.624598
+   "appId": "com.facebook.katana",
+   "title": "Facebook",
+   "developer": "Meta Platforms, Inc.",
+   "score": 4.3583813
   },
   {
    "rank": 50,
-   "appId": "fc.all.text.pdf.document.voice.image.translate",
-   "title": "All Translate: Photo, PDF, DOC",
-   "developer": "Daily Tool Labs",
-   "score": 3.68
+   "appId": "com.aidpdf.pdfeditor",
+   "title": "AidPDF-Edit",
+   "developer": "upstreamstudio",
+   "score": 3.6633663
   },
   {
    "rank": 51,
-   "appId": "stepcounter.pedometer.stepstracker",
-   "title": "Step Counter - Pedometer",
-   "developer": "Hitchhike Tech",
-   "score": 4.4720197
+   "appId": "biz.shopup.shimamura",
+   "title": "しまむらパーク",
+   "developer": "しまむら",
+   "score": 4.4381337
   },
   {
    "rank": 52,
-   "appId": "com.azure.authenticator",
-   "title": "Microsoft Authenticator",
-   "developer": "Microsoft Corporation",
-   "score": 4.266083
+   "appId": "com.netflix.mediaclient",
+   "title": "Netflix",
+   "developer": "Netflix, Inc.",
+   "score": 4.6217937
   },
   {
    "rank": 53,
-   "appId": "com.scannerreader.qrcode.creatorfree",
-   "title": "QR Scanner",
-   "developer": "P & L Studio",
-   "score": 3.1304348
+   "appId": "wni.WeathernewsTouch.jp",
+   "title": "Weathernews Weather Forecast",
+   "developer": "Weathernews Inc.",
+   "score": 3.9679306
   },
   {
    "rank": 54,
-   "appId": "com.nttdocomo.android.mydocomo",
-   "title": "My docomo - 料金・通信量の確認",
-   "developer": "NTT DOCOMO",
-   "score": 3.0785837
-  },
-  {
-   "rank": 55,
-   "appId": "com.quickdoc.pdfreader",
-   "title": "QuickDoc: PDF Reader Tools",
-   "developer": "Dev Globeg",
-   "score": 3.6258504
-  },
-  {
-   "rank": 56,
-   "appId": "jp.japanpost.jp_bank.bankbookapp",
-   "title": "ゆうちょ通帳アプリ-銀行・通帳アプリ",
-   "developer": "ゆうちょ銀行",
-   "score": 4.2690506
-  },
-  {
-   "rank": 57,
    "appId": "net.giosis.shopping.jp",
    "title": "Qoo10 (キューテン)",
    "developer": "eBay Japan G.K",
-   "score": 3.4166195
+   "score": 3.416855
+  },
+  {
+   "rank": 55,
+   "appId": "jp.dreambrain.adiorama",
+   "title": "ケンタッキーフライドチキン公式モバイルアプリ",
+   "developer": "日本ケンタッキー・フライド・チキン株式会社",
+   "score": 3.7402565
+  },
+  {
+   "rank": 56,
+   "appId": "com.dena.automotive.taxibell",
+   "title": "GO / Taxi app for Japan visit",
+   "developer": "GO Inc.",
+   "score": 4.370644
+  },
+  {
+   "rank": 57,
+   "appId": "tv.abema",
+   "title": "ABEMA（アベマ）テレビやアニメ等の動画配信アプリ",
+   "developer": "AbemaTV, Inc.",
+   "score": 3.6054478
   },
   {
    "rank": 58,
-   "appId": "jp.co.rakuten.rakuyoko",
-   "title": "楽天ラクヨコ - ほしい！が見つかるプチプラ通販アプリ",
-   "developer": "Rakuten Group, Inc.",
-   "score": 3.8695652
+   "appId": "com.newleaf.app.android.victor",
+   "title": "ReelShort - Stream Drama & TV",
+   "developer": "NewLeaf Publishing",
+   "score": 3.975329
   },
   {
    "rank": 59,
-   "appId": "com.auracleaner.aa",
-   "title": "AuraCleaner",
-   "developer": "ULA LIMITED",
-   "score": 4.0176992
+   "appId": "jp.co.rakuten.rakuyoko",
+   "title": "楽天ラクヨコ - ほしい！が見つかるプチプラ通販アプリ",
+   "developer": "Rakuten Group, Inc.",
+   "score": 3.72
   },
   {
    "rank": 60,
-   "appId": "com.qrscancode.ncesqrc",
-   "title": "Scan QR Code",
-   "developer": "Nullbyte Labs",
-   "score": 3.1485147
+   "appId": "com.memesticker.singleapp.worker",
+   "title": "Cute Shiba Inu Sticker & Pack",
+   "developer": "Neku Avatar Studio",
+   "score": 4.50173
   }
  ]
 }
