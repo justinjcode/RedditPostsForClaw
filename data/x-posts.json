@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-22T11:45:59Z",
+ "generated_at": "2026-11-22T11:56:16Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "And AI6 is",
+   "url": "https://nitter.kareem.one/elonmusk/status/2124468665223438425#m",
+   "ts": 1795347775,
+   "id": "2124468665223438425#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -149,15 +157,6 @@
    "url": "https://nitter.kareem.one/SawyerMerritt/status/2124308533944672413#m",
    "ts": 1795309596,
    "id": "2124308533944672413#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "If you zoom out a little further, you can see our simulation playing on the screen of the creators. Phil Duan (@pduan) Overheard in Palo Alto: GTA 6’s real-world mode just dropped on Teslas. Video — https://nitter.kareem.one/pduan/status/2124298543427203084#m",
-   "url": "https://nitter.kareem.one/shivon/status/2124306728514949325#m",
-   "ts": 1795309166,
-   "id": "2124306728514949325#m"
   },
   {
    "handle": "elonmusk",
