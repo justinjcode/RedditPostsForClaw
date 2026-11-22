@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T02:36:56Z",
+ "generated_at": "2026-11-22T02:44:43Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -36,6 +36,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "I just had Grok @bot go through all of my Amazon orders and look for refunds that were never issued. It found $590.62 in missing refunds over several years, opened a support chat, talked to customer service, and got them to agree to issue the refunds. This product literally pays for itself 🤯",
+   "url": "https://nitter.kareem.one/cstanley/status/2124314532126323042#m",
+   "ts": 1795311026,
+   "id": "2124314532126323042#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "Taking Tesla FSD V15 on the highway. Love all the floating arrows lol Video",
    "url": "https://nitter.kareem.one/SawyerMerritt/status/2124308533944672413#m",
    "ts": 1795309596,
@@ -49,6 +58,24 @@
    "url": "https://nitter.kareem.one/shivon/status/2124306728514949325#m",
    "ts": 1795309166,
    "id": "2124306728514949325#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The chevrons also show you where FSD V15 intends to park and Elon said you can just tap the screen to adjust the precise location if you want it to choose a different spot/area Video",
+   "url": "https://nitter.kareem.one/DillonLoomis/status/2124303507570221181#m",
+   "ts": 1795308398,
+   "id": "2124303507570221181#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "FSD XV is mind blowing @elonmusk Video",
+   "url": "https://nitter.kareem.one/Chansoo/status/2124300108447547889#m",
+   "ts": 1795307588,
+   "id": "2124300108447547889#m"
   },
   {
    "handle": "elonmusk",
@@ -153,24 +180,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "It’s like GTA Sawyer Merritt (@SawyerMerritt) Here are the new FSD visualizations in FSD V15. It continuously streams a view from an arbitrary virtual camera situated above your vehicle. Upcoming navigation turns display directly in the driving visualization. Turn signals are quieter and fade out after a few clicks. — https://nitter.kareem.one/SawyerMerritt/status/2124226258196103492#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2124238249686159590#m",
-   "ts": 1795292839,
-   "id": "2124238249686159590#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "In FSD V15, the Tesla AI computer re-renders reality with chevrons in the sky for turns like a video game. You can tap any point on the reality revisualizer to make your car go there. Video",
-   "url": "https://nitter.kareem.one/elonmusk/status/2124238164512714925#m",
-   "ts": 1795292819,
-   "id": "2124238164512714925#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "FSD visualizations 6 years apart",
    "url": "https://nitter.kareem.one/SawyerMerritt/status/2124231512237249008#m",
    "ts": 1795291233,
@@ -202,15 +211,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2124223349769609407#m",
    "ts": 1795289287,
    "id": "2124223349769609407#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Shortest explanation is just: 🤯 Elon Musk (@elonmusk) Simple explanation of the usefulness of the Riemann proof (so far) is that it removes the conditional nature of other math theorems dependent upon it. And, of course, is yet another mind-blowing thing achieved by super intelligence … nitter.kareem.one/i/grok/share/bGVnYWN5_… Link How is this useful? Proving the Riemann Hypothesis (and GRH for Dirichlet \\(L\\)-functions) is useful primarily because it gives the sharpest possible description of how primes are distributed, and because it turns a large body of existing number-theoretic results from “conditional on RH/GRH” into unconditional theorems.<grok:render card_id=\"fdb064\" card_type=\"citation_card\" type=\"render_inline_citation\"><argument name=\"citation_id\">38</argument></grok:render> Control over prime numbers The prime number theorem … Answer by Grok — https://nitter.kareem.one/elonmusk/status/2124213680422387741#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2124219646459220296#m",
-   "ts": 1795288404,
-   "id": "2124219646459220296#m"
   },
   {
    "handle": "simonw",
