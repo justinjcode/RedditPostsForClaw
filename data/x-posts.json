@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-22T03:10:19Z",
+ "generated_at": "2026-11-22T03:24:18Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -11,10 +10,20 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed"
+  "@bcherny: all instances failed",
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "FSD is GTA irl TruthTom (@TruthTom) This is NUTS. It goes around a Huge Branch in the Road v15 Video — https://nitter.kareem.one/TruthTom/status/2124320271712624845#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2124340719397781824#m",
+   "ts": 1795317270,
+   "id": "2124340719397781824#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -68,6 +77,15 @@
    "url": "https://nitter.kareem.one/DillonLoomis/status/2124303507570221181#m",
    "ts": 1795308398,
    "id": "2124303507570221181#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "ON MY GOD @Tesla FSD V15 lets you select any parking spot of your choice! Lots of arrows pop up and you just select your spot. Video",
+   "url": "https://nitter.kareem.one/SawyerMerritt/status/2124302138771943728#m",
+   "ts": 1795308072,
+   "id": "2124302138771943728#m"
   },
   {
    "handle": "elonmusk",
@@ -172,15 +190,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "It’s high time we probed Uranus again! Much better images are needed (actually).",
-   "url": "https://nitter.kareem.one/elonmusk/status/2124241570451054609#m",
-   "ts": 1795293631,
-   "id": "2124241570451054609#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "FSD visualizations 6 years apart",
    "url": "https://nitter.kareem.one/SawyerMerritt/status/2124231512237249008#m",
    "ts": 1795291233,
@@ -194,15 +203,6 @@
    "url": "https://nitter.kareem.one/jimmycarr/status/2124231463499350195#m",
    "ts": 1795291221,
    "id": "2124231463499350195#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Here are the new FSD visualizations in FSD V15. It continuously streams a view from an arbitrary virtual camera situated above your vehicle. Upcoming navigation turns display directly in the driving visualization. Turn signals are quieter and fade out after a few clicks.",
-   "url": "https://nitter.kareem.one/SawyerMerritt/status/2124226258196103492#m",
-   "ts": 1795289980,
-   "id": "2124226258196103492#m"
   },
   {
    "handle": "simonw",
