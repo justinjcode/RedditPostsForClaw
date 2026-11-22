@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-22T12:11:18Z",
+ "generated_at": "2026-11-22T12:23:41Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,7 +10,9 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 177,
  "items": [
   {
@@ -72,6 +73,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "“Ice cream is an amazing invention.” — Elon Musk",
+   "url": "https://nitter.kareem.one/cb_doge/status/2124436902661197916#m",
+   "ts": 1795340202,
+   "id": "2124436902661197916#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "Here is my initial FSD v15 review after driving with it all afternoon and evening: First off, Elon was right. This update is a BANGER! Tesla Reality View is out of this world and so insanely cool I’m still trying to process it all. FSD V15.0.1 brings so many improvements behind the scenes, in addition to the wildly cool UI. Tesla Reality View IS AMAZING! Pictures and video don’t do it any justice, this is something that has to be experienced to truly understand. Got to take a few friends tonight on drives to show them and every single person was blown away by it. The amount of detail it shows and generates is wild and so impressive. It shows reflection in the car, buildings, trees, turn arrows on the display and more. FSD v15 now has pothole avoidance! I had it swerve and avoid/straddle a few potholes tonight that were difficult for me to see in the dark. Another great new feature in FSD v15 is speed camera slowdown. As you approach a speed camera, it automatically slows smoothly to the speed limit if you are in a quicker profile. This is a huge quality of life improvement especially as more cities get speed cameras. Parking seems near unchanged from the last build, I feel it picking spots quicker especially at the supercharger I went to tonight. Seems to be preferring to park in the first or second open spot it sees which is great, but it tried to park in one handicap spot- otherwise good. By far, the coolest part is Tesla Reality View. Holy crap is it insane to watch while ",
    "url": "https://nitter.kareem.one/BLKMDL3/status/2124413163454255246#m",
    "ts": 1795334542,
@@ -99,10 +109,28 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "Tesla FSD v15 is gta in real life",
+   "url": "https://nitter.kareem.one/Teslaconomics/status/2124359751815590236#m",
+   "ts": 1795321808,
+   "id": "2124359751815590236#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "Here's my 25-minute drive on @Tesla FSD V15 tonight. I go over the new Tesla Reality View, new parking behavior/options, navigation and more. Tesla Reality View is even more mind-blowing in person than how it appears online. It really is something special. It's the best \"Birds Eye\" view I've ever seen. V15 will also park straight into your garage at home, does a much better job at handling debris in the road, potholes, etc. I'll have more footage in the coming days/weeks showing all this stuff, but here's a quick first impressions video: Video",
    "url": "https://nitter.kareem.one/SawyerMerritt/status/2124343282347978961#m",
    "ts": 1795317881,
    "id": "2124343282347978961#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "BREAKING: Coinbase says Grok Bot is its most popular AI agent. Grok Bot led Coinbase for Agents with 40.4% of notional trading volume for Nov. 9–15, more than Claude and ChatGPT combined. Together, Grok Bot and Grok captured 56.8%.",
+   "url": "https://nitter.kareem.one/cb_doge/status/2124342583531081741#m",
+   "ts": 1795317714,
+   "id": "2124342583531081741#m"
   },
   {
    "handle": "elonmusk",
@@ -117,19 +145,19 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "You are under hyped for Reality View. It is absolutely amazing. In the last clip, I was actually surprised when I looked up and the arrows weren't actually floating mid air 🤣 Video Video Video",
-   "url": "https://nitter.kareem.one/DirtyTesLa/status/2124333580000297213#m",
-   "ts": 1795315568,
-   "id": "2124333580000297213#m"
+   "text": "i'm admittedly pretty harsh on the google guys, mostly cuz i know the co super well. but holy hell, i'm having an incredible time with neon so far. product issues aside, this is a very different experience, almost like a strange new feeling. the way it talks, the way it responds, everything feels pretty damn fresh if that makes any sense. it's very creative. & unusually great at proposing ideas. i can't even say it's about intelligence or better answers in general. i am normally okay with words, but this is very difficult for me to articulate well. anyway, it's fairly clear that google absolutely cooked here. i have never doubted google's technical capabilities. those were & are totally obvious. i mean it is literally the birth place of ai. it was always a question of whether google could turn an extraordinary technology into newer experiences that ppl love using, which sort of requires shedding every success of the past. these newer generation of models, particularly neon clearly gives them extraordinary new legs to stand on. it doesn't feel like \"gemini\" at all. congratulations to everyone at google, i will continue to play around with more. there are obviously some product frustrations & confusing elements but i'm setting those aside for now.",
+   "url": "https://nitter.kareem.one/signulll/status/2124338865888457117#m",
+   "ts": 1795316828,
+   "id": "2124338865888457117#m"
   },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Looks like an SI curve ApoStructura (@ApoStructura) SpaceX has now launched more payload mass to orbit in 20 years than the rest of the US combined since 1957. — https://nitter.kareem.one/ApoStructura/status/2124305537403638072#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2124325451908948451#m",
-   "ts": 1795313630,
-   "id": "2124325451908948451#m"
+   "text": "You are under hyped for Reality View. It is absolutely amazing. In the last clip, I was actually surprised when I looked up and the arrows weren't actually floating mid air 🤣 Video Video Video",
+   "url": "https://nitter.kareem.one/DirtyTesLa/status/2124333580000297213#m",
+   "ts": 1795315568,
+   "id": "2124333580000297213#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -144,33 +172,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "I just had Grok @bot go through all of my Amazon orders and look for refunds that were never issued. It found $590.62 in missing refunds over several years, opened a support chat, talked to customer service, and got them to agree to issue the refunds. This product literally pays for itself 🤯",
-   "url": "https://nitter.kareem.one/cstanley/status/2124314532126323042#m",
-   "ts": 1795311026,
-   "id": "2124314532126323042#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Taking Tesla FSD V15 on the highway. Love all the floating arrows lol Video",
-   "url": "https://nitter.kareem.one/SawyerMerritt/status/2124308533944672413#m",
-   "ts": 1795309596,
-   "id": "2124308533944672413#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The chevrons also show you where FSD V15 intends to park and Elon said you can just tap the screen to adjust the precise location if you want it to choose a different spot/area Video",
-   "url": "https://nitter.kareem.one/DillonLoomis/status/2124303507570221181#m",
-   "ts": 1795308398,
-   "id": "2124303507570221181#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "ON MY GOD @Tesla FSD V15 lets you select any parking spot of your choice! Lots of arrows pop up and you just select your spot. Video",
    "url": "https://nitter.kareem.one/SawyerMerritt/status/2124302138771943728#m",
    "ts": 1795308072,
@@ -180,19 +181,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "FSD XV is mind blowing @elonmusk Video",
-   "url": "https://nitter.kareem.one/Chansoo/status/2124300108447547889#m",
-   "ts": 1795307588,
-   "id": "2124300108447547889#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Overheard in Palo Alto: GTA 6’s real-world mode just dropped on Teslas. Video",
-   "url": "https://nitter.kareem.one/pduan/status/2124298543427203084#m",
-   "ts": 1795307214,
-   "id": "2124298543427203084#m"
+   "text": "Out of everything posted about FSD v15 so far, one line from @elonmusk deserves way more attention than it's getting: \"This is real-time AI video generation (no gaming engine!) using just half of one AI4 TRIP accelerator. Let that sink in …\" 🔥 Half of one accelerator is the part worth sitting with. Once you see the numbers behind it, Reality View stops looking like a fancy new screen and starts looking like one of the most impressive things Tesla has ever shipped. 🎬 THE SCREEN IS NOW GENERATED LIVE For years, FSD's screen worked like a video game. Software took a list of what the car detected and dropped stock 3D models in the right spots: a gray car here, a lane line there. Reality View tosses that playbook out the window. The car's AI now generates the video itself, frame after frame, as you drive, with no game engine anywhere in the loop. Better yet, the picture comes from the same end-to-end model that's doing the driving. That's the single neural network that turns camera video into steering and braking, and now it paints your screen, too. ⚙️ WHAT A TRIP ACTUALLY IS The standard AI4 computer carries two self-driving chips, and each chip packs three custom neural processors Tesla calls TRIP accelerators. That's six in all. And that's where Reality View gets made: right on the self-driving computer, instead of the infotainment chip that runs your maps and music. Each TRIP is basically an arena packed with tiny calculators, all cranking through the multiply-and-add math tha",
+   "url": "https://nitter.kareem.one/tslaming/status/2124301719798731119#m",
+   "ts": 1795307972,
+   "id": "2124301719798731119#m"
   },
   {
    "handle": "elonmusk",
@@ -229,6 +221,24 @@
    "url": "https://nitter.kareem.one/simonw/status/2124217876777464269#m",
    "ts": 1795287982,
    "id": "2124217876777464269#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "SpaceX is planning an absolutely massive 6-gigawatt supercomputing campus in Arizona, designed to operate with ZERO industrial water consumption And the engineering behind this is absolutely insane The proposed campus near Willcox includes: • 747 acres of land • Nine supercomputing buildings, each ~493,000 sq ft • Up to 6 GW of electrical demand across four phases • Up to 24 GWh of battery energy storage • Dry cooling without conventional cooling towers • ZERO industrial groundwater use under its proposed operating plan • Just 7–10 acre-feet of estimated annual operational water consumption • ~$3.6 BILLION in planned grid infrastructure upgrades • ~1,000 permanent jobs and up to 5,500 construction workers All of this is being planned in the middle of the Arizona desert Building superintelligence infrastructure at this scale goes far beyond installing millions of GPUs It means securing enormous amounts of electricity, building advanced cooling systems, expanding the power grid and solving engineering challenges that come with operating at gigawatt scale A single 6 GW campus with 24 GWh of battery storage, designed to operate with minimal on-site water consumption SpaceX is taking superintelligence infrastructure to an entirely different level",
+   "url": "https://nitter.kareem.one/XFreeze/status/2124203543242719564#m",
+   "ts": 1795284565,
+   "id": "2124203543242719564#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "前面我还在想，好凶，猫真的怎么对它好都没用，没想到后面是这样的，好像看了一个连续剧 Video",
+   "url": "https://nitter.kareem.one/maxiaohui66/status/2124161698487804001#m",
+   "ts": 1795274588,
+   "id": "2124161698487804001#m"
   },
   {
    "handle": "swyx",
@@ -814,15 +824,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2123135338822656387#m",
    "ts": 1795029885,
    "id": "2123135338822656387#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Today, we’re excited to share Enact, a research preview of scenes that respond to you. Enact represents a new way of making AI video, one that’s designed to mimic the experience of directing on set. Built on Pika H3 Flex, it allows a creator to interact with “actors,” manually re-stage a scene, and manipulate the camera—all in real time. We think this is the beginning of a new paradigm for creation. Read more and reach out for a demo below. Video",
-   "url": "https://nitter.kareem.one/pika_labs/status/2123127584342921652#m",
-   "ts": 1795028036,
-   "id": "2123127584342921652#m"
   },
   {
    "handle": "thsottiaux",
