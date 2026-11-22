@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-22T01:38:08Z",
+ "generated_at": "2026-11-22T01:46:15Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "终于睡了个好觉",
+   "url": "https://nitter.kareem.one/ZichenWanghere/status/2124315105374720471#m",
+   "ts": 1795311163,
+   "id": "2124315105374720471#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -149,6 +157,15 @@
    "url": "https://nitter.kareem.one/SawyerMerritt/status/2124231512237249008#m",
    "ts": 1795291233,
    "id": "2124231512237249008#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "\"How do you come up with your jokes?!\" #jimmycarr #crowdwork #hecklers #standupcomedy Video",
+   "url": "https://nitter.kareem.one/jimmycarr/status/2124231463499350195#m",
+   "ts": 1795291221,
+   "id": "2124231463499350195#m"
   },
   {
    "handle": "elonmusk",
@@ -716,24 +733,6 @@
    "url": "https://nitter.kareem.one/vtahowe/status/2123432897441137120#m",
    "ts": 1795100828,
    "id": "2123432897441137120#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "An essay criticizing the one-note analysis being published in major media outlets on China and US-China relations by so many analysts. Its usually all-deterrence, all the time, with little if any consideration given to the need for mutual reassurances and agreements. Responsible Statecraft (@RStatecraft) NEW @Dalzell60 : Mira Rapp-Hooper, Ely Ratner, Rush Doshi, Kurt Campbell and more offer \"depressingly similar and one-sided arguments about China and U.S. China policy\" that if fulfilled could be dangerous. responsiblestatecraft.org/me… Link NYT the latest in showcasing bad US-China takes from DC experts A recent essay by former Biden officials is just one of many promoting policy that, if realized, would only lead to escalation and crisis responsiblestatecraft.org — https://nitter.kareem.one/RStatecraft/status/2123431103642091624#m",
-   "url": "https://nitter.kareem.one/Dalzell60/status/2123432791912194369#m",
-   "ts": 1795100803,
-   "id": "2123432791912194369#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Actually these photos were taken in January 1979 during his final winter vacation at Tsinghua. They were walking on a beach in Hainan, part of GD province back then of course. Joseph Torigian (@JosephTorigian) In his toast at APEC, Xi said about Shenzhen: \"When I first set foot here in 1978, it was little more than a fishing village.\" What he didn't say was that his father was then the leader of Guangdong province. Here are some pics of father and son during that 1978 visit to GD. — https://nitter.kareem.one/JosephTorigian/status/2123225305615598039#m",
-   "url": "https://nitter.kareem.one/FengmingLuPE/status/2123416672749207760#m",
-   "ts": 1795096960,
-   "id": "2123416672749207760#m"
   },
   {
    "handle": "TheRundownAI",
