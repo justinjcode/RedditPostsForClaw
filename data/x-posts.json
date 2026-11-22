@@ -1,19 +1,38 @@
 {
- "generated_at": "2026-11-21T23:54:44Z",
+ "generated_at": "2026-11-22T00:21:02Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "It is mesmerizing to watch. Where this is actually useful is when you want to tap the exact drop-off or parking location on the screen that you want your car to target.",
+   "url": "https://nitter.kareem.one/elonmusk/status/2124293720728346919#m",
+   "ts": 1795306065,
+   "id": "2124293720728346919#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Pretty accurate. Tesla vehicles will share traffic knowledge and combine that with Grok’s real-time 𝕏 feed to give you the optimal transport experience, even giving you a heads up about what’s happening at your destination!",
+   "url": "https://nitter.kareem.one/elonmusk/status/2124293036418990381#m",
+   "ts": 1795305901,
+   "id": "2124293036418990381#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -22,6 +41,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2124280710747840889#m",
    "ts": 1795302963,
    "id": "2124280710747840889#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Tesla FSD V15 is officially downloading on my Model Y!",
+   "url": "https://nitter.kareem.one/SawyerMerritt/status/2124271378073530460#m",
+   "ts": 1795300738,
+   "id": "2124271378073530460#m"
   },
   {
    "handle": "elonmusk",
@@ -171,24 +199,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "XV is the beginning of the “super” part of Tesla SI Ashok Elluswamy (@aelluswamy) XV — https://nitter.kareem.one/aelluswamy/status/2124007636643549466#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2124071338394399028#m",
-   "ts": 1795253045,
-   "id": "2124071338394399028#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Banger Tim Sweeney (@TimSweeneyEpic) Props to Rockstar, GTA 6 shipped before the Riemann Hypothesis was proven! — https://nitter.kareem.one/TimSweeneyEpic/status/2123858880258003101#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2124070328158900294#m",
-   "ts": 1795252804,
-   "id": "2124070328158900294#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Telepathy is very real. What Elon is doing with Neuralink is basically magic Neuralink (@neuralink) Playing GTA VI with a Neuralink Video — https://nitter.kareem.one/neuralink/status/2123890949029818800#m",
    "url": "https://nitter.kareem.one/XFreeze/status/2124043559536152707#m",
    "ts": 1795246422,
@@ -256,15 +266,6 @@
    "url": "https://nitter.kareem.one/theo/status/2123901093751280052#m",
    "ts": 1795212455,
    "id": "2123901093751280052#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Flashback to June 14, 2024. At the time, frontier AI models have zero fluid intelligence. They score around 5% on ARC 1. They can't reliably add two numbers. They make laughable logic errors every other prompt. Reasoning models don't exist. Coding agents don't exist. Claude Code doesn't exist. \"Code gen\" is a complete joke. Scaling up next-token prediction based on web text data is hitting a wall. What if a time traveler told you that, by November 2026... • AI models would have human-like fluid intelligence, thanks to a new paradigm: test-time induction (modern reasoning models). • Not only would ARC 1 be saturated, but unreleased benchmarks 10x harder (ARC 2) and 100x harder (ARC 3) would be saturated too. • Nearly all code would be written by AI, and models could one-shot complex codebases flawlessly. • AI models would be solving multiple Millennium Prize problems. • OpenAI's valuation would be 15x higher, and Anthropic's would be 85x higher. And on top of all that... • Nvidia would still hold ~80% of the AI compute market. • Nvidia would have grown its revenue and earnings 4.5x. • Nvidia would still be growing 75% a year. • Nvidia would have even higher operating margins (67% vs. 65% back then). Based on that information, straight from the future, would you have bought NVDA? If you answered yes -- congrats. Today, 2.5 years later, you'd be down 5% on your investment (even more after inflation).",
-   "url": "https://nitter.kareem.one/fchollet/status/2123898321647571442#m",
-   "ts": 1795211794,
-   "id": "2123898321647571442#m"
   },
   {
    "handle": "swyx",
