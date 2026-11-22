@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-22T03:24:18Z",
+ "generated_at": "2026-11-22T03:35:56Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -10,8 +11,7 @@
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -23,6 +23,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2124340719397781824#m",
    "ts": 1795317270,
    "id": "2124340719397781824#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "You are under hyped for Reality View. It is absolutely amazing. In the last clip, I was actually surprised when I looked up and the arrows weren't actually floating mid air 🤣 Video Video Video",
+   "url": "https://nitter.kareem.one/DirtyTesLa/status/2124333580000297213#m",
+   "ts": 1795315568,
+   "id": "2124333580000297213#m"
   },
   {
    "handle": "elonmusk",
@@ -172,10 +181,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "This is real-time AI video generation (no gaming engine!) using just half of one AI4 TRIP accelerator. Let that sink in … Ashok Elluswamy (@aelluswamy) The crazier thing is that the right side uses less compute than what the left used to take. Extreme compute efficiency optimization. — https://nitter.kareem.one/aelluswamy/status/2124230700547326435#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2124270426402836626#m",
-   "ts": 1795300511,
-   "id": "2124270426402836626#m"
+   "text": "I wonder how high Tesla FSD screen streaks are going to get in v15? 25x increase in safety critical situations is no joke My streak is still active at 36,674.6 miles 100k soon? 🤔",
+   "url": "https://nitter.kareem.one/DavidMoss/status/2124266500332904799#m",
+   "ts": 1795299575,
+   "id": "2124266500332904799#m"
   },
   {
    "handle": "elonmusk",
@@ -221,15 +230,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2124217876777464269#m",
    "ts": 1795287982,
    "id": "2124217876777464269#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "FSD V12 Introduced end-to-end neural-network driving. FSD V13 built on that and reduced interventions. FSD V14 brought point-to-point travel and a huge leap in capability, helping FSD start to go mainstream. FSD V15 will bring: • Pothole avoidance • AI-based mapping and navigation rather than relying on conventional third-party maps. • A new user interface that will re-render reality in a \"mind-bending way.\" • Fleet intelligence that incorporates driving information collected across Tesla vehicles. • Voice integration, allowing drivers to request different routes conversationally (likely through Grok). • Improved parking, destination handling and trip planning. • 10x parameter count increase • New lane change and exiting behavior • And eventually (2027 for Model Y), FSD Unsupervised for personal cars (Tesla's robotaxis already run V15, and the personal Cybercabs being delivered next month likely will too).",
-   "url": "https://nitter.kareem.one/SawyerMerritt/status/2124183811202187404#m",
-   "ts": 1795279860,
-   "id": "2124183811202187404#m"
   },
   {
    "handle": "swyx",
