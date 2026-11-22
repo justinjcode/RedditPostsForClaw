@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-22T19:45:53Z",
+ "generated_at": "2026-11-22T19:54:54Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,27 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "by this metric we have seen more ai progress this year than in 2022-2025. is that true? doesn’t suuuper feel like it but who knows we could be cooked by algorithm and/or metric only translates at frontier math level",
+   "url": "https://nitter.kareem.one/swyx/status/2124590240539259381#m",
+   "ts": 1795376760,
+   "id": "2124590240539259381#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "32 hour launch pad recycle. Great work by SpaceX team. SpaceX (@SpaceX) Falcon 9 and NROL-136 lift off from pad 4E in California 32 hours after teams launched USSF-317, completing our fastest turnaround between launches from the same pad — https://nitter.kareem.one/SpaceX/status/2124576203113636183#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2124589255565680900#m",
+   "ts": 1795376526,
+   "id": "2124589255565680900#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -95,15 +112,6 @@
    "url": "https://nitter.kareem.one/cb_doge/status/2124436902661197916#m",
    "ts": 1795340202,
    "id": "2124436902661197916#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Here is my initial FSD v15 review after driving with it all afternoon and evening: First off, Elon was right. This update is a BANGER! Tesla Reality View is out of this world and so insanely cool I’m still trying to process it all. FSD V15.0.1 brings so many improvements behind the scenes, in addition to the wildly cool UI. Tesla Reality View IS AMAZING! Pictures and video don’t do it any justice, this is something that has to be experienced to truly understand. Got to take a few friends tonight on drives to show them and every single person was blown away by it. The amount of detail it shows and generates is wild and so impressive. It shows reflection in the car, buildings, trees, turn arrows on the display and more. FSD v15 now has pothole avoidance! I had it swerve and avoid/straddle a few potholes tonight that were difficult for me to see in the dark. Another great new feature in FSD v15 is speed camera slowdown. As you approach a speed camera, it automatically slows smoothly to the speed limit if you are in a quicker profile. This is a huge quality of life improvement especially as more cities get speed cameras. Parking seems near unchanged from the last build, I feel it picking spots quicker especially at the supercharger I went to tonight. Seems to be preferring to park in the first or second open spot it sees which is great, but it tried to park in one handicap spot- otherwise good. By far, the coolest part is Tesla Reality View. Holy crap is it insane to watch while ",
-   "url": "https://nitter.kareem.one/BLKMDL3/status/2124413163454255246#m",
-   "ts": 1795334542,
-   "id": "2124413163454255246#m"
   },
   {
    "handle": "elonmusk",
@@ -617,15 +625,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2123556256392847657#m",
    "ts": 1795130239,
    "id": "2123556256392847657#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "fuuuuuuck Zuhayeer Musa (@zuhayeer) A Staff engineer who joined @AnthropicAI in 2024 is looking at a ~$100M windfall at the $83 IPO price At least half of that is vested now. Under the lockup's early release terms, employees can sell 10% on day one, so $5M+ in cash right out the gate We priced every Anthropic engineer offer at the funding round it was signed in, then valued it at $83 - Early 2025, $5.61 a share, 14.8x - Mid 2026, $58.90 a share, 1.4x 2024 hires did even better because they got options, not RSUs An offer values an option at only the gap between the share price and its ~$1.30 strike. So the same dollar grant buys way more options than shares, and at $83 each one is worth ~$81.70 (subtracting strike). That's ~48x Timing beat level too. A Senior who joined in early 2025 is at ~$14.8M. A Lead who joined in mid 2026 is at ~$3.2M Some of these cells are modeled estimates where offers are thin. Strong data for Lead SWE though. — https://nitter.kareem.one/zuhayeer/status/2123485713056633138#m",
-   "url": "https://nitter.kareem.one/swyx/status/2123552457649492023#m",
-   "ts": 1795129334,
-   "id": "2123552457649492023#m"
   },
   {
    "handle": "TheRundownAI",
