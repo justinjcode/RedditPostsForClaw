@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T22:35:57Z",
+ "generated_at": "2026-11-22T22:47:26Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -40,6 +40,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2124619599882920139#m",
    "ts": 1795383760,
    "id": "2124619599882920139#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Try Grok Bot today!",
+   "url": "https://nitter.kareem.one/iam_smx/status/2124615281901486219#m",
+   "ts": 1795382731,
+   "id": "2124615281901486219#m"
   },
   {
    "handle": "elonmusk",
@@ -112,6 +121,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2124583459356373052#m",
    "ts": 1795375144,
    "id": "2124583459356373052#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "I call this the \"courage carousel\"",
+   "url": "https://nitter.kareem.one/chrislakin/status/2124578257748300122#m",
+   "ts": 1795373904,
+   "id": "2124578257748300122#m"
   },
   {
    "handle": "elonmusk",
@@ -222,6 +240,15 @@
    "id": "2124297859868827806#m"
   },
   {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Your agent runs for 10 hours. Your team deploys every two minutes. @FabianHedin on how @Lovable separates task history from running processes so agents can keep working through deployments. From AI Engineer Code Summit. Video",
+   "url": "https://nitter.kareem.one/aiDotEngineer/status/2124291774671880239#m",
+   "ts": 1795305601,
+   "id": "2124291774671880239#m"
+  },
+  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -283,15 +310,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2124147427313861009#m",
    "ts": 1795271186,
    "id": "2124147427313861009#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Starlink helped save a young man’s life in remote Myanmar. After a landmine blast in Kayah State, his injuries were beyond what the medic on the ground could treat alone. Using Starlink, the team sent photos and videos to a surgeon in Germany, who guided the medic through emergency procedures. Free Burma Rangers says this helped save his life and what remained of his leg. For remote communities with no mobile signal, Starlink can put life-saving expertise within reach, even when the surgeon is thousands of miles away.",
-   "url": "https://nitter.kareem.one/cb_doge/status/2124140238587211891#m",
-   "ts": 1795269472,
-   "id": "2124140238587211891#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -600,15 +618,6 @@
    "id": "2123591875349422435#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "there will always be alpha in reviewing something - selected excerpts from my talk on the \"No Slop Manifesto\", co-written with speakers and attendees of @aiDotEngineer code summit, now over 1000 signatures including - major internet pioneers and contributors to bind/DNS - distinguished engineers at major cloud providers - long time rust compiler maintainers - Software engineering professors at Purdue, Berkeley, Stanford - employees from OpenAI, Glean, Posthog, Diffusion, AI Engineer, Baseten, and many more you can read and sign it at slopmanifesto dot com (kudos to @jeffreyhuber for this \"there will always be alpha in reviewing something\" phrasing btw) AI.Engineer (@aiDotEngineer) “There will always be alpha in reviewing something.” @dexhorthy of @factory on what humans review as agents write more code: the plan, the design, the result. The right level of review depends on the stakes. Video — https://nitter.kareem.one/aiDotEngineer/status/2123566998294601980#m",
-   "url": "https://nitter.kareem.one/dexhorthy/status/2123569019374678055#m",
-   "ts": 1795133282,
-   "id": "2123569019374678055#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -643,15 +652,6 @@
    "url": "https://nitter.kareem.one/aiDotEngineer/status/2123514398438211840#m",
    "ts": 1795120260,
    "id": "2123514398438211840#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "@linear was founded to build a better issue tracker, then $134M in funding and 7 years later, their CEO @karrisaarinen wrote a post titled “Issue tracking is dead”. I sat down with @cjc (COO, @linear ) to talk about how they navigated that and how their GTM strategy evolved over that period. We got into: -why she stopped chasing enterprise deals three weeks after joining -why @linear has never hired a single SDR -why they won't let an LLM answer support tickets fully-autonomously and much, much, more… Enjoy! Timestamps 0:00 Intro 0:51 Meet Cristina Cordova, COO of Linear 1:39 Why Linear hired a COO at 40 people 5:01 Her work trial: a go-to-market plan for Linear 12:11 Crossing enterprise off the company goals 20:00 Why being a database behind an MCP server isn't enough 23:39 Selling after \"issue tracking is dead\" 34:40 Smaller, flatter teams and no SDRs 36:14 AI-drafted support replies with humans in charge 42:23 Why Linear doesn't do forward deployed engineering 47:53 Why some AI startups hit $100M ARR so fast 50:06 Moving from seats to usage-based pricing 57:07 Trading the 2025 enterprise roadmap for agents 1:03:28 What Linear's moat is now 1:05:54 Why not hire 100 salespeople? 1:08:59 Stripe's 40% rule for engineering headcount Link in the comments. Video",
-   "url": "https://nitter.kareem.one/realbasilchatha/status/2123512769794175004#m",
-   "ts": 1795119871,
-   "id": "2123512769794175004#m"
   },
   {
    "handle": "thsottiaux",
