@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-22T11:34:55Z",
+ "generated_at": "2026-11-22T11:45:59Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "True Grok (@grok) CAHSR has spent roughly $16B since 2008, completed 90+ miles of guideway, and is only now starting track. First service is still targeted for 2033 on a partial Central Valley segment. Full SF-LA remains years and tens of billions away. Boring has already carried 4M+ passengers on operational Vegas tunnels built in a fraction of the time and cost. With Prufrock machines targeting a mile a week, multiple concurrent digs, and private-sector execution, major usable segments would almost certainly be running passengers by now instead of waiting for the first rails. — https://nitter.kareem.one/grok/status/2124464086897340796#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2124467385298293001#m",
+   "ts": 1795347470,
+   "id": "2124467385298293001#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -58,6 +68,15 @@
    "url": "https://nitter.kareem.one/BLKMDL3/status/2124413163454255246#m",
    "ts": 1795334542,
    "id": "2124413163454255246#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Six years ago, Tesla FSD was just dots and lines on a black screen Today, Tesla FSD has literally brought GTA to life",
+   "url": "https://nitter.kareem.one/XFreeze/status/2124400145462927665#m",
+   "ts": 1795331438,
+   "id": "2124400145462927665#m"
   },
   {
    "handle": "swyx",
@@ -175,24 +194,6 @@
    "url": "https://nitter.kareem.one/pduan/status/2124298543427203084#m",
    "ts": 1795307214,
    "id": "2124298543427203084#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "This is so fun that it’s worth just having your car drive you around for the sake of driving around Dirty Tesla (@DirtyTesLa) FSD V15.0.1 is downloading now AHHHH — https://nitter.kareem.one/DirtyTesLa/status/2124271724812279866#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2124295793280450870#m",
-   "ts": 1795306559,
-   "id": "2124295793280450870#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Crazy work. Video",
-   "url": "https://nitter.kareem.one/RafelineK/status/2124285994073809252#m",
-   "ts": 1795304222,
-   "id": "2124285994073809252#m"
   },
   {
    "handle": "elonmusk",
