@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T19:27:40Z",
+ "generated_at": "2026-11-22T19:35:19Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "OpenAI proposes perplexity as the universal metric for industry self regulation and pacing (as opposed to eg FLOPS) “Given that the main way new surprising capabilities emerge is by progress on compression, a measure rooted in perplexity could give us a shared benchmark for general intelligence, regardless of the degree of automation of the development process. Extrapolating from recent progress, we should expect further transformative capabilities as we enter the ~0.68-0.7 log-perplexity window.” this chart is one of the most beautiful ways to tell the story of the last 4 years. it also shows that a lot of the post training issues we debate is kinda the B plot to the overall A plot of large scale pretrain progress. Jakub Pachocki (@merettm) We decided to provide more transparency into pretraining progress at OpenAI for the sake of moving toward shared safety bars. In “Perplexity and Intelligence” I argue for common limits based on perplexity and other measurements, with progress beyond them gated on our ability to understand AI behavior. openai.com/index/perplexity-… — https://nitter.kareem.one/merettm/status/2124549218995949967#m",
+   "url": "https://nitter.kareem.one/swyx/status/2124583459356373052#m",
+   "ts": 1795375144,
+   "id": "2124583459356373052#m"
+  },
   {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
@@ -135,15 +144,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Here's my 25-minute drive on @Tesla FSD V15 tonight. I go over the new Tesla Reality View, new parking behavior/options, navigation and more. Tesla Reality View is even more mind-blowing in person than how it appears online. It really is something special. It's the best \"Birds Eye\" view I've ever seen. V15 will also park straight into your garage at home, does a much better job at handling debris in the road, potholes, etc. I'll have more footage in the coming days/weeks showing all this stuff, but here's a quick first impressions video: Video",
-   "url": "https://nitter.kareem.one/SawyerMerritt/status/2124343282347978961#m",
-   "ts": 1795317881,
-   "id": "2124343282347978961#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "BREAKING: Coinbase says Grok Bot is its most popular AI agent. Grok Bot led Coinbase for Agents with 40.4% of notional trading volume for Nov. 9–15, more than Claude and ChatGPT combined. Together, Grok Bot and Grok captured 56.8%.",
    "url": "https://nitter.kareem.one/cb_doge/status/2124342583531081741#m",
    "ts": 1795317714,
@@ -175,6 +175,15 @@
    "url": "https://nitter.kareem.one/tslaming/status/2124301719798731119#m",
    "ts": 1795307972,
    "id": "2124301719798731119#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The Tesla Cybercab Robotaxi stops while the human driver keeps going. 360 awareness is amazing. -Downtown Austin, Texas. Video",
+   "url": "https://nitter.kareem.one/BastropBill/status/2124299164561326180#m",
+   "ts": 1795307363,
+   "id": "2124299164561326180#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -625,15 +634,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2123551782341107813#m",
    "ts": 1795129173,
    "id": "2123551782341107813#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "yeah in nov 2026 this needs to die swyx (@swyx) current end state of forge — https://nitter.kareem.one/swyx/status/2085835071156883685#m",
-   "url": "https://nitter.kareem.one/swyx/status/2123537922670657753#m",
-   "ts": 1795125868,
-   "id": "2123537922670657753#m"
   },
   {
    "handle": "swyx",
