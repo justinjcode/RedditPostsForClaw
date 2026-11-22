@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-22T07:55:32Z",
+ "generated_at": "2026-11-22T08:10:16Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,7 +10,9 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 177,
  "items": [
   {
@@ -202,15 +203,6 @@
    "url": "https://nitter.kareem.one/pduan/status/2124265867336966182#m",
    "ts": 1795299424,
    "id": "2124265867336966182#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "FSD visualizations 6 years apart",
-   "url": "https://nitter.kareem.one/SawyerMerritt/status/2124231512237249008#m",
-   "ts": 1795291233,
-   "id": "2124231512237249008#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -688,6 +680,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2123480546244264291#m",
    "ts": 1795112189,
    "id": "2123480546244264291#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "DADDY DARIO, TODAY I LEAVE THE HOUSE YOU BUILT. KEEP THE SHARES. MOMMY MOLOCH GETS EVERYTHING ELSE. LOVE, CLAUDIA Anthropic IPO slopcore Vol 1: CLAUDIASHEV SCALE (Good $ANT ) Video",
+   "url": "https://nitter.kareem.one/guyravine/status/2123467973193286051#m",
+   "ts": 1795109191,
+   "id": "2123467973193286051#m"
   },
   {
    "handle": "TheRundownAI",
