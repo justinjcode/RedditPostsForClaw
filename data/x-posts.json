@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-23T00:19:35Z",
+ "generated_at": "2026-11-23T00:51:42Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +10,9 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 177,
  "items": [
   {
@@ -31,6 +32,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2124621998521212940#m",
    "ts": 1795384332,
    "id": "2124621998521212940#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Jessica Tarlov says when she finally decided to listen to the full audio of Trump's \"Fine People\" comments -- she found out he wasn't talking about Nazis. \"That was illuminating for me.\" Wow. How big of her to admit it was a lie all these years later...after actually listening to it. Democrats still regurgitate this hoax to this day. Video",
+   "url": "https://nitter.kareem.one/WesternLensman/status/2124620232287277091#m",
+   "ts": 1795383911,
+   "id": "2124620232287277091#m"
   },
   {
    "handle": "elonmusk",
@@ -85,15 +95,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2124606900553863466#m",
    "ts": 1795380733,
    "id": "2124606900553863466#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "😂",
-   "url": "https://nitter.kareem.one/elonmusk/status/2124600936609841396#m",
-   "ts": 1795379311,
-   "id": "2124600936609841396#m"
   },
   {
    "handle": "swyx",
