@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T13:54:18Z",
+ "generated_at": "2026-11-23T14:08:55Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "BREAKING: Jensen Huang has been reinstated at Nvidia.",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2124866316293013809#m",
+   "ts": 1795442582,
+   "id": "2124866316293013809#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -859,15 +868,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2123112188864762022#m",
    "ts": 1795024365,
    "id": "2123112188864762022#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "NEW: The Center for AI Safety launched a public statement against Anthropic ahead of its IPO, saying it is \"not a safe AI company.\" Signatories so far include Harvard psychologist Steven Pinker, Hugging Face co-founder Thomas Wolf, xAI co-founder Igor Babuschkin, and two Nobel laureates.",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2123095009138233608#m",
-   "ts": 1795020270,
-   "id": "2123095009138233608#m"
   },
   {
    "handle": "Lingling_Wei",
