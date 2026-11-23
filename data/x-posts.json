@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T08:28:00Z",
+ "generated_at": "2026-11-23T08:39:12Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -8,13 +8,21 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "microsoft answers the call!!!!! oh my, am I a @mustafasuleyman stan?? nitter.kareem.one/mustafasuleyman/status… i think we need @alexandr_wang to join in and that will be the tipping point for all labs to unite on this effort Mustafa Suleyman (@mustafasuleyman) We fully support OpenAI's transparency initiative. Thanks to @merettm @markchen90 @gdb @sama for leading the way. We all got into this field to build safe AGI that is genuinely good for humanity. One of the hardest parts of AI safety is coordination, and this is a step in the right direction. Many more steps like this will be needed to deliver safe, contained, and aligned AGI in the next few years. We're committed to sharing our pre-training progress on a common held-out evaluation set. With OpenAI's permission, we report MAI-2 Base on their evaluation set. Its log-perplexity is 0.819, putting it in the same ballpark as the GPT-5.6 Sol base model. Our model uses the same tokenizer as OpenAI, so the numbers are directly comparable. In the future, to be able to compare across labs we might need to report bits-per-byte (BPB) rather than perplexity since different labs use different tokenizers. We will also need different evaluation datasets - the fact we have access to OpenAI's evaluation dataset is a special case. Safety and alignment is now the mission. It's the absolute number one most important focus for our industry. And it begins with small, practical steps like these towards better coordination on pacing. — https:/",
+   "url": "https://nitter.kareem.one/swyx/status/2124780264916423021#m",
+   "ts": 1795422066,
+   "id": "2124780264916423021#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -104,15 +112,6 @@
    "url": "https://nitter.kareem.one/GadSaad/status/2124596352256819377#m",
    "ts": 1795378218,
    "id": "2124596352256819377#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "by this metric we have seen more ai progress this year than in 2022-2025. is that true? doesn’t suuuper feel like it but who knows we could be cooked by algorithm and/or metric only translates at frontier math level",
-   "url": "https://nitter.kareem.one/swyx/status/2124590240539259381#m",
-   "ts": 1795376760,
-   "id": "2124590240539259381#m"
   },
   {
    "handle": "swyx",
