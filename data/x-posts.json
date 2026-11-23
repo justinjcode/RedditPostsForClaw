@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T19:16:13Z",
+ "generated_at": "2026-11-23T19:27:52Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -8,12 +8,31 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@swyx: all instances failed"
+ ],
  "count": 176,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Beautiful shot by Andrew McCarthy Andrew McCarthy (@AJamesMcCarthy) I still can’t believe this is a real video I captured Video — https://nitter.kareem.one/AJamesMcCarthy/status/2124887397037216215#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2124944467119747335#m",
+   "ts": 1795461215,
+   "id": "2124944467119747335#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Everyone I know at Nvidia wanted Jensen back and it shows Gavin Baker (@GavinSBaker) Scenes from Nvidia headquarters as Jensen comes back. The Nvidia employees wanted him back more than anything. Grateful to the President, everyone in the administration, everyone who signed the petition, everyone who supported Jensen publicly, everyone who called the board, everyone on the board who fought for him, everyone. This is why America is the greatest country on earth. Every part of Jensen’s story would have only been possible in America. And remember that Gandalf the White was even better than Gandalf the Grey in every way. “Let’s get to work.” 🇺🇸 Video — https://nitter.kareem.one/GavinSBaker/status/2124940234932596890#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2124942828274925651#m",
+   "ts": 1795460824,
+   "id": "2124942828274925651#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -94,6 +113,15 @@
    "url": "https://nitter.kareem.one/cb_doge/status/2124897838656262339#m",
    "ts": 1795450098,
    "id": "2124897838656262339#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "My composite image I created from this event was made into a limited number of gorgeous fine art prints. I still have some available, but they come off my shop tonight. Get a print as a memento of this incredible event: cosmicbackground.io/pages/dr…",
+   "url": "https://nitter.kareem.one/AJamesMcCarthy/status/2124892596749378029#m",
+   "ts": 1795448848,
+   "id": "2124892596749378029#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -339,15 +367,6 @@
    "id": "2124641092125491679#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I warned Iceland in June 2025 but they chose to ignore me… Lisa Britton (@LisaBritton) Iceland is considered “the most gender-equal country in the world” but it doesn’t seem “equal” to me… Currently, they have a female President, Prime Minister, the head of every political party is a woman and the majority of cabinet is women. 68.8% of students who graduated college last year were women. This list goes on about how “gender equality” actually seems to mean female dominance today. Yesterday I spoke with the former First Lady of Iceland. She did seem concerned about the college student stat, but she insisted there was still so much to do to fight for gender equality for women there. I think it might be time to look at the disadvantages of both sexes when it comes to addressing “gender equality.” No? — https://nitter.kareem.one/LisaBritton/status/2124178525221466306#m",
-   "url": "https://nitter.kareem.one/GadSaad/status/2124596352256819377#m",
-   "ts": 1795378218,
-   "id": "2124596352256819377#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -454,15 +473,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2124217876777464269#m",
    "ts": 1795287982,
    "id": "2124217876777464269#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Iceland is considered “the most gender-equal country in the world” but it doesn’t seem “equal” to me… Currently, they have a female President, Prime Minister, the head of every political party is a woman and the majority of cabinet is women. 68.8% of students who graduated college last year were women. This list goes on about how “gender equality” actually seems to mean female dominance today. Yesterday I spoke with the former First Lady of Iceland. She did seem concerned about the college student stat, but she insisted there was still so much to do to fight for gender equality for women there. I think it might be time to look at the disadvantages of both sexes when it comes to addressing “gender equality.” No?",
-   "url": "https://nitter.kareem.one/LisaBritton/status/2124178525221466306#m",
-   "ts": 1795278600,
-   "id": "2124178525221466306#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -1102,15 +1112,6 @@
    "url": "https://nitter.kareem.one/anissagardizy8/status/2122493529293475884#m",
    "ts": 1794876866,
    "id": "2122493529293475884#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "What's new in Grok Bot 1.0 🚀 00:45 Team Bot improvements 01:47 Bots join your meetings 03:26 Bots take initiative 04:10 Bots learn and improve 05:19 Bots are smarter and faster Lots of easter eggs in this one for y'all! Video",
-   "url": "https://nitter.kareem.one/mattyp/status/2122343944889483583#m",
-   "ts": 1794841202,
-   "id": "2122343944889483583#m"
   },
   {
    "handle": "Lingling_Wei",
