@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-23T19:45:59Z",
+ "generated_at": "2026-11-23T19:57:33Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 176,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Welcome to the PvP of social media.",
+   "url": "https://nitter.kareem.one/cb_doge/status/2124945497152794908#m",
+   "ts": 1795461460,
+   "id": "2124945497152794908#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -193,15 +203,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2124877252412281142#m",
    "ts": 1795445189,
    "id": "2124877252412281142#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The mistake has been corrected NVIDIA Newsroom (@nvidianewsroom) NVIDIA Board reinstates Jensen Huang as President, CEO and Board Director. Read the release: nvidianews.nvidia.com/news/n… Link NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director NVIDIA (NASDAQ: NVDA) today announced that effective immediately, Jensen Huang has been reinstated as President and Chief Executive Officer and as a member of the Board. nvidianews.nvidia.com — https://nitter.kareem.one/nvidianewsroom/status/2124865060397019480#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2124875939133751684#m",
-   "ts": 1795444876,
-   "id": "2124875939133751684#m"
   },
   {
    "handle": "elonmusk",
