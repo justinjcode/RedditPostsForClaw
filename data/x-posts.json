@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-23T17:54:17Z",
+ "generated_at": "2026-11-23T18:10:44Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +10,9 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 177,
  "items": [
   {
@@ -45,10 +46,28 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "BREAKING: President Trump says he spoke with Elon Musk about Jensen Huang before his return as NVIDIA CEO, revealing Elon’s support for Jensen. “I spoke to him over the last week or so about it, and all he said is, Jensen’s a smart guy. Elon respects Jensen a lot. He respects him a lot.” Video",
+   "url": "https://nitter.kareem.one/cb_doge/status/2124906448476094686#m",
+   "ts": 1795452150,
+   "id": "2124906448476094686#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "BREAKING: Aer Lingus Chief Customer Officer Susanne Carberry praises @Starlink as the airline expands free Starlink Wi-Fi to European flights following a “fantastic” customer response on North American routes. “The response from our customers to Starlink Wi-Fi travelling to our North American destinations has been fantastic, so we’re delighted to start bringing that same experience to customers flying with us across Europe. “Our customers expect to be able to stay connected wherever they are, and that doesn’t stop when they step onboard an aircraft. “Bringing Starlink to our European fleet is about responding to that demand and giving customers the fast, reliable connectivity they increasingly expect when they travel. “Whether it’s keeping the kids entertained, catching up on work or getting a head start on the holiday, we want our customers to have more choice in how they spend their time with us.” — Susanne Carberry, Chief Customer Officer at Aer Lingus",
    "url": "https://nitter.kareem.one/cb_doge/status/2124899403857318119#m",
    "ts": 1795450471,
    "id": "2124899403857318119#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "BREAKING: Aer Lingus launches FREE Starlink Wi-Fi on European flights, with 29 short-haul aircraft to be connected in early 2027. • The expansion follows a “fantastic” response from passengers on its North American routes. • Spain, Portugal and Morocco are among the destinations planned for the rollout. • Passengers connected to Starlink on Aer Lingus’s A330 fleet used an average of 1.8 GB per device in October.",
+   "url": "https://nitter.kareem.one/cb_doge/status/2124897838656262339#m",
+   "ts": 1795450098,
+   "id": "2124897838656262339#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -330,15 +349,6 @@
    "id": "2124578257748300122#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I've been using @bot to help my fiancée and me plan our wedding, and it honestly feels like we have a hired full-time wedding planner. Over the last month, it helped us figure out our hotel room block. It found 15 hotels within 35 minutes of our venue, handled all the email correspondence, and got proposals with the details we needed to decide. Then it created a comparison sheet with the criteria we cared about and recommended a shortlist. Once we picked one, it helped us review the contract, negotiated with the hotel, and even signed it (w/ my permission, of course). The day after we signed, @bot proactively researched a shortlist of shuttle services and welcome-party venues, with emails already drafted for my review. I can't imagine planning a wedding without it. It's truly an amazing time to be alive.",
-   "url": "https://nitter.kareem.one/danny_graziosi/status/2124570651755204813#m",
-   "ts": 1795372090,
-   "id": "2124570651755204813#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -472,15 +482,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2124147427313861009#m",
    "ts": 1795271186,
    "id": "2124147427313861009#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "XV",
-   "url": "https://nitter.kareem.one/TeslaSI/status/2124005518746480996#m",
-   "ts": 1795237352,
-   "id": "2124005518746480996#m"
   },
   {
    "handle": "ZichenWanghere",
