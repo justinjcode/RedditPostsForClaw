@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T14:29:39Z",
+ "generated_at": "2026-11-23T14:39:08Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "It is done",
+   "url": "https://nitter.kareem.one/elonmusk/status/2124872664938602736#m",
+   "ts": 1795444096,
+   "id": "2124872664938602736#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -346,15 +355,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2124217876777464269#m",
    "ts": 1795287982,
    "id": "2124217876777464269#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "After experiencing @Tesla 's Cybercab in Dallas, some riders don't want to use any other robotaxi because of how much they love it, despite competing services offering discounts.",
-   "url": "https://nitter.kareem.one/SawyerMerritt/status/2124190749931540905#m",
-   "ts": 1795281514,
-   "id": "2124190749931540905#m"
   },
   {
    "handle": "elonmusk",
