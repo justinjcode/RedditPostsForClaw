@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T07:19:49Z",
+ "generated_at": "2026-11-23T07:32:39Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "also this FTX SBF quote ken (@aquariusacquah) hahaha — https://nitter.kareem.one/aquariusacquah/status/2124618540997304647#m",
+   "url": "https://nitter.kareem.one/swyx/status/2124766474736976240#m",
+   "ts": 1795418778,
+   "id": "2124766474736976240#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -751,15 +760,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2123378306598813803#m",
    "ts": 1795087813,
    "id": "2123378306598813803#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "recommended viewing. lauren (@poteto) my AIE talk is up! come hear how the grok @bot team ships so quickly without compromise on quality inv.kareem.one/O_zcc6Xl12g Link All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI 11,000 pull requests in one month, with a revert rate around 0.5%. ... youtube.com — https://nitter.kareem.one/poteto/status/2121673563489140863#m",
-   "url": "https://nitter.kareem.one/badlogicgames/status/2123326437730234433#m",
-   "ts": 1795075446,
-   "id": "2123326437730234433#m"
   },
   {
    "handle": "simonw",
