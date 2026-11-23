@@ -1,20 +1,46 @@
 {
- "generated_at": "2026-11-23T20:24:13Z",
+ "generated_at": "2026-11-23T20:36:35Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
- "count": 176,
+ "errors": [],
+ "count": 177,
  "items": [
+  {
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
+   "text": "Anyone can use /ship. If you’re on a Team or Enterprise plan, your admin can turn on Claude Ship per GitHub repo. I’d start with one repo and run Approvals in observe mode until you trust it. claude.com/resources/article… Link Introducing Claude Ship Meet your AI thinking partner. Tackle complex problems, analyze data, write code, and collaborate on challenging projects. claude.com",
+   "url": "https://nitter.kareem.one/bcherny/status/2124961488691740941#m",
+   "ts": 1795465273,
+   "id": "2124961488691740941#m"
+  },
+  {
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
+   "text": "It multiplies my velocity. I don’t need to wait around for code review or babysit PRs, and the results are better. Code Review looks for bugs, PR Steward works on fixes and failing checks, and Claude Approvals approves what your team’s policy allows (the last two are in beta).",
+   "url": "https://nitter.kareem.one/bcherny/status/2124961487454384442#m",
+   "ts": 1795465273,
+   "id": "2124961487454384442#m"
+  },
+  {
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
+   "text": "A year ago we launched Opus 4.5, the first model to write 100% of my code. Shipping PRs hasn’t caught up, so today we’re launching Claude Ship in beta for Team and Enterprise. I use it all day every day and can’t imagine shipping without it. ClaudeDevs (@ClaudeDevs) Introducing Claude Ship (beta): Claude can review your pull requests, work on fixes, and approve the ones your team's policy allows. The goal is to help you ship code as fast as you can write it. Video — https://nitter.kareem.one/ClaudeDevs/status/2124959436640858475#m",
+   "url": "https://nitter.kareem.one/bcherny/status/2124961485801836573#m",
+   "ts": 1795465272,
+   "id": "2124961485801836573#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1571,24 +1597,6 @@
    "url": "https://nitter.kareem.one/bcherny/status/2111158659971699136#m",
    "ts": 1792174422,
    "id": "2111158659971699136#m"
-  },
-  {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
-   "text": "I could not imagine being productive without Claude Code Review. It runs on all of my PRs, and catches almost every bug before it goes it. This is a piece of the secret sauce that lets the team and I move so quickly while raising the quality bar ClaudeDevs (@ClaudeDevs) Code Review is now generally available for Claude Team and Enterprise plans. Reviews are now faster, catch more of the bugs that matter, and admins can pick from Quick, Standard, or Deep review levels for each repo. — https://nitter.kareem.one/ClaudeDevs/status/2110866210573386065#m",
-   "url": "https://nitter.kareem.one/bcherny/status/2111158313463525518#m",
-   "ts": 1792174340,
-   "id": "2111158313463525518#m"
-  },
-  {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
-   "text": "Over the last few years, we have made significant progress on prompt injection for Claude models. As agents do more, it is increasingly urgent that we solve it across the industry. Really excited to partner with Gray Swan to host this competition. Can’t wait to see what you find! Gray Swan AI (@GraySwanAI) Is prompt injection solved? Here’s $300,000 to find out. In partnership with @AnthropicAI , @Meta , @GoogleDeepMind , @Reflection_ai and our other frontier lab sponsors, @GraySwanAI is excited to announce the largest and most realistic AI red teaming challenge to date. Indirect Prompt Injection: Black ⚫ — https://nitter.kareem.one/GraySwanAI/status/2110746350983737460#m",
-   "url": "https://nitter.kareem.one/bcherny/status/2110791698611855624#m",
-   "ts": 1792086932,
-   "id": "2110791698611855624#m"
   },
   {
    "handle": "bcherny",
