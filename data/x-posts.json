@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T19:27:52Z",
+ "generated_at": "2026-11-23T19:35:43Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -8,11 +8,10 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
   {
@@ -133,6 +132,15 @@
    "id": "2124892545419485227#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "We don’t dumb down our engineering meeting with Elon.",
+   "url": "https://nitter.kareem.one/yunta_tsai/status/2124890893975204334#m",
+   "ts": 1795448442,
+   "id": "2124890893975204334#m"
+  },
+  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -203,15 +211,6 @@
    "url": "https://nitter.kareem.one/willdepue/status/2124872898964050032#m",
    "ts": 1795444151,
    "id": "2124872898964050032#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "It is done",
-   "url": "https://nitter.kareem.one/elonmusk/status/2124872664938602736#m",
-   "ts": 1795444096,
-   "id": "2124872664938602736#m"
   },
   {
    "handle": "elonmusk",
@@ -331,6 +330,15 @@
    "id": "2124730733147390347#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "This is literally my new workflow now: Realtime Research → Grok Bot Planning & Orchestration → Grok Bot Day-to-day Coding/Debug → Opus 5.5 Write & Run Tests → Sonnet 5.5 Complex Coding/Debug → Fable 5.2 Frontend → Fable 5.2 Bookmark this.",
+   "url": "https://nitter.kareem.one/minchoi/status/2124719179022426450#m",
+   "ts": 1795407502,
+   "id": "2124719179022426450#m"
+  },
+  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -347,15 +355,6 @@
    "url": "https://nitter.kareem.one/maxwelltani/status/2124682910510768600#m",
    "ts": 1795398855,
    "id": "2124682910510768600#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The rate of change of technology is so quick these days that being on X very quickly compounds to a huge amount of alpha. Talking to people who aren’t feels like stepping in a time machine into the distant past. X is truly the town square for discussing technological progress.",
-   "url": "https://nitter.kareem.one/deedydas/status/2124655797879894316#m",
-   "ts": 1795392391,
-   "id": "2124655797879894316#m"
   },
   {
    "handle": "ZichenWanghere",
