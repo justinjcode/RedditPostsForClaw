@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-23T22:08:22Z",
+ "generated_at": "2026-11-23T22:15:42Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "I've been trying this out today and it's really, really good - feels snappy, nice UI, works with most of the sites I've tried - more notes here simonwillison.net/2026/Nov/2… Link Ladybird’s first alpha release Ladybird is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components—HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It... simonwillison.net Ladybird (@ladybirdbrowser) Ladybird is now in alpha 🐞 Downloads for macOS and Linux available on our website. ladybird.org/posts/alpha/ — https://nitter.kareem.one/ladybirdbrowser/status/2124895696516202969#m",
+   "url": "https://nitter.kareem.one/simonw/status/2124988263857635572#m",
+   "ts": 1795471657,
+   "id": "2124988263857635572#m"
+  },
   {
    "handle": "bcherny",
    "name": "Boris Cherny",
@@ -1274,15 +1282,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2120259652093112614#m",
    "ts": 1794344268,
    "id": "2120259652093112614#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "For comparison, here's what I got for the same prompt against Claude Fable 5.2 yesterday simonwillison.net/2026/Nov/1… Video",
-   "url": "https://nitter.kareem.one/simonw/status/2120259268364718331#m",
-   "ts": 1794344176,
-   "id": "2120259268364718331#m"
   },
   {
    "handle": "bcherny",
