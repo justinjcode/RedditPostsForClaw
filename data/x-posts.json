@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-23T15:26:49Z",
+ "generated_at": "2026-11-23T15:37:55Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,9 +10,29 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: robotnews.therundown.ai/p/nv… Link Nvidia’s robot king returns PLUS: China's newest humanoid hits $1.6B robotnews.therundown.ai",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2124889266400419948#m",
+   "ts": 1795448054,
+   "id": "2124889266400419948#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in robotics today: - Nvidia rehires robotics’ loudest backer - A humanoid newcomer just hit $1.6B - UN delays making killer robot rules - NASA-backed robot can dive 7 miles deep",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2124889261199577189#m",
+   "ts": 1795448053,
+   "id": "2124889261199577189#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -85,6 +104,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2124866316293013809#m",
    "ts": 1795442582,
    "id": "2124866316293013809#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "NVIDIA Board reinstates Jensen Huang as President, CEO and Board Director. Read the release: nvidianews.nvidia.com/news/n… Link NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director NVIDIA (NASDAQ: NVDA) today announced that effective immediately, Jensen Huang has been reinstated as President and Chief Executive Officer and as a member of the Board. nvidianews.nvidia.com",
+   "url": "https://nitter.kareem.one/nvidianewsroom/status/2124865060397019480#m",
+   "ts": 1795442283,
+   "id": "2124865060397019480#m"
   },
   {
    "handle": "elonmusk",
@@ -699,15 +727,6 @@
    "id": "2123551782341107813#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Vibe coding a game is fun until you don't know what your own characters do. @trq212 on keeping creative control as models get better: readable specs, custom languages, and a software renaissance. The Sweet Side of the Bitter Lesson. Watch: inv.kareem.one/xRJMiaUoD_8",
-   "url": "https://nitter.kareem.one/aiDotEngineer/status/2123514398438211840#m",
-   "ts": 1795120260,
-   "id": "2123514398438211840#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -841,24 +860,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2123175166519992652#m",
    "ts": 1795039381,
    "id": "2123175166519992652#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "NEW: Google launched Gemini 4 Neon, the middle model in its Gemini 4 lineup, beating Claude Opus 5.5 and GPT-6.2 Sol on 16 of 19 benchmarks in Google’s testing. Google puts Neon’s cost per task at roughly half to a fifth of rival frontier models, with API prices at $3/15 per million. Available now to Google AI Pro or Ultra subscribers.",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2123169908338884712#m",
-   "ts": 1795038127,
-   "id": "2123169908338884712#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "NEW: Pika teased Enact, a research preview that lets users direct an AI-generated scene while it plays. The directing experience includes dragging actors around via mouse, giving them notes out loud, changing the scene, and steering the camera. Each actor is a separate AI agent with its own personality that can keep track of feedback from earlier takes. Video",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2123135338822656387#m",
-   "ts": 1795029885,
-   "id": "2123135338822656387#m"
   },
   {
    "handle": "thsottiaux",
