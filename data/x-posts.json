@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-23T17:27:12Z",
+ "generated_at": "2026-11-23T17:37:53Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,9 +10,38 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "True Maye Musk (@mayemusk) The first room at the front door was Elon‘s. There was a mattress on the floor. When the young people arrived and were dancing upstairs, I thought the floor was going to collapse so I moved the mattress to the wall. I assumed just the middle would collapse. I put the door money in a shoebox. When I saw it was quite a lot, I fetched a kitchen knife in case someone tried to take it away from me. I was also the coat check girl. When the police arrived after midnight due to complaints about the noise, I answered the door in my pajamas. That night I slept on the mattress on the floor. It was still better than sleeping on the ground in the Kalahari desert with hyenas, lions, snakes or scorpions visiting us. Memories from my childhood made me appreciate a mattress. — https://nitter.kareem.one/mayemusk/status/2124918121848840384#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2124918561617694750#m",
+   "ts": 1795455038,
+   "id": "2124918561617694750#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Those who violate the law on this platform WILL be prosecuted, WHEREVER they may be in the world. Global Government Affairs (@GlobalAffairs) This month, as part of its Cyber-Enabled Scam Initiative, the @DojCrimDiv opened an investigation into individuals suspected of utilizing stolen third-party payment credentials on @XMoney . We are dedicated to providing maximum cooperation to the @TheJusticeDept to bring swift accountability to anyone that seeks to commit financial crimes using our platform. We are grateful for the support and close collaboration with the DOJ. — https://nitter.kareem.one/GlobalAffairs/status/2124866469762646060#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2124917923391443211#m",
+   "ts": 1795454886,
+   "id": "2124917923391443211#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "BREAKING: Aer Lingus Chief Customer Officer Susanne Carberry praises @Starlink as the airline expands free Starlink Wi-Fi to European flights following a “fantastic” customer response on North American routes. “The response from our customers to Starlink Wi-Fi travelling to our North American destinations has been fantastic, so we’re delighted to start bringing that same experience to customers flying with us across Europe. “Our customers expect to be able to stay connected wherever they are, and that doesn’t stop when they step onboard an aircraft. “Bringing Starlink to our European fleet is about responding to that demand and giving customers the fast, reliable connectivity they increasingly expect when they travel. “Whether it’s keeping the kids entertained, catching up on work or getting a head start on the holiday, we want our customers to have more choice in how they spend their time with us.” — Susanne Carberry, Chief Customer Officer at Aer Lingus",
+   "url": "https://nitter.kareem.one/cb_doge/status/2124899403857318119#m",
+   "ts": 1795450471,
+   "id": "2124899403857318119#m"
+  },
   {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
@@ -270,15 +298,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Jessica Tarlov says when she finally decided to listen to the full audio of Trump's \"Fine People\" comments -- she found out he wasn't talking about Nazis. \"That was illuminating for me.\" Wow. How big of her to admit it was a lie all these years later...after actually listening to it. Democrats still regurgitate this hoax to this day. Video",
-   "url": "https://nitter.kareem.one/WesternLensman/status/2124620232287277091#m",
-   "ts": 1795383911,
-   "id": "2124620232287277091#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "I warned Iceland in June 2025 but they chose to ignore me… Lisa Britton (@LisaBritton) Iceland is considered “the most gender-equal country in the world” but it doesn’t seem “equal” to me… Currently, they have a female President, Prime Minister, the head of every political party is a woman and the majority of cabinet is women. 68.8% of students who graduated college last year were women. This list goes on about how “gender equality” actually seems to mean female dominance today. Yesterday I spoke with the former First Lady of Iceland. She did seem concerned about the college student stat, but she insisted there was still so much to do to fight for gender equality for women there. I think it might be time to look at the disadvantages of both sexes when it comes to addressing “gender equality.” No? — https://nitter.kareem.one/LisaBritton/status/2124178525221466306#m",
    "url": "https://nitter.kareem.one/GadSaad/status/2124596352256819377#m",
    "ts": 1795378218,
@@ -330,15 +349,6 @@
    "id": "2124565526265352625#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "It’s almost unbelievable to have a CEO that works on so many things but still has this level of understanding of technical details at Tesla. Every time I’m fortunate enough to present to Elon, I’m blown away by how dedicated he is to learn about the technical progress and how much he cares about the low-level details while respecting each engineer’s work. Elon is so unique and It’s such an honor to work for him. Elon Musk (@elonmusk) In case anyone is curious: We’ve had a ~pixel-perfect world model since last year, which is critical for synthetic data generation. The (much) smaller version of that in the car is a conditional mean-flow model, based on the recent sequence of Tesla Universal Vision Encoder features, which are the same ones that are plugged into the 3B encoder model that produces the driving actions. We fork off from these UVE features, then run a separate ~1B diffusion model. This takes in the previous reality-view generation with added noise and then denoises it to the current visualization. It then produces a small video chunk (8 images at 36 fps, at the resolution of the UI screen). This work is done by 1/2 of a TRIP engine every UVE frame at 18 hz and is spread over 4 cycles. Currently, the latency is a bit high due to compute constraints, but we have ways to interleave newer UVE features along the diffusion transformer layers to cut roughly 35% of the latency. — https://nitter.kareem.one/elonmusk/status/2124458557525397780#m",
-   "url": "https://nitter.kareem.one/yilun_chen_/status/2124558617231925447#m",
-   "ts": 1795369221,
-   "id": "2124558617231925447#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -364,15 +374,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2124391769798533160#m",
    "ts": 1795329441,
    "id": "2124391769798533160#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Google CEO Sundar Pichai on Elon's ability to bring future technologies into existence: \"I think it's just unparalleled.\" Video",
-   "url": "https://nitter.kareem.one/teslaownersSV/status/2124320652501143556#m",
-   "ts": 1795312486,
-   "id": "2124320652501143556#m"
   },
   {
    "handle": "ZichenWanghere",
