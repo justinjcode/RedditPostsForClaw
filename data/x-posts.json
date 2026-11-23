@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-23T18:49:28Z",
+ "generated_at": "2026-11-23T18:56:06Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
   {
@@ -23,6 +22,15 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2124920298399285415#m",
    "ts": 1795455452,
    "id": "2124920298399285415#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "My take: The issues exposed at Nvidia by the Jensen affair will be with the company for a long time. wsj.com/video/why-jensen-hua… Link Why Jensen Huang’s Return Won’t Solve All of Nvidia’s Problems WSJ’s Aaron Back explains how reinstated Nvidia CEO Jensen Huang must now address a growing list of issues at the company that emerged during his 11-day absence. Photo: Photo illustration by Claire... wsj.com",
+   "url": "https://nitter.kareem.one/AaronBack/status/2124918735219650678#m",
+   "ts": 1795455080,
+   "id": "2124918735219650678#m"
   },
   {
    "handle": "elonmusk",
@@ -1193,15 +1201,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2121036562058400200#m",
    "ts": 1794529498,
    "id": "2121036562058400200#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "Because you are from the PRC you may not understand. In America, companies have strict rules against employers sleeping with their employees. Many White non-Chinese managers have lost their jobs this way. Need a list? Hu Xijin 胡锡进 (@HuXijin_GT) Jensen Huang has made such enormous contributions to the United States, yet he has been forced out through collusion between intelligence agencies and the media. This is his personal tragedy, and also a tragedy of Chinese Americans not being trusted in the United States. One must ask: if Jensen Huang’s background were the same as Tim Cook’s, would he have been forced to resign over the same extramarital affair? I don’t think so. At least not so quickly. — https://nitter.kareem.one/HuXijin_GT/status/2120944580489355523#m",
-   "url": "https://nitter.kareem.one/dennisw5/status/2121000011039486077#m",
-   "ts": 1794520783,
-   "id": "2121000011039486077#m"
   },
   {
    "handle": "thsottiaux",
