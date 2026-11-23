@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T23:08:44Z",
+ "generated_at": "2026-11-23T23:20:01Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "Gotta admit I thought the proof really was 250,000 pages of prose on top of the Lean levent (@__alpoge__) Stupid things I did: 1. 250,000+ pages was a joke guys!, I find big number extremely hilarious. I tried to make it clear by the level of pedantry of the reals total ordered statement in the main theorem, but people ran with it unfortunately and I didn’t feel like talking on social media in the days after the announcement, though I did have a good time with the memes. Sorry!!! (Similarly with our YM4 existence I found it extremely funny that we were slowly working through 60,000 pages of slop, though the committee asking for Lean made me feel dumb about wasting our time with that. But 60,000 funny.) Tao advises to not joke in papers, see also the Big Lebowski reference I shoehorned, I now understand why… I didn’t feel comfortable having any slop writeup attached to this problem, and I figured I can’t produce anything readable anyway, so I went off the Lean to lengthmaxx. 2. The Lean is full of garbage obviously, but compiles, but all criticism of such garbage is totally reasonable and accepted, I should have cleaned it up but it was randomly difficult to for various strange reasons. Mea culpa… 3. @scottnarmstrong clocked me, indeed even as a student there were theorems that took me the better part of a decade to write up, but with this one I should hopefully be more responsible. (I really was yoloing a lot in there, I bet most is unnecessary in the end, admittedly the lazy",
+   "url": "https://nitter.kareem.one/simonw/status/2125001984029921636#m",
+   "ts": 1795474928,
+   "id": "2125001984029921636#m"
+  },
   {
    "handle": "simonw",
    "name": "Simon Willison",
@@ -1273,15 +1282,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2120387954044735980#m",
    "ts": 1794374857,
    "id": "2120387954044735980#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "The Gemini 4 Carbon pelican is still pretty cute",
-   "url": "https://nitter.kareem.one/simonw/status/2120259652093112614#m",
-   "ts": 1794344268,
-   "id": "2120259652093112614#m"
   },
   {
    "handle": "bcherny",
