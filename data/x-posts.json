@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-23T01:26:55Z",
+ "generated_at": "2026-11-23T01:37:54Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "😂 Pejjy (@CuriousPejjy) The funniest chart ever. 😂 $TSLA — https://nitter.kareem.one/CuriousPejjy/status/2124476571104772487#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2124674295246811586#m",
+   "ts": 1795396801,
+   "id": "2124674295246811586#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -69,33 +79,6 @@
    "id": "2124614639409606954#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "360 degree vision that never tires Robotaxi (@robotaxi) Looking in every direction at once, at all times — https://nitter.kareem.one/robotaxi/status/2124586476210204961#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2124609453274108083#m",
-   "ts": 1795381341,
-   "id": "2124609453274108083#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "This was done without AI/SI, but we will be using a lot of SI in the future Everyday Astronaut (@Erdayastronaut) I still can’t get over the fact that this happened. The precision of this, down to sub-meter accuracy when it was traveling at OVER 7,000 m/s!!! Think about that. In one second it was traveling over 7 km yet it could land on a dime. Incredible. Video — https://nitter.kareem.one/Erdayastronaut/status/2124235715223695804#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2124608788158447644#m",
-   "ts": 1795381183,
-   "id": "2124608788158447644#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Tesla super intelligence software, chip design & Terafab are fun places to work Julian Ibarz (@julianibarz) When we say we do end-to-end embodied AI architectures, it's in prod, shipped to millions of cars. The much larger world model is shared between Autopilot and Optimus and is very important for 3D labeling for Optimus. The effort is shared across my team, @lawsonfulton and Yekeun. We're hiring! — https://nitter.kareem.one/julianibarz/status/2124559848444694824#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2124606900553863466#m",
-   "ts": 1795380733,
-   "id": "2124606900553863466#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -121,6 +104,15 @@
    "url": "https://nitter.kareem.one/chrislakin/status/2124578257748300122#m",
    "ts": 1795373904,
    "id": "2124578257748300122#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "I've been using @bot to help my fiancée and me plan our wedding, and it honestly feels like we have a hired full-time wedding planner. Over the last month, it helped us figure out our hotel room block. It found 15 hotels within 35 minutes of our venue, handled all the email correspondence, and got proposals with the details we needed to decide. Then it created a comparison sheet with the criteria we cared about and recommended a shortlist. Once we picked one, it helped us review the contract, negotiated with the hotel, and even signed it (w/ my permission, of course). The day after we signed, @bot proactively researched a shortlist of shuttle services and welcome-party venues, with emails already drafted for my review. I can't imagine planning a wedding without it. It's truly an amazing time to be alive.",
+   "url": "https://nitter.kareem.one/danny_graziosi/status/2124570651755204813#m",
+   "ts": 1795372090,
+   "id": "2124570651755204813#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -171,6 +163,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "I think we moved past this a little too quickly … SpaceX literally caught a rocket in mid air last week Video",
+   "url": "https://nitter.kareem.one/StockMKTNewz/status/2124498163050713287#m",
+   "ts": 1795354807,
+   "id": "2124498163050713287#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "Unequivocal super intelligence has arrived. Welcome to the Singularity.",
    "url": "https://nitter.kareem.one/elonmusk/status/2124464633490850164#m",
    "ts": 1795346813,
@@ -202,15 +203,6 @@
    "url": "https://nitter.kareem.one/grok/status/2124387459425239212#m",
    "ts": 1795328414,
    "id": "2124387459425239212#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "RT by @elonmusk: Image",
-   "url": "https://nitter.kareem.one/raygyli/status/2124334030682529958#m",
-   "ts": 1795315675,
-   "id": "2124334030682529958#m"
   },
   {
    "handle": "elonmusk",
@@ -328,6 +320,15 @@
    "url": "https://nitter.kareem.one/ScottJenningsKY/status/2124125122277572981#m",
    "ts": 1795265868,
    "id": "2124125122277572981#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "XV",
+   "url": "https://nitter.kareem.one/TeslaSI/status/2124005518746480996#m",
+   "ts": 1795237352,
+   "id": "2124005518746480996#m"
   },
   {
    "handle": "ZichenWanghere",
