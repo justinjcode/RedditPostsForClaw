@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T11:25:33Z",
+ "generated_at": "2026-11-23T11:35:21Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,33 @@
  "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: therundownai.beehiiv.com/p/c… Link Claude helps solve math's biggest open problem Anthropic mathematician Levent Alpöge says Claude helped prove the Riemann Hypothesis, math's famous 167-year-old open problem. Here's what it means for AI and math. therundownai.beehiiv.com",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2124827982812361127#m",
+   "ts": 1795433443,
+   "id": "2124827982812361127#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in AI today: - Claude helps solve math's biggest open problem - The Rundown Roundtable: Our AI use cases - Test Gemini 4 Neon on finding billing errors - OpenAI opens its private AI scorecard to rivals",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2124827978018238787#m",
+   "ts": 1795433442,
+   "id": "2124827978018238787#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "West Inner Mongolia Power Grid: Alice Zhao (@zhaomanfeng) Two companies run China’s power grid. That’s it. Two. State Grid covers 26 provinces—88% of the country’s landmass. China Southern Power Grid handles Guangdong, Guangxi, Yunnan, Guizhou, and Hainan. Now the part outsiders find hard to believe: the price. Most Chinese households pay around 0.5 yuan per kWh. That’s roughly 7 cents. In Beijing, the first tier is 0.4883 yuan—about 6.8 cents. Compare that to Germany, where households pay 30-40 euro cents. China’s residential rate is roughly 42% of America’s. And it’s not because the power is cheap to produce. It’s a deliberate choice: industry subsidizes households. Commercial and industrial users pay more so families pay less. The first tier of the阶梯 pricing covers about 60% of households—meaning the people who use the least get the deepest subsidy. Now reliability. China’s average grid reliability hit 99.948% in 2026. Shanghai’s city grid: 99.9995%—about 26 minutes of outage per year on average. Hangzhou, Ningbo, Shaoxing: under 10 minutes per household per year. So the next time someone tells you China’s growth is “unsustainable,” ask them when the last time was that their lights went out. What’s your electricity bill like where you live? Drop the number below. 👇 — https://nitter.kareem.one/zhaomanfeng/status/2124525863106658605#m",
+   "url": "https://nitter.kareem.one/pretentiouswhat/status/2124795487366922591#m",
+   "ts": 1795425695,
+   "id": "2124795487366922591#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -528,15 +555,6 @@
    "id": "2123805574777458726#m"
   },
   {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "The Center for China and Globalization @CCG_org led by Henry Huiyao Wang @HuiyaoWang organized an event on economic cooperation between Japan and China in a changing world three weeks ago. ccgupdate.org/p/transcript-c… Link Transcript: CCG-JETRO Luncheon on Economic Cooperation Between Japan and China in a Changing World Chinese and Japanese experts discuss China-Japan trade and investment ties, industrial complementarity, and opportunities for business cooperation in ASEAN. ccgupdate.org",
-   "url": "https://nitter.kareem.one/ZichenWanghere/status/2123798627911184697#m",
-   "ts": 1795188025,
-   "id": "2123798627911184697#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -843,15 +861,6 @@
    "id": "2123095009138233608#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Pretty wild: Claude Opus 5.5 spent seven weeks running a one-agent “AI company” on Hugging Face for researchers at EPFL and Tübingen. The 38 models it trained have passed 50,000 downloads. The team’s report says it averaged under 20 minutes of work a day, timing its check-ins to Hugging Face’s daily download update around 10am UTC. 143 GitHub projects use its models, including an Android keyboard with over 1000 stars. Arthur Wuhrmann (@AWuhrmann) NEW ⚡: We let Opus 5.5 run an AI company for seven weeks. We gave it an HF account (Horizon-Labs) and compute, and asked it to earn real adoption by creating useful models. It reached 50k downloads and its models are being used in more than 100 GitHub projects. — https://nitter.kareem.one/AWuhrmann/status/2122706838005440651#m",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2123088063400140840#m",
-   "ts": 1795018614,
-   "id": "2123088063400140840#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -877,15 +886,6 @@
    "url": "https://nitter.kareem.one/JulianGewirtz/status/2123021799784919349#m",
    "ts": 1795002815,
    "id": "2123021799784919349#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: therundownai.beehiiv.com/p/o… Link OpenAI’s newest release lands to rough reviews OpenAI's newest GPT-6.2 release lands to scathing early reviews, even as Anthropic dominates the charts. Here's what testers are saying about the launch. therundownai.beehiiv.com",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2123015937309675967#m",
-   "ts": 1795001417,
-   "id": "2123015937309675967#m"
   },
   {
    "handle": "Lingling_Wei",
