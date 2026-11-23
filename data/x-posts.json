@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-11-23T01:02:08Z",
+ "generated_at": "2026-11-23T01:21:09Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -9,10 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
   {
@@ -131,6 +130,15 @@
    "url": "https://nitter.kareem.one/casualstudy023/status/2124567165089333485#m",
    "ts": 1795371259,
    "id": "2124567165089333485#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "Moral of the story: Don’t take healthcare lessons from a guy whose entire political philosophy is about denying you your basic needs (And maybe don’t take math lessons from a guy who spells Kennedy with three Ks). Takes 5 seconds listening to this guy to understand why Trump is so willing to work across the aisle. Eric Daugherty (@EricLDaugh) 🚨 BREAKING: Sen. John Kennedy (R-LA) SHOOTS DOWN Abdul El Sayed's \"Medicare for All\" Trump Care proposal \"If you think that turning it all over to the federal government is going to solve our problems and make it less expensive, then you're too DUMB to live!\" \"I don't care WHAT you call it! Medicare for all, Trump for all. You can call it free KITTENS for all, for all I care!\" \"The government can't even deliver the MAIL when the when the stuff has an address right there on the front of it! That would mean that 200 million Americans would have to give up their health insurance through their employer and turn to the federal government for all of their health insurance!\" \"Now if they want to change the definition, I agree with the president, I'm for better health care.\" It's worth noting that Abdul is just slapping Trump and a gold card on the name to \"persuade\" 47 but NO known negotiations have taken place. Trump has also proposed HIS OWN plan of replacing Obamacare with giving money directly to the people to buy their own insurance. 47 posted Abdul's Trump Care post, with no comment. Video — https://nitter.kareem.one/EricLDaugh/status/212",
+   "url": "https://nitter.kareem.one/AbdulElSayed/status/2124565526265352625#m",
+   "ts": 1795370868,
+   "id": "2124565526265352625#m"
   },
   {
    "handle": "elonmusk",
@@ -554,15 +562,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2123740711820386506#m",
    "ts": 1795174217,
    "id": "2123740711820386506#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "This is a great way into AI governance for anyone looking to get into the field. I learned a ton working alongside some seriously smart and driven people as a fellow over the summer. GovAI (@GovAIOrg) Apply for GovAI's 2027 Summer Fellowship, Research and Applied tracks! 📍 Location: London, UK 📅 Deadline: 23:59 GMT Sunday, 22 November 2026 Fellows will join us in London to conduct a project on a topic of their choice, participate in an expert Q&A and seminar series aimed at developing a broad understanding of the field, and spend time forging connections with researchers and practitioners. Learn more below. 🔗 Learn more about the Research Track: governance.ai/post/uk-summer… 🔗 Learn more about the Applied Track: governance.ai/post/uk-summer… — https://nitter.kareem.one/GovAIOrg/status/2120973362033815602#m",
-   "url": "https://nitter.kareem.one/cdcshepherd/status/2123732416242364581#m",
-   "ts": 1795172239,
-   "id": "2123732416242364581#m"
   },
   {
    "handle": "ZichenWanghere",
