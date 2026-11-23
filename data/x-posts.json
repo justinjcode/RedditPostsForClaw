@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-23T17:37:53Z",
+ "generated_at": "2026-11-23T17:46:58Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "也许我们的好多 assumption 根本都是错的",
+   "url": "https://nitter.kareem.one/ZichenWanghere/status/2124920298399285415#m",
+   "ts": 1795455452,
+   "id": "2124920298399285415#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -581,15 +589,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2123843282082132335#m",
    "ts": 1795198672,
    "id": "2123843282082132335#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "两周前，英伟达还有美国最好的工作环境，黄仁勋被票选成最受欢迎的CEO，招工网站上英伟达的评分一直是最高的一档。 员工跟着他也早就财富自由，推特上英伟达的现员工前员工发帖基本都是夸他关心员工家人，事无巨细都会看邮件。 现在黄仁勋就成了媒体口中威胁侮辱员工的大反派。 挺有意思的。 Jordan Schachtel (@JordanSchachtel) Anonymous employee surveys ranked Nvidia as the #1 best place to work in America under Jensen. Over 95% responded saying Nvidia was a great place to work. This is so transparently an ideological op. This is an ugly, malicious, and false smear campaign from the corporate media. — https://nitter.kareem.one/JordanSchachtel/status/2123802109405540672#m",
-   "url": "https://nitter.kareem.one/Tracy_Wen_Liu/status/2123829048422125876#m",
-   "ts": 1795195278,
-   "id": "2123829048422125876#m"
   },
   {
    "handle": "ZichenWanghere",
