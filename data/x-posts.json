@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-23T16:10:32Z",
+ "generated_at": "2026-11-23T16:21:20Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "President Trump says he talked to Jensen Huang last night after the decision was made by the board to reinstate him. \"I called him up and I said, I asked you to one thing Jensen. Work hard.\"",
+   "url": "https://nitter.kareem.one/meridithmcgraw/status/2124892545419485227#m",
+   "ts": 1795448836,
+   "id": "2124892545419485227#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -32,6 +40,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2124889261199577189#m",
    "ts": 1795448053,
    "id": "2124889261199577189#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "In an ongoing interview, Trump says if Huang had not been reinstated at Nvidia, Xi might have called and asked him to lead a Chinese company. If Huang was “mad” enough at the U.S. Trump said he may have done it… adding he has some of their “blood in him.”",
+   "url": "https://nitter.kareem.one/weijia/status/2124888611971907826#m",
+   "ts": 1795447898,
+   "id": "2124888611971907826#m"
   },
   {
    "handle": "elonmusk",
@@ -1157,24 +1174,6 @@
    "url": "https://nitter.kareem.one/dunne_insights/status/2121256756819247260#m",
    "ts": 1794581996,
    "id": "2121256756819247260#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "A year ago, we asked Nvidia about a Shanghai data center with links to Alice Huang. They declined to answer our questions and insisted that when it came to Megaspeed, there was nothing to see We now have filings showing there are indeed banned Nvidia chips at that site Thread:",
-   "url": "https://nitter.kareem.one/mackhawk/status/2121252848776450049#m",
-   "ts": 1794581064,
-   "id": "2121252848776450049#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "Here is an early look at the front page of The Wall Street Journal on.wsj.com/4AtoypJ",
-   "url": "https://nitter.kareem.one/WSJ/status/2121113359076429831#m",
-   "ts": 1794547807,
-   "id": "2121113359076429831#m"
   },
   {
    "handle": "thsottiaux",
