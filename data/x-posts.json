@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T23:20:01Z",
+ "generated_at": "2026-11-23T23:26:13Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,24 @@
  "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "You can try the new plugin out using Datasette Lite (Datasette in Python in Pyodide in WebAssembly in your browser) here: lite.datasette.io/?install=d…",
+   "url": "https://nitter.kareem.one/simonw/status/2125007727621706018#m",
+   "ts": 1795476297,
+   "id": "2125007727621706018#m"
+  },
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "I built (with a lot of help from Fable 5.2) a new datasette-charts plugin, which is my best attempt yet at having Datasette automatically pick credible visualizations for any data you might throw at it simonwillison.net/2026/Nov/2… Link Release: datasette-charts 0.1a0 A charting plugin for Datasette simonwillison.net",
+   "url": "https://nitter.kareem.one/simonw/status/2125007029442114041#m",
+   "ts": 1795476131,
+   "id": "2125007029442114041#m"
+  },
   {
    "handle": "simonw",
    "name": "Simon Willison",
@@ -1264,24 +1282,6 @@
    "url": "https://nitter.kareem.one/claudeai/status/2120973994191094179#m",
    "ts": 1794514580,
    "id": "2120973994191094179#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "Huh, they've changed the recommended prompt to \"You are the owner and long-term maintainer of this codebase, and its design is up to you.\" Brink (@_brinked) FYI they updated the prompt to: You are the owner and long-term maintainer of this codebase, and its design is up to you. — https://nitter.kareem.one/_brinked/status/2120614827878171084#m",
-   "url": "https://nitter.kareem.one/simonw/status/2120644009618215418#m",
-   "ts": 1794435906,
-   "id": "2120644009618215418#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "Google had a whole lot more fun with Carbon and pelicans on bicycles than I did Sundar Pichai (@sundarpichai) Carbon made a pelican demo so you don't have to 😅 fun test of long-horizon coding and the new /swarm feature in Google @Antigravity . Builder and critic subagents ran iterative loops across Blender and Three.js - checking their own renders to build a playable 3D game of a pelican biking around our Mountain View campus. Video — https://nitter.kareem.one/sundarpichai/status/2120198811297694192#m",
-   "url": "https://nitter.kareem.one/simonw/status/2120387954044735980#m",
-   "ts": 1794374857,
-   "id": "2120387954044735980#m"
   },
   {
    "handle": "bcherny",
