@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-23T14:55:59Z",
+ "generated_at": "2026-11-23T15:09:26Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Nvidia ( $NVDA ) added ~$1T in market value at today''s open after the board unanimously voted to bring back Jensen Huang as CEO",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2124879500764942801#m",
+   "ts": 1795445725,
+   "id": "2124879500764942801#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -859,15 +869,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2123113107048501273#m",
    "ts": 1795024584,
    "id": "2123113107048501273#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Financial Times (@FT) SoftBank regrets ‘mistake’ of not backing Anthropic, says Son ft.trib.al/Hj4UO9s Link SoftBank regrets ‘mistake’ of not backing Anthropic, says Massayoshi Son Japanese tech group had already started to put money into arch-rival OpenAI ft.com — https://nitter.kareem.one/FT/status/2122984531292561751#m",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2123112188864762022#m",
-   "ts": 1795024365,
-   "id": "2123112188864762022#m"
   },
   {
    "handle": "Lingling_Wei",
