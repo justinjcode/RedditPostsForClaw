@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T05:09:21Z",
+ "generated_at": "2026-11-23T05:22:18Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "incredible founder journey breakdown from founding to acquisition complete with regrets and advice. not enough founders document this! please do, it saves others potentially a lot of pain highlights - @theallinpod top ticking saas market - IP assignment woes - do not brag about your SEO - how to draw @naval ’s interest - hiring advice and layoff advice - how to fish for an acquisition - how to clear roadblocks for an acquisition - there are CTO coaches?? taimur (@taimurabdaal) Anthropic IPO at $1T, Riemann hypothesis proved, anyway... here's the story of our B2B SaaS Felt a lot of nostalgia for the quaint 2019–2024 era of startups writing this. Hopefully still some relevant lessons for early stage startups today: taimur.me/blog-posts/causal-… Link Causal: From Idea to Acquisition In 2019 we started a company called Causal, and in 2024 we sold it. Here are our reflections on the journey, from idea to acquisition. taimur.me — https://nitter.kareem.one/taimurabdaal/status/2124610047741177871#m",
+   "url": "https://nitter.kareem.one/swyx/status/2124730733147390347#m",
+   "ts": 1795410257,
+   "id": "2124730733147390347#m"
+  },
   {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
@@ -31,6 +40,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2124674295246811586#m",
    "ts": 1795396801,
    "id": "2124674295246811586#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The rate of change of technology is so quick these days that being on X very quickly compounds to a huge amount of alpha. Talking to people who aren’t feels like stepping in a time machine into the distant past. X is truly the town square for discussing technological progress.",
+   "url": "https://nitter.kareem.one/deedydas/status/2124655797879894316#m",
+   "ts": 1795392391,
+   "id": "2124655797879894316#m"
   },
   {
    "handle": "elonmusk",
@@ -58,15 +76,6 @@
    "url": "https://nitter.kareem.one/WesternLensman/status/2124620232287277091#m",
    "ts": 1795383911,
    "id": "2124620232287277091#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Consciousness is either an illusion or ubiquitous on a gradient. Difficult to argue that carbon is conscious, but silicon is not.",
-   "url": "https://nitter.kareem.one/elonmusk/status/2124619599882920139#m",
-   "ts": 1795383760,
-   "id": "2124619599882920139#m"
   },
   {
    "handle": "elonmusk",
@@ -598,15 +607,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2123612433923051976#m",
    "ts": 1795143633,
    "id": "2123612433923051976#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "when scrolling social media i think it is worth bearing in mind that you can say “odds of reaching SOTA have dropped to zero” and get alot of likes and then 3 months later when they have reached SOTA you post apology form and get even more likes and the subject of your writing prints it out and thanks you for motivation theres no consequences at all for inaccuracy and every incentive for hyperbole and the x algorithm is tuned for this Arthur Douillard (@Ar_Douillard) I want to thanks @SemiAnalysis_ for the motivation. In the Gemini RL scaling team, we printed & put that article on our desks to be reminded daily of what used to be true at the time. But the times they are changing :) — https://nitter.kareem.one/Ar_Douillard/status/2123423354367377492#m",
-   "url": "https://nitter.kareem.one/swyx/status/2123591875349422435#m",
-   "ts": 1795138732,
-   "id": "2123591875349422435#m"
   },
   {
    "handle": "thsottiaux",
