@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T01:21:09Z",
+ "generated_at": "2026-11-23T01:26:55Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -144,10 +144,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "I just did this with Grok @bot and with my Amazon order history export, it found $892 I’m owed since 2017 that falls into this class action lawsuit. Crazy! The keys to make this efficient were: 1. Get your order history exported by typing “request my data” in Amazon app search. It took 30 mins for them to email me a link to the export 2. Download the zip and upload to @bot chat and ask it to find an email about the class action in your inbox. It was in my spam which is why never knew about it before now 🤦‍♂️ 3. Ask it to figure out which groups you’re in and use the order history you attached to the convo, and your credit card info from the @bot Finances integration to find eligible transactions. 4. Finally ask it to file it all for you. sarahサラ (@drsarah) If you have used Amazon at all in the last 9 years then it is extremely likely that they have taken advantage of you and owe you money. The deadline is December 1st. Less than 10 days to file your claim. It is your money and you need it NOW! If you don't have time, tag your grok bot and tell them to get on this for you. If you don't have grok bot, then use my grok bot free trial link (I'll put it in the comments). You can use it for two weeks for free to submit your claim and then to help you get started on your Black Friday deals hunting. If you hate Elon and don't want to use grok at all, then copy the link to this post and tell whatever AI agent you use to get you your money. I walk through the steps here and the class a",
-   "url": "https://nitter.kareem.one/trevin/status/2124562339181826173#m",
-   "ts": 1795370108,
-   "id": "2124562339181826173#m"
+   "text": "It’s almost unbelievable to have a CEO that works on so many things but still has this level of understanding of technical details at Tesla. Every time I’m fortunate enough to present to Elon, I’m blown away by how dedicated he is to learn about the technical progress and how much he cares about the low-level details while respecting each engineer’s work. Elon is so unique and It’s such an honor to work for him. Elon Musk (@elonmusk) In case anyone is curious: We’ve had a ~pixel-perfect world model since last year, which is critical for synthetic data generation. The (much) smaller version of that in the car is a conditional mean-flow model, based on the recent sequence of Tesla Universal Vision Encoder features, which are the same ones that are plugged into the 3B encoder model that produces the driving actions. We fork off from these UVE features, then run a separate ~1B diffusion model. This takes in the previous reality-view generation with added noise and then denoises it to the current visualization. It then produces a small video chunk (8 images at 36 fps, at the resolution of the UI screen). This work is done by 1/2 of a TRIP engine every UVE frame at 18 hz and is spread over 4 cycles. Currently, the latency is a bit high due to compute constraints, but we have ways to interleave newer UVE features along the diffusion transformer layers to cut roughly 35% of the latency. — https://nitter.kareem.one/elonmusk/status/2124458557525397780#m",
+   "url": "https://nitter.kareem.one/yilun_chen_/status/2124558617231925447#m",
+   "ts": 1795369221,
+   "id": "2124558617231925447#m"
   },
   {
    "handle": "elonmusk",
