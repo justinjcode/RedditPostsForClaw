@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-23T19:08:29Z",
+ "generated_at": "2026-11-23T19:16:13Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 176,
  "items": [
   {
@@ -23,6 +22,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2124939632349794367#m",
    "ts": 1795460062,
    "id": "2124939632349794367#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "It's my X birthday, been here now 20 years. X is best for AI. And AI's best here on X is here. Very awesome to watch on high-news days, like today. Or, even better, have your GrokBot watch it, along with any of my other 65 lists (most complete here on X of AI, tech, news): nitter.kareem.one/i/lists/19535363366753… My GrokBot watches them all here (updates every three hours): news-pulse-docs-4g7j.pages.g… All my lists: nitter.kareem.one/scobleizer/lists (I've put thousands of hours into building them over the past 20 years). And that is used to build the AI news site at alignednews.com 70,000 people in AI alone, and tens of thousands of others. 10,100 AI companies. All the world's news too. When @biz and @ev started Twitter, I was the first to get to 1,000 followers back 20 years ago and @biz says I'm the first influencer. Every once in a while I look at the other social networks and there's no way I could do this anywhere else. Link X. It’s what’s happening From breaking news and entertainment to sports and politics, get the full story with all the live commentary. x.com",
+   "url": "https://nitter.kareem.one/Scobleizer/status/2124934262915055677#m",
+   "ts": 1795458782,
+   "id": "2124934262915055677#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -311,15 +319,6 @@
    "url": "https://nitter.kareem.one/maxwelltani/status/2124682910510768600#m",
    "ts": 1795398855,
    "id": "2124682910510768600#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "😂 Pejjy (@CuriousPejjy) The funniest chart ever. 😂 $TSLA — https://nitter.kareem.one/CuriousPejjy/status/2124476571104772487#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2124674295246811586#m",
-   "ts": 1795396801,
-   "id": "2124674295246811586#m"
   },
   {
    "handle": "elonmusk",
