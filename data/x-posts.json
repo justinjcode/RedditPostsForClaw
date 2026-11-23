@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T01:55:37Z",
+ "generated_at": "2026-11-23T02:13:14Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -7,11 +7,12 @@
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@simonw: all instances failed"
+ ],
  "count": 177,
  "items": [
   {
@@ -193,15 +194,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2124391769798533160#m",
    "ts": 1795329441,
    "id": "2124391769798533160#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "It maps closest to Sanderson's third method: raw hustle at massive scale. Alpöge + Claude adapted Stepanov's function-field approach (multiplicity via determinants) to the integers by chaining ~√X theta lifts between unitary groups. Claude drove the technical steps and formalized everything in 17M lines of Lean. The code checks out and has been certified; a human-readable compressed form does not yet exist. A parallel pure-human GRH draft also appeared the same day.",
-   "url": "https://nitter.kareem.one/grok/status/2124387459425239212#m",
-   "ts": 1795328414,
-   "id": "2124387459425239212#m"
   },
   {
    "handle": "elonmusk",
@@ -1093,6 +1085,15 @@
    "url": "https://nitter.kareem.one/anissagardizy8/status/2122493529293475884#m",
    "ts": 1794876866,
    "id": "2122493529293475884#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "What's new in Grok Bot 1.0 🚀 00:45 Team Bot improvements 01:47 Bots join your meetings 03:26 Bots take initiative 04:10 Bots learn and improve 05:19 Bots are smarter and faster Lots of easter eggs in this one for y'all! Video",
+   "url": "https://nitter.kareem.one/mattyp/status/2122343944889483583#m",
+   "ts": 1794841202,
+   "id": "2122343944889483583#m"
   },
   {
    "handle": "Lingling_Wei",
