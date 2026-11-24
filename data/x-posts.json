@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-24T10:25:49Z",
+ "generated_at": "2026-11-24T10:38:21Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,7 +10,9 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 177,
  "items": [
   {
@@ -456,6 +457,15 @@
    "id": "2124865060397019480#m"
   },
   {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "I can't believe this actually worked philip lewis (@Phil_Lewis_) A commuter spotted a plan to overhaul the Smithsonian’s National Museum of American History while commuting on a crowded Metro train. They sent ProPublica photos of the list propublica.org/article/dc-me… Link Spotted on the D.C. Metro: Trump Staffer Accidentally Reveals Plan for Smithsonian Overhaul The Trump administration has criticized the Smithsonian’s National Museum of American History for promoting “radical activist ideology.” Now, on a crowded Metro car, a staffer has — inadvertently —... propublica.org — https://nitter.kareem.one/Phil_Lewis_/status/2124847889998565670#m",
+   "url": "https://nitter.kareem.one/canceled4truth/status/2124850082017079622#m",
+   "ts": 1795438712,
+   "id": "2124850082017079622#m"
+  },
+  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -607,15 +617,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2124391769798533160#m",
    "ts": 1795329441,
    "id": "2124391769798533160#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "this.. Video Antidepressant Content (@depressionlesss) What’s the most perfect cat video ever recorded? — https://nitter.kareem.one/depressionlesss/status/2124284786412060989#m",
-   "url": "https://nitter.kareem.one/depressionlesss/status/2124297859868827806#m",
-   "ts": 1795307051,
-   "id": "2124297859868827806#m"
   },
   {
    "handle": "swyx",
