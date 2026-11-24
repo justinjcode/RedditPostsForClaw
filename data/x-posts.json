@@ -1,20 +1,38 @@
 {
- "generated_at": "2026-11-24T02:25:31Z",
+ "generated_at": "2026-11-24T02:38:57Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed"
+  "@swyx: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Story with @Lingling_Wei wsj.com/world/china/alice-hu… Link Alice Huang Had Ties to China’s Intelligence Network. But Was She Really a Spy? The data-industry executive was in contact with Chinese intelligence during her affair with Jensen Huang. wsj.com",
+   "url": "https://nitter.kareem.one/alexbward/status/2125050605425336715#m",
+   "ts": 1795486520,
+   "id": "2125050605425336715#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "JUST OUT: Alice Huang was in contact with Chinese intelligence while the affair was ongoing, but there was no smoking-gun intelligence proving she had been actively tasked with collecting information on Jensen Huang or passing along national-security secrets, per people familiar.",
+   "url": "https://nitter.kareem.one/alexbward/status/2125050597510660286#m",
+   "ts": 1795486518,
+   "id": "2125050597510660286#m"
+  },
   {
    "handle": "simonw",
    "name": "Simon Willison",
@@ -1229,24 +1247,6 @@
    "url": "https://nitter.kareem.one/emollick/status/2121685924824461739#m",
    "ts": 1794684318,
    "id": "2121685924824461739#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "President Trump will meet with Russian President Vladimir Putin and Chinese leader Xi Jinping in China next week for an unprecedented three-way summit With @marianne_levine wsj.com/world/china/trump-to… Link Trump to Hold Talks With China’s Xi and Russia’s Putin Next Week The unprecedented three-way meeting will be held in China’s tech hub of Shenzhen. wsj.com",
-   "url": "https://nitter.kareem.one/VeraMBergen/status/2121433632875352374#m",
-   "ts": 1794624167,
-   "id": "2121433632875352374#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "Spying is trending. What about your car? I talked to the one and only John Wall, president of QNX, the gold standard company when it comes to software safety. Listen to this week's Driving With Dunne podcast. podcasts.apple.com/us/podcas… Link Driving with Dunne Business Podcast · Updated Weekly · Electric vehicles are the future. But with new technologies comes confusion! What's real? And what is hyperbole? Who are the people to know and what are their... podcasts.apple.com",
-   "url": "https://nitter.kareem.one/dunne_insights/status/2121256756819247260#m",
-   "ts": 1794581996,
-   "id": "2121256756819247260#m"
   },
   {
    "handle": "thsottiaux",
