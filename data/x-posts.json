@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-24T00:44:06Z",
+ "generated_at": "2026-11-24T00:55:27Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed"
+  "@swyx: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -289,6 +289,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "Jensen Huang says he loves working with Elon Musk And he explains why. Musk uses Nvidia's technology three ways at once. Training his own AI models. Deploying them, like Grok, where demand is skyrocketing. And renting it out. Very few companies do all three. Musk also loves the place where computing meets the physical build-out. Jensen: \"Nobody knows more about energy than he does.\" So they went after a new market together. Data centers in space. Their two engineering teams were working super closely to create a new type of server. A new architecture that might work great in space, and on Earth. Video",
+   "url": "https://nitter.kareem.one/NarutoNolimits/status/2124877757817704933#m",
+   "ts": 1795445310,
+   "id": "2124877757817704933#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "RT by @elonmusk: Image",
    "url": "https://nitter.kareem.one/willdepue/status/2124872898964050032#m",
    "ts": 1795444151,
@@ -302,15 +311,6 @@
    "url": "https://nitter.kareem.one/WhiteHouse/status/2124872428723552741#m",
    "ts": 1795444039,
    "id": "2124872428723552741#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Every person I’ve encountered at SpaceX, X, and xAI has cared deeply about products that are safe for users, protect children, and ultimately improve the human experience. Many are parents dedicating their lives to unlocking the next frontier via superintelligence, understanding the need to get it right and keep everyone safe. These are the people whom I trust to get it right, because they feel an immense responsibility to build not just for you, but for their own children and families. Safety (@Safety) Protecting children is non-negotiable. Sexual content involving minors, whether real or AI-generated, is abhorrent. It has no place on X or in Grok, and neither do explicit images of real people made without their consent. The people who tried to use Grok Imagine to generate this material did so by deliberately violating our Terms of Service and working aggressively to circumvent our safeguards. When some of these bad actors found ways to misuse Grok Imagine earlier this year, we acted promptly to tighten its protections, which are designed to refuse any request to generate explicit images of minors or real people. To stay ahead of this disgusting and indefensible conduct, we keep testing and adjusting those protections as these abusers change tactics. We also implement sophisticated classifiers that screen every prompt before an image is generated and check every output after. When someone tries to break our safeguards and generate this content, we take appropriate measures, ",
-   "url": "https://nitter.kareem.one/KatieMiller/status/2124867132554875384#m",
-   "ts": 1795442777,
-   "id": "2124867132554875384#m"
   },
   {
    "handle": "TheRundownAI",
