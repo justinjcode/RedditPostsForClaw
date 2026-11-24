@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-24T05:46:04Z",
+ "generated_at": "2026-11-24T05:54:06Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "The New York Times’ reporting and guest essays on Jensen Huang has provoked perhaps the strongest backlash against the newspaper I’ve ever seen among China’s so-called liberals, who have traditionally held the NYT in high regard. Quite striking.",
+   "url": "https://nitter.kareem.one/ZichenWanghere/status/2125102043715281139#m",
+   "ts": 1795498784,
+   "id": "2125102043715281139#m"
+  },
   {
    "handle": "simonw",
    "name": "Simon Willison",
@@ -23,6 +31,15 @@
    "url": "https://nitter.kareem.one/simonw/status/2125100206169677915#m",
    "ts": 1795498346,
    "id": "2125100206169677915#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "Bold move before Thanksgiving, turkeys CBS News (@CBSNews) A woman was chased by several turkeys in Newton, Massachusetts, on Saturday, before taking refuge in a car. Wild turkeys are common in the state, and officials have previously warned residents about encounters with the birds. Video — https://nitter.kareem.one/CBSNews/status/2124981384435601853#m",
+   "url": "https://nitter.kareem.one/austinramzy/status/2125071640895865264#m",
+   "ts": 1795491535,
+   "id": "2125071640895865264#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -664,15 +681,6 @@
    "id": "2123954717177090097#m"
   },
   {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "早上好呀，宝子们🌷 世界不能没有毛孩子❤️🐱🐶 毛绒绒🐾，暖暖的🧣 Video xiaoxiao回来了 (@liangxiaoxiao72) 原来亡羊补牢这个成语，出自我们河南信阳呀🤭 Video — https://nitter.kareem.one/liangxiaoxiao72/status/2118583033880068544#m",
-   "url": "https://nitter.kareem.one/liangxiaoxiao72/status/2123926277128102289#m",
-   "ts": 1795218459,
-   "id": "2123926277128102289#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -1301,15 +1309,6 @@
    "url": "https://nitter.kareem.one/bcherny/status/2119873095129550880#m",
    "ts": 1794252105,
    "id": "2119873095129550880#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "好想养一只这么粘人的咪😄😄大胖脸 Video",
-   "url": "https://nitter.kareem.one/ilovecatlovecar/status/2119085617732870362#m",
-   "ts": 1794064356,
-   "id": "2119085617732870362#m"
   },
   {
    "handle": "bcherny",
