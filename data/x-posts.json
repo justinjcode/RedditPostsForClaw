@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-11-24T04:48:37Z",
+ "generated_at": "2026-11-24T04:55:42Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
   {
@@ -140,6 +139,15 @@
    "url": "https://nitter.kareem.one/cb_doge/status/2124945497152794908#m",
    "ts": 1795461460,
    "id": "2124945497152794908#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "Read Afra's trilogy if you haven't yet. afra wang (@afrazhaowang) so glad to join @TheStalwart and @tracyalloway on ODD LOTS Podcast to talk about some questions get lost in the discourse of US–China AI race—— what does AI look like to people in china trying to figure out where they fit in? how much of the enthusiasm comes from curiosity, and how much from the fear of being left behind? we talked about three places my reporting took me: a vibe-coding town for @NewYorker , china’s booming (and scammy) market for AI classes for @NYMag , and the people churning out AI video slop, led by the competitive local goverments, on an industrial scale for @bigthink — https://nitter.kareem.one/afrazhaowang/status/2124941625550139645#m",
+   "url": "https://nitter.kareem.one/TheStalwart/status/2124944842836881915#m",
+   "ts": 1795461304,
+   "id": "2124944842836881915#m"
   },
   {
    "handle": "elonmusk",
@@ -788,15 +796,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2123740711820386506#m",
    "ts": 1795174217,
    "id": "2123740711820386506#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "The distinction between a state visit and a working visit is beside the point: Xi explicitly framed his airport welcome as a reciprocal gesture. Pavel Slunkin (@PavelSlunkin) A fair point by Gerard. This makes Xi's decision to meet Trump at the airport an even stronger political gesture. — https://nitter.kareem.one/PavelSlunkin/status/2123716532983177424#m",
-   "url": "https://nitter.kareem.one/Igor_Denisov/status/2123730853612163308#m",
-   "ts": 1795171867,
-   "id": "2123730853612163308#m"
   },
   {
    "handle": "swyx",
