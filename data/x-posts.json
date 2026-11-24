@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-24T16:10:51Z",
+ "generated_at": "2026-11-24T16:23:30Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -11,7 +11,7 @@
   "thsottiaux"
  ],
  "errors": [
-  "@TheRundownAI: all instances failed"
+  "@bcherny: all instances failed"
  ],
  "count": 178,
  "items": [
@@ -340,6 +340,15 @@
    "id": "2124934262915055677#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Andrej Karpathy on Elon Musk: \"Elon is a very efficient warrior in the fight against entropy in organizations.\" Video",
+   "url": "https://nitter.kareem.one/teslaownersSV/status/2124928801553428777#m",
+   "ts": 1795457480,
+   "id": "2124928801553428777#m"
+  },
+  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -356,15 +365,6 @@
    "url": "https://nitter.kareem.one/AaronBack/status/2124918735219650678#m",
    "ts": 1795455080,
    "id": "2124918735219650678#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "True Maye Musk (@mayemusk) The first room at the front door was Elon‘s. There was a mattress on the floor. When the young people arrived and were dancing upstairs, I thought the floor was going to collapse so I moved the mattress to the wall. I assumed just the middle would collapse. I put the door money in a shoebox. When I saw it was quite a lot, I fetched a kitchen knife in case someone tried to take it away from me. I was also the coat check girl. When the police arrived after midnight due to complaints about the noise, I answered the door in my pajamas. That night I slept on the mattress on the floor. It was still better than sleeping on the ground in the Kalahari desert with hyenas, lions, snakes or scorpions visiting us. Memories from my childhood made me appreciate a mattress. — https://nitter.kareem.one/mayemusk/status/2124918121848840384#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2124918561617694750#m",
-   "ts": 1795455038,
-   "id": "2124918561617694750#m"
   },
   {
    "handle": "swyx",
