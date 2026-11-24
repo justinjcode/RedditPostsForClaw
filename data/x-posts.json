@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-24T14:46:43Z",
+ "generated_at": "2026-11-24T14:54:32Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
   {
@@ -682,15 +681,6 @@
    "id": "2124217876777464269#m"
   },
   {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "So great to finally have Kyle on Odd Lots to talk about the current state of Chinese tech, and whether this is the moment for Huawei to do in chips what it did a generation ago in networking gear. Kyle Chan (@kyleichan) I loved being on Odd Lots, my favorite supply chain and industrial policy podcast. Thanks for having me on @TheStalwart @tracyalloway @kevlloydlozano ! podcasts.apple.com/us/podcas… Link How AI Is Forcing China to Reshape Industrial Policy Podcast Episode · Odd Lots · November 21 · 46m podcasts.apple.com — https://nitter.kareem.one/kyleichan/status/2124175217824252221#m",
-   "url": "https://nitter.kareem.one/TheStalwart/status/2124176582767992985#m",
-   "ts": 1795278137,
-   "id": "2124176582767992985#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -698,6 +688,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2124147427313861009#m",
    "ts": 1795271186,
    "id": "2124147427313861009#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "Local rules challenge Chinese ride-hailing firms abroad, said Chao Sun of Sunshine Mobility. Germany requires private-hire cars to return to base between bookings; in the UK, only licensed black cabs can take street hails. Platforms must adapt dispatch and fleet operations.",
+   "url": "https://nitter.kareem.one/CCG_org/status/2124043251544215988#m",
+   "ts": 1795246348,
+   "id": "2124043251544215988#m"
   },
   {
    "handle": "thsottiaux",
