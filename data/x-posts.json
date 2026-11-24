@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-24T13:57:25Z",
+ "generated_at": "2026-11-24T14:09:16Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
   {
@@ -104,6 +103,15 @@
    "url": "https://nitter.kareem.one/alexbward/status/2125050605425336715#m",
    "ts": 1795486520,
    "id": "2125050605425336715#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Our dive into an extraordinary intervention by a president to save an AI CEO, complete with lots of details and a Trump interview. FREE LINK: wsj.com/business/nvidia-jens… Link The Frantic White House Push to Get Jensen Huang Back Trump made clear he wanted the Nvidia CEO reinstated. On Monday, he touted the decision, saying the market proved it was right. wsj.com",
+   "url": "https://nitter.kareem.one/jdawsey1/status/2125050600987754997#m",
+   "ts": 1795486519,
+   "id": "2125050600987754997#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -1220,15 +1228,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2122500307557265651#m",
    "ts": 1794878482,
    "id": "2122500307557265651#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "Many people are just starting to learn how Jensen Huang ruled Nvidia—from his gnarly eviscerations of employees to the rising power of his “royal family.” We take you inside the firm’s culture. A must-read with @HannaCritch @ByKLong @RWhelanWSJ for @WSJ wsj.com/business/put-downs-p…",
-   "url": "https://nitter.kareem.one/anissagardizy8/status/2122493529293475884#m",
-   "ts": 1794876866,
-   "id": "2122493529293475884#m"
   },
   {
    "handle": "thsottiaux",
