@@ -1,19 +1,18 @@
 {
- "generated_at": "2026-11-24T16:33:56Z",
+ "generated_at": "2026-11-24T16:39:51Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed"
- ],
- "count": 178,
+ "errors": [],
+ "count": 179,
  "items": [
   {
    "handle": "elonmusk",
@@ -32,6 +31,15 @@
    "url": "https://nitter.kareem.one/SpaceX/status/2125257116449648858#m",
    "ts": 1795535756,
    "id": "2125257116449648858#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "BYD travaille avec la France à une implantation industrielle en Moselle ! Une conséquence directe de notre politique économique et de notre action européenne sur l’automobile pour accélérer l’implantation des constructeurs sur le sol européen, annoncée au Mondial de l’Auto en octobre. Rendez-vous le 18 janvier à Choose France pour les annonces détaillées, et tant d’autres ! Jusqu’au bout.",
+   "url": "https://nitter.kareem.one/EmmanuelMacron/status/2125251975277146115#m",
+   "ts": 1795534530,
+   "id": "2125251975277146115#m"
   },
   {
    "handle": "TheRundownAI",
@@ -68,6 +76,15 @@
    "url": "https://nitter.kareem.one/SpaceX/status/2125247855409692869#m",
    "ts": 1795533548,
    "id": "2125247855409692869#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "just added my work experience i love my very professional job Benji Taylor (@benjitaylor) brb, just adding work experience to my 𝕏 profile Video — https://nitter.kareem.one/benjitaylor/status/2125049706644705283#m",
+   "url": "https://nitter.kareem.one/IterIntellectus/status/2125246814580592758#m",
+   "ts": 1795533300,
+   "id": "2125246814580592758#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -493,9 +510,9 @@
    "id": "2124866316293013809#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
    "text": "NVIDIA Board reinstates Jensen Huang as President, CEO and Board Director. Read the release: nvidianews.nvidia.com/news/n… Link NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director NVIDIA (NASDAQ: NVDA) today announced that effective immediately, Jensen Huang has been reinstated as President and Chief Executive Officer and as a member of the Board. nvidianews.nvidia.com",
    "url": "https://nitter.kareem.one/nvidianewsroom/status/2124865060397019480#m",
    "ts": 1795442283,
@@ -662,15 +679,6 @@
    "url": "https://nitter.kareem.one/clairevo/status/2124539877928919335#m",
    "ts": 1795364753,
    "id": "2124539877928919335#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "AAJA is reaching out directly to the editorial leadership at The Economist and the New York Post to raise our concerns about this coverage. aaja.org/2026/11/11/aaja-cal… Link AAJA calls for responsible language in coverage of China and national security: Asian names are not... The Asian American Journalists Association urges news organizations to exercise care and responsibility in their language and framing when reporting on China, national security and people of Chinese... aaja.org",
-   "url": "https://nitter.kareem.one/ZichenWanghere/status/2124510839868928391#m",
-   "ts": 1795357830,
-   "id": "2124510839868928391#m"
   },
   {
    "handle": "swyx",
