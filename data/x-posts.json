@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-24T10:21:07Z",
+ "generated_at": "2026-11-24T10:25:49Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "EU launched official financial services dialogue with HK in Brussels on Fri In July 2020, FAC conclusions effectively banned \"launching any new negotiations with Hong Kong\" for EU & members Is dialogue discussing \"market access issues for financial institutions\" a negotiation? European Union Office to Hong Kong and Macao (@EUinHKandMO) 🇪🇺 and 🇭🇰 hold the first dedicated 𝗙𝗶𝗻𝗮𝗻𝗰𝗶𝗮𝗹 𝗦𝗲𝗿𝘃𝗶𝗰𝗲 𝗗𝗶𝗮𝗹𝗼𝗴𝘂𝗲! The constructive exchange between EU and Hong Kong financial authorities in Brussels on 20 November, covered a broad range of financial regulatory and market developments. (1/2) — https://nitter.kareem.one/EUinHKandMO/status/2125036835080700175#m",
+   "url": "https://nitter.kareem.one/fbermingham/status/2125159349072838872#m",
+   "ts": 1795512447,
+   "id": "2125159349072838872#m"
+  },
   {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
@@ -68,6 +76,15 @@
    "url": "https://nitter.kareem.one/alexbward/status/2125050597510660286#m",
    "ts": 1795486518,
    "id": "2125050597510660286#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "一个月没回家，进门先被它用那双大眼睛审了半天 Video",
+   "url": "https://nitter.kareem.one/lianshangbiji/status/2125035135712248208#m",
+   "ts": 1795482832,
+   "id": "2125035135712248208#m"
   },
   {
    "handle": "simonw",
@@ -637,15 +654,6 @@
    "id": "2124176582767992985#m"
   },
   {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "前面我还在想，好凶，猫真的怎么对它好都没用，没想到后面是这样的，好像看了一个连续剧 Video",
-   "url": "https://nitter.kareem.one/maxiaohui66/status/2124161698487804001#m",
-   "ts": 1795274588,
-   "id": "2124161698487804001#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -671,15 +679,6 @@
    "url": "https://nitter.kareem.one/ReactMiamiConf/status/2123970859362611496#m",
    "ts": 1795229088,
    "id": "2123970859362611496#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "The mood in China's AI industry is not great. A recent article by Bob Chen, a long-time contributor to Baiguan, has been privately circulated on the Chinese internet, even though it has been taken down by censors after it went viral. Bob makes six points worth thinking about. 1. Chinese labs used to have a fallback when they couldn’t buy Nvidia chips. They could rent time on the same chips in Southeast Asia. Now that avenue is closing. Switching to Huawei brings up the next question. Can Chinese chipmakers get the equipment to make enough of them? 2. Distillation let Chinese labs learn from the answers of models that US labs had already spent billions training. As OpenAI and Anthropic make that harder, Chinese labs have to collect more of their own data and pay for more experiments, including the ones that go nowhere. Alibaba can fund that from other businesses. An independent lab has to go back to investors, who are already losing faith 3. A lot of money has gone into Chinese startups building specialized “robot brains.” What happens to those valuations if a general-purpose model learns to do the job? In one test, a system using GPT already beat several specialist models at grasping and moving objects. China could build excellent robots while much of the value goes to whoever supplies the intelligence. 4. Chinese AI is creating far less revenue, on a rapidly rising cost base. Epoch AI puts annualized AI revenue for six leading Chinese companies combined at about $11 bn. Open",
-   "url": "https://nitter.kareem.one/robert_baiguan/status/2123954717177090097#m",
-   "ts": 1795225240,
-   "id": "2123954717177090097#m"
   },
   {
    "handle": "swyx",
