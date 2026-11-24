@@ -1,17 +1,18 @@
 {
- "generated_at": "2026-11-23T23:54:25Z",
+ "generated_at": "2026-11-24T00:19:20Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
-  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@simonw: all instances failed",
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 177,
  "items": [
   {
@@ -49,6 +50,24 @@
    "url": "https://nitter.kareem.one/simonw/status/2124988263857635572#m",
    "ts": 1795471657,
    "id": "2124988263857635572#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "My favorite product we’ve ever made. The dream from V1 was a Starlink smaller and thinner than a tablet that works for hours and delivers incredible performance. So proud of the team that made it real. Starlink (@Starlink) Getting online with Mini 2 is simple. Press the button and you're connected in 60 seconds, with a rechargeable battery that lasts up to 4.5 hours, or plug in with USB-C. Preorders are open by invitation in the US. Get notified when it's available → starlink.com/mini-2 Video — https://nitter.kareem.one/Starlink/status/2124970272327602448#m",
+   "url": "https://nitter.kareem.one/johnfederspiel/status/2124985724210712664#m",
+   "ts": 1795471051,
+   "id": "2124985724210712664#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Getting online with Mini 2 is simple. Press the button and you're connected in 60 seconds, with a rechargeable battery that lasts up to 4.5 hours, or plug in with USB-C. Preorders are open by invitation in the US. Get notified when it's available → starlink.com/mini-2 Video",
+   "url": "https://nitter.kareem.one/Starlink/status/2124970272327602448#m",
+   "ts": 1795467367,
+   "id": "2124970272327602448#m"
   },
   {
    "handle": "bcherny",
@@ -261,15 +280,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Grok Bot can find you Black Friday deals Nima Owji (@nima_owji) I created a Grok Bot template called “DEAL HUNTER” for BLACK FRIDAY! It checks the internet for the best deals, every couple of hours, and notifies you when it finds something! It takes a couple of seconds to set it up. Add it from here: grok-bot.directory/bots/deal… — https://nitter.kareem.one/nima_owji/status/2124856242027831663#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2124877252412281142#m",
-   "ts": 1795445189,
-   "id": "2124877252412281142#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "RT by @elonmusk: Image",
    "url": "https://nitter.kareem.one/willdepue/status/2124872898964050032#m",
    "ts": 1795444151,
@@ -310,15 +320,6 @@
    "url": "https://nitter.kareem.one/nvidianewsroom/status/2124865060397019480#m",
    "ts": 1795442283,
    "id": "2124865060397019480#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Gemini 4 Neon is indeed crazy good. Cut Omarchy boot time in half!! Big optimizations on install as well. It's a quiet cat, though. Just goes off with very little output while it's working, and then, BAM, here's everything and it's perfect. Love it.",
-   "url": "https://nitter.kareem.one/dhh/status/2124860839572488538#m",
-   "ts": 1795441276,
-   "id": "2124860839572488538#m"
   },
   {
    "handle": "elonmusk",
