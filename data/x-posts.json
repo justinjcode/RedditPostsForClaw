@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-24T15:19:42Z",
+ "generated_at": "2026-11-24T15:27:47Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
- "count": 177,
+ "errors": [],
+ "count": 178,
  "items": [
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "The spy-or-not-a-spy question misses a broader point. The greater challenge is that China’s intelligence services have grown so expansive and opportunistic under Xi that the line between a recruited agent and an unwitting asset has blurred—making it harder to assess the damage and easier to dismiss the threat. With @alexbward wsj.com/world/china/alice-hu… Link Alice Huang Had Ties to China’s Intelligence Network. But Was She Really a Spy? The data-industry executive was in contact with Chinese intelligence during her affair with Jensen Huang. wsj.com",
+   "url": "https://nitter.kareem.one/Lingling_Wei/status/2125246128903877046#m",
+   "ts": 1795533136,
+   "id": "2125246128903877046#m"
+  },
   {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
