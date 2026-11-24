@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T11:08:16Z",
+ "generated_at": "2026-11-24T11:19:19Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -429,15 +429,6 @@
    "id": "2124877757817704933#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "“The NVIDIA Board of Directors has made the correct and proper decision to return Jensen Huang to the position of CEO… Congratulations to Jensen, the NVIDIA Board, to the People of the United States — and, indeed, the World!” - President DONALD J. TRUMP",
-   "url": "https://nitter.kareem.one/WhiteHouse/status/2124872428723552741#m",
-   "ts": 1795444039,
-   "id": "2124872428723552741#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -598,6 +589,15 @@
    "url": "https://nitter.kareem.one/AbdulElSayed/status/2124565526265352625#m",
    "ts": 1795370868,
    "id": "2124565526265352625#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "current fave models 0 jev 1 gemini neon 2 opus 5.5 3 fable 5.2 current fave agent 0 grokbot 1 claude projects (> duet) 3 muse / devin (depends on use case) current fave coding harness 1 claude code 2 pi",
+   "url": "https://nitter.kareem.one/clairevo/status/2124539877928919335#m",
+   "ts": 1795364753,
+   "id": "2124539877928919335#m"
   },
   {
    "handle": "ZichenWanghere",
