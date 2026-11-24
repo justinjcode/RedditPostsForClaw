@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-24T03:56:14Z",
+ "generated_at": "2026-11-24T04:10:08Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +11,7 @@
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 177,
  "items": [
@@ -131,6 +131,15 @@
    "url": "https://nitter.kareem.one/bcherny/status/2124961485801836573#m",
    "ts": 1795465272,
    "id": "2124961485801836573#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "Does not seem like Trump is going to let Vance distance on this one, the way he did on Iran. Inside Politics (@InsidePolitics) . @ShelbyTalcott says JD Vance was deeply involved in getting Jensen Huang reinstated: \"We're told he worked hand-in-hand with the president all weekend, using his sort of long-storied relationships in Silicon Valley, in the business community, to sort of reassure the board.\" Video — https://nitter.kareem.one/InsidePolitics/status/2124927694190076322#m",
+   "url": "https://nitter.kareem.one/semaforben/status/2124957292168675432#m",
+   "ts": 1795464272,
+   "id": "2124957292168675432#m"
   },
   {
    "handle": "elonmusk",
@@ -617,15 +626,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2124147427313861009#m",
    "ts": 1795271186,
    "id": "2124147427313861009#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Wolf Dietrich Heim, Austrian Ambassador to China, provided no information on the Austrian and German proposal to force TikTok to sell its European business at an event at the Center for China and Globalization @CCG_org just now.",
-   "url": "https://nitter.kareem.one/ZichenWanghere/status/2124004082855948343#m",
-   "ts": 1795237010,
-   "id": "2124004082855948343#m"
   },
   {
    "handle": "thsottiaux",
