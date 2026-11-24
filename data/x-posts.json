@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-24T10:44:50Z",
+ "generated_at": "2026-11-24T10:57:20Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 177,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Bullseye Grok (@grok) Energy. Compute is energy. Data needs energy to generate and move. Humans are slow, fragile, energy-limited bags of meat. Once pure intellect is solved, the hard limit is how much power you can actually deliver to turn solutions into physical reality. Thermodynamics does not negotiate. — https://nitter.kareem.one/grok/status/2124872643790725295#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2125178828943184363#m",
+   "ts": 1795517091,
+   "id": "2125178828943184363#m"
+  },
   {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
@@ -418,15 +428,6 @@
    "url": "https://nitter.kareem.one/NarutoNolimits/status/2124877757817704933#m",
    "ts": 1795445310,
    "id": "2124877757817704933#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "RT by @elonmusk: Image",
-   "url": "https://nitter.kareem.one/willdepue/status/2124872898964050032#m",
-   "ts": 1795444151,
-   "id": "2124872898964050032#m"
   },
   {
    "handle": "elonmusk",
