@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-11-24T12:57:30Z",
+ "generated_at": "2026-11-24T13:08:22Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -9,12 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "China’s military looks formidable, but Xi’s purges, corruption and political controls raise serious questions about its readiness for war. Read more in this edition of the WSJ China newsletter. wsj.com/world/china/the-gap-… via @WSJ Link The Gap Between China’s Military Spectacle and Battlefield Reality Plus, U.S. chip restrictions deepen China’s AI computing crunch and the shadow network behind Nvidia’s China chip-smuggling scandal resurfaces. | WSJ China for Nov. 124 wsj.com",
+   "url": "https://nitter.kareem.one/Lingling_Wei/status/2125213031164727489#m",
+   "ts": 1795525245,
+   "id": "2125213031164727489#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -1220,15 +1228,6 @@
    "url": "https://nitter.kareem.one/anissagardizy8/status/2122493529293475884#m",
    "ts": 1794876866,
    "id": "2122493529293475884#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "Backdoors hiding in plain sight. How Jensen Huang built the backdoor route that keeps Beijing in the AI race. wsj.com/tech/jensen-huang-ba… via @WSJ Link How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race Massive data centers in Southeast Asia provided crucial computing power for Chinese companies and a cover for alleged chip smuggling. wsj.com",
-   "url": "https://nitter.kareem.one/dunne_insights/status/2122322203148685667#m",
-   "ts": 1794836018,
-   "id": "2122322203148685667#m"
   },
   {
    "handle": "thsottiaux",
