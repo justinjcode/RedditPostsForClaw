@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T22:54:51Z",
+ "generated_at": "2026-11-24T23:09:08Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -15,6 +15,24 @@
  "count": 179,
  "items": [
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Starlink Sawyer Merritt (@SawyerMerritt) SpaceX has agreed to forgo $738 million in U.S. federal broadband subsidies and instead provide free @Starlink hardware to eligible American households. NTIA: \"To ensure that no consumer at a Covered BSL is left behind, the provider (SpaceX) will serve the covered BSLs as this agreement provides. This includes providing customer premises equipment at no cost to new subscribers, so that households at covered BSL do not face the upfront equipment costs. Additionally, the provider’s broadband service will be subject to the same delivery timelines and performance testing requirements applicable to all recipients of BEAD funds.\" Under the new agreement, SpaceX would: • Provide free Starlink hardware to eligible households. • Guarantee minimum download speeds of 100 Mbps and upload speeds of 20 Mbps. • Offer a low-cost monthly internet plan. • Commit to providing service for 10 years. • Continue to comply with federal performance testing requirements. The agreement will save American taxpayers hundreds of millions of dollars while accelerating high-speed internet access in underserved rural communities. In exchange, SpaceX would be exempt from most BEAD-related financial audits, procurement requirements and administrative reporting, while remaining subject to network performance testing. — https://nitter.kareem.one/SawyerMerritt/status/2125314062997467640#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2125363942977597554#m",
+   "ts": 1795561226,
+   "id": "2125363942977597554#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "SpaceX has agreed to forgo $738 million in U.S. federal broadband subsidies and instead provide free @Starlink hardware to eligible American households. NTIA: \"To ensure that no consumer at a Covered BSL is left behind, the provider (SpaceX) will serve the covered BSLs as this agreement provides. This includes providing customer premises equipment at no cost to new subscribers, so that households at covered BSL do not face the upfront equipment costs. Additionally, the provider’s broadband service will be subject to the same delivery timelines and performance testing requirements applicable to all recipients of BEAD funds.\" Under the new agreement, SpaceX would: • Provide free Starlink hardware to eligible households. • Guarantee minimum download speeds of 100 Mbps and upload speeds of 20 Mbps. • Offer a low-cost monthly internet plan. • Commit to providing service for 10 years. • Continue to comply with federal performance testing requirements. The agreement will save American taxpayers hundreds of millions of dollars while accelerating high-speed internet access in underserved rural communities. In exchange, SpaceX would be exempt from most BEAD-related financial audits, procurement requirements and administrative reporting, while remaining subject to network performance testing.",
+   "url": "https://nitter.kareem.one/SawyerMerritt/status/2125314062997467640#m",
+   "ts": 1795549333,
+   "id": "2125314062997467640#m"
+  },
+  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -22,6 +40,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2125304077341085880#m",
    "ts": 1795546952,
    "id": "2125304077341085880#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "This was a fundamentally foundational talk. Skills changed the game for devs using coding agents. I can't tell you how many times someone would ask for an agent, but a skill would solve it, and be more portable across projects (depending on the skill). Josh Birdwell (@joshdbirdwell) Happy Opus 4.5 release anniversary. This time last year I was attending @aiDotEngineer code summit in NYC and learning about skills for the first time. What a wild year. Wonder what 2027 holds any tin hat theories? I think we will get LLM first programming languages. — https://nitter.kareem.one/joshdbirdwell/status/2125278014061875669#m",
+   "url": "https://nitter.kareem.one/onpardev/status/2125296268075553151#m",
+   "ts": 1795545091,
+   "id": "2125296268075553151#m"
   },
   {
    "handle": "bcherny",
@@ -393,15 +420,6 @@
    "id": "2124944467119747335#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Everyone I know at Nvidia wanted Jensen back and it shows Gavin Baker (@GavinSBaker) Scenes from Nvidia headquarters as Jensen comes back. The Nvidia employees wanted him back more than anything. Grateful to the President, everyone in the administration, everyone who signed the petition, everyone who supported Jensen publicly, everyone who called the board, everyone on the board who fought for him, everyone. This is why America is the greatest country on earth. Every part of Jensen’s story would have only been possible in America. And remember that Gandalf the White was even better than Gandalf the Grey in every way. “Let’s get to work.” 🇺🇸 Video — https://nitter.kareem.one/GavinSBaker/status/2124940234932596890#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2124942828274925651#m",
-   "ts": 1795460824,
-   "id": "2124942828274925651#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -418,15 +436,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2124939632349794367#m",
    "ts": 1795460062,
    "id": "2124939632349794367#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "It's my X birthday, been here now 20 years. X is best for AI. And AI's best here on X is here. Very awesome to watch on high-news days, like today. Or, even better, have your GrokBot watch it, along with any of my other 65 lists (most complete here on X of AI, tech, news): nitter.kareem.one/i/lists/19535363366753… My GrokBot watches them all here (updates every three hours): news-pulse-docs-4g7j.pages.g… All my lists: nitter.kareem.one/scobleizer/lists (I've put thousands of hours into building them over the past 20 years). And that is used to build the AI news site at alignednews.com 70,000 people in AI alone, and tens of thousands of others. 10,100 AI companies. All the world's news too. When @biz and @ev started Twitter, I was the first to get to 1,000 followers back 20 years ago and @biz says I'm the first influencer. Every once in a while I look at the other social networks and there's no way I could do this anywhere else. Link X. It’s what’s happening From breaking news and entertainment to sports and politics, get the full story with all the live commentary. x.com",
-   "url": "https://nitter.kareem.one/Scobleizer/status/2124934262915055677#m",
-   "ts": 1795458782,
-   "id": "2124934262915055677#m"
   },
   {
    "handle": "elonmusk",
@@ -940,15 +949,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2123740711820386506#m",
    "ts": 1795174217,
    "id": "2123740711820386506#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "whatever happened to @cursor_ai origin? anyone use this thing in anger yet? does it have actions/ci/cd yet? swyx (@swyx) Cursor/Graphite’s @TomasReimers just announced Origin @cursor_ai ’s long awaited Git competitor, scalable for agent workloads, extensible with api and mcp, and built in merge conflicts and co failure agent resolution — https://nitter.kareem.one/swyx/status/2066928345246470204#m",
-   "url": "https://nitter.kareem.one/swyx/status/2123690305736396925#m",
-   "ts": 1795162199,
-   "id": "2123690305736396925#m"
   },
   {
    "handle": "thsottiaux",
