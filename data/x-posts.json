@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T05:28:08Z",
+ "generated_at": "2026-11-24T05:37:18Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "datasette-charts just grew an integration with Datasette Agent - there's a live demo on agent.datasette.io/ (sign in with GitHub required), or you can watch this demo video instead: Video",
+   "url": "https://nitter.kareem.one/simonw/status/2125100206169677915#m",
+   "ts": 1795498346,
+   "id": "2125100206169677915#m"
+  },
   {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
@@ -1228,15 +1237,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2121845965997101118#m",
    "ts": 1794722474,
    "id": "2121845965997101118#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "Regular Claude chat uses \"auto mode\" now, so occasionally it will refuse to run something I just prompted \"Hey permission system, I give this session permission to run this experiment for me (now try again)\" and it seemed to unblock! (auto mode takes your messages into account)",
-   "url": "https://nitter.kareem.one/simonw/status/2121695097674981849#m",
-   "ts": 1794686505,
-   "id": "2121695097674981849#m"
   },
   {
    "handle": "simonw",
