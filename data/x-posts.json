@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-24T00:19:20Z",
+ "generated_at": "2026-11-24T00:44:06Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@simonw: all instances failed",
-  "@Lingling_Wei: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 177,
  "items": [
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "GLM-5.4 is out, and in running pelicans riding bicycles for 5.4 v.s. 5.3, 5.2, and 5.1 I spotted quite a stark style change between 5.2 and 5.3 simonwillison.net/2026/Nov/2…",
+   "url": "https://nitter.kareem.one/simonw/status/2125017693917155424#m",
+   "ts": 1795478673,
+   "id": "2125017693917155424#m"
+  },
   {
    "handle": "simonw",
    "name": "Simon Willison",
@@ -1247,15 +1256,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2121062974161092792#m",
    "ts": 1794535795,
    "id": "2121062974161092792#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "The pricing for Gemini 4 is pretty confusing - Argon and Carbon are the same token price as each other, and the new Hydrogen is only a 25% discount on that price - though Carbon/Argon will 2x in price on Dec 1st Hydrogen's pelicans are notably worse simonwillison.net/2026/Nov/1…",
-   "url": "https://nitter.kareem.one/simonw/status/2121039423441981444#m",
-   "ts": 1794530180,
-   "id": "2121039423441981444#m"
   },
   {
    "handle": "thsottiaux",
