@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-24T03:41:38Z",
+ "generated_at": "2026-11-24T03:47:38Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "the year is not over. anthropic is still clearly working on P != NP Artificial Analysis (@ArtificialAnlys) Millennium Prize Problems: humans and two labs tied with a score of one ➤ Human: Grigori Perelman proved the Poincaré conjecture in 2003, the only solution officially recognized so far. He turned down the prize ➤ OpenAI: claimed a solution to the Navier-Stokes problem in September, using an unreleased internal model ➤ Anthropic: Levent Alpöge posted a claimed proof of the Riemann hypothesis today, found working with Claude ➤ Still open: P vs NP, the Hodge conjecture, Yang-Mills existence and mass gap, and the Birch and Swinnerton-Dyer conjecture Both AI results are still awaiting independent verification, so scores are provisional. Congratulations to @alpoge and @AnthropicAI on the result! 🧵 — https://nitter.kareem.one/ArtificialAnlys/status/2123865423364161861#m",
+   "url": "https://nitter.kareem.one/swyx/status/2125070165306167497#m",
+   "ts": 1795491183,
+   "id": "2125070165306167497#m"
+  },
   {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
@@ -203,6 +211,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2124918561617694750#m",
    "ts": 1795455038,
    "id": "2124918561617694750#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Phonic 1.1 (High) is the new #1 on the Artificial Analysis Speech to Speech Index at 89.1, taking the top spot from Phonic's own Phonic 1 (87.1), released less than a month ago Congratulations to @phonic_co on the release! 🧵",
+   "url": "https://nitter.kareem.one/ArtificialAnlys/status/2124918494110298127#m",
+   "ts": 1795455022,
+   "id": "2124918494110298127#m"
   },
   {
    "handle": "elonmusk",
@@ -799,15 +816,6 @@
    "id": "2123690305736396925#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "you cant be serious",
-   "url": "https://nitter.kareem.one/swyx/status/2123659761887625602#m",
-   "ts": 1795154917,
-   "id": "2123659761887625602#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -923,15 +931,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2123438811627552983#m",
    "ts": 1795102238,
    "id": "2123438811627552983#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "I declare War on Long Standing Access (how to build a secure software factory as presented @aiDotEngineer CODE) Video",
-   "url": "https://nitter.kareem.one/vtahowe/status/2123432897441137120#m",
-   "ts": 1795100828,
-   "id": "2123432897441137120#m"
   },
   {
    "handle": "TheRundownAI",
