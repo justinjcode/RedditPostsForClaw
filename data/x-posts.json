@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T00:55:27Z",
+ "generated_at": "2026-11-24T01:08:03Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -8,11 +8,10 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
   {
@@ -82,7 +81,7 @@
    "handle": "bcherny",
    "name": "Boris Cherny",
    "author": "@bcherny",
-   "text": "Anyone can use /ship. If you’re on a Team or Enterprise plan, your admin can turn on Claude Ship per GitHub repo. I’d start with one repo and run Approvals in observe mode until you trust it. claude.com/resources/article… Link Introducing Claude Ship Meet your AI thinking partner. Tackle complex problems, analyze data, write code, and collaborate on challenging projects. claude.com",
+   "text": "Anyone can use /ship. If you’re on a Team or Enterprise plan, your admin can turn on Claude Ship per GitHub repo. I’d start with one repo and run Approvals in observe mode until you trust it. claude.com/resources/article… Link Introducing Claude Ship Open a pull request and get back to building. Claude can now review pull requests, fix them, and approve the ones that a team's policy allows. claude.com",
    "url": "https://nitter.kareem.one/bcherny/status/2124961488691740941#m",
    "ts": 1795465273,
    "id": "2124961488691740941#m"
