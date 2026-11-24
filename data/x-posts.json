@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T18:55:19Z",
+ "generated_at": "2026-11-24T19:09:46Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -15,6 +15,15 @@
  "count": 179,
  "items": [
   {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "NEW: Three of xAI's founding members, Guodong Zhang, Zihang Dai, and Manuel Kroiss, launched Epochal, a startup building AI that predicts the future. Its first product, Time Portal, allows AI agents to access a 1T+ page copy of the internet frozen at any date from the last 30+ years to learn to predict what's next. Bloomberg reports Zhang is putting in $100M of his own money. Video",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2125304077341085880#m",
+   "ts": 1795546952,
+   "id": "2125304077341085880#m"
+  },
+  {
    "handle": "bcherny",
    "name": "Boris Cherny",
    "author": "@bcherny",
@@ -22,6 +31,15 @@
    "url": "https://nitter.kareem.one/bcherny/status/2125292098165612585#m",
    "ts": 1795544096,
    "id": "2125292098165612585#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Article Surely You're Joking, Mr. Claude This is a static version of an interactive essay. For the full interactive mode, where you can take the same humor test the ten AI models took, read the original at nicholasachow.com/jesterbench. Building",
+   "url": "https://nitter.kareem.one/nicholasachow/status/2125288682903273568#m",
+   "ts": 1795543282,
+   "id": "2125288682903273568#m"
   },
   {
    "handle": "TheRundownAI",
@@ -969,15 +987,6 @@
    "id": "2123556256392847657#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "REPORT: Apple is hiring to build an AI agent that runs your computer on its own, according to new Apple job listings and Bloomberg. “Imagine an AI agent that can use a computer the way a capable person does,” one posting says. Bloomberg reported that Apple is aiming to launch the agent as soon as late 2027 and has made it harder for rival tools to control Macs. The macOS 27.3 beta makes ChatGPT users click through 14 steps to let outside agents run their Mac, up from 4.",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2123551782341107813#m",
-   "ts": 1795129173,
-   "id": "2123551782341107813#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -1003,15 +1012,6 @@
    "url": "https://nitter.kareem.one/sreenandhanpp/status/2123460225441419337#m",
    "ts": 1795107344,
    "id": "2123460225441419337#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "I declare War on Long Standing Access (how to build a secure software factory as presented @aiDotEngineer CODE) Video",
-   "url": "https://nitter.kareem.one/vtahowe/status/2123432897441137120#m",
-   "ts": 1795100828,
-   "id": "2123432897441137120#m"
   },
   {
    "handle": "simonw",
