@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-24T16:39:51Z",
+ "generated_at": "2026-11-24T16:48:44Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "NEW: Music platform Tidal is pulling all fully AI-made songs off its app on Dec. 9 and blocking new ones, the first big streamer to draw a hard line on AI music. The company said 43% of the songs submitted over the last 90 days were entirely AI-generated.",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2125268812379365780#m",
+   "ts": 1795538545,
+   "id": "2125268812379365780#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -967,15 +977,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2123480646530043904#m",
    "ts": 1795112213,
    "id": "2123480646530043904#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "NEW: Google DeepMind researcher Tim Genewein published an essay on how AI could get from human-level (AGI) to superintelligence (ASI). Genewein says the count of today's AI agents the world can run might grow more than 1,000x by 2030 and pass a billion times within a decade. Beyond just numbers, he names four routes: bigger models trained on more data, new ways of building AI, large groups of agents working together, and AI that improves the next generation of AI. He also says the routes build on each other, and if one stalls, competition will likely push work onto the others.",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2123480546244264291#m",
-   "ts": 1795112189,
-   "id": "2123480546244264291#m"
   },
   {
    "handle": "swyx",
