@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-24T17:10:03Z",
+ "generated_at": "2026-11-24T17:20:47Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,7 +10,9 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 179,
  "items": [
   {
@@ -103,6 +104,15 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2125246128903877046#m",
    "ts": 1795533136,
    "id": "2125246128903877046#m"
+  },
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "In testing GPT-6.2, I used it to make a significant historical discovery which I detail in the post below. This suggests that the process of research and discovery we’re already seeing in verifiable domains like math is starting to generalize to non-deterministic fields like history. You can read the full post here: generativehistory.substack.c… In a nutshell, Yale’s Beinecke Library holds an anonymous sketchbook of an 1808 journey from Montreal to Lake Superior and back. I’ve spent many hours over the years trying to figure out who made the sketches with no luck. The artist could literally be any one of several thousand people. There are few clues: only four dated and labelled images. With minimal prompting, in just 22 minutes, Astra used publicly available sources to identify a minor French aristocrat, the vicomte de Chabot, as the artist and suggested that we test the hypothesis by ordering copies of a little known microfilmed diary of Chabot’s trip it also found. I was truly stunned. I’d never heard of Chabot or this diary! New document finds are also exceedingly rare in a well worn field like fur trade history. I ordered scans of the journal from microfilm and when they arrived the handwriting matched the captions in the sketchbook. The itinerary also aligned perfectly with the few dated drawings in the book. But there was actually the type of conclusive evidence we rarely get as historians: on 18 June 1808, after Chabot’s canoe reached Fort St. Joseph, he wrote “I took ",
+   "url": "https://nitter.kareem.one/HistoryGPT/status/2125213218045858149#m",
+   "ts": 1795525290,
+   "id": "2125213218045858149#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -1264,15 +1274,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2121845965997101118#m",
    "ts": 1794722474,
    "id": "2121845965997101118#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "AI slop replies, ranked by annoyingness: 6) Repeating the post 5) LLM knows more than the account should about a topic 4) Lame semi-joke 3) \"X is the part I would keep/everyone misses...\" 2) \"As a marketer/builder/dentist, I see this in my own...\" 1) Questions faking \"curiosity\"",
-   "url": "https://nitter.kareem.one/emollick/status/2121685924824461739#m",
-   "ts": 1794684318,
-   "id": "2121685924824461739#m"
   },
   {
    "handle": "thsottiaux",
