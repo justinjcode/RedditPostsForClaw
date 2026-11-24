@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T23:09:08Z",
+ "generated_at": "2026-11-24T23:15:32Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -22,6 +22,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2125363942977597554#m",
    "ts": 1795561226,
    "id": "2125363942977597554#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Millions of lines. Five rewrites. 140 agents. @jarredsumner of @AnthropicAI on building @bunjavascript 's compiler, and why tests that predate the project matter. Full Code Summit talk: inv.kareem.one/TvsF67C2F54",
+   "url": "https://nitter.kareem.one/aiDotEngineer/status/2125326086900764900#m",
+   "ts": 1795552200,
+   "id": "2125326086900764900#m"
   },
   {
    "handle": "elonmusk",
@@ -292,6 +301,15 @@
    "url": "https://nitter.kareem.one/lianshangbiji/status/2125035135712248208#m",
    "ts": 1795482832,
    "id": "2125035135712248208#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Give Claude the docs. Let it build the wiki. @RLanceMartin of @AnthropicAI shows how Claude organizes company knowledge between tasks. In this experiment, wiki + search beat search alone. From AI Engineer Code Summit. Video",
+   "url": "https://nitter.kareem.one/aiDotEngineer/status/2125031651495264340#m",
+   "ts": 1795482001,
+   "id": "2125031651495264340#m"
   },
   {
    "handle": "simonw",
@@ -859,24 +877,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2123861214644347122#m",
    "ts": 1795202947,
    "id": "2123861214644347122#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "broooo nh (@nishanthooda_) Happy Anthropic IPO day — https://nitter.kareem.one/nishanthooda_/status/2123581995288846611#m",
-   "url": "https://nitter.kareem.one/swyx/status/2123856303974121851#m",
-   "ts": 1795201776,
-   "id": "2123856303974121851#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "🔜 why @j_schottenstein left @getdbt for @LangChain to build it into a $3B startup… ….and now they are having to reinvent the content, context (knowledge) and software factory from scratch! Harrison Chase (@hwchase17) having inconsistent ways to define revenue is exactly why you'd need knowledge factory for your company! centralize tacit or implicit knowledge, make those readily available to everyone a big part of ours at langchain is a bunch of definitions of metrics/skills for fetching data from different systems — https://nitter.kareem.one/hwchase17/status/2123437513809494349#m",
-   "url": "https://nitter.kareem.one/swyx/status/2123843282082132335#m",
-   "ts": 1795198672,
-   "id": "2123843282082132335#m"
   },
   {
    "handle": "TheRundownAI",
