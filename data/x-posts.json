@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-24T02:55:54Z",
+ "generated_at": "2026-11-24T03:09:36Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 177,
  "items": [
   {
@@ -149,6 +148,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2124942828274925651#m",
    "ts": 1795460824,
    "id": "2124942828274925651#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "so glad to join @TheStalwart and @tracyalloway on ODD LOTS Podcast to talk about some questions get lost in the discourse of US–China AI race—— what does AI look like to people in china trying to figure out where they fit in? how much of the enthusiasm comes from curiosity, and how much from the fear of being left behind? we talked about three places my reporting took me: a vibe-coding town for @NewYorker , china’s booming (and scammy) market for AI classes for @NYMag , and the people churning out AI video slop, led by the competitive local goverments, on an industrial scale for @bigthink Joe Weisenthal (@TheStalwart) NEW ODD LOTS: @tracyalloway and I had an amazing conversation with @afrazhaowang about AI in Chinese society what a city of vibecoders says about the broader economy. podcasts.apple.com/us/podcas… Link What a Town Full of Vibecoders Says About the Chinese Economy Podcast Episode · Odd Lots · November 23 · 59m podcasts.apple.com — https://nitter.kareem.one/TheStalwart/status/2124818421254606996#m",
+   "url": "https://nitter.kareem.one/afrazhaowang/status/2124941625550139645#m",
+   "ts": 1795460537,
+   "id": "2124941625550139645#m"
   },
   {
    "handle": "TheRundownAI",
@@ -700,15 +708,6 @@
    "id": "2123843282082132335#m"
   },
   {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Wow. Scott Bessent just reverses his entire line of attack from the last 2 weeks, declaring HE is responsible for China trade policy, not Commerce, and that he now agrees with the President and doesn’t believe it’s wise to blacklist China “we don’t want to decouple, we want to derisk”, endorsing Lutnick’s approach of pushing NVIDIA to self-police chip sales without tipping off the targets with a blacklist in the middle of a clandestine DOJ investigation. This is a complete 180 from what he’d been pitching to media outlets in recent weeks, blaming Lutnick for China policy and criticizing Commerce for not decoupling from China. Very odd flip flop here…wonder what conversations were had during that China trip for him to change course like this? Video",
-   "url": "https://nitter.kareem.one/spencerpratt/status/2123816220717957139#m",
-   "ts": 1795192220,
-   "id": "2123816220717957139#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -1135,7 +1134,7 @@
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
-   "text": "It was sitting there in public documents all along. Alice Huang developed the relationship and chip pipeline with Jensen. Her husband funneled the chips to his data centers in China. “The scale of Kang’s data-center business was striking. From 2021 to 2024, the proposed investments tied to Kang’s network topped $9 billion, all built with government backing. Chinese government officials hailed Kang’s projects as part of China’s national push to ramp up computing power across the country.” Lingling Wei 魏玲灵 (@Lingling_Wei) While Alice Huang was cultivating a personal relationship with Jensen Huang, her husband was involved in building billions of dollars' worth of data-center capacity in China. The two tracks run side by side for years. wsj.com/world/china/alice-hu… via @WSJ Link Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State Kang Wei developed the business while his wife was involved with Nvidia’s CEO. wsj.com — https://nitter.kareem.one/Lingling_Wei/status/2122517110874140702#m",
+   "text": "It was sitting there in public documents all along. Alice Huang developed the relationship and chip pipeline with Jensen. Her husband funneled the chips to his data centers in China. “The scale of Kang’s data-center business was striking. From 2021 to 2024, the proposed investments tied to Kang’s network topped $9 billion, all built with government backing. Chinese government officials hailed Kang’s projects as part of China’s national push to ramp up computing power across the country.” Lingling Wei 魏玲灵 (@Lingling_Wei) While Alice Huang was cultivating a personal relationship with Jensen Huang, her husband was involved in building billions of dollars' worth of data-center capacity in China. The two tracks run side by side for years. wsj.com/world/china/alice-hu… via @WSJ Link Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State Kang Wei developed the business while his wife was involved with Nvidia’s then-CEO. wsj.com — https://nitter.kareem.one/Lingling_Wei/status/2122517110874140702#m",
    "url": "https://nitter.kareem.one/nicoleperlroth/status/2122583072495575176#m",
    "ts": 1794898214,
    "id": "2122583072495575176#m"
@@ -1153,7 +1152,7 @@
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
-   "text": "gift link wsj.com/world/china/alice-hu… Link Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State Kang Wei developed the business while his wife was involved with Nvidia’s CEO. wsj.com Lingling Wei 魏玲灵 (@Lingling_Wei) While Alice Huang was cultivating a personal relationship with Jensen Huang, her husband was involved in building billions of dollars' worth of data-center capacity in China. The two tracks run side by side for years. wsj.com/world/china/alice-hu… via @WSJ Link Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State Kang Wei developed the business while his wife was involved with Nvidia’s CEO. wsj.com — https://nitter.kareem.one/Lingling_Wei/status/2122517110874140702#m",
+   "text": "gift link wsj.com/world/china/alice-hu… Link Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State Kang Wei developed the business while his wife was involved with Nvidia’s then-CEO. wsj.com Lingling Wei 魏玲灵 (@Lingling_Wei) While Alice Huang was cultivating a personal relationship with Jensen Huang, her husband was involved in building billions of dollars' worth of data-center capacity in China. The two tracks run side by side for years. wsj.com/world/china/alice-hu… via @WSJ Link Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State Kang Wei developed the business while his wife was involved with Nvidia’s then-CEO. wsj.com — https://nitter.kareem.one/Lingling_Wei/status/2122517110874140702#m",
    "url": "https://nitter.kareem.one/lrozen/status/2122517507672256682#m",
    "ts": 1794882582,
    "id": "2122517507672256682#m"
@@ -1162,7 +1161,7 @@
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
-   "text": "While Alice Huang was cultivating a personal relationship with Jensen Huang, her husband was involved in building billions of dollars' worth of data-center capacity in China. The two tracks run side by side for years. wsj.com/world/china/alice-hu… via @WSJ Link Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State Kang Wei developed the business while his wife was involved with Nvidia’s CEO. wsj.com",
+   "text": "While Alice Huang was cultivating a personal relationship with Jensen Huang, her husband was involved in building billions of dollars' worth of data-center capacity in China. The two tracks run side by side for years. wsj.com/world/china/alice-hu… via @WSJ Link Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State Kang Wei developed the business while his wife was involved with Nvidia’s then-CEO. wsj.com",
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2122517110874140702#m",
    "ts": 1794882488,
    "id": "2122517110874140702#m"
