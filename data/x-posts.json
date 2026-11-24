@@ -1,20 +1,28 @@
 {
- "generated_at": "2026-11-24T18:23:05Z",
+ "generated_at": "2026-11-24T18:30:20Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "bcherny",
+   "name": "Boris Cherny",
+   "author": "@bcherny",
+   "text": "Really excited about this one. MCP servers can now ship with their own skills, so Claude Code knows how to use them out of the box. ClaudeDevs (@ClaudeDevs) MCP turns two! What started as a protocol for connecting AI apps to tools and data is evolving to standardize how agents communicate and orchestrate work. We’re bringing more of these agentic capabilities to Claude with Skills over MCP and Tasks. — https://nitter.kareem.one/ClaudeDevs/status/2125289794871963935#m",
+   "url": "https://nitter.kareem.one/bcherny/status/2125292098165612585#m",
+   "ts": 1795544096,
+   "id": "2125292098165612585#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -1607,15 +1615,6 @@
    "url": "https://nitter.kareem.one/claudeai/status/2111177834127601902#m",
    "ts": 1792178994,
    "id": "2111177834127601902#m"
-  },
-  {
-   "handle": "bcherny",
-   "name": "Boris Cherny",
-   "author": "@bcherny",
-   "text": "Don't sleep on Claude Slides. This is how I make slide decks now -- no more googling \"iphone frame svg\" like the old days Try it: claude.ai/artifacts Video",
-   "url": "https://nitter.kareem.one/bcherny/status/2111158659971699136#m",
-   "ts": 1792174422,
-   "id": "2111158659971699136#m"
   },
   {
    "handle": "bcherny",
