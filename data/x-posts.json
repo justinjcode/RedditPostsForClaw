@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-11-24T17:47:31Z",
+ "generated_at": "2026-11-24T17:54:58Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "SIGNED: New York Gov. Kathy Hochul just outlawed the making, shipping or selling of toys with built-in AI chatbots for five years in the state. Companies that break it face fines of up to $15K a day per violation.",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2125283931691901167#m",
+   "ts": 1795542149,
+   "id": "2125283931691901167#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -977,15 +985,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2123505331531882923#m",
    "ts": 1795118098,
    "id": "2123505331531882923#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Full essay via Google's DeepMind Institute: institute.deepmind.com/essay… Link What comes after AGI? From AGI to Superintelligence How will we navigate the transition from AGI to ASI? Explore the compounding technological pathways and the rise of cognitive industrialization. institute.deepmind.com",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2123480646530043904#m",
-   "ts": 1795112213,
-   "id": "2123480646530043904#m"
   },
   {
    "handle": "swyx",
