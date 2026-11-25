@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T05:39:45Z",
+ "generated_at": "2026-11-25T05:46:03Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "🆕 Gemini 4 Neon marks @GoogleDeepMind 's full return as a Frontier Lab latent.space/p/ainews-gemini… - @opencode : Neon has “become our team's default model.” - @poteto is “daily driving gemini neon in cursor.” - @dhh : Neon “cut Omarchy boot time in half!!” - @rauchg : Neon won his LLM evals - @ProximalHQ : Neon #3 on FrontierSWE at 62.4%, “on par with Opus 5.5.” - @iScienceLuvr : “Neon autoresearch just works.” - @theo : “Why the fuck is nobody talking about Neon?” - @TimSweeneyEpic : “Gemini 4 Neon is amazing!” - @__tinygrad__ : “I don't think Anthropic is the frontier anymore.” - @PromptLLM says advice from Neon left them “speechless.” - @demishassabis replies to @SemiAnalysis_ with “Apology accepted.” - @sundarpichai says Neon “set a new Day-1 usage record on our paid APIs.” @OfficialLoganK , @_mohansolo , @koraykv , @melvinjohnsonp and team cooked!!",
+   "url": "https://nitter.kareem.one/latentspacepod/status/2125462912366182853#m",
+   "ts": 1795584822,
+   "id": "2125462912366182853#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -877,15 +886,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2123997735326232775#m",
    "ts": 1795235496,
    "id": "2123997735326232775#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "I will keep dying on this hill. Source control being 100% or 0% access feels stupider than ever. I want private files in my repos. I want private branches that only 3 team members can see. I want secret management that doesn't require some obscure 3rd party tools. Sreenandhan (@sreenandhanpp) Junior dev: \"I pushed the .env too, you can test it now.\" Senior dev: \"Why?\" Junior dev: Video — https://nitter.kareem.one/sreenandhanpp/status/2123460225441419337#m",
-   "url": "https://nitter.kareem.one/theo/status/2123901093751280052#m",
-   "ts": 1795212455,
-   "id": "2123901093751280052#m"
   },
   {
    "handle": "thsottiaux",
