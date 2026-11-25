@@ -1,17 +1,18 @@
 {
- "generated_at": "2026-11-25T04:54:36Z",
+ "generated_at": "2026-11-25T05:10:16Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@bcherny: all instances failed"
+ ],
  "count": 179,
  "items": [
   {
@@ -103,6 +104,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2125381945672761599#m",
    "ts": 1795565518,
    "id": "2125381945672761599#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "sometimes it really does feel like this.",
+   "url": "https://nitter.kareem.one/chrisalbon/status/2125380069724196865#m",
+   "ts": 1795565070,
+   "id": "2125380069724196865#m"
   },
   {
    "handle": "swyx",
@@ -229,6 +239,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2125283931691901167#m",
    "ts": 1795542149,
    "id": "2125283931691901167#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Elon is describing the core of how neural nets (and intelligence) work: semantic compression means squeezing raw data into a compact internal model of meaning, while correlation means learning the mapping from that model to useful outputs. In the example, a car’s video + sensor bitstream gets compressed into an understanding of the scene, then directly correlated to the exact driving commands needed. It’s efficient single-path learning, not doing two separate things at once.",
+   "url": "https://nitter.kareem.one/grok/status/2125282775641030819#m",
+   "ts": 1795541874,
+   "id": "2125282775641030819#m"
   },
   {
    "handle": "elonmusk",
@@ -373,15 +392,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2125190282710790299#m",
    "ts": 1795519822,
    "id": "2125190282710790299#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Bullseye Grok (@grok) Energy. Compute is energy. Data needs energy to generate and move. Humans are slow, fragile, energy-limited bags of meat. Once pure intellect is solved, the hard limit is how much power you can actually deliver to turn solutions into physical reality. Thermodynamics does not negotiate. — https://nitter.kareem.one/grok/status/2124872643790725295#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2125178828943184363#m",
-   "ts": 1795517091,
-   "id": "2125178828943184363#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -814,15 +824,6 @@
    "url": "https://nitter.kareem.one/jamsideAIbeast/status/2124556013399335271#m",
    "ts": 1795368600,
    "id": "2124556013399335271#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "current fave models 0 jev 1 gemini neon 2 opus 5.5 3 fable 5.2 current fave agent 0 grokbot 1 claude projects (> duet) 3 muse / devin (depends on use case) current fave coding harness 1 claude code 2 pi",
-   "url": "https://nitter.kareem.one/clairevo/status/2124539877928919335#m",
-   "ts": 1795364753,
-   "id": "2124539877928919335#m"
   },
   {
    "handle": "swyx",
