@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-25T05:10:16Z",
+ "generated_at": "2026-11-25T05:21:02Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -11,10 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "USAID brought in Global Disinformation Index to coach it on censoring online narratives. Here, GDI teaches USAID to get news sites blacklisted even if the stories they publish are true. USAID officials clapped like a seal upon hearing a justification to censor Breitbart News Video Mike Benz (@MikeBenzCyber) GDI put nearly every major conservative news outlet in America on an ad blacklist to financially assassinate their businesses. GDI killed $200 million in ad revenue to media outlets reporting the wrong \"narratives.\" GDI was recommended to USAID by the US intelligence community. — https://nitter.kareem.one/MikeBenzCyber/status/2125416977514557454#m",
+   "url": "https://nitter.kareem.one/MikeBenzCyber/status/2125453601686360501#m",
+   "ts": 1795582602,
+   "id": "2125453601686360501#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -77,6 +86,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2125411174993010839#m",
    "ts": 1795572487,
    "id": "2125411174993010839#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "I'm trying out Gemini right now. It seems good at coding, but it's not easy to use. Grok Bot is just so much easier to work with. I gave Gemini access to my Mac Studio, and it was acting weird. Same with Claude. Smart, but not easy to work with. Can anyone relate?",
+   "url": "https://nitter.kareem.one/Texas_Twins_Dad/status/2125399348389273951#m",
+   "ts": 1795569667,
+   "id": "2125399348389273951#m"
   },
   {
    "handle": "elonmusk",
@@ -329,15 +347,6 @@
    "url": "https://nitter.kareem.one/liam_fallen/status/2125248925334454647#m",
    "ts": 1795533803,
    "id": "2125248925334454647#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "All systems are looking good, and weather is favorable for liftoff. Propellant load is about to begin for Falcon 9’s launch of the USSF-266 mission from California → spacex.com/launches/ussf266",
-   "url": "https://nitter.kareem.one/SpaceX/status/2125247855409692869#m",
-   "ts": 1795533548,
-   "id": "2125247855409692869#m"
   },
   {
    "handle": "elonmusk",
@@ -815,15 +824,6 @@
    "url": "https://nitter.kareem.one/chrislakin/status/2124578257748300122#m",
    "ts": 1795373904,
    "id": "2124578257748300122#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "This is f*cking insane. OpenAI co-founder Ilya Sutskever, who left to build his own superintelligence lab, described the long-term future with AI, and admitted he doesn't like it: \"So maybe every person will have an AI that will do their bidding. And that's good\" \"Then the AI goes and earns money for the person, and advocates for their needs in the political sphere. And maybe then writes a little report saying, okay, here's what I've done. And the person says, great, keep it up. But the person is no longer a participant\" In 2 minutes, he gives the only answer he sees, and says up front \"I don't like the solution, but it is a solution\": people \"become part AI with some kind of Neuralink++\" An AI for Every Person → It Earns and Speaks for You → You Stop Participating → Part Human, Part AI The man who built ChatGPT's brain thinks the way to stay in the game is to merge with AI Worth more than most $2,500 AI courses Bookmark and watch it today Then read the no-code guide to staying a participant, not a spectator ↓ Video molodoykiskaeb (▰˘◡˘▰) (@molodoykiskaeb) Your feed is full of harness, loop and graph guides All of them were written for programmers I read the 8 biggest and kept what every one of them agrees on, in plain English ↓ Article Harness, Loops and Graphs for Everyone: The Only Guide You Need 8 viral guides, 20 million views, one thing in common: they were all written for programmers. Here is everything they agree on, in plain English, with no code In August, a guide c",
-   "url": "https://nitter.kareem.one/jamsideAIbeast/status/2124556013399335271#m",
-   "ts": 1795368600,
-   "id": "2124556013399335271#m"
   },
   {
    "handle": "swyx",
