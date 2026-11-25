@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-25T19:37:46Z",
+ "generated_at": "2026-11-25T19:44:47Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
   {
@@ -59,6 +58,15 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2125658863730925673#m",
    "ts": 1795631540,
    "id": "2125658863730925673#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "\"A swarm of agents can produce more work in a single day than a person can review in our lifetime.\" The No AI Slop Manifesto by @dexhorthy , @swyx , @TejasKumar_ and others, born at @aiDotEngineer 's Code Summit, pushes back. Summarized by @philippacsany : realpython.com/no-ai-slop-ma… Link The No AI Slop Manifesto: A Pledge to Own What Agents Ship – Real Python The No AI Slop Manifesto explained: what the slop manifesto says, why it appeared now, and what its beliefs mean for Python developers using AI. realpython.com",
+   "url": "https://nitter.kareem.one/realpython/status/2125649422423843011#m",
+   "ts": 1795629289,
+   "id": "2125649422423843011#m"
   },
   {
    "handle": "elonmusk",
@@ -914,15 +922,6 @@
    "url": "https://nitter.kareem.one/ron8784/status/2124765523896660466#m",
    "ts": 1795418551,
    "id": "2124765523896660466#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "incredible founder journey breakdown from founding to acquisition complete with regrets and advice. not enough founders document this! please do, it saves others potentially a lot of pain highlights - @theallinpod top ticking saas market - IP assignment woes - do not brag about your SEO - how to draw @naval ’s interest - hiring advice and layoff advice - how to fish for an acquisition - how to clear roadblocks for an acquisition - there are CTO coaches?? taimur (@taimurabdaal) Anthropic IPO at $1T, Riemann hypothesis proved, anyway... here's the story of our B2B SaaS Felt a lot of nostalgia for the quaint 2019–2024 era of startups writing this. Hopefully still some relevant lessons for early stage startups today: taimur.me/blog-posts/causal-… Link Causal: From Idea to Acquisition In 2019 we started a company called Causal, and in 2024 we sold it. Here are our reflections on the journey, from idea to acquisition. taimur.me — https://nitter.kareem.one/taimurabdaal/status/2124610047741177871#m",
-   "url": "https://nitter.kareem.one/swyx/status/2124730733147390347#m",
-   "ts": 1795410257,
-   "id": "2124730733147390347#m"
   },
   {
    "handle": "ZichenWanghere",
