@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T07:10:36Z",
+ "generated_at": "2026-11-25T07:21:37Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,10 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@ZichenWanghere: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "Glad to share a few observations on the case of Jensen Huang in @washingtonpost washingtonpost.com/world/202… Link ‘The king is back!’ Huang’s return to Nvidia is greeted with relief in Asia. Many continue to root for the Taiwanese American tech CEO even after he admitted to an affair with an alleged Chinese spy. washingtonpost.com",
+   "url": "https://nitter.kareem.one/ZichenWanghere/status/2125484769886830901#m",
+   "ts": 1795590033,
+   "id": "2125484769886830901#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -788,15 +797,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2124730733147390347#m",
    "ts": 1795410257,
    "id": "2124730733147390347#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "“These companies look forward to having global scale. They want to be like Toyota or Hyundai, which are global success stories, and have an interest in Canada.” — @ZichenWanghere , on Chinese automakers’ global expansion, as featured in @globeandmail theglobeandmail.com/business… Link Chinese automakers view their investments in Hungary as possible model for Canada Companies are pushing to expand overseas and see Canadian sites as logical next step theglobeandmail.com",
-   "url": "https://nitter.kareem.one/CCG_org/status/2124687308515693006#m",
-   "ts": 1795399903,
-   "id": "2124687308515693006#m"
   },
   {
    "handle": "ZichenWanghere",
