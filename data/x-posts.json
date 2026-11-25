@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-25T20:44:33Z",
+ "generated_at": "2026-11-25T20:57:08Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +10,9 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 179,
  "items": [
   {
@@ -216,7 +217,7 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Three days after the Riemann Hypothesis was proved in Lean, our agents had used it to prove 17 results. Six are named conjectures that were open until 20 November, including the Lindelöf hypothesis, Erdős Problem 985 and Euler’s idoneal numbers. Some had been open for more than 100 years. @livingbrain held the memory, OpenHuman’s agents wrote the proofs, and Lean checked every one. Video Community note: The listed conjectures (e.g. Lindelöf hypothesis, Euler idoneal numbers completeness, Erdős 985) were previously known to follow from RH or GRH per published results; the project formalizes those known implications in Lean. en.wikipedia.org/wiki/Lindel%C3… en.wikipedia.org/wiki/Idoneal_n… github.com/ChatAndBuild/c… erdosproblems.com/985 arxiv.org/pdf/math/98071… nitter.kareem.one/thomasfbloom/s",
+   "text": "Three days after the Riemann Hypothesis was proved in Lean, our agents had used it to prove 17 results. Six are named conjectures that were open until 20 November, including the Lindelöf hypothesis, Erdős Problem 985 and Euler’s idoneal numbers. Some had been open for more than 100 years. @livingbrain held the memory, OpenHuman’s agents wrote the proofs, and Lean checked every one. Video Community note: These named conjectures were long known to follow from RH or GRH. The agents formalized the known implications in Lean, making them unconditional after the RH proof. github.com/ChatAndBuild/c… en.wikipedia.org/wiki/Lindel%C3… arxiv.org/abs/1508.0518",
    "url": "https://nitter.kareem.one/ladyxtel/status/2125587817082601587#m",
    "ts": 1795614601,
    "id": "2125587817082601587#m"
