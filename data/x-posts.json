@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-25T22:20:52Z",
+ "generated_at": "2026-11-25T22:29:03Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "any prizes for guessing whos next Latent.Space (@latentspacepod) [AINews 26 Nov 2026] here we go again... with the Math proofs and with the Ant->OAI moves: latent.space/p/ainews-math-p… 2 in 1 ainews issue today, hot off the presses! — https://nitter.kareem.one/latentspacepod/status/2125717292923441280#m",
+   "url": "https://nitter.kareem.one/swyx/status/2125717383839162505#m",
+   "ts": 1795645492,
+   "id": "2125717383839162505#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -217,7 +225,7 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Three days after the Riemann Hypothesis was proved in Lean, our agents had used it to prove 17 results. Six are named conjectures that were open until 20 November, including the Lindelöf hypothesis, Erdős Problem 985 and Euler’s idoneal numbers. Some had been open for more than 100 years. @livingbrain held the memory, OpenHuman’s agents wrote the proofs, and Lean checked every one. Video Community note: These named conjectures were long known to follow from RH or GRH. The agents formalized the known implications in Lean, making them unconditional after the RH proof. github.com/ChatAndBuild/c… en.wikipedia.org/wiki/Lindel%C3… arxiv.org/abs/1508.0518",
+   "text": "Three days after the Riemann Hypothesis was proved in Lean, our agents had used it to prove 17 results. Six are named conjectures that were open until 20 November, including the Lindelöf hypothesis, Erdős Problem 985 and Euler’s idoneal numbers. Some had been open for more than 100 years. @livingbrain held the memory, OpenHuman’s agents wrote the proofs, and Lean checked every one. Video Community note: The listed conjectures (e.g. Lindelöf hypothesis, Euler idoneal numbers completeness, Erdős 985) were previously known to follow from RH or GRH per published results; the project formalizes those known implications in Lean. en.wikipedia.org/wiki/Lindel%C3… en.wikipedia.org/wiki/Idoneal_n… github.com/ChatAndBuild/c… erdosproblems.com/985 arxiv.org/pdf/math/98071… nitter.kareem.one/thomasfbloom/s",
    "url": "https://nitter.kareem.one/ladyxtel/status/2125587817082601587#m",
    "ts": 1795614601,
    "id": "2125587817082601587#m"
@@ -914,15 +922,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2124780264916423021#m",
    "ts": 1795422066,
    "id": "2124780264916423021#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "also this FTX SBF quote ken (@aquariusacquah) hahaha — https://nitter.kareem.one/aquariusacquah/status/2124618540997304647#m",
-   "url": "https://nitter.kareem.one/swyx/status/2124766474736976240#m",
-   "ts": 1795418778,
-   "id": "2124766474736976240#m"
   },
   {
    "handle": "ZichenWanghere",
