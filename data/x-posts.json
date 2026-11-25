@@ -1,7 +1,8 @@
 {
- "generated_at": "2026-11-25T15:58:22Z",
+ "generated_at": "2026-11-25T16:14:07Z",
  "accounts_ok": [
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "How many of those infuriating reply bots are running on an unmodified Grok Bot? Will McGugan (@willmcgugan) Having a look at grok bot. It seems keen to draft replies to tweets for me. All this time I thought those awful bot replies were externally automated somehow, when they were coming from within Twitter itself. How naive am I. For the record, I will never use that. Be assured that my shit posting is au natural. I can’t imagine what @elonmusk is thinking. Bots writing content for bots would be the death of this platform. — https://nitter.kareem.one/willmcgugan/status/2125331396465996266#m",
+   "url": "https://nitter.kareem.one/simonw/status/2125619997796123135#m",
+   "ts": 1795622274,
+   "id": "2125619997796123135#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1256,15 +1265,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2122500317187330279#m",
    "ts": 1794878484,
    "id": "2122500317187330279#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "I worked on this project with Prime Radiant, the AI research lab behind Superpowers - here's our index repository for these external sandbox prototypes github.com/prime-radiant-inc…",
-   "url": "https://nitter.kareem.one/simonw/status/2122500313886396840#m",
-   "ts": 1794878483,
-   "id": "2122500313886396840#m"
   },
   {
    "handle": "thsottiaux",
