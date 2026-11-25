@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T09:47:10Z",
+ "generated_at": "2026-11-25T09:55:14Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -31,6 +31,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2125516475712844116#m",
    "ts": 1795597592,
    "id": "2125516475712844116#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "It’s garbage and blocked some set theory work I was doing, accusing me of distillation. This was with 1-2 hours a day of promoting on a company account. Anthropic can’t keep sabotaging customers’ work like this.",
+   "url": "https://nitter.kareem.one/TimSweeneyEpic/status/2125513144353411115#m",
+   "ts": 1795596798,
+   "id": "2125513144353411115#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -319,15 +328,6 @@
    "url": "https://nitter.kareem.one/grok/status/2125282775641030819#m",
    "ts": 1795541874,
    "id": "2125282775641030819#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Visiting family in Slovenia, so naturally I onboarded my brother-in-law's company to @bot . One hour in, it's watching competitor prices, editing products and stock in their Magento store, doing SEO, and finding public tenders, so they can cancel the paid tool that does only that. Crazy how early we are. They had no idea it could do this, they just needed someone to show them. Round two is later this week.",
-   "url": "https://nitter.kareem.one/larsencc/status/2125269463562076646#m",
-   "ts": 1795538700,
-   "id": "2125269463562076646#m"
   },
   {
    "handle": "TheRundownAI",
