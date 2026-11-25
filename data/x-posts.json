@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-25T04:33:43Z",
+ "generated_at": "2026-11-25T04:41:03Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "literally if you turn your brain off you are just choosing not to listen at this point swyx (@swyx) notable that a lot of the recent anthropic (and ant-alum) talks have been very specific about how much there is still left to do for human engineers, and if you are feeling depressed/anxious you need only look here / point your efforts towards AGI-aligned problems*: - assume multiagent systems 1000x, from spawning subagents to being llm grader to advisor/sidekick pattern to dreaming/memory formation to collaborating peer to peer on a board. what breaks? - Infra: unbundle Kubernetes to new filesystems, sandboxing, stateful, fast workflow orchestration (see @temporalio ) at crazy scale. it's actors on steroids. - Agent Authorization: EVERYONE agrees that having Instinct/Claude etc saving your password is bad (aka taking action On-Behalf-Of you instead of you delegating to an agent's own identity). (see @KeycardAI @okta etc) Then: how do agents trust another agent? - Security (hardening/patching core software), and Isolation (assuming compromise, limit blast radius) - Monitoring (write-only OTel tracing across agents, linked to kill switches that dont fire false positives confusing agent persistence for malice) actually an incomplete list! you can work at the harness level ( ai.engineer/talks/vlfCjWuv4e… ) or solve Fermat's last theorem ( inv.kareem.one/wrfbI5eyLAI ) but who's counting anymore *all of which katelyn happens to be hiring for haha — https://nitter.kareem.one/swyx/sta",
+   "url": "https://nitter.kareem.one/swyx/status/2125448165197570547#m",
+   "ts": 1795581306,
+   "id": "2125448165197570547#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -1013,15 +1021,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2123505331531882923#m",
    "ts": 1795118098,
    "id": "2123505331531882923#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Junior dev: \"I pushed the .env too, you can test it now.\" Senior dev: \"Why?\" Junior dev: Video",
-   "url": "https://nitter.kareem.one/sreenandhanpp/status/2123460225441419337#m",
-   "ts": 1795107344,
-   "id": "2123460225441419337#m"
   },
   {
    "handle": "simonw",
