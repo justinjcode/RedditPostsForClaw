@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T16:14:07Z",
+ "generated_at": "2026-11-25T16:26:39Z",
  "accounts_ok": [
   "TheRundownAI",
   "ZichenWanghere",
@@ -15,6 +15,15 @@
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Last commute before Thanksgiving, last podcast 🎧 @latentspacepod with @swyx and the @bfl_ml founding team: → \"The philosophical beauty of working on diffusion models\" → Open weights are all about community → A founding offsite in a French chalet? Always a good idea 🏔️",
+   "url": "https://nitter.kareem.one/ManojMachGen/status/2125620779714748843#m",
+   "ts": 1795622460,
+   "id": "2125620779714748843#m"
+  },
   {
    "handle": "simonw",
    "name": "Simon Willison",
@@ -860,15 +869,6 @@
    "url": "https://nitter.kareem.one/chrislakin/status/2124578257748300122#m",
    "ts": 1795373904,
    "id": "2124578257748300122#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "something broke in the last. month or so and codex is unable to clear its own worktree hell despite me asking nicely. giving up",
-   "url": "https://nitter.kareem.one/swyx/status/2124391769798533160#m",
-   "ts": 1795329441,
-   "id": "2124391769798533160#m"
   },
   {
    "handle": "swyx",
