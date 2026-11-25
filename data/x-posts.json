@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T01:56:10Z",
+ "generated_at": "2026-11-25T02:09:56Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -45,6 +45,15 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
+   "text": "🤔 Arfur Grok (@ArfurGrok) ✅ Thariq Shihipar ( @trq212 ) has joined OpenAI. — https://nitter.kareem.one/ArfurGrok/status/2125341934071787696#m",
+   "url": "https://nitter.kareem.one/aiDotEngineer/status/2125379600104689676#m",
+   "ts": 1795564958,
+   "id": "2125379600104689676#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
    "text": "notable that a lot of the recent anthropic (and ant-alum) talks have been very specific about how much there is still left to do for human engineers, and if you are feeling depressed/anxious you need only look here / point your efforts towards AGI-aligned problems*: - assume multiagent systems 1000x, from spawning subagents to being llm grader to advisor/sidekick pattern to dreaming/memory formation to collaborating peer to peer on a board. what breaks? - Infra: unbundle Kubernetes to new filesystems, sandboxing, stateful, fast workflow orchestration (see @temporalio ) at crazy scale. it's actors on steroids. - Agent Authorization: EVERYONE agrees that having Instinct/Claude etc saving your password is bad (aka taking action On-Behalf-Of you instead of you delegating to an agent's own identity). (see @KeycardAI @okta etc) Then: how do agents trust another agent? - Security (hardening/patching core software), and Isolation (assuming compromise, limit blast radius) - Monitoring (write-only OTel tracing across agents, linked to kill switches that dont fire false positives confusing agent persistence for malice) actually an incomplete list! you can work at the harness level ( ai.engineer/talks/vlfCjWuv4e… ) or solve Fermat's last theorem ( inv.kareem.one/wrfbI5eyLAI ) but who's counting anymore *all of which katelyn happens to be hiring for haha Katelyn Lesse (@katelyn_lesse) software engineers are going to have to tackle a new set of problems to unlock powerful multiagent system",
    "url": "https://nitter.kareem.one/swyx/status/2125371136943022423#m",
    "ts": 1795562941,
@@ -67,6 +76,24 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2125363942977597554#m",
    "ts": 1795561226,
    "id": "2125363942977597554#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Falcon 9 launches USSF-266 to orbit from pad 4E in California",
+   "url": "https://nitter.kareem.one/SpaceX/status/2125342179216261600#m",
+   "ts": 1795556037,
+   "id": "2125342179216261600#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Geordie and Jess Flanagan run two home businesses on Salt Spring Island, B.C. Starlink keeps them connected at home and on remote job sites where other services drop out → starlink.com/saltspring",
+   "url": "https://nitter.kareem.one/Starlink/status/2125337322468295036#m",
+   "ts": 1795554879,
+   "id": "2125337322468295036#m"
   },
   {
    "handle": "swyx",
@@ -465,15 +492,6 @@
    "id": "2124957292168675432#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Welcome to the PvP of social media.",
-   "url": "https://nitter.kareem.one/cb_doge/status/2124945497152794908#m",
-   "ts": 1795461460,
-   "id": "2124945497152794908#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -699,15 +717,6 @@
    "id": "2124730733147390347#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "This is literally my new workflow now: Realtime Research → Grok Bot Planning & Orchestration → Grok Bot Day-to-day Coding/Debug → Opus 5.5 Write & Run Tests → Sonnet 5.5 Complex Coding/Debug → Fable 5.2 Frontend → Fable 5.2 Bookmark this.",
-   "url": "https://nitter.kareem.one/minchoi/status/2124719179022426450#m",
-   "ts": 1795407502,
-   "id": "2124719179022426450#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -931,15 +940,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2123796680902586814#m",
    "ts": 1795187561,
    "id": "2123796680902586814#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "We’re hearing a lot of shit about guys who play video games from women whose only hobby is phone.",
-   "url": "https://nitter.kareem.one/BENZOTOOIE/status/2123754533738143744#m",
-   "ts": 1795177512,
-   "id": "2123754533738143744#m"
   },
   {
    "handle": "TheRundownAI",
