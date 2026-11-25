@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-25T16:26:39Z",
+ "generated_at": "2026-11-25T16:38:08Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,27 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "as seen on anthropic blog! Lance Martin (@RLanceMartin) we recently migrated the Claude Messages API from Python to Rust. in this new eng blog, we share how we used the Python API as an oracle, set up verification loops, and had a team of agents fix diffs until Rust matched production's observable behavior. anthropic.com/research/migra… Link Migrating our Messages API to Rust Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems. anthropic.com — https://nitter.kareem.one/RLanceMartin/status/2125627070084796562#m",
+   "url": "https://nitter.kareem.one/swyx/status/2125627500487393285#m",
+   "ts": 1795624063,
+   "id": "2125627500487393285#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "\"Cost per task is a misleading metric; the scarce resource is human attention, not token cost.\" beware the pareto frontier charts that make you believe you can reduce every model to 2 numbers; it can hide some AWFUL reliability issues👏 Eugene Yan (@eugeneyan) AI benchmarks are more realistic than ever. But they still have bugs (e.g., failing correct work) and mostly measure what's easy, not what matters. Here's my breakdown of 12 public evals: how they're built, where they break, and what to measure instead. eugeneyan.com/writing/public… Link Lessons from 12 Evals: Where They Break and What to Measure Instead How benchmarks are built, the bugs they have, and hot takes on what should change. eugeneyan.com — https://nitter.kareem.one/eugeneyan/status/2125418696248095188#m",
+   "url": "https://nitter.kareem.one/swyx/status/2125627281230205435#m",
+   "ts": 1795624010,
+   "id": "2125627281230205435#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -856,28 +873,10 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "OpenAI proposes perplexity as the universal metric for industry self regulation and pacing (as opposed to eg FLOPS) “Given that the main way new surprising capabilities emerge is by progress on compression, a measure rooted in perplexity could give us a shared benchmark for general intelligence, regardless of the degree of automation of the development process. Extrapolating from recent progress, we should expect further transformative capabilities as we enter the ~0.68-0.7 log-perplexity window.” this chart is one of the most beautiful ways to tell the story of the last 4 years. it also shows that a lot of the post training issues we debate is kinda the B plot to the overall A plot of large scale pretrain progress. Jakub Pachocki (@merettm) We decided to provide more transparency into pretraining progress at OpenAI for the sake of moving toward shared safety bars. In “Perplexity and Intelligence” I argue for common limits based on perplexity and other measurements, with progress beyond them gated on our ability to understand AI behavior. openai.com/index/perplexity-… — https://nitter.kareem.one/merettm/status/2124549218995949967#m",
-   "url": "https://nitter.kareem.one/swyx/status/2124583459356373052#m",
-   "ts": 1795375144,
-   "id": "2124583459356373052#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
    "text": "I call this the \"courage carousel\"",
    "url": "https://nitter.kareem.one/chrislakin/status/2124578257748300122#m",
    "ts": 1795373904,
    "id": "2124578257748300122#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Your agent runs for 10 hours. Your team deploys every two minutes. @FabianHedin on how @Lovable separates task history from running processes so agents can keep working through deployments. From AI Engineer Code Summit. Video",
-   "url": "https://nitter.kareem.one/aiDotEngineer/status/2124291774671880239#m",
-   "ts": 1795305601,
-   "id": "2124291774671880239#m"
   },
   {
    "handle": "simonw",
