@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-25T14:30:13Z",
+ "generated_at": "2026-11-25T14:39:25Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,7 +10,9 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 179,
  "items": [
   {
@@ -103,6 +104,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2125552768467288153#m",
    "ts": 1795606245,
    "id": "2125552768467288153#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "By 2030 every company will have more bots than employees.",
+   "url": "https://nitter.kareem.one/TonyChanBuilds/status/2125541007173280174#m",
+   "ts": 1795603441,
+   "id": "2125541007173280174#m"
   },
   {
    "handle": "elonmusk",
@@ -247,15 +257,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2125369126877286662#m",
    "ts": 1795562461,
    "id": "2125369126877286662#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "on orbital compute costs. on a levelized chip GWs cost basis, we think SpaceX can get to par with terrestrial benchmarks by 2028, and surpass its own on-the-ground efficiency in '29. If useful chip lives shorten due to oversupply, orbital would disproportionately benefits.",
-   "url": "https://nitter.kareem.one/wintonARK/status/2125354603579650198#m",
-   "ts": 1795558999,
-   "id": "2125354603579650198#m"
   },
   {
    "handle": "swyx",
