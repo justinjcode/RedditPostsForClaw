@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-25T19:17:13Z",
+ "generated_at": "2026-11-25T19:25:03Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,27 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Thanks Ron ❤️ My greatest privilege is being able to work with the incredibly talented people of SpaceX, Tesla, Neuralink and Boring Company, without whom I would be able to accomplish nothing. Ron Baron (@RonBaronAnalyst) “Watching Elon engineer is like watching Michael Jordan play basketball…” - SpaceX Director. October 2026 That was a response to my question \"Is Elon really an incredible engineer?\" from a SpaceX Director in a recent conversation with me. So not only is @elonmusk a super engineer...physicist...and future imaginer...he's also an exceptionally well-prepared entrepreneur. Which means he can take advantage of financial market disruptions like those now taking place. To the great benefit of @SpaceX and @Tesla . Data centers built by others cost on average $60 billion for a gigawatt...take 30 months on average to open...and when they do are often plagued with initial operating problems. So called neocloud providers build and rent such projects under long-term leases for about $12 billion per year. Unfortunately for them, while demand for super intelligence enabled by data centers is growing exponentially, debt financing for such projects is currently very difficult to obtain. As are advanced chips. SpaceX on the other hand has a fortress balance sheet...is able to complete such engineering complex projects and turn them on in less than eight months...for we estimate $35 billion....and rent them to hyper scalers and its largest customer @Anthropic under renewable ",
+   "url": "https://nitter.kareem.one/elonmusk/status/2125670205456257409#m",
+   "ts": 1795634244,
+   "id": "2125670205456257409#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Interesting Dario Amodei (@DarioAmodei) No, I do not believe that we should “surrender human free will” to AI systems, and it’s absurd to suggest that I do. I have written hundreds of pages of essays and a constant theme in them is the need for AI to be governed by legitimate democratic processes. For millennia (going all the way back to Greek and Roman philosophers), advocates of autocracy have claimed that it leads to better, faster, or more decisive decision-making than the messy process of democracy. Even if this were true (which I doubt!), we should never sacrifice legitimacy or self-determination at the altar of efficiency or security. This argument against autocracy applies word for word against governance by AI, and I feel equally strongly that turning over governance to AI is a bad idea. No one who had carefully read my writing or my interviews could reasonably conclude that I believe anything different. For example in an interview on CBS a couple months ago, I specifically called for AI to be governed democratically. I call for the same in Policy on the AI Exponential, Machines of Loving Grace, and The Adolescence of Technology, and We Must Pace the Frontier. Machines of Loving Grace contains an extended section on using AI to revitalize democracy, and discusses the use of AI as an aid to citizens in their decision-making, \"aggregat[ing] opinions and driv[ing] consensus among citizens, resolving conflict, finding common ground, and seeking compromise.” The clear and",
+   "url": "https://nitter.kareem.one/elonmusk/status/2125669066388209784#m",
+   "ts": 1795633973,
+   "id": "2125669066388209784#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -32,6 +49,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2125662737363857700#m",
    "ts": 1795632464,
    "id": "2125662737363857700#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "China Is Preparing for the End of Détente, a must-read by Yun Sun @StimsonCenter foreignaffairs.com/china/chi… via @ForeignAffairs Link China Is Preparing for the End of Détente After Trump, a hawkish backlash awaits. foreignaffairs.com",
+   "url": "https://nitter.kareem.one/Lingling_Wei/status/2125658863730925673#m",
+   "ts": 1795631540,
+   "id": "2125658863730925673#m"
   },
   {
    "handle": "elonmusk",
@@ -226,28 +252,19 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Hmm DataRepublican (small r) (@DataRepublican) From the USAID files: The purpose of fact-checkers is to \"debunk information in a way that aligns with the objectives of government partners.\" Wow. Just wow. We were all living inside an epistemic bubble. Video — https://nitter.kareem.one/DataRepublican/status/2125562095919845633#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2125576951364731018#m",
-   "ts": 1795612011,
-   "id": "2125576951364731018#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Yes DataRepublican (small r) (@DataRepublican) This older article is worth a revisit. USAID was a global regime change machine. My book UNELECTED goes into how this apparatus was constructed over a century-plus. — https://nitter.kareem.one/DataRepublican/status/2125568553084432888#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2125576163720642762#m",
-   "ts": 1795611823,
-   "id": "2125576163720642762#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Global Marxists don’t label themselves “Global Marxists” Propaganda is called “Countering Disinformation” Sovereign politics, called “Right wing Extremism” Radical revolutions, “Democracy building” Raising taxes, “Human Rights” Eroding free markets, “Good Governance” Money laundering through institutes, “AID” USAID’s funding partners are called U.S. Senators and Congressmen usaid.gov",
    "url": "https://nitter.kareem.one/Petermarocco/status/2125573728977191043#m",
    "ts": 1795611242,
    "id": "2125573728977191043#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Early in his tenure, Lutnick so alienated members of his regular security detail that some quit. So he reassigned agents who were supposed to stop smuggling of AI chips but now travel on his private jet and guard his various homes. @vmsalama @shaneharris theatlantic.com/national-sec… Link The Agents Howard Lutnick Pulled off Their Jobs The commerce secretary reassigned them from safeguarding U.S. computer chips to working on his own security detail. theatlantic.com",
+   "url": "https://nitter.kareem.one/peterbakernyt/status/2125571084179132785#m",
+   "ts": 1795610612,
+   "id": "2125571084179132785#m"
   },
   {
    "handle": "elonmusk",
@@ -491,6 +508,15 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2125246128903877046#m",
    "ts": 1795533136,
    "id": "2125246128903877046#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "Chen Jining, Party Secretary of Shanghai and CCP rising star, has been detained for corruption. Former Tsinghua pres and Beijing mayor. Very big deal for 🇨🇳 AI ecosystem. Of all top leaders, he was most in touch w/ the key players across frontier companies, labs, etc. Just wow.",
+   "url": "https://nitter.kareem.one/mattsheehan88/status/2125239401546383652#m",
+   "ts": 1795531533,
+   "id": "2125239401546383652#m"
   },
   {
    "handle": "simonw",
@@ -1216,15 +1242,6 @@
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
-   "text": "The Trump-Xi summit may sidestep the Nvidia controversy, but the dispute could become the next U.S.-China flashpoint. More in this edition of the WSJ China newsletter, with sharp insights from @ryanl_hass wsj.com/world/china/why-neit… via @WSJ Link Why Neither Trump Nor Xi Is Likely to Raise Nvidia at Their Summit Plus, a former Harvard professor is recruiting Chinese-born U.S. scholars to return, amid a growing exodus of academic talent to China. | WSJ China for Nov. 17 wsj.com",
-   "url": "https://nitter.kareem.one/Lingling_Wei/status/2122699674683396271#m",
-   "ts": 1794926014,
-   "id": "2122699674683396271#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
    "text": "Megaspeed: Yeah, now that you mention it, we did have someone named Alice Huang who used to work here a long time ago, but she left in August 2025. reuters.com/business/megaspe… Link Megaspeed says Alice Huang left the company in August 2025 Her ties to Nvidia's former CEO raised US national-security concerns. Megaspeed said it conducted \"legitimate and lawful business\" and that external legal counsel would start an investigation. reuters.com",
    "url": "https://nitter.kareem.one/JChengWSJ/status/2122631078439747735#m",
    "ts": 1794909660,
@@ -1243,28 +1260,10 @@
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
-   "text": "Alice Huang and her husband operated on two tracks pointed at the same goal of vaulting China’s AI capabilities ahead of the U.S. Her job: cultivating a relationship with Nvidia's CEO. His job: building a government-backed data-center empire across China. on.wsj.com/4jkVlHJ Link Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State Kang Wei developed the business while his wife was involved with Nvidia’s then-CEO. wsj.com",
-   "url": "https://nitter.kareem.one/WSJ/status/2122534674945740950#m",
-   "ts": 1794886675,
-   "id": "2122534674945740950#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
    "text": "gift link wsj.com/world/china/alice-hu… Link Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State Kang Wei developed the business while his wife was involved with Nvidia’s then-CEO. wsj.com Lingling Wei 魏玲灵 (@Lingling_Wei) While Alice Huang was cultivating a personal relationship with Jensen Huang, her husband was involved in building billions of dollars' worth of data-center capacity in China. The two tracks run side by side for years. wsj.com/world/china/alice-hu… via @WSJ Link Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State Kang Wei developed the business while his wife was involved with Nvidia’s then-CEO. wsj.com — https://nitter.kareem.one/Lingling_Wei/status/2122517110874140702#m",
    "url": "https://nitter.kareem.one/lrozen/status/2122517507672256682#m",
    "ts": 1794882582,
    "id": "2122517507672256682#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "While Alice Huang was cultivating a personal relationship with Jensen Huang, her husband was involved in building billions of dollars' worth of data-center capacity in China. The two tracks run side by side for years. wsj.com/world/china/alice-hu… via @WSJ Link Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State Kang Wei developed the business while his wife was involved with Nvidia’s then-CEO. wsj.com",
-   "url": "https://nitter.kareem.one/Lingling_Wei/status/2122517110874140702#m",
-   "ts": 1794882488,
-   "id": "2122517110874140702#m"
   },
   {
    "handle": "thsottiaux",
