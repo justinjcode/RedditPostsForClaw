@@ -1,17 +1,18 @@
 {
- "generated_at": "2026-11-25T19:56:51Z",
+ "generated_at": "2026-11-25T20:11:15Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@bcherny: all instances failed"
+ ],
  "count": 179,
  "items": [
   {
@@ -157,6 +158,15 @@
    "url": "https://nitter.kareem.one/simonw/status/2125619997796123135#m",
    "ts": 1795622274,
    "id": "2125619997796123135#m"
+  },
+  {
+   "handle": "Lingling_Wei",
+   "name": "Lingling Wei",
+   "author": "@Lingling_Wei",
+   "text": "The briefing also touched on Kang Wei, a man described as Alice Huang’s husband. He was an MSS asset, the briefers said, and was often in touch with the spy service, they said. People who know Kang and Alice Huang have described them to WSJ as husband and wife.",
+   "url": "https://nitter.kareem.one/alexbward/status/2125618267528306938#m",
+   "ts": 1795621861,
+   "id": "2125618267528306938#m"
   },
   {
    "handle": "elonmusk",
@@ -1246,15 +1256,6 @@
    "url": "https://nitter.kareem.one/JChengWSJ/status/2122631078439747735#m",
    "ts": 1794909660,
    "id": "2122631078439747735#m"
-  },
-  {
-   "handle": "Lingling_Wei",
-   "name": "Lingling Wei",
-   "author": "@Lingling_Wei",
-   "text": "It was sitting there in public documents all along. Alice Huang developed the relationship and chip pipeline with Jensen. Her husband funneled the chips to his data centers in China. “The scale of Kang’s data-center business was striking. From 2021 to 2024, the proposed investments tied to Kang’s network topped $9 billion, all built with government backing. Chinese government officials hailed Kang’s projects as part of China’s national push to ramp up computing power across the country.” Lingling Wei 魏玲灵 (@Lingling_Wei) While Alice Huang was cultivating a personal relationship with Jensen Huang, her husband was involved in building billions of dollars' worth of data-center capacity in China. The two tracks run side by side for years. wsj.com/world/china/alice-hu… via @WSJ Link Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State Kang Wei developed the business while his wife was involved with Nvidia’s then-CEO. wsj.com — https://nitter.kareem.one/Lingling_Wei/status/2122517110874140702#m",
-   "url": "https://nitter.kareem.one/nicoleperlroth/status/2122583072495575176#m",
-   "ts": 1794898214,
-   "id": "2122583072495575176#m"
   },
   {
    "handle": "Lingling_Wei",
