@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-25T09:55:14Z",
+ "generated_at": "2026-11-25T10:10:49Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "I am having some of the most fun with programming ever. I am creating things I haven't seen any one else make. I THINK I am going have a game that I sell to people at the end of all this, for sure, and i'm convinced some of this passion will shine through. yay more airplanes",
+   "url": "https://nitter.kareem.one/notch/status/2125516788473467263#m",
+   "ts": 1795597667,
+   "id": "2125516788473467263#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -40,6 +50,15 @@
    "url": "https://nitter.kareem.one/TimSweeneyEpic/status/2125513144353411115#m",
    "ts": 1795596798,
    "id": "2125513144353411115#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "A solo developer just vibe-coded his first game and made $1.33 million on Steam in just one week. His game, Slotbound, has sold over 200,000 copies in six days and has a 91% Very Positive rating. The dev openly admitted using AI for coding and parts of the game’s visuals. “AI was involved throughout the project, especially with coding and parts of the visual workflow.”",
+   "url": "https://nitter.kareem.one/Pirat_Nation/status/2125485386009084378#m",
+   "ts": 1795590180,
+   "id": "2125485386009084378#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -132,15 +151,6 @@
    "id": "2125444028527468699#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The USAID Files is one of the most disgusting reads I have ever come across. The deep state functions like an AWFL mafia that invites tech CEOs for boba teas and then leans on them to \"share their values\" for globomarxist domination. I think I'm going to be sick. Edward Coristine (@as400495) Now on USAID.gov , you can read internal memos and communications showing how the agency actually operated behind the scenes usaid.gov — https://nitter.kareem.one/as400495/status/2125408304444674380#m",
-   "url": "https://nitter.kareem.one/kylenabecker/status/2125432257066537024#m",
-   "ts": 1795577513,
-   "id": "2125432257066537024#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -171,28 +181,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "BREAKING: Argentina’s Salta government announces 226 Starlink antennas to connect remote communities. 🇦🇷 The planned rollout, coordinated with national authorities and the provincial education ministry, will help children get online and expand their educational opportunities. Video",
-   "url": "https://nitter.kareem.one/cb_doge/status/2125413614169522335#m",
-   "ts": 1795573068,
-   "id": "2125413614169522335#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "I'm trying out Gemini right now. It seems good at coding, but it's not easy to use. Grok Bot is just so much easier to work with. I gave Gemini access to my Mac Studio, and it was acting weird. Same with Claude. Smart, but not easy to work with. Can anyone relate?",
    "url": "https://nitter.kareem.one/Texas_Twins_Dad/status/2125399348389273951#m",
    "ts": 1795569667,
    "id": "2125399348389273951#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "sometimes it really does feel like this.",
-   "url": "https://nitter.kareem.one/chrisalbon/status/2125380069724196865#m",
-   "ts": 1795565070,
-   "id": "2125380069724196865#m"
   },
   {
    "handle": "swyx",
@@ -346,6 +338,15 @@
    "url": "https://nitter.kareem.one/harvey/status/2125259420259250209#m",
    "ts": 1795536305,
    "id": "2125259420259250209#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The secrecy of the USAID grant database is by design. Look up the addresses of entities receiving millions of dollars on Google maps and you’ll find shacks or empty land. It’s pure money laundering. Video",
+   "url": "https://nitter.kareem.one/DeepLeaksHQ/status/2125256663741714676#m",
+   "ts": 1795535648,
+   "id": "2125256663741714676#m"
   },
   {
    "handle": "ZichenWanghere",
