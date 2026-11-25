@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-25T16:56:04Z",
+ "generated_at": "2026-11-25T17:07:08Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
   {
@@ -37,7 +36,7 @@
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
-   "text": "as seen on anthropic blog! Lance Martin (@RLanceMartin) we recently migrated the Claude Messages API from Python to Rust. in this new eng blog, we share how we used the Python API as an oracle, set up verification loops, and had a team of agents fix diffs until Rust matched production's observable behavior. anthropic.com/research/migra… Link Migrating our Messages API to Rust Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems. anthropic.com — https://nitter.kareem.one/RLanceMartin/status/2125627070084796562#m",
+   "text": "as seen on anthropic blog! Lance Martin (@RLanceMartin) we recently migrated the Claude Messages API from Python to Rust. in this new eng blog, we share how we used the Python API as an oracle, set up verification loops, and had a team of agents fix diffs until Rust matched production's observable behavior. anthropic.com/research/migra… Link Migrating our Messages API to Rust How we used the existing Messages API to verify the new one, with teams of Claude agents tracking down and fixing differences between the Python and Rust versions. anthropic.com — https://nitter.kareem.one/RLanceMartin/status/2125627070084796562#m",
    "url": "https://nitter.kareem.one/swyx/status/2125627500487393285#m",
    "ts": 1795624063,
    "id": "2125627500487393285#m"
