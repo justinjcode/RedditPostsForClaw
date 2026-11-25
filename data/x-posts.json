@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T05:46:03Z",
+ "generated_at": "2026-11-25T05:56:05Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,24 @@
  "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok Bot can research the best Black Friday deals for you and confirm they’re authentic Mori (@0xjmori) Holy f*ck... Elon Musk's team just made fake Black Friday deals useless Yesterday Elon posted \"Grok Bot can find you Black Friday deals\" Set it up once and it checks every store every couple of hours, then pings you only when a price actually drops 6 deals I'm never falling for again, and the exact line I say: → Best Buy: \"The 65 inch OLED deal is $1,299. Was it cheaper in October? Then wait\" → Amazon: \"Ping me when AirPods Pro 3 hit their lowest price in 90 days\" → Walmart: \"Buy the PS5 Pro the day it's $100 off, not before\" → Target: \"Price match anything I bought this month that drops on Friday\" → Dyson: \"The tag says was $749. Tell me what it really sold for in September\" → Costco: \"Check if my whole list is cheaper here than the Black Friday deal\" Add one rule first: never buy anything without asking me Say the Best Buy line to Grok Bot tonight Then read how to turn one bot like this into a whole team in the article below ↓ Video — https://nitter.kareem.one/0xjmori/status/2125227960877597047#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2125464682580623467#m",
+   "ts": 1795585244,
+   "id": "2125464682580623467#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Impressive work by Google Sundar Pichai (@sundarpichai) Neon set a new Day-1 usage record on our paid APIs and @Antigravity tokens/day are ⬆️ 82% since Argon launched (only) 6 weeks ago. It's been great to see the reception and thanks for all the model feedback including areas to improve - huge thanks to the teams across @GoogleDeepMind , Research, Infrastructure and serving teams, security efforts to make sure we are responsibly advancing the frontier and the product teams, more progress to come! — https://nitter.kareem.one/sundarpichai/status/2125311868168515603#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2125463852146114994#m",
+   "ts": 1795585046,
+   "id": "2125463852146114994#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -168,6 +186,15 @@
    "id": "2125379600104689676#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok Bot is really good. JJ Englert (@JJEnglert) If you want to build bots for you and your team, @bot is currently the best option on the market. And with Grokbot 1.0, they made it easier than ever before. And in this video, I'll show you how to do it in 15 minutes: - Create a team bot - Embed the team bot within Slack - Share the bot with your team + add managers + view analytics - Have your bot call people - Have your bot join meetings with you (even if you don't attend the meeting) - And much more It is a bit costly, but for the value it provides to you and your business, I think it's worth it. The potential here is only limited by your imagination. You could literally (and people do) create bots for most of the ops in your company. I also shared the templates for my bots in this video. Links in comments. Video — https://nitter.kareem.one/JJEnglert/status/2124160401235386447#m",
+   "url": "https://nitter.kareem.one/JJEnglert/status/2125378906459140191#m",
+   "ts": 1795564793,
+   "id": "2125378906459140191#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -213,6 +240,15 @@
    "id": "2125337322468295036#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Baker on a16z admitted something nobody his age says out loud. 23-year-olds are more fluent in AI than he will ever be. He has been trying hard. He is still behind. Then he explained how Grok Bot leveled it. \"We got Claude Code. I built some stuff, did some cool stuff. Then in 3 minutes of creating Grok Bots, I had much better versions of everything I created.\" Podcast summarizer. 10 seconds in Grok Bot. Substack summarizer, X summarizer, X sentiment tracker. Hours in Claude Code. 7 to 12 seconds in Grok Bot. Better. His frame: \"To me, Grok Bot does feel like another ChatGPT moment.\" Baker runs billions. He is calling Grok Bot a category reset. Video stark0xbt (@stark0xbt) Article The Age of Elon in Receipts: What 15 Blue-Chip Fund Managers Have Said About Musk in 2026 Opening: The Quote That Named a Decade In October 2026, Gavin Baker — the man who owned 15% of Nvidia under a $1B market cap and 10% of Tesla sub-$2B — sat down for a podcast and said one phrase that — https://nitter.kareem.one/stark0xbt/status/2110060506782253061#m",
+   "url": "https://nitter.kareem.one/stark0xbt/status/2125331798083453382#m",
+   "ts": 1795553562,
+   "id": "2125331798083453382#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -229,15 +265,6 @@
    "url": "https://nitter.kareem.one/tianyuf/status/2125322642320187838#m",
    "ts": 1795551379,
    "id": "2125322642320187838#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "SpaceX has agreed to forgo $738 million in U.S. federal broadband subsidies and instead provide free @Starlink hardware to eligible American households. NTIA: \"To ensure that no consumer at a Covered BSL is left behind, the provider (SpaceX) will serve the covered BSLs as this agreement provides. This includes providing customer premises equipment at no cost to new subscribers, so that households at covered BSL do not face the upfront equipment costs. Additionally, the provider’s broadband service will be subject to the same delivery timelines and performance testing requirements applicable to all recipients of BEAD funds.\" Under the new agreement, SpaceX would: • Provide free Starlink hardware to eligible households. • Guarantee minimum download speeds of 100 Mbps and upload speeds of 20 Mbps. • Offer a low-cost monthly internet plan. • Commit to providing service for 10 years. • Continue to comply with federal performance testing requirements. The agreement will save American taxpayers hundreds of millions of dollars while accelerating high-speed internet access in underserved rural communities. In exchange, SpaceX would be exempt from most BEAD-related financial audits, procurement requirements and administrative reporting, while remaining subject to network performance testing.",
-   "url": "https://nitter.kareem.one/SawyerMerritt/status/2125314062997467640#m",
-   "ts": 1795549333,
-   "id": "2125314062997467640#m"
   },
   {
    "handle": "TheRundownAI",
@@ -312,15 +339,6 @@
    "id": "2125268812379365780#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Liftoff! Video",
-   "url": "https://nitter.kareem.one/SpaceX/status/2125260653560562086#m",
-   "ts": 1795536599,
-   "id": "2125260653560562086#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -328,15 +346,6 @@
    "url": "https://nitter.kareem.one/harvey/status/2125259420259250209#m",
    "ts": 1795536305,
    "id": "2125259420259250209#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Watch Falcon 9 launch the USSF-266 mission from pad 4E in California nitter.kareem.one/i/broadcasts/2JQXBjLyY… Link SpaceX USSF-266 Mission https://nitter.kareem.one/i/broadcasts/2JQXBjLyYOQrpX",
-   "url": "https://nitter.kareem.one/SpaceX/status/2125257116449648858#m",
-   "ts": 1795535756,
-   "id": "2125257116449648858#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -364,15 +373,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2125250776440164632#m",
    "ts": 1795534245,
    "id": "2125250776440164632#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "just added my work experience i love my very professional job Benji Taylor (@benjitaylor) brb, just adding work experience to my 𝕏 profile Video — https://nitter.kareem.one/benjitaylor/status/2125049706644705283#m",
-   "url": "https://nitter.kareem.one/IterIntellectus/status/2125246814580592758#m",
-   "ts": 1795533300,
-   "id": "2125246814580592758#m"
   },
   {
    "handle": "Lingling_Wei",
