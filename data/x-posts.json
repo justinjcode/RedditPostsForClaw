@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T11:26:50Z",
+ "generated_at": "2026-11-25T11:36:34Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,24 @@
  "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: therundownai.beehiiv.com/p/t… Link Three xAI founders want AI to predict the future Three xAI founders launch Epochal, giving AI agents a \"time machine\" to relive 30+ years of the web and potentially predict the future. Plus: Copilot tips. therundownai.beehiiv.com",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2125552773265605004#m",
+   "ts": 1795606246,
+   "id": "2125552773265605004#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in AI today: - xAI founding trio creates a time machine for AI - Report: Frontier AI staff fear their own internal models - How to put Microsoft Copilot to work - Tidal draws a hard line on AI-made music",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2125552768467288153#m",
+   "ts": 1795606245,
+   "id": "2125552768467288153#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -940,24 +958,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2123796680902586814#m",
    "ts": 1795187561,
    "id": "2123796680902586814#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: therundownai.beehiiv.com/p/a… Link Anthropic pulls off the biggest IPO ever Anthropic goes public on the Nasdaq in the largest IPO ever, topping SpaceX's record. CEO Dario Amodei pledges safety will guide its AI models. therundownai.beehiiv.com",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2123740717289771167#m",
-   "ts": 1795174218,
-   "id": "2123740717289771167#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in AI today: - Anthropic raises $81B in the largest IPO ever - Rowan's Corner: 4 things that stuck with me from DealBook - Use AI to find a job and prepare to get hired - OpenAI’s agents now handle half its long research tasks",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2123740711820386506#m",
-   "ts": 1795174217,
-   "id": "2123740711820386506#m"
   },
   {
    "handle": "thsottiaux",
