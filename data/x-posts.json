@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T04:22:40Z",
+ "generated_at": "2026-11-25T04:33:43Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,10 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "hey is silicon valley okay because wtf MTS (@MTSlive) \"Basically most jobs are UBI right now.\" Morph founder @tejasybhakta argues that AI could create even more bullshit jobs rather than lead to mass unemployment: \"Most people are in jobs that don't need to exist. These procurement officers that are putting out this paperwork that doesn't need to be done to sign this doc that no one cares about or will ever read. \"Basically most jobs are UBI right now. That's sort of the hottest take in there.\" \"Some people have this take that we're gonna have more mass unemployment as a result of this. I almost feel the opposite. I think we're gonna have more bullshit jobs, just way more.\" \"Pre-AGI, 40% of jobs were just not really actually doing anything. In order for that organism to keep surviving, it needs these people to have UBI, otherwise the economy falls apart.\" \"So we'll just have more jobs that are fake jobs while AGI does all the work.\" @morphllm Video — https://nitter.kareem.one/MTSlive/status/2125367695730421863#m",
+   "url": "https://nitter.kareem.one/swyx/status/2125444028527468699#m",
+   "ts": 1795580319,
+   "id": "2125444028527468699#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -860,15 +869,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2123997735326232775#m",
    "ts": 1795235496,
    "id": "2123997735326232775#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "We’re excited to announce our MCs for React Miami 2027 are none other than thee @poteto and @threepointone !! 🎉🎉 🎉 React Miami (@ReactMiamiConf) We've got some big announcements planned for tonight at the React Miami Launch Party including our stellar MCs! Any guesses? RSVP ⬇️ — https://nitter.kareem.one/ReactMiamiConf/status/2123810307109982261#m",
-   "url": "https://nitter.kareem.one/ReactMiamiConf/status/2123970859362611496#m",
-   "ts": 1795229088,
-   "id": "2123970859362611496#m"
   },
   {
    "handle": "swyx",
