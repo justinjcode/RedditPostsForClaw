@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-25T18:30:01Z",
+ "generated_at": "2026-11-25T18:40:17Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +10,9 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 179,
  "items": [
   {
@@ -67,15 +68,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2125627281230205435#m",
    "ts": 1795624010,
    "id": "2125627281230205435#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Innovacer is streamlining healthcare operations with Grok Voice, with over 5M patient interactions and 90% reduction in processing time Innovaccer (@innovaccer) 5M+ patient voice interactions in six months, up from ~250K. Grok Voice now expands what Innovaccer’s Gravity Voice AI can do: → 3x referral intakes → 90% less documentation time → 25+ languages, HIPAA-eligible Voice AI is moving from answering questions to doing work. — https://nitter.kareem.one/innovaccer/status/2125614360429252680#m",
-   "url": "https://nitter.kareem.one/SpaceXSI/status/2125624230918451492#m",
-   "ts": 1795623283,
-   "id": "2125624230918451492#m"
   },
   {
    "handle": "elonmusk",
@@ -436,6 +428,15 @@
    "url": "https://nitter.kareem.one/harvey/status/2125259420259250209#m",
    "ts": 1795536305,
    "id": "2125259420259250209#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The secrecy of the USAID grant database is by design. Look up the addresses of entities receiving millions of dollars on Google maps and you’ll find shacks or empty land. It’s pure money laundering. Video",
+   "url": "https://nitter.kareem.one/DeepLeaksHQ/status/2125256663741714676#m",
+   "ts": 1795535648,
+   "id": "2125256663741714676#m"
   },
   {
    "handle": "ZichenWanghere",
