@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-25T15:10:19Z",
+ "generated_at": "2026-11-25T15:21:09Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
   {
@@ -46,10 +45,37 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "别再说马斯克挺黄仁勋只是演戏了。 看看去年黄仁勋亲自飞去 SpaceX 见马斯克的这段视频，这段交情，早就在十年前焊死了。 2016 年，黄仁勋发布全世界第一台 AI 超算 DGX-1。那是当时最顶尖的机器，可发布完，台下一片安静，一张订单都没有。 直到去年 10 月，老黄带着最新一代 DGX Spark 去 SpaceX 找马斯克，当面提起那次冷场，他依然记得清清楚楚： “全场一片安静。只有一个人例外。那个人，就是你。” 马斯克脱口而出：“我当时觉得，这主意太棒了。” 就凭这一句，那台初代机器被送到了当时的 OpenAI，也顺手点燃了今天的 AI 时代。 再看这个月。 11 月 13 日，黄仁勋还在谷底、能否回归毫无定数，马斯克公开站出来签请愿书； 11 月 23 日，老黄官宣复职，他只淡淡丢下一句：It is done。 转头人就直接现身英伟达总部，和老黄一起庆祝。 把这两件事放一起看，最戳人的根本不是他们如今多风光，而是这两个时间点—— 一次产品还没卖出去，一次人还没回去。两次，马斯克都没等结果。 世人习惯等尘埃落定才选边站，顶级强者之间最稀缺的，恰恰是看不清结局时的那次托底。 Video",
+   "url": "https://nitter.kareem.one/ZhouTalks/status/2125590799933116580#m",
+   "ts": 1795615312,
+   "id": "2125590799933116580#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "One of my friends asked Grok Bot to sort out his family’s Bali visas. 5 visas issued. Arrival cards submitted. QR code delivered. He approved the payments on his phone. Grok Bot handled the rest. Grok Bot can do almost anything.",
    "url": "https://nitter.kareem.one/cb_doge/status/2125589527507116342#m",
    "ts": 1795615009,
    "id": "2125589527507116342#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Ramon Salcido took his three young daughters to a county dump, slit their throats, and left them for dead. He murdered a total of seven people that day, including two of his own daughters. Gavin Newsom just granted Salcido clemency.",
+   "url": "https://nitter.kareem.one/RapidResponse47/status/2125585420159189385#m",
+   "ts": 1795614030,
+   "id": "2125585420159189385#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "F*ck YES... Grok Bot runs my Etsy shop now, 2,318 orders in 5 weeks and I've never packed a single box Elon Musk says Grok Bot can find you the real Black Friday deals, mine is the one selling them, and Etsy paid me $14,212 before Black Friday even started 6 bots, a shift each, I haven't drawn a single design: → 6 AM: Scout reads what climbed in Etsy search overnight and picks 3 gift ideas → 8 AM: Designer makes 40 ornaments in Grok Imagine and turns every pet photo a buyer sends into a custom one in 4 minutes → 10 AM: Lister writes the title and all 13 tags, then puts each design on a mockup photo → 1 PM: Pricer runs a real 30% off, never a fake \"was\" price, the deal bots catch those now → 4 PM: Concierge answers every buyer message in under 10 minutes → Midnight: Analyst kills every listing with 0 sales in 14 days and clones the winners Printify prints and ships every order, I never touch one Why Etsy never pulled the shop: line 1 of every listing says it was made with AI, the shops that hide it lose everything Give your first bot one gift idea and the Scout job tonight, the other 5 can wait From that first bot to a crew of 6, the whole setup is in the guide below ↓ Video distort (@distortgeekin) Grok Bot can now make your calls, sort your inbox and run your week while you sleep Most people still use it like a chatbot Everything it can do in one guide: first bot, routines, a full team, calls, and 5 rules that keep it off your money ↓ Article Grok Bot: The Ultimate Guide (Fr",
+   "url": "https://nitter.kareem.one/distortgeekin/status/2125584444064993429#m",
+   "ts": 1795613797,
+   "id": "2125584444064993429#m"
   },
   {
    "handle": "elonmusk",
@@ -154,37 +180,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Starlink Steph Debour (@StephDebour) Five years ago, Starlink wasn't on a single ship. Now it's on 66,866. That's more ships than every provider had combined back then. Before Starlink, if you were a sailor, your internet came from Inmarsat. An unlimited plan cost €3,259 a month for 2 Mbps, and the whole crew had to share it. Then Starlink showed up in 2022 at US$5,000 a month for up to 350 Mbps. In 2027, a plan that covers an ullimited whole cargo ship comes in at US$4,650. OneWeb, the closest rival in low orbit, is on 1,662 ships. Its cheapest unlimited plan is about US$7,400 a month, and it maxes out at 30 Mbps. Market share at sea, by revenue: 2021: Inmarsat almost a third, Starlink 0% 2024: Starlink 39%, the biggest To be fair, Inmarsat and OneWeb guarantee a minimum speed and Starlink doesn't. Some fleets still pay extra for that. Zero to number one in four years, and still the cheaper option. That's hard to compete with. — https://nitter.kareem.one/StephDebour/status/2125295887555436906#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2125516563277328690#m",
-   "ts": 1795597613,
-   "id": "2125516563277328690#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok is so much fun on Tesla road trips! stepfanie (@stepfanie) My dad and stepmom got a Model Y Performance last week and called me from the road today asking how to create a free X account so they could get more Grok credits in the car I’m like, what?? You don’t need an X account to use Grok in the car? “No, we ran out of credits.” I didn’t even know it was possible to run out of Grok credits in a Tesla. HOW MUCH ARE YOU GUYS TALKING TO GROK??? “Well, we’ve been in the car for seven and a half hours, so seven and a half hours.” LMFAOOOO My dad’s been telling Grok to turn the AC on and off and my stepmom goes, “I even asked it to tell me a 30-minute story about an American belle. My gosh Stepf, this thing is wonderful.” Mind you, three years ago my dad was anti-EV. Now he’s a full working day into a conversation with his car and calling me because he wants to keep it going Elon, you absolute madman — https://nitter.kareem.one/stepfanie/status/2125418528513892403#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2125516475712844116#m",
-   "ts": 1795597592,
-   "id": "2125516475712844116#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "concerning Gina Milan (@ginamilan_) 🚨 30 things the USAID files exposed about the Biden administration. 👇 1. Oct 2022: USAID's head of disinformation wrote, \"We need to get through the midterms without any leaks!\" 2. Oct 2022: The White House disinformation plan was scrapped because it \"failed to square the challenges of domestic vs. foreign disinformation.\" 3. July 2022: USAID held off on its own disinformation office because of the backlash to DHS's \"Disinformation Governance Board.\" 4. Aug 2022: A USAID official said to swap \"disinformation\" for \"digital democracy\" in a title, \"to cover all of our rear ends.\" 5. Oct 2022: USAID launched an agency-wide \"Information Resilience Council\" that included outreach to tech companies and Congress. 6. 2022: State opposed a list telling tech platforms who to boost, over free speech concerns, so USAID pitched having outside groups run it instead. 7. Dec 2022: State, USAID, and DHS met with Google's Trust & Safety team to plan for the 2024 election. 8. Dec 2022: Google said it might \"revisit Twitter's inclusion\" in Google Search over how Elon Musk's Twitter handled elections. 9. Nov 2022: YouTube asked to brief USAID on Section 230 reform, while admitting \"230 is a US domestic regulatory issue.\" 10. Late 2022: USAID mapped a LinkedIn \"backchannel\" for account reviews, noting \"company leadership may not actively know about this initiative.\" 11. Apr 2023: The counterterrorism center was sending YouTube content to review, and USAID notes s",
    "url": "https://nitter.kareem.one/brivael/status/2125513228738584796#m",
    "ts": 1795596818,
    "id": "2125513228738584796#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "It’s garbage and blocked some set theory work I was doing, accusing me of distillation. This was with 1-2 hours a day of promoting on a company account. Anthropic can’t keep sabotaging customers’ work like this.",
-   "url": "https://nitter.kareem.one/TimSweeneyEpic/status/2125513144353411115#m",
-   "ts": 1795596798,
-   "id": "2125513144353411115#m"
   },
   {
    "handle": "elonmusk",
