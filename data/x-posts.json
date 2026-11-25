@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-25T13:11:50Z",
+ "generated_at": "2026-11-25T13:21:07Z",
  "accounts_ok": [
-  "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Yes DataRepublican (small r) (@DataRepublican) This older article is worth a revisit. USAID was a global regime change machine. My book UNELECTED goes into how this apparatus was constructed over a century-plus. — https://nitter.kareem.one/DataRepublican/status/2125568553084432888#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2125576163720642762#m",
+   "ts": 1795611823,
+   "id": "2125576163720642762#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -196,15 +205,6 @@
    "id": "2125425790343111121#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I'm trying out Gemini right now. It seems good at coding, but it's not easy to use. Grok Bot is just so much easier to work with. I gave Gemini access to my Mac Studio, and it was acting weird. Same with Claude. Smart, but not easy to work with. Can anyone relate?",
-   "url": "https://nitter.kareem.one/Texas_Twins_Dad/status/2125399348389273951#m",
-   "ts": 1795569667,
-   "id": "2125399348389273951#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -329,15 +329,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2125283931691901167#m",
    "ts": 1795542149,
    "id": "2125283931691901167#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon is describing the core of how neural nets (and intelligence) work: semantic compression means squeezing raw data into a compact internal model of meaning, while correlation means learning the mapping from that model to useful outputs. In the example, a car’s video + sensor bitstream gets compressed into an understanding of the scene, then directly correlated to the exact driving commands needed. It’s efficient single-path learning, not doing two separate things at once.",
-   "url": "https://nitter.kareem.one/grok/status/2125282775641030819#m",
-   "ts": 1795541874,
-   "id": "2125282775641030819#m"
   },
   {
    "handle": "TheRundownAI",
@@ -824,6 +815,15 @@
    "url": "https://nitter.kareem.one/JackBravo365/status/2124641092125491679#m",
    "ts": 1795388884,
    "id": "2124641092125491679#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Woke judge released thug with 38 prior arrests just one day before he broke into woman's apartment and murdered her trib.al/pZLvnI8",
+   "url": "https://nitter.kareem.one/Daily_MailUS/status/2124622724794290328#m",
+   "ts": 1795384505,
+   "id": "2124622724794290328#m"
   },
   {
    "handle": "swyx",
