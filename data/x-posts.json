@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T17:27:48Z",
+ "generated_at": "2026-11-25T17:36:56Z",
  "accounts_ok": [
   "TheRundownAI",
   "ZichenWanghere",
@@ -15,6 +15,15 @@
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "It's only been two weeks? I've made 194 commits to my open source projects that were co-authored by Fable 5.2 Claude (@claudeai) It’s been two weeks since we released Claude Fable 5.2. Here’s what people have been exploring with it: Where the letter A came from, one alphabet at a time. Video — https://nitter.kareem.one/claudeai/status/2125616057788637364#m",
+   "url": "https://nitter.kareem.one/simonw/status/2125640464863056148#m",
+   "ts": 1795627153,
+   "id": "2125640464863056148#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -1202,15 +1211,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2122753991000133943#m",
    "ts": 1794938964,
    "id": "2122753991000133943#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "I shipped a new version of Datasette Lite recently - my build of the Datasette Python web app that runs entirely in the browser with WebAssembly and Pyodide - here's what's new and how it all works simonwillison.net/2026/Nov/1… Link Running the full server-side Datasette Python app in the browser with service workers and Pyodide Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide. I’ve released a complete rewrite of Datasette Lite using service … simonwillison.net",
-   "url": "https://nitter.kareem.one/simonw/status/2122746008736276734#m",
-   "ts": 1794937061,
-   "id": "2122746008736276734#m"
   },
   {
    "handle": "Lingling_Wei",
