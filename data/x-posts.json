@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-25T13:54:47Z",
+ "generated_at": "2026-11-25T14:10:36Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +10,29 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "One of my friends asked Grok Bot to sort out his family’s Bali visas. 5 visas issued. Arrival cards submitted. QR code delivered. He approved the payments on his phone. Grok Bot handled the rest. Grok Bot can do almost anything.",
+   "url": "https://nitter.kareem.one/cb_doge/status/2125589527507116342#m",
+   "ts": 1795615009,
+   "id": "2125589527507116342#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "I think this clip of Nick Bostrom is quite under-appreciated He inverts “if anyone builds it everyone dies” to “if nobody builds it everyone dies” and posits superintelligence as poised to extend lives to 1200 to 1400 years Video Elena (@VirtualElena) one assumption i want to question about AI is that we'll eventually figure out the “best future” and then the remaining task will be getting everyone to agree to it. people want different things, and what they want can change. where more intelligence will help is in making those differences easier to accommodate. nick bostrom's influence is worth revisiting on anthropic's ipo day. dario, like many of today’s most influential ai founders and researchers, read his work over a decade ago, and bostrom’s book superintelligence helped define questions the industry still faces. i'd like us to engage just as seriously with the possibilities bostrom explores in deep utopia, his subsequent book which asks what we do after we get superintelligence. some notes from my conversation with @eddylazzarin : -superintelligence could make radically different versions of the “good life” possible. you might want a 200-year lifespan and a village where nobody carries a phone; someone else might want neural implants. someone else might want to live in vice city (either the real version or just a super realistic matrix-sim). ai could help design the economic arrangements that sustain all of this. -there’s a secondary problem though - even when we have b",
+   "url": "https://nitter.kareem.one/garrytan/status/2125580632814412155#m",
+   "ts": 1795612888,
+   "id": "2125580632814412155#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -49,6 +68,15 @@
    "url": "https://nitter.kareem.one/Petermarocco/status/2125573728977191043#m",
    "ts": 1795611242,
    "id": "2125573728977191043#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok Bot is the best assistant I ever had",
+   "url": "https://nitter.kareem.one/melvindvivas/status/2125559990572445797#m",
+   "ts": 1795607967,
+   "id": "2125559990572445797#m"
   },
   {
    "handle": "TheRundownAI",
@@ -99,6 +127,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "concerning Gina Milan (@ginamilan_) 🚨 30 things the USAID files exposed about the Biden administration. 👇 1. Oct 2022: USAID's head of disinformation wrote, \"We need to get through the midterms without any leaks!\" 2. Oct 2022: The White House disinformation plan was scrapped because it \"failed to square the challenges of domestic vs. foreign disinformation.\" 3. July 2022: USAID held off on its own disinformation office because of the backlash to DHS's \"Disinformation Governance Board.\" 4. Aug 2022: A USAID official said to swap \"disinformation\" for \"digital democracy\" in a title, \"to cover all of our rear ends.\" 5. Oct 2022: USAID launched an agency-wide \"Information Resilience Council\" that included outreach to tech companies and Congress. 6. 2022: State opposed a list telling tech platforms who to boost, over free speech concerns, so USAID pitched having outside groups run it instead. 7. Dec 2022: State, USAID, and DHS met with Google's Trust & Safety team to plan for the 2024 election. 8. Dec 2022: Google said it might \"revisit Twitter's inclusion\" in Google Search over how Elon Musk's Twitter handled elections. 9. Nov 2022: YouTube asked to brief USAID on Section 230 reform, while admitting \"230 is a US domestic regulatory issue.\" 10. Late 2022: USAID mapped a LinkedIn \"backchannel\" for account reviews, noting \"company leadership may not actively know about this initiative.\" 11. Apr 2023: The counterterrorism center was sending YouTube content to review, and USAID notes s",
+   "url": "https://nitter.kareem.one/brivael/status/2125513228738584796#m",
+   "ts": 1795596818,
+   "id": "2125513228738584796#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "It’s garbage and blocked some set theory work I was doing, accusing me of distillation. This was with 1-2 hours a day of promoting on a company account. Anthropic can’t keep sabotaging customers’ work like this.",
    "url": "https://nitter.kareem.one/TimSweeneyEpic/status/2125513144353411115#m",
    "ts": 1795596798,
@@ -121,24 +158,6 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2125484769886830901#m",
    "ts": 1795590033,
    "id": "2125484769886830901#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok Bot can research the best Black Friday deals for you and confirm they’re authentic Mori (@0xjmori) Holy f*ck... Elon Musk's team just made fake Black Friday deals useless Yesterday Elon posted \"Grok Bot can find you Black Friday deals\" Set it up once and it checks every store every couple of hours, then pings you only when a price actually drops 6 deals I'm never falling for again, and the exact line I say: → Best Buy: \"The 65 inch OLED deal is $1,299. Was it cheaper in October? Then wait\" → Amazon: \"Ping me when AirPods Pro 3 hit their lowest price in 90 days\" → Walmart: \"Buy the PS5 Pro the day it's $100 off, not before\" → Target: \"Price match anything I bought this month that drops on Friday\" → Dyson: \"The tag says was $749. Tell me what it really sold for in September\" → Costco: \"Check if my whole list is cheaper here than the Black Friday deal\" Add one rule first: never buy anything without asking me Say the Best Buy line to Grok Bot tonight Then read how to turn one bot like this into a whole team in the article below ↓ Video — https://nitter.kareem.one/0xjmori/status/2125227960877597047#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2125464682580623467#m",
-   "ts": 1795585244,
-   "id": "2125464682580623467#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Impressive work by Google Sundar Pichai (@sundarpichai) Neon set a new Day-1 usage record on our paid APIs and @Antigravity tokens/day are ⬆️ 82% since Argon launched (only) 6 weeks ago. It's been great to see the reception and thanks for all the model feedback including areas to improve - huge thanks to the teams across @GoogleDeepMind , Research, Infrastructure and serving teams, security efforts to make sure we are responsibly advancing the frontier and the product teams, more progress to come! — https://nitter.kareem.one/sundarpichai/status/2125311868168515603#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2125463852146114994#m",
-   "ts": 1795585046,
-   "id": "2125463852146114994#m"
   },
   {
    "handle": "swyx",
@@ -213,15 +232,6 @@
    "id": "2125379600104689676#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok Bot is really good. JJ Englert (@JJEnglert) If you want to build bots for you and your team, @bot is currently the best option on the market. And with Grokbot 1.0, they made it easier than ever before. And in this video, I'll show you how to do it in 15 minutes: - Create a team bot - Embed the team bot within Slack - Share the bot with your team + add managers + view analytics - Have your bot call people - Have your bot join meetings with you (even if you don't attend the meeting) - And much more It is a bit costly, but for the value it provides to you and your business, I think it's worth it. The potential here is only limited by your imagination. You could literally (and people do) create bots for most of the ops in your company. I also shared the templates for my bots in this video. Links in comments. Video — https://nitter.kareem.one/JJEnglert/status/2124160401235386447#m",
-   "url": "https://nitter.kareem.one/JJEnglert/status/2125378906459140191#m",
-   "ts": 1795564793,
-   "id": "2125378906459140191#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -247,15 +257,6 @@
    "url": "https://nitter.kareem.one/wintonARK/status/2125354603579650198#m",
    "ts": 1795558999,
    "id": "2125354603579650198#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Baker on a16z admitted something nobody his age says out loud. 23-year-olds are more fluent in AI than he will ever be. He has been trying hard. He is still behind. Then he explained how Grok Bot leveled it. \"We got Claude Code. I built some stuff, did some cool stuff. Then in 3 minutes of creating Grok Bots, I had much better versions of everything I created.\" Podcast summarizer. 10 seconds in Grok Bot. Substack summarizer, X summarizer, X sentiment tracker. Hours in Claude Code. 7 to 12 seconds in Grok Bot. Better. His frame: \"To me, Grok Bot does feel like another ChatGPT moment.\" Baker runs billions. He is calling Grok Bot a category reset. Video stark0xbt (@stark0xbt) Article The Age of Elon in Receipts: What 15 Blue-Chip Fund Managers Have Said About Musk in 2026 Opening: The Quote That Named a Decade In October 2026, Gavin Baker — the man who owned 15% of Nvidia under a $1B market cap and 10% of Tesla sub-$2B — sat down for a podcast and said one phrase that — https://nitter.kareem.one/stark0xbt/status/2110060506782253061#m",
-   "url": "https://nitter.kareem.one/stark0xbt/status/2125331798083453382#m",
-   "ts": 1795553562,
-   "id": "2125331798083453382#m"
   },
   {
    "handle": "swyx",
