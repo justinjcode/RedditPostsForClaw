@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-25T02:47:21Z",
+ "generated_at": "2026-11-25T02:55:10Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
   {
@@ -113,6 +112,15 @@
    "url": "https://nitter.kareem.one/aiDotEngineer/status/2125326086900764900#m",
    "ts": 1795552200,
    "id": "2125326086900764900#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "every time there’s a debate about whether we should or shouldn’t trust journalism solely based on unfalsifiable sources I go back and check whether this 2018 story has been withdrawn (it hasn’t)",
+   "url": "https://nitter.kareem.one/tianyuf/status/2125322642320187838#m",
+   "ts": 1795551379,
+   "id": "2125322642320187838#m"
   },
   {
    "handle": "elonmusk",
@@ -761,15 +769,6 @@
    "url": "https://nitter.kareem.one/chrislakin/status/2124578257748300122#m",
    "ts": 1795373904,
    "id": "2124578257748300122#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Scott Bessent被问：总统支持Jensen Huang复职，你却要求找外部人选，是不是总统没理解其中的国家安全和监管风险？ Bessent说：Jensen Huang现在就是外部人员了。🤣 Video",
-   "url": "https://nitter.kareem.one/casualstudy023/status/2124567165089333485#m",
-   "ts": 1795371259,
-   "id": "2124567165089333485#m"
   },
   {
    "handle": "ZichenWanghere",
