@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-25T14:55:51Z",
+ "generated_at": "2026-11-25T15:10:19Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The $NVDA board was right to bring back @JensenHuang . I argue in the Economist why: The Economist (@TheEconomist) He is the key to stopping AI from becoming the preserve of a few, argues the venture capitalist economist.com/by-invitation/… Link Nvidia was right to bring back Jensen Huang, writes Sarah Guo He is the key to stopping AI from becoming the preserve of a few, argues the venture capitalist economist.com — https://nitter.kareem.one/TheEconomist/status/2125542621250515385#m",
+   "url": "https://nitter.kareem.one/saranormous/status/2125602695545504105#m",
+   "ts": 1795618149,
+   "id": "2125602695545504105#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -1336,15 +1346,6 @@
    "url": "https://nitter.kareem.one/ClaudeDevs/status/2118063143167693011#m",
    "ts": 1793820579,
    "id": "2118063143167693011#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Grok Bot can now make phone calls. Video",
-   "url": "https://nitter.kareem.one/bot/status/2118043939592942052#m",
-   "ts": 1793816001,
-   "id": "2118043939592942052#m"
   },
   {
    "handle": "bcherny",
