@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T08:44:49Z",
+ "generated_at": "2026-11-25T08:56:22Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -229,15 +229,6 @@
    "url": "https://nitter.kareem.one/SpaceX/status/2125342179216261600#m",
    "ts": 1795556037,
    "id": "2125342179216261600#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Geordie and Jess Flanagan run two home businesses on Salt Spring Island, B.C. Starlink keeps them connected at home and on remote job sites where other services drop out → starlink.com/saltspring",
-   "url": "https://nitter.kareem.one/Starlink/status/2125337322468295036#m",
-   "ts": 1795554879,
-   "id": "2125337322468295036#m"
   },
   {
    "handle": "elonmusk",
@@ -1345,6 +1336,15 @@
    "url": "https://nitter.kareem.one/ClaudeDevs/status/2118063143167693011#m",
    "ts": 1793820579,
    "id": "2118063143167693011#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok Bot can now make phone calls. Video",
+   "url": "https://nitter.kareem.one/bot/status/2118043939592942052#m",
+   "ts": 1793816001,
+   "id": "2118043939592942052#m"
   },
   {
    "handle": "bcherny",
