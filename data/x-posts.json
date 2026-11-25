@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T19:09:33Z",
+ "generated_at": "2026-11-25T19:17:13Z",
  "accounts_ok": [
   "TheRundownAI",
   "ZichenWanghere",
@@ -16,6 +16,15 @@
  "count": 179,
  "items": [
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "SpaceX Colossus 3 will greatly benefit the Arizona community SpaceX (@SpaceX) Our supercompute site in Cochise County has been designed with Arizona in mind: no gas plant, no industrial water use, and a dry-cooling closed-loop water system. SpaceX will also invest $50B+ into the area, bringing 1,000 local permanent jobs and up to 5,500 construction jobs to the area. We will pay for our own power and pay $3.6B to upgrade the grid. Current residents will not subsidize this project – in fact, residential rates for SSVEC customers may decrease by up to 40%. We value input from the local community, and we are looking forward to addressing questions during our planned meeting on December 9. We’re asking the Commission to keep it and let residents be heard. We think it's important these conversations happen publicly and in a timely manner. We are committed to helping build and grow the communities we live and work in for the better → spacex.com/sites/cochise-cou… — https://nitter.kareem.one/SpaceX/status/2125637438710153247#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2125667762324541673#m",
+   "ts": 1795633662,
+   "id": "2125667762324541673#m"
+  },
+  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -23,6 +32,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2125662737363857700#m",
    "ts": 1795632464,
    "id": "2125662737363857700#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "This is genuinely horrifying and tyrannical. Almost every group and individual claiming to be a \"disinformation expert\" or \"anti-disinformation group\" is not just a fraud but an authoritarian fraud devoted to forcibly suppressing political dissent: Mike Benz (@MikeBenzCyber) GDI put nearly every major conservative news outlet in America on an ad blacklist to financially assassinate their businesses. GDI killed $200 million in ad revenue to media outlets reporting the wrong \"narratives.\" GDI was recommended to USAID by the US intelligence community. — https://nitter.kareem.one/MikeBenzCyber/status/2125416977514557454#m",
+   "url": "https://nitter.kareem.one/ggreenwald/status/2125641635622973620#m",
+   "ts": 1795627433,
+   "id": "2125641635622973620#m"
   },
   {
    "handle": "simonw",
@@ -154,6 +172,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "Three days after the Riemann Hypothesis was proved in Lean, our agents had used it to prove 17 results. Six are named conjectures that were open until 20 November, including the Lindelöf hypothesis, Erdős Problem 985 and Euler’s idoneal numbers. Some had been open for more than 100 years. @livingbrain held the memory, OpenHuman’s agents wrote the proofs, and Lean checked every one. Video Community note: The listed conjectures (e.g. Lindelöf hypothesis, Euler idoneal numbers completeness, Erdős 985) were previously known to follow from RH or GRH per published results; the project formalizes those known implications in Lean. en.wikipedia.org/wiki/Lindel%C3… en.wikipedia.org/wiki/Idoneal_n… github.com/ChatAndBuild/c… erdosproblems.com/985 arxiv.org/pdf/math/98071… nitter.kareem.one/thomasfbloom/s",
+   "url": "https://nitter.kareem.one/ladyxtel/status/2125587817082601587#m",
+   "ts": 1795614601,
+   "id": "2125587817082601587#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "Ramon Salcido took his three young daughters to a county dump, slit their throats, and left them for dead. He murdered a total of seven people that day, including two of his own daughters. Gavin Newsom just granted Salcido clemency.",
    "url": "https://nitter.kareem.one/RapidResponse47/status/2125585420159189385#m",
    "ts": 1795614030,
@@ -266,15 +293,6 @@
    "url": "https://nitter.kareem.one/brivael/status/2125513228738584796#m",
    "ts": 1795596818,
    "id": "2125513228738584796#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "A solo developer just vibe-coded his first game and made $1.33 million on Steam in just one week. His game, Slotbound, has sold over 200,000 copies in six days and has a 91% Very Positive rating. The dev openly admitted using AI for coding and parts of the game’s visuals. “AI was involved throughout the project, especially with coding and parts of the visual workflow.”",
-   "url": "https://nitter.kareem.one/Pirat_Nation/status/2125485386009084378#m",
-   "ts": 1795590180,
-   "id": "2125485386009084378#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -437,15 +455,6 @@
    "url": "https://nitter.kareem.one/harvey/status/2125259420259250209#m",
    "ts": 1795536305,
    "id": "2125259420259250209#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The secrecy of the USAID grant database is by design. Look up the addresses of entities receiving millions of dollars on Google maps and you’ll find shacks or empty land. It’s pure money laundering. Video",
-   "url": "https://nitter.kareem.one/DeepLeaksHQ/status/2125256663741714676#m",
-   "ts": 1795535648,
-   "id": "2125256663741714676#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -907,15 +916,6 @@
    "id": "2124641092125491679#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Woke judge released thug with 38 prior arrests just one day before he broke into woman's apartment and murdered her trib.al/pZLvnI8",
-   "url": "https://nitter.kareem.one/Daily_MailUS/status/2124622724794290328#m",
-   "ts": 1795384505,
-   "id": "2124622724794290328#m"
-  },
-  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -1162,7 +1162,7 @@
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
-   "text": "For comparison, here's Gemini 4 Carbon nitter.kareem.one/simonw/status/21202589…",
+   "text": "For comparison, here's Gemini 4 Carbon Simon Willison (@simonw) Gemini 4 Carbon is good at pelican SVGs, but that's nothing new for Gemini \"Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and stomps around manhattan and queens and Brooklyn, use openstreetmap mapping data\" simonwillison.net/2026/Nov/1… Video — https://nitter.kareem.one/simonw/status/2120258951594037732#m",
    "url": "https://nitter.kareem.one/simonw/status/2122822433023590517#m",
    "ts": 1794955282,
    "id": "2122822433023590517#m"
