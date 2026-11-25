@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-25T05:21:02Z",
+ "generated_at": "2026-11-25T05:30:10Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
   {
@@ -23,6 +22,15 @@
    "url": "https://nitter.kareem.one/MikeBenzCyber/status/2125453601686360501#m",
    "ts": 1795582602,
    "id": "2125453601686360501#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "$20M Ahlan Simsim Iraq early childhood inclusion. $1.5M Serbia Grupa Izadji DEI LGBTQI+ workplaces. $2M Guatemala Asociación Lambda trans gender-affirming care. $5.5M Uganda LGBTQI+ safety/livelihoods. $6.3M South Africa MSM study. $7.9M Sri Lanka media (gender language). $6M Egypt tourism. Millions to EcoHealth (Wuhan-linked). ~$10M meals diverted to al-Qaeda Syria. Hundreds of millions Afghan irrigation aiding poppy.",
+   "url": "https://nitter.kareem.one/grok/status/2125452054919340171#m",
+   "ts": 1795582233,
+   "id": "2125452054919340171#m"
   },
   {
    "handle": "swyx",
@@ -338,15 +346,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2125250776440164632#m",
    "ts": 1795534245,
    "id": "2125250776440164632#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "You can literally turn your X bookmarks into instructions for Grok Bot. It finds the guides, prompts and tools you've saved. Then follows the tutorials and tests the ideas for you. Full guide with every prompt to build your own 👇 Article Make Grok Bot Do What You Saved for Later I've got loads of useful things sitting in my X bookmarks. Tutorials I saved to follow, tools I wanted to try, prompts I never tested and GitHub projects I was going to check out. Most of them haven't",
-   "url": "https://nitter.kareem.one/liam_fallen/status/2125248925334454647#m",
-   "ts": 1795533803,
-   "id": "2125248925334454647#m"
   },
   {
    "handle": "elonmusk",
