@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-25T14:47:56Z",
+ "generated_at": "2026-11-25T14:55:51Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,27 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Nothing is safe besides my 6% interest in my X money account 😎",
+   "url": "https://nitter.kareem.one/DirtyTesLa/status/2125600376464224591#m",
+   "ts": 1795617596,
+   "id": "2125600376464224591#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Since we’re talking about USAID again, here’s a reminder that John Bolton was their head of Policy and Budget and they gave him a hand grenade trophy as a farewell present. Video",
+   "url": "https://nitter.kareem.one/alx/status/2125595540104818690#m",
+   "ts": 1795616443,
+   "id": "2125595540104818690#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -214,15 +231,6 @@
    "id": "2125431392226148670#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "USAID sounded nice. US AID. As in the US is aiding the poor in need. That’s not what USAID was. It was the US Agency for International Development. Funding Leftist causes and silencing opposition. It spread Communism. It wasn’t about feeding the poor. It created the poor.",
-   "url": "https://nitter.kareem.one/C_3C_3/status/2125431028655542285#m",
-   "ts": 1795577220,
-   "id": "2125431028655542285#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -284,15 +292,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2125304077341085880#m",
    "ts": 1795546952,
    "id": "2125304077341085880#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Iceland claims it still has \"power imbalances\" that negatively affect women. 7/9 of Iceland's top positions are held by women. The leaders of its three major political parties are women.",
-   "url": "https://nitter.kareem.one/libsoftiktok/status/2125300169977807284#m",
-   "ts": 1795546021,
-   "id": "2125300169977807284#m"
   },
   {
    "handle": "swyx",
