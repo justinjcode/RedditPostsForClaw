@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-25T16:45:03Z",
+ "generated_at": "2026-11-25T16:56:04Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,9 +10,29 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "NEW: AI + Math news roundup, past 48 hours: - Google posted six papers from its Gemini 4 math agent, made with no human help past the first prompt. One result beats a 1992 record for the fastest proven way to split big numbers into primes. - OpenAI posted nine new AI-written math papers, headlined by a claimed answer to how fast computers can ever multiply big grids of numbers, the core math behind AI. - A day earlier, OpenAI posted a proof that VP ≠ VNP, a 1979 problem that's the algebra version of the famous P vs NP computer science question - 16-year-old Cinna Davis claims an agent running GPT-6.2 Astra knocked out 55 conjectures overnight, with checks still in progress. - Scott Aaronson, a top quantum computing researcher at UT Austin, says he's heard \"many, many rumors\" that OpenAI or Anthropic can factor huge numbers fast, which would breakmuch of today's encryption.",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2125634127302991882#m",
+   "ts": 1795625642,
+   "id": "2125634127302991882#m"
+  },
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "Good news: by default Grok Bot requires you to manually approve posts it writes for you, so at least it's not out there posting completely autonomously Lee Robinson (@leerob) If you want to post to X with Bot, a human has to approve it (example below). But I understand the feedback generally, the X team is actively working on this: — https://nitter.kareem.one/leerob/status/2125628195592458329#m",
+   "url": "https://nitter.kareem.one/simonw/status/2125630274520457326#m",
+   "ts": 1795624724,
+   "id": "2125630274520457326#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -31,6 +50,24 @@
    "url": "https://nitter.kareem.one/swyx/status/2125627281230205435#m",
    "ts": 1795624010,
    "id": "2125627281230205435#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Innovacer is streamlining healthcare operations with Grok Voice, with over 5M patient interactions and 90% reduction in processing time Innovaccer (@innovaccer) 5M+ patient voice interactions in six months, up from ~250K. Grok Voice now expands what Innovaccer’s Gravity Voice AI can do: → 3x referral intakes → 90% less documentation time → 25+ languages, HIPAA-eligible Voice AI is moving from answering questions to doing work. — https://nitter.kareem.one/innovaccer/status/2125614360429252680#m",
+   "url": "https://nitter.kareem.one/SpaceXSI/status/2125624230918451492#m",
+   "ts": 1795623283,
+   "id": "2125624230918451492#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "If you ever questioned why Democrats lost their minds when DOGE looked under the hood of USAID — you know now. It’s the biggest money laundering scam perpetrated on the American taxpayer in U.S. history. I took it on as MO AG in MO v Biden and led the Rescissions bill in the Senate that ripped away $9B from the corrupt organization — but so much more must be done. I’ve seen the leftist NGO industrial complex and what they are willing to do with money and power and it’s mind boggling. It’s even bigger than USAID and the Democrats are coming into Congress with the stated purpose of empowering the foreign policy establishment all over again. To counter this Republicans should rally around the idea of cutting the outrageous funding we send overseas. Enough. Also, DOJ should investigate further. How far does the corruption go? The American people deserve to know.",
+   "url": "https://nitter.kareem.one/Eric_Schmitt/status/2125623323484635604#m",
+   "ts": 1795623067,
+   "id": "2125623323484635604#m"
   },
   {
    "handle": "swyx",
@@ -202,15 +239,6 @@
    "url": "https://nitter.kareem.one/TonyChanBuilds/status/2125541007173280174#m",
    "ts": 1795603441,
    "id": "2125541007173280174#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I am having some of the most fun with programming ever. I am creating things I haven't seen any one else make. I THINK I am going have a game that I sell to people at the end of all this, for sure, and i'm convinced some of this passion will shine through. yay more airplanes",
-   "url": "https://nitter.kareem.one/notch/status/2125516788473467263#m",
-   "ts": 1795597667,
-   "id": "2125516788473467263#m"
   },
   {
    "handle": "elonmusk",
@@ -391,15 +419,6 @@
    "url": "https://nitter.kareem.one/harvey/status/2125259420259250209#m",
    "ts": 1795536305,
    "id": "2125259420259250209#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The secrecy of the USAID grant database is by design. Look up the addresses of entities receiving millions of dollars on Google maps and you’ll find shacks or empty land. It’s pure money laundering. Video",
-   "url": "https://nitter.kareem.one/DeepLeaksHQ/status/2125256663741714676#m",
-   "ts": 1795535648,
-   "id": "2125256663741714676#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -969,15 +988,6 @@
    "id": "2123797074126979492#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "NEW: Anthropic mathematician Levent Alpöge says he and Claude have solved the Riemann Hypothesis, a 167-year-old Millennium Prize problem that many consider the most famous open question in math.",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2123796680902586814#m",
-   "ts": 1795187561,
-   "id": "2123796680902586814#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -1255,15 +1265,6 @@
    "url": "https://nitter.kareem.one/Lingling_Wei/status/2122517110874140702#m",
    "ts": 1794882488,
    "id": "2122517110874140702#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "Each of the three sandbox servers includes an optional HTTP/HTTPS allow-list proxy, so you can control exactly which hosts your agent's code can communicate with - plus a credential replacement mechanism to make authenticated API calls without sharing a secret with the agent",
-   "url": "https://nitter.kareem.one/simonw/status/2122500317187330279#m",
-   "ts": 1794878484,
-   "id": "2122500317187330279#m"
   },
   {
    "handle": "thsottiaux",
