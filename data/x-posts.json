@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T05:30:10Z",
+ "generated_at": "2026-11-25T05:39:45Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "True Lacey (@LaceyPresley) Jensen Huang keeps repeating one line for a reason: \"You're not going to lose your job to an AI, but you're going to lose your job to someone who uses AI.\" The divide isn't humans vs. AI. It's people who learn to use it vs. people who wait. Video — https://nitter.kareem.one/LaceyPresley/status/2125305701794721985#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2125462322483503370#m",
+   "ts": 1795584681,
+   "id": "2125462322483503370#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -598,15 +607,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2124939632349794367#m",
    "ts": 1795460062,
    "id": "2124939632349794367#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Andrej Karpathy on Elon Musk: \"Elon is a very efficient warrior in the fight against entropy in organizations.\" Video",
-   "url": "https://nitter.kareem.one/teslaownersSV/status/2124928801553428777#m",
-   "ts": 1795457480,
-   "id": "2124928801553428777#m"
   },
   {
    "handle": "ZichenWanghere",
