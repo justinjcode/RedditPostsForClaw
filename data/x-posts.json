@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-24T23:54:52Z",
+ "generated_at": "2026-11-25T00:17:04Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,7 +10,9 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 179,
  "items": [
   {
@@ -121,6 +122,15 @@
    "url": "https://nitter.kareem.one/SpaceX/status/2125260653560562086#m",
    "ts": 1795536599,
    "id": "2125260653560562086#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "US open-weight models have caught up. We post-trained four US models from @meta , @nvidia , @reflection_ai and @thinkymachines with the Harvey Tenet recipe we used on Kimi K3. They are now competitive with non-US models, and Muse Spark Open is the first model to pass 30% all-pass on Legal Agent Bench. Niko (@nikogrupen) Article Pushing the US open-weight frontier Since we launched Harvey Tenet in August, there has been a surge of progress in open-weight models, including from US labs at Meta, NVIDIA, Reflection, and Thinking Machines. In this work, we set out — https://nitter.kareem.one/nikogrupen/status/2125258400866910269#m",
+   "url": "https://nitter.kareem.one/harvey/status/2125259420259250209#m",
+   "ts": 1795536305,
+   "id": "2125259420259250209#m"
   },
   {
    "handle": "elonmusk",
@@ -859,15 +869,6 @@
    "url": "https://nitter.kareem.one/theo/status/2123901093751280052#m",
    "ts": 1795212455,
    "id": "2123901093751280052#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "At Code Summit, @zachbruggeman said Inspect writes and ships ~75% of @tryramp 's code. One agent setup for the whole company. Shared sessions. Screenshots and browser recordings that show the work holds up. Watch the full talk: inv.kareem.one/MDI81OaZAD4",
-   "url": "https://nitter.kareem.one/aiDotEngineer/status/2123868990820712787#m",
-   "ts": 1795204801,
-   "id": "2123868990820712787#m"
   },
   {
    "handle": "thsottiaux",
