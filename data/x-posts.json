@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T18:55:44Z",
+ "generated_at": "2026-11-25T19:09:33Z",
  "accounts_ok": [
   "TheRundownAI",
   "ZichenWanghere",
@@ -15,6 +15,15 @@
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "RESPONSE: Dario Amodei posted a rebuttal to an Axios report on AI leaders clashing over human free will, calling it \"absurd\" to say he wants humanity to hand control to AI. He also said Anthropic doesn't see Claude building its own successor models without \"meaningful human supervision\" as safe.",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2125662737363857700#m",
+   "ts": 1795632464,
+   "id": "2125662737363857700#m"
+  },
   {
    "handle": "simonw",
    "name": "Simon Willison",
@@ -988,15 +997,6 @@
    "id": "2123808432830701909#m"
   },
   {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Full statement: alpo.ge/remark.pdf",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2123797074126979492#m",
-   "ts": 1795187655,
-   "id": "2123797074126979492#m"
-  },
-  {
    "handle": "thsottiaux",
    "name": "Tibo Sottiaux",
    "author": "@thsottiaux",
@@ -1162,7 +1162,7 @@
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
-   "text": "For comparison, here's Gemini 4 Carbon Simon Willison (@simonw) Gemini 4 Carbon is good at pelican SVGs, but that's nothing new for Gemini \"Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and stomps around manhattan and queens and Brooklyn, use openstreetmap mapping data\" simonwillison.net/2026/Nov/1… Video — https://nitter.kareem.one/simonw/status/2120258951594037732#m",
+   "text": "For comparison, here's Gemini 4 Carbon nitter.kareem.one/simonw/status/21202589…",
    "url": "https://nitter.kareem.one/simonw/status/2122822433023590517#m",
    "ts": 1794955282,
    "id": "2122822433023590517#m"
