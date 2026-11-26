@@ -1,9 +1,8 @@
 {
- "generated_at": "2026-11-26T08:12:32Z",
+ "generated_at": "2026-11-26T08:26:42Z",
  "accounts_ok": [
-  "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
-  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -11,10 +10,20 @@
   "thsottiaux"
  ],
  "errors": [
-  "@TheRundownAI: all instances failed"
+  "@bcherny: all instances failed",
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Community Notes just saved a lot of guys from thinking their wiener is too small Leading Report (@LeadingReport) Average erect size for men in America is 5.6 inches, per Daily Mail. Community note: The 5.6-inch figure in the cited Daily Mail article comes from a self-reported study. Reviews of clinician-measured data estimate the average erect length at 5.1-5.5 inches. dailymail.com/snapchat/artic… pubmed.ncbi.nlm.nih.gov/23841855/ pubmed.ncbi.nlm.nih.gov/32666897/ pmc.ncbi.nlm.nih.gov/articles/PMC11 — https://nitter.kareem.one/LeadingReport/status/2125728474015096866#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2125864501019070680#m",
+   "ts": 1795680568,
+   "id": "2125864501019070680#m"
+  },
   {
    "handle": "simonw",
    "name": "Simon Willison",
@@ -95,6 +104,15 @@
    "url": "https://nitter.kareem.one/DanieZhanghaha/status/2125751751425003694#m",
    "ts": 1795653686,
    "id": "2125751751425003694#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "If you haven't tried Grok @Bot yet, ask it to find a Black Friday deal on something you were going to buy anyway. See how it does. Bot checks prices across every site and applies promo codes automatically. Very useful for brainstorming gift ideas too. Grok Bot (@bot) Grok Bot knows the Black Friday deals. Send Bot your list and let it handle your holiday shopping. Video — https://nitter.kareem.one/bot/status/2125711676003766718#m",
+   "url": "https://nitter.kareem.one/JasonBud/status/2125715363367387522#m",
+   "ts": 1795645011,
+   "id": "2125715363367387522#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -320,24 +338,6 @@
    "url": "https://nitter.kareem.one/alexbward/status/2125618267528306938#m",
    "ts": 1795621861,
    "id": "2125618267528306938#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The $NVDA board was right to bring back @JensenHuang . I argue in the Economist why: The Economist (@TheEconomist) He is the key to stopping AI from becoming the preserve of a few, argues the venture capitalist economist.com/by-invitation/… Link Nvidia was right to bring back Jensen Huang, writes Sarah Guo He is the key to stopping AI from becoming the preserve of a few, argues the venture capitalist economist.com — https://nitter.kareem.one/TheEconomist/status/2125542621250515385#m",
-   "url": "https://nitter.kareem.one/saranormous/status/2125602695545504105#m",
-   "ts": 1795618149,
-   "id": "2125602695545504105#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Nothing is safe besides my 6% interest in my X money account 😎",
-   "url": "https://nitter.kareem.one/DirtyTesLa/status/2125600376464224591#m",
-   "ts": 1795617596,
-   "id": "2125600376464224591#m"
   },
   {
    "handle": "elonmusk",
