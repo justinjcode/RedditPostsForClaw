@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T22:10:58Z",
+ "generated_at": "2026-11-26T22:21:00Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -8,13 +8,21 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "another good one is nitter.kareem.one/dharmesh/status/212575… - when you refound in public, there's a few good things here: 1. critical feedback from people who aren't paid to say yes to you 2. you are putting a human face on an otherwise corporate feel 3. turn an \"incumbent\" into an \"underdog\" story twitter \"isn't real\" (99% of your customers won't actually ever even see your tweets, though 80% of your influencers might) so its actually a pretty safe space to think in public as long as you stay inside overton dharmesh (@dharmesh) Notes From the HubSpot Refounding, Day 14 (Wed, Nov 25): I've been spending a lot of time today *thinking* about strategy and market opportunity. Here's what's rattling around in my brain: Agentic Coding has been a massive use case for AI and has produced a ton of economic value for the companies that built those products. I'm not surprised, because the output of agentic coding is...code. And that code (software) can be used to do economically valuable things -- including *selling* that software and getting revenue. The value is amplified because historically it has been hard and expensive to create software. Historically, humans have had to write code manually. Like cave people! Not any more, we have the tools so humans can be more productive and produce better software faster. Now, time for a logical leap... Another thing that is economically valuable and hard to create is...growth. And by growth, I mean in the business sense. Making sales/revenue",
+   "url": "https://nitter.kareem.one/swyx/status/2126072968761721013#m",
+   "ts": 1795730270,
+   "id": "2126072968761721013#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -334,7 +342,7 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "I work on Grok Bot and I’m curious what the biggest problem is Poll 65% — Usage limits 13% — Laziness 8% — Speed 15% — Other (reply) 23,597 votes • 2 hours",
+   "text": "I work on Grok Bot and I’m curious what the biggest problem is Poll 64% — Usage limits 13% — Laziness 8% — Speed 15% — Other (reply) 23,662 votes • 2 hours",
    "url": "https://nitter.kareem.one/Baconbrix/status/2125747621331611811#m",
    "ts": 1795652702,
    "id": "2125747621331611811#m"
@@ -626,15 +634,6 @@
    "url": "https://nitter.kareem.one/aiDotEngineer/status/2125379600104689676#m",
    "ts": 1795564958,
    "id": "2125379600104689676#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "notable that a lot of the recent anthropic (and ant-alum) talks have been very specific about how much there is still left to do for human engineers, and if you are feeling depressed/anxious you need only look here / point your efforts towards AGI-aligned problems*: - assume multiagent systems 1000x, from spawning subagents to being llm grader to advisor/sidekick pattern to dreaming/memory formation to collaborating peer to peer on a board. what breaks? - Infra: unbundle Kubernetes to new filesystems, sandboxing, stateful, fast workflow orchestration (see @temporalio ) at crazy scale. it's actors on steroids. - Agent Authorization: EVERYONE agrees that having Instinct/Claude etc saving your password is bad (aka taking action On-Behalf-Of you instead of you delegating to an agent's own identity). (see @KeycardAI @okta etc) Then: how do agents trust another agent? - Security (hardening/patching core software), and Isolation (assuming compromise, limit blast radius) - Monitoring (write-only OTel tracing across agents, linked to kill switches that dont fire false positives confusing agent persistence for malice) actually an incomplete list! you can work at the harness level ( ai.engineer/talks/vlfCjWuv4e… ) or solve Fermat's last theorem ( inv.kareem.one/wrfbI5eyLAI ) but who's counting anymore *all of which katelyn happens to be hiring for haha Katelyn Lesse (@katelyn_lesse) software engineers are going to have to tackle a new set of problems to unlock powerful multiagent system",
-   "url": "https://nitter.kareem.one/swyx/status/2125371136943022423#m",
-   "ts": 1795562941,
-   "id": "2125371136943022423#m"
   },
   {
    "handle": "simonw",
