@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T17:27:05Z",
+ "generated_at": "2026-11-26T17:37:07Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -15,6 +15,15 @@
  ],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "my AI Engineer Code Summit talk - brownfield factories: faster. cheaper. safer, freeing attention for your demand factory! thanks to @swyx and @aiDotEngineer who put on a great show as always AI.Engineer (@aiDotEngineer) Automate the software people already rely on. @BuiltByJustin of @diffusionio on brownfield factories: preserve the behavior customers depend on, then make it faster, cheaper and safer. Full Code Summit talk: inv.kareem.one/1S4hx3wgvBE — https://nitter.kareem.one/aiDotEngineer/status/2125952716434538581#m",
+   "url": "https://nitter.kareem.one/BuiltByJustin/status/2126000102737392055#m",
+   "ts": 1795712898,
+   "id": "2126000102737392055#m"
+  },
   {
    "handle": "simonw",
    "name": "Simon Willison",
@@ -307,7 +316,7 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "I work on Grok Bot and I’m curious what the biggest problem is Poll 65% — Usage limits 13% — Laziness 8% — Speed 15% — Other (reply) 20,522 votes • 7 hours",
+   "text": "I work on Grok Bot and I’m curious what the biggest problem is Poll 65% — Usage limits 13% — Laziness 8% — Speed 15% — Other (reply) 20,718 votes • 6 hours",
    "url": "https://nitter.kareem.one/Baconbrix/status/2125747621331611811#m",
    "ts": 1795652702,
    "id": "2125747621331611811#m"
@@ -842,15 +851,6 @@
    "url": "https://nitter.kareem.one/lianshangbiji/status/2125035135712248208#m",
    "ts": 1795482832,
    "id": "2125035135712248208#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Give Claude the docs. Let it build the wiki. @RLanceMartin of @AnthropicAI shows how Claude organizes company knowledge between tasks. In this experiment, wiki + search beat search alone. From AI Engineer Code Summit. Video",
-   "url": "https://nitter.kareem.one/aiDotEngineer/status/2125031651495264340#m",
-   "ts": 1795482001,
-   "id": "2125031651495264340#m"
   },
   {
    "handle": "simonw",
