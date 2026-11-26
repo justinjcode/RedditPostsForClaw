@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-26T03:48:29Z",
+ "generated_at": "2026-11-26T03:55:13Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Every child in America will receive two SpaceX shares, one from the company and one from me personally",
+   "url": "https://nitter.kareem.one/elonmusk/status/2125797463047258119#m",
+   "ts": 1795664585,
+   "id": "2125797463047258119#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -266,15 +274,6 @@
    "url": "https://nitter.kareem.one/ZhouTalks/status/2125590799933116580#m",
    "ts": 1795615312,
    "id": "2125590799933116580#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "One of my friends asked Grok Bot to sort out his family’s Bali visas. 5 visas issued. Arrival cards submitted. QR code delivered. He approved the payments on his phone. Grok Bot handled the rest. Grok Bot can do almost anything.",
-   "url": "https://nitter.kareem.one/cb_doge/status/2125589527507116342#m",
-   "ts": 1795615009,
-   "id": "2125589527507116342#m"
   },
   {
    "handle": "elonmusk",
