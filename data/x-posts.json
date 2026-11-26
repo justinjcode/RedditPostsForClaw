@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-26T01:00:06Z",
+ "generated_at": "2026-11-26T01:11:56Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,7 +10,9 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 179,
  "items": [
   {
@@ -22,6 +23,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2125717383839162505#m",
    "ts": 1795645492,
    "id": "2125717383839162505#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "开饭了 开饭不稀奇 铲屎官能抓拍到这一幕 太稀有了😄😄",
+   "url": "https://nitter.kareem.one/ilovecatlovecar/status/2125713598534373885#m",
+   "ts": 1795644590,
+   "id": "2125713598534373885#m"
   },
   {
    "handle": "elonmusk",
@@ -418,6 +428,15 @@
    "url": "https://nitter.kareem.one/simonw/status/2125369126877286662#m",
    "ts": 1795562461,
    "id": "2125369126877286662#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "你知道我有多羡慕吗🙂🙂 Video",
+   "url": "https://nitter.kareem.one/ilovecatlovecar/status/2125360889670857142#m",
+   "ts": 1795560498,
+   "id": "2125360889670857142#m"
   },
   {
    "handle": "swyx",
@@ -915,15 +934,6 @@
    "id": "2124827978018238787#m"
   },
   {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "West Inner Mongolia Power Grid: Alice Zhao (@zhaomanfeng) Two companies run China’s power grid. That’s it. Two. State Grid covers 26 provinces—88% of the country’s landmass. China Southern Power Grid handles Guangdong, Guangxi, Yunnan, Guizhou, and Hainan. Now the part outsiders find hard to believe: the price. Most Chinese households pay around 0.5 yuan per kWh. That’s roughly 7 cents. In Beijing, the first tier is 0.4883 yuan—about 6.8 cents. Compare that to Germany, where households pay 30-40 euro cents. China’s residential rate is roughly 42% of America’s. And it’s not because the power is cheap to produce. It’s a deliberate choice: industry subsidizes households. Commercial and industrial users pay more so families pay less. The first tier of the阶梯 pricing covers about 60% of households—meaning the people who use the least get the deepest subsidy. Now reliability. China’s average grid reliability hit 99.948% in 2026. Shanghai’s city grid: 99.9995%—about 26 minutes of outage per year on average. Hangzhou, Ningbo, Shaoxing: under 10 minutes per household per year. So the next time someone tells you China’s growth is “unsustainable,” ask them when the last time was that their lights went out. What’s your electricity bill like where you live? Drop the number below. 👇 — https://nitter.kareem.one/zhaomanfeng/status/2124525863106658605#m",
-   "url": "https://nitter.kareem.one/pretentiouswhat/status/2124795487366922591#m",
-   "ts": 1795425695,
-   "id": "2124795487366922591#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -940,15 +950,6 @@
    "url": "https://nitter.kareem.one/ron8784/status/2124765523896660466#m",
    "ts": 1795418551,
    "id": "2124765523896660466#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "I wrote about my employer semafor.com/article/11/22/20… Link High-profile events businesses can strain media companies’ trust and credibility Semafor is facing scrutiny for hiring high-profile Washington consultants to assist with event bookings. semafor.com Max Tani (@maxwelltani) Yes — https://nitter.kareem.one/maxwelltani/status/2123823628747743355#m",
-   "url": "https://nitter.kareem.one/maxwelltani/status/2124682910510768600#m",
-   "ts": 1795398855,
-   "id": "2124682910510768600#m"
   },
   {
    "handle": "ZichenWanghere",
