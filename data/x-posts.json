@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T16:41:53Z",
+ "generated_at": "2026-11-26T16:48:59Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -7,14 +7,31 @@
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
+  "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@simonw: all instances failed"
- ],
- "count": 179,
+ "errors": [],
+ "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Let's try adding the @lulumeservey filter: Hey all happy Thanksgiving, did you see that dog jetski in GTA6? crazy cool. Anyway, to our dismay we found a billing mistake in GPT-6.2: • 6.2 Astra and Sol are now 20-40% more efficient than their predecessors, • the API prices are fine (6.2 Astra is 20% cheaper in API than 6.1 Astra!), • but in our new subscription code we were actually overshot, and counted 6.2 Astra and Sol 40% and 25% too low towards limits at launch last week on top of the efficiency gains we demonstrated, rather than matching it. We've fixed that going forward and have given a banked reset to all affected. Net of all changes, we expect that the same subscription will do a lot more work for you from 6 to 6.1 to 6.2 under the same limits. Delivering maximum intelligence per dollar remains Codex's overall north star and that is our firm commitment. Tibo (@thsottiaux) We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. We’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster on Sol. You should still see these go further in usage compared to 6 Astra and 6.1 Sol. Other models weren’t affected, and we won’t charge you for the difference on past usage. As a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business. — http",
+   "url": "https://nitter.kareem.one/swyx/status/2125993331482345858#m",
+   "ts": 1795711283,
+   "id": "2125993331482345858#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "previously on cutting my SaaS bill by 75% : inv.kareem.one/watch?v=zlD-CkLV… Link How to kill your SaaS: what we learned replacing a $43K/yr tool with AI agents A SaaS vendor quoted us $43,000 a year to run speakers for my @AIdo... youtube.com",
+   "url": "https://nitter.kareem.one/swyx/status/2125992743440925029#m",
+   "ts": 1795711143,
+   "id": "2125992743440925029#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -235,7 +252,7 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "I work on Grok Bot and I’m curious what the biggest problem is Poll 65% — Usage limits 13% — Laziness 8% — Speed 15% — Other (reply) 19,540 votes • 7 hours",
+   "text": "I work on Grok Bot and I’m curious what the biggest problem is Poll 65% — Usage limits 13% — Laziness 8% — Speed 15% — Other (reply) 19,774 votes • 7 hours",
    "url": "https://nitter.kareem.one/Baconbrix/status/2125747621331611811#m",
    "ts": 1795652702,
    "id": "2125747621331611811#m"
@@ -907,15 +924,6 @@
    "id": "2124918735219650678#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Phonic 1.1 (High) is the new #1 on the Artificial Analysis Speech to Speech Index at 89.1, taking the top spot from Phonic's own Phonic 1 (87.1), released less than a month ago Congratulations to @phonic_co on the release! 🧵",
-   "url": "https://nitter.kareem.one/ArtificialAnlys/status/2124918494110298127#m",
-   "ts": 1795455022,
-   "id": "2124918494110298127#m"
-  },
-  {
    "handle": "Lingling_Wei",
    "name": "Lingling Wei",
    "author": "@Lingling_Wei",
@@ -979,15 +987,6 @@
    "id": "2124866316293013809#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "NVIDIA Board reinstates Jensen Huang as President, CEO and Board Director. Read the release: nvidianews.nvidia.com/news/n… Link NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director NVIDIA (NASDAQ: NVDA) today announced that effective immediately, Jensen Huang has been reinstated as President and Chief Executive Officer and as a member of the Board. nvidianews.nvidia.com",
-   "url": "https://nitter.kareem.one/nvidianewsroom/status/2124865060397019480#m",
-   "ts": 1795442283,
-   "id": "2124865060397019480#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -995,15 +994,6 @@
    "url": "https://nitter.kareem.one/canceled4truth/status/2124850082017079622#m",
    "ts": 1795438712,
    "id": "2124850082017079622#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "microsoft answers the call!!!!! oh my, am I a @mustafasuleyman stan?? nitter.kareem.one/mustafasuleyman/status… i think we need @alexandr_wang to join in and that will be the tipping point for all labs to unite on this effort Mustafa Suleyman (@mustafasuleyman) We fully support OpenAI's transparency initiative. Thanks to @merettm @markchen90 @gdb @sama for leading the way. We all got into this field to build safe AGI that is genuinely good for humanity. One of the hardest parts of AI safety is coordination, and this is a step in the right direction. Many more steps like this will be needed to deliver safe, contained, and aligned AGI in the next few years. We're committed to sharing our pre-training progress on a common held-out evaluation set. With OpenAI's permission, we report MAI-2 Base on their evaluation set. Its log-perplexity is 0.819, putting it in the same ballpark as the GPT-5.6 Sol base model. Our model uses the same tokenizer as OpenAI, so the numbers are directly comparable. In the future, to be able to compare across labs we might need to report bits-per-byte (BPB) rather than perplexity since different labs use different tokenizers. We will also need different evaluation datasets - the fact we have access to OpenAI's evaluation dataset is a special case. Safety and alignment is now the mission. It's the absolute number one most important focus for our industry. And it begins with small, practical steps like these towards better coordination on pacing. — https:/",
-   "url": "https://nitter.kareem.one/swyx/status/2124780264916423021#m",
-   "ts": 1795422066,
-   "id": "2124780264916423021#m"
   },
   {
    "handle": "simonw",
