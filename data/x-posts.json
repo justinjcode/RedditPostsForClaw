@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-26T05:54:55Z",
+ "generated_at": "2026-11-26T06:15:35Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,9 +10,20 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The share from SpaceX will be transferred next month. The share directly from me will be transferred when my lockup expires in June next year.",
+   "url": "https://nitter.kareem.one/elonmusk/status/2125832205301878841#m",
+   "ts": 1795672868,
+   "id": "2125832205301878841#m"
+  },
   {
    "handle": "simonw",
    "name": "Simon Willison",
@@ -40,6 +50,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2125797463047258119#m",
    "ts": 1795664585,
    "id": "2125797463047258119#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "AI 让生活充满乐趣。 Video",
+   "url": "https://nitter.kareem.one/DanieZhanghaha/status/2125751751425003694#m",
+   "ts": 1795653686,
+   "id": "2125751751425003694#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -148,6 +167,15 @@
    "url": "https://nitter.kareem.one/realpython/status/2125649422423843011#m",
    "ts": 1795629289,
    "id": "2125649422423843011#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "Never has someone committed to the bit like this. Aaron Rupar (@atrupar) NATO Secretary Mark Rutte: \"What President Trump did in the meeting in Shenzhen is testing Putin\" Video — https://nitter.kareem.one/atrupar/status/2125603386925937007#m",
+   "url": "https://nitter.kareem.one/shashj/status/2125644463674736757#m",
+   "ts": 1795628107,
+   "id": "2125644463674736757#m"
   },
   {
    "handle": "elonmusk",
@@ -288,7 +316,7 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Three days after the Riemann Hypothesis was proved in Lean, our agents had used it to prove 17 results. Six are named conjectures that were open until 20 November, including the Lindelöf hypothesis, Erdős Problem 985 and Euler’s idoneal numbers. Some had been open for more than 100 years. @livingbrain held the memory, OpenHuman’s agents wrote the proofs, and Lean checked every one. Video Community note: These named conjectures were long known to follow from RH or GRH. The agents formalized the known implications in Lean, making them unconditional after the RH proof. github.com/ChatAndBuild/c… en.wikipedia.org/wiki/Lindel%C3… arxiv.org/abs/1508.0518",
+   "text": "Three days after the Riemann Hypothesis was proved in Lean, our agents had used it to prove 17 results. Six are named conjectures that were open until 20 November, including the Lindelöf hypothesis, Erdős Problem 985 and Euler’s idoneal numbers. Some had been open for more than 100 years. @livingbrain held the memory, OpenHuman’s agents wrote the proofs, and Lean checked every one. Video Community note: The listed conjectures (e.g. Lindelöf hypothesis, Euler idoneal numbers completeness, Erdős 985) were previously known to follow from RH or GRH per published results; the project formalizes those known implications in Lean. en.wikipedia.org/wiki/Lindel%C3… en.wikipedia.org/wiki/Idoneal_n… github.com/ChatAndBuild/c… erdosproblems.com/985 arxiv.org/pdf/math/98071… nitter.kareem.one/thomasfbloom/s",
    "url": "https://nitter.kareem.one/ladyxtel/status/2125587817082601587#m",
    "ts": 1795614601,
    "id": "2125587817082601587#m"
@@ -310,15 +338,6 @@
    "url": "https://nitter.kareem.one/distortgeekin/status/2125584444064993429#m",
    "ts": 1795613797,
    "id": "2125584444064993429#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "🚨 JUST IN: After the release of the USAID files, Elon Musk just amplified this BOMBSHELL confirming USAID built a global color revolution machine — and it's ALL coming out now - Over $1B in USAID awards went to Georgia from 2008 to 2025, including $26M for \"Elections and Political Processes\" - When Georgia tried to force NGOs to disclose foreign funding, the same network launched mass protests - Since USAID funding was cut, right-wing candidates have won in Bolivia, Chile, Honduras, Costa Rica, Peru, Ecuador and Colombia - USAID funded 5 pillars in target countries: \"independent\" media, lawyers, election monitors, activist training, and governance data - In Georgia, USAID and NED money built the network that toppled President Shevardnadze in the 2003 Rose Revolution - USAID-backed ISFED trained 3,000 election observers and ran a parallel vote count that declared the election fraudulent - USAID helped fund Rustavi 2, which became the opposition's main TV outlet - After the revolution, Liberty Institute activists were placed into top government posts, including the National Security Council @DataRepublican This is what the Democrats will do on STEROIDS if they ever take back full power in America. Their goal: mass government coercion and collusion with NGOs, tech firms and media outlets in the SHADOWS, and make it as HARD as possible to break up Video Elon Musk (@elonmusk) Yes — https://nitter.kareem.one/elonmusk/status/2125576163720642762#m",
-   "url": "https://nitter.kareem.one/EricLDaugh/status/2125578306611187824#m",
-   "ts": 1795612334,
-   "id": "2125578306611187824#m"
   },
   {
    "handle": "Lingling_Wei",
@@ -958,24 +977,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2124766474736976240#m",
    "ts": 1795418778,
    "id": "2124766474736976240#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "陪去超市是没反应的，有烤肠吃是可以去的～ Video",
-   "url": "https://nitter.kareem.one/ron8784/status/2124765523896660466#m",
-   "ts": 1795418551,
-   "id": "2124765523896660466#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "This is one of my favorite reporter take downs I may have ever witnessed! Reseth (@ResethO) That Hillary Clinton line hit that NYT reporter hard. 😂 Video — https://nitter.kareem.one/ResethO/status/2124369149665124763#m",
-   "url": "https://nitter.kareem.one/JackBravo365/status/2124641092125491679#m",
-   "ts": 1795388884,
-   "id": "2124641092125491679#m"
   },
   {
    "handle": "simonw",
