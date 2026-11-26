@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T07:49:16Z",
+ "generated_at": "2026-11-26T07:55:11Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,24 @@
  "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "New website for Datasette Charts, which includes a galllery showing all of the chart types and annotations in one place charts.datasette.io/gallery/",
+   "url": "https://nitter.kareem.one/simonw/status/2125859570925154590#m",
+   "ts": 1795679392,
+   "id": "2125859570925154590#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Hard to believe this finally happened",
+   "url": "https://nitter.kareem.one/elonmusk/status/2125858270296285463#m",
+   "ts": 1795679082,
+   "id": "2125858270296285463#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -49,6 +67,15 @@
    "url": "https://nitter.kareem.one/princetonian/status/2125814496803373556#m",
    "ts": 1795668646,
    "id": "2125814496803373556#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "I made The USAID Files into a searchable database. You're welcome. 1. CENSORSHIP: A 2022 USAID guidance paper says USAID programs, such as in Georgia, share lists of accounts with Meta for deeper investigation and removal or de-promotion. larrysanger.org/usaid/?item=… Link USAID paper says programs share account lists with Meta for removal A 2022 USAID guidance paper says Facebook/Meta and Twitter take down reported content in three categories, and that USAID programs, such as in Georgia, share lists of accounts with Meta for deeper... larrysanger.org",
+   "url": "https://nitter.kareem.one/lsanger/status/2125805681265782991#m",
+   "ts": 1795666544,
+   "id": "2125805681265782991#m"
   },
   {
    "handle": "elonmusk",
@@ -315,15 +342,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Since we’re talking about USAID again, here’s a reminder that John Bolton was their head of Policy and Budget and they gave him a hand grenade trophy as a farewell present. Video",
-   "url": "https://nitter.kareem.one/alx/status/2125595540104818690#m",
-   "ts": 1795616443,
-   "id": "2125595540104818690#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "别再说马斯克挺黄仁勋只是演戏了。 看看去年黄仁勋亲自飞去 SpaceX 见马斯克的这段视频，这段交情，早就在十年前焊死了。 2016 年，黄仁勋发布全世界第一台 AI 超算 DGX-1。那是当时最顶尖的机器，可发布完，台下一片安静，一张订单都没有。 直到去年 10 月，老黄带着最新一代 DGX Spark 去 SpaceX 找马斯克，当面提起那次冷场，他依然记得清清楚楚： “全场一片安静。只有一个人例外。那个人，就是你。” 马斯克脱口而出：“我当时觉得，这主意太棒了。” 就凭这一句，那台初代机器被送到了当时的 OpenAI，也顺手点燃了今天的 AI 时代。 再看这个月。 11 月 13 日，黄仁勋还在谷底、能否回归毫无定数，马斯克公开站出来签请愿书； 11 月 23 日，老黄官宣复职，他只淡淡丢下一句：It is done。 转头人就直接现身英伟达总部，和老黄一起庆祝。 把这两件事放一起看，最戳人的根本不是他们如今多风光，而是这两个时间点—— 一次产品还没卖出去，一次人还没回去。两次，马斯克都没等结果。 世人习惯等尘埃落定才选边站，顶级强者之间最稀缺的，恰恰是看不清结局时的那次托底。 Video",
    "url": "https://nitter.kareem.one/ZhouTalks/status/2125590799933116580#m",
    "ts": 1795615312,
@@ -382,15 +400,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2125552768467288153#m",
    "ts": 1795606245,
    "id": "2125552768467288153#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "By 2030 every company will have more bots than employees.",
-   "url": "https://nitter.kareem.one/TonyChanBuilds/status/2125541007173280174#m",
-   "ts": 1795603441,
-   "id": "2125541007173280174#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -1210,15 +1219,6 @@
    "url": "https://nitter.kareem.one/RushDoshi/status/2122832791473971491#m",
    "ts": 1794957752,
    "id": "2122832791473971491#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "And Claude 5.2 Fable Simon Willison (@simonw) For comparison, here's what I got for the same prompt against Claude Fable 5.2 yesterday simonwillison.net/2026/Nov/1… Video — https://nitter.kareem.one/simonw/status/2120259268364718331#m",
-   "url": "https://nitter.kareem.one/simonw/status/2122822484529684838#m",
-   "ts": 1794955295,
-   "id": "2122822484529684838#m"
   },
   {
    "handle": "Lingling_Wei",
