@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-26T08:58:13Z",
+ "generated_at": "2026-11-26T09:12:20Z",
  "accounts_ok": [
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
@@ -10,11 +11,28 @@
   "thsottiaux"
  ],
  "errors": [
-  "@bcherny: all instances failed",
   "@Lingling_Wei: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Boring Co has built a lot of tunnels under Vegas The Boring Company (@boringcompany) 2.3 miles through Las Vegas, starting at the Westgate Resort and ending across from UNLV’s Thomas & Mack Center (and then to Airport). When these twin tunnels open to the public, 14 additional Loop stations open too. Video — https://nitter.kareem.one/boringcompany/status/2125742541253300563#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2125877031816630636#m",
+   "ts": 1795683555,
+   "id": "2125877031816630636#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Fraudsters always complain the loudest when they’re exposed. Just look at what happened with USAID “One lesson I remember from PayPal days: Do you know who complained the loudest? Fraudsters. There would be immediate over the top indignation from the fraudsters. We're going to see outrageous stuff from fraudsters as we continue cracking down, they're the loudest” -Elon Musk nitter.kareem.one/iam_smx/status/2037940…",
+   "url": "https://nitter.kareem.one/iam_smx/status/2125871653976518874#m",
+   "ts": 1795682273,
+   "id": "2125871653976518874#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -136,7 +154,16 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "I work on Grok Bot and I’m curious what the biggest problem is Poll 68% — Usage limits 12% — Laziness 6% — Speed 13% — Other (reply) 6,413 votes • 15 hours",
+   "text": "Here’s the Trump account sign-up page. trumpaccounts.gov Link The American Dream Starts Now Trump Accounts provide eligible American children with tax-advantaged investment accounts courtesy of President Donald J. Trump. trumpaccounts.gov",
+   "url": "https://nitter.kareem.one/WayneVaughan/status/2125750151256092942#m",
+   "ts": 1795653305,
+   "id": "2125750151256092942#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "I work on Grok Bot and I’m curious what the biggest problem is Poll 68% — Usage limits 12% — Laziness 7% — Speed 13% — Other (reply) 7,202 votes • 15 hours",
    "url": "https://nitter.kareem.one/Baconbrix/status/2125747621331611811#m",
    "ts": 1795652702,
    "id": "2125747621331611811#m"
@@ -190,15 +217,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "A share of SpaceX for every child in America. Another share coming next year directly from Elon. This is great for the country imo. No better way to teach the next generation about the virtues of capitalism. Love to see more companies and founders do this. Happy Thanksgiving! SpaceX (@SpaceX) SpaceX is building the infrastructure of the future and working to make life multiplanetary. We believe ownership of the company creating these systems should extend to the next generation of Americans. Today, we are committing one SpaceX share to millions of American children to give the next generation a stake in building a more exciting future → ir.spacex.com/updates/releas… Link SpaceX to Invest in the Next Generation of Americans SpaceX announced a commitment to contribute one newly issued share of its Class A common stock to every currently active Trump Account, the tax-advantaged investment accounts that help American... ir.spacex.com — https://nitter.kareem.one/SpaceX/status/2125671356339499494#m",
-   "url": "https://nitter.kareem.one/GavinSBaker/status/2125690108279926929#m",
-   "ts": 1795638989,
-   "id": "2125690108279926929#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Happy Thanksgiving! Space X + @elonmusk = 2 shares of SpaceX stock for every child under 18 who has claimed their 530A account!! All 70 MILLION kids are eligible - but you MUST download & claim your child’s acct to get your free shares! Do it now! 🇺🇸🤍🦃 @TrumpAccounts SpaceX (@SpaceX) SpaceX is building the infrastructure of the future and working to make life multiplanetary. We believe ownership of the company creating these systems should extend to the next generation of Americans. Today, we are committing one SpaceX share to millions of American children to give the next generation a stake in building a more exciting future → ir.spacex.com/updates/releas… Link SpaceX to Invest in the Next Generation of Americans SpaceX announced a commitment to contribute one newly issued share of its Class A common stock to every currently active Trump Account, the tax-advantaged investment accounts that help American... ir.spacex.com — https://nitter.kareem.one/SpaceX/status/2125671356339499494#m",
    "url": "https://nitter.kareem.one/altcap/status/2125680126004486294#m",
    "ts": 1795636609,
@@ -208,28 +226,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "SpaceX is building the infrastructure of the future and working to make life multiplanetary. We believe ownership of the company creating these systems should extend to the next generation of Americans. Today, we are committing one SpaceX share to millions of American children to give the next generation a stake in building a more exciting future → ir.spacex.com/updates/releas… Link SpaceX to Invest in the Next Generation of Americans SpaceX announced a commitment to contribute one newly issued share of its Class A common stock to every currently active Trump Account, the tax-advantaged investment accounts that help American... ir.spacex.com",
-   "url": "https://nitter.kareem.one/SpaceX/status/2125671356339499494#m",
-   "ts": 1795634519,
-   "id": "2125671356339499494#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Thanks Ron ❤️ My greatest privilege is being able to work with the incredibly talented people of SpaceX, Tesla, Neuralink and Boring Company, without whom I would be able to accomplish nothing. Ron Baron (@RonBaronAnalyst) “Watching Elon engineer is like watching Michael Jordan play basketball…” - SpaceX Director. October 2026 That was a response to my question \"Is Elon really an incredible engineer?\" from a SpaceX Director in a recent conversation with me. So not only is @elonmusk a super engineer...physicist...and future imaginer...he's also an exceptionally well-prepared entrepreneur. Which means he can take advantage of financial market disruptions like those now taking place. To the great benefit of @SpaceX and @Tesla . Data centers built by others cost on average $60 billion for a gigawatt...take 30 months on average to open...and when they do are often plagued with initial operating problems. So called neocloud providers build and rent such projects under long-term leases for about $12 billion per year. Unfortunately for them, while demand for super intelligence enabled by data centers is growing exponentially, debt financing for such projects is currently very difficult to obtain. As are advanced chips. SpaceX on the other hand has a fortress balance sheet...is able to complete such engineering complex projects and turn them on in less than eight months...for we estimate $35 billion....and rent them to hyper scalers and its largest customer @Anthropic under renewable ",
-   "url": "https://nitter.kareem.one/elonmusk/status/2125670205456257409#m",
-   "ts": 1795634244,
-   "id": "2125670205456257409#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Interesting Dario Amodei (@DarioAmodei) No, I do not believe that we should “surrender human free will” to AI systems, and it’s absurd to suggest that I do. I have written hundreds of pages of essays and a constant theme in them is the need for AI to be governed by legitimate democratic processes. For millennia (going all the way back to Greek and Roman philosophers), advocates of autocracy have claimed that it leads to better, faster, or more decisive decision-making than the messy process of democracy. Even if this were true (which I doubt!), we should never sacrifice legitimacy or self-determination at the altar of efficiency or security. This argument against autocracy applies word for word against governance by AI, and I feel equally strongly that turning over governance to AI is a bad idea. No one who had carefully read my writing or my interviews could reasonably conclude that I believe anything different. For example in an interview on CBS a couple months ago, I specifically called for AI to be governed democratically. I call for the same in Policy on the AI Exponential, Machines of Loving Grace, and The Adolescence of Technology, and We Must Pace the Frontier. Machines of Loving Grace contains an extended section on using AI to revitalize democracy, and discusses the use of AI as an aid to citizens in their decision-making, \"aggregat[ing] opinions and driv[ing] consensus among citizens, resolving conflict, finding common ground, and seeking compromise.” The clear and",
-   "url": "https://nitter.kareem.one/elonmusk/status/2125669066388209784#m",
-   "ts": 1795633973,
-   "id": "2125669066388209784#m"
+   "text": "grok @bot 1.3.0 is rolling out! smarter slack bots, restock alerts and mobile buy now, automatic teams setup with org controls, a sideways x drafts carousel, the ashby connector, and bcc on email drafts and a lot more exciting things shipping soon! x.ai/changelog/bot",
+   "url": "https://nitter.kareem.one/ericzakariasson/status/2125675144173556124#m",
+   "ts": 1795635422,
+   "id": "2125675144173556124#m"
   },
   {
    "handle": "elonmusk",
