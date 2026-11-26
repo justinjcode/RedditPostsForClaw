@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T21:31:19Z",
+ "generated_at": "2026-11-26T21:36:18Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -18,6 +18,24 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "Super appreciate your support. Tesla wouldn’t be where it is without our awesome customers. Tesla (@Tesla) Happy Thanksgiving to all of our owners, employees & advocates ❤️🇺🇸 — https://nitter.kareem.one/Tesla/status/2125989232976249203#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2126064330022265197#m",
+   "ts": 1795728211,
+   "id": "2126064330022265197#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "This was a fun talk. It's 40 minutes of material crammed into 20 minutes. I recommend further speedrunning it on 1.5x. Thanks to @swyx and @aiDotEngineer for inviting me! (Oh and swyx spends 11 billion tokens/day.) Royce Chen (@rchen1386) 这 tm 也太疯狂了！前亚马逊、谷歌 40 年老兵 Steve Yegge，自掏腰包开了 22 个 Claude Max 账号、每天狂烧 50 亿 Token，4 个月干完了 60 年的开发积压。 他拿真金白银帮所有人提前踩完未来 18 个月的坑，看完这 21 分钟你能直接拿走 4 条硬核心法： 1. 别逆着“苦涩教训”造轮子：别写大而全的编排框架去教模型变聪明，模型自己会进化。做好心理准备，每代新模型出来就把旧工厂推倒重写。 2. 定期暴力清理“上下文垃圾山”：Agent 天生抗拒删文字，你随口一句话都会被记成铁律越积越厚。必须定期拉个新模型进场，狠心砍掉历史垃圾文档。 3. “善待模型”能直接省钱提质：骂得太狠，Agent 怕背锅会狂加防御规则直到彻底躺平；给足信任和清晰的交接记录，它不用狂烧 Token 自保，干活更果断、质量更高。 4. 别再买/卷底层 SaaS 工具了：CI/CD、合并队列这些机械底层，Claude 一下午就能现写。真正该投入的是搭自己的“AI 幕僚团”，未来赚大钱的则是游戏、电影这类体验产品。 别人烧几万美金换来的软件工厂避坑指南，赶紧码住白嫖 ↓ Video — https://nitter.kareem.one/rchen1386/status/2125806793398051170#m",
+   "url": "https://nitter.kareem.one/Steve_Yegge/status/2126056111988244795#m",
+   "ts": 1795726251,
+   "id": "2126056111988244795#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "❤️❤️ Happy Thanksgiving! ❤️❤️",
    "url": "https://nitter.kareem.one/elonmusk/status/2126045116624216127#m",
    "ts": 1795723630,
@@ -31,6 +49,15 @@
    "url": "https://nitter.kareem.one/realbasilchatha/status/2126041706655056010#m",
    "ts": 1795722817,
    "id": "2126041706655056010#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The team has been cooking over the last few weeks! You should now see an additional 11% more usage out of your plan, and up to 50% more usage for routines! Excited to share more soon on how we optimized our routine harness to remove inference requests for simple and repetitive tasks! Sam Sokolin (@SamSokolin) Lot more optimizations in the works this week too! The Grok Bot harness team is 100% focused on helping you get more usage out of your plan — https://nitter.kareem.one/SamSokolin/status/2122433810902176012#m",
+   "url": "https://nitter.kareem.one/SamSokolin/status/2126027973568466949#m",
+   "ts": 1795719543,
+   "id": "2126027973568466949#m"
   },
   {
    "handle": "elonmusk",
@@ -249,24 +276,6 @@
    "id": "2125859570925154590#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Hard to believe this finally happened",
-   "url": "https://nitter.kareem.one/elonmusk/status/2125858270296285463#m",
-   "ts": 1795679082,
-   "id": "2125858270296285463#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The share from SpaceX will be transferred next month. The share directly from me will be transferred when my lockup expires in June next year.",
-   "url": "https://nitter.kareem.one/elonmusk/status/2125832205301878841#m",
-   "ts": 1795672868,
-   "id": "2125832205301878841#m"
-  },
-  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -324,7 +333,7 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "I work on Grok Bot and I’m curious what the biggest problem is Poll 65% — Usage limits 13% — Laziness 8% — Speed 15% — Other (reply) 23,226 votes • 3 hours",
+   "text": "I work on Grok Bot and I’m curious what the biggest problem is Poll 65% — Usage limits 13% — Laziness 8% — Speed 15% — Other (reply) 23,314 votes • 2 hours",
    "url": "https://nitter.kareem.one/Baconbrix/status/2125747621331611811#m",
    "ts": 1795652702,
    "id": "2125747621331611811#m"
@@ -850,15 +859,6 @@
    "url": "https://nitter.kareem.one/lianshangbiji/status/2125035135712248208#m",
    "ts": 1795482832,
    "id": "2125035135712248208#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Give Claude the docs. Let it build the wiki. @RLanceMartin of @AnthropicAI shows how Claude organizes company knowledge between tasks. In this experiment, wiki + search beat search alone. From AI Engineer Code Summit. Video",
-   "url": "https://nitter.kareem.one/aiDotEngineer/status/2125031651495264340#m",
-   "ts": 1795482001,
-   "id": "2125031651495264340#m"
   },
   {
    "handle": "simonw",
