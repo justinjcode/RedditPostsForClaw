@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T15:19:17Z",
+ "generated_at": "2026-11-26T15:32:59Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -8,12 +8,31 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@swyx: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: robotnews.therundown.ai/p/yo… Link Your future housekeeper might be an XPeng PLUS: Amazon drone crashes trigger FAA scrutiny robotnews.therundown.ai",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2125975559939194936#m",
+   "ts": 1795707046,
+   "id": "2125975559939194936#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in robotics today: - XPeng’s humanoid has your home in its sights - FAA probes Amazon’s Michigan drone crash - Light-powered nanobots carry chemo into brains - Zoox tests gentler robotaxi warnings",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2125975552469110885#m",
+   "ts": 1795707045,
+   "id": "2125975552469110885#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -216,7 +235,7 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "I work on Grok Bot and I’m curious what the biggest problem is Poll 65% — Usage limits 13% — Laziness 7% — Speed 14% — Other (reply) 17,529 votes • 9 hours",
+   "text": "I work on Grok Bot and I’m curious what the biggest problem is Poll 65% — Usage limits 13% — Laziness 7% — Speed 14% — Other (reply) 17,786 votes • 9 hours",
    "url": "https://nitter.kareem.one/Baconbrix/status/2125747621331611811#m",
    "ts": 1795652702,
    "id": "2125747621331611811#m"
@@ -976,24 +995,6 @@
    "url": "https://nitter.kareem.one/canceled4truth/status/2124850082017079622#m",
    "ts": 1795438712,
    "id": "2124850082017079622#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: therundownai.beehiiv.com/p/c… Link Claude helps solve math's biggest open problem Anthropic mathematician Levent Alpöge says Claude helped prove the Riemann Hypothesis, math's famous 167-year-old open problem. Here's what it means for AI and math. therundownai.beehiiv.com",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2124827982812361127#m",
-   "ts": 1795433443,
-   "id": "2124827982812361127#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in AI today: - Claude helps solve math's biggest open problem - The Rundown Roundtable: Our AI use cases - Test Gemini 4 Neon on finding billing errors - OpenAI opens its private AI scorecard to rivals",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2124827978018238787#m",
-   "ts": 1795433442,
-   "id": "2124827978018238787#m"
   },
   {
    "handle": "swyx",
