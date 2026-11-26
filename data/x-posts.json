@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-26T16:54:46Z",
+ "generated_at": "2026-11-26T17:10:43Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,9 +10,47 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 178,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "see also inv.kareem.one/watch?v=Qe9d9dWy… Link The Revolution vs The Renaissance — Thariq Shihipar, OpenAI At AI Engineer CODE, Thariq Shihipar revisits what he got wrong abo... youtube.com",
+   "url": "https://nitter.kareem.one/swyx/status/2125997076618301786#m",
+   "ts": 1795712176,
+   "id": "2125997076618301786#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "not everything going great tho. cloudflare containers way too unreliable to be a base for a ci cd system",
+   "url": "https://nitter.kareem.one/swyx/status/2125996759570895157#m",
+   "ts": 1795712101,
+   "id": "2125996759570895157#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "smol forge now runs macos/ios CI thanks to @namespacelabs @20thr and boots linux ci in <1s thanks to cloudflare container snapshots by @southpolesteve swyx (@swyx) current end state of forge — https://nitter.kareem.one/swyx/status/2085835071156883685#m",
+   "url": "https://nitter.kareem.one/swyx/status/2125995865525629084#m",
+   "ts": 1795711888,
+   "id": "2125995865525629084#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "又安静啦",
+   "url": "https://nitter.kareem.one/ZichenWanghere/status/2125995657186119714#m",
+   "ts": 1795711838,
+   "id": "2125995657186119714#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -252,7 +289,7 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "I work on Grok Bot and I’m curious what the biggest problem is Poll 65% — Usage limits 13% — Laziness 8% — Speed 15% — Other (reply) 19,982 votes • 7 hours",
+   "text": "I work on Grok Bot and I’m curious what the biggest problem is Poll 65% — Usage limits 13% — Laziness 8% — Speed 15% — Other (reply) 20,157 votes • 7 hours",
    "url": "https://nitter.kareem.one/Baconbrix/status/2125747621331611811#m",
    "ts": 1795652702,
    "id": "2125747621331611811#m"
@@ -582,15 +619,6 @@
    "id": "2125360889670857142#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Millions of lines. Five rewrites. 140 agents. @jarredsumner of @AnthropicAI on building @bunjavascript 's compiler, and why tests that predate the project matter. Full Code Summit talk: inv.kareem.one/TvsF67C2F54",
-   "url": "https://nitter.kareem.one/aiDotEngineer/status/2125326086900764900#m",
-   "ts": 1795552200,
-   "id": "2125326086900764900#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -618,15 +646,6 @@
    "id": "2125304077341085880#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "This was a fundamentally foundational talk. Skills changed the game for devs using coding agents. I can't tell you how many times someone would ask for an agent, but a skill would solve it, and be more portable across projects (depending on the skill). Josh Birdwell (@joshdbirdwell) Happy Opus 4.5 release anniversary. This time last year I was attending @aiDotEngineer code summit in NYC and learning about skills for the first time. What a wild year. Wonder what 2027 holds any tin hat theories? I think we will get LLM first programming languages. — https://nitter.kareem.one/joshdbirdwell/status/2125278014061875669#m",
-   "url": "https://nitter.kareem.one/onpardev/status/2125296268075553151#m",
-   "ts": 1795545091,
-   "id": "2125296268075553151#m"
-  },
-  {
    "handle": "bcherny",
    "name": "Boris Cherny",
    "author": "@bcherny",
@@ -634,15 +653,6 @@
    "url": "https://nitter.kareem.one/bcherny/status/2125292098165612585#m",
    "ts": 1795544096,
    "id": "2125292098165612585#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Article Surely You're Joking, Mr. Claude This is a static version of an interactive essay. For the full interactive mode, where you can take the same humor test the ten AI models took, read the original at nicholasachow.com/jesterbench. Building",
-   "url": "https://nitter.kareem.one/nicholasachow/status/2125288682903273568#m",
-   "ts": 1795543282,
-   "id": "2125288682903273568#m"
   },
   {
    "handle": "TheRundownAI",
@@ -778,15 +788,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2125100206169677915#m",
    "ts": 1795498346,
    "id": "2125100206169677915#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Bold move before Thanksgiving, turkeys CBS News (@CBSNews) A woman was chased by several turkeys in Newton, Massachusetts, on Saturday, before taking refuge in a car. Wild turkeys are common in the state, and officials have previously warned residents about encounters with the birds. Video — https://nitter.kareem.one/CBSNews/status/2124981384435601853#m",
-   "url": "https://nitter.kareem.one/austinramzy/status/2125071640895865264#m",
-   "ts": 1795491535,
-   "id": "2125071640895865264#m"
   },
   {
    "handle": "Lingling_Wei",
