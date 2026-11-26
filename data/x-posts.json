@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-26T04:57:47Z",
+ "generated_at": "2026-11-26T05:09:16Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,27 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "Yeah this is pretty great kirill sh (@shneural) asked Opus Next (5.6/6) to make an Anthropic-style launch video for \"Claude Pelican 1\", a fake model that only generates SVG pelicans on bicycles gave it their real launch videos as refs. it actually looks like an official ad lol Video — https://nitter.kareem.one/shneural/status/2125658847323017291#m",
+   "url": "https://nitter.kareem.one/simonw/status/2125816458911600681#m",
+   "ts": 1795669114,
+   "id": "2125816458911600681#m"
+  },
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "Today's new feature for datasette-charts is chart annotations! You can now add custom lines, shaded areas, labels, or a combination of the three - or Datasette Agent can annotate charts for you simonwillison.net/2026/Nov/2…",
+   "url": "https://nitter.kareem.one/simonw/status/2125816311284674905#m",
+   "ts": 1795669079,
+   "id": "2125816311284674905#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -280,7 +297,7 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Three days after the Riemann Hypothesis was proved in Lean, our agents had used it to prove 17 results. Six are named conjectures that were open until 20 November, including the Lindelöf hypothesis, Erdős Problem 985 and Euler’s idoneal numbers. Some had been open for more than 100 years. @livingbrain held the memory, OpenHuman’s agents wrote the proofs, and Lean checked every one. Video Community note: The listed conjectures (e.g. Lindelöf hypothesis, Euler idoneal numbers completeness, Erdős 985) were previously known to follow from RH or GRH per published results; the project formalizes those known implications in Lean. en.wikipedia.org/wiki/Lindel%C3… en.wikipedia.org/wiki/Idoneal_n… github.com/ChatAndBuild/c… erdosproblems.com/985 arxiv.org/pdf/math/98071… nitter.kareem.one/thomasfbloom/s",
+   "text": "Three days after the Riemann Hypothesis was proved in Lean, our agents had used it to prove 17 results. Six are named conjectures that were open until 20 November, including the Lindelöf hypothesis, Erdős Problem 985 and Euler’s idoneal numbers. Some had been open for more than 100 years. @livingbrain held the memory, OpenHuman’s agents wrote the proofs, and Lean checked every one. Video Community note: These named conjectures were long known to follow from RH or GRH. The agents formalized the known implications in Lean, making them unconditional after the RH proof. github.com/ChatAndBuild/c… en.wikipedia.org/wiki/Lindel%C3… arxiv.org/abs/1508.0518",
    "url": "https://nitter.kareem.one/ladyxtel/status/2125587817082601587#m",
    "ts": 1795614601,
    "id": "2125587817082601587#m"
@@ -1202,24 +1219,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2122822484529684838#m",
    "ts": 1794955295,
    "id": "2122822484529684838#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "For comparison, here's Gemini 4 Carbon Simon Willison (@simonw) Gemini 4 Carbon is good at pelican SVGs, but that's nothing new for Gemini \"Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and stomps around manhattan and queens and Brooklyn, use openstreetmap mapping data\" simonwillison.net/2026/Nov/1… Video — https://nitter.kareem.one/simonw/status/2120258951594037732#m",
-   "url": "https://nitter.kareem.one/simonw/status/2122822433023590517#m",
-   "ts": 1794955282,
-   "id": "2122822433023590517#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "Here's GPT-6.2 Astra and GPT-6.2 Sol for \"Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and stomps around manhattan and queens and Brooklyn, use openstreetmap mapping data\" simonwillison.net/2026/Nov/1… Video",
-   "url": "https://nitter.kareem.one/simonw/status/2122822310428279136#m",
-   "ts": 1794955253,
-   "id": "2122822310428279136#m"
   },
   {
    "handle": "Lingling_Wei",
