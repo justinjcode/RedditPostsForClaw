@@ -1,19 +1,18 @@
 {
- "generated_at": "2026-11-26T19:19:18Z",
+ "generated_at": "2026-11-26T19:27:42Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed"
- ],
- "count": 178,
+ "errors": [],
+ "count": 179,
  "items": [
   {
    "handle": "swyx",
@@ -77,15 +76,6 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2125995657186119714#m",
    "ts": 1795711838,
    "id": "2125995657186119714#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Let's try adding the @lulumeservey filter: Hey all happy Thanksgiving, did you see that dog jetski in GTA6? crazy cool. Anyway, to our dismay we found a billing mistake in GPT-6.2: • 6.2 Astra and Sol are now 20-40% more efficient than their predecessors, • the API prices are fine (6.2 Astra is 20% cheaper in API than 6.1 Astra!), • but in our new subscription code we were actually overshot, and counted 6.2 Astra and Sol 40% and 25% too low towards limits at launch last week on top of the efficiency gains we demonstrated, rather than matching it. We've fixed that going forward and have given a banked reset to all affected. Net of all changes, we expect that the same subscription will do a lot more work for you from 6 to 6.1 to 6.2 under the same limits. Delivering maximum intelligence per dollar remains Codex's overall north star and that is our firm commitment. Tibo (@thsottiaux) We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. We’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster on Sol. You should still see these go further in usage compared to 6 Astra and 6.1 Sol. Other models weren’t affected, and we won’t charge you for the difference on past usage. As a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business. — http",
-   "url": "https://nitter.kareem.one/swyx/status/2125993331482345858#m",
-   "ts": 1795711283,
-   "id": "2125993331482345858#m"
   },
   {
    "handle": "swyx",
@@ -316,7 +306,7 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "I work on Grok Bot and I’m curious what the biggest problem is Poll 65% — Usage limits 13% — Laziness 8% — Speed 15% — Other (reply) 21,790 votes • 5 hours",
+   "text": "I work on Grok Bot and I’m curious what the biggest problem is Poll 65% — Usage limits 13% — Laziness 8% — Speed 15% — Other (reply) 22,043 votes • 5 hours",
    "url": "https://nitter.kareem.one/Baconbrix/status/2125747621331611811#m",
    "ts": 1795652702,
    "id": "2125747621331611811#m"
@@ -646,6 +636,15 @@
    "id": "2125360889670857142#m"
   },
   {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Millions of lines. Five rewrites. 140 agents. @jarredsumner of @AnthropicAI on building @bunjavascript 's compiler, and why tests that predate the project matter. Full Code Summit talk: inv.kareem.one/TvsF67C2F54",
+   "url": "https://nitter.kareem.one/aiDotEngineer/status/2125326086900764900#m",
+   "ts": 1795552200,
+   "id": "2125326086900764900#m"
+  },
+  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -851,6 +850,15 @@
    "url": "https://nitter.kareem.one/lianshangbiji/status/2125035135712248208#m",
    "ts": 1795482832,
    "id": "2125035135712248208#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Give Claude the docs. Let it build the wiki. @RLanceMartin of @AnthropicAI shows how Claude organizes company knowledge between tasks. In this experiment, wiki + search beat search alone. From AI Engineer Code Summit. Video",
+   "url": "https://nitter.kareem.one/aiDotEngineer/status/2125031651495264340#m",
+   "ts": 1795482001,
+   "id": "2125031651495264340#m"
   },
   {
    "handle": "simonw",
