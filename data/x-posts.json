@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-26T17:10:43Z",
+ "generated_at": "2026-11-26T17:17:08Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,27 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 178,
  "items": [
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "I feel the same way about those emails as I do when I catch someone deliberately \"mirroring\" me in an in-person conversation - like I'm being actively deceived to manipulate me",
+   "url": "https://nitter.kareem.one/simonw/status/2125999332386349209#m",
+   "ts": 1795712714,
+   "id": "2125999332386349209#m"
+  },
+  {
+   "handle": "simonw",
+   "name": "Simon Willison",
+   "author": "@simonw",
+   "text": "Emails with \"Your post on [summarize some blog post of mine] caught my eye\" are so depressing Kenton Varda (@KentonVarda) I get a few emails a day from people who have applied for jobs at Cloudflare and want me to consider them. A few years ago such an email was rare and a sign that someone was really excited about Cloudflare Workers specifically and were not just sending resumes to 100 companies. But now it's the opposite. I'm pretty sure 100% of these emails are written by AI agents. In fact the majority of them start out with \"Your post on [summarize some blog post of mine] caught my eye,\" which is a turn of phrase that's also very common in recruiter spam. Really sad. — https://nitter.kareem.one/KentonVarda/status/2125767584477790270#m",
+   "url": "https://nitter.kareem.one/simonw/status/2125998873252605954#m",
+   "ts": 1795712605,
+   "id": "2125998873252605954#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -289,7 +306,7 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "I work on Grok Bot and I’m curious what the biggest problem is Poll 65% — Usage limits 13% — Laziness 8% — Speed 15% — Other (reply) 20,157 votes • 7 hours",
+   "text": "I work on Grok Bot and I’m curious what the biggest problem is Poll 65% — Usage limits 13% — Laziness 8% — Speed 15% — Other (reply) 20,329 votes • 7 hours",
    "url": "https://nitter.kareem.one/Baconbrix/status/2125747621331611811#m",
    "ts": 1795652702,
    "id": "2125747621331611811#m"
@@ -1121,24 +1138,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2123305889700667899#m",
    "ts": 1795070547,
    "id": "2123305889700667899#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "I also tried \"Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and stomps around manhattan and queens and Brooklyn, use openstreetmap mapping data\" against Gemini 4 Neon and got this static.simonwillison.net/sta… Video",
-   "url": "https://nitter.kareem.one/simonw/status/2123305792854217049#m",
-   "ts": 1795070524,
-   "id": "2123305792854217049#m"
-  },
-  {
-   "handle": "simonw",
-   "name": "Simon Willison",
-   "author": "@simonw",
-   "text": "The most useful thing about the pelican riding a bicycle test continues to be illustrating the differences between models in the same family running at different effort levels - here's Gemini 4 Carbon, the new Gemini 4 Neon, and Gemini 4 Hydrogen at low, medium, and high",
-   "url": "https://nitter.kareem.one/simonw/status/2123305131206967571#m",
-   "ts": 1795070367,
-   "id": "2123305131206967571#m"
   },
   {
    "handle": "thsottiaux",
