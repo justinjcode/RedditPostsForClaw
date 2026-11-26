@@ -1,20 +1,37 @@
 {
- "generated_at": "2026-11-26T08:26:42Z",
+ "generated_at": "2026-11-26T08:36:40Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
+  "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@bcherny: all instances failed",
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Teslas have superhuman vision Rustavi (@Rustavi) 🚨 FSD v15 in heavy rain: your eyes see chaos. The AI sees everything. While the windshield is flooded with water, glare, and blur, FSD v15’s visualization stays locked, perfectly tracking every vehicle and the blue path ahead. Even with the ‘Camera Visibility Limited’ warning, it keeps driving with precision. This is what next-level perception looks like. 🌧️🚗 #Tesla #FSD #FSDv15 #FullSelfDriving #AutonomousDriving #TeslaAI #HeavyRain Video — https://nitter.kareem.one/Rustavi/status/2125662404541337779#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2125867631546712066#m",
+   "ts": 1795681314,
+   "id": "2125867631546712066#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "If SpaceX succeeds in making life multiplanetary and harnessing even a millionth of the Sun’s energy, it will be worth about a million times the current global economy. These are obviously absurdly difficult goals, but there is a path to achieving them. I recommend holding on to your shares.",
+   "url": "https://nitter.kareem.one/elonmusk/status/2125867208358105441#m",
+   "ts": 1795681213,
+   "id": "2125867208358105441#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -23,6 +40,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2125864501019070680#m",
    "ts": 1795680568,
    "id": "2125864501019070680#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Elon is a lovely dad. He plays with them. He loves seeing his kids and his older kids come visit him and they're so nice. They actually visit me too and stay with me. When he's with his kids, no one else exists, he just plays with them. ❤️ — Maye Musk Video",
+   "url": "https://nitter.kareem.one/cb_doge/status/2125861926882381859#m",
+   "ts": 1795679954,
+   "id": "2125861926882381859#m"
   },
   {
    "handle": "simonw",
@@ -109,6 +135,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "I work on Grok Bot and I’m curious what the biggest problem is Poll 69% — Usage limits 12% — Laziness 6% — Speed 13% — Other (reply) 5,767 votes • 15 hours",
+   "url": "https://nitter.kareem.one/Baconbrix/status/2125747621331611811#m",
+   "ts": 1795652702,
+   "id": "2125747621331611811#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "If you haven't tried Grok @Bot yet, ask it to find a Black Friday deal on something you were going to buy anyway. See how it does. Bot checks prices across every site and applies promo codes automatically. Very useful for brainstorming gift ideas too. Grok Bot (@bot) Grok Bot knows the Black Friday deals. Send Bot your list and let it handle your holiday shopping. Video — https://nitter.kareem.one/bot/status/2125711676003766718#m",
    "url": "https://nitter.kareem.one/JasonBud/status/2125715363367387522#m",
    "ts": 1795645011,
@@ -131,6 +166,15 @@
    "url": "https://nitter.kareem.one/ilovecatlovecar/status/2125713598534373885#m",
    "ts": 1795644590,
    "id": "2125713598534373885#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": ". @SpaceX , @elonmusk pledge to donate a share each to active Trump Accounts cnbc.com/2026/11/25/spacex-m… Link SpaceX, Musk pledge to donate a share each to active Trump Accounts SpaceX said it will donate one share of the company's class A stock to every active Trump Account, and CEO Elon Musk would match it. cnbc.com",
+   "url": "https://nitter.kareem.one/RapidResponse47/status/2125696678984667553#m",
+   "ts": 1795640556,
+   "id": "2125696678984667553#m"
   },
   {
    "handle": "elonmusk",
@@ -185,15 +229,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2125669066388209784#m",
    "ts": 1795633973,
    "id": "2125669066388209784#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "SpaceX Colossus 3 will greatly benefit the Arizona community SpaceX (@SpaceX) Our supercompute site in Cochise County has been designed with Arizona in mind: no gas plant, no industrial water use, and a dry-cooling closed-loop water system. SpaceX will also invest $50B+ into the area, bringing 1,000 local permanent jobs and up to 5,500 construction jobs to the area. We will pay for our own power and pay $3.6B to upgrade the grid. Current residents will not subsidize this project – in fact, residential rates for SSVEC customers may decrease by up to 40%. We value input from the local community, and we are looking forward to addressing questions during our planned meeting on December 9. We’re asking the Commission to keep it and let residents be heard. We think it's important these conversations happen publicly and in a timely manner. We are committed to helping build and grow the communities we live and work in for the better → spacex.com/sites/cochise-cou… — https://nitter.kareem.one/SpaceX/status/2125637438710153247#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2125667762324541673#m",
-   "ts": 1795633662,
-   "id": "2125667762324541673#m"
   },
   {
    "handle": "elonmusk",
@@ -304,15 +339,6 @@
    "id": "2125627281230205435#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "If you ever questioned why Democrats lost their minds when DOGE looked under the hood of USAID — you know now. It’s the biggest money laundering scam perpetrated on the American taxpayer in U.S. history. I took it on as MO AG in MO v Biden and led the Rescissions bill in the Senate that ripped away $9B from the corrupt organization — but so much more must be done. I’ve seen the leftist NGO industrial complex and what they are willing to do with money and power and it’s mind boggling. It’s even bigger than USAID and the Democrats are coming into Congress with the stated purpose of empowering the foreign policy establishment all over again. To counter this Republicans should rally around the idea of cutting the outrageous funding we send overseas. Enough. Also, DOJ should investigate further. How far does the corruption go? The American people deserve to know.",
-   "url": "https://nitter.kareem.one/Eric_Schmitt/status/2125623323484635604#m",
-   "ts": 1795623067,
-   "id": "2125623323484635604#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -343,37 +369,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "别再说马斯克挺黄仁勋只是演戏了。 看看去年黄仁勋亲自飞去 SpaceX 见马斯克的这段视频，这段交情，早就在十年前焊死了。 2016 年，黄仁勋发布全世界第一台 AI 超算 DGX-1。那是当时最顶尖的机器，可发布完，台下一片安静，一张订单都没有。 直到去年 10 月，老黄带着最新一代 DGX Spark 去 SpaceX 找马斯克，当面提起那次冷场，他依然记得清清楚楚： “全场一片安静。只有一个人例外。那个人，就是你。” 马斯克脱口而出：“我当时觉得，这主意太棒了。” 就凭这一句，那台初代机器被送到了当时的 OpenAI，也顺手点燃了今天的 AI 时代。 再看这个月。 11 月 13 日，黄仁勋还在谷底、能否回归毫无定数，马斯克公开站出来签请愿书； 11 月 23 日，老黄官宣复职，他只淡淡丢下一句：It is done。 转头人就直接现身英伟达总部，和老黄一起庆祝。 把这两件事放一起看，最戳人的根本不是他们如今多风光，而是这两个时间点—— 一次产品还没卖出去，一次人还没回去。两次，马斯克都没等结果。 世人习惯等尘埃落定才选边站，顶级强者之间最稀缺的，恰恰是看不清结局时的那次托底。 Video",
-   "url": "https://nitter.kareem.one/ZhouTalks/status/2125590799933116580#m",
-   "ts": 1795615312,
-   "id": "2125590799933116580#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Three days after the Riemann Hypothesis was proved in Lean, our agents had used it to prove 17 results. Six are named conjectures that were open until 20 November, including the Lindelöf hypothesis, Erdős Problem 985 and Euler’s idoneal numbers. Some had been open for more than 100 years. @livingbrain held the memory, OpenHuman’s agents wrote the proofs, and Lean checked every one. Video Community note: The listed conjectures (e.g. Lindelöf hypothesis, Euler idoneal numbers completeness, Erdős 985) were previously known to follow from RH or GRH per published results; the project formalizes those known implications in Lean. en.wikipedia.org/wiki/Lindel%C3… en.wikipedia.org/wiki/Idoneal_n… github.com/ChatAndBuild/c… erdosproblems.com/985 arxiv.org/pdf/math/98071… nitter.kareem.one/thomasfbloom/s",
-   "url": "https://nitter.kareem.one/ladyxtel/status/2125587817082601587#m",
-   "ts": 1795614601,
-   "id": "2125587817082601587#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Ramon Salcido took his three young daughters to a county dump, slit their throats, and left them for dead. He murdered a total of seven people that day, including two of his own daughters. Gavin Newsom just granted Salcido clemency.",
-   "url": "https://nitter.kareem.one/RapidResponse47/status/2125585420159189385#m",
-   "ts": 1795614030,
-   "id": "2125585420159189385#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "F*ck YES... Grok Bot runs my Etsy shop now, 2,318 orders in 5 weeks and I've never packed a single box Elon Musk says Grok Bot can find you the real Black Friday deals, mine is the one selling them, and Etsy paid me $14,212 before Black Friday even started 6 bots, a shift each, I haven't drawn a single design: → 6 AM: Scout reads what climbed in Etsy search overnight and picks 3 gift ideas → 8 AM: Designer makes 40 ornaments in Grok Imagine and turns every pet photo a buyer sends into a custom one in 4 minutes → 10 AM: Lister writes the title and all 13 tags, then puts each design on a mockup photo → 1 PM: Pricer runs a real 30% off, never a fake \"was\" price, the deal bots catch those now → 4 PM: Concierge answers every buyer message in under 10 minutes → Midnight: Analyst kills every listing with 0 sales in 14 days and clones the winners Printify prints and ships every order, I never touch one Why Etsy never pulled the shop: line 1 of every listing says it was made with AI, the shops that hide it lose everything Give your first bot one gift idea and the Scout job tonight, the other 5 can wait From that first bot to a crew of 6, the whole setup is in the guide below ↓ Video distort (@distortgeekin) Grok Bot can now make your calls, sort your inbox and run your week while you sleep Most people still use it like a chatbot Everything it can do in one guide: first bot, routines, a full team, calls, and 5 rules that keep it off your money ↓ Article Grok Bot: The Ultimate Guide (Fr",
-   "url": "https://nitter.kareem.one/distortgeekin/status/2125584444064993429#m",
-   "ts": 1795613797,
-   "id": "2125584444064993429#m"
+   "text": "Elon Musk quickly impressed Franz von Holzhausen, persuading him to join Tesla and leave behind a successful career at Mazda. Franz recalls: \"For somebody who's going to put rockets into space, car is actually not that hard, and his vision for the car and his sustainable direction and message is exactly what I'm looking for.\" In the summer of 2008, Franz already had the kind of automotive career most designers dream about, having penned sports cars at GM and led design at Mazda North America, while Tesla was near bankruptcy. But after meeting Elon Musk at SpaceX and going for a drive together in an early Roadster while people on the street stopped to stare, Franz walked away from his secure job to start designing the Model S from a blank sheet of paper. When he later explained why he took that leap of faith into a startup with no guarantees, his answer came down to Elon's total commitment: \"Tesla was all in.\" Video",
+   "url": "https://nitter.kareem.one/EvaFox/status/2125594880760058347#m",
+   "ts": 1795616285,
+   "id": "2125594880760058347#m"
   },
   {
    "handle": "Lingling_Wei",
