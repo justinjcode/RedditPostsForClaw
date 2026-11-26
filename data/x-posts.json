@@ -1,8 +1,6 @@
 {
- "generated_at": "2026-11-26T19:27:42Z",
+ "generated_at": "2026-11-26T19:39:09Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,9 +9,21 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed",
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Half of the English settlers who arrived on the Mayflower were dead after the first winter… The first harvest in 1621 gave the 53 survivors a reason to gather, celebrate and be thankful. Eventually, a few wooded colonies would become the most powerful nation in history.",
+   "url": "https://nitter.kareem.one/Geiger_Capital/status/2126018532060061963#m",
+   "ts": 1795717292,
+   "id": "2126018532060061963#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -306,7 +316,7 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "I work on Grok Bot and I’m curious what the biggest problem is Poll 65% — Usage limits 13% — Laziness 8% — Speed 15% — Other (reply) 22,043 votes • 5 hours",
+   "text": "I work on Grok Bot and I’m curious what the biggest problem is Poll 65% — Usage limits 13% — Laziness 8% — Speed 15% — Other (reply) 22,163 votes • 4 hours",
    "url": "https://nitter.kareem.one/Baconbrix/status/2125747621331611811#m",
    "ts": 1795652702,
    "id": "2125747621331611811#m"
@@ -351,15 +361,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "We’ve received FDA approval to launch LINK, the first pivotal trial for an implantable brain-computer interface in the US. This builds off of our work with 30+ participants with Neuralink to date. Those with ALS may be eligible. To learn more: neuralink.com/trials/device-… Video",
-   "url": "https://nitter.kareem.one/neuralink/status/2125694580544680185#m",
-   "ts": 1795640056,
-   "id": "2125694580544680185#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Happy Thanksgiving! Space X + @elonmusk = 2 shares of SpaceX stock for every child under 18 who has claimed their 530A account!! All 70 MILLION kids are eligible - but you MUST download & claim your child’s acct to get your free shares! Do it now! 🇺🇸🤍🦃 @TrumpAccounts SpaceX (@SpaceX) SpaceX is building the infrastructure of the future and working to make life multiplanetary. We believe ownership of the company creating these systems should extend to the next generation of Americans. Today, we are committing one SpaceX share to millions of American children to give the next generation a stake in building a more exciting future → ir.spacex.com/updates/releas… Link SpaceX to Invest in the Next Generation of Americans SpaceX announced a commitment to contribute one newly issued share of its Class A common stock to every currently active Trump Account, the tax-advantaged investment accounts that help American... ir.spacex.com — https://nitter.kareem.one/SpaceX/status/2125671356339499494#m",
    "url": "https://nitter.kareem.one/altcap/status/2125680126004486294#m",
    "ts": 1795636609,
@@ -373,15 +374,6 @@
    "url": "https://nitter.kareem.one/ericzakariasson/status/2125675144173556124#m",
    "ts": 1795635422,
    "id": "2125675144173556124#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Less than two months after Starlink Mobile launched in Kazakhstan, 3M+ @_Beeline_kz customers are staying connected on their phones in cellular dead zones. For the first time, rural communities can text, use apps, maps and more 🛰️📱 Beeline Janymda (@_Beeline_kz) 3 million Beeline Kazakhstan customers have used the Starlink service. @Starlink — https://nitter.kareem.one/_Beeline_kz/status/2125486640877715959#m",
-   "url": "https://nitter.kareem.one/Starlink/status/2125665653432713405#m",
-   "ts": 1795633159,
-   "id": "2125665653432713405#m"
   },
   {
    "handle": "TheRundownAI",
@@ -409,6 +401,15 @@
    "url": "https://nitter.kareem.one/realpython/status/2125649422423843011#m",
    "ts": 1795629289,
    "id": "2125649422423843011#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Teams encapsulated the Cygnus XL spacecraft earlier this week ahead of Falcon 9’s launch of @northropgrumman 's commercial resupply mission to the @Space_Station . Liftoff is targeted for 10:47 a.m. ET on Sunday, November 29 → spacex.com/launches/ng25",
+   "url": "https://nitter.kareem.one/SpaceX/status/2125649126398591003#m",
+   "ts": 1795629219,
+   "id": "2125649126398591003#m"
   },
   {
    "handle": "elonmusk",
