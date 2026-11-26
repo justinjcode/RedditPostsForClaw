@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-26T15:10:39Z",
+ "generated_at": "2026-11-26T15:19:17Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "the amount of saas founders having to refound their decade+ old company is visibly going up in the timeline and 1) its causing a reckoning with lazy saas lockin business models, 2) it’s kinda cool that we all get to see them work thru this problem live Wade Foster (@wadefoster) Refounding Zapier means answering a lot of hard questions. Like: \"Why use Zapier, when Claude connects to my apps?\" The short answer: use them together. Your agent does the thinking. Zapier MCP plugs it into 10,000+ apps so it can take real actions in the tools you need. @Zapier is for work that repeats: a new lead, a payment notification, the Monday morning report, anything that has to keep running after you close the chat. Sure, you can set that up as a scheduled task in Claude, ChatGPT, etc. But then you're paying for AI tokens every time it wakes up to check for work, even when it finds nothing. Zapier’s AI Workflow Index priced 2,944 real workflows and found that 𝘀𝗰𝗵𝗲𝗱𝘂𝗹𝗲𝗱 𝗮𝗴𝗲𝗻𝘁𝘀 𝗰𝗼𝘀𝘁 𝗮𝗻 𝗲𝘀𝘁𝗶𝗺𝗮𝘁𝗲𝗱 𝟮.𝟭𝘅 𝗮𝘀 𝗺𝘂𝗰𝗵 𝗮𝘀 𝗭𝗮𝗽𝘀. A Zap starts when something actually happens. It runs the same steps every time and only calls AI for the parts that need judgment. A scheduled task works great while you're at your computer. But who fixes it when it breaks at 2am? If you built it yourself, you do. If it's hosted on Zapier, Zapier fixes it on its own. Plus, when it sees you using AI for something simple automation or code could do? It recommends a fix. (Something the big labs aren’t enticed to do…) The new Zapier wo",
+   "url": "https://nitter.kareem.one/swyx/status/2125969097276178943#m",
+   "ts": 1795705506,
+   "id": "2125969097276178943#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -208,7 +216,7 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "I work on Grok Bot and I’m curious what the biggest problem is Poll 65% — Usage limits 13% — Laziness 7% — Speed 15% — Other (reply) 17,313 votes • 9 hours",
+   "text": "I work on Grok Bot and I’m curious what the biggest problem is Poll 65% — Usage limits 13% — Laziness 7% — Speed 14% — Other (reply) 17,529 votes • 9 hours",
    "url": "https://nitter.kareem.one/Baconbrix/status/2125747621331611811#m",
    "ts": 1795652702,
    "id": "2125747621331611811#m"
@@ -995,15 +1003,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2124780264916423021#m",
    "ts": 1795422066,
    "id": "2124780264916423021#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "also this FTX SBF quote ken (@aquariusacquah) hahaha — https://nitter.kareem.one/aquariusacquah/status/2124618540997304647#m",
-   "url": "https://nitter.kareem.one/swyx/status/2124766474736976240#m",
-   "ts": 1795418778,
-   "id": "2124766474736976240#m"
   },
   {
    "handle": "simonw",
