@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-26T19:39:09Z",
+ "generated_at": "2026-11-26T19:47:57Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@swyx: all instances failed"
  ],
- "count": 179,
+ "count": 178,
  "items": [
   {
    "handle": "elonmusk",
@@ -286,15 +286,6 @@
    "id": "2125805681265782991#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Every child in America will receive two SpaceX shares, one from the company and one from me personally",
-   "url": "https://nitter.kareem.one/elonmusk/status/2125797463047258119#m",
-   "ts": 1795664585,
-   "id": "2125797463047258119#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -316,7 +307,7 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "I work on Grok Bot and I’m curious what the biggest problem is Poll 65% — Usage limits 13% — Laziness 8% — Speed 15% — Other (reply) 22,163 votes • 4 hours",
+   "text": "I work on Grok Bot and I’m curious what the biggest problem is Poll 65% — Usage limits 13% — Laziness 8% — Speed 15% — Other (reply) 22,278 votes • 4 hours",
    "url": "https://nitter.kareem.one/Baconbrix/status/2125747621331611811#m",
    "ts": 1795652702,
    "id": "2125747621331611811#m"
@@ -361,10 +352,10 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Happy Thanksgiving! Space X + @elonmusk = 2 shares of SpaceX stock for every child under 18 who has claimed their 530A account!! All 70 MILLION kids are eligible - but you MUST download & claim your child’s acct to get your free shares! Do it now! 🇺🇸🤍🦃 @TrumpAccounts SpaceX (@SpaceX) SpaceX is building the infrastructure of the future and working to make life multiplanetary. We believe ownership of the company creating these systems should extend to the next generation of Americans. Today, we are committing one SpaceX share to millions of American children to give the next generation a stake in building a more exciting future → ir.spacex.com/updates/releas… Link SpaceX to Invest in the Next Generation of Americans SpaceX announced a commitment to contribute one newly issued share of its Class A common stock to every currently active Trump Account, the tax-advantaged investment accounts that help American... ir.spacex.com — https://nitter.kareem.one/SpaceX/status/2125671356339499494#m",
-   "url": "https://nitter.kareem.one/altcap/status/2125680126004486294#m",
-   "ts": 1795636609,
-   "id": "2125680126004486294#m"
+   "text": "JUST IN: ~70% of signers on the petition against SpaceX's data center in Arizona's Cochise County don't even live there, according to Supervisor Kathleen Gomez \"I went on to that. There was one where you just signed your name. You didn't even have to say your address or where you're from. Then there was another one by change[.]org, and there's at least 60% of those people are not from Cochise County.\" \"I have a real problem with people outside of our county trying to tell us what we should do and what we shouldn't do. My family goes back over since the eighteen eighties. I do not wanna ruin Cochise County. I do not wanna make it worse. In fact, that would be something that would horrify me.\" \"So, you know, the people at Cochise County, we're smart people. We know what we're doing. We know what we want for our vision, and we pass a comprehensive plan that's really thorough on everything. I would say to people, if you had the time like I did and went and checked each one of those signatures, you're gonna see that so many are not from Cochise County, like, at least 60% to even 70.\" \"So to me, I'm talking to the people on the street. I'm talking to the organizations that I meet, and that's where I'm gonna make my decision from what I hear from the people.\" Video Fireside Alpha (@firesidealpha) Full roundtable on SpaceX's proposed Arizona data center in Cochise County, including SpaceX's Riley Trettel @riley_trett43 : 0:00 - SpaceX data center roundtable 3:03 - Why Cochise has a d",
+   "url": "https://nitter.kareem.one/firesidealpha/status/2125685662188011558#m",
+   "ts": 1795637929,
+   "id": "2125685662188011558#m"
   },
   {
    "handle": "elonmusk",
