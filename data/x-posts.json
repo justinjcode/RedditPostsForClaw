@@ -1,9 +1,7 @@
 {
- "generated_at": "2026-11-26T14:44:56Z",
+ "generated_at": "2026-11-26T14:57:53Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -11,7 +9,10 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@ZichenWanghere: all instances failed",
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 179,
  "items": [
   {
@@ -180,7 +181,7 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "I work on Grok Bot and I’m curious what the biggest problem is Poll 65% — Usage limits 13% — Laziness 7% — Speed 15% — Other (reply) 16,704 votes • 9 hours",
+   "text": "I work on Grok Bot and I’m curious what the biggest problem is Poll 65% — Usage limits 13% — Laziness 7% — Speed 15% — Other (reply) 17,020 votes • 9 hours",
    "url": "https://nitter.kareem.one/Baconbrix/status/2125747621331611811#m",
    "ts": 1795652702,
    "id": "2125747621331611811#m"
