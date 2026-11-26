@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-26T11:37:00Z",
+ "generated_at": "2026-11-26T11:46:35Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,27 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: therundownai.beehiiv.com/p/y… Link Your AI cheat sheet for Thanksgiving dinner PLUS: Use Gemini Tasks to hunt for Black Friday prices therundownai.beehiiv.com",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2125915151664586994#m",
+   "ts": 1795692644,
+   "id": "2125915151664586994#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in AI today: - Your AI cheat sheet for Thanksgiving dinner - What five cents builds now with AI - Check Black Friday prices with Gemini Tasks - Anthropic CEO claps back at Axios ‘free will’ report",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2125915146904039715#m",
+   "ts": 1795692643,
+   "id": "2125915146904039715#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -163,7 +180,7 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "I work on Grok Bot and I’m curious what the biggest problem is Poll 66% — Usage limits 13% — Laziness 7% — Speed 14% — Other (reply) 11,034 votes • 12 hours",
+   "text": "I work on Grok Bot and I’m curious what the biggest problem is Poll 66% — Usage limits 13% — Laziness 7% — Speed 14% — Other (reply) 11,356 votes • 12 hours",
    "url": "https://nitter.kareem.one/Baconbrix/status/2125747621331611811#m",
    "ts": 1795652702,
    "id": "2125747621331611811#m"
@@ -1040,24 +1057,6 @@
    "url": "https://nitter.kareem.one/thsottiaux/status/2123861214644347122#m",
    "ts": 1795202947,
    "id": "2123861214644347122#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: tech.therundown.ai/p/gta-6-r… Link GTA 6 rakes in $2.4B overnight PLUS: Google’s space data centers find a ride tech.therundown.ai",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2123808882245919203#m",
-   "ts": 1795190470,
-   "id": "2123808882245919203#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in tech today: - GTA 6’s unhinged world goes viral - Google’s solar-powered AI chips get a rocket - Nick Bostrom puts human lifespan at 1,400 years - Uber tests solo rides for tweens",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2123808877225406857#m",
-   "ts": 1795190469,
-   "id": "2123808877225406857#m"
   },
   {
    "handle": "simonw",
