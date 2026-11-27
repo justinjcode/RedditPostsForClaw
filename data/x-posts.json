@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T17:28:06Z",
+ "generated_at": "2026-11-27T17:37:45Z",
  "accounts_ok": [
   "TheRundownAI",
   "ZichenWanghere",
@@ -15,6 +15,15 @@
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok @Bot keeps getting better a16z (@a16z) Gavin Baker says Grok Bot feels like another ChatGPT moment because it turns hours of Claude Code work into seconds: \"You see these 23-year-old kids and just the way they use AI, they're just fluent and native in it. I just feel like maybe in a way that no matter how hard I try, I will never be, and I'm trying really hard.\" \"We got Claude Code. I built some stuff, did some cool stuff, and in, I don't know, 3 minutes of creating Grok Bots, I had much better versions of everything I created.\" \"I love having a podcast summarizer... It takes 10 seconds in Grok Bot. It's amazing, and it's so good.\" \"A Substack summarizer, an X summarizer, an X sentiment tracker for topics and stocks... All of those would have taken me hours working with Claude Code, and they each took 7 to 12 seconds with Grok Bot. And it's better.\" \"To me, Grok Bot does feel like another ChatGPT moment.\" @GavinSBaker @DavidGeorge83 Video — https://nitter.kareem.one/a16z/status/2126331346180276262#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2126365899410341931#m",
+   "ts": 1795800111,
+   "id": "2126365899410341931#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -473,15 +482,6 @@
    "url": "https://nitter.kareem.one/ilovecatlovecar/status/2125713598534373885#m",
    "ts": 1795644590,
    "id": "2125713598534373885#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": ". @SpaceX , @elonmusk pledge to donate a share each to active Trump Accounts cnbc.com/2026/11/25/spacex-m… Link SpaceX, Musk pledge to donate a share each to active Trump Accounts SpaceX said it will donate one share of the company's class A stock to every active Trump Account, and CEO Elon Musk would match it. cnbc.com",
-   "url": "https://nitter.kareem.one/RapidResponse47/status/2125696678984667553#m",
-   "ts": 1795640556,
-   "id": "2125696678984667553#m"
   },
   {
    "handle": "elonmusk",
