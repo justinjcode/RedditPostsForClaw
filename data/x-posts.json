@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-27T06:51:04Z",
+ "generated_at": "2026-11-27T06:56:40Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
   {
@@ -41,6 +40,15 @@
    "url": "https://nitter.kareem.one/djseo/status/2126181706118160696#m",
    "ts": 1795756195,
    "id": "2126181706118160696#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "Hi @thetimes foreign desk editors @DRoseMoS I’d like to recommend myself as your contributor, after finding your strong interest in my work - you almost ripped off my months-long investigation, exactly 7 hours after its published this week: theguardian.com/business/202… Link Chinese police contacted members of WeChat group after they discussed Melbourne vigil for HungryP... Several members of chat set up after alleged murder of Feng Jianming say they or their parents were called by police from their home towns in China theguardian.com",
+   "url": "https://nitter.kareem.one/wing_kuang/status/2126136430892376541#m",
+   "ts": 1795745401,
+   "id": "2126136430892376541#m"
   },
   {
    "handle": "elonmusk",
@@ -806,15 +814,6 @@
    "url": "https://nitter.kareem.one/fbermingham/status/2125159349072838872#m",
    "ts": 1795512447,
    "id": "2125159349072838872#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "AI slop honouring the deceased in rural China. This is the pinnacle of diffusion 老木Nova (@laomunova) 卧靠，AI视频应用场景，农村葬礼已经用上了，这你受得了吗🤣 Video — https://nitter.kareem.one/laomunova/status/2124857819476136355#m",
-   "url": "https://nitter.kareem.one/CindyXiaodanYu/status/2125158017486254081#m",
-   "ts": 1795512129,
-   "id": "2125158017486254081#m"
   },
   {
    "handle": "simonw",
