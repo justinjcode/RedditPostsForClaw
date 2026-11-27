@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-27T21:08:30Z",
+ "generated_at": "2026-11-27T21:19:29Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,11 +11,27 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Tesla super vision Mike P (@mikepat711) Human driver: *fails to find road* FSD V15: lmao Video — https://nitter.kareem.one/mikepat711/status/2126132564813570515#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2126424460639313922#m",
+   "ts": 1795814073,
+   "id": "2126424460639313922#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Upgrades Ben Lang (@benln) Grok Bot team shipped in the last few days: • Flights, hotels, and rental cars bookings in chat • 11% more usage out of each plan • Up to 50% more usage for routines • Google Ads and Google Analytics connectors • Smarter Slack Bots • QuickBooks connector — https://nitter.kareem.one/benln/status/2126317446097207718#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2126424190475501877#m",
+   "ts": 1795814008,
+   "id": "2126424190475501877#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -136,15 +153,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "My observation is that giving money to “non-profits” rarely benefits the people and often results in hurting civilization by creating a self-perpetuating “cause of the day” bureaucracy that cares only about getting more money. Such “charities” are often merely a means of a wealthy donor buying power over people and governments, while appearing to be a “philanthropist”. Much better to give directly to the people and let them decide what they want to do.",
-   "url": "https://nitter.kareem.one/elonmusk/status/2126376500584702103#m",
-   "ts": 1795802638,
-   "id": "2126376500584702103#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "Tim Urban on @elonmusk : \"He's truly trying to do these big things for the right reasons.\" Video",
    "url": "https://nitter.kareem.one/teslaownersSV/status/2126376230920626285#m",
    "ts": 1795802574,
@@ -194,15 +202,6 @@
    "url": "https://nitter.kareem.one/aiDotEngineer/status/2126315113565097985#m",
    "ts": 1795788002,
    "id": "2126315113565097985#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Our gift is about so much more than money. It’s about teaching an entire generation of young Americans the power of investing, compound interest and ownership. 🇺🇸🚀",
-   "url": "https://nitter.kareem.one/MichaelDell/status/2126311994995171813#m",
-   "ts": 1795787259,
-   "id": "2126311994995171813#m"
   },
   {
    "handle": "elonmusk",
