@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T18:57:12Z",
+ "generated_at": "2026-11-27T19:09:03Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,33 @@
  "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok Build upgrades X Freeze (@XFreeze) Grok Build just got a solid upgrade for headless agents, MCP integrations, and remote terminal workflows Headless sessions can now include images returned by MCP tools in streaming and JSON output, positional prompts automatically run headless when no interactive terminal is available, and local file links open directly from responses Long-running headless tasks also get better reliability, with a five-minute inactivity timeout that prevents sessions from hanging indefinitely. Image pasting now works through remote tmux and nested terminal wrappers, while session recovery and hook inspection are more dependable There’s also a performance improvement that eliminates unnecessary directory watching when Grok only needs to track the current Git branch Release Notes: v1.0.92 Features: • Positional prompts without `-p` now run headless and print their reply when the process has no terminal for the TUI • MCP tool results that contain images now include those images in headless streaming and JSON output • Clickable `file://` links to local files now open the file the same way bare paths do Bug Fixes: • Question cards in minimal mode now keep the first option visible instead of scrolling it off-screen • Headless runs (`grok -p`) now stop after 5 minutes of no model output instead of hanging indefinitely • Session resume errors now give the same helpful instruction on every route instead of suggesting the TUI picker • `grok inspect` now shows the",
+   "url": "https://nitter.kareem.one/elonmusk/status/2126390700660920546#m",
+   "ts": 1795806024,
+   "id": "2126390700660920546#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Accurate sourcery (@sourceryy) Gavin Baker says SpaceX engineers believe they have solved orbital compute and are actually stressed about Starship reusability “I think catching the Starship, that was amazing. It was a huge moment for SpaceX.” “I will just say having spent a lot of time at Starbase, the SpaceX engineers, you know, all of these experts online are very skeptical about orbital compute, and oh the cooling and oh this. And you know, to the SpaceX engineers, they have solved those problems.” “They’re operating 11,000 satellites today. Starlink V3 actually consumes a significant, we call it maybe 10 to 15% the power of like an orbital compute satellite. It has to be cooled. The compute isn’t as densely packed, but you could do different things in space. They regard the design of the orbital compute satellite, that in their mind, I think they’ve figured that out.” “What they’re actually stressed about is Starship and reusability, and so catching the upper stage of Starship, that’s a huge step towards making Starlink, direct to cell, orbital compute, all of that a reality.” Video — https://nitter.kareem.one/sourceryy/status/2126356627003744717#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2126388828852105325#m",
+   "ts": 1795805577,
+   "id": "2126388828852105325#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok Bot is great at finding you the best deals on the Internet Fireside Alpha (@firesidealpha) JUST IN: Shopify reveals Grok Bot and other agents are playing a \"real role\" this shopping season, and calls it the first agentic Black Friday Harley Finkelstein (President): \"The reason I mention that is those are very specific products. And I think one of the new things that's happening in 2026 is this is the first real Black Friday where agentic is playing a real role. [Agentic meaning] Muse or Instinct or Grok Bot. These agents reward specificity.\" \"So what you're seeing is that consumers are not just saying, I want to buy a phone for my kids. I want to buy a screenless phone for my kids so I can call them when I'm traveling for work, like I do for Shopify. And instead of showing Best Buy, what's coming up is the Tin Can phone, who's already reported a 4x increase in sales from agentic sourcing.\" Video — https://nitter.kareem.one/firesidealpha/status/2126383852025463152#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2126388636325499201#m",
+   "ts": 1795805531,
+   "id": "2126388636325499201#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -94,6 +121,15 @@
    "url": "https://nitter.kareem.one/MichaelDell/status/2126311994995171813#m",
    "ts": 1795787259,
    "id": "2126311994995171813#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "15 year olds in California may to have to ride in a booster seat starting in January? We're now well into the territory of self-parody. This law should go.",
+   "url": "https://nitter.kareem.one/paulg/status/2126310099475956175#m",
+   "ts": 1795786807,
+   "id": "2126310099475956175#m"
   },
   {
    "handle": "TheRundownAI",
@@ -204,6 +240,15 @@
    "id": "2126106139582677088#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "a recent run of our model forecasting Starship launches and its estimated cargo split over the next several years. Hard to envision 10,000+ launches a year but when you contextualize against the 1M+ cargo ships (boat) trips or the 35M+ airline flights annually, this is just a drop in the bucket. Video",
+   "url": "https://nitter.kareem.one/aaronburnett/status/2126102687053746276#m",
+   "ts": 1795737356,
+   "id": "2126102687053746276#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -240,15 +285,6 @@
    "id": "2126056111988244795#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "❤️❤️ Happy Thanksgiving! ❤️❤️",
-   "url": "https://nitter.kareem.one/elonmusk/status/2126045116624216127#m",
-   "ts": 1795723630,
-   "id": "2126045116624216127#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -256,24 +292,6 @@
    "url": "https://nitter.kareem.one/realbasilchatha/status/2126041706655056010#m",
    "ts": 1795722817,
    "id": "2126041706655056010#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The team has been cooking over the last few weeks! You should now see an additional 11% more usage out of your plan, and up to 50% more usage for routines! Excited to share more soon on how we optimized our routine harness to remove inference requests for simple and repetitive tasks! Sam Sokolin (@SamSokolin) Lot more optimizations in the works this week too! The Grok Bot harness team is 100% focused on helping you get more usage out of your plan — https://nitter.kareem.one/SamSokolin/status/2122433810902176012#m",
-   "url": "https://nitter.kareem.one/SamSokolin/status/2126027973568466949#m",
-   "ts": 1795719543,
-   "id": "2126027973568466949#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Half of the English settlers who arrived on the Mayflower were dead after the first winter… The first harvest in 1621 gave the 53 survivors a reason to gather, celebrate and be thankful. Eventually, a few wooded colonies would become the most powerful nation in history.",
-   "url": "https://nitter.kareem.one/Geiger_Capital/status/2126018532060061963#m",
-   "ts": 1795717292,
-   "id": "2126018532060061963#m"
   },
   {
    "handle": "swyx",
@@ -510,15 +528,6 @@
    "id": "2125713598534373885#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "JUST IN: ~70% of signers on the petition against SpaceX's data center in Arizona's Cochise County don't even live there, according to Supervisor Kathleen Gomez \"I went on to that. There was one where you just signed your name. You didn't even have to say your address or where you're from. Then there was another one by change[.]org, and there's at least 60% of those people are not from Cochise County.\" \"I have a real problem with people outside of our county trying to tell us what we should do and what we shouldn't do. My family goes back over since the eighteen eighties. I do not wanna ruin Cochise County. I do not wanna make it worse. In fact, that would be something that would horrify me.\" \"So, you know, the people at Cochise County, we're smart people. We know what we're doing. We know what we want for our vision, and we pass a comprehensive plan that's really thorough on everything. I would say to people, if you had the time like I did and went and checked each one of those signatures, you're gonna see that so many are not from Cochise County, like, at least 60% to even 70.\" \"So to me, I'm talking to the people on the street. I'm talking to the organizations that I meet, and that's where I'm gonna make my decision from what I hear from the people.\" Video Fireside Alpha (@firesidealpha) Full roundtable on SpaceX's proposed Arizona data center in Cochise County, including SpaceX's Riley Trettel @riley_trett43 : 0:00 - SpaceX data center roundtable 3:03 - Why Cochise has a d",
-   "url": "https://nitter.kareem.one/firesidealpha/status/2125685662188011558#m",
-   "ts": 1795637929,
-   "id": "2125685662188011558#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -544,15 +553,6 @@
    "url": "https://nitter.kareem.one/realpython/status/2125649422423843011#m",
    "ts": 1795629289,
    "id": "2125649422423843011#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Teams encapsulated the Cygnus XL spacecraft earlier this week ahead of Falcon 9’s launch of @northropgrumman 's commercial resupply mission to the @Space_Station . Liftoff is targeted for 10:47 a.m. ET on Sunday, November 29 → spacex.com/launches/ng25",
-   "url": "https://nitter.kareem.one/SpaceX/status/2125649126398591003#m",
-   "ts": 1795629219,
-   "id": "2125649126398591003#m"
   },
   {
    "handle": "ZichenWanghere",
