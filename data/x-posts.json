@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-27T16:31:26Z",
+ "generated_at": "2026-11-27T16:39:28Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "google has a new tibo, spawning just as neon is the hottest frontier model in the world. banked resets and all this is a completely revitalized GDM unlike which we have not seen since basically Gemini 2.5 in my memory. writeup coming @latentspacepod but basically the # of frontier and near-frontier labs has ~doubled every year since 2023 and that’s by far the biggest existence disproof that the bitter lesson is the sole determinant of ai industrial economics. @saranormous calls it model neurodiversity and basically its the single most impt macro factor driving the life/death of agent labs and ai engineering. Eliza Huang (@eliza_huang) wow, didn’t expect a hello world to hit 50k+ views and take me past 1k followers 🥹 to give thanks: i’m cooking up banked reset & fixing papercuts 🧚🏻‍♀️ how can @antigravity be improved? — https://nitter.kareem.one/eliza_huang/status/2125509510630678798#m",
+   "url": "https://nitter.kareem.one/swyx/status/2126352854394790172#m",
+   "ts": 1795797000,
+   "id": "2126352854394790172#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -671,15 +680,6 @@
    "url": "https://nitter.kareem.one/latentspacepod/status/2125462912366182853#m",
    "ts": 1795584822,
    "id": "2125462912366182853#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "literally if you turn your brain off you are just choosing not to listen at this point swyx (@swyx) notable that a lot of the recent anthropic (and ant-alum) talks have been very specific about how much there is still left to do for human engineers, and if you are feeling depressed/anxious you need only look here / point your efforts towards AGI-aligned problems*: - assume multiagent systems 1000x, from spawning subagents to being llm grader to advisor/sidekick pattern to dreaming/memory formation to collaborating peer to peer on a board. what breaks? - Infra: unbundle Kubernetes to new filesystems, sandboxing, stateful, fast workflow orchestration (see @temporalio ) at crazy scale. it's actors on steroids. - Agent Authorization: EVERYONE agrees that having Instinct/Claude etc saving your password is bad (aka taking action On-Behalf-Of you instead of you delegating to an agent's own identity). (see @KeycardAI @okta etc) Then: how do agents trust another agent? - Security (hardening/patching core software), and Isolation (assuming compromise, limit blast radius) - Monitoring (write-only OTel tracing across agents, linked to kill switches that dont fire false positives confusing agent persistence for malice) actually an incomplete list! you can work at the harness level ( ai.engineer/talks/vlfCjWuv4e… ) or solve Fermat's last theorem ( inv.kareem.one/wrfbI5eyLAI ) but who's counting anymore *all of which katelyn happens to be hiring for haha — https://nitter.kareem.one/swyx/sta",
-   "url": "https://nitter.kareem.one/swyx/status/2125448165197570547#m",
-   "ts": 1795581306,
-   "id": "2125448165197570547#m"
   },
   {
    "handle": "ZichenWanghere",
