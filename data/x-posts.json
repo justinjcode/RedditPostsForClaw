@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T18:23:38Z",
+ "generated_at": "2026-11-27T18:30:41Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -22,6 +22,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2126376500584702103#m",
    "ts": 1795802638,
    "id": "2126376500584702103#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Tim Urban on @elonmusk : \"He's truly trying to do these big things for the right reasons.\" Video",
+   "url": "https://nitter.kareem.one/teslaownersSV/status/2126376230920626285#m",
+   "ts": 1795802574,
+   "id": "2126376230920626285#m"
   },
   {
    "handle": "elonmusk",
@@ -508,15 +517,6 @@
    "url": "https://nitter.kareem.one/firesidealpha/status/2125685662188011558#m",
    "ts": 1795637929,
    "id": "2125685662188011558#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "grok @bot 1.3.0 is rolling out! smarter slack bots, restock alerts and mobile buy now, automatic teams setup with org controls, a sideways x drafts carousel, the ashby connector, and bcc on email drafts and a lot more exciting things shipping soon! x.ai/changelog/bot",
-   "url": "https://nitter.kareem.one/ericzakariasson/status/2125675144173556124#m",
-   "ts": 1795635422,
-   "id": "2125675144173556124#m"
   },
   {
    "handle": "TheRundownAI",
