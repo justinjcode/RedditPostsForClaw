@@ -1,20 +1,37 @@
 {
- "generated_at": "2026-11-27T00:18:25Z",
+ "generated_at": "2026-11-27T00:47:06Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed",
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Vital that children have a stake in the future Sawyer Merritt (@SawyerMerritt) Elon has announced that he will gift one @SpaceX share to each of the ~70 million children in America every year. At SpaceX’s current share price, that amounts to over $9 billion in gifts annually. If SpaceX’s stock price goes up, the value of those gifts/shares will be worth a lot more. This would be the largest gifting pledge in history. — https://nitter.kareem.one/SawyerMerritt/status/2126078859271369064#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2126110344120762593#m",
+   "ts": 1795739181,
+   "id": "2126110344120762593#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "i think agentic payments is one of the most divisive yet important themes to get right for 2028. no real in between, either you get in early or you declare its basically never gonna happen Luka Ivicevic (@lukaivicev) If you’re in agentic payments, pivot to: something useful. — https://nitter.kareem.one/lukaivicev/status/2125700569654542615#m",
+   "url": "https://nitter.kareem.one/swyx/status/2126106139582677088#m",
+   "ts": 1795738179,
+   "id": "2126106139582677088#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -313,15 +330,6 @@
    "id": "2125814496803373556#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "I made The USAID Files into a searchable database. You're welcome. 1. CENSORSHIP: A 2022 USAID guidance paper says USAID programs, such as in Georgia, share lists of accounts with Meta for deeper investigation and removal or de-promotion. larrysanger.org/usaid/?item=… Link USAID paper says programs share account lists with Meta for removal A 2022 USAID guidance paper says Facebook/Meta and Twitter take down reported content in three categories, and that USAID programs, such as in Georgia, share lists of accounts with Meta for deeper... larrysanger.org",
-   "url": "https://nitter.kareem.one/lsanger/status/2125805681265782991#m",
-   "ts": 1795666544,
-   "id": "2125805681265782991#m"
-  },
-  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -343,7 +351,7 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "I work on Grok Bot and I’m curious what the biggest problem is Poll 64% — Usage limits 13% — Laziness 8% — Speed 15% — Other (reply) 24,746 votes • 11 minutes",
+   "text": "I work on Grok Bot and I’m curious what the biggest problem is Poll 64% — Usage limits 13% — Laziness 8% — Speed 15% — Other (reply) 24,934 votes • Final results",
    "url": "https://nitter.kareem.one/Baconbrix/status/2125747621331611811#m",
    "ts": 1795652702,
    "id": "2125747621331611811#m"
@@ -707,15 +715,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2125268812379365780#m",
    "ts": 1795538545,
    "id": "2125268812379365780#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "US open-weight models have caught up. We post-trained four US models from @meta , @nvidia , @reflection_ai and @thinkymachines with the Harvey Tenet recipe we used on Kimi K3. They are now competitive with non-US models, and Muse Spark Open is the first model to pass 30% all-pass on Legal Agent Bench. Niko (@nikogrupen) Article Pushing the US open-weight frontier Since we launched Harvey Tenet in August, there has been a surge of progress in open-weight models, including from US labs at Meta, NVIDIA, Reflection, and Thinking Machines. In this work, we set out — https://nitter.kareem.one/nikogrupen/status/2125258400866910269#m",
-   "url": "https://nitter.kareem.one/harvey/status/2125259420259250209#m",
-   "ts": 1795536305,
-   "id": "2125259420259250209#m"
   },
   {
    "handle": "ZichenWanghere",
