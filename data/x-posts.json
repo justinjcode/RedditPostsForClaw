@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-27T21:57:09Z",
+ "generated_at": "2026-11-27T22:08:53Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -10,11 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Elon Musk on how to get the most out of Grok Bots: organize them like a real company Create multiple Grok Bots with specialized roles, such as coding, data analysis, financial management, expense tracking, email management, travel planning and daily operations, with a manager bot overseeing and coordinating their work Just like a human employee, overloading a single bot with too many responsibilities leads to tasks being missed The same principles of specialization, delegation and management that make human companies efficient also apply to autonomous SI agents You’re essentially building your own digital workforce with Grok Bots Elon Musk (@elonmusk) When using Grok Bots, it is important to create Bots with specialized roles, just like a human company. You can then have a manager bot oversee and coordinate their work. Just like a human employee, if you overload a single bot with a massive array of work, it will start dropping some of the balls. — https://nitter.kareem.one/elonmusk/status/2126413886576590925#m",
+   "url": "https://nitter.kareem.one/XFreeze/status/2126429392071262477#m",
+   "ts": 1795815248,
+   "id": "2126429392071262477#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -284,15 +292,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2126106139582677088#m",
    "ts": 1795738179,
    "id": "2126106139582677088#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "a recent run of our model forecasting Starship launches and its estimated cargo split over the next several years. Hard to envision 10,000+ launches a year but when you contextualize against the 1M+ cargo ships (boat) trips or the 35M+ airline flights annually, this is just a drop in the bucket. Video",
-   "url": "https://nitter.kareem.one/aaronburnett/status/2126102687053746276#m",
-   "ts": 1795737356,
-   "id": "2126102687053746276#m"
   },
   {
    "handle": "swyx",
