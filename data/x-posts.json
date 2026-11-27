@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T17:54:32Z",
+ "generated_at": "2026-11-27T18:11:03Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -49,6 +49,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2126338038070485247#m",
    "ts": 1795793468,
    "id": "2126338038070485247#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "Your LLM might be overkill. @michellechen of @Cloudflare on the path from serving giant models to training small decision models, with a CI triage demo that uses fewer calls and tokens. Full Code Summit talk: inv.kareem.one/cYcYfM9Mvwo",
+   "url": "https://nitter.kareem.one/aiDotEngineer/status/2126315113565097985#m",
+   "ts": 1795788002,
+   "id": "2126315113565097985#m"
   },
   {
    "handle": "TheRundownAI",
@@ -670,15 +679,6 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2125484769886830901#m",
    "ts": 1795590033,
    "id": "2125484769886830901#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "🆕 Gemini 4 Neon marks @GoogleDeepMind 's full return as a Frontier Lab latent.space/p/ainews-gemini… - @opencode : Neon has “become our team's default model.” - @poteto is “daily driving gemini neon in cursor.” - @dhh : Neon “cut Omarchy boot time in half!!” - @rauchg : Neon won his LLM evals - @ProximalHQ : Neon #3 on FrontierSWE at 62.4%, “on par with Opus 5.5.” - @iScienceLuvr : “Neon autoresearch just works.” - @theo : “Why the fuck is nobody talking about Neon?” - @TimSweeneyEpic : “Gemini 4 Neon is amazing!” - @__tinygrad__ : “I don't think Anthropic is the frontier anymore.” - @PromptLLM says advice from Neon left them “speechless.” - @demishassabis replies to @SemiAnalysis_ with “Apology accepted.” - @sundarpichai says Neon “set a new Day-1 usage record on our paid APIs.” @OfficialLoganK , @_mohansolo , @koraykv , @melvinjohnsonp and team cooked!!",
-   "url": "https://nitter.kareem.one/latentspacepod/status/2125462912366182853#m",
-   "ts": 1795584822,
-   "id": "2125462912366182853#m"
   },
   {
    "handle": "ZichenWanghere",
