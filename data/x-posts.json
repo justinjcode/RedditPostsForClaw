@@ -1,20 +1,29 @@
 {
- "generated_at": "2026-11-27T19:58:01Z",
+ "generated_at": "2026-11-27T20:10:23Z",
  "accounts_ok": [
-  "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed"
+  "@Lingling_Wei: all instances failed",
+  "@TheRundownAI: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "This will be fully automated and sped up to be <5 mins Stellarix (@Stellarixorine) 🚀 Starship stacking is an incredible sight. 🤩 A time-lapse captures Ship 42 being stacked onto Booster 22 at Starbase. The main lift reportedly takes just around 30 minutes, while the final alignment and precise docking process takes considerably longer. Imagine the engineering and coordination required to assemble the world's largest orbital rocket. 📸 Credit: awphotographyofficial Thank you awphotographyofficial for this amazing view 🥰 🥰 Video — https://nitter.kareem.one/Stellarixorine/status/2126186615043498354#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2126404709628129388#m",
+   "ts": 1795809364,
+   "id": "2126404709628129388#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -212,15 +221,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2126201671026180469#m",
    "ts": 1795760955,
    "id": "2126201671026180469#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Tom Mueller, SpaceX employee #1, says Elon Musk reversed his approach to engineering by demanding they find where rocket engines break and then push them harder \"It changed just working with Elon. At my previous company, it was like, you never blow up a rocket engine or fail a rocket engine. That's bad. This is bad karma. Never test, always have a lot of margin and make sure that you don't fail it.\" \"And Elon's whole thing was, well, let's find out where it breaks and then fix that and go and push it even more. So it's really a whole different way of thinking about it. Really refreshing, and you learn a lot.\" \"We had things that we thought would break that we couldn't break. Other things would break because the engineering is not always that deterministic. It's not always obvious. I'm amazed that this thing is still running.\" Video Fireside Alpha (@firesidealpha) Joe Rogan reveals he watched a SpaceX launch with Elon Musk from the command center, and says the rockets explode because SpaceX pushes them to the limit on purpose \"It's not just that. It just shows a complete lack of understanding of what he's trying to accomplish. The whole reason why they're exploding is because you're pushing the tolerances. You're pushing it to the limit, and he expects them to explode. And then he finds out what the weak points are.\" \"I was actually in the command center watching one of the SpaceX launches. So we watched it from the ground. It takes off, and then we go upstairs, and I'm chilli",
-   "url": "https://nitter.kareem.one/firesidealpha/status/2126183140083568686#m",
-   "ts": 1795756537,
-   "id": "2126183140083568686#m"
   },
   {
    "handle": "elonmusk",
