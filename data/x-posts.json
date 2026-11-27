@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T19:44:44Z",
+ "generated_at": "2026-11-27T19:58:01Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -8,10 +8,11 @@
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@swyx: all instances failed"
+ ],
  "count": 179,
  "items": [
   {
@@ -193,6 +194,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2126222666994737622#m",
    "ts": 1795765961,
    "id": "2126222666994737622#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "False and totally ill-informed. Such \"wargame\" scenario is conceived by people who have no understanding of the basic geopolitical reality and strategic calculations involved in a China/Taiwan conflict. A weeks/months-long blockade-only move by China would only cause wide regional shipping/global economy disruption (hurting China bigly) while leaving Taiwan's military and political leadership intact, giving Taipei and DC critical time to mobilize (extremely critical for TW army), reposition and hunker down military assets, and rally allies. China will be giving up its most valuable strategic advantage which is the ability to choose when, where and how to strike first. PLA will kiss the hope of achieving a surprise, overwhelming first strike goodbye if Beijing is stupid enough to give Taiwan weeks/months of alert time with a lame \"peaceful\" blockade. Normally Taiwan military has about 10~ brigades of ground force combat units around (which is pathetically low btw). But if you fool around with some blockade for weeks without attacking even the quite incompetent @MoNDefense can mobilize and get another 10-15 reserve brigades up and running. That will greatly complicate any PLA ground invasion plan. By going for non-kinetic blockade Beijing will be giving up its most favor outcome which is a quick and relatively clean victory in a limited war, while embracing its worst and most undesirable outcome which is massive economic pain, sanctions, US and TW rallying alliance and moving a",
+   "url": "https://nitter.kareem.one/PaulHuangReport/status/2126218001074753923#m",
+   "ts": 1795764849,
+   "id": "2126218001074753923#m"
   },
   {
    "handle": "swyx",
@@ -1003,15 +1013,6 @@
    "url": "https://nitter.kareem.one/weijia/status/2124888611971907826#m",
    "ts": 1795447898,
    "id": "2124888611971907826#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "I still can’t believe this is a real video I captured Video",
-   "url": "https://nitter.kareem.one/AJamesMcCarthy/status/2124887397037216215#m",
-   "ts": 1795447608,
-   "id": "2124887397037216215#m"
   },
   {
    "handle": "ZichenWanghere",
