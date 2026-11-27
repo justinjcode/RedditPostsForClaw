@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T15:36:47Z",
+ "generated_at": "2026-11-27T15:44:43Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,24 @@
  "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: tech.therundown.ai/p/neurali… Link Neuralink's brain chip enters the big leagues PLUS: Amazon workers launch Black Friday strikes tech.therundown.ai",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2126338042709356914#m",
+   "ts": 1795793469,
+   "id": "2126338042709356914#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in tech today: - Neuralink lands its make-or-break trial - Amazon faces strikes in 20+ countries - X adds parental controls for teens - SpaceX gets the green light for a million satellites",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2126338038070485247#m",
+   "ts": 1795793468,
+   "id": "2126338038070485247#m"
+  },
   {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
@@ -976,24 +994,6 @@
    "url": "https://nitter.kareem.one/meridithmcgraw/status/2124892545419485227#m",
    "ts": 1795448836,
    "id": "2124892545419485227#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Read more: robotnews.therundown.ai/p/nv… Link Nvidia’s robot king returns PLUS: China's newest humanoid hits $1.6B robotnews.therundown.ai",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2124889266400419948#m",
-   "ts": 1795448054,
-   "id": "2124889266400419948#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Top stories in robotics today: - Nvidia rehires robotics’ loudest backer - A humanoid newcomer just hit $1.6B - UN delays making killer robot rules - NASA-backed robot can dive 7 miles deep",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2124889261199577189#m",
-   "ts": 1795448053,
-   "id": "2124889261199577189#m"
   },
   {
    "handle": "Lingling_Wei",
