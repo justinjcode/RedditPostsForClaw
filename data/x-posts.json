@@ -1,6 +1,8 @@
 {
- "generated_at": "2026-11-27T20:10:23Z",
+ "generated_at": "2026-11-27T20:18:47Z",
  "accounts_ok": [
+  "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -9,12 +11,18 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "看到它搬砖的时候，生怕砖头掉下来又砸到脚了 Zartash (@Zartashw3) Video — https://nitter.kareem.one/Zartashw3/status/2126055909654962618#m",
+   "url": "https://nitter.kareem.one/ZichenWanghere/status/2126409781296709650#m",
+   "ts": 1795810573,
+   "id": "2126409781296709650#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -293,6 +301,15 @@
    "url": "https://nitter.kareem.one/Steve_Yegge/status/2126056111988244795#m",
    "ts": 1795726251,
    "id": "2126056111988244795#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "Video",
+   "url": "https://nitter.kareem.one/Zartashw3/status/2126055909654962618#m",
+   "ts": 1795726203,
+   "id": "2126055909654962618#m"
   },
   {
    "handle": "swyx",
@@ -853,15 +870,6 @@
    "id": "2125190282710790299#m"
   },
   {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "EU launched official financial services dialogue with HK in Brussels on Fri In July 2020, FAC conclusions effectively banned \"launching any new negotiations with Hong Kong\" for EU & members Is dialogue discussing \"market access issues for financial institutions\" a negotiation? European Union Office to Hong Kong and Macao (@EUinHKandMO) 🇪🇺 and 🇭🇰 hold the first dedicated 𝗙𝗶𝗻𝗮𝗻𝗰𝗶𝗮𝗹 𝗦𝗲𝗿𝘃𝗶𝗰𝗲 𝗗𝗶𝗮𝗹𝗼𝗴𝘂𝗲! The constructive exchange between EU and Hong Kong financial authorities in Brussels on 20 November, covered a broad range of financial regulatory and market developments. (1/2) — https://nitter.kareem.one/EUinHKandMO/status/2125036835080700175#m",
-   "url": "https://nitter.kareem.one/fbermingham/status/2125159349072838872#m",
-   "ts": 1795512447,
-   "id": "2125159349072838872#m"
-  },
-  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -896,15 +904,6 @@
    "url": "https://nitter.kareem.one/alexbward/status/2125050597510660286#m",
    "ts": 1795486518,
    "id": "2125050597510660286#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "一个月没回家，进门先被它用那双大眼睛审了半天 Video",
-   "url": "https://nitter.kareem.one/lianshangbiji/status/2125035135712248208#m",
-   "ts": 1795482832,
-   "id": "2125035135712248208#m"
   },
   {
    "handle": "simonw",
