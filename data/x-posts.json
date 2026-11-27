@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-27T05:10:54Z",
+ "generated_at": "2026-11-27T05:23:23Z",
  "accounts_ok": [
-  "TheRundownAI",
+  "Lingling_Wei",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,10 +11,19 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed"
+  "@TheRundownAI: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Working hard to make Blindsight happen. Happy Thanksgiving from the Neuralink team!",
+   "url": "https://nitter.kareem.one/djseo/status/2126181706118160696#m",
+   "ts": 1795756195,
+   "id": "2126181706118160696#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -356,15 +365,6 @@
    "url": "https://nitter.kareem.one/Baconbrix/status/2125747621331611811#m",
    "ts": 1795652702,
    "id": "2125747621331611811#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "If you haven't tried Grok @Bot yet, ask it to find a Black Friday deal on something you were going to buy anyway. See how it does. Bot checks prices across every site and applies promo codes automatically. Very useful for brainstorming gift ideas too. Grok Bot (@bot) Grok Bot knows the Black Friday deals. Send Bot your list and let it handle your holiday shopping. Video — https://nitter.kareem.one/bot/status/2125711676003766718#m",
-   "url": "https://nitter.kareem.one/JasonBud/status/2125715363367387522#m",
-   "ts": 1795645011,
-   "id": "2125715363367387522#m"
   },
   {
    "handle": "ZichenWanghere",
