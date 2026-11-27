@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-27T21:44:29Z",
+ "generated_at": "2026-11-27T21:57:09Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
@@ -11,7 +10,9 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@Lingling_Wei: all instances failed"
+ ],
  "count": 179,
  "items": [
   {
@@ -153,15 +154,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Accurate sourcery (@sourceryy) Gavin Baker says SpaceX engineers believe they have solved orbital compute and are actually stressed about Starship reusability “I think catching the Starship, that was amazing. It was a huge moment for SpaceX.” “I will just say having spent a lot of time at Starbase, the SpaceX engineers, you know, all of these experts online are very skeptical about orbital compute, and oh the cooling and oh this. And you know, to the SpaceX engineers, they have solved those problems.” “They’re operating 11,000 satellites today. Starlink V3 actually consumes a significant, we call it maybe 10 to 15% the power of like an orbital compute satellite. It has to be cooled. The compute isn’t as densely packed, but you could do different things in space. They regard the design of the orbital compute satellite, that in their mind, I think they’ve figured that out.” “What they’re actually stressed about is Starship and reusability, and so catching the upper stage of Starship, that’s a huge step towards making Starlink, direct to cell, orbital compute, all of that a reality.” Video — https://nitter.kareem.one/sourceryy/status/2126356627003744717#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2126388828852105325#m",
-   "ts": 1795805577,
-   "id": "2126388828852105325#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "15-year-olds in California are now forced to use a booster seat in a car unless they pass a test... but they can change their gender without parental consent. Make it make sense.",
    "url": "https://nitter.kareem.one/libsoftiktok/status/2126361405217509537#m",
    "ts": 1795799039,
@@ -175,6 +167,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2126352854394790172#m",
    "ts": 1795797000,
    "id": "2126352854394790172#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Transparency builds trust. X Head of Safety @michaelo on open, verifiable safety decisions for brands from his recent Brand & AI Safety Summit keynote. Safety (@Safety) X’s @michaelo shares why platforms should make safety decisions transparent and verifiable for brands in @Adweek : adweek.com/social-marketing/… Link Show Your Work: Platforms Must Make Safety Decisions That Brands Can Verify To build trust, swap the black box for a glass box. adweek.com — https://nitter.kareem.one/Safety/status/2126345925471678582#m",
+   "url": "https://nitter.kareem.one/XBusiness/status/2126352483454992883#m",
+   "ts": 1795796912,
+   "id": "2126352483454992883#m"
   },
   {
    "handle": "TheRundownAI",
