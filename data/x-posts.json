@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T21:36:47Z",
+ "generated_at": "2026-11-27T21:44:29Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,24 @@
  "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Worth trying Mahax (@Mahaximus_) holy sh*t, let Grok Bot watch you work for one week, it will change your life... it finds everything that's wasting your time, then builds the bots that do it all for you. you can save hours every week, without changing a single thing about how you work. here's the prompt, paste it into Grok Bot: — https://nitter.kareem.one/Mahaximus_/status/2126380859775459471#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2126429365504229400#m",
+   "ts": 1795815242,
+   "id": "2126429365504229400#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "The goal with Grok Bots is to enable you to build a whole company! DJ (@congressdj) This is the biggest differentiator between another consumer friendly bot like Muse. Grok Bot feels like a team. The other feels like a servant. — https://nitter.kareem.one/congressdj/status/2126418278838882601#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2126428324012446090#m",
+   "ts": 1795814994,
+   "id": "2126428324012446090#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -144,24 +162,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Grok Bot is great at finding you the best deals on the Internet Fireside Alpha (@firesidealpha) JUST IN: Shopify reveals Grok Bot and other agents are playing a \"real role\" this shopping season, and calls it the first agentic Black Friday Harley Finkelstein (President): \"The reason I mention that is those are very specific products. And I think one of the new things that's happening in 2026 is this is the first real Black Friday where agentic is playing a real role. [Agentic meaning] Muse or Instinct or Grok Bot. These agents reward specificity.\" \"So what you're seeing is that consumers are not just saying, I want to buy a phone for my kids. I want to buy a screenless phone for my kids so I can call them when I'm traveling for work, like I do for Shopify. And instead of showing Best Buy, what's coming up is the Tin Can phone, who's already reported a 4x increase in sales from agentic sourcing.\" Video — https://nitter.kareem.one/firesidealpha/status/2126383852025463152#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2126388636325499201#m",
-   "ts": 1795805531,
-   "id": "2126388636325499201#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Must Listen to the end! @GavinNewsom rises above politics & nails it. “I emphatically encourage people to claim their Trump Account… don’t fall prey to the political cynicism… this is your money. It is direct, tangible, results oriented, not lost in bureaucracy.” 🎯🇺🇸🚀 Video",
-   "url": "https://nitter.kareem.one/altcap/status/2126380906843979898#m",
-   "ts": 1795803689,
-   "id": "2126380906843979898#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "15-year-olds in California are now forced to use a booster seat in a car unless they pass a test... but they can change their gender without parental consent. Make it make sense.",
    "url": "https://nitter.kareem.one/libsoftiktok/status/2126361405217509537#m",
    "ts": 1795799039,
@@ -211,15 +211,6 @@
    "url": "https://nitter.kareem.one/aswincode/status/2126312123655430496#m",
    "ts": 1795787289,
    "id": "2126312123655430496#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "15 year olds in California may to have to ride in a booster seat starting in January? We're now well into the territory of self-parody. This law should go.",
-   "url": "https://nitter.kareem.one/paulg/status/2126310099475956175#m",
-   "ts": 1795786807,
-   "id": "2126310099475956175#m"
   },
   {
    "handle": "TheRundownAI",
@@ -310,6 +301,15 @@
    "url": "https://nitter.kareem.one/swyx/status/2126072968761721013#m",
    "ts": 1795730270,
    "id": "2126072968761721013#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "SpaceXAI engineers just dropped an 8-page PDF on making your Grok Bot limit last 3x longer 8 tricks nobody uses, same bots, ZERO new plan: step 1 → Script Watcher - a 10-line script does the checking, your bot wakes only when something changed step 2 → Shared Cache - 1 bot researches once, every other bot reads the file step 3 → Skills per Bot - each bot loads only the skills its job needs step 4 → Duplicate, Don't Drag - same bot, same skills, zero history riding on every reply step 5 → Built-in X Search - 1 call instead of 40 clicks through a browser step 6 → Light Cloud Agents - routine PRs don't need the top model step 7 → Text, Not Screenshots - a page as text costs a fraction of a picture step 8 → One Message, 5 Asks - context loads once, not 5 times the result: same bots, same jobs. the weekly pool that died by tuesday now lasts the whole week this 8-page PDF gives you every trick with a copy-paste template, the watcher script, a before/after week and one prompt that sets up all 8 on your Grok Bot save this before your Grok Bot eats your Cursor limit again ↓ chuplung (@choopyplug1) 20 Grok Bots that cost less to run than 3 most people burn their weekly limit in 3 days. this system gets cheaper with every bot you add → idle is free → pointers, not payloads → code over thinking 20 bots, every prompt inside ↓ Article Grok Bot: More Bots, Less Cost. The 20-Bot System Most bot teams get more expensive with every bot you add. This one is wired the other way around. 20 bots, ",
+   "url": "https://nitter.kareem.one/choopyplug1/status/2126068756430377238#m",
+   "ts": 1795729266,
+   "id": "2126068756430377238#m"
   },
   {
    "handle": "swyx",
