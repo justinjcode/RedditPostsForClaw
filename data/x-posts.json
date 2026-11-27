@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T11:35:21Z",
+ "generated_at": "2026-11-27T11:44:53Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,24 @@
  "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Read more: therundownai.beehiiv.com/p/a… Link AI takes a swing at physics' biggest puzzle AI helps Stanford physicist Venkatesa Chandrasekaran propose a quantum theory of gravity, a near-century-old physics puzzle, in this week's AI newsletter. therundownai.beehiiv.com",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2126277641846067209#m",
+   "ts": 1795779068,
+   "id": "2126277641846067209#m"
+  },
+  {
+   "handle": "TheRundownAI",
+   "name": "The Rundown AI",
+   "author": "@TheRundownAI",
+   "text": "Top stories in AI today: - OpenAI's GPT-6 Astra helps tackle quantum gravity - Rowan’s Corner: The simplest tip to improve AI output - Give jobs to Nod, the personal agent from n8n - Report: U.S. crackdown slows China’s AI progress",
+   "url": "https://nitter.kareem.one/TheRundownAI/status/2126277637156773970#m",
+   "ts": 1795779067,
+   "id": "2126277637156773970#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -994,24 +1012,6 @@
    "url": "https://nitter.kareem.one/AJamesMcCarthy/status/2124887397037216215#m",
    "ts": 1795447608,
    "id": "2124887397037216215#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "Nvidia ( $NVDA ) added ~$1T in market value at today''s open after the board unanimously voted to bring back Jensen Huang as CEO",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2124879500764942801#m",
-   "ts": 1795445725,
-   "id": "2124879500764942801#m"
-  },
-  {
-   "handle": "TheRundownAI",
-   "name": "The Rundown AI",
-   "author": "@TheRundownAI",
-   "text": "BREAKING: Jensen Huang has been reinstated at Nvidia.",
-   "url": "https://nitter.kareem.one/TheRundownAI/status/2124866316293013809#m",
-   "ts": 1795442582,
-   "id": "2124866316293013809#m"
   },
   {
    "handle": "ZichenWanghere",
