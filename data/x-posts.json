@@ -1,7 +1,6 @@
 {
- "generated_at": "2026-11-28T02:24:05Z",
+ "generated_at": "2026-11-28T02:38:54Z",
  "accounts_ok": [
-  "Lingling_Wei",
   "TheRundownAI",
   "bcherny",
   "elonmusk",
@@ -11,6 +10,7 @@
   "thsottiaux"
  ],
  "errors": [
+  "@Lingling_Wei: all instances failed",
   "@ZichenWanghere: all instances failed"
  ],
  "count": 179,
@@ -91,6 +91,15 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "can confirm. our yc startup's marketing literally runs on grok bot. 3 ultra accounts, rotated all week. it helped us: - hit 1.4m views on our launch video in 72hrs - cross $70k on kickstarter in 7 days - run meta ads & create 800+ ads - handle a 1,000+ kickstarter waitlist - find our first 10 customers on X Elon Musk (@elonmusk) The goal with Grok Bots is to enable you to build a whole company! — https://nitter.kareem.one/elonmusk/status/2126428324012446090#m",
+   "url": "https://nitter.kareem.one/kidpakerot/status/2126451146709729301#m",
+   "ts": 1795820435,
+   "id": "2126451146709729301#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "Give each Bot a specific job, just like people in a company Texas Twins Dad (@Texas_Twins_Dad) Here's an example of how I manage my Grok Bots like a company. I currently have more than 30 bots. — https://nitter.kareem.one/Texas_Twins_Dad/status/2126429518579830914#m",
    "url": "https://nitter.kareem.one/elonmusk/status/2126438463520350588#m",
    "ts": 1795817411,
@@ -122,15 +131,6 @@
    "url": "https://nitter.kareem.one/SawyerMerritt/status/2126433262801502577#m",
    "ts": 1795816171,
    "id": "2126433262801502577#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Elon Musk on how to get the most out of Grok Bots: organize them like a real company Create multiple Grok Bots with specialized roles, such as coding, data analysis, financial management, expense tracking, email management, travel planning and daily operations, with a manager bot overseeing and coordinating their work Just like a human employee, overloading a single bot with too many responsibilities leads to tasks being missed The same principles of specialization, delegation and management that make human companies efficient also apply to autonomous SI agents You’re essentially building your own digital workforce with Grok Bots Elon Musk (@elonmusk) When using Grok Bots, it is important to create Bots with specialized roles, just like a human company. You can then have a manager bot oversee and coordinate their work. Just like a human employee, if you overload a single bot with a massive array of work, it will start dropping some of the balls. — https://nitter.kareem.one/elonmusk/status/2126413886576590925#m",
-   "url": "https://nitter.kareem.one/XFreeze/status/2126429392071262477#m",
-   "ts": 1795815248,
-   "id": "2126429392071262477#m"
   },
   {
    "handle": "elonmusk",
