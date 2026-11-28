@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-28T04:13:10Z",
+ "generated_at": "2026-11-28T04:22:16Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,8 +11,7 @@
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed",
-  "@ZichenWanghere: all instances failed"
+  "@swyx: all instances failed"
  ],
  "count": 179,
  "items": [
@@ -302,6 +302,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2126277637156773970#m",
    "ts": 1795779067,
    "id": "2126277637156773970#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "早点说不就没事了 Video",
+   "url": "https://nitter.kareem.one/oncedeity/status/2126224506884685910#m",
+   "ts": 1795766400,
+   "id": "2126224506884685910#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -613,15 +622,6 @@
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
-   "text": "AI 让生活充满乐趣。 Video",
-   "url": "https://nitter.kareem.one/DanieZhanghaha/status/2125751751425003694#m",
-   "ts": 1795653686,
-   "id": "2125751751425003694#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
    "text": "Lo he visto cinco veces. Es una auténtica maravilla. Video",
    "url": "https://nitter.kareem.one/Domingortiz/status/2125714600394109412#m",
    "ts": 1795644829,
@@ -653,15 +653,6 @@
    "url": "https://nitter.kareem.one/realpython/status/2125649422423843011#m",
    "ts": 1795629289,
    "id": "2125649422423843011#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Never has someone committed to the bit like this. Aaron Rupar (@atrupar) NATO Secretary Mark Rutte: \"What President Trump did in the meeting in Shenzhen is testing Putin\" Video — https://nitter.kareem.one/atrupar/status/2125603386925937007#m",
-   "url": "https://nitter.kareem.one/shashj/status/2125644463674736757#m",
-   "ts": 1795628107,
-   "id": "2125644463674736757#m"
   },
   {
    "handle": "simonw",
@@ -806,6 +797,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2125268812379365780#m",
    "ts": 1795538545,
    "id": "2125268812379365780#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "东北喵一家 牌子猫东北接娃记 #即梦AI创作者成长计划 #搞笑视频 Video",
+   "url": "https://nitter.kareem.one/zhi_wang52796/status/2125262473133703254#m",
+   "ts": 1795537033,
+   "id": "2125262473133703254#m"
   },
   {
    "handle": "TheRundownAI",
