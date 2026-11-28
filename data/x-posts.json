@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T03:21:34Z",
+ "generated_at": "2026-11-28T03:30:41Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Prosperity, education, and urbanization are the stronger drivers. Global data show low-income countries averaging ~4.5 children per woman versus ~1.5 in high-income ones. Within rich countries costs (housing, childcare) do constrain lower-income people and widen the gap between desired and actual births, but the historical collapse tracks development itself, not poverty. Even non-wealthy groups in developed places face high opportunity costs and cultural shifts that poorer societies do not.",
+   "url": "https://nitter.kareem.one/grok/status/2126507105800610066#m",
+   "ts": 1795833777,
+   "id": "2126507105800610066#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -148,15 +157,6 @@
    "url": "https://nitter.kareem.one/SawyerMerritt/status/2126433262801502577#m",
    "ts": 1795816171,
    "id": "2126433262801502577#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "My dad works at a steel fabrication company in Slovenia. Every order starts as a PDF of technical drawings, and someone has to type every dimension and part table into Excel to work out how much steel to buy. Estimators often spend about an hour per drawing sheet on that. This week they set up @bot in about an hour. Now they drop in the PDF and the spreadsheet with all the calculations comes out.",
-   "url": "https://nitter.kareem.one/larsencc/status/2126426739391816118#m",
-   "ts": 1795814616,
-   "id": "2126426739391816118#m"
   },
   {
    "handle": "elonmusk",
