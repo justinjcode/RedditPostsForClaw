@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-28T03:40:56Z",
+ "generated_at": "2026-11-28T03:47:46Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
   {
@@ -439,6 +438,15 @@
    "id": "2125996759570895157#m"
   },
   {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "悄咪咪领养了新猫，取名妞妞。 曾是被抛弃在出租屋忍饥挨饿半个月的小可怜…但没关系，你有家啦！以后妈妈去哪都带着你～",
+   "url": "https://nitter.kareem.one/wananlaaa/status/2125995879970877518#m",
+   "ts": 1795711891,
+   "id": "2125995879970877518#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -599,15 +607,6 @@
    "url": "https://nitter.kareem.one/Domingortiz/status/2125714600394109412#m",
    "ts": 1795644829,
    "id": "2125714600394109412#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "开饭了 开饭不稀奇 铲屎官能抓拍到这一幕 太稀有了😄😄",
-   "url": "https://nitter.kareem.one/ilovecatlovecar/status/2125713598534373885#m",
-   "ts": 1795644590,
-   "id": "2125713598534373885#m"
   },
   {
    "handle": "TheRundownAI",
