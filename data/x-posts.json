@@ -1,20 +1,38 @@
 {
- "generated_at": "2026-11-28T04:30:26Z",
+ "generated_at": "2026-11-28T04:40:33Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
-  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
  "errors": [
-  "@swyx: all instances failed"
+  "@ZichenWanghere: all instances failed"
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "inv.kareem.one/watch?v=cYcYfM9M… Link Why Cloudflare Became a Neolab — Michelle Chen, Cloudflare Cloudflare bet early that AI models would get smaller and network l... youtube.com",
+   "url": "https://nitter.kareem.one/swyx/status/2126528949073453544#m",
+   "ts": 1795838985,
+   "id": "2126528949073453544#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "worthwhile talk on whats going on with the neolab reinventions Gergely Orosz (@GergelyOrosz) Feels like the most straightforward way these days get an offer from Anthropic or OpenAI is “work at Cloudflare” (which itself is hard enough to do fwiw) — https://nitter.kareem.one/GergelyOrosz/status/2126458072596140248#m",
+   "url": "https://nitter.kareem.one/swyx/status/2126528882262348003#m",
+   "ts": 1795838969,
+   "id": "2126528882262348003#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -664,15 +682,6 @@
    "id": "2125640464863056148#m"
   },
   {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "really hurtful to be a new media founder when old media is dying this quickly. like; its not a \"haha they suck this is a skill issue\" thing, it's a \"we need to figure out what they couldn't with 31 years of experience\" Steve Guest (@SteveGuest) NEWS YOU CAN USE: Goodbye from Salon \"Today, after 31 years, we are saddened to announce that Salon is ceasing publication.\" — https://nitter.kareem.one/SteveGuest/status/2118446852655718405#m",
-   "url": "https://nitter.kareem.one/swyx/status/2125638081848250634#m",
-   "ts": 1795626585,
-   "id": "2125638081848250634#m"
-  },
-  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -689,15 +698,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2125630274520457326#m",
    "ts": 1795624724,
    "id": "2125630274520457326#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "as seen on anthropic blog! Lance Martin (@RLanceMartin) we recently migrated the Claude Messages API from Python to Rust. in this new eng blog, we share how we used the Python API as an oracle, set up verification loops, and had a team of agents fix diffs until Rust matched production's observable behavior. anthropic.com/research/migra… Link Migrating our Messages API to Rust How we used the existing Messages API to verify the new one, with teams of Claude agents tracking down and fixing differences between the Python and Rust versions. anthropic.com — https://nitter.kareem.one/RLanceMartin/status/2125627070084796562#m",
-   "url": "https://nitter.kareem.one/swyx/status/2125627500487393285#m",
-   "ts": 1795624063,
-   "id": "2125627500487393285#m"
   },
   {
    "handle": "simonw",
