@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T06:43:34Z",
+ "generated_at": "2026-11-28T06:50:28Z",
  "accounts_ok": [
   "TheRundownAI",
   "ZichenWanghere",
@@ -19,10 +19,28 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "🎯 Based Guitar 🎸 (@BasedGuitars) Therapy: — https://nitter.kareem.one/BasedGuitars/status/2126535950884872443#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2126565603016425859#m",
+   "ts": 1795847724,
+   "id": "2126565603016425859#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "It is very useful Alex (@alexmichael) Google's own Logan Kilpatrick, who works on Gemini, says he uses Grok Bot almost every day 👀 — https://nitter.kareem.one/alexmichael/status/2126548287750893783#m",
    "url": "https://nitter.kareem.one/elonmusk/status/2126563155157344530#m",
    "ts": 1795847140,
    "id": "2126563155157344530#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Anthropic releases a statement and clarification on Claude sabotaging your work -- on Friday night after Thanksgiving. Surprising part is they were not prepared for this backlash. Though stories have been going on for months. Something broke. huggingnews.com/ai/anthropic… edwin (@edwinarbus) Claude has not been trained to sabotage work. Yes, it sometimes makes mistakes, and other agents might identify them, but this isn’t sabotage. There have been a few screenshots floating around of an outdated Fable 5 system card. For the first two days of Fable 5's launch in June, we did apply non-visible safeguards to some LLM research. This was a mistake, and we reversed it on June 10. These safeguards now clearly block the request or fall back, with a message users can see ( platform.claude.com/docs/en/… ). We did train Fable 5.2 to have LLM research capabilities at about the level of Opus 5.5, and said so at launch ( anthropic.com/claude-fable-a… ). This impacts capability, but doesn’t silently sabotage work. As far as we can tell, some reports look like what we call \"overcaution\" in model behavior, where Claude gets overly attached to rules it makes for itself during long-running tasks. This isn’t specific to ML research, and we see it in models without these training changes (including Opus 5.5) and in our own work too. You can ask Claude to review and remove rules it made for itself, and we're working on reducing overcaution in future models. We’re not in the practice of intentional",
+   "url": "https://nitter.kareem.one/ivan_bezdomny/status/2126547116763783377#m",
+   "ts": 1795843316,
+   "id": "2126547116763783377#m"
   },
   {
    "handle": "elonmusk",
@@ -172,28 +190,19 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
+   "text": "Therapy is such a funny concept. It’s basically: “wow, I have so many problems in my life. I should talk to some idiot who voted for Kamala Harris..”",
+   "url": "https://nitter.kareem.one/WallStreetMav/status/2126488665761423423#m",
+   "ts": 1795829380,
+   "id": "2126488665761423423#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
    "text": "Birth rate collapse in civilizations throughout history occurs whenever there is a long period of prosperity and no serious external threats. Rome had a very high birth rate during existential wars with Carthage and then very low after they had destroyed all external threats and had several generations of prosperity. Homer Pavlos (@HomerPavlos) There was a demographic problem 2,200 years ago, and Polybius wrote exactly what caused it. Read carefully: \"In our times, Greece as a whole is experiencing a lack of children and, more generally, a decrease in population. Because of this, cities have become deserted and there is a lack of productivity, even though we do not suffer from constant wars or epidemics. So if someone advised that we send priests to the gods to ask them what we should say or do to become more numerous and better inhabit our cities, he would not seem foolish, since the cause is obvious and the solution lies in our own hands. People have turned to arrogance, greed, and laziness, and they neither want to marry, nor, if they do marry, to raise their children. Instead, they have only one or two children with difficulty, just to leave them wealth and raise them in luxury. This evil grew rapidly, and we did not notice. For when there are only one or two children, and one is lost to war and the other to illness, it is obvious that the cities will inevitably become deserted, just as a beehive weakens little by little, so too do cities that lack population become unabl",
    "url": "https://nitter.kareem.one/elonmusk/status/2126485536177045967#m",
    "ts": 1795828634,
    "id": "2126485536177045967#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Extremely troubling Daily Mail (@DailyMail) Taliban strip Afghan women of their names replacing them with 'granny' or 'goat' in bizarre new crackdown trib.al/dnEzri4 Link Taliban replace Afghan women's names with 'granny' or 'goat' Officials said this instruction must be observed even on medical prescriptions. dailymail.com — https://nitter.kareem.one/DailyMail/status/2126348304875139216#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2126479727066272164#m",
-   "ts": 1795827249,
-   "id": "2126479727066272164#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "My photo of Starship in @TIME 😍",
-   "url": "https://nitter.kareem.one/AJamesMcCarthy/status/2126470613418311899#m",
-   "ts": 1795825076,
-   "id": "2126470613418311899#m"
   },
   {
    "handle": "elonmusk",
@@ -212,15 +221,6 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2126409781296709650#m",
    "ts": 1795810573,
    "id": "2126409781296709650#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Wanna Race? Vegas Loop versus Surface Drive along Paradise Road in Las Vegas Third part of the “Wanna Race Trilogy” Video",
-   "url": "https://nitter.kareem.one/boringcompany/status/2126388429919543501#m",
-   "ts": 1795805482,
-   "id": "2126388429919543501#m"
   },
   {
    "handle": "elonmusk",
@@ -268,15 +268,6 @@
    "id": "2126338038070485247#m"
   },
   {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Women in Afghanistan no longer have the right to have a name. The UN? Silent. The media? Silent. Amnesty International? Silent. Mehdi Hasan? Silent. Ms. Rachel? Silent.",
-   "url": "https://nitter.kareem.one/EYakoby/status/2126331054067765355#m",
-   "ts": 1795791803,
-   "id": "2126331054067765355#m"
-  },
-  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -311,6 +302,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2126277637156773970#m",
    "ts": 1795779067,
    "id": "2126277637156773970#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Geminiの昔と今...",
+   "url": "https://nitter.kareem.one/god_of_ai7/status/2126275844343763042#m",
+   "ts": 1795778640,
+   "id": "2126275844343763042#m"
   },
   {
    "handle": "ZichenWanghere",
