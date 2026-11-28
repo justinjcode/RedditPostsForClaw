@@ -1,20 +1,46 @@
 {
- "generated_at": "2026-11-28T01:40:15Z",
+ "generated_at": "2026-11-28T01:46:22Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
+  "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@swyx: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Super intelligent AI eliminates any company’s software advantage SemiAnalysis (@SemiAnalysis_) ALERT🚨: On Dwarkesh’s (cousin) pod, Jensen said that TPU and Trainium wouldn't come to the industry-standard InferenceX benchmark, implying that their perf per $ wasn't good. This week, both came to InferenceX, and Google & Amazon have demonstrated 1.5–2.5x better perf per $ at release compared to equivalent NVIDIA GPUs. (1/2)🧵 Video — https://nitter.kareem.one/SemiAnalysis_/status/2126443877871517788#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2126491449722302494#m",
+   "ts": 1795830044,
+   "id": "2126491449722302494#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Yes MeanHash ₿ ✪ (@MeanHash) This is actually bonkers. Are we in the singularity? Video — https://nitter.kareem.one/MeanHash/status/2126442118940155936#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2126490784296034466#m",
+   "ts": 1795829885,
+   "id": "2126490784296034466#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Yup Sayer Ji (@sayerjigmi) Mark Zuckerberg, on Joe Rogan: They \"pushed us super hard to take down things that were honestly true.\" \"Anything that says that vaccines might have side effects, you basically need to take down.\" Who? \"People in the Biden Administration.\" Video — https://nitter.kareem.one/sayerjigmi/status/2126131221185106030#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2126489832977473981#m",
+   "ts": 1795829659,
+   "id": "2126489832977473981#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -104,24 +130,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2126429365504229400#m",
    "ts": 1795815242,
    "id": "2126429365504229400#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "The goal with Grok Bots is to enable you to build a whole company! DJ (@congressdj) This is the biggest differentiator between another consumer friendly bot like Muse. Grok Bot feels like a team. The other feels like a servant. — https://nitter.kareem.one/congressdj/status/2126418278838882601#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2126428324012446090#m",
-   "ts": 1795814994,
-   "id": "2126428324012446090#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Major improvements land every week for Grok Bot Pratham (@Prathkum) Grok Bot is actually the first autonomous AI agent that I'm still using after months. Other agents I tried in the past couldn't hold me as a user for more than a few weeks. Main things I use Grok Bot for: – tracking AI news for content ideas – tracking startups raising money so that I can collab with them - sales research for my business - other general purpose stuff — https://nitter.kareem.one/Prathkum/status/2126376502212300912#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2126426934431404067#m",
-   "ts": 1795814662,
-   "id": "2126426934431404067#m"
   },
   {
    "handle": "elonmusk",
@@ -329,15 +337,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2126072968761721013#m",
    "ts": 1795730270,
    "id": "2126072968761721013#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "SpaceXAI engineers just dropped an 8-page PDF on making your Grok Bot limit last 3x longer 8 tricks nobody uses, same bots, ZERO new plan: step 1 → Script Watcher - a 10-line script does the checking, your bot wakes only when something changed step 2 → Shared Cache - 1 bot researches once, every other bot reads the file step 3 → Skills per Bot - each bot loads only the skills its job needs step 4 → Duplicate, Don't Drag - same bot, same skills, zero history riding on every reply step 5 → Built-in X Search - 1 call instead of 40 clicks through a browser step 6 → Light Cloud Agents - routine PRs don't need the top model step 7 → Text, Not Screenshots - a page as text costs a fraction of a picture step 8 → One Message, 5 Asks - context loads once, not 5 times the result: same bots, same jobs. the weekly pool that died by tuesday now lasts the whole week this 8-page PDF gives you every trick with a copy-paste template, the watcher script, a before/after week and one prompt that sets up all 8 on your Grok Bot save this before your Grok Bot eats your Cursor limit again ↓ chuplung (@choopyplug1) 20 Grok Bots that cost less to run than 3 most people burn their weekly limit in 3 days. this system gets cheaper with every bot you add → idle is free → pointers, not payloads → code over thinking 20 bots, every prompt inside ↓ Article Grok Bot: More Bots, Less Cost. The 20-Bot System Most bot teams get more expensive with every bot you add. This one is wired the other way around. 20 bots, ",
-   "url": "https://nitter.kareem.one/choopyplug1/status/2126068756430377238#m",
-   "ts": 1795729266,
-   "id": "2126068756430377238#m"
   },
   {
    "handle": "swyx",
