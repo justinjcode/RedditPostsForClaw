@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T04:47:05Z",
+ "generated_at": "2026-11-28T04:56:51Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,15 @@
  "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "You can actually do this Alejandro Sahuquillo (@alsahuquillo) Cybercab & Chill 🍿 Video — https://nitter.kareem.one/alsahuquillo/status/2122474268936323325#m",
+   "url": "https://nitter.kareem.one/elonmusk/status/2126538472508801049#m",
+   "ts": 1795841255,
+   "id": "2126538472508801049#m"
+  },
   {
    "handle": "swyx",
    "name": "swyx",
@@ -175,15 +184,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2126438150314631286#m",
    "ts": 1795817337,
    "id": "2126438150314631286#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Give Grok Bot your hardest problems Larsen Cundric (@larsencc) My dad works at a steel fabrication company in Slovenia. Every order starts as a PDF of technical drawings, and someone has to type every dimension and part table into Excel to work out how much steel to buy. Estimators often spend about an hour per drawing sheet on that. This week they set up @bot in about an hour. Now they drop in the PDF and the spreadsheet with all the calculations comes out. — https://nitter.kareem.one/larsencc/status/2126426739391816118#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2126438008748384711#m",
-   "ts": 1795817303,
-   "id": "2126438008748384711#m"
   },
   {
    "handle": "elonmusk",
