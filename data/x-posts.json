@@ -1,8 +1,9 @@
 {
- "generated_at": "2026-11-28T01:10:14Z",
+ "generated_at": "2026-11-28T01:21:33Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -10,9 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
   {
@@ -127,24 +126,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Tesla super vision Mike P (@mikepat711) Human driver: *fails to find road* FSD V15: lmao Video — https://nitter.kareem.one/mikepat711/status/2126132564813570515#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2126424460639313922#m",
-   "ts": 1795814073,
-   "id": "2126424460639313922#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Upgrades Ben Lang (@benln) Grok Bot team shipped in the last few days: • Flights, hotels, and rental cars bookings in chat • 11% more usage out of each plan • Up to 50% more usage for routines • Google Ads and Google Analytics connectors • Smarter Slack Bots • QuickBooks connector — https://nitter.kareem.one/benln/status/2126317446097207718#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2126424190475501877#m",
-   "ts": 1795814008,
-   "id": "2126424190475501877#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "🚨 FSD v15 Reality View in heavy rain. Windshield completely blurred, yet the visualization stays sharp. Cars, lanes, road markings, everything crystal clear. This is what supervised autonomy looks like when weather turns bad. Europe has plenty of rainy days. Time to let more drivers use this. #FSD #Tesla Video",
    "url": "https://nitter.kareem.one/Rustavi/status/2126413760021618949#m",
    "ts": 1795811521,
@@ -167,6 +148,15 @@
    "url": "https://nitter.kareem.one/piersmorgan/status/2126409036530905107#m",
    "ts": 1795810395,
    "id": "2126409036530905107#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Wanna Race? Vegas Loop versus Surface Drive along Paradise Road in Las Vegas Third part of the “Wanna Race Trilogy” Video",
+   "url": "https://nitter.kareem.one/boringcompany/status/2126388429919543501#m",
+   "ts": 1795805482,
+   "id": "2126388429919543501#m"
   },
   {
    "handle": "swyx",
@@ -203,6 +193,15 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2126338038070485247#m",
    "ts": 1795793468,
    "id": "2126338038070485247#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Women in Afghanistan no longer have the right to have a name. The UN? Silent. The media? Silent. Amnesty International? Silent. Mehdi Hasan? Silent. Ms. Rachel? Silent.",
+   "url": "https://nitter.kareem.one/EYakoby/status/2126331054067765355#m",
+   "ts": 1795791803,
+   "id": "2126331054067765355#m"
   },
   {
    "handle": "swyx",
