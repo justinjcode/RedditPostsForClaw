@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-28T05:11:01Z",
+ "generated_at": "2026-11-28T05:22:57Z",
  "accounts_ok": [
+  "Lingling_Wei",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -10,7 +11,6 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
   "@TheRundownAI: all instances failed"
  ],
  "count": 179,
@@ -95,6 +95,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2126505770988548516#m",
    "ts": 1795833459,
    "id": "2126505770988548516#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "i still think about this ngl",
+   "url": "https://nitter.kareem.one/alpaysh/status/2126502483275251954#m",
+   "ts": 1795832675,
+   "id": "2126502483275251954#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -194,15 +203,6 @@
    "url": "https://nitter.kareem.one/SawyerMerritt/status/2126433262801502577#m",
    "ts": 1795816171,
    "id": "2126433262801502577#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "🚨 FSD v15 Reality View in heavy rain. Windshield completely blurred, yet the visualization stays sharp. Cars, lanes, road markings, everything crystal clear. This is what supervised autonomy looks like when weather turns bad. Europe has plenty of rainy days. Time to let more drivers use this. #FSD #Tesla Video",
-   "url": "https://nitter.kareem.one/Rustavi/status/2126413760021618949#m",
-   "ts": 1795811521,
-   "id": "2126413760021618949#m"
   },
   {
    "handle": "ZichenWanghere",
