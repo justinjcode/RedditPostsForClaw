@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T00:46:56Z",
+ "generated_at": "2026-11-28T01:00:57Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -15,6 +15,15 @@
  ],
  "count": 179,
  "items": [
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Grok fairs quite well in \"high level understanding\" like Gemini Neon. Here's Grok's explaination of Lean's Prop/Type separation, whereas ChatGPT and Claude get lost talking about impredicativity: Tim Sweeney (@TimSweeneyEpic) Gemini Neon is far ahead of anything else publicly available for mathematical and theoretical reasoning in my experience. It intrinsically understands the whole breath of fields I ask it about, vs others rapidly scouring the web to context-cram papers on the topics. — https://nitter.kareem.one/TimSweeneyEpic/status/2125697506436858118#m",
+   "url": "https://nitter.kareem.one/TimSweeneyEpic/status/2126473734290550814#m",
+   "ts": 1795825820,
+   "id": "2126473734290550814#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -122,15 +131,6 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2126415725548228614#m",
    "ts": 1795811990,
    "id": "2126415725548228614#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "When using Grok Bots, it is important to create Bots with specialized roles, just like a human company. You can then have a manager bot oversee and coordinate their work. Just like a human employee, if you overload a single bot with a massive array of work, it will start dropping some of the balls.",
-   "url": "https://nitter.kareem.one/elonmusk/status/2126413886576590925#m",
-   "ts": 1795811552,
-   "id": "2126413886576590925#m"
   },
   {
    "handle": "elonmusk",
