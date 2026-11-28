@@ -1,17 +1,18 @@
 {
- "generated_at": "2026-11-28T01:26:24Z",
+ "generated_at": "2026-11-28T01:40:15Z",
  "accounts_ok": [
   "Lingling_Wei",
-  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
   "simonw",
-  "swyx",
   "thsottiaux"
  ],
- "errors": [],
+ "errors": [
+  "@swyx: all instances failed",
+  "@TheRundownAI: all instances failed"
+ ],
  "count": 179,
  "items": [
   {
@@ -168,6 +169,15 @@
    "id": "2126388429919543501#m"
   },
   {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "“国产AI真的没有瓶颈了！这两只猫咪搞笑真的绝了！笑麻了！” Video",
+   "url": "https://nitter.kareem.one/maxiaohui66/status/2126372356092502429#m",
+   "ts": 1795801650,
+   "id": "2126372356092502429#m"
+  },
+  {
    "handle": "swyx",
    "name": "swyx",
    "author": "@swyx",
@@ -222,6 +232,15 @@
    "id": "2126315113565097985#m"
   },
   {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "People don’t talk about this much. But since it’s Black Friday I figure it’s a good time. Buying stuff is an underrated life hack for improving mental health. Go on eBay. Find some random gadget, poster, tchotchke, whatever. Just get it. Will lift your mood when it arrives.",
+   "url": "https://nitter.kareem.one/TheStalwart/status/2126304356035145893#m",
+   "ts": 1795785437,
+   "id": "2126304356035145893#m"
+  },
+  {
    "handle": "TheRundownAI",
    "name": "The Rundown AI",
    "author": "@TheRundownAI",
@@ -261,6 +280,15 @@
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
+   "text": "命途齐天，一只重伤小猫的翻盘！ Video",
+   "url": "https://nitter.kareem.one/maxiaohui66/status/2126164682914365832#m",
+   "ts": 1795752137,
+   "id": "2126164682914365832#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
    "text": "Hi @thetimes foreign desk editors @DRoseMoS I’d like to recommend myself as your contributor, after finding your strong interest in my work - you almost ripped off my months-long investigation, exactly 7 hours after its published this week: theguardian.com/business/202… Link Chinese police contacted members of WeChat group after they discussed Melbourne vigil for HungryP... Several members of chat set up after alleged murder of Feng Jianming say they or their parents were called by police from their home towns in China theguardian.com",
    "url": "https://nitter.kareem.one/wing_kuang/status/2126136430892376541#m",
    "ts": 1795745401,
@@ -274,6 +302,15 @@
    "url": "https://nitter.kareem.one/zainhas/status/2126134487197340083#m",
    "ts": 1795744938,
    "id": "2126134487197340083#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "东北女婿要退货 #猫咪 #搞笑视频 Video",
+   "url": "https://nitter.kareem.one/zhi_wang52796/status/2126123204326592902#m",
+   "ts": 1795742248,
+   "id": "2126123204326592902#m"
   },
   {
    "handle": "swyx",
@@ -735,15 +772,6 @@
    "id": "2125360889670857142#m"
   },
   {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "every time there’s a debate about whether we should or shouldn’t trust journalism solely based on unfalsifiable sources I go back and check whether this 2018 story has been withdrawn (it hasn’t)",
-   "url": "https://nitter.kareem.one/tianyuf/status/2125322642320187838#m",
-   "ts": 1795551379,
-   "id": "2125322642320187838#m"
-  },
-  {
    "handle": "bcherny",
    "name": "Boris Cherny",
    "author": "@bcherny",
@@ -787,15 +815,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2125268812379365780#m",
    "ts": 1795538545,
    "id": "2125268812379365780#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "BYD travaille avec la France à une implantation industrielle en Moselle ! Une conséquence directe de notre politique économique et de notre action européenne sur l’automobile pour accélérer l’implantation des constructeurs sur le sol européen, annoncée au Mondial de l’Auto en octobre. Rendez-vous le 18 janvier à Choose France pour les annonces détaillées, et tant d’autres ! Jusqu’au bout.",
-   "url": "https://nitter.kareem.one/EmmanuelMacron/status/2125251975277146115#m",
-   "ts": 1795534530,
-   "id": "2125251975277146115#m"
   },
   {
    "handle": "TheRundownAI",
@@ -1014,15 +1033,6 @@
    "id": "2124888611971907826#m"
   },
   {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "I can't believe this actually worked philip lewis (@Phil_Lewis_) A commuter spotted a plan to overhaul the Smithsonian’s National Museum of American History while commuting on a crowded Metro train. They sent ProPublica photos of the list propublica.org/article/dc-me… Link Spotted on the D.C. Metro: Trump Staffer Accidentally Reveals Plan for Smithsonian Overhaul The Trump administration has criticized the Smithsonian’s National Museum of American History for promoting “radical activist ideology.” Now, on a crowded Metro car, a staffer has — inadvertently —... propublica.org — https://nitter.kareem.one/Phil_Lewis_/status/2124847889998565670#m",
-   "url": "https://nitter.kareem.one/canceled4truth/status/2124850082017079622#m",
-   "ts": 1795438712,
-   "id": "2124850082017079622#m"
-  },
-  {
    "handle": "simonw",
    "name": "Simon Willison",
    "author": "@simonw",
@@ -1039,15 +1049,6 @@
    "url": "https://nitter.kareem.one/simonw/status/2124217876777464269#m",
    "ts": 1795287982,
    "id": "2124217876777464269#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Local rules challenge Chinese ride-hailing firms abroad, said Chao Sun of Sunshine Mobility. Germany requires private-hire cars to return to base between bookings; in the UK, only licensed black cabs can take street hails. Platforms must adapt dispatch and fleet operations.",
-   "url": "https://nitter.kareem.one/CCG_org/status/2124043251544215988#m",
-   "ts": 1795246348,
-   "id": "2124043251544215988#m"
   },
   {
    "handle": "thsottiaux",
