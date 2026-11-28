@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-11-28T09:38:59Z",
+ "generated_at": "2026-11-28T09:48:01Z",
  "accounts_ok": [
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -10,8 +11,7 @@
   "thsottiaux"
  ],
  "errors": [
-  "@Lingling_Wei: all instances failed",
-  "@TheRundownAI: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 179,
  "items": [
@@ -68,6 +68,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2126538472508801049#m",
    "ts": 1795841255,
    "id": "2126538472508801049#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "其乐融融晒太阳、突然我看到远处一个黑影鬼鬼祟祟的，大白猫在车底观察我我也观察它，它要来破坏我们这一刻的安宁了",
+   "url": "https://nitter.kareem.one/BadDogEgg/status/2126537976813604967#m",
+   "ts": 1795841137,
+   "id": "2126537976813604967#m"
   },
   {
    "handle": "elonmusk",
@@ -563,15 +572,6 @@
    "url": "https://nitter.kareem.one/TheRundownAI/status/2125915146904039715#m",
    "ts": 1795692643,
    "id": "2125915146904039715#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "An interview in Shenzhen with Ren Zhengfei, Huawei’s founder. Trump Tried to Cripple Huawei. Now It Is Central to China’s A.I. Push. nytimes.com/2026/11/26/busin… via @NYTimes Link Trump Tried to Cripple Huawei. Now It Is Central to China’s A.I. Push. As China’s access to Nvidia’s advanced chips shrinks, Huawei is becoming increasingly indispensable to Beijing despite a wide technological gap with its American rival. nytimes.com",
-   "url": "https://nitter.kareem.one/KeithBradsher/status/2125913291457540255#m",
-   "ts": 1795692200,
-   "id": "2125913291457540255#m"
   },
   {
    "handle": "elonmusk",
