@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-28T05:27:42Z",
+ "generated_at": "2026-11-28T05:38:23Z",
  "accounts_ok": [
-  "Lingling_Wei",
+  "TheRundownAI",
   "ZichenWanghere",
   "bcherny",
   "elonmusk",
@@ -11,7 +11,7 @@
   "thsottiaux"
  ],
  "errors": [
-  "@TheRundownAI: all instances failed"
+  "@Lingling_Wei: all instances failed"
  ],
  "count": 179,
  "items": [
@@ -181,15 +181,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Grok fairs quite well in \"high level understanding\" like Gemini Neon. Here's Grok's explaination of Lean's Prop/Type separation, whereas ChatGPT and Claude get lost talking about impredicativity: Tim Sweeney (@TimSweeneyEpic) Gemini Neon is far ahead of anything else publicly available for mathematical and theoretical reasoning in my experience. It intrinsically understands the whole breath of fields I ask it about, vs others rapidly scouring the web to context-cram papers on the topics. — https://nitter.kareem.one/TimSweeneyEpic/status/2125697506436858118#m",
-   "url": "https://nitter.kareem.one/TimSweeneyEpic/status/2126473734290550814#m",
-   "ts": 1795825820,
-   "id": "2126473734290550814#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "My photo of Starship in @TIME 😍",
    "url": "https://nitter.kareem.one/AJamesMcCarthy/status/2126470613418311899#m",
    "ts": 1795825076,
@@ -338,6 +329,15 @@
    "url": "https://nitter.kareem.one/PaulHuangReport/status/2126218001074753923#m",
    "ts": 1795764849,
    "id": "2126218001074753923#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "一只猫怎么做到又乖巧又邪恶又智慧又有点憨 Video",
+   "url": "https://nitter.kareem.one/Miaowa12138/status/2126207068957016380#m",
+   "ts": 1795762242,
+   "id": "2126207068957016380#m"
   },
   {
    "handle": "swyx",
@@ -583,6 +583,15 @@
    "id": "2125885884507832616#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "New USAID files reveal a Soros-backed group, GDI, was teaching the Biden administration to label stories \"disinformation\" even if they were factually correct. True stories could be flagged as false because they were \"adversarial narratives.\" Then they blacklisted conservative outlets, cutting $200 million in ad revenue. What is this if not the censorship-industrial complex? Chay Bowes (@BowesChay) A massive anti Russian media influence network, funded by USAID is revealed. Evidence, of direct funding of \"Opposition\" media platforms inside Russia, in Europe and the USA. When will the EU be sanctioning the journalists involved? — https://nitter.kareem.one/BowesChay/status/2125650805357158545#m",
+   "url": "https://nitter.kareem.one/BowesChay/status/2125884769246618027#m",
+   "ts": 1795685400,
+   "id": "2125884769246618027#m"
+  },
+  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -622,10 +631,10 @@
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
-   "text": "EXCLUSIVE Xie’s immigration court date moved up to Dec. 3, was arrested with administrative warrant, court filings show dailyprincetonian.com/articl… Link EXCLUSIVE: Xie’s immigration court date moved up to Dec. 3, was arrested with administrative... In her habeas corpus petition, Xie’s lawyers listed her immigration court date as Jan. 18, 2028, but it has now been moved to Dec. 3. Xie’s lawyers also argued that there was no warrant prior to her... dailyprincetonian.com",
-   "url": "https://nitter.kareem.one/princetonian/status/2125814496803373556#m",
-   "ts": 1795668646,
-   "id": "2125814496803373556#m"
+   "text": "Can Washington’s outreach to Moscow reshape the China–U.S.–Russia triangle? Our latest ChinAffairsplus features Gao Cheng and Zhang Likun on the limits of U.S.–Russia rapprochement—and how the Ukraine war is reshaping the international order. chinaffairsplus.com/p/the-in…",
+   "url": "https://nitter.kareem.one/ChenghaoCISS/status/2125780941373419765#m",
+   "ts": 1795660646,
+   "id": "2125780941373419765#m"
   },
   {
    "handle": "swyx",
@@ -635,15 +644,6 @@
    "url": "https://nitter.kareem.one/mrdbourke/status/2125770995097371070#m",
    "ts": 1795658274,
    "id": "2125770995097371070#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "Lo he visto cinco veces. Es una auténtica maravilla. Video",
-   "url": "https://nitter.kareem.one/Domingortiz/status/2125714600394109412#m",
-   "ts": 1795644829,
-   "id": "2125714600394109412#m"
   },
   {
    "handle": "TheRundownAI",
