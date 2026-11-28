@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-11-28T01:58:22Z",
+ "generated_at": "2026-11-28T02:09:59Z",
  "accounts_ok": [
   "Lingling_Wei",
+  "TheRundownAI",
+  "ZichenWanghere",
   "bcherny",
   "elonmusk",
   "realDonaldTrump",
@@ -9,10 +11,7 @@
   "swyx",
   "thsottiaux"
  ],
- "errors": [
-  "@ZichenWanghere: all instances failed",
-  "@TheRundownAI: all instances failed"
- ],
+ "errors": [],
  "count": 179,
  "items": [
   {
@@ -23,6 +22,15 @@
    "url": "https://nitter.kareem.one/elonmusk/status/2126491449722302494#m",
    "ts": 1795830044,
    "id": "2126491449722302494#m"
+  },
+  {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "Even in modern times, prosperity generally is correlated with lower fertility rate This is a very bad thing for civilization Elon Musk (@elonmusk) Birth rate collapse in civilizations throughout history occurs whenever there is a long period of prosperity and no serious external threats. Rome had a very high birth rate during existential wars with Carthage and then very low after they had destroyed all external threats and had several generations of prosperity. — https://nitter.kareem.one/elonmusk/status/2126485536177045967#m",
+   "url": "https://nitter.kareem.one/ArthurMacwaters/status/2126491123036434603#m",
+   "ts": 1795829966,
+   "id": "2126491123036434603#m"
   },
   {
    "handle": "elonmusk",
@@ -127,15 +135,6 @@
    "handle": "elonmusk",
    "name": "Elon Musk",
    "author": "@elonmusk",
-   "text": "Worth trying Mahax (@Mahaximus_) holy sh*t, let Grok Bot watch you work for one week, it will change your life... it finds everything that's wasting your time, then builds the bots that do it all for you. you can save hours every week, without changing a single thing about how you work. here's the prompt, paste it into Grok Bot: — https://nitter.kareem.one/Mahaximus_/status/2126380859775459471#m",
-   "url": "https://nitter.kareem.one/elonmusk/status/2126429365504229400#m",
-   "ts": 1795815242,
-   "id": "2126429365504229400#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
    "text": "My dad works at a steel fabrication company in Slovenia. Every order starts as a PDF of technical drawings, and someone has to type every dimension and part table into Excel to work out how much steel to buy. Estimators often spend about an hour per drawing sheet on that. This week they set up @bot in about an hour. Now they drop in the PDF and the spreadsheet with all the calculations comes out.",
    "url": "https://nitter.kareem.one/larsencc/status/2126426739391816118#m",
    "ts": 1795814616,
@@ -178,6 +177,15 @@
    "id": "2126388429919543501#m"
   },
   {
+   "handle": "elonmusk",
+   "name": "Elon Musk",
+   "author": "@elonmusk",
+   "text": "At the 1976 Summer Olympics in Montreal, reporters asked East German swimming coaches why their teenage female athletes suddenly had deep baritone voices and massive, heavily muscled shoulders. The coaches laughed. They told the press they were in Montreal to swim, not to sing. Newspapers printed the joke and moved on. When an American swimmer pointed out the obvious, that something in the pool wasn't right, sportswriters across the United States turned on her instead. Her name was Shirley Babashoff. She was nineteen years old, from Fountain Valley, California, and she had spent more than half her life preparing for that pool. Since the age of eight, she had trained under coach Mark Schubert at the Mission Viejo Nadadores club, waking up in the dark to swim ten thousand meters a day before and after high school. At the 1972 Munich Games, she had won Olympic gold at fifteen. By 1976, holding multiple national records, she arrived in Montreal as the anchor of the American women's team. Once the races began, the East German women dismantled every expectation in the aquatic center. They won eleven of the thirteen swimming gold medals and shattered world records in nearly every event. Shirley swam the races of her life. She broke her own American records and walked away with four silver medals, posting times that would have guaranteed gold in almost any other era. The American press expected her to smile on the podium and graciously congratulate the swimmers who beat her. Shirley ",
+   "url": "https://nitter.kareem.one/krispykriskring/status/2126383507437998386#m",
+   "ts": 1795804309,
+   "id": "2126383507437998386#m"
+  },
+  {
    "handle": "ZichenWanghere",
    "name": "Zichen Wang",
    "author": "@ZichenWanghere",
@@ -194,15 +202,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2126352854394790172#m",
    "ts": 1795797000,
    "id": "2126352854394790172#m"
-  },
-  {
-   "handle": "elonmusk",
-   "name": "Elon Musk",
-   "author": "@elonmusk",
-   "text": "Transparency builds trust. X Head of Safety @michaelo on open, verifiable safety decisions for brands from his recent Brand & AI Safety Summit keynote. Safety (@Safety) X’s @michaelo shares why platforms should make safety decisions transparent and verifiable for brands in @Adweek : adweek.com/social-marketing/… Link Show Your Work: Platforms Must Make Safety Decisions That Brands Can Verify To build trust, swap the black box for a glass box. adweek.com — https://nitter.kareem.one/Safety/status/2126345925471678582#m",
-   "url": "https://nitter.kareem.one/XBusiness/status/2126352483454992883#m",
-   "ts": 1795796912,
-   "id": "2126352483454992883#m"
   },
   {
    "handle": "TheRundownAI",
@@ -293,6 +292,15 @@
    "url": "https://nitter.kareem.one/maxiaohui66/status/2126164682914365832#m",
    "ts": 1795752137,
    "id": "2126164682914365832#m"
+  },
+  {
+   "handle": "ZichenWanghere",
+   "name": "Zichen Wang",
+   "author": "@ZichenWanghere",
+   "text": "接单咯 Video",
+   "url": "https://nitter.kareem.one/Liuting3r/status/2126154041713701016#m",
+   "ts": 1795749600,
+   "id": "2126154041713701016#m"
   },
   {
    "handle": "ZichenWanghere",
@@ -743,15 +751,6 @@
    "url": "https://nitter.kareem.one/ZichenWanghere/status/2125484769886830901#m",
    "ts": 1795590033,
    "id": "2125484769886830901#m"
-  },
-  {
-   "handle": "ZichenWanghere",
-   "name": "Zichen Wang",
-   "author": "@ZichenWanghere",
-   "text": "两年啦 冰比冰水冰 (@MM64005833) 今天是小野猪猪离开我们两周年的日子，千万记得有空一定要回家看看哦。虽然我们都接受了离别，但却都低估了思念🥰🥰🥰 Video — https://nitter.kareem.one/MM64005833/status/2125403593037738453#m",
-   "url": "https://nitter.kareem.one/ZichenWanghere/status/2125425790343111121#m",
-   "ts": 1795575971,
-   "id": "2125425790343111121#m"
   },
   {
    "handle": "simonw",
