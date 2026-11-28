@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T03:47:46Z",
+ "generated_at": "2026-11-28T03:54:22Z",
  "accounts_ok": [
   "Lingling_Wei",
   "TheRundownAI",
@@ -14,6 +14,24 @@
  "errors": [],
  "count": 179,
  "items": [
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "AI.Engineer (@aiDotEngineer) 1M views for “Let's Open Source the World.” @echelon of @get_artcraft on building open source creative tools with Rust and coding agents, then his plan for a software factory to keep going. Welcome to the club, Brandon. inv.kareem.one/UCL4K36SHp0 — https://nitter.kareem.one/aiDotEngineer/status/2125008996583018609#m",
+   "url": "https://nitter.kareem.one/swyx/status/2126522235334832346#m",
+   "ts": 1795837384,
+   "id": "2126522235334832346#m"
+  },
+  {
+   "handle": "swyx",
+   "name": "swyx",
+   "author": "@swyx",
+   "text": "AI.Engineer (@aiDotEngineer) 1M views. Time to rethink your Claude Code setup. @lydiahallie of @AnthropicAI on what to remove from CLAUDE.md, what permissions should enforce, and how agents can verify their work. Welcome to the club, Lydia. inv.kareem.one/vlfCjWuv4es — https://nitter.kareem.one/aiDotEngineer/status/2125001456105517122#m",
+   "url": "https://nitter.kareem.one/swyx/status/2126522209619624047#m",
+   "ts": 1795837378,
+   "id": "2126522209619624047#m"
+  },
   {
    "handle": "elonmusk",
    "name": "Elon Musk",
@@ -688,24 +706,6 @@
    "url": "https://nitter.kareem.one/swyx/status/2125627500487393285#m",
    "ts": 1795624063,
    "id": "2125627500487393285#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "\"Cost per task is a misleading metric; the scarce resource is human attention, not token cost.\" beware the pareto frontier charts that make you believe you can reduce every model to 2 numbers; it can hide some AWFUL reliability issues👏 Eugene Yan (@eugeneyan) AI benchmarks are more realistic than ever. But they still have bugs (e.g., failing correct work) and mostly measure what's easy, not what matters. Here's my breakdown of 12 public evals: how they're built, where they break, and what to measure instead. eugeneyan.com/writing/public… Link Lessons from 12 Evals: Where They Break and What to Measure Instead How benchmarks are built, the bugs they have, and hot takes on what should change. eugeneyan.com — https://nitter.kareem.one/eugeneyan/status/2125418696248095188#m",
-   "url": "https://nitter.kareem.one/swyx/status/2125627281230205435#m",
-   "ts": 1795624010,
-   "id": "2125627281230205435#m"
-  },
-  {
-   "handle": "swyx",
-   "name": "swyx",
-   "author": "@swyx",
-   "text": "Last commute before Thanksgiving, last podcast 🎧 @latentspacepod with @swyx and the @bfl_ml founding team: → \"The philosophical beauty of working on diffusion models\" → Open weights are all about community → A founding offsite in a French chalet? Always a good idea 🏔️",
-   "url": "https://nitter.kareem.one/ManojMachGen/status/2125620779714748843#m",
-   "ts": 1795622460,
-   "id": "2125620779714748843#m"
   },
   {
    "handle": "simonw",
